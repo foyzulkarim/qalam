@@ -1,0 +1,14 @@
+{
+  "name": "@qalam/shared",
+  "version": "1.0.0",
+  "private": true,
+  "main": "types/index.ts",
+  "types": "types/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

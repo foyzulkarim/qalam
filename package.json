@@ -1,0 +1,34 @@
+{
+  "name": "qalam",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Quran comprehension learning application",
+  "workspaces": [
+    "shared",
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:client": "npm run dev --workspace=client",
+    "dev:server": "npm run dev --workspace=server",
+    "build": "npm run build:shared && npm run build:server && npm run build:client",
+    "build:shared": "npm run build --workspace=shared",
+    "build:client": "npm run build --workspace=client",
+    "build:server": "npm run build --workspace=server",
+    "db:migrate": "npm run db:migrate --workspace=server",
+    "db:push": "npm run db:push --workspace=server",
+    "db:studio": "npm run db:studio --workspace=server",
+    "db:reset": "npm run db:reset --workspace=server",
+    "db:generate": "npm run db:generate --workspace=server",
+    "lint": "npm run lint --workspaces --if-present",
+    "type-check": "npm run type-check --workspaces --if-present"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

@@ -1,0 +1,66 @@
+/* Arabic text styles */
+
+.arabic-text {
+  font-family: var(--font-family-arabic);
+  direction: rtl;
+  text-align: right;
+  line-height: var(--line-height-arabic);
+}
+
+.arabic-verse {
+  font-size: var(--font-size-3xl);
+  color: var(--color-text-primary);
+  padding: var(--spacing-lg);
+  text-align: center;
+  word-spacing: 0.1em;
+  letter-spacing: 0.02em;
+}
+
+.arabic-verse-large {
+  font-size: var(--font-size-4xl);
+}
+
+.arabic-verse-small {
+  font-size: var(--font-size-2xl);
+}
+
+/* Verse reference (e.g., "Al-Fatihah • Verse 2") */
+.verse-reference {
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  text-align: center;
+  direction: ltr;
+  margin-top: var(--spacing-sm);
+}
+
+/* Translation text */
+.translation-text {
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+  direction: ltr;
+  text-align: left;
+}
+
+/* Surah names */
+.surah-name-arabic {
+  font-family: var(--font-family-arabic);
+  font-size: var(--font-size-xl);
+  direction: rtl;
+}
+
+.surah-name-english {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+/* RTL container */
+.rtl-container {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Load Arabic fonts */
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap');

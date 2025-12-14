@@ -1,0 +1,209 @@
+.practice-page {
+  display: flex;
+  justify-content: center;
+  padding-top: var(--spacing-xl);
+}
+
+.practice-card {
+  width: 100%;
+  max-width: 600px;
+  background-color: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  padding: var(--spacing-xl);
+}
+
+.verse-display {
+  text-align: center;
+  padding: var(--spacing-xl) 0;
+  border-bottom: 1px solid var(--color-border-light);
+  margin-bottom: var(--spacing-lg);
+}
+
+.practice-error {
+  background-color: var(--color-error-light);
+  color: #b71c1c;
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.practice-form label {
+  display: block;
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-text-secondary);
+}
+
+.practice-form textarea {
+  margin-bottom: var(--spacing-lg);
+  resize: vertical;
+  min-height: 100px;
+}
+
+.practice-actions {
+  display: flex;
+  gap: var(--spacing-md);
+  justify-content: flex-end;
+}
+
+/* Feedback View */
+.feedback-card {
+  width: 100%;
+  max-width: 600px;
+  background-color: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  padding: var(--spacing-xl);
+}
+
+.feedback-score {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.score-circle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.score-circle.score-excellent {
+  background-color: var(--color-success-light);
+  color: #1b5e20;
+}
+
+.score-circle.score-good {
+  background-color: var(--color-warning-light);
+  color: #e65100;
+}
+
+.score-circle.score-needs-work {
+  background-color: var(--color-error-light);
+  color: #b71c1c;
+}
+
+.score-value {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-bold);
+}
+
+.score-label {
+  font-size: var(--font-size-sm);
+  opacity: 0.8;
+}
+
+.feedback-summary {
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-xl);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.feedback-section {
+  margin-bottom: var(--spacing-lg);
+}
+
+.feedback-section h3 {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--spacing-sm);
+}
+
+.user-response {
+  background-color: var(--color-border-light);
+  padding: var(--spacing-md);
+  border-radius: var(--radius-md);
+  font-style: italic;
+}
+
+.verse-arabic-feedback {
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  margin-bottom: var(--spacing-sm);
+}
+
+.translation-text {
+  text-align: center;
+}
+
+.feedback-correct-title {
+  color: var(--color-success) !important;
+}
+
+.feedback-missed-title {
+  color: var(--color-warning) !important;
+}
+
+.feedback-list {
+  list-style: none;
+  padding: 0;
+}
+
+.feedback-item {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--spacing-xs);
+}
+
+.feedback-item.correct {
+  background-color: rgba(76, 175, 80, 0.1);
+  border-left: 3px solid var(--color-success);
+}
+
+.feedback-item.missed {
+  background-color: rgba(255, 152, 0, 0.1);
+  border-left: 3px solid var(--color-warning);
+}
+
+.feedback-insight {
+  background-color: var(--color-primary);
+  color: var(--color-text-inverse);
+  padding: var(--spacing-lg);
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--spacing-xl);
+}
+
+.feedback-insight h3 {
+  color: var(--color-text-inverse);
+  opacity: 0.9;
+  margin-bottom: var(--spacing-sm);
+}
+
+.feedback-insight p {
+  line-height: var(--line-height-relaxed);
+}
+
+.feedback-actions {
+  display: flex;
+  gap: var(--spacing-md);
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .practice-actions {
+    flex-direction: column-reverse;
+  }
+
+  .practice-actions .btn {
+    width: 100%;
+  }
+
+  .feedback-actions {
+    flex-direction: column;
+  }
+
+  .feedback-actions .btn {
+    width: 100%;
+  }
+}

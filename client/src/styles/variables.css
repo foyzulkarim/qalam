@@ -1,0 +1,94 @@
+:root {
+  /* Colors */
+  --color-primary: #1a5f7a;
+  --color-primary-light: #2d7d9a;
+  --color-primary-dark: #134759;
+
+  --color-secondary: #57837b;
+  --color-secondary-light: #6a9990;
+
+  --color-accent: #c69749;
+  --color-accent-light: #d4a85c;
+
+  --color-success: #4caf50;
+  --color-success-light: #81c784;
+  --color-warning: #ff9800;
+  --color-warning-light: #ffb74d;
+  --color-error: #f44336;
+  --color-error-light: #e57373;
+
+  --color-background: #faf9f6;
+  --color-surface: #ffffff;
+  --color-surface-elevated: #ffffff;
+
+  --color-text-primary: #2c3e50;
+  --color-text-secondary: #5a6c7d;
+  --color-text-muted: #8896a4;
+  --color-text-inverse: #ffffff;
+
+  --color-border: #e0e0e0;
+  --color-border-light: #f0f0f0;
+
+  /* Typography */
+  --font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-family-arabic: 'Amiri', 'Scheherazade New', 'Traditional Arabic', serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+  --line-height-arabic: 2;
+
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+  --spacing-3xl: 4rem;
+
+  /* Border radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.15);
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 200ms ease;
+  --transition-slow: 300ms ease;
+
+  /* Layout */
+  --max-width-content: 800px;
+  --max-width-page: 1200px;
+  --header-height: 64px;
+  --nav-width: 240px;
+}
+
+/* Dark mode (future) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Can add dark mode colors here later */
+  }
+}

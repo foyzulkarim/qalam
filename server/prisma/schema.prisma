@@ -1,0 +1,83 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ============================================================================
+// USER
+// ============================================================================
+
+model User {
+  id                   Int       @id @default(autoincrement())
+  email                String    @unique
+  passwordHash         String
+  name                 String
+
+  // Preferences
+  preferredTranslation String    @default("sahih-international")
+
+  // Timestamps
+  createdAt            DateTime  @default(now())
+  updatedAt            DateTime  @updatedAt
+  lastLoginAt          DateTime?
+
+  // Relations
+  attempts             Attempt[]
+
+  @@map("users")
+}
+
+// ============================================================================
+// ATTEMPT
+// ============================================================================
+
+model Attempt {
+  id                 Int      @id @default(autoincrement())
+
+  // User relation
+  userId             Int
+  user               User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  // Verse identification
+  verseId            String   // Format: "1:1", "2:255", etc.
+  surahId            Int      // Extracted from verseId for querying
+  verseNumber        Int      // Extracted from verseId for querying
+
+  // What was shown to user
+  arabicText         String
+  correctTranslation String
+
+  // User's response
+  userInput          String   // What user typed (empty string if skipped)
+  skipped            Boolean  @default(false)
+
+  // LLM evaluation results
+  score              Int      // 0-100
+  feedbackSummary    String
+  feedbackCorrect    String   // JSON array stored as string
+  feedbackMissed     String   // JSON array stored as string
+  feedbackInsight    String?  // Nullable - teaching moment
+
+  // LLM metadata (for debugging and cost tracking)
+  llmModel           String
+  llmProvider        String   // 'ollama' or 'together'
+  llmPromptTokens    Int?
+  llmCompletionTokens Int?
+  llmLatencyMs       Int?
+
+  // Timestamp
+  createdAt          DateTime @default(now())
+
+  // Indexes for common queries
+  @@index([userId])
+  @@index([verseId])
+  @@index([userId, verseId])
+  @@index([userId, createdAt(sort: Desc)])
+  @@index([surahId])
+
+  @@map("attempts")
+}
