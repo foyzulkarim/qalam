@@ -29,7 +29,8 @@ The learning model is **verse-centric**: users build a relationship with individ
 ### Backend
 - **Runtime:** Node.js 20+
 - **Framework:** Express.js with TypeScript
-- **Database:** SQLite 3 (via better-sqlite3)
+- **Database:** SQLite 3 (via Prisma ORM)
+- **ORM:** Prisma (type-safe database client with auto-generated types)
 - **Authentication:** JWT (access tokens only, no refresh tokens for simplicity)
 - **LLM Integration:** Custom provider abstraction (Ollama for dev, Together AI for prod)
 
@@ -89,13 +90,14 @@ qalam/
 │   └── package.json
 │
 ├── server/                      # Node.js backend
+│   ├── prisma/
+│   │   ├── schema.prisma        # Prisma schema definition
+│   │   └── migrations/          # Prisma migrations
 │   ├── src/
 │   │   ├── config/
-│   │   │   ├── index.ts         # Environment config
-│   │   │   └── database.ts      # SQLite setup
+│   │   │   └── index.ts         # Environment config
 │   │   ├── db/
-│   │   │   ├── schema.sql       # Database schema
-│   │   │   └── migrations/      # Future migrations
+│   │   │   └── client.ts        # Prisma client instance
 │   │   ├── middleware/
 │   │   │   ├── auth.ts          # JWT verification
 │   │   │   ├── errorHandler.ts
@@ -361,35 +363,40 @@ The system tracks learning at the verse level. Each attempt is stored permanentl
 - What feedback they received
 - When it happened
 
-### Progress Queries
+### Progress Queries (using Prisma)
 
 **Dashboard Stats:**
-```sql
-SELECT 
-  COUNT(*) as totalAttempts,
-  COUNT(DISTINCT verseId) as uniqueVerses,
-  AVG(score) as averageScore,
-  COUNT(DISTINCT DATE(createdAt)) as daysActive
-FROM attempts 
-WHERE userId = ?
+```typescript
+const stats = await prisma.attempt.aggregate({
+  where: { userId },
+  _count: true,
+  _avg: { score: true },
+});
+
+const uniqueVerses = await prisma.attempt.groupBy({
+  by: ['verseId'],
+  where: { userId },
+});
 ```
 
 **Verse History:**
-```sql
-SELECT * FROM attempts 
-WHERE userId = ? AND verseId = ? 
-ORDER BY createdAt DESC
+```typescript
+const attempts = await prisma.attempt.findMany({
+  where: { userId, verseId },
+  orderBy: { createdAt: 'desc' },
+});
 ```
 
 **Recent Activity:**
-```sql
-SELECT * FROM attempts 
-WHERE userId = ? 
-ORDER BY createdAt DESC 
-LIMIT 10
+```typescript
+const recentAttempts = await prisma.attempt.findMany({
+  where: { userId },
+  orderBy: { createdAt: 'desc' },
+  take: 10,
+});
 ```
 
-No denormalized caching, no complex aggregations. We query attempts table directly. SQLite is fast enough for this.
+No denormalized caching, no complex aggregations. Prisma handles query generation efficiently. SQLite is fast enough for this.
 
 ---
 
@@ -521,8 +528,8 @@ npm install
 # Copy environment template
 cp .env.example .env
 
-# Initialize database
-npm run db:init
+# Generate Prisma client and run migrations
+npm run db:migrate
 
 # Start both client and server
 npm run dev
@@ -545,9 +552,12 @@ npm run build            # Build both
 npm run build:client     # Build frontend only
 npm run build:server     # Build backend only
 
-# Database
-npm run db:init          # Create tables from schema
-npm run db:reset         # Drop and recreate database (destructive!)
+# Database (Prisma)
+npm run db:migrate       # Run migrations and generate client
+npm run db:push          # Push schema changes (dev only, no migration)
+npm run db:studio        # Open Prisma Studio GUI
+npm run db:reset         # Reset database and run migrations (destructive!)
+npm run db:generate      # Regenerate Prisma client
 
 # Utilities
 npm run lint             # Lint all TypeScript
@@ -654,7 +664,7 @@ But start simple. SQLite on a single VPS is perfect for launch and early growth.
 
 - Passwords hashed with bcrypt (10 rounds)
 - JWT tokens with 7-day expiry
-- SQL injection prevented by parameterized queries (better-sqlite3)
+- SQL injection prevented by Prisma's parameterized queries
 - CORS configured for production domain only
 - HTTPS enforced in production (Nginx + Let's Encrypt)
 
@@ -704,7 +714,7 @@ Using Playwright to test critical flows:
 
 ## Next Steps
 
-1. **Database Schema**: Define SQLite tables (see DATABASE_SCHEMA.md)
+1. **Database Schema**: Define Prisma schema (see DATABASE_SCHEMA.md)
 2. **API Specification**: Define all endpoints (see API_SPECIFICATION.md)
 3. **Shared Types**: Define TypeScript interfaces (see SHARED_TYPES.md)
 4. **LLM Evaluation**: Design the runtime comparison prompt (see LLM_EVALUATION.md)

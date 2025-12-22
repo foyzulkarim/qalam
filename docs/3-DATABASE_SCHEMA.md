@@ -1,492 +1,388 @@
-# Qalam: Database Schema (SQLite)
+# Qalam: Database Schema (Prisma + SQLite)
 
-**Version:** 2.0  
-**Database:** SQLite 3  
-**Purpose:** Define all tables, indexes, and relationships
+**Version:** 2.0
+**ORM:** Prisma
+**Database:** SQLite 3
+**Purpose:** Define all models, relations, and database access patterns
 
 ---
 
 ## Overview
 
-Qalam uses SQLite as its database. The schema is designed around three core entities:
+Qalam uses **Prisma ORM** with SQLite as its database. Prisma provides:
 
-1. **Users** - Account information
-2. **Attempts** - Every verse practice attempt (the core learning data)
-3. **Verse metadata** comes from JSON files, not the database
+- **Type-safe database client** - Auto-generated TypeScript types from schema
+- **Declarative schema** - Define models in `schema.prisma`, not raw SQL
+- **Migration management** - Track schema changes with versioned migrations
+- **Prisma Studio** - Free GUI to browse and edit data during development
 
-There are no sessions, no progress caches, no complex denormalization. We keep it simple and query the attempts table directly when we need statistics.
+The schema is designed around two core entities:
+
+1. **User** - Account information
+2. **Attempt** - Every verse practice attempt (the core learning data)
+
+Verse metadata comes from JSON files, not the database.
 
 ---
 
-## Schema Initialization
+## Prisma Schema
 
-```sql
--- server/src/db/schema.sql
+```prisma
+// server/prisma/schema.prisma
 
-PRAGMA foreign_keys = ON;
-PRAGMA journal_mode = WAL;
+generator client {
+  provider = "prisma-client-js"
+}
 
--- ============================================================================
--- USERS
--- ============================================================================
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
 
-CREATE TABLE users (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  email TEXT NOT NULL UNIQUE COLLATE NOCASE,
-  passwordHash TEXT NOT NULL,
-  name TEXT NOT NULL,
-  
-  -- Preferences
-  preferredTranslation TEXT DEFAULT 'sahih-international',
-  
-  -- Timestamps
-  createdAt TEXT NOT NULL DEFAULT (datetime('now')),
-  updatedAt TEXT NOT NULL DEFAULT (datetime('now')),
-  lastLoginAt TEXT
-);
+// ============================================================================
+// USER
+// ============================================================================
 
-CREATE INDEX idx_users_email ON users(email);
+model User {
+  id                    Int       @id @default(autoincrement())
+  email                 String    @unique
+  passwordHash          String
+  name                  String
 
--- ============================================================================
--- ATTEMPTS
--- ============================================================================
+  // Preferences
+  preferredTranslation  String    @default("sahih-international")
 
-CREATE TABLE attempts (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  userId INTEGER NOT NULL,
-  
-  -- Verse identification
-  verseId TEXT NOT NULL,              -- Format: "1:1", "2:255", etc.
-  surahId INTEGER NOT NULL,           -- Extracted from verseId for querying
-  verseNumber INTEGER NOT NULL,       -- Extracted from verseId for querying
-  
-  -- What was shown to user
-  arabicText TEXT NOT NULL,
-  correctTranslation TEXT NOT NULL,
-  
-  -- User's response
-  userInput TEXT NOT NULL,            -- What user typed (empty string if skipped)
-  skipped INTEGER NOT NULL DEFAULT 0, -- 1 if user clicked "I don't know"
-  
-  -- LLM evaluation results
-  score INTEGER NOT NULL,             -- 0-100
-  feedbackSummary TEXT NOT NULL,
-  feedbackCorrect TEXT NOT NULL,      -- JSON array of strings
-  feedbackMissed TEXT NOT NULL,       -- JSON array of strings
-  feedbackInsight TEXT,               -- Nullable - teaching moment
-  
-  -- LLM metadata (for debugging and cost tracking)
-  llmModel TEXT NOT NULL,
-  llmProvider TEXT NOT NULL,          -- 'ollama' or 'together'
-  llmPromptTokens INTEGER,
-  llmCompletionTokens INTEGER,
-  llmLatencyMs INTEGER,
-  
-  -- Timestamp
-  createdAt TEXT NOT NULL DEFAULT (datetime('now')),
-  
-  FOREIGN KEY (userId) REFERENCES users(id) ON DELETE CASCADE
-);
+  // Timestamps
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+  lastLoginAt           DateTime?
 
--- Indexes for common queries
-CREATE INDEX idx_attempts_userId ON attempts(userId);
-CREATE INDEX idx_attempts_verseId ON attempts(verseId);
-CREATE INDEX idx_attempts_userId_verseId ON attempts(userId, verseId);
-CREATE INDEX idx_attempts_userId_createdAt ON attempts(userId, createdAt DESC);
-CREATE INDEX idx_attempts_surahId ON attempts(surahId);
+  // Relations
+  attempts              Attempt[]
 
--- ============================================================================
--- TRIGGERS
--- ============================================================================
+  @@map("users")
+}
 
--- Auto-update users.updatedAt on any update
-CREATE TRIGGER users_updated_at 
-AFTER UPDATE ON users
-BEGIN
-  UPDATE users SET updatedAt = datetime('now') WHERE id = NEW.id;
-END;
+// ============================================================================
+// ATTEMPT
+// ============================================================================
 
--- Auto-extract surahId and verseNumber from verseId when inserting attempt
-CREATE TRIGGER attempts_extract_verse_parts
-BEFORE INSERT ON attempts
-BEGIN
-  SELECT CASE
-    WHEN NEW.verseId NOT LIKE '%:%' THEN
-      RAISE(ABORT, 'verseId must be in format "surahId:verseNumber"')
-  END;
-  
-  -- Extract surahId and verseNumber from verseId
-  -- This allows us to query by surah efficiently
-END;
+model Attempt {
+  id                    Int       @id @default(autoincrement())
 
--- Note: The trigger above is a safeguard. In practice, the application
--- will set surahId and verseNumber explicitly when creating attempts.
+  // User relation
+  userId                Int
+  user                  User      @relation(fields: [userId], references: [id], onDelete: Cascade)
 
--- ============================================================================
--- VIEWS (for common queries)
--- ============================================================================
+  // Verse identification
+  verseId               String    // Format: "1:1", "2:255", etc.
+  surahId               Int       // Extracted from verseId for querying
+  verseNumber           Int       // Extracted from verseId for querying
 
--- User statistics (computed on demand, not cached)
-CREATE VIEW user_stats AS
-SELECT 
-  userId,
-  COUNT(*) as totalAttempts,
-  COUNT(DISTINCT verseId) as uniqueVerses,
-  AVG(score) as averageScore,
-  MAX(createdAt) as lastAttemptAt,
-  COUNT(DISTINCT DATE(createdAt)) as daysActive
-FROM attempts
-GROUP BY userId;
+  // What was shown to user
+  arabicText            String
+  correctTranslation    String
 
--- Verse history for a user (most recent attempts first)
--- Usage: SELECT * FROM verse_history WHERE userId = ? AND verseId = ?
-CREATE VIEW verse_history AS
-SELECT 
-  id,
-  userId,
-  verseId,
-  userInput,
-  skipped,
-  score,
-  feedbackSummary,
-  feedbackCorrect,
-  feedbackMissed,
-  feedbackInsight,
-  createdAt
-FROM attempts
-ORDER BY createdAt DESC;
+  // User's response
+  userInput             String    // What user typed (empty string if skipped)
+  skipped               Boolean   @default(false)
 
--- Recent activity across all verses for a user
-CREATE VIEW recent_activity AS
-SELECT 
-  userId,
-  verseId,
-  score,
-  createdAt,
-  ROW_NUMBER() OVER (PARTITION BY userId ORDER BY createdAt DESC) as rowNum
-FROM attempts;
+  // LLM evaluation results
+  score                 Int       // 0-100
+  feedbackSummary       String
+  feedbackCorrect       String    // JSON array stored as string
+  feedbackMissed        String    // JSON array stored as string
+  feedbackInsight       String?   // Nullable - teaching moment
 
--- ============================================================================
--- SAMPLE DATA (for development)
--- ============================================================================
+  // LLM metadata (for debugging and cost tracking)
+  llmModel              String
+  llmProvider           String    // 'ollama' or 'together'
+  llmPromptTokens       Int?
+  llmCompletionTokens   Int?
+  llmLatencyMs          Int?
 
--- Create a test user
--- Password is "password123" hashed with bcrypt (10 rounds)
-INSERT INTO users (email, name, passwordHash) VALUES 
-  ('test@example.com', 'Test User', '$2b$10$XgKvMzL/LqF1XqQYWZEzHOqQqXKZQ4mM5YJKqQGXcLvXnYKZQGXcL');
+  // Timestamp
+  createdAt             DateTime  @default(now())
 
--- ============================================================================
--- UTILITY QUERIES
--- ============================================================================
+  // Indexes for common queries
+  @@index([userId])
+  @@index([verseId])
+  @@index([userId, verseId])
+  @@index([userId, createdAt(sort: Desc)])
+  @@index([surahId])
 
--- Get next verse to practice for a user (sequential from beginning)
--- This finds the first verse in sequential order that the user hasn't attempted yet
--- 
--- Implementation note: This is better done in application code where we have
--- access to the verse count per surah. Here's the logic:
--- 
--- 1. Get all verseIds user has attempted: SELECT DISTINCT verseId FROM attempts WHERE userId = ?
--- 2. Loop through verses sequentially (1:1, 1:2, ... 1:7, 2:1, 2:2, ...)
--- 3. Return first verse not in attempted list
--- 
--- If all available verses attempted, return first verse of next surah
-
--- Get verses that need review (score < 70 on last attempt)
-WITH last_attempts AS (
-  SELECT 
-    userId,
-    verseId,
-    score,
-    ROW_NUMBER() OVER (PARTITION BY userId, verseId ORDER BY createdAt DESC) as rn
-  FROM attempts
-)
-SELECT userId, verseId, score
-FROM last_attempts
-WHERE rn = 1 AND score < 70;
-
--- Get user's learning journey with a specific verse
-SELECT 
-  id,
-  userInput,
-  score,
-  feedbackSummary,
-  createdAt
-FROM attempts
-WHERE userId = ? AND verseId = ?
-ORDER BY createdAt ASC;
-
--- Get daily practice streak
-WITH daily_practice AS (
-  SELECT DISTINCT DATE(createdAt) as practiceDate
-  FROM attempts
-  WHERE userId = ?
-  ORDER BY practiceDate DESC
-)
-SELECT COUNT(*) as currentStreak
-FROM daily_practice
-WHERE practiceDate >= DATE('now', '-' || 
-  (SELECT COUNT(*) FROM daily_practice dp2 
-   WHERE dp2.practiceDate > DATE('now')) || ' days');
-
--- Note: Streak calculation is complex in SQL. Better to do in application code.
-
--- ============================================================================
--- BACKUP AND RESTORE
--- ============================================================================
-
--- Backup database (from command line)
--- sqlite3 qalam.db ".backup qalam-backup.db"
-
--- Restore from backup
--- cp qalam-backup.db qalam.db
-
--- Export to SQL dump
--- sqlite3 qalam.db .dump > qalam-dump.sql
-
--- ============================================================================
--- PERFORMANCE NOTES
--- ============================================================================
-
--- SQLite with WAL mode can handle:
--- - Thousands of reads per second
--- - Hundreds of writes per second
--- 
--- This is more than sufficient for:
--- - Hundreds of concurrent users
--- - Verse evaluation requests (which are rate-limited by LLM anyway)
--- 
--- If you exceed these limits, migrate to PostgreSQL:
--- - Schema translates directly (just change AUTO_INCREMENT to SERIAL)
--- - Keep same query patterns
--- - Gain horizontal scalability
-
--- ============================================================================
--- MIGRATION NOTES
--- ============================================================================
-
--- For future schema changes, create migration files:
--- server/src/db/migrations/001_add_column.sql
--- server/src/db/migrations/002_add_index.sql
--- 
--- Migration system:
--- 1. Create migrations table to track applied migrations
--- 2. Run migrations in order on app startup
--- 3. Never edit this file after initial deployment
-
-CREATE TABLE IF NOT EXISTS migrations (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  name TEXT NOT NULL UNIQUE,
-  appliedAt TEXT NOT NULL DEFAULT (datetime('now'))
-);
+  @@map("attempts")
+}
 ```
 
 ---
 
-## Data Types Explained
+## Prisma Client Setup
 
-### SQLite Type Mapping
-
-SQLite has only five storage classes: NULL, INTEGER, TEXT, REAL, BLOB. Here's how we map our types:
-
-**INTEGER:**
-- `id` columns (auto-incrementing primary keys)
-- `score` (0-100)
-- Token counts
-- Latency measurements
-- Boolean flags (0 or 1)
-
-**TEXT:**
-- Email, name, passwords
-- Arabic text, translations
-- User input
-- JSON arrays (feedbackCorrect, feedbackMissed)
-- ISO 8601 timestamps (e.g., "2024-12-14T10:30:00Z")
-
-**Why TEXT for timestamps instead of INTEGER?**
-
-SQLite can store timestamps as:
-1. INTEGER (Unix epoch seconds)
-2. TEXT (ISO 8601 strings)
-3. REAL (Julian day numbers)
-
-We use TEXT because:
-- Human-readable in database tools
-- Easy to work with in JavaScript (native Date support)
-- No timezone confusion (always store UTC)
-- SQLite's datetime functions work with TEXT format
-
----
-
-## JSON Storage in TEXT Fields
-
-SQLite doesn't have a native JSON type (unlike PostgreSQL). We store JSON as TEXT:
-
-```sql
-feedbackCorrect TEXT NOT NULL  -- Stores: ["praise to Allah", "Lord"]
-```
-
-**In application code:**
 ```typescript
-// When inserting
-const feedbackCorrect = JSON.stringify(['praise to Allah', 'Lord']);
+// server/src/db/client.ts
 
-// When reading
-const parsed = JSON.parse(row.feedbackCorrect) as string[];
-```
+import { PrismaClient } from '@prisma/client';
 
-**Why not use a separate table for feedback items?**
+// Singleton pattern for Prisma Client
+const globalForPrisma = globalThis as unknown as {
+  prisma: PrismaClient | undefined;
+};
 
-We store feedback as JSON rather than normalized tables because:
-1. Feedback is always read as a unit (never queried individually)
-2. Simpler schema (fewer joins)
-3. Matches LLM output format naturally
-4. No performance penalty for this use case
+export const prisma =
+  globalForPrisma.prisma ??
+  new PrismaClient({
+    log: process.env.NODE_ENV === 'development'
+      ? ['query', 'error', 'warn']
+      : ['error'],
+  });
 
-If we later need to search within feedback (e.g., "find all attempts where feedback mentioned 'root ح-م-د'"), we can use SQLite's `json_extract()` function or migrate to PostgreSQL with jsonb.
+if (process.env.NODE_ENV !== 'production') {
+  globalForPrisma.prisma = prisma;
+}
 
----
-
-## Index Strategy
-
-Our indexes are designed for these common queries:
-
-**By User:**
-```sql
--- Dashboard: Get user's stats
-SELECT COUNT(*), AVG(score) FROM attempts WHERE userId = ?;
--- Uses: idx_attempts_userId
-```
-
-**By Verse:**
-```sql
--- Verse history: All attempts for this verse by this user
-SELECT * FROM attempts WHERE userId = ? AND verseId = ? ORDER BY createdAt DESC;
--- Uses: idx_attempts_userId_verseId
-```
-
-**Recent Activity:**
-```sql
--- Latest 10 attempts
-SELECT * FROM attempts WHERE userId = ? ORDER BY createdAt DESC LIMIT 10;
--- Uses: idx_attempts_userId_createdAt
-```
-
-**By Surah:**
-```sql
--- All attempts for verses in Al-Fatihah
-SELECT * FROM attempts WHERE userId = ? AND surahId = 1;
--- Uses: idx_attempts_surahId
+// Graceful shutdown
+process.on('beforeExit', async () => {
+  await prisma.$disconnect();
+});
 ```
 
 ---
 
-## Foreign Key Constraints
+## Environment Configuration
 
-```sql
-FOREIGN KEY (userId) REFERENCES users(id) ON DELETE CASCADE
+```bash
+# .env
+DATABASE_URL="file:./data/qalam.db"
+
+# Production
+# DATABASE_URL="file:/var/www/qalam/data/qalam.db"
 ```
-
-**ON DELETE CASCADE** means:
-- If a user is deleted, all their attempts are automatically deleted
-- This maintains referential integrity
-- Prevents orphaned data
-
-**When is a user deleted?**
-
-Only when they explicitly request account deletion (GDPR compliance). This is a rare operation, so CASCADE is safe.
 
 ---
 
-## Sample Queries by Use Case
+## Database Operations
 
 ### User Registration
 
-```sql
-INSERT INTO users (email, passwordHash, name)
-VALUES (?, ?, ?);
+```typescript
+const user = await prisma.user.create({
+  data: {
+    email: 'user@example.com',
+    passwordHash: hashedPassword,
+    name: 'John Doe',
+  },
+});
 ```
 
 ### User Login
 
-```sql
-SELECT id, email, passwordHash, name 
-FROM users 
-WHERE email = ?;
+```typescript
+const user = await prisma.user.findUnique({
+  where: { email: 'user@example.com' },
+});
+```
+
+### Update Last Login
+
+```typescript
+await prisma.user.update({
+  where: { id: userId },
+  data: { lastLoginAt: new Date() },
+});
 ```
 
 ### Store Verse Attempt
 
-```sql
-INSERT INTO attempts (
-  userId, verseId, surahId, verseNumber,
-  arabicText, correctTranslation,
-  userInput, skipped,
-  score, feedbackSummary, feedbackCorrect, feedbackMissed, feedbackInsight,
-  llmModel, llmProvider, llmPromptTokens, llmCompletionTokens, llmLatencyMs
-) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+```typescript
+const attempt = await prisma.attempt.create({
+  data: {
+    userId,
+    verseId: '1:2',
+    surahId: 1,
+    verseNumber: 2,
+    arabicText: '...',
+    correctTranslation: '...',
+    userInput: 'All praise belongs to Allah...',
+    skipped: false,
+    score: 85,
+    feedbackSummary: 'Excellent understanding!',
+    feedbackCorrect: JSON.stringify(['praise to Allah', 'Lord']),
+    feedbackMissed: JSON.stringify(['specific nuance']),
+    feedbackInsight: 'The root ح-م-د means praise...',
+    llmModel: 'llama3.2',
+    llmProvider: 'ollama',
+    llmPromptTokens: 450,
+    llmCompletionTokens: 120,
+    llmLatencyMs: 1250,
+  },
+});
 ```
 
 ### Get Dashboard Stats
 
-```sql
-SELECT 
-  COUNT(*) as totalAttempts,
-  COUNT(DISTINCT verseId) as uniqueVerses,
-  AVG(score) as averageScore,
-  MAX(createdAt) as lastAttemptAt
-FROM attempts
-WHERE userId = ?;
+```typescript
+const [totalAttempts, uniqueVerses, avgScore, lastAttempt] = await Promise.all([
+  prisma.attempt.count({ where: { userId } }),
+  prisma.attempt.groupBy({
+    by: ['verseId'],
+    where: { userId },
+  }).then(groups => groups.length),
+  prisma.attempt.aggregate({
+    where: { userId },
+    _avg: { score: true },
+  }).then(result => result._avg.score ?? 0),
+  prisma.attempt.findFirst({
+    where: { userId },
+    orderBy: { createdAt: 'desc' },
+    select: { createdAt: true },
+  }),
+]);
+
+const stats = {
+  totalAttempts,
+  uniqueVerses,
+  averageScore: avgScore,
+  lastAttemptAt: lastAttempt?.createdAt ?? null,
+};
 ```
 
 ### Get Verse Learning History
 
-```sql
-SELECT 
-  id, userInput, score, 
-  feedbackSummary, feedbackCorrect, feedbackMissed, feedbackInsight,
-  createdAt
-FROM attempts
-WHERE userId = ? AND verseId = ?
-ORDER BY createdAt ASC;
+```typescript
+const attempts = await prisma.attempt.findMany({
+  where: { userId, verseId },
+  orderBy: { createdAt: 'asc' },
+  select: {
+    id: true,
+    userInput: true,
+    score: true,
+    feedbackSummary: true,
+    feedbackCorrect: true,
+    feedbackMissed: true,
+    feedbackInsight: true,
+    createdAt: true,
+  },
+});
+
+// Parse JSON fields
+const parsed = attempts.map(a => ({
+  ...a,
+  feedbackCorrect: JSON.parse(a.feedbackCorrect),
+  feedbackMissed: JSON.parse(a.feedbackMissed),
+}));
 ```
 
 ### Get Recent Activity
 
-```sql
-SELECT 
-  verseId, score, createdAt
-FROM attempts
-WHERE userId = ?
-ORDER BY createdAt DESC
-LIMIT 20;
+```typescript
+const recentAttempts = await prisma.attempt.findMany({
+  where: { userId },
+  orderBy: { createdAt: 'desc' },
+  take: 20,
+  select: {
+    verseId: true,
+    score: true,
+    createdAt: true,
+  },
+});
 ```
 
 ### Get Surah Progress
 
-```sql
-SELECT 
-  COUNT(DISTINCT verseId) as versesAttempted,
-  AVG(score) as averageScore,
-  MAX(createdAt) as lastAttemptedAt
-FROM attempts
-WHERE userId = ? AND surahId = ?;
+```typescript
+const attempts = await prisma.attempt.findMany({
+  where: { userId, surahId },
+});
+
+const stats = {
+  versesAttempted: new Set(attempts.map(a => a.verseId)).size,
+  averageScore: attempts.length > 0
+    ? attempts.reduce((sum, a) => sum + a.score, 0) / attempts.length
+    : 0,
+  lastAttemptedAt: attempts.length > 0
+    ? attempts.sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime())[0].createdAt
+    : null,
+};
 ```
 
 ### Find Verses Needing Review
 
-```sql
--- Get last attempt for each verse, filter by score < 70
-WITH last_attempts AS (
-  SELECT 
-    verseId,
-    score,
-    ROW_NUMBER() OVER (PARTITION BY verseId ORDER BY createdAt DESC) as rn
-  FROM attempts
-  WHERE userId = ?
-)
-SELECT verseId, score
-FROM last_attempts
-WHERE rn = 1 AND score < 70;
+```typescript
+// Get the latest attempt for each verse, filter by score < 70
+const latestAttempts = await prisma.$queryRaw<Array<{ verseId: string; score: number }>>`
+  SELECT verseId, score
+  FROM (
+    SELECT verseId, score,
+           ROW_NUMBER() OVER (PARTITION BY verseId ORDER BY createdAt DESC) as rn
+    FROM attempts
+    WHERE userId = ${userId}
+  )
+  WHERE rn = 1 AND score < 70
+`;
+```
+
+---
+
+## JSON Fields
+
+Prisma doesn't have native JSON support for SQLite, so we store JSON as strings:
+
+```typescript
+// When creating
+await prisma.attempt.create({
+  data: {
+    // ...
+    feedbackCorrect: JSON.stringify(['item1', 'item2']),
+    feedbackMissed: JSON.stringify(['missed1']),
+  },
+});
+
+// When reading
+const attempt = await prisma.attempt.findUnique({ where: { id } });
+const correct = JSON.parse(attempt.feedbackCorrect) as string[];
+```
+
+**Why not normalize into separate tables?**
+- Feedback is always read as a unit (never queried individually)
+- Simpler schema (fewer joins)
+- Matches LLM output format naturally
+
+---
+
+## Migrations
+
+Prisma migrations are stored in `server/prisma/migrations/` and tracked in version control.
+
+### Create a Migration
+
+```bash
+# After changing schema.prisma
+npx prisma migrate dev --name add_new_field
+```
+
+### Apply Migrations (Production)
+
+```bash
+npx prisma migrate deploy
+```
+
+### Reset Database (Development)
+
+```bash
+npx prisma migrate reset
+```
+
+### Generate Client Without Migration
+
+```bash
+npx prisma generate
+```
+
+### View Database with Prisma Studio
+
+```bash
+npx prisma studio
 ```
 
 ---
@@ -495,8 +391,8 @@ WHERE rn = 1 AND score < 70;
 
 ### Location
 
-Development: `./data/qalam.db`  
-Production: `/var/www/qalam/data/qalam.db`
+- **Development:** `./data/qalam.db`
+- **Production:** `/var/www/qalam/data/qalam.db`
 
 ### Permissions
 
@@ -527,93 +423,155 @@ sqlite3 $DB_PATH ".backup $BACKUP_DIR/qalam-$DATE.db"
 find $BACKUP_DIR -name "qalam-*.db" -mtime +30 -delete
 ```
 
-**For production, also consider:**
-- Offsite backups (rsync to another server)
-- Automated restore testing
-- Point-in-time recovery (use WAL mode + WAL checkpointing)
-
 ---
 
-## Initialization Script
+## Type Safety Benefits
+
+With Prisma, you get full TypeScript integration:
 
 ```typescript
-// server/src/db/init.ts
-import Database from 'better-sqlite3';
-import fs from 'fs';
-import path from 'path';
-import { config } from '../config';
+import { User, Attempt } from '@prisma/client';
 
-export function initializeDatabase() {
-  const dbPath = config.database.path;
-  const schemaPath = path.join(__dirname, 'schema.sql');
-  
-  // Ensure data directory exists
-  const dir = path.dirname(dbPath);
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true });
-  }
-  
-  // Open database
-  const db = new Database(dbPath);
-  
-  // Read and execute schema
-  const schema = fs.readFileSync(schemaPath, 'utf-8');
-  db.exec(schema);
-  
-  console.log('✅ Database initialized successfully');
-  
-  return db;
+// Prisma generates these types automatically from schema.prisma
+// No need to manually define interfaces!
+
+async function getUser(id: number): Promise<User | null> {
+  return prisma.user.findUnique({ where: { id } });
+}
+
+async function getUserAttempts(userId: number): Promise<Attempt[]> {
+  return prisma.attempt.findMany({ where: { userId } });
 }
 ```
+
+### Autocomplete in IDEs
+
+When writing Prisma queries, your IDE provides autocomplete for:
+- Model names (`prisma.user`, `prisma.attempt`)
+- Field names in `where`, `select`, `orderBy`
+- Available operations (`findUnique`, `findMany`, `create`, etc.)
 
 ---
 
 ## Migration to PostgreSQL (Future)
 
-If you outgrow SQLite, here's how to migrate:
+If you outgrow SQLite, Prisma makes migration straightforward:
 
-### Schema Translation
+### 1. Update schema.prisma
 
-```sql
--- SQLite
-CREATE TABLE users (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  ...
-);
-
--- PostgreSQL
-CREATE TABLE users (
-  id SERIAL PRIMARY KEY,
-  ...
-);
+```prisma
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
 ```
 
-### Data Export/Import
+### 2. Update Environment Variable
 
 ```bash
-# Export from SQLite
-sqlite3 qalam.db .dump > dump.sql
-
-# Import to PostgreSQL (after schema modifications)
-psql qalam < dump.sql
+DATABASE_URL="postgresql://user:password@localhost:5432/qalam"
 ```
 
-### Application Changes
+### 3. Generate New Migration
 
-```typescript
-// SQLite (better-sqlite3)
-const row = db.prepare('SELECT * FROM users WHERE id = ?').get(userId);
-
-// PostgreSQL (pg)
-const { rows } = await pool.query('SELECT * FROM users WHERE id = $1', [userId]);
-const row = rows[0];
+```bash
+npx prisma migrate dev --name migrate_to_postgres
 ```
 
-The application code is almost identical. Main differences:
-- Placeholder syntax (`?` vs `$1`)
-- Synchronous vs async
-- Connection pooling
+The application code stays **exactly the same** - only the datasource changes!
 
 ---
 
-*This schema is production-ready and optimized for the access patterns described in SYSTEM_ARCHITECTURE.md. No changes should be needed unless requirements change significantly.*
+## Performance Notes
+
+SQLite with Prisma can handle:
+- Thousands of reads per second
+- Hundreds of writes per second
+
+This is sufficient for:
+- Hundreds of concurrent users
+- Verse evaluation requests (rate-limited by LLM anyway)
+
+Prisma adds minimal overhead (~1-2ms per query) while providing:
+- Type safety
+- Query validation
+- Connection pooling (automatic)
+
+---
+
+## Seed Data (Development)
+
+```typescript
+// server/prisma/seed.ts
+
+import { PrismaClient } from '@prisma/client';
+import bcrypt from 'bcrypt';
+
+const prisma = new PrismaClient();
+
+async function main() {
+  // Create test user
+  const passwordHash = await bcrypt.hash('password123', 10);
+
+  await prisma.user.upsert({
+    where: { email: 'test@example.com' },
+    update: {},
+    create: {
+      email: 'test@example.com',
+      name: 'Test User',
+      passwordHash,
+    },
+  });
+
+  console.log('✅ Database seeded');
+}
+
+main()
+  .catch((e) => {
+    console.error(e);
+    process.exit(1);
+  })
+  .finally(async () => {
+    await prisma.$disconnect();
+  });
+```
+
+Add to package.json:
+```json
+{
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  }
+}
+```
+
+Run with:
+```bash
+npx prisma db seed
+```
+
+---
+
+## npm Scripts
+
+Add these to `server/package.json`:
+
+```json
+{
+  "scripts": {
+    "db:migrate": "prisma migrate dev",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio",
+    "db:reset": "prisma migrate reset",
+    "db:generate": "prisma generate",
+    "db:seed": "prisma db seed",
+    "postinstall": "prisma generate"
+  }
+}
+```
+
+The `postinstall` script ensures the Prisma client is generated after `npm install`.
+
+---
+
+*This schema is production-ready and optimized for the access patterns described in SYSTEM_ARCHITECTURE.md. Prisma handles SQL generation, migrations, and type safety automatically.*
