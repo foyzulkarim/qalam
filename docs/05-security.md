@@ -43,12 +43,15 @@ This is more secure because:
 
 ## Rate Limiting
 
-Add rate limiting middleware for sensitive routes:
+Add rate limiting middleware for sensitive routes.
+
+> **Note:** This is a simplified example for demonstration. In production, use a library like `express-rate-limit` or store limits in Redis to handle multiple server instances and prevent memory leaks.
 
 ```typescript
 // lib/rate-limit.ts
 import { NextRequest } from 'next/server';
 
+// Simple in-memory store (for demo only - doesn't scale across instances)
 const rateLimitMap = new Map<string, { count: number; lastReset: number }>();
 
 export function rateLimit(req: NextRequest, limit = 10, windowMs = 60000) {

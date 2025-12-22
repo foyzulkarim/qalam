@@ -120,7 +120,8 @@ async function analyzeVerseWithRetry(verse: Verse, maxRetries = 3): Promise<Vers
 
       console.warn(`Invalid response format, attempt ${attempt}/${maxRetries}`);
     } catch (error) {
-      console.warn(`Error on attempt ${attempt}/${maxRetries}:`, error.message);
+      const message = error instanceof Error ? error.message : 'Unknown error';
+      console.warn(`Error on attempt ${attempt}/${maxRetries}:`, message);
     }
 
     // Exponential backoff
@@ -200,7 +201,26 @@ If no insight is relevant, set insight to null.
   });
 
   const data = await response.json();
-  return JSON.parse(data.response);
+
+  // Parse and validate LLM response
+  try {
+    const result = JSON.parse(data.response);
+
+    // Basic validation
+    if (typeof result.score !== 'number' || typeof result.summary !== 'string') {
+      throw new Error('Invalid response structure');
+    }
+
+    return {
+      score: Math.min(100, Math.max(0, result.score)),  // Clamp to 0-100
+      summary: result.summary,
+      gotCorrect: Array.isArray(result.gotCorrect) ? result.gotCorrect : [],
+      missed: Array.isArray(result.missed) ? result.missed : [],
+      insight: result.insight || null
+    };
+  } catch (error) {
+    throw new Error('Failed to parse LLM response as valid JSON');
+  }
 }
 ```
 
