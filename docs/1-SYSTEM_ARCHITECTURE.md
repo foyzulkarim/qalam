@@ -1,7 +1,7 @@
 # Qalam: System Architecture
 
 **Version:** 2.0 (Consolidated)  
-**Last Updated:** December 2024  
+**Last Updated:** December 2025  
 **Purpose:** Single source of truth for all technical architecture decisions
 
 ---
