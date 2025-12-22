@@ -136,7 +136,8 @@ qalam/
 │   │   ├── verse.ts
 │   │   ├── api.ts
 │   │   ├── attempt.ts
-│   │   └── user.ts
+│   │   ├── user.ts
+│   │   └── analysis.ts          # Pre-computed analysis types
 │   ├── tsconfig.json
 │   └── package.json
 │
@@ -144,6 +145,10 @@ qalam/
 │   ├── surahs/
 │   │   ├── index.json           # Surah metadata
 │   │   ├── 001.json             # Al-Fatihah
+│   │   └── ...                  # Through 114.json
+│   ├── analysis/                # Pre-computed verse analysis
+│   │   ├── index.json           # Progress tracking
+│   │   ├── 001.json             # Al-Fatihah analysis
 │   │   └── ...                  # Through 114.json
 │   └── qalam.db                 # SQLite database (gitignored)
 │
@@ -187,22 +192,31 @@ qalam/
 │   Server    │
 └──────┬──────┘
        │
-       ├─────────────────┐
-       │                 │
-       ▼                 ▼
-┌─────────────┐   ┌─────────────┐
-│   SQLite    │   │  LLM (Ollama│
-│  (Attempts) │   │  /Together) │
-└─────────────┘   └──────┬──────┘
-                         │
-                         │ Evaluation feedback
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │   Store     │
-                  │   Attempt   │
-                  └─────────────┘
+       ├──────────────────┬──────────────────┐
+       │                  │                  │
+       ▼                  ▼                  ▼
+┌─────────────┐   ┌─────────────┐   ┌─────────────┐
+│ data/surahs │   │ data/       │   │  LLM (simple│
+│   (Verse)   │   │ analysis/   │   │  comparison)│
+└─────────────┘   │(Pre-computed)│   └──────┬──────┘
+                  └─────────────┘          │
+                                           │ Score + feedback
+       ┌───────────────────────────────────┘
+       │
+       ▼
+┌─────────────┐
+│   SQLite    │  Store attempt
+│  (Attempts) │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────────────────────────────────┐
+│ Response: feedback + pre-computed       │
+│ analysis (words, roots, grammar notes)  │
+└─────────────────────────────────────────┘
 ```
+
+**Note:** The LLM now performs only a simple comparison (user input vs correct translation), not full analysis. Rich lexical/morphological analysis is pre-computed and stored in `data/analysis/`. See `6-VERSE_ANALYSIS_PIPELINE.md` for details.
 
 ### User Loads Dashboard
 
@@ -287,11 +301,12 @@ POST /api/evaluate
 
 **Server:**
 1. Validates request (authenticated, verse exists)
-2. Loads verse from JSON files
-3. Calls LLM provider with evaluation prompt
-4. Parses LLM response as structured JSON
-5. Stores attempt in database
-6. Returns evaluation to client
+2. Loads verse from JSON files (`data/surahs/`)
+3. Loads pre-computed analysis from `data/analysis/` (if available)
+4. Calls LLM provider with simple comparison prompt
+5. Parses LLM response as structured JSON
+6. Stores attempt in database
+7. Returns combined response: runtime feedback + pre-computed analysis
 
 **Client receives:**
 ```json
@@ -302,7 +317,17 @@ POST /api/evaluate
     "summary": "Excellent - you captured the core meaning accurately",
     "correct": ["praise to Allah", "Lord of the worlds"],
     "missed": ["specific word 'due' - all praise is due to Allah"],
-    "insight": "The root ح-م-د (h-m-d) means praise. It appears throughout the Quran in words like Muhammad (the praised one)."
+    "insight": null
+  },
+  "analysis": {
+    "words": [
+      { "index": 0, "arabic": "الْحَمْدُ", "root": "ح-م-د", "literalMeaning": "the praise" }
+    ],
+    "literalAligned": ["The-praise", "to-Allah", "Lord", "the-worlds"],
+    "roots": [
+      { "word": "الحمد", "root": "ح-م-د", "coreRootMeaning": "praise" }
+    ],
+    "grammarNotes": ["Nominal sentence"]
   },
   "verse": {
     "arabic": "...",
@@ -316,11 +341,12 @@ POST /api/evaluate
 Client shows:
 - User's input (what they wrote)
 - Score as percentage or visual indicator
-- Feedback summary
+- Feedback summary (from runtime LLM)
 - What they got correct (green highlights)
 - What they missed (amber highlights)
-- Insight box (if present) - the teaching moment
 - Correct translation for comparison
+- Word-by-word breakdown (from pre-computed analysis)
+- Root meanings and grammatical notes (from pre-computed analysis)
 - "Next Verse" button
 
 ---
@@ -681,8 +707,9 @@ Using Playwright to test critical flows:
 1. **Database Schema**: Define SQLite tables (see DATABASE_SCHEMA.md)
 2. **API Specification**: Define all endpoints (see API_SPECIFICATION.md)
 3. **Shared Types**: Define TypeScript interfaces (see SHARED_TYPES.md)
-4. **LLM Evaluation**: Design the evaluation prompt (see LLM_EVALUATION.md)
-5. **Implementation**: Start building!
+4. **LLM Evaluation**: Design the runtime comparison prompt (see LLM_EVALUATION.md)
+5. **Verse Analysis Pipeline**: Pre-compute lexical analysis for all verses (see VERSE_ANALYSIS_PIPELINE.md)
+6. **Implementation**: Start building!
 
 ---
 
