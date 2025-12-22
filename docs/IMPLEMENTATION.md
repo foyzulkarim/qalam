@@ -401,6 +401,228 @@ export async function evaluateTranslation(
 
 ---
 
+## Seed Script: Detailed Implementation
+
+The seed script (`npm run seed`) is a one-time data preparation step that generates verse analysis for all 6,236 Quranic verses.
+
+### Prerequisites
+
+Before running seed:
+1. Quran source data exists in `/data/surahs/*.json`
+2. Ollama is installed and running locally
+3. A suitable model is available (e.g., `llama2`, `mistral`)
+
+### Script Flow
+
+```
+npm run seed
+    │
+    ├── 1. Load surah index (/data/surahs/index.json)
+    │      → Get list of all 114 surahs
+    │
+    ├── 2. For each surah (001 → 114):
+    │      │
+    │      ├── Check if analysis already exists (/data/analysis/001.json)
+    │      │   └── If exists and complete → Skip (resume support)
+    │      │
+    │      ├── Load surah data (/data/surahs/001.json)
+    │      │
+    │      ├── For each verse in surah:
+    │      │   │
+    │      │   ├── Send to LLM:
+    │      │   │   - Arabic text
+    │      │   │   - English translation
+    │      │   │   - Prompt for word-by-word analysis
+    │      │   │
+    │      │   ├── Parse LLM response (JSON)
+    │      │   │
+    │      │   ├── Validate response structure
+    │      │   │   └── If invalid → Retry up to 3 times
+    │      │   │
+    │      │   └── Store in memory
+    │      │
+    │      ├── Save surah analysis to /data/analysis/001.json
+    │      │
+    │      └── Log progress: "✓ Surah 1/114 (Al-Fatihah) - 7 verses"
+    │
+    └── 3. Complete
+           └── Log summary: "Done! 6,236 verses analyzed"
+```
+
+### Resume Support
+
+The script should be resumable (in case it stops halfway):
+
+```typescript
+// Check if surah analysis already exists
+const analysisPath = `data/analysis/${surahId.toString().padStart(3, '0')}.json`;
+if (fs.existsSync(analysisPath)) {
+  const existing = JSON.parse(fs.readFileSync(analysisPath));
+  if (existing.verses.length === surah.versesCount) {
+    console.log(`Skipping surah ${surahId} - already complete`);
+    continue;
+  }
+}
+```
+
+### LLM Prompt for Analysis
+
+```typescript
+const prompt = `
+Analyze this Quranic verse word by word.
+
+Arabic: ${verse.arabic}
+Translation: ${verse.translation}
+
+For each Arabic word, provide:
+1. arabic: The Arabic word as it appears
+2. transliteration: English transliteration
+3. meaning: What this word means
+4. root: The 3-letter Arabic root (space-separated)
+5. grammar: Brief grammatical description
+
+Also provide 1-3 grammar notes about the verse structure.
+
+Respond ONLY with valid JSON in this exact format:
+{
+  "words": [
+    {
+      "arabic": "بِسْمِ",
+      "transliteration": "bismi",
+      "meaning": "In the name of",
+      "root": "س م و",
+      "grammar": "preposition + noun (genitive)"
+    }
+  ],
+  "grammarNotes": [
+    "Note about verse structure"
+  ]
+}
+`;
+```
+
+### Response Validation
+
+```typescript
+interface WordAnalysis {
+  arabic: string;
+  transliteration: string;
+  meaning: string;
+  root: string;
+  grammar: string;
+}
+
+interface VerseAnalysis {
+  words: WordAnalysis[];
+  grammarNotes: string[];
+}
+
+function validateAnalysis(data: unknown): data is VerseAnalysis {
+  if (!data || typeof data !== 'object') return false;
+  if (!Array.isArray(data.words) || data.words.length === 0) return false;
+  if (!Array.isArray(data.grammarNotes)) return false;
+
+  return data.words.every(word =>
+    typeof word.arabic === 'string' &&
+    typeof word.transliteration === 'string' &&
+    typeof word.meaning === 'string' &&
+    typeof word.root === 'string' &&
+    typeof word.grammar === 'string'
+  );
+}
+```
+
+### Error Handling
+
+```typescript
+async function analyzeVerseWithRetry(verse: Verse, maxRetries = 3): Promise<VerseAnalysis> {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await callLLM(verse);
+      const parsed = JSON.parse(response);
+
+      if (validateAnalysis(parsed)) {
+        return parsed;
+      }
+
+      console.warn(`Invalid response format, attempt ${attempt}/${maxRetries}`);
+    } catch (error) {
+      console.warn(`Error on attempt ${attempt}/${maxRetries}:`, error.message);
+    }
+
+    // Wait before retry (exponential backoff)
+    if (attempt < maxRetries) {
+      await sleep(1000 * attempt);
+    }
+  }
+
+  throw new Error(`Failed to analyze verse after ${maxRetries} attempts`);
+}
+```
+
+### Console Output
+
+```
+$ npm run seed
+
+Starting verse analysis generation...
+Using model: llama2
+Found 114 surahs to process
+
+[1/114] Al-Fatihah (7 verses)
+  ✓ Verse 1/7
+  ✓ Verse 2/7
+  ...
+  ✓ Verse 7/7
+  → Saved to data/analysis/001.json
+
+[2/114] Al-Baqarah (286 verses)
+  ✓ Verse 1/286
+  ...
+
+...
+
+Complete!
+- Surahs processed: 114
+- Total verses: 6,236
+- Time elapsed: ~2 hours
+- Output: data/analysis/*.json
+```
+
+### Output Structure
+
+After running seed, the `/data/analysis/` folder contains:
+
+```
+data/analysis/
+├── 001.json    # Al-Fatihah (7 verses)
+├── 002.json    # Al-Baqarah (286 verses)
+├── 003.json    # Aal-E-Imran (200 verses)
+...
+└── 114.json    # An-Nas (6 verses)
+```
+
+Each file follows this structure:
+
+```json
+{
+  "surahId": 1,
+  "surahName": "Al-Fatihah",
+  "generatedAt": "2025-12-22T10:30:00Z",
+  "model": "llama2",
+  "verses": [
+    {
+      "verseNumber": 1,
+      "words": [...],
+      "grammarNotes": [...]
+    },
+    ...
+  ]
+}
+```
+
+---
+
 ## Environment Variables
 
 ```bash
