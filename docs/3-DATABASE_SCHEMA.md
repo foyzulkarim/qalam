@@ -209,12 +209,12 @@ const attempt = await prisma.attempt.create({
     feedbackSummary: 'Excellent understanding!',
     feedbackCorrect: JSON.stringify(['praise to Allah', 'Lord']),
     feedbackMissed: JSON.stringify(['specific nuance']),
-    feedbackInsight: 'The root ح-م-د means praise...',
+    feedbackInsight: null,  // Insights now come from pre-computed analysis
     llmModel: 'llama3.2',
     llmProvider: 'ollama',
-    llmPromptTokens: 450,
-    llmCompletionTokens: 120,
-    llmLatencyMs: 1250,
+    llmPromptTokens: 150,
+    llmCompletionTokens: 80,
+    llmLatencyMs: 650,
   },
 });
 ```

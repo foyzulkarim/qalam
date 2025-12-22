@@ -256,7 +256,21 @@ Evaluate user's understanding of a verse using LLM.
     "missed": [
       "The word 'due' - all praise is *due* to Allah"
     ],
-    "insight": "The root ح-م-د (h-m-d) means praise and appears throughout the Quran. Muhammad (محمد) means 'the praised one' from the same root."
+    "insight": null
+  },
+  "analysis": {
+    "words": [
+      { "index": 0, "arabic": "الْحَمْدُ", "category": "noun", "root": "ح-م-د", "coreRootMeaning": "praise", "literalMeaning": "the praise" },
+      { "index": 1, "arabic": "لِلَّهِ", "category": "noun", "literalMeaning": "to Allah" },
+      { "index": 2, "arabic": "رَبِّ", "category": "noun", "root": "ر-ب-ب", "coreRootMeaning": "nurture, sustain", "literalMeaning": "Lord" },
+      { "index": 3, "arabic": "الْعَالَمِينَ", "category": "noun", "root": "ع-ل-م", "coreRootMeaning": "know", "literalMeaning": "the worlds" }
+    ],
+    "literalAligned": ["The-praise", "to-Allah", "Lord", "the-worlds"],
+    "roots": [
+      { "word": "الحمد", "root": "ح-م-د", "coreRootMeaning": "praise", "derivedMeaning": "the praise" },
+      { "word": "رب", "root": "ر-ب-ب", "coreRootMeaning": "nurture, sustain", "derivedMeaning": "lord, master" }
+    ],
+    "grammarNotes": ["Nominal sentence", "Definite article indicates totality of praise"]
   },
   "verse": {
     "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
@@ -268,11 +282,14 @@ Evaluate user's understanding of a verse using LLM.
 
 **Process:**
 1. Validate request
-2. Load verse from JSON files
-3. Call LLM provider with evaluation prompt
-4. Parse LLM response
-5. Store attempt in database
-6. Return evaluation to client
+2. Load verse from JSON files (`data/surahs/`)
+3. Load pre-computed analysis from `data/analysis/` (if available)
+4. Call LLM with simple comparison prompt (compares user input to correct translation)
+5. Parse LLM response
+6. Store attempt in database
+7. Return combined response: runtime feedback + pre-computed analysis
+
+**Note:** The `analysis` field is optional. If pre-computed analysis is not yet available for a verse, the response will omit this field but still include the runtime `feedback`.
 
 **Errors:**
 - `400` - Validation error (invalid verseId format)
@@ -280,9 +297,9 @@ Evaluate user's understanding of a verse using LLM.
 - `503` - LLM service unavailable
 
 **Performance Notes:**
-- This is the slowest endpoint (LLM latency typically 1-3 seconds)
+- LLM latency is typically 0.5-1 second (simple comparison, not full analysis)
 - Client should show loading state
-- Consider timeout of 10 seconds
+- Consider timeout of 5 seconds
 
 ---
 
@@ -400,7 +417,7 @@ Get user's learning history with a specific verse.
         "summary": "Excellent - you captured the core meaning accurately",
         "correct": ["praise to Allah", "Lord of the worlds"],
         "missed": ["The word 'due'"],
-        "insight": "..."
+        "insight": null
       },
       "createdAt": "2024-12-14T10:35:00Z"
     },
@@ -726,7 +743,7 @@ Maintain both versions during transition period, then deprecate v1.
 | GET | /api/surahs | List all surahs | Yes |
 | GET | /api/surahs/:id | Get surah with verses | Yes |
 | GET | /api/surahs/:surahId/verses/:verseNumber | Get single verse | Yes |
-| POST | /api/evaluate | Evaluate verse attempt | Yes |
+| POST | /api/evaluate | Evaluate verse attempt (returns feedback + analysis) | Yes |
 | GET | /api/progress | Get overall stats | Yes |
 | GET | /api/progress/next-verse | Get next verse to practice | Yes |
 | GET | /api/progress/history | Get recent attempts | Yes |
@@ -740,3 +757,6 @@ Maintain both versions during transition period, then deprecate v1.
 ---
 
 *This API specification is the contract between frontend and backend. Both sides must implement it exactly as specified. Any changes should be discussed and documented here first.*
+
+**Related Documentation:**
+- See `6-VERSE_ANALYSIS_PIPELINE.md` for how pre-computed analysis data is generated and stored.
