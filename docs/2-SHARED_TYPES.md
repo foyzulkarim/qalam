@@ -23,7 +23,8 @@ shared/
 │   ├── verse.ts        # Verse and Surah types
 │   ├── api.ts          # Request/Response types
 │   ├── attempt.ts      # Attempt and Feedback types
-│   └── user.ts         # User types
+│   ├── user.ts         # User types
+│   └── analysis.ts     # Pre-computed verse analysis types
 ├── tsconfig.json
 └── package.json
 ```
@@ -198,6 +199,183 @@ export interface AttemptWithVerse extends Attempt {
 
 ---
 
+## shared/types/analysis.ts
+
+Types for pre-computed verse analysis. These types define the structure of lexical and morphological analysis that is computed once per verse and stored in `data/analysis/` files. See `6-VERSE_ANALYSIS_PIPELINE.md` for the data population architecture.
+
+```typescript
+/**
+ * Verse identifier in format "surahId:verseNumber"
+ */
+export type VerseId = `${number}:${number}`;
+
+/**
+ * Grammatical features for a word (optional, where applicable)
+ */
+export interface WordFeatures {
+  case?: 'nom' | 'acc' | 'gen';
+  definiteness?: 'def' | 'indef';
+  number?: 'sg' | 'du' | 'pl';
+  gender?: 'm' | 'f';
+  person?: 1 | 2 | 3;
+  voice?: 'active' | 'passive';
+  mood?: string;
+  state?: 'construct' | 'free';
+  attachedPronoun?: {
+    person: 1 | 2 | 3;
+    gender?: 'm' | 'f';
+    number?: 'sg' | 'du' | 'pl';
+  };
+}
+
+/**
+ * Word-level morphological analysis
+ */
+export interface WordAnalysis {
+  /** Word position in verse (0-indexed) */
+  index: number;
+
+  /** Original Arabic word */
+  arabic: string;
+
+  /** Romanized transliteration */
+  transliteration?: string;
+
+  /** Grammatical category */
+  category: 'noun' | 'verb' | 'particle' | 'pronoun' | 'other';
+
+  /** Specific part-of-speech detail */
+  posDetail?: string;
+
+  /** Arabic trilateral root (if applicable) */
+  root?: string;
+
+  /** Core meaning of the root */
+  coreRootMeaning?: string;
+
+  /** Morphological pattern (e.g., مَفْعُول) */
+  pattern?: string;
+
+  /** Verb form (I-X) if applicable */
+  form?: string;
+
+  /** Grammatical features */
+  features?: WordFeatures;
+
+  /** Literal meaning of this word form */
+  literalMeaning?: string;
+
+  /** Additional grammatical notes */
+  notes?: string[];
+}
+
+/**
+ * Root summary table entry
+ */
+export interface RootSummaryRow {
+  /** The Arabic word */
+  word: string;
+
+  /** Trilateral root */
+  root?: string;
+
+  /** Core semantic meaning of root */
+  coreRootMeaning?: string;
+
+  /** Derived meaning in this context */
+  derivedMeaning?: string;
+}
+
+/**
+ * Complete verse analysis document
+ * Stored in data/analysis/{surahId}.json
+ */
+export interface VerseAnalysisDoc {
+  /** Schema version for migration tracking */
+  schemaVersion: number;
+
+  /** Verse identifier */
+  verseId: VerseId;
+
+  /** Surah number */
+  surahId: number;
+
+  /** Verse number within surah */
+  verseNumber: number;
+
+  /** Arabic text variants */
+  arabic: {
+    /** Uthmani script with diacritics */
+    uthmani: string;
+    /** Plain script without diacritics (optional) */
+    plain?: string;
+  };
+
+  /** Reference translation */
+  reference: {
+    /** Translation identifier */
+    translationId: string;
+    /** Translation text */
+    translationText: string;
+    /** Source attribution */
+    source?: string;
+  };
+
+  /** Structured analysis data */
+  analysis: {
+    /** Word-by-word breakdown */
+    words: WordAnalysis[];
+    /** Literal translation aligned by word index */
+    literalAligned: string[];
+    /** Root summary table */
+    roots: RootSummaryRow[];
+    /** Key grammatical observations */
+    grammarNotes?: string[];
+  };
+
+  /** Pre-rendered content for quick display (optional) */
+  render?: {
+    /** Full analysis as markdown */
+    markdown?: string;
+    /** Granular sections for selective rendering */
+    sections?: Array<{
+      id: 'verse' | 'word_breakdown' | 'literal' | 'roots' | 'grammar' | string;
+      title?: string;
+      markdown: string;
+    }>;
+  };
+
+  /** Generation metadata for tracking and reproducibility */
+  provenance: {
+    /** ISO timestamp of generation */
+    generatedAt: string;
+    /** How this was generated */
+    generator: 'llm' | 'human' | 'pipeline';
+    /** Model identifier */
+    model?: string;
+    /** Prompt template version */
+    promptId?: string;
+    /** SHA256 hash of exact prompt */
+    promptHash?: string;
+    /** LLM temperature setting */
+    temperature?: number;
+  };
+}
+
+/**
+ * Subset of analysis returned in API responses
+ * (excludes render and provenance for smaller payload)
+ */
+export interface VerseAnalysisResponse {
+  words: WordAnalysis[];
+  literalAligned: string[];
+  roots: RootSummaryRow[];
+  grammarNotes?: string[];
+}
+```
+
+---
+
 ## shared/types/api.ts
 
 Types for API requests and responses.
@@ -206,6 +384,7 @@ Types for API requests and responses.
 import { User, UserUpdateData, PasswordChangeData } from './user';
 import { Verse, Surah, SurahMeta } from './verse';
 import { Attempt, Feedback } from './attempt';
+import { VerseAnalysisResponse } from './analysis';
 
 // ============================================================================
 // Authentication
@@ -288,22 +467,25 @@ export interface EvaluateRequest {
 export interface EvaluateResponse {
   /** Unique identifier for this attempt */
   attemptId: string;
-  
+
   /** Which verse was attempted */
   verseId: string;
-  
+
   /** Score from 0-100 */
   score: number;
-  
-  /** LLM-generated feedback */
+
+  /** LLM-generated feedback (runtime comparison result) */
   feedback: Feedback;
-  
+
+  /** Pre-computed verse analysis (if available) */
+  analysis?: VerseAnalysisResponse;
+
   /** The verse data (for display in feedback) */
   verse: {
     arabic: string;
     translation: string;
   };
-  
+
   /** When this attempt was created */
   createdAt: string;
 }
@@ -476,6 +658,7 @@ Central export file that re-exports all types.
 export * from './verse';
 export * from './user';
 export * from './attempt';
+export * from './analysis';
 export * from './api';
 ```
 

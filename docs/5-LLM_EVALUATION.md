@@ -7,9 +7,20 @@
 
 ## Overview
 
-Qalam uses Large Language Models to evaluate user understanding of Quranic verses. The system is designed to work with different LLM providers through a simple abstraction layer. During development, you'll use Ollama with local models. In production, you'll switch to Together AI for hosted inference.
+Qalam uses a **two-tier approach** to provide rich educational feedback:
 
-The evaluation process is the heart of the learning experience. When a user attempts to translate a verse, the LLM compares their understanding to the correct translation, identifies what they got right and wrong, and provides a teaching moment focused on one memorable pattern or insight.
+1. **Pre-computed Analysis** - Lexical and morphological breakdown computed once per verse and stored in `data/analysis/`. See `6-VERSE_ANALYSIS_PIPELINE.md` for details.
+
+2. **Runtime Comparison** - Simple LLM call to compare user input against correct translation. This is what this document covers.
+
+The LLM's role at runtime is **comparison only**, not analysis. When a user attempts a verse:
+- The LLM compares their input to the correct translation
+- It returns a score and brief feedback (correct/missed concepts)
+- The rich word-by-word breakdown comes from pre-computed data
+
+This approach dramatically reduces latency (0.5-1s vs 2-4s) and cost (~4x cheaper).
+
+The system works with different LLM providers through a simple abstraction layer. During development, you'll use Ollama with local models. In production, you'll switch to Together AI for hosted inference.
 
 ---
 
@@ -26,21 +37,19 @@ Every LLM provider implements this interface:
 ```typescript
 // server/src/llm/types.ts
 
-export interface EvaluationInput {
+export interface ComparisonInput {
   verseId: string;
-  arabic: string;
-  translation: string;
-  userInput: string;
+  translation: string;     // Correct translation to compare against
+  userInput: string;       // User's attempt
   skipped: boolean;
 }
 
-export interface EvaluationOutput {
+export interface ComparisonOutput {
   score: number;           // 0-100
   feedback: {
-    summary: string;
-    correct: string[];
-    missed: string[];
-    insight: string | null;
+    summary: string;       // 1-2 sentence assessment
+    correct: string[];     // Concepts user got right
+    missed: string[];      // Concepts user missed
   };
   metadata: {
     model: string;
@@ -53,16 +62,19 @@ export interface EvaluationOutput {
 
 export interface LLMProvider {
   /**
-   * Evaluate a verse attempt and return structured feedback
+   * Compare user input to correct translation and return feedback
+   * Note: This is comparison only, not full analysis
    */
-  evaluate(input: EvaluationInput): Promise<EvaluationOutput>;
-  
+  compare(input: ComparisonInput): Promise<ComparisonOutput>;
+
   /**
    * Health check - returns true if provider is accessible
    */
   isAvailable(): Promise<boolean>;
 }
 ```
+
+**Note:** The `insight` field from the original design is now provided by pre-computed analysis data, not generated at runtime.
 
 ### Provider Factory
 
@@ -136,8 +148,8 @@ curl http://localhost:11434/api/generate -d '{
 ```typescript
 // server/src/llm/ollama.provider.ts
 
-import type { LLMProvider, EvaluationInput, EvaluationOutput } from './types';
-import { buildEvaluationPrompt } from './prompt';
+import type { LLMProvider, ComparisonInput, ComparisonOutput } from './types';
+import { buildComparisonPrompt } from './prompt';
 
 interface OllamaConfig {
   baseUrl: string;
@@ -153,12 +165,12 @@ export class OllamaProvider implements LLMProvider {
     this.model = config.model;
   }
 
-  async evaluate(input: EvaluationInput): Promise<EvaluationOutput> {
+  async compare(input: ComparisonInput): Promise<ComparisonOutput> {
     const startTime = Date.now();
-    
+
     try {
-      const prompt = buildEvaluationPrompt(input);
-      
+      const prompt = buildComparisonPrompt(input);
+
       const response = await fetch(`${this.baseUrl}/api/generate`, {
         method: 'POST',
         headers: {
@@ -184,15 +196,14 @@ export class OllamaProvider implements LLMProvider {
       const latencyMs = Date.now() - startTime;
       
       // Parse the JSON response from Ollama
-      const evaluation = JSON.parse(data.response);
-      
+      const result = JSON.parse(data.response);
+
       return {
-        score: evaluation.score,
+        score: result.score,
         feedback: {
-          summary: evaluation.feedback.summary,
-          correct: evaluation.feedback.correct,
-          missed: evaluation.feedback.missed,
-          insight: evaluation.feedback.insight || null,
+          summary: result.feedback.summary,
+          correct: result.feedback.correct,
+          missed: result.feedback.missed,
         },
         metadata: {
           model: this.model,
@@ -200,9 +211,9 @@ export class OllamaProvider implements LLMProvider {
           latencyMs,
         }
       };
-      
+
     } catch (error) {
-      throw new Error(`Ollama evaluation failed: ${error.message}`);
+      throw new Error(`Ollama comparison failed: ${error.message}`);
     }
   }
 
@@ -235,8 +246,8 @@ TOGETHER_MODEL=meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo
 ```typescript
 // server/src/llm/together.provider.ts
 
-import type { LLMProvider, EvaluationInput, EvaluationOutput } from './types';
-import { buildEvaluationPrompt } from './prompt';
+import type { LLMProvider, ComparisonInput, ComparisonOutput } from './types';
+import { buildComparisonPrompt } from './prompt';
 
 interface TogetherConfig {
   apiKey: string;
@@ -253,12 +264,12 @@ export class TogetherProvider implements LLMProvider {
     this.model = config.model;
   }
 
-  async evaluate(input: EvaluationInput): Promise<EvaluationOutput> {
+  async compare(input: ComparisonInput): Promise<ComparisonOutput> {
     const startTime = Date.now();
-    
+
     try {
-      const prompt = buildEvaluationPrompt(input);
-      
+      const prompt = buildComparisonPrompt(input);
+
       const response = await fetch(`${this.baseUrl}/chat/completions`, {
         method: 'POST',
         headers: {
@@ -293,15 +304,14 @@ export class TogetherProvider implements LLMProvider {
       
       // Parse the JSON response
       const content = data.choices[0].message.content;
-      const evaluation = JSON.parse(content);
-      
+      const result = JSON.parse(content);
+
       return {
-        score: evaluation.score,
+        score: result.score,
         feedback: {
-          summary: evaluation.feedback.summary,
-          correct: evaluation.feedback.correct,
-          missed: evaluation.feedback.missed,
-          insight: evaluation.feedback.insight || null,
+          summary: result.feedback.summary,
+          correct: result.feedback.correct,
+          missed: result.feedback.missed,
         },
         metadata: {
           model: this.model,
@@ -311,9 +321,9 @@ export class TogetherProvider implements LLMProvider {
           latencyMs,
         }
       };
-      
+
     } catch (error) {
-      throw new Error(`Together AI evaluation failed: ${error.message}`);
+      throw new Error(`Together AI comparison failed: ${error.message}`);
     }
   }
 
@@ -334,138 +344,101 @@ export class TogetherProvider implements LLMProvider {
 
 ---
 
-## The Evaluation Prompt
+## The Comparison Prompt
 
-The evaluation prompt is the most critical piece of the system. It determines the quality of feedback users receive. A good prompt produces consistent, accurate, encouraging feedback that teaches effectively.
+Since rich lexical analysis is pre-computed (see `6-VERSE_ANALYSIS_PIPELINE.md`), the runtime prompt is now much simpler. It only needs to compare the user's input to the correct translation and identify what they got right or missed.
 
 ### Prompt Design Principles
 
-**Principle one: Be specific about scoring criteria.** Don't just say "evaluate understanding." Define exactly what constitutes a score of ninety versus seventy.
+**Principle one: Be specific about scoring criteria.** Define exactly what constitutes a score of ninety versus seventy.
 
 **Principle two: Encourage paraphrasing.** Users won't use the exact same words as the translation. The LLM needs to recognize synonyms and alternative phrasings as correct.
 
 **Principle three: Prioritize core meaning over details.** Getting "Allah is merciful" matters more than getting the exact phrasing "Entirely Merciful" versus "Most Merciful."
 
-**Principle four: Provide teachable moments.** The insight should be memorable and actionable. Teaching about a root that appears in many verses is more valuable than explaining obscure grammar.
+**Principle four: Be kind but honest.** Don't inflate scores to make users feel good. Accurate feedback helps learning, but deliver it with encouragement.
 
-**Principle five: Be kind but honest.** Don't inflate scores to make users feel good. Accurate feedback helps learning, but deliver it with encouragement.
+**Note:** Teaching moments (root patterns, grammar insights) are now provided by pre-computed analysis, not generated at runtime.
 
-### The Prompt Template
+### The Comparison Prompt Template
 
 ```typescript
 // server/src/llm/prompt.ts
 
-import type { EvaluationInput } from './types';
+import type { ComparisonInput } from './types';
 
-export function buildEvaluationPrompt(input: EvaluationInput): string {
-  // Handle skipped verses
+export function buildComparisonPrompt(input: ComparisonInput): string {
   if (input.skipped) {
     return buildSkippedPrompt(input);
   }
-  
-  return `You are evaluating a student's understanding of a Quranic verse.
 
-VERSE INFORMATION:
-Verse ID: ${input.verseId}
-Arabic Text: ${input.arabic}
-Correct Translation (Sahih International): ${input.translation}
+  return `Compare these translations and assess understanding.
 
-STUDENT'S RESPONSE:
+CORRECT TRANSLATION:
+"${input.translation}"
+
+USER'S RESPONSE:
 "${input.userInput}"
 
-EVALUATION TASK:
-Assess how well the student understood the verse meaning. Focus on:
-1. Did they capture the core spiritual/theological message?
-2. Did they identify the key concepts and actors?
-3. Did they understand the general meaning, even if wording differs?
-
 SCORING RUBRIC:
-90-100: Captured core meaning and all key concepts accurately
+90-100: Captured core meaning and all key concepts
 75-89:  Understood main message, minor details missed
 60-74:  Got the general idea but missed significant concepts
 40-59:  Partial understanding with major gaps
 0-39:   Minimal comprehension or major misunderstanding
 
-IMPORTANT GUIDELINES:
-- Accept paraphrasing: "God" = "Allah", "merciful" = "compassionate", etc.
+GUIDELINES:
+- Accept paraphrasing: "God" = "Allah", "merciful" = "compassionate"
 - Prioritize meaning over exact wording
-- Be encouraging but accurate with scoring
-- If student clearly understands but uses different words, that's correct
-- Focus on theological and spiritual accuracy
+- Be encouraging but accurate
 
-TEACHING MOMENT:
-Provide ONE brief insight that will help future learning:
-- Arabic root patterns (if relevant)
-- Grammatical structure (if it unlocks meaning)
-- Connection to other verses (if it reinforces understanding)
-- Theological context (if it deepens comprehension)
-
-Keep the insight brief (2-3 sentences max) and memorable.
-
-RESPONSE FORMAT:
-Respond with ONLY valid JSON in this exact structure:
+Respond with ONLY valid JSON:
 {
-  "score": <number 0-100>,
+  "score": <0-100>,
   "feedback": {
     "summary": "<1-2 sentence assessment>",
-    "correct": ["<concept 1>", "<concept 2>", ...],
-    "missed": ["<concept 1>", "<concept 2>", ...],
-    "insight": "<optional teaching moment or null>"
+    "correct": ["<concept 1>", ...],
+    "missed": ["<concept 1>", ...]
   }
+}`;
 }
 
-Example for verse 1:1 "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ":
+function buildSkippedPrompt(input: ComparisonInput): string {
+  return `The user skipped this verse.
 
-Student says: "In God's name, the merciful and compassionate"
-Response:
-{
-  "score": 95,
-  "feedback": {
-    "summary": "Excellent - you captured the core meaning accurately",
-    "correct": ["invoking Allah's name", "recognizing divine mercy", "general meaning"],
-    "missed": ["The specific distinction between Rahman (Entirely Merciful) and Raheem (Especially Merciful)"],
-    "insight": "The root ر-ح-م (r-h-m) means mercy. Rahman emphasizes Allah's mercy to all creation, while Raheem emphasizes specific mercy to believers. This root appears throughout the Quran."
-  }
-}
+CORRECT TRANSLATION: "${input.translation}"
 
-Now evaluate the student's response.`;
-}
-
-function buildSkippedPrompt(input: EvaluationInput): string {
-  return `The student clicked "I don't know" for this verse.
-
-Verse ID: ${input.verseId}
-Arabic: ${input.arabic}
-Translation: ${input.translation}
-
-Provide encouraging feedback that teaches them the verse meaning.
-
-Respond with valid JSON:
+Respond with JSON:
 {
   "score": 0,
   "feedback": {
-    "summary": "That's okay! Let's learn this verse together.",
+    "summary": "No problem! Review the translation and try again.",
     "correct": [],
-    "missed": ["<all key concepts>"],
-    "insight": "<a helpful teaching moment about this verse>"
+    "missed": ["<key concepts from the translation>"]
   }
 }`;
 }
 ```
 
+### Prompt Comparison: Before vs After
+
+| Aspect | Old Prompt | New Prompt |
+|--------|-----------|------------|
+| **Purpose** | Full analysis + comparison | Comparison only |
+| **Input** | Arabic + translation + user input | Translation + user input |
+| **Output** | Score + feedback + insight | Score + feedback |
+| **Tokens** | ~400 input + ~150 output | ~100 input + ~80 output |
+| **Latency** | 1-3 seconds | 0.5-1 second |
+
 ### Prompt Iteration Strategy
 
-Your first prompt won't be perfect. Here's how to improve it:
+**Phase one: Test with known cases.** Try verses with different user inputs. See if the LLM scores them appropriately.
 
-**Phase one: Test with known cases.** Try verses you know well with different user inputs. See if the LLM scores them appropriately.
+**Phase two: Collect edge cases.** Watch for cases where the evaluation is clearly wrong (scoring "Allah" as incorrect because user wrote "God").
 
-**Phase two: Collect edge cases.** As users practice, watch for cases where the evaluation is clearly wrong (scoring "Allah" as incorrect because user wrote "God", or giving full marks for a completely wrong answer).
+**Phase three: Refine the rubric.** Add specific examples of what constitutes different score ranges.
 
-**Phase three: Refine the rubric.** Add specific examples to the prompt of what constitutes different score ranges. The more concrete the examples, the more consistent the evaluation.
-
-**Phase four: Add few-shot examples.** Include two or three complete examples in the prompt showing perfect evaluation. This dramatically improves consistency.
-
-**Phase five: Version your prompts.** When you make significant changes, save the old version so you can compare results. Store the prompt version in the attempt metadata.
+**Phase four: Version your prompts.** Store the prompt version in the attempt metadata for tracking.
 
 ---
 
@@ -527,16 +500,15 @@ export async function evaluateAttempt(input: EvaluateRequest): Promise<EvaluateR
   
   try {
     // Call LLM with retry logic
-    const evaluation = await withRetry(() => 
-      llm.evaluate({
+    const comparison = await withRetry(() =>
+      llm.compare({
         verseId: input.verseId,
-        arabic: verse.arabic,
         translation: verse.translation,
         userInput: input.userInput,
         skipped: input.skipped
       })
     );
-    
+
     // Store attempt in database
     const attempt = await storeAttempt({
       userId: input.userId,
@@ -545,16 +517,16 @@ export async function evaluateAttempt(input: EvaluateRequest): Promise<EvaluateR
       translation: verse.translation,
       userInput: input.userInput,
       skipped: input.skipped,
-      score: evaluation.score,
-      feedback: evaluation.feedback,
-      llmMetadata: evaluation.metadata
+      score: comparison.score,
+      feedback: comparison.feedback,
+      llmMetadata: comparison.metadata
     });
     
     return {
       attemptId: attempt.id,
       verseId: input.verseId,
-      score: evaluation.score,
-      feedback: evaluation.feedback,
+      score: comparison.score,
+      feedback: comparison.feedback,
       verse: {
         arabic: verse.arabic,
         translation: verse.translation
@@ -564,10 +536,10 @@ export async function evaluateAttempt(input: EvaluateRequest): Promise<EvaluateR
     
   } catch (error) {
     // Log the error for debugging
-    console.error('LLM evaluation failed:', error);
-    
+    console.error('LLM comparison failed:', error);
+
     // Return a 503 error to the client
-    throw new ServiceUnavailableError('Unable to evaluate verse at this time. Please try again.');
+    throw new ServiceUnavailableError('Unable to compare verse at this time. Please try again.');
   }
 }
 ```
@@ -578,35 +550,36 @@ export async function evaluateAttempt(input: EvaluateRequest): Promise<EvaluateR
 
 ### Together AI Pricing
 
-With DiscoResearch/DiscoLM-German-7b-v1 (your chosen model) at approximately one cent per million tokens:
+With the simplified comparison prompt, costs are significantly lower than full analysis:
 
-**Typical evaluation:**
-- Prompt: ~400 tokens (verse info + rubric + user input)
-- Completion: ~150 tokens (JSON response)
-- Total: ~550 tokens per evaluation
-- Cost: ~$0.0000055 per evaluation (half a cent per thousand evaluations)
+**Typical comparison:**
+- Prompt: ~100 tokens (translation + user input + rubric)
+- Completion: ~80 tokens (JSON response)
+- Total: ~180 tokens per comparison
+- Cost: ~$0.0000018 per comparison
 
-**Monthly estimates:**
-- One hundred users, five verses per day: 15,000 evaluations/month = $0.08
-- One thousand users, five verses per day: 150,000 evaluations/month = $0.83
-- Ten thousand users, five verses per day: 1.5M evaluations/month = $8.30
+**Comparison to full analysis approach:**
 
-This is incredibly cheap. You can serve thousands of users for under ten dollars per month.
+| Approach | Tokens/Request | Cost/Request | Latency |
+|----------|---------------|--------------|---------|
+| Full Analysis (old) | ~550 | ~$0.0000055 | 1-3s |
+| Comparison Only (new) | ~180 | ~$0.0000018 | 0.5-1s |
+| **Savings** | 67% fewer | 67% cheaper | 50-75% faster |
 
-### Caching Strategy (Future Optimization)
+**Monthly estimates (with comparison-only approach):**
+- One hundred users, five verses per day: 15,000 comparisons/month = $0.03
+- One thousand users, five verses per day: 150,000 comparisons/month = $0.27
+- Ten thousand users, five verses per day: 1.5M comparisons/month = $2.70
 
-If you see the exact same user input for the same verse multiple times across users, you could cache the evaluation. However, this is probably not worth implementing initially because:
+**Plus one-time pre-computation cost:**
+- All 6,236 verses analyzed once: ~$6-14 (Together AI) or ~$234 (Claude)
 
-**Why caching is low priority:**
-- LLM costs are already negligible
-- User inputs vary significantly even for the same verse
-- Cache hit rate would be low (probably under five percent)
-- Adds complexity to the codebase
+### Why This Approach is Better
 
-**When to add caching:**
-- If you see costs exceeding one hundred dollars per month
-- If you notice many identical inputs (unlikely)
-- If LLM latency becomes a UX problem (caching makes responses instant)
+1. **Faster feedback** - Users don't wait 2-4 seconds for full analysis
+2. **Consistent analysis** - Same verse = same word breakdown every time
+3. **Richer content** - Pre-computed analysis can be more detailed than real-time generation
+4. **Cheaper at scale** - 67% cost reduction per user request
 
 ---
 
@@ -637,16 +610,14 @@ describe('OllamaProvider', () => {
           feedback: {
             summary: 'Good understanding',
             correct: ['key concept'],
-            missed: ['minor detail'],
-            insight: 'Teaching moment'
+            missed: ['minor detail']
           }
         })
       })
     });
-    
-    const result = await provider.evaluate({
+
+    const result = await provider.compare({
       verseId: '1:1',
-      arabic: 'test',
       translation: 'test',
       userInput: 'test',
       skipped: false
@@ -666,17 +637,16 @@ Test with real LLM (during development only):
 // server/src/llm/__tests__/integration.test.ts
 
 describe('LLM Integration', () => {
-  it('should evaluate verse correctly', async () => {
+  it('should compare verse correctly', async () => {
     const provider = createLLMProvider();
-    
-    const result = await provider.evaluate({
+
+    const result = await provider.compare({
       verseId: '1:1',
-      arabic: 'بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ',
       translation: 'In the name of Allah, the Entirely Merciful, the Especially Merciful.',
       userInput: 'In the name of God, the merciful and compassionate',
       skipped: false
     });
-    
+
     expect(result.score).toBeGreaterThan(70); // Should recognize this as correct
     expect(result.feedback.correct.length).toBeGreaterThan(0);
   });
@@ -706,7 +676,7 @@ This data helps you:
 ### Log Format
 
 ```typescript
-logger.info('LLM evaluation', {
+logger.info('LLM comparison', {
   userId: attempt.userId,
   verseId: attempt.verseId,
   provider: metadata.provider,
@@ -722,4 +692,25 @@ logger.info('LLM evaluation', {
 
 ---
 
-*The LLM integration is the intelligence behind Qalam's feedback system. Start with the basic prompt, test thoroughly with real verses, and iterate based on user feedback. The provider abstraction ensures you can easily switch between local development and production hosting.*
+## Fallback Behavior
+
+When pre-computed analysis is not available for a verse (e.g., during phased rollout):
+
+1. **Runtime comparison still works** - The LLM comparison is independent of pre-computed data
+2. **Response omits analysis field** - The `analysis` field in the response will be undefined
+3. **User still gets feedback** - Score, summary, correct/missed concepts are all returned
+4. **Graceful degradation** - UI should handle missing analysis gracefully
+
+This allows incremental rollout of pre-computed analysis without blocking the core learning experience.
+
+---
+
+## Related Documentation
+
+- **Pre-computed Analysis**: See `6-VERSE_ANALYSIS_PIPELINE.md` for how lexical/morphological analysis is generated and stored
+- **API Contract**: See `4-API_SPECIFICATION.md` for the `POST /api/evaluate` response format
+- **Type Definitions**: See `2-SHARED_TYPES.md` for `ComparisonOutput` and `VerseAnalysisResponse` types
+
+---
+
+*The LLM integration provides personalized feedback on user attempts. With the two-tier approach, the LLM handles comparison while pre-computed data provides rich educational content. The provider abstraction ensures you can easily switch between local development and production hosting.*
