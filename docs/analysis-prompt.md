@@ -1,10 +1,24 @@
-# Quranic Verse Analysis Prompt
+# Quranic Verse Analysis Prompts
 
-Use this prompt template to generate word-by-word analysis for Quranic verses.
+This document describes the two-phase approach for generating word-by-word analysis for Quranic verses.
+
+## Two-Phase Generation Strategy
+
+To avoid timeouts and improve reliability, analysis is split into two phases:
+
+1. **Phase 1 (Base)**: Generate verse info + simplified word list (~1-2 min)
+   - See: [analysis-prompt-base.md](./analysis-prompt-base.md)
+
+2. **Phase 2 (Word Details)**: Generate detailed analysis per word (~30-60 sec each)
+   - See: [analysis-prompt-word.md](./analysis-prompt-word.md)
+
+The seed script (`scripts/seed-analysis.ts`) handles this automatically with resume capability at any phase.
 
 ---
 
-## Prompt
+## Legacy: Single-Phase Prompt (Reference Only)
+
+The original single-phase prompt is preserved below for reference. This approach may timeout on slower models.
 
 ```
 You are an expert in Classical Arabic grammar (naḥw and ṣarf). Analyze the following Quranic verse word-by-word and return a JSON object following the exact schema below.

@@ -1,6 +1,11 @@
 /**
  * Seed Script: Generate verse analysis using local LLM (Ollama or LM Studio)
  *
+ * Two-Phase Generation Strategy:
+ *   Phase 1: Generate base verse info + word list (fast, ~1-2 min)
+ *   Phase 2: Generate detailed analysis for each word (~30-60 sec each)
+ *   Final: Merge all into complete analysis JSON
+ *
  * Usage:
  *   npm run seed:analysis
  *
@@ -20,7 +25,8 @@
  *   LLM_BACKEND=lms LMS_MODEL=qwen2.5-72b npm run seed:analysis
  *
  * Features:
- *   - Skips existing analysis files (resume capability)
+ *   - Two-phase generation (faster, more reliable)
+ *   - Resume capability at any phase
  *   - Detailed progress logging
  *   - Sequential processing
  */
@@ -43,6 +49,7 @@ const LMS_MODEL = process.env.LMS_MODEL || 'local-model'
 const PROJECT_ROOT = path.resolve(__dirname, '..')
 const SURAHS_FILE = path.join(PROJECT_ROOT, 'public/data/surahs.json')
 const ANALYSIS_DIR = path.join(PROJECT_ROOT, 'public/data/analysis')
+const TEMP_DIR = path.join(ANALYSIS_DIR, '_temp')
 
 // Types
 interface Surah {
@@ -52,22 +59,87 @@ interface Surah {
   verseCount: number
 }
 
-// Analysis prompt template
-const ANALYSIS_PROMPT = `You are an expert in Classical Arabic grammar (naḥw and ṣarf). Analyze the following Quranic verse word-by-word and return a JSON object.
+interface BaseWord {
+  wordNumber: number
+  arabic: string
+  transliteration: string
+  meaning: string
+}
+
+interface WordDetail {
+  wordNumber: number
+  root?: {
+    letters: string
+    transliteration: string
+    meaning: string
+  }
+  grammaticalCategory?: string
+  definiteness?: string
+  morphology?: {
+    pattern: string
+    patternTransliteration: string
+    wordType: string
+    note?: string
+  }
+  grammar?: {
+    case: string
+    caseMarker: string
+    caseReason: string
+    gender: string
+    number: string
+  }
+  syntacticFunction?: string
+  components?: Array<{
+    element: string
+    transliteration: string
+    type: string
+    function: string
+  }>
+  semanticNote?: string
+}
+
+interface BaseAnalysis {
+  verseId: string
+  verse: {
+    arabic: string
+    transliteration: string
+    surah: string
+    verseNumber: number
+  }
+  words: BaseWord[]
+  literalTranslation: {
+    wordAligned: string
+    preservingSyntax?: string
+  }
+  rootSummary: Array<{
+    word: string
+    transliteration: string
+    root: string
+    coreMeaning: string
+    derivedMeaning: string
+  }>
+  metadata?: {
+    analysisType: string
+    linguisticFramework: string
+    scope: string
+  }
+}
+
+// Phase 1 Prompt: Base verse + word list
+const BASE_PROMPT = `You are an expert in Classical Arabic grammar (naḥw and ṣarf). Provide the base analysis for the following Quranic verse.
 
 IMPORTANT GUIDELINES:
-- Focus ONLY on lexical and morphological analysis
+- Focus ONLY on lexical analysis (no deep morphology yet)
 - NO tafsīr, thematic, or theological interpretation
 - Use academic transliteration (ḥ, ʿ, ā, ū, ī, etc.)
 - Include full diacritical marks (tashkīl) for Arabic text
-- Analyze compound words by listing their components
 
 VERSE TO ANALYZE:
 Surah: {SURAH_NAME}
 Surah Number: {SURAH_NUMBER}
 Verse Number: {VERSE_NUMBER}
 
-Return ONLY a valid JSON object with this exact structure:
+Return ONLY a valid JSON object with this structure:
 
 {
   "verseId": "{SURAH_NUMBER}:{VERSE_NUMBER}",
@@ -82,42 +154,11 @@ Return ONLY a valid JSON object with this exact structure:
       "wordNumber": 1,
       "arabic": "[Word with tashkīl]",
       "transliteration": "[transliteration]",
-      "meaning": "[literal meaning]",
-      "grammaticalCategory": "[e.g., definite noun (ism maʿrifa)]",
-      "definiteness": "[e.g., definite (by al- prefix)]",
-      "root": {
-        "letters": "[e.g., ح-م-د]",
-        "transliteration": "[e.g., ḥ-m-d]",
-        "meaning": "[core root meaning]"
-      },
-      "morphology": {
-        "pattern": "[Arabic pattern, e.g., فَعْل]",
-        "patternTransliteration": "[e.g., faʿl]",
-        "wordType": "[e.g., maṣdar (verbal noun)]",
-        "note": "[optional additional info]"
-      },
-      "grammar": {
-        "case": "[nominative (marfūʿ) | accusative (manṣūb) | genitive (majrūr)]",
-        "caseMarker": "[e.g., ḍamma (ُ)]",
-        "caseReason": "[why this case]",
-        "gender": "[masculine | feminine]",
-        "number": "[singular | dual | plural]"
-      },
-      "syntacticFunction": "[role in sentence, e.g., mubtadaʾ (subject)]",
-      "components": [
-        {
-          "element": "[Arabic part]",
-          "transliteration": "[transliteration]",
-          "type": "[e.g., preposition (ḥarf jarr)]",
-          "function": "[what it does]"
-        }
-      ],
-      "semanticNote": "[optional: additional meaning context]"
+      "meaning": "[literal meaning]"
     }
   ],
   "literalTranslation": {
-    "wordAligned": "[Word-for-word with hyphens and [brackets] for implied words]",
-    "preservingSyntax": "[Keeping Arabic order with transliterated terms]"
+    "wordAligned": "[Word-for-word translation with hyphens for compound meanings and [brackets] for implied words]"
   },
   "rootSummary": [
     {
@@ -128,23 +169,6 @@ Return ONLY a valid JSON object with this exact structure:
       "derivedMeaning": "[meaning of this derived word]"
     }
   ],
-  "grammarObservations": {
-    "sentenceType": {
-      "classification": "[jumla ismiyya (nominal) | jumla fiʿliyya (verbal)]",
-      "mubtada": "[subject if nominal]",
-      "khabar": "[predicate if nominal]"
-    },
-    "idafaConstructions": [
-      {
-        "description": "[describe the construct]",
-        "mudaf": "[first term]",
-        "mudafIlayhi": "[second term]"
-      }
-    ],
-    "notes": [
-      "[grammatical observations about the verse]"
-    ]
-  },
   "metadata": {
     "analysisType": "lexical and morphological",
     "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
@@ -154,16 +178,75 @@ Return ONLY a valid JSON object with this exact structure:
 
 Return ONLY the JSON object, no additional text or markdown.`
 
+// Phase 2 Prompt: Word detail
+const WORD_PROMPT = `You are an expert in Classical Arabic grammar (naḥw and ṣarf). Provide detailed morphological and grammatical analysis for this word from the Quran.
+
+CONTEXT:
+Surah: {SURAH_NAME}
+Verse Number: {VERSE_NUMBER}
+Full Verse: {VERSE_ARABIC}
+
+WORD TO ANALYZE:
+Word Number: {WORD_NUMBER} of {TOTAL_WORDS}
+Arabic: {WORD_ARABIC}
+Transliteration: {WORD_TRANSLITERATION}
+Meaning: {WORD_MEANING}
+
+IMPORTANT GUIDELINES:
+- Focus ONLY on lexical and morphological analysis
+- NO tafsīr, thematic, or theological interpretation
+- Use academic transliteration (ḥ, ʿ, ā, ū, ī, etc.)
+- Consider the word's role in the sentence context
+
+Return ONLY a valid JSON object with this structure:
+
+{
+  "wordNumber": {WORD_NUMBER},
+  "root": {
+    "letters": "[e.g., ح-م-د]",
+    "transliteration": "[e.g., ḥ-m-d]",
+    "meaning": "[core root meaning]"
+  },
+  "grammaticalCategory": "[e.g., definite noun (ism maʿrifa)]",
+  "definiteness": "[e.g., definite (by al- prefix)]",
+  "morphology": {
+    "pattern": "[Arabic pattern, e.g., فَعْل]",
+    "patternTransliteration": "[e.g., faʿl]",
+    "wordType": "[e.g., maṣdar (verbal noun)]",
+    "note": "[optional additional info]"
+  },
+  "grammar": {
+    "case": "[nominative (marfūʿ) | accusative (manṣūb) | genitive (majrūr)]",
+    "caseMarker": "[e.g., ḍamma (ُ)]",
+    "caseReason": "[why this case]",
+    "gender": "[masculine | feminine]",
+    "number": "[singular | dual | plural]"
+  },
+  "syntacticFunction": "[role in sentence, e.g., mubtadaʾ (subject)]",
+  "components": [
+    {
+      "element": "[Arabic part]",
+      "transliteration": "[transliteration]",
+      "type": "[e.g., preposition (ḥarf jarr)]",
+      "function": "[what it does]"
+    }
+  ],
+  "semanticNote": "[optional: additional meaning context]"
+}
+
+NOTES:
+- Include "components" ONLY if the word has prefixes/suffixes (like بِسْمِ = بِ + اسْم)
+- For particles without roots, omit the "root" field or set letters to "—"
+
+Return ONLY the JSON object, no additional text or markdown.`
+
 /**
  * Call Ollama API to generate analysis
  */
-async function callOllama(prompt: string, verseId: string): Promise<string> {
+async function callOllama(prompt: string): Promise<string> {
   const url = `${OLLAMA_BASE_URL}/api/generate`
 
   try {
-    console.log(`\n      🔗 Connecting to Ollama at ${OLLAMA_BASE_URL}`)
-    console.log(`      🤖 Using model: ${OLLAMA_MODEL}`)
-
     const response = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -171,34 +254,23 @@ async function callOllama(prompt: string, verseId: string): Promise<string> {
         model: OLLAMA_MODEL,
         prompt,
         stream: false,
-        // format: 'json',  // Forces valid JSON output
       }),
     })
 
     if (!response.ok) {
       const errorBody = await response.text().catch(() => 'Could not read error body')
-      console.log(`      ❌ API returned ${response.status} ${response.statusText}`)
-      console.log(`      📄 Response: ${errorBody.slice(0, 200)}`)
-      throw new Error(`Ollama API error: ${response.status} ${response.statusText}`)
+      throw new Error(`Ollama API error: ${response.status} - ${errorBody.slice(0, 200)}`)
     }
 
-    console.log(`      ✓ Response received, parsing...`)
-    const data = await response.json();
-    console.log(`      📄 Data`, data)
-
+    const data = await response.json()
     if (!data.response) {
-      console.log(`      ⚠️  Empty or missing response field in API response`)
-      console.log(`      📄 Response keys: ${Object.keys(data).join(', ')}`)
       throw new Error('Ollama returned empty response')
     }
 
-    console.log(`      ✓ Got ${data.response.length} chars from LLM`)
     return data.response
   } catch (error) {
     if (error instanceof TypeError && error.message.includes('fetch')) {
-      console.log(`\n      ❌ Connection failed - Is Ollama running?`)
-      console.log(`         Try: ollama serve`)
-      throw new Error(`Cannot connect to Ollama at ${OLLAMA_BASE_URL}`)
+      throw new Error(`Cannot connect to Ollama at ${OLLAMA_BASE_URL}. Is it running?`)
     }
     throw error
   }
@@ -207,17 +279,14 @@ async function callOllama(prompt: string, verseId: string): Promise<string> {
 /**
  * Call LM Studio API (OpenAI-compatible) to generate analysis
  */
-async function callLMS(prompt: string, verseId: string): Promise<string> {
+async function callLMS(prompt: string): Promise<string> {
   const url = `${LMS_BASE_URL}/v1/chat/completions`
 
-  // 10 minute timeout for large models
+  // 5 minute timeout for word analysis (shorter than before)
   const controller = new AbortController()
-  const timeout = setTimeout(() => controller.abort(), 10 * 60 * 1000)
+  const timeout = setTimeout(() => controller.abort(), 5 * 60 * 1000)
 
   try {
-    console.log(`\n      🔗 Connecting to LM Studio at ${LMS_BASE_URL}`)
-    console.log(`      🤖 Using model: ${LMS_MODEL}`)
-
     const response = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -235,42 +304,28 @@ async function callLMS(prompt: string, verseId: string): Promise<string> {
           },
         ],
         temperature: 0.7,
-        max_tokens: -1, // Let LM Studio use maximum available
+        max_tokens: -1,
         stream: false,
-        tools: [],           // Explicitly no tools
-        tool_choice: 'none', // Disable tool calling
       }),
     })
 
     if (!response.ok) {
       const errorBody = await response.text().catch(() => 'Could not read error body')
-      console.log(`      ❌ API returned ${response.status} ${response.statusText}`)
-      console.log(`      📄 Response: ${errorBody.slice(0, 200)}`)
-      throw new Error(`LM Studio API error: ${response.status} ${response.statusText}`)
+      throw new Error(`LM Studio API error: ${response.status} - ${errorBody.slice(0, 200)}`)
     }
 
-    console.log(`      ✓ Response received, parsing...`)
     const data = await response.json()
-
-    // OpenAI-style response structure
     if (!data.choices || !data.choices[0]?.message?.content) {
-      console.log(`      ⚠️  Empty or missing content in API response`)
-      console.log(`      📄 Response keys: ${Object.keys(data).join(', ')}`)
       throw new Error('LM Studio returned empty response')
     }
 
-    const content = data.choices[0].message.content
-    console.log(`      ✓ Got ${content.length} chars from LLM`)
-    return content
+    return data.choices[0].message.content
   } catch (error) {
     if (error instanceof Error && error.name === 'AbortError') {
-      console.log(`\n      ❌ Request timed out after 10 minutes`)
-      throw new Error(`LM Studio request timed out for ${verseId}`)
+      throw new Error('LM Studio request timed out after 5 minutes')
     }
     if (error instanceof TypeError && error.message.includes('fetch')) {
-      console.log(`\n      ❌ Connection failed - Is LM Studio running?`)
-      console.log(`         Check that the server is started in LM Studio`)
-      throw new Error(`Cannot connect to LM Studio at ${LMS_BASE_URL}`)
+      throw new Error(`Cannot connect to LM Studio at ${LMS_BASE_URL}. Is it running?`)
     }
     throw error
   } finally {
@@ -279,16 +334,16 @@ async function callLMS(prompt: string, verseId: string): Promise<string> {
 }
 
 /**
- * Unified LLM caller - routes to appropriate backend based on LLM_BACKEND env var
+ * Unified LLM caller
  */
-async function callLLM(prompt: string, verseId: string): Promise<string> {
+async function callLLM(prompt: string): Promise<string> {
   switch (LLM_BACKEND.toLowerCase()) {
     case 'lms':
     case 'lmstudio':
-      return callLMS(prompt, verseId)
+      return callLMS(prompt)
     case 'ollama':
     default:
-      return callOllama(prompt, verseId)
+      return callOllama(prompt)
   }
 }
 
@@ -298,7 +353,6 @@ async function callLLM(prompt: string, verseId: string): Promise<string> {
 function repairJson(json: string): string {
   let repaired = json.trim()
 
-  // Count brackets to find mismatches
   const openBraces = (repaired.match(/\{/g) || []).length
   const closeBraces = (repaired.match(/\}/g) || []).length
   const openBrackets = (repaired.match(/\[/g) || []).length
@@ -308,26 +362,11 @@ function repairJson(json: string): string {
   const missingBrackets = openBrackets - closeBrackets
 
   if (missingBraces > 0 || missingBrackets > 0) {
-    console.log(`      🔧 Attempting JSON repair...`)
-    console.log(`         Missing } braces: ${missingBraces}`)
-    console.log(`         Missing ] brackets: ${missingBrackets}`)
-
-    // Remove trailing comma if present
     repaired = repaired.replace(/,\s*$/, '')
-
-    // Add missing brackets and braces in correct order
-    // We need to close arrays before objects typically
-    for (let i = 0; i < missingBrackets; i++) {
-      repaired += ']'
-    }
-    for (let i = 0; i < missingBraces; i++) {
-      repaired += '}'
-    }
-
-    console.log(`         Added ${missingBrackets} ] and ${missingBraces} }`)
+    for (let i = 0; i < missingBrackets; i++) repaired += ']'
+    for (let i = 0; i < missingBraces; i++) repaired += '}'
   }
 
-  // Fix trailing commas before closing brackets/braces
   repaired = repaired.replace(/,\s*\]/g, ']')
   repaired = repaired.replace(/,\s*\}/g, '}')
 
@@ -335,115 +374,187 @@ function repairJson(json: string): string {
 }
 
 /**
- * Extract JSON from LLM response (handles markdown code blocks)
+ * Extract JSON from LLM response
  */
 function extractJson(response: string): object {
-  // Helper to try parsing with repair
-  const tryParse = (json: string, label: string): object | null => {
+  const tryParse = (json: string): object | null => {
     try {
       return JSON.parse(json)
-    } catch (error) {
-      console.log(`\n      ⚠️  ${label} - parse failed:`)
-      console.log(`         ${error instanceof Error ? error.message : 'Parse error'}`)
-
-      // Try repair
+    } catch {
       try {
-        const repaired = repairJson(json)
-        const result = JSON.parse(repaired)
-        console.log(`      ✓ JSON repair successful!`)
-        return result
-      } catch (repairError) {
-        console.log(`      ❌ Repair also failed:`)
-        console.log(`         ${repairError instanceof Error ? repairError.message : 'Parse error'}`)
+        return JSON.parse(repairJson(json))
+      } catch {
         return null
       }
     }
   }
 
-  // Try to parse directly first
-  const direct = tryParse(response.trim(), 'Direct parse')
+  // Try direct parse
+  const direct = tryParse(response.trim())
   if (direct) return direct
 
-  // Try to extract from markdown code block
+  // Try markdown code block
   const jsonMatch = response.match(/```(?:json)?\s*([\s\S]*?)\s*```/)
   if (jsonMatch) {
-    const codeBlock = tryParse(jsonMatch[1].trim(), 'Code block')
+    const codeBlock = tryParse(jsonMatch[1].trim())
     if (codeBlock) return codeBlock
   }
 
-  // Try to find JSON object in response
+  // Try to find JSON object
   const objectMatch = response.match(/\{[\s\S]*\}/)
   if (objectMatch) {
-    const extracted = tryParse(objectMatch[0], 'Extracted object')
+    const extracted = tryParse(objectMatch[0])
     if (extracted) return extracted
-  }
-
-  // Log the raw response for debugging
-  console.log('\n      📄 Raw response preview (first 500 chars):')
-  console.log(`         ${response.slice(0, 500).replace(/\n/g, '\n         ')}`)
-  if (response.length > 500) {
-    console.log(`         ... (${response.length - 500} more chars)`)
   }
 
   throw new Error('Could not extract valid JSON from response')
 }
 
 /**
- * Generate analysis for a single verse
+ * Get temp file paths
  */
-async function generateVerseAnalysis(
-  surah: Surah,
-  verseNumber: number
-): Promise<object> {
-  const verseId = `${surah.id}:${verseNumber}`
+function getTempPaths(surahId: number, verseNum: number) {
+  const prefix = `${surahId}-${verseNum}`
+  return {
+    base: path.join(TEMP_DIR, `${prefix}.base.json`),
+    word: (wordNum: number) => path.join(TEMP_DIR, `${prefix}.w${wordNum}.json`),
+    final: path.join(ANALYSIS_DIR, `${prefix}.json`),
+  }
+}
 
-  console.log(`      📖 Surah: ${surah.name} (${surah.nameArabic})`)
-  console.log(`      📜 Verse: ${verseNumber}`)
-
-  const prompt = ANALYSIS_PROMPT
+/**
+ * Phase 1: Generate base analysis
+ */
+async function generateBaseAnalysis(surah: Surah, verseNum: number): Promise<BaseAnalysis> {
+  const prompt = BASE_PROMPT
     .replace(/{SURAH_NAME}/g, surah.name)
     .replace(/{SURAH_NUMBER}/g, surah.id.toString())
-    .replace(/{VERSE_NUMBER}/g, verseNumber.toString())
+    .replace(/{VERSE_NUMBER}/g, verseNum.toString())
 
-  const response = await callLLM(prompt, verseId)
-
-  console.log(`      🔍 Extracting JSON from response...`)
-  const analysis = extractJson(response)
-  console.log(`      ✓ JSON extracted successfully`)
-
-  return analysis
+  const response = await callLLM(prompt)
+  return extractJson(response) as BaseAnalysis
 }
 
 /**
- * Check if analysis file already exists
+ * Phase 2: Generate word detail
  */
-function analysisExists(surahId: number, verseNumber: number): boolean {
-  const filePath = path.join(ANALYSIS_DIR, `${surahId}-${verseNumber}.json`)
-  return fs.existsSync(filePath)
+async function generateWordDetail(
+  surah: Surah,
+  verseNum: number,
+  verseArabic: string,
+  word: BaseWord,
+  totalWords: number
+): Promise<WordDetail> {
+  const prompt = WORD_PROMPT
+    .replace(/{SURAH_NAME}/g, surah.name)
+    .replace(/{VERSE_NUMBER}/g, verseNum.toString())
+    .replace(/{VERSE_ARABIC}/g, verseArabic)
+    .replace(/{WORD_NUMBER}/g, word.wordNumber.toString())
+    .replace(/{TOTAL_WORDS}/g, totalWords.toString())
+    .replace(/{WORD_ARABIC}/g, word.arabic)
+    .replace(/{WORD_TRANSLITERATION}/g, word.transliteration)
+    .replace(/{WORD_MEANING}/g, word.meaning)
+
+  const response = await callLLM(prompt)
+  return extractJson(response) as WordDetail
 }
 
 /**
- * Save analysis to file
+ * Merge base analysis with word details
  */
-function saveAnalysis(surahId: number, verseNumber: number, analysis: object): void {
-  const filePath = path.join(ANALYSIS_DIR, `${surahId}-${verseNumber}.json`)
-  fs.writeFileSync(filePath, JSON.stringify(analysis, null, 2))
+function mergeAnalysis(base: BaseAnalysis, wordDetails: WordDetail[]): object {
+  const mergedWords = base.words.map((baseWord) => {
+    const detail = wordDetails.find((d) => d.wordNumber === baseWord.wordNumber)
+    if (detail) {
+      return {
+        ...baseWord,
+        root: detail.root,
+        grammaticalCategory: detail.grammaticalCategory,
+        definiteness: detail.definiteness,
+        morphology: detail.morphology,
+        grammar: detail.grammar,
+        syntacticFunction: detail.syntacticFunction,
+        components: detail.components,
+        semanticNote: detail.semanticNote,
+      }
+    }
+    return baseWord
+  })
+
+  return {
+    ...base,
+    words: mergedWords,
+  }
 }
 
 /**
- * Format duration in human readable format
+ * Format duration
  */
 function formatDuration(ms: number): string {
   const seconds = Math.floor(ms / 1000)
   const minutes = Math.floor(seconds / 60)
-  const hours = Math.floor(minutes / 60)
-
-  if (hours > 0) {
-    return `${hours}h ${minutes % 60}m ${seconds % 60}s`
-  } else if (minutes > 0) {
-    return `${minutes}m ${seconds % 60}s`
-  }
+  if (minutes > 0) return `${minutes}m ${seconds % 60}s`
   return `${seconds}s`
+}
+
+/**
+ * Process a single verse
+ */
+async function processVerse(surah: Surah, verseNum: number): Promise<{ success: boolean; cached: boolean }> {
+  const paths = getTempPaths(surah.id, verseNum)
+  const verseId = `${surah.id}:${verseNum}`
+
+  // Check if final file exists
+  if (fs.existsSync(paths.final)) {
+    return { success: true, cached: true }
+  }
+
+  // Phase 1: Get or generate base analysis
+  let base: BaseAnalysis
+  if (fs.existsSync(paths.base)) {
+    console.log(`      Phase 1: Loading cached base...`)
+    base = JSON.parse(fs.readFileSync(paths.base, 'utf-8'))
+  } else {
+    console.log(`      Phase 1: Generating base analysis...`)
+    const startTime = Date.now()
+    base = await generateBaseAnalysis(surah, verseNum)
+    fs.writeFileSync(paths.base, JSON.stringify(base, null, 2))
+    console.log(`      Phase 1: Done (${formatDuration(Date.now() - startTime)})`)
+  }
+
+  // Phase 2: Get or generate word details
+  const wordDetails: WordDetail[] = []
+  const totalWords = base.words.length
+
+  for (const word of base.words) {
+    const wordPath = paths.word(word.wordNumber)
+
+    if (fs.existsSync(wordPath)) {
+      console.log(`      Phase 2: Word ${word.wordNumber}/${totalWords} - cached`)
+      wordDetails.push(JSON.parse(fs.readFileSync(wordPath, 'utf-8')))
+    } else {
+      console.log(`      Phase 2: Word ${word.wordNumber}/${totalWords} (${word.arabic})...`)
+      const startTime = Date.now()
+      const detail = await generateWordDetail(surah, verseNum, base.verse.arabic, word, totalWords)
+      fs.writeFileSync(wordPath, JSON.stringify(detail, null, 2))
+      wordDetails.push(detail)
+      console.log(`               Done (${formatDuration(Date.now() - startTime)})`)
+    }
+  }
+
+  // Merge and save final
+  console.log(`      Merging and saving final analysis...`)
+  const final = mergeAnalysis(base, wordDetails)
+  fs.writeFileSync(paths.final, JSON.stringify(final, null, 2))
+
+  // Cleanup temp files
+  if (fs.existsSync(paths.base)) fs.unlinkSync(paths.base)
+  for (const word of base.words) {
+    const wordPath = paths.word(word.wordNumber)
+    if (fs.existsSync(wordPath)) fs.unlinkSync(wordPath)
+  }
+
+  return { success: true, cached: false }
 }
 
 /**
@@ -451,23 +562,26 @@ function formatDuration(ms: number): string {
  */
 async function main() {
   console.log('='.repeat(60))
-  console.log('Qalam Verse Analysis Seeder')
+  console.log('Qalam Verse Analysis Seeder (Two-Phase)')
   console.log('='.repeat(60))
   console.log(`Backend:      ${LLM_BACKEND}`)
   if (LLM_BACKEND.toLowerCase() === 'lms' || LLM_BACKEND.toLowerCase() === 'lmstudio') {
-    console.log(`LM Studio URL: ${LMS_BASE_URL}`)
+    console.log(`LM Studio:    ${LMS_BASE_URL}`)
     console.log(`Model:        ${LMS_MODEL}`)
   } else {
-    console.log(`Ollama URL:   ${OLLAMA_BASE_URL}`)
+    console.log(`Ollama:       ${OLLAMA_BASE_URL}`)
     console.log(`Model:        ${OLLAMA_MODEL}`)
   }
   console.log(`Output:       ${ANALYSIS_DIR}`)
   console.log('='.repeat(60))
   console.log('')
 
-  // Ensure analysis directory exists
+  // Ensure directories exist
   if (!fs.existsSync(ANALYSIS_DIR)) {
     fs.mkdirSync(ANALYSIS_DIR, { recursive: true })
+  }
+  if (!fs.existsSync(TEMP_DIR)) {
+    fs.mkdirSync(TEMP_DIR, { recursive: true })
   }
 
   // Load surahs
@@ -487,40 +601,33 @@ async function main() {
   // Process each surah
   for (const surah of surahs) {
     console.log(`\n${'─'.repeat(50)}`)
-    console.log(`📖 Surah ${surah.id}: ${surah.name} (${surah.nameArabic})`)
-    console.log(`   Verses: ${surah.verseCount}`)
+    console.log(`Surah ${surah.id}: ${surah.name} (${surah.nameArabic})`)
+    console.log(`Verses: ${surah.verseCount}`)
     console.log('─'.repeat(50))
 
-    // Process each verse
     for (let verseNum = 1; verseNum <= surah.verseCount; verseNum++) {
       const verseId = `${surah.id}:${verseNum}`
       const currentTotal = processedCount + skippedCount + errorCount + 1
       const progress = ((currentTotal / totalVerses) * 100).toFixed(1)
 
-      // Check if already exists
-      if (analysisExists(surah.id, verseNum)) {
-        skippedCount++
-        console.log(`   ⏭️  [${progress}%] ${verseId} - Skipped (exists)`)
-        continue
-      }
-
-      // Generate analysis
-      const verseStart = Date.now()
-      process.stdout.write(`   ⏳ [${progress}%] ${verseId} - Generating...`)
+      console.log(`\n   [${progress}%] ${verseId}`)
 
       try {
-        const analysis = await generateVerseAnalysis(surah, verseNum)
-        saveAnalysis(surah.id, verseNum, analysis)
-        processedCount++
+        const result = await processVerse(surah, verseNum)
 
-        const duration = Date.now() - verseStart
-        console.log(`\r   ✅ [${progress}%] ${verseId} - Done (${formatDuration(duration)})`)
+        if (result.cached) {
+          skippedCount++
+          console.log(`      Skipped (already exists)`)
+        } else {
+          processedCount++
+          console.log(`      Complete!`)
+        }
       } catch (error) {
         errorCount++
         const errorMessage = error instanceof Error ? error.message : 'Unknown error'
-        console.log(`\r   ❌ [${progress}%] ${verseId} - Error: ${errorMessage}`)
+        console.log(`      ERROR: ${errorMessage}`)
 
-        // Log error to file for debugging
+        // Log error to file
         const errorLogPath = path.join(ANALYSIS_DIR, '_errors.log')
         fs.appendFileSync(
           errorLogPath,
@@ -535,14 +642,14 @@ async function main() {
   console.log('\n' + '='.repeat(60))
   console.log('SUMMARY')
   console.log('='.repeat(60))
-  console.log(`✅ Processed: ${processedCount}`)
-  console.log(`⏭️  Skipped:   ${skippedCount}`)
-  console.log(`❌ Errors:    ${errorCount}`)
-  console.log(`⏱️  Duration:  ${formatDuration(totalDuration)}`)
+  console.log(`Processed: ${processedCount}`)
+  console.log(`Skipped:   ${skippedCount}`)
+  console.log(`Errors:    ${errorCount}`)
+  console.log(`Duration:  ${formatDuration(totalDuration)}`)
   console.log('='.repeat(60))
 
   if (errorCount > 0) {
-    console.log(`\n⚠️  Check ${path.join(ANALYSIS_DIR, '_errors.log')} for error details`)
+    console.log(`\nCheck ${path.join(ANALYSIS_DIR, '_errors.log')} for error details`)
   }
 
   process.exit(errorCount > 0 ? 1 : 0)
