@@ -8,15 +8,43 @@ import { VerseDisplay } from '@/components/VerseDisplay'
 import { FeedbackCard } from '@/components/FeedbackCard'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
-import { getSurahById, getRandomVerse } from '@/lib/data'
-import type { AttemptFeedback, WordAnalysis, Verse, Surah } from '@/types'
+import { getSurahById, getRandomVerse, getVerseAnalysis } from '@/lib/data'
+import type { AttemptFeedback, WordAnalysis, VerseAnalysis, Verse, Surah } from '@/types'
 
-// Mock word analysis - will be enhanced with pre-computed data later
+// Default analysis for verses without pre-computed analysis (verse 1:1)
 const defaultAnalysis: WordAnalysis[] = [
-  { word: 'بِسْمِ', transliteration: 'bismi', meaning: 'In the name of', root: 'س-م-و', grammar: 'Preposition + noun' },
-  { word: 'اللَّهِ', transliteration: 'Allāhi', meaning: 'Allah/God', grammar: 'Proper noun, genitive case' },
-  { word: 'الرَّحْمَٰنِ', transliteration: 'ar-Raḥmāni', meaning: 'The Most Gracious', root: 'ر-ح-م', grammar: 'Adjective/Name, genitive' },
-  { word: 'الرَّحِيمِ', transliteration: 'ar-Raḥīmi', meaning: 'The Most Merciful', root: 'ر-ح-م', grammar: 'Adjective/Name, genitive' },
+  {
+    wordNumber: 1,
+    arabic: 'بِسْمِ',
+    transliteration: 'bismi',
+    meaning: 'In the name of',
+    root: { letters: 'س-م-و', transliteration: 's-m-w', meaning: 'to be elevated; name' },
+    grammaticalCategory: 'prepositional phrase'
+  },
+  {
+    wordNumber: 2,
+    arabic: 'اللَّهِ',
+    transliteration: 'Allāhi',
+    meaning: 'Allah/God',
+    root: { letters: 'أ-ل-ه', transliteration: 'ʾ-l-h', meaning: 'to worship, deity' },
+    grammaticalCategory: 'proper noun'
+  },
+  {
+    wordNumber: 3,
+    arabic: 'الرَّحْمَٰنِ',
+    transliteration: 'ar-Raḥmāni',
+    meaning: 'The Most Gracious',
+    root: { letters: 'ر-ح-م', transliteration: 'r-ḥ-m', meaning: 'mercy, compassion' },
+    grammaticalCategory: 'adjective/name'
+  },
+  {
+    wordNumber: 4,
+    arabic: 'الرَّحِيمِ',
+    transliteration: 'ar-Raḥīmi',
+    meaning: 'The Most Merciful',
+    root: { letters: 'ر-ح-م', transliteration: 'r-ḥ-m', meaning: 'mercy, compassion' },
+    grammaticalCategory: 'adjective/name'
+  },
 ]
 
 // Mock feedback generator (will be replaced with LLM evaluation)
@@ -70,9 +98,10 @@ function PracticeContent() {
   const [feedback, setFeedback] = useState<AttemptFeedback | null>(null)
   const [hintsRevealed, setHintsRevealed] = useState(0)
   const [showHints, setShowHints] = useState(false)
+  const [verseAnalysis, setVerseAnalysis] = useState<VerseAnalysis | null>(null)
 
-  // Use default analysis for now (will be per-verse later)
-  const analysis = defaultAnalysis
+  // Use loaded analysis or fall back to default
+  const analysis = verseAnalysis?.words || defaultAnalysis
 
   // Load verse data
   useEffect(() => {
@@ -111,6 +140,12 @@ function PracticeContent() {
             },
             totalVerses: surah.verses.length,
           })
+
+          // Try to load verse analysis
+          const analysisData = await getVerseAnalysis(verse.id)
+          if (analysisData) {
+            setVerseAnalysis(analysisData)
+          }
         } else {
           // Load random verse for quick practice
           const randomVerse = await getRandomVerse()
@@ -137,6 +172,12 @@ function PracticeContent() {
             },
             totalVerses: surah.verses.length,
           })
+
+          // Try to load verse analysis
+          const analysisData = await getVerseAnalysis(randomVerse.id)
+          if (analysisData) {
+            setVerseAnalysis(analysisData)
+          }
         }
       } catch (err) {
         console.error('Failed to load verse:', err)
@@ -311,7 +352,7 @@ function PracticeContent() {
                 <div className="flex flex-wrap gap-2">
                   {analysis.slice(0, hintsRevealed).map((word, i) => (
                     <span key={i} className="text-sm bg-white px-2 py-1 rounded border border-amber-200">
-                      <span className="font-arabic" dir="rtl">{word.word}</span>
+                      <span className="font-arabic" dir="rtl">{word.arabic}</span>
                       <span className="text-gray-500 mx-1">=</span>
                       <span className="text-amber-700">{word.meaning}</span>
                     </span>
@@ -446,7 +487,7 @@ function PracticeContent() {
                       hintsRevealed > 0 && index < hintsRevealed && 'bg-amber-50'
                     )}>
                       <td className="py-4 px-4 text-right font-arabic text-xl text-gray-900" dir="rtl">
-                        {word.word}
+                        {word.arabic}
                       </td>
                       <td className="py-4 px-4 text-gray-700 italic">
                         {word.transliteration}
@@ -455,10 +496,10 @@ function PracticeContent() {
                         {word.meaning}
                       </td>
                       <td className="py-4 px-4 text-gray-600 font-arabic" dir="rtl">
-                        {word.root || '—'}
+                        {word.root?.letters || '—'}
                       </td>
                       <td className="py-4 px-4 text-gray-500 text-sm">
-                        {word.grammar || '—'}
+                        {word.grammaticalCategory || '—'}
                       </td>
                     </tr>
                   ))}

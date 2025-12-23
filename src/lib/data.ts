@@ -1,4 +1,4 @@
-import { Surah, Verse } from '@/types'
+import { Surah, Verse, VerseAnalysis } from '@/types'
 
 /**
  * Data fetching utilities for Quran data
@@ -97,4 +97,31 @@ export function getFeaturedVerses(): { id: string; surahName: string }[] {
     { id: '113:1', surahName: 'Al-Falaq' },
     { id: '114:1', surahName: 'An-Nas' },
   ]
+}
+
+/**
+ * Get verse analysis by verse ID (e.g., "1:2")
+ * Returns null if analysis not available
+ */
+export async function getVerseAnalysis(verseId: string): Promise<VerseAnalysis | null> {
+  // Convert "1:2" to "1-2" for file naming
+  const fileName = verseId.replace(':', '-')
+
+  try {
+    const response = await fetch(`${DATA_BASE_URL}/analysis/${fileName}.json`)
+    if (!response.ok) {
+      return null
+    }
+    return await response.json()
+  } catch {
+    return null
+  }
+}
+
+/**
+ * Check if verse analysis is available
+ */
+export async function hasVerseAnalysis(verseId: string): Promise<boolean> {
+  const analysis = await getVerseAnalysis(verseId)
+  return analysis !== null
 }

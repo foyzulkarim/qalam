@@ -1,0 +1,186 @@
+{
+  "verseId": "1:1",
+  "verse": {
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+    "transliteration": "Bismi-llāhi r-Raḥmāni r-Raḥīm",
+    "surah": "Al-Fatihah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِسْمِ",
+      "transliteration": "bismi",
+      "meaning": "in the name of",
+      "grammaticalCategory": "prepositional phrase (jār wa-majrūr)",
+      "components": [
+        {
+          "element": "بِ",
+          "transliteration": "bi",
+          "type": "preposition (ḥarf jarr)",
+          "function": "indicates accompaniment, seeking blessing, or manner"
+        },
+        {
+          "element": "اسْمِ",
+          "transliteration": "ismi",
+          "type": "noun (ism)"
+        }
+      ],
+      "root": {
+        "letters": "س-م-و",
+        "transliteration": "s-m-w",
+        "meaning": "to be high, elevated; name (that which elevates/identifies)"
+      },
+      "morphology": {
+        "pattern": "اِفْعِل",
+        "patternTransliteration": "ifʿil",
+        "wordType": "noun (ism)",
+        "note": "The alif is elided when preceded by a particle; original form is اِسْم"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "governed by preposition بِ",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "muḍāf in iḍāfa construction with اللَّهِ"
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah, God",
+      "grammaticalCategory": "proper noun (ism ʿalam)",
+      "definiteness": "inherently definite (proper noun)",
+      "root": {
+        "letters": "أ-ل-ه",
+        "transliteration": "ʾ-l-h",
+        "meaning": "to worship, to be devoted toward; deity"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "muḍāf ilayhi (second term of iḍāfa with اسْمِ)",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "muḍāf ilayhi completing بِسْمِ اللَّهِ"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "ar-Raḥmāni",
+      "meaning": "The Entirely Merciful, The Most Gracious",
+      "grammaticalCategory": "definite adjective/name (ṣifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "mercy, compassion, womb (source of kindness)"
+      },
+      "morphology": {
+        "pattern": "فَعْلَان",
+        "patternTransliteration": "faʿlān",
+        "wordType": "intensive adjective (ṣīghat mubālagha)",
+        "note": "Pattern indicates intensity and extensiveness of the attribute"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "ṣifa (adjective) agreeing with اللَّهِ in case",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "semanticNote": "Indicates all-encompassing mercy extended to all creation",
+      "syntacticFunction": "ṣifa (attributive adjective) to اللَّهِ"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرَّحِيمِ",
+      "transliteration": "ar-Raḥīmi",
+      "meaning": "The Especially Merciful, The Bestower of Mercy",
+      "grammaticalCategory": "definite adjective/name (ṣifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "mercy, compassion, womb (source of kindness)"
+      },
+      "morphology": {
+        "pattern": "فَعِيل",
+        "patternTransliteration": "faʿīl",
+        "wordType": "intensive adjective (ṣīghat mubālagha)",
+        "note": "Pattern indicates permanence and consistency of the attribute"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "ṣifa (adjective) agreeing with اللَّهِ in case",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "semanticNote": "Indicates special mercy bestowed upon the believers specifically",
+      "syntacticFunction": "ṣifa (attributive adjective) to اللَّهِ"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "In-[the]-name [of] Allah, the-Most-Gracious, the-Most-Merciful",
+    "preservingSyntax": "Bi-smi Allāhi ar-Raḥmāni ar-Raḥīm"
+  },
+  "rootSummary": [
+    {
+      "word": "اسْمِ",
+      "transliteration": "ism",
+      "root": "س-م-و (s-m-w)",
+      "coreMeaning": "to be elevated, high",
+      "derivedMeaning": "name (that which identifies/elevates)"
+    },
+    {
+      "word": "اللَّه",
+      "transliteration": "Allāh",
+      "root": "أ-ل-ه (ʾ-l-h)",
+      "coreMeaning": "to worship, to be devoted",
+      "derivedMeaning": "proper noun for the one true God"
+    },
+    {
+      "word": "الرَّحْمَـٰن",
+      "transliteration": "ar-Raḥmān",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "mercy, compassion",
+      "derivedMeaning": "The Entirely Merciful (intensive, all-encompassing)"
+    },
+    {
+      "word": "الرَّحِيم",
+      "transliteration": "ar-Raḥīm",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "mercy, compassion",
+      "derivedMeaning": "The Especially Merciful (permanent, specific)"
+    }
+  ],
+  "grammarObservations": {
+    "sentenceType": {
+      "classification": "prepositional phrase with implied verb",
+      "mubtada": null,
+      "khabar": null
+    },
+    "idafaConstructions": [
+      {
+        "description": "بِسْمِ اللَّهِ forms a genitive construct",
+        "mudaf": "اسْمِ (in genitive due to preceding بِ)",
+        "mudafIlayhi": "اللَّهِ (genitive as second term)"
+      }
+    ],
+    "notes": [
+      "Both الرَّحْمَـٰن and الرَّحِيم derive from the same root ر-ح-م but have different patterns indicating different aspects of mercy",
+      "الرَّحْمَـٰن (faʿlān pattern) suggests overwhelming, all-encompassing mercy",
+      "الرَّحِيم (faʿīl pattern) suggests consistent, enduring mercy",
+      "The Bismillah is recited before beginning any good deed, seeking blessing through Allah's name"
+    ]
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
