@@ -1,0 +1,388 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "qalam-verse-analysis",
+  "title": "Qalam Verse Analysis Schema",
+  "description": "Schema for word-by-word Quranic verse analysis. Focuses on lexical and morphological analysis using Classical Arabic grammar (naḥw, ṣarf). No tafsīr or theological interpretation.",
+
+  "type": "object",
+  "required": ["verseId", "verse", "words", "literalTranslation", "rootSummary"],
+
+  "properties": {
+    "verseId": {
+      "type": "string",
+      "description": "Verse identifier in format 'surah:verse'",
+      "pattern": "^\\d+:\\d+$",
+      "examples": ["1:1", "1:2", "112:1"]
+    },
+
+    "verse": {
+      "type": "object",
+      "description": "Basic verse information",
+      "required": ["arabic", "transliteration", "surah", "verseNumber"],
+      "properties": {
+        "arabic": {
+          "type": "string",
+          "description": "Full Arabic text of the verse with diacritical marks (tashkīl)"
+        },
+        "transliteration": {
+          "type": "string",
+          "description": "Academic transliteration using standard conventions (ḥ, ʿ, ā, etc.)"
+        },
+        "surah": {
+          "type": "string",
+          "description": "English name of the surah"
+        },
+        "verseNumber": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+
+    "words": {
+      "type": "array",
+      "description": "Word-by-word analysis, in order of appearance (right to left in Arabic)",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/definitions/WordAnalysis"
+      }
+    },
+
+    "literalTranslation": {
+      "type": "object",
+      "description": "Literal translations preserving Arabic structure",
+      "required": ["wordAligned"],
+      "properties": {
+        "wordAligned": {
+          "type": "string",
+          "description": "Word-for-word translation with hyphens connecting compound concepts and brackets for implied words",
+          "examples": ["The-praise [belongs] to-Allah, Lord [of] the-worlds"]
+        },
+        "preservingSyntax": {
+          "type": "string",
+          "description": "Translation keeping Arabic word order with transliterated key terms",
+          "examples": ["The-praise to-Allah, Rabb [of] al-ʿālamīn"]
+        }
+      }
+    },
+
+    "rootSummary": {
+      "type": "array",
+      "description": "Summary of all roots used in the verse",
+      "items": {
+        "type": "object",
+        "required": ["word", "transliteration", "root", "coreMeaning", "derivedMeaning"],
+        "properties": {
+          "word": {
+            "type": "string",
+            "description": "Arabic word"
+          },
+          "transliteration": {
+            "type": "string"
+          },
+          "root": {
+            "type": "string",
+            "description": "Root letters with transliteration in parentheses",
+            "examples": ["ح-م-د (ḥ-m-d)", "ر-ب-ب (r-b-b)"]
+          },
+          "coreMeaning": {
+            "type": "string",
+            "description": "Core semantic meaning of the root"
+          },
+          "derivedMeaning": {
+            "type": "string",
+            "description": "Meaning of the derived word in context"
+          }
+        }
+      }
+    },
+
+    "grammarObservations": {
+      "type": "object",
+      "description": "Sentence-level grammatical analysis (optional but recommended)",
+      "properties": {
+        "sentenceType": {
+          "type": "object",
+          "required": ["classification"],
+          "properties": {
+            "classification": {
+              "type": "string",
+              "description": "Type of sentence",
+              "examples": ["jumla ismiyya (nominal sentence)", "jumla fiʿliyya (verbal sentence)"]
+            },
+            "mubtada": {
+              "type": "string",
+              "description": "Subject of nominal sentence (if applicable)"
+            },
+            "khabar": {
+              "type": "string",
+              "description": "Predicate of nominal sentence (if applicable)"
+            }
+          }
+        },
+        "idafaConstructions": {
+          "type": "array",
+          "description": "Genitive constructs in the verse",
+          "items": {
+            "type": "object",
+            "required": ["description", "mudaf", "mudafIlayhi"],
+            "properties": {
+              "description": {
+                "type": "string"
+              },
+              "mudaf": {
+                "type": "string",
+                "description": "First term (possessed/modified)"
+              },
+              "mudafIlayhi": {
+                "type": "string",
+                "description": "Second term (possessor/modifier)"
+              }
+            }
+          }
+        },
+        "notes": {
+          "type": "array",
+          "description": "Additional grammatical observations",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+
+    "metadata": {
+      "type": "object",
+      "description": "Analysis metadata",
+      "properties": {
+        "analysisType": {
+          "type": "string",
+          "const": "lexical and morphological"
+        },
+        "linguisticFramework": {
+          "type": "string",
+          "const": "Classical Arabic grammar (naḥw, ṣarf)"
+        },
+        "scope": {
+          "type": "string",
+          "const": "no tafsīr, thematic, or theological interpretation"
+        }
+      }
+    }
+  },
+
+  "definitions": {
+    "WordAnalysis": {
+      "type": "object",
+      "description": "Analysis of a single Arabic word",
+      "required": ["wordNumber", "arabic", "transliteration", "meaning"],
+      "properties": {
+        "wordNumber": {
+          "type": "integer",
+          "description": "Position in verse (1-indexed)",
+          "minimum": 1
+        },
+        "arabic": {
+          "type": "string",
+          "description": "Arabic word with full diacritical marks"
+        },
+        "transliteration": {
+          "type": "string",
+          "description": "Academic transliteration"
+        },
+        "meaning": {
+          "type": "string",
+          "description": "Literal meaning in English"
+        },
+        "grammaticalCategory": {
+          "type": "string",
+          "description": "Primary grammatical classification",
+          "examples": [
+            "definite noun (ism maʿrifa)",
+            "proper noun (ism ʿalam)",
+            "prepositional phrase (jār wa-majrūr)",
+            "verb (fiʿl)",
+            "particle (ḥarf)"
+          ]
+        },
+        "definiteness": {
+          "type": "string",
+          "description": "How the word is made definite (if applicable)",
+          "examples": [
+            "definite (by al- prefix)",
+            "definite (by iḍāfa to definite noun)",
+            "inherently definite (proper noun)",
+            "indefinite"
+          ]
+        },
+        "root": {
+          "$ref": "#/definitions/WordRoot"
+        },
+        "morphology": {
+          "$ref": "#/definitions/WordMorphology"
+        },
+        "grammar": {
+          "$ref": "#/definitions/WordGrammar"
+        },
+        "syntacticFunction": {
+          "type": "string",
+          "description": "Role in the sentence structure",
+          "examples": [
+            "mubtadaʾ (subject)",
+            "khabar (predicate)",
+            "mafʿūl bihi (direct object)",
+            "fāʿil (doer/subject of verb)",
+            "muḍāf ilayhi (second term of iḍāfa)",
+            "ṣifa (attributive adjective)",
+            "badal (appositive)"
+          ]
+        },
+        "components": {
+          "type": "array",
+          "description": "For compound words (e.g., preposition + noun), list each component",
+          "items": {
+            "$ref": "#/definitions/WordComponent"
+          }
+        },
+        "semanticNote": {
+          "type": "string",
+          "description": "Additional context about meaning or usage"
+        }
+      }
+    },
+
+    "WordRoot": {
+      "type": "object",
+      "description": "Arabic root information",
+      "required": ["letters", "transliteration", "meaning"],
+      "properties": {
+        "letters": {
+          "type": "string",
+          "description": "Root letters separated by hyphens",
+          "pattern": "^[\\u0600-\\u06FF]-[\\u0600-\\u06FF]-[\\u0600-\\u06FF](-[\\u0600-\\u06FF])?$",
+          "examples": ["ح-م-د", "ر-ح-م", "ك-ت-ب"]
+        },
+        "transliteration": {
+          "type": "string",
+          "description": "Transliterated root letters",
+          "examples": ["ḥ-m-d", "r-ḥ-m", "k-t-b"]
+        },
+        "meaning": {
+          "type": "string",
+          "description": "Core semantic meaning of the root"
+        }
+      }
+    },
+
+    "WordMorphology": {
+      "type": "object",
+      "description": "Morphological pattern information",
+      "required": ["pattern", "patternTransliteration", "wordType"],
+      "properties": {
+        "pattern": {
+          "type": "string",
+          "description": "Arabic morphological pattern (wazn)",
+          "examples": ["فَعْل", "فَاعِل", "مَفْعُول", "فَعِيل", "فَعْلَان", "اِفْعَال"]
+        },
+        "patternTransliteration": {
+          "type": "string",
+          "examples": ["faʿl", "fāʿil", "mafʿūl", "faʿīl", "faʿlān", "ifʿāl"]
+        },
+        "wordType": {
+          "type": "string",
+          "description": "Type of derived word",
+          "examples": [
+            "maṣdar (verbal noun)",
+            "ism fāʿil (active participle)",
+            "ism mafʿūl (passive participle)",
+            "ṣīghat mubālagha (intensive adjective)",
+            "fiʿl māḍī (past tense verb)",
+            "fiʿl muḍāriʿ (present/future verb)",
+            "fiʿl amr (imperative)"
+          ]
+        },
+        "note": {
+          "type": "string",
+          "description": "Additional morphological notes"
+        }
+      }
+    },
+
+    "WordGrammar": {
+      "type": "object",
+      "description": "Grammatical case and agreement information",
+      "required": ["case", "caseMarker", "caseReason", "gender", "number"],
+      "properties": {
+        "case": {
+          "type": "string",
+          "description": "Grammatical case",
+          "enum": [
+            "nominative (marfūʿ)",
+            "accusative (manṣūb)",
+            "genitive (majrūr)"
+          ]
+        },
+        "caseMarker": {
+          "type": "string",
+          "description": "The vowel or letter indicating case",
+          "examples": [
+            "ḍamma (ُ)",
+            "fatḥa (َ)",
+            "kasra (ِ)",
+            "wāw (و)",
+            "alif (ا)",
+            "yāʾ (ي)"
+          ]
+        },
+        "caseReason": {
+          "type": "string",
+          "description": "Why this case is used",
+          "examples": [
+            "mubtadaʾ (subject of nominal sentence)",
+            "khabar (predicate)",
+            "governed by preposition",
+            "muḍāf ilayhi (second term of iḍāfa)",
+            "mafʿūl bihi (direct object)"
+          ]
+        },
+        "gender": {
+          "type": "string",
+          "enum": ["masculine", "feminine"]
+        },
+        "number": {
+          "type": "string",
+          "enum": ["singular", "dual", "plural"]
+        }
+      }
+    },
+
+    "WordComponent": {
+      "type": "object",
+      "description": "Component of a compound word",
+      "required": ["element", "transliteration", "type"],
+      "properties": {
+        "element": {
+          "type": "string",
+          "description": "Arabic component"
+        },
+        "transliteration": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "description": "Grammatical type of component",
+          "examples": [
+            "preposition (ḥarf jarr)",
+            "conjunction (ḥarf ʿaṭf)",
+            "definite article",
+            "pronoun suffix"
+          ]
+        },
+        "function": {
+          "type": "string",
+          "description": "What this component does"
+        }
+      }
+    }
+  }
+}
