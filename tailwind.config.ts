@@ -55,8 +55,8 @@ const config: Config = {
         },
       },
       fontFamily: {
-        // Arabic text - Amiri for Quranic content
-        arabic: ['Amiri', 'serif'],
+        // Arabic text - KFGQPC (King Fahd Complex) official Quran font with fallbacks
+        arabic: ['"KFGQPC Uthmanic Script HAFS"', '"Noto Naskh Arabic"', 'serif'],
         // English/UI text - System fonts
         sans: [
           'system-ui',

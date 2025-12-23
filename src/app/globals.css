@@ -1,4 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap');
+
+/* KFGQPC Uthmanic Script HAFS - Official Quran font from King Fahd Complex */
+@font-face {
+  font-family: 'KFGQPC Uthmanic Script HAFS';
+  src: url('https://cdn.jsdelivr.net/gh/nicefiction/al-quran-tafsir@master/docs/fonts/uthmanic_hafs_v22.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 @tailwind base;
 @tailwind components;

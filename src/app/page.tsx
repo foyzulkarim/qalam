@@ -5,13 +5,13 @@ export default function HomePage() {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <header className="bg-gradient-hero pattern-overlay text-white">
+      <header className="bg-gray-50 text-gray-900">
         <nav className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex justify-between items-center">
             <span className="text-2xl font-bold">Qalam</span>
             <div className="flex gap-3">
               <Link href="/browse">
-                <Button variant="ghost" className="text-white hover:bg-white/10">
+                <Button variant="outline">
                   Browse Surahs
                 </Button>
               </Link>
@@ -25,12 +25,12 @@ export default function HomePage() {
         </nav>
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight text-gray-900">
             Understand the Quran
             <br />
-            <span className="text-secondary-300">Through Practice</span>
+            <span className="text-secondary-600">Through Practice</span>
           </h1>
-          <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-700 mb-8 max-w-2xl mx-auto">
             Practice translating Quranic verses and receive instant AI-powered feedback.
             Build deep understanding through active learning.
           </p>
@@ -41,7 +41,7 @@ export default function HomePage() {
               </Button>
             </Link>
             <Link href="/browse">
-              <Button size="lg" variant="outline" className="w-full sm:w-auto border-white text-white hover:bg-white/10">
+              <Button size="lg" variant="outline" className="w-full sm:w-auto">
                 Browse All Surahs
               </Button>
             </Link>
@@ -208,12 +208,12 @@ export default function HomePage() {
       </section>
 
       {/* CTA */}
-      <section className="py-20 bg-gradient-hero pattern-overlay text-white">
+      <section className="py-20 bg-gray-50 text-gray-900">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
             Begin Your Journey
           </h2>
-          <p className="text-xl text-primary-100 mb-8">
+          <p className="text-xl text-gray-700 mb-8">
             Every verse you practice deepens your understanding.
           </p>
           <Link href="/browse">
