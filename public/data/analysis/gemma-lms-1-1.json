@@ -1,0 +1,237 @@
+{
+  "verseId": "1:1",
+  "verse": {
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "transliteration": "bi-smi llāhi ar-raḥmāni ar-rahīmi",
+    "surah": "Al-Fatihah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِسْمِ",
+      "transliteration": "bi-smi",
+      "meaning": "in the name of",
+      "grammaticalCategory": "prepositional phrase (ḥarf jar wa-ism)",
+      "definiteness": "indefinite",
+      "root": {
+        "letters": "س-م-و",
+        "transliteration": "s-m-w",
+        "meaning": "to rise, to elevate; name, reputation"
+      },
+      "morphology": {
+        "pattern": "فِعْل",
+        "patternTransliteration": "fiʿl",
+        "wordType": "masdar (verbal noun) + preposition",
+        "note": "The 'i' is a case ending marker."
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "governed by the preposition 'bi-'",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "ḥāl (circumstantial)",
+      "components": [
+        {
+          "element": "بِ",
+          "transliteration": "bi-",
+          "type": "preposition (ḥarf jarr)",
+          "function": "governs the following noun"
+        },
+        {
+          "element": "سْمِ",
+          "transliteration": "smī",
+          "type": "masdar (verbal noun)",
+          "function": "object of the preposition"
+        }
+      ],
+      "semanticNote": "Indicates invocation or beginning in the name of God."
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ٱللَّهِ",
+      "transliteration": "llāhi",
+      "meaning": "of God",
+      "grammaticalCategory": "definite noun (ism maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "transliteration": "l-h-y",
+        "meaning": "to worship, to deify; God"
+      },
+      "morphology": {
+        "pattern": "فَعْل",
+        "patternTransliteration": "faʿl",
+        "wordType": "ism (noun)",
+        "note": "Possessive form with 'i' ending indicating genitive case."
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "governed by the preposition 'bi-'",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "majūr (possessed)",
+      "components": [
+        {
+          "element": "ٱلـ",
+          "transliteration": "al-",
+          "type": "definite article",
+          "function": "marks definiteness"
+        },
+        {
+          "element": "لَّهِ",
+          "transliteration": "llāhi",
+          "type": "noun (ism)",
+          "function": "possessed element"
+        }
+      ],
+      "semanticNote": "Refers to the one and only God."
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ٱلرَّحْمَـٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "meaning": "the Most Gracious",
+      "grammaticalCategory": "definite noun (ism maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "compassion, mercy; to have pity"
+      },
+      "morphology": {
+        "pattern": "فَعْلَان",
+        "patternTransliteration": "faʿlān",
+        "wordType": "ṣīfat mushabbaha (intensive adjective)",
+        "note": "Indicates an intensive quality of mercy."
+      },
+      "grammar": {
+        "case": "nominative (marfūʿ)",
+        "caseMarker": "ḍamma (ِ)",
+        "caseReason": "predicate of the following noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "khabar (predicate)",
+      "components": [
+        {
+          "element": "ٱلـ",
+          "transliteration": "al-",
+          "type": "definite article",
+          "function": "marks definiteness"
+        },
+        {
+          "element": "رَّحْمَـٰنِ",
+          "transliteration": "raḥmāni",
+          "type": "adjective (ṣīfat)",
+          "function": "describes God"
+        }
+      ],
+      "semanticNote": "One of the beautiful names and attributes of God."
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ٱلرَّحِيمِ",
+      "transliteration": "ar-rahīmi",
+      "meaning": "the Most Merciful",
+      "grammaticalCategory": "definite noun (ism maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "compassion, mercy; to have pity"
+      },
+      "morphology": {
+        "pattern": "فَعِيل",
+        "patternTransliteration": "faʿīl",
+        "wordType": "ṣīfat mushabbaha (intensive adjective)",
+        "note": "Indicates an ongoing quality of mercy."
+      },
+      "grammar": {
+        "case": "nominative (marfūʿ)",
+        "caseMarker": "ḍamma (ِ)",
+        "caseReason": "predicate of the following noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "khabar (predicate)",
+      "components": [
+        {
+          "element": "ٱلـ",
+          "transliteration": "al-",
+          "type": "definite article",
+          "function": "marks definiteness"
+        },
+        {
+          "element": "رَّحِيمِ",
+          "transliteration": "rahīmi",
+          "type": "adjective (ṣīfat)",
+          "function": "describes God"
+        }
+      ],
+      "semanticNote": "Another beautiful name and attribute of God, emphasizing continuous mercy."
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-the-name-of [God]-of the-Most-Gracious the-Most-Merciful",
+    "preservingSyntax": "bi-smi llāhi ar-raḥmāni ar-rahīmi"
+  },
+  "rootSummary": [
+    {
+      "word": "سْمِ",
+      "transliteration": "smī",
+      "root": "س-م-و (s-m-w)",
+      "coreMeaning": "to rise, to elevate",
+      "derivedMeaning": "name"
+    },
+    {
+      "word": "ٱللَّهِ",
+      "transliteration": "llāhi",
+      "root": "ل-هـ-ي (l-h-y)",
+      "coreMeaning": "to worship, to deify",
+      "derivedMeaning": "God"
+    },
+    {
+      "word": "ٱلرَّحْمَـٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "compassion, mercy",
+      "derivedMeaning": "the Most Gracious"
+    },
+    {
+      "word": "ٱلرَّحِيمِ",
+      "transliteration": "ar-rahīmi",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "compassion, mercy",
+      "derivedMeaning": "the Most Merciful"
+    }
+  ],
+  "grammarObservations": {
+    "sentenceType": {
+      "classification": "jumla ismiyya (nominal)",
+      "mubtada": "ٱللَّهِ",
+      "khabar": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    "idafaConstructions": [
+      {
+        "description": "Idafa of possession between 'llāhi' and the following adjectives.",
+        "mudaf": "ٱللَّهِ",
+        "mudafIlayhi": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+      }
+    ],
+    "notes": [
+      "The verse starts with a prepositional phrase functioning as ḥāl (circumstance).",
+      "The sentence is built on a nominal structure where 'llāhi' is the subject and 'ar-raḥmāni ar-rahīmi' are its predicates.",
+      "The use of two intensive adjectives ('ar-raḥmāni' and 'ar-rahīmi') emphasizes the vastness of God’s mercy."
+    ]
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

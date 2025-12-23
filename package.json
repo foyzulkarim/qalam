@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "fetch-quran": "tsx scripts/fetch-quran-data.ts",
-    "seed:analysis": "tsx scripts/seed-analysis.ts"
+    "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts"
   },
   "dependencies": {
     "next": "^16.1.1",

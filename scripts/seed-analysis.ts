@@ -1,12 +1,23 @@
 /**
- * Seed Script: Generate verse analysis using local LLM (Ollama)
+ * Seed Script: Generate verse analysis using local LLM (Ollama or LM Studio)
  *
  * Usage:
  *   npm run seed:analysis
  *
  * Environment variables:
- *   OLLAMA_BASE_URL - Ollama API endpoint (default: http://localhost:11434)
- *   OLLAMA_MODEL    - Model to use (default: qwen2.5:72b)
+ *   LLM_BACKEND     - Backend to use: 'ollama' or 'lms' (default: ollama)
+ *
+ *   Ollama:
+ *     OLLAMA_BASE_URL - Ollama API endpoint (default: http://localhost:11434)
+ *     OLLAMA_MODEL    - Model to use (default: qwen2.5:72b)
+ *
+ *   LM Studio:
+ *     LMS_BASE_URL    - LM Studio API endpoint (default: http://localhost:1234)
+ *     LMS_MODEL       - Model to use (default: local-model)
+ *
+ * Examples:
+ *   LLM_BACKEND=ollama npm run seed:analysis
+ *   LLM_BACKEND=lms LMS_MODEL=qwen2.5-72b npm run seed:analysis
  *
  * Features:
  *   - Skips existing analysis files (resume capability)
@@ -17,9 +28,16 @@
 import * as fs from 'fs'
 import * as path from 'path'
 
-// Configuration
+// Backend selection: 'ollama' or 'lms'
+const LLM_BACKEND = process.env.LLM_BACKEND || 'ollama'
+
+// Ollama Configuration
 const OLLAMA_BASE_URL = process.env.OLLAMA_BASE_URL || 'http://localhost:11434'
 const OLLAMA_MODEL = process.env.OLLAMA_MODEL || 'qwen2.5:72b'
+
+// LM Studio Configuration
+const LMS_BASE_URL = process.env.LMS_BASE_URL || 'http://localhost:1234'
+const LMS_MODEL = process.env.LMS_MODEL || 'local-model'
 
 // Paths
 const PROJECT_ROOT = path.resolve(__dirname, '..')
@@ -139,51 +157,235 @@ Return ONLY the JSON object, no additional text or markdown.`
 /**
  * Call Ollama API to generate analysis
  */
-async function callOllama(prompt: string): Promise<string> {
-  const response = await fetch(`${OLLAMA_BASE_URL}/api/generate`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      model: OLLAMA_MODEL,
-      prompt,
-      stream: false,
-      options: {
-        temperature: 0.3, // Lower temperature for more consistent JSON output
-        num_predict: 4096, // Allow longer responses for detailed analysis
-      },
-    }),
-  })
+async function callOllama(prompt: string, verseId: string): Promise<string> {
+  const url = `${OLLAMA_BASE_URL}/api/generate`
 
-  if (!response.ok) {
-    throw new Error(`Ollama API error: ${response.status} ${response.statusText}`)
+  try {
+    console.log(`\n      🔗 Connecting to Ollama at ${OLLAMA_BASE_URL}`)
+    console.log(`      🤖 Using model: ${OLLAMA_MODEL}`)
+
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: OLLAMA_MODEL,
+        prompt,
+        stream: false,
+        // format: 'json',  // Forces valid JSON output
+      }),
+    })
+
+    if (!response.ok) {
+      const errorBody = await response.text().catch(() => 'Could not read error body')
+      console.log(`      ❌ API returned ${response.status} ${response.statusText}`)
+      console.log(`      📄 Response: ${errorBody.slice(0, 200)}`)
+      throw new Error(`Ollama API error: ${response.status} ${response.statusText}`)
+    }
+
+    console.log(`      ✓ Response received, parsing...`)
+    const data = await response.json();
+    console.log(`      📄 Data`, data)
+
+    if (!data.response) {
+      console.log(`      ⚠️  Empty or missing response field in API response`)
+      console.log(`      📄 Response keys: ${Object.keys(data).join(', ')}`)
+      throw new Error('Ollama returned empty response')
+    }
+
+    console.log(`      ✓ Got ${data.response.length} chars from LLM`)
+    return data.response
+  } catch (error) {
+    if (error instanceof TypeError && error.message.includes('fetch')) {
+      console.log(`\n      ❌ Connection failed - Is Ollama running?`)
+      console.log(`         Try: ollama serve`)
+      throw new Error(`Cannot connect to Ollama at ${OLLAMA_BASE_URL}`)
+    }
+    throw error
+  }
+}
+
+/**
+ * Call LM Studio API (OpenAI-compatible) to generate analysis
+ */
+async function callLMS(prompt: string, verseId: string): Promise<string> {
+  const url = `${LMS_BASE_URL}/v1/chat/completions`
+
+  // 10 minute timeout for large models
+  const controller = new AbortController()
+  const timeout = setTimeout(() => controller.abort(), 10 * 60 * 1000)
+
+  try {
+    console.log(`\n      🔗 Connecting to LM Studio at ${LMS_BASE_URL}`)
+    console.log(`      🤖 Using model: ${LMS_MODEL}`)
+
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      signal: controller.signal,
+      body: JSON.stringify({
+        model: LMS_MODEL,
+        messages: [
+          {
+            role: 'system',
+            content: 'You are an expert in Classical Arabic grammar (naḥw and ṣarf). Return only valid JSON, no additional text or markdown.',
+          },
+          {
+            role: 'user',
+            content: prompt,
+          },
+        ],
+        temperature: 0.7,
+        max_tokens: -1, // Let LM Studio use maximum available
+        stream: false,
+        tools: [],           // Explicitly no tools
+        tool_choice: 'none', // Disable tool calling
+      }),
+    })
+
+    if (!response.ok) {
+      const errorBody = await response.text().catch(() => 'Could not read error body')
+      console.log(`      ❌ API returned ${response.status} ${response.statusText}`)
+      console.log(`      📄 Response: ${errorBody.slice(0, 200)}`)
+      throw new Error(`LM Studio API error: ${response.status} ${response.statusText}`)
+    }
+
+    console.log(`      ✓ Response received, parsing...`)
+    const data = await response.json()
+
+    // OpenAI-style response structure
+    if (!data.choices || !data.choices[0]?.message?.content) {
+      console.log(`      ⚠️  Empty or missing content in API response`)
+      console.log(`      📄 Response keys: ${Object.keys(data).join(', ')}`)
+      throw new Error('LM Studio returned empty response')
+    }
+
+    const content = data.choices[0].message.content
+    console.log(`      ✓ Got ${content.length} chars from LLM`)
+    return content
+  } catch (error) {
+    if (error instanceof Error && error.name === 'AbortError') {
+      console.log(`\n      ❌ Request timed out after 10 minutes`)
+      throw new Error(`LM Studio request timed out for ${verseId}`)
+    }
+    if (error instanceof TypeError && error.message.includes('fetch')) {
+      console.log(`\n      ❌ Connection failed - Is LM Studio running?`)
+      console.log(`         Check that the server is started in LM Studio`)
+      throw new Error(`Cannot connect to LM Studio at ${LMS_BASE_URL}`)
+    }
+    throw error
+  } finally {
+    clearTimeout(timeout)
+  }
+}
+
+/**
+ * Unified LLM caller - routes to appropriate backend based on LLM_BACKEND env var
+ */
+async function callLLM(prompt: string, verseId: string): Promise<string> {
+  switch (LLM_BACKEND.toLowerCase()) {
+    case 'lms':
+    case 'lmstudio':
+      return callLMS(prompt, verseId)
+    case 'ollama':
+    default:
+      return callOllama(prompt, verseId)
+  }
+}
+
+/**
+ * Attempt to repair common JSON issues from LLM output
+ */
+function repairJson(json: string): string {
+  let repaired = json.trim()
+
+  // Count brackets to find mismatches
+  const openBraces = (repaired.match(/\{/g) || []).length
+  const closeBraces = (repaired.match(/\}/g) || []).length
+  const openBrackets = (repaired.match(/\[/g) || []).length
+  const closeBrackets = (repaired.match(/\]/g) || []).length
+
+  const missingBraces = openBraces - closeBraces
+  const missingBrackets = openBrackets - closeBrackets
+
+  if (missingBraces > 0 || missingBrackets > 0) {
+    console.log(`      🔧 Attempting JSON repair...`)
+    console.log(`         Missing } braces: ${missingBraces}`)
+    console.log(`         Missing ] brackets: ${missingBrackets}`)
+
+    // Remove trailing comma if present
+    repaired = repaired.replace(/,\s*$/, '')
+
+    // Add missing brackets and braces in correct order
+    // We need to close arrays before objects typically
+    for (let i = 0; i < missingBrackets; i++) {
+      repaired += ']'
+    }
+    for (let i = 0; i < missingBraces; i++) {
+      repaired += '}'
+    }
+
+    console.log(`         Added ${missingBrackets} ] and ${missingBraces} }`)
   }
 
-  const data = await response.json()
-  return data.response
+  // Fix trailing commas before closing brackets/braces
+  repaired = repaired.replace(/,\s*\]/g, ']')
+  repaired = repaired.replace(/,\s*\}/g, '}')
+
+  return repaired
 }
 
 /**
  * Extract JSON from LLM response (handles markdown code blocks)
  */
 function extractJson(response: string): object {
-  // Try to parse directly first
-  try {
-    return JSON.parse(response.trim())
-  } catch {
-    // Try to extract from markdown code block
-    const jsonMatch = response.match(/```(?:json)?\s*([\s\S]*?)\s*```/)
-    if (jsonMatch) {
-      return JSON.parse(jsonMatch[1].trim())
-    }
+  // Helper to try parsing with repair
+  const tryParse = (json: string, label: string): object | null => {
+    try {
+      return JSON.parse(json)
+    } catch (error) {
+      console.log(`\n      ⚠️  ${label} - parse failed:`)
+      console.log(`         ${error instanceof Error ? error.message : 'Parse error'}`)
 
-    // Try to find JSON object in response
-    const objectMatch = response.match(/\{[\s\S]*\}/)
-    if (objectMatch) {
-      return JSON.parse(objectMatch[0])
+      // Try repair
+      try {
+        const repaired = repairJson(json)
+        const result = JSON.parse(repaired)
+        console.log(`      ✓ JSON repair successful!`)
+        return result
+      } catch (repairError) {
+        console.log(`      ❌ Repair also failed:`)
+        console.log(`         ${repairError instanceof Error ? repairError.message : 'Parse error'}`)
+        return null
+      }
     }
-
-    throw new Error('Could not extract valid JSON from response')
   }
+
+  // Try to parse directly first
+  const direct = tryParse(response.trim(), 'Direct parse')
+  if (direct) return direct
+
+  // Try to extract from markdown code block
+  const jsonMatch = response.match(/```(?:json)?\s*([\s\S]*?)\s*```/)
+  if (jsonMatch) {
+    const codeBlock = tryParse(jsonMatch[1].trim(), 'Code block')
+    if (codeBlock) return codeBlock
+  }
+
+  // Try to find JSON object in response
+  const objectMatch = response.match(/\{[\s\S]*\}/)
+  if (objectMatch) {
+    const extracted = tryParse(objectMatch[0], 'Extracted object')
+    if (extracted) return extracted
+  }
+
+  // Log the raw response for debugging
+  console.log('\n      📄 Raw response preview (first 500 chars):')
+  console.log(`         ${response.slice(0, 500).replace(/\n/g, '\n         ')}`)
+  if (response.length > 500) {
+    console.log(`         ... (${response.length - 500} more chars)`)
+  }
+
+  throw new Error('Could not extract valid JSON from response')
 }
 
 /**
@@ -193,13 +395,23 @@ async function generateVerseAnalysis(
   surah: Surah,
   verseNumber: number
 ): Promise<object> {
+  const verseId = `${surah.id}:${verseNumber}`
+
+  console.log(`      📖 Surah: ${surah.name} (${surah.nameArabic})`)
+  console.log(`      📜 Verse: ${verseNumber}`)
+
   const prompt = ANALYSIS_PROMPT
     .replace(/{SURAH_NAME}/g, surah.name)
     .replace(/{SURAH_NUMBER}/g, surah.id.toString())
     .replace(/{VERSE_NUMBER}/g, verseNumber.toString())
 
-  const response = await callOllama(prompt)
-  return extractJson(response)
+  const response = await callLLM(prompt, verseId)
+
+  console.log(`      🔍 Extracting JSON from response...`)
+  const analysis = extractJson(response)
+  console.log(`      ✓ JSON extracted successfully`)
+
+  return analysis
 }
 
 /**
@@ -241,8 +453,14 @@ async function main() {
   console.log('='.repeat(60))
   console.log('Qalam Verse Analysis Seeder')
   console.log('='.repeat(60))
-  console.log(`Ollama URL:   ${OLLAMA_BASE_URL}`)
-  console.log(`Model:        ${OLLAMA_MODEL}`)
+  console.log(`Backend:      ${LLM_BACKEND}`)
+  if (LLM_BACKEND.toLowerCase() === 'lms' || LLM_BACKEND.toLowerCase() === 'lmstudio') {
+    console.log(`LM Studio URL: ${LMS_BASE_URL}`)
+    console.log(`Model:        ${LMS_MODEL}`)
+  } else {
+    console.log(`Ollama URL:   ${OLLAMA_BASE_URL}`)
+    console.log(`Model:        ${OLLAMA_MODEL}`)
+  }
   console.log(`Output:       ${ANALYSIS_DIR}`)
   console.log('='.repeat(60))
   console.log('')

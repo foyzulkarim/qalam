@@ -1,0 +1,242 @@
+{
+  "verseId": "1:1",
+  "verse": {
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "transliteration": "Bism Allāh al-Raḥmān al-Raḥīm",
+    "surah": "Al‑Fatihah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِسْمِ",
+      "transliteration": "bismi",
+      "meaning": "in the name",
+      "grammaticalCategory": "compound preposition + noun",
+      "definiteness": "n/a",
+      "root": {
+        "letters": "س-م",
+        "transliteration": "s-m",
+        "meaning": "to name"
+      },
+      "morphology": {
+        "pattern": "بِـ + فَعَل",
+        "patternTransliteration": "bi- + faʿl",
+        "wordType": "compound",
+        "note": "preposition bi + noun sm"
+      },
+      "grammar": {
+        "case": "accusative (manṣūb)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "object of the preposition bi",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "prepositional object",
+      "components": [
+        {
+          "element": "بِ",
+          "transliteration": "bi",
+          "type": "preposition (ḥarf jarr)",
+          "function": "introduces the noun that follows"
+        },
+        {
+          "element": "سْم",
+          "transliteration": "sm",
+          "type": "noun (ism)",
+          "function": "object of the preposition bi"
+        }
+      ],
+      "semanticNote": "The phrase indicates that the following action is performed in the name of the one named."
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāh-i",
+      "meaning": "God",
+      "grammaticalCategory": "definite proper noun (ism maʿrifa)",
+      "definiteness": "definite (by al‑ prefix)",
+      "root": {
+        "letters": "ل-ه",
+        "transliteration": "l-h",
+        "meaning": "to be"
+      },
+      "morphology": {
+        "pattern": "أَسْمَةً مَا يَكُونُ فِيهَا الْمَرْحُومَةُ",
+        "patternTransliteration": "ism maqadam",
+        "wordType": "proper noun",
+        "note": "unique name of the Supreme Being"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "part of the idafa construct with ar‑Rahman and ar‑Raheem",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "possessor in the idafa construct",
+      "components": [
+        {
+          "element": "ال",
+          "transliteration": "al",
+          "type": "definite article",
+          "function": "marks definiteness"
+        },
+        {
+          "element": "اللَّه",
+          "transliteration": "Allāh",
+          "type": "proper noun",
+          "function": "primary entity of the idafa"
+        }
+      ],
+      "semanticNote": "Denotes the Supreme God, unique and indivisible."
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّحْمَٰنِ",
+      "transliteration": "ar‑Raḥmān-i",
+      "meaning": "the Most Merciful",
+      "grammaticalCategory": "definite adjective (ism fiʿl)",
+      "definiteness": "definite (by al‑ prefix)",
+      "root": {
+        "letters": "ر-ح-ن",
+        "transliteration": "r-h-n",
+        "meaning": "to be merciful"
+      },
+      "morphology": {
+        "pattern": "فَعْلَان",
+        "patternTransliteration": "faʿlān",
+        "wordType": "adjective",
+        "note": "used as a divine name"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "part of the idafa construct with Allah",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "possessed adjective in the idafa construct",
+      "components": [
+        {
+          "element": "ال",
+          "transliteration": "al",
+          "type": "definite article",
+          "function": "marks definiteness"
+        },
+        {
+          "element": "رَّحْمَٰن",
+          "transliteration": "Raḥmān",
+          "type": "adjective",
+          "function": "attribute of Allah"
+        }
+      ],
+      "semanticNote": "Conveys the attribute of infinite mercy."
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرَّحِيمِ",
+      "transliteration": "ar‑Raḥīm-i",
+      "meaning": "the Merciful",
+      "grammaticalCategory": "definite adjective (ism fiʿl)",
+      "definiteness": "definite (by al‑ prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-h-m",
+        "meaning": "to show mercy"
+      },
+      "morphology": {
+        "pattern": "فَعِيم",
+        "patternTransliteration": "faʿīm",
+        "wordType": "adjective",
+        "note": "used as a divine name"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "part of the idafa construct with Allah",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "possessed adjective in the idafa construct",
+      "components": [
+        {
+          "element": "ال",
+          "transliteration": "al",
+          "type": "definite article",
+          "function": "marks definiteness"
+        },
+        {
+          "element": "رَّحِيم",
+          "transliteration": "Raḥīm",
+          "type": "adjective",
+          "function": "attribute of Allah"
+        }
+      ],
+      "semanticNote": "Highlights Allah’s continual mercy."
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "bismi [Allah] ar‑Raḥmān ar‑Raḥīm",
+    "preservingSyntax": "bismi Allah ar‑Raḥmān ar‑Raḥīm"
+  },
+  "rootSummary": [
+    {
+      "word": "بِسْمِ",
+      "transliteration": "bismi",
+      "root": "س-م",
+      "coreMeaning": "to name",
+      "derivedMeaning": "name"
+    },
+    {
+      "word": "اللَّهِ",
+      "transliteration": "Allāh",
+      "root": "ل-ه",
+      "coreMeaning": "to be",
+      "derivedMeaning": "God"
+    },
+    {
+      "word": "الرَّحْمَٰنِ",
+      "transliteration": "ar‑Raḥmān",
+      "root": "ر-ح-ن",
+      "coreMeaning": "to be merciful",
+      "derivedMeaning": "the most merciful"
+    },
+    {
+      "word": "الرَّحِيمِ",
+      "transliteration": "ar‑Raḥīm",
+      "root": "ر-ح-م",
+      "coreMeaning": "to show mercy",
+      "derivedMeaning": "the merciful"
+    }
+  ],
+  "grammarObservations": {
+    "sentenceType": {
+      "classification": "jumla ismiyya (nominal clause)",
+      "mubtada": "bismi",
+      "khabar": "Allah ar‑Raḥmān ar‑Raḥīm"
+    },
+    "idafaConstructions": [
+      {
+        "description": "Possessive construct between Allah and ar‑Raḥmān",
+        "mudaf": "Allah",
+        "mudafIlayhi": "ar‑Raḥmān"
+      },
+      {
+        "description": "Possessive construct between Allah and ar‑Raḥīm",
+        "mudaf": "Allah",
+        "mudafIlayhi": "ar‑Raḥīm"
+      }
+    ],
+    "notes": [
+      "The preposition bi governs the noun sm in the accusative case.",
+      "The words ar‑Raḥmān and ar‑Raḥīm are in the genitive case as part of the idafa with Allah.",
+      "The entire phrase functions as an introductory clause expressing the prelude to the following verses."
+    ]
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

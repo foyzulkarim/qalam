@@ -1,0 +1,214 @@
+{
+  "verseId": "1:2",
+  "verse": {
+    "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "transliteration": "al‑ḥamdu lillāhi rabbi al‑ʿālamīn",
+    "surah": "Al-Fatihah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْحَمْدُ",
+      "transliteration": "al‑ḥamdu",
+      "meaning": "the praise",
+      "grammaticalCategory": "definite noun (ism maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ح-م-د",
+        "transliteration": "ḥ-m-d",
+        "meaning": "praise"
+      },
+      "morphology": {
+        "pattern": "فَعْل",
+        "patternTransliteration": "faʿl",
+        "wordType": "ism maʿrifa",
+        "note": "definite noun with al- prefix"
+      },
+      "grammar": {
+        "case": "nominative (marfūʿ)",
+        "caseMarker": "ḍamma (ُ)",
+        "caseReason": "subject of nominal sentence",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "mubtadaʾ (subject)",
+      "components": [
+        {
+          "element": "الْحَمْدُ",
+          "transliteration": "al‑ḥamdu",
+          "type": "ism maʿrifa",
+          "function": "subject"
+        }
+      ],
+      "semanticNote": "the totality of praise"
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "to Allah",
+      "grammaticalCategory": "prepositional phrase (ḥarf jarr + ism)",
+      "definiteness": "definite (by al- prefix on Allah)",
+      "root": {
+        "letters": null,
+        "transliteration": null,
+        "meaning": null
+      },
+      "morphology": {
+        "pattern": "prepositional + noun",
+        "patternTransliteration": "li + ism",
+        "wordType": "prepositional phrase",
+        "note": "preposition لِ followed by definite noun"
+      },
+      "grammar": {
+        "case": "none",
+        "caseMarker": null,
+        "caseReason": "prepositional particle",
+        "gender": "none",
+        "number": "none"
+      },
+      "syntacticFunction": "prepositional complement of the predicate",
+      "components": [
+        {
+          "element": "لِ",
+          "transliteration": "li",
+          "type": "ḥarf jarr (preposition)",
+          "function": "prepositional particle"
+        },
+        {
+          "element": "الله",
+          "transliteration": "Allāh",
+          "type": "ism",
+          "function": "possessed noun"
+        }
+      ],
+      "semanticNote": "indicates the object of praise"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّ",
+      "transliteration": "rabbi",
+      "meaning": "the Lord",
+      "grammaticalCategory": "definite noun (ism maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ب-ب",
+        "transliteration": "r-b-b",
+        "meaning": "rule, lordship"
+      },
+      "morphology": {
+        "pattern": "فَعّ",
+        "patternTransliteration": "fʿʿ",
+        "wordType": "ism maʿrifa",
+        "note": "double consonant indicates authority"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "genitive due to preposition لِ",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "appositive attribute within the predicate",
+      "components": [
+        {
+          "element": "رَبِّ",
+          "transliteration": "rabbi",
+          "type": "ism maʿrifa",
+          "function": "attribute of praise"
+        }
+      ],
+      "semanticNote": "the singular lord of all"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al‑ʿālamīn",
+      "meaning": "of the worlds",
+      "grammaticalCategory": "definite noun (ism maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ع-ل-م",
+        "transliteration": "ʿ-l-m",
+        "meaning": "world, universe"
+      },
+      "morphology": {
+        "pattern": "فَعْلْين",
+        "patternTransliteration": "fʿlīn",
+        "wordType": "ism maʿrifa",
+        "note": "plural of the world"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "ḍamma (ُ)",
+        "caseReason": "genitive due to preposition لِ",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "syntacticFunction": "appositive attribute within the predicate",
+      "components": [
+        {
+          "element": "الْعَالَمِينَ",
+          "transliteration": "al‑ʿālamīn",
+          "type": "ism maʿrifa",
+          "function": "attribute of praise"
+        }
+      ],
+      "semanticNote": "refers to all worlds"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "al‑ḥamdu‑lillāhi‑rabbi‑al‑ʿālamīn",
+    "preservingSyntax": "al‑ḥamdu lillāhi rabbi al‑ʿālamīn"
+  },
+  "rootSummary": [
+    {
+      "word": "الْحَمْدُ",
+      "transliteration": "al‑ḥamdu",
+      "root": "ح-م-د",
+      "coreMeaning": "praise",
+      "derivedMeaning": "the praise"
+    },
+    {
+      "word": "رَبِّ",
+      "transliteration": "rabbi",
+      "root": "ر-ب-ب",
+      "coreMeaning": "rule, lordship",
+      "derivedMeaning": "the Lord"
+    },
+    {
+      "word": "الْعَالَمِينَ",
+      "transliteration": "al‑ʿālamīn",
+      "root": "ع-ل-م",
+      "coreMeaning": "world, universe",
+      "derivedMeaning": "the worlds"
+    }
+  ],
+  "grammarObservations": {
+    "sentenceType": {
+      "classification": "jumla ismiyya (nominal)",
+      "mubtada": "al‑ḥamdu",
+      "khabar": "lillāhi rabbi al‑ʿālamīn"
+    },
+    "idafaConstructions": [
+      {
+        "description": "rabbi al‑ʿālamīn as a construct of attribution",
+        "mudaf": "rabbi",
+        "mudafIlayhi": "al‑ʿālamīn"
+      }
+    ],
+    "notes": [
+      "The verse is a nominal sentence with a subject (mubtada) and a predicate that is a prepositional phrase.",
+      "The preposition لِ attaches to the entire phrase \"Allah rabbi al‑ʿālamīn\" creating a genitive construct.",
+      "The word \"الْحَمْدُ\" is nominative (marfūʿ) due to its role as subject.",
+      "The words \"رَبِّ\" and \"الْعَالَمِينَ\" are in the genitive case (majrūr) because of the preposition.",
+      "The final damma on \"الْعَالَمِينَ\" is a case marker for the genitive."
+    ]
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

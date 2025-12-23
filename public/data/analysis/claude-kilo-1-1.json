@@ -1,0 +1,239 @@
+{
+  "verseId": "1:1",
+  "verse": {
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "transliteration": "bismi llāhi l-raḥmāni l-raḥīmi",
+    "surah": "Al-Fatiha",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِسْمِ",
+      "transliteration": "bismi",
+      "meaning": "in the name of",
+      "grammaticalCategory": "prepositional phrase (jarr wa majrūr)",
+      "definiteness": "construct state (idāfa)",
+      "root": {
+        "letters": "س-م-و",
+        "transliteration": "s-m-w",
+        "meaning": "name, mark, reputation"
+      },
+      "morphology": {
+        "pattern": "فِعْل",
+        "patternTransliteration": "fiʿl",
+        "wordType": "masdar (verbal noun)",
+        "note": "The kasra on the bā' indicates it is a preposition"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "governed by the preposition bi (بِ)",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "prepositional phrase (jarr wa majrūr)",
+      "components": [
+        {
+          "element": "بِ",
+          "transliteration": "bi",
+          "type": "preposition (ḥarf jarr)",
+          "function": "indicates 'in' or 'with'"
+        },
+        {
+          "element": "سْمِ",
+          "transliteration": "smi",
+          "type": "noun (ism)",
+          "function": "object of the preposition, in genitive case"
+        }
+      ],
+      "semanticNote": "The phrase 'in the name of' indicates invocation or beginning an action by mentioning the name"
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ٱللَّهِ",
+      "transliteration": "llāhi",
+      "meaning": "Allah",
+      "grammaticalCategory": "proper noun (ism ʿalam)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "أ-ل-ه",
+        "transliteration": "ʾ-l-h",
+        "meaning": "to worship, deity"
+      },
+      "morphology": {
+        "pattern": "فِعَال",
+        "patternTransliteration": "fiʿāl",
+        "wordType": "proper noun (ism ʿalam)",
+        "note": "The name of God in Islam"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "second term of idāfa construction (mudaf ilayhi)",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "mudaf ilayhi (second term of idāfa)",
+      "components": [
+        {
+          "element": "ٱل",
+          "transliteration": "al",
+          "type": "definite article (alif lam)",
+          "function": "makes the noun definite"
+        },
+        {
+          "element": "لَّهِ",
+          "transliteration": "lāhi",
+          "type": "proper noun",
+          "function": "the divine name"
+        }
+      ],
+      "semanticNote": "The supreme proper name of God in Islam"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ٱلرَّحْمَـٰنِ",
+      "transliteration": "l-raḥmāni",
+      "meaning": "the Entirely Merciful",
+      "grammaticalCategory": "adjective (ṣifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "mercy, compassion, womb"
+      },
+      "morphology": {
+        "pattern": "فَعْلَان",
+        "patternTransliteration": "faʿlān",
+        "wordType": "intensive adjective (sifat mubalagha)",
+        "note": "Intensive form indicating vastness of mercy"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "apposition (badal) or adjective following the name",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "apposition (badal) or adjective (ṣifa)",
+      "components": [
+        {
+          "element": "ٱل",
+          "transliteration": "al",
+          "type": "definite article (alif lam)",
+          "function": "makes the adjective definite"
+        },
+        {
+          "element": "رَّحْمَـٰنِ",
+          "transliteration": "raḥmāni",
+          "type": "intensive adjective",
+          "function": "describes the vastness of divine mercy"
+        }
+      ],
+      "semanticNote": "An attribute exclusive to God, indicating mercy encompassing all creation"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ٱلرَّحِيمِ",
+      "transliteration": "l-raḥīmi",
+      "meaning": "the Especially Merciful",
+      "grammaticalCategory": "adjective (ṣifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "mercy, compassion, womb"
+      },
+      "morphology": {
+        "pattern": "فَعِيل",
+        "patternTransliteration": "faʿīl",
+        "wordType": "active participle (ism fāʿil)",
+        "note": "Indicates one who continuously bestows mercy"
+      },
+      "grammar": {
+        "case": "genitive (majrūr)",
+        "caseMarker": "kasra (ِ)",
+        "caseReason": "apposition (badal) or adjective following the name",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "apposition (badal) or adjective (ṣifa)",
+      "components": [
+        {
+          "element": "ٱل",
+          "transliteration": "al",
+          "type": "definite article (alif lam)",
+          "function": "makes the adjective definite"
+        },
+        {
+          "element": "رَّحِيمِ",
+          "transliteration": "raḥīmi",
+          "type": "active participle",
+          "function": "describes continuous bestowal of mercy"
+        }
+      ],
+      "semanticNote": "Indicates continuous and specific mercy, particularly to believers"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "In [the] name-of Allah [the] Entirely-Merciful [the] Especially-Merciful",
+    "preservingSyntax": "bismi llāhi l-raḥmāni l-raḥīmi (In the name of Allah, the Entirely Merciful, the Especially Merciful)"
+  },
+  "rootSummary": [
+    {
+      "word": "بِسْمِ",
+      "transliteration": "bismi",
+      "root": "س-م-و (s-m-w)",
+      "coreMeaning": "name, mark, reputation",
+      "derivedMeaning": "in the name of - invocation by mentioning"
+    },
+    {
+      "word": "ٱللَّهِ",
+      "transliteration": "llāhi",
+      "root": "أ-ل-ه (ʾ-l-h)",
+      "coreMeaning": "to worship, deity",
+      "derivedMeaning": "Allah - the supreme divine name"
+    },
+    {
+      "word": "ٱلرَّحْمَـٰنِ",
+      "transliteration": "l-raḥmāni",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "mercy, compassion, womb",
+      "derivedMeaning": "the Entirely Merciful - vast encompassing mercy"
+    },
+    {
+      "word": "ٱلرَّحِيمِ",
+      "transliteration": "l-raḥīmi",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "mercy, compassion, womb",
+      "derivedMeaning": "the Especially Merciful - continuous specific mercy"
+    }
+  ],
+  "grammarObservations": {
+    "sentenceType": {
+      "classification": "jumla ismiyya (nominal)",
+      "mubtada": "implicit (the beginning of action)",
+      "khabar": "implicit (the action being performed)"
+    },
+    "idafaConstructions": [
+      {
+        "description": "bismi llāhi - 'in the name of Allah'",
+        "mudaf": "bismi (name)",
+        "mudafIlayhi": "llāhi (of Allah)"
+      }
+    ],
+    "notes": [
+      "The basmala functions as an introductory formula, not a complete grammatical sentence",
+      "All words are in genitive case due to the preposition bi (بِ) and the idāfa construction",
+      "The two divine names ar-Raḥmān and ar-Raḥīm function as appositions (badal) to Allah",
+      "The pattern faʿlān (رَّحْمَـٰنِ) indicates intensity and vastness",
+      "The pattern faʿīl (رَّحِيمِ) indicates continuity and active participation"
+    ]
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

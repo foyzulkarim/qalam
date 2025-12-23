@@ -1,0 +1,132 @@
+{
+  "verseId": "1:2",
+  "verse": {
+    "arabic": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "transliteration": "ar-raḥmāni ar-raḥīmi",
+    "surah": "Al-Fatihah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ٱلرَّحْمَٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "meaning": "The Most Gracious",
+      "grammaticalCategory": "definite adjective (ṣifah maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "to have mercy, compassion"
+      },
+      "morphology": {
+        "pattern": "فَعْلَان",
+        "patternTransliteration": "faʿlān",
+        "wordType": "ṣīgah (form II active participle)",
+        "note": "Intensive form of the root."
+      },
+      "grammar": {
+        "case": "nominative (marfūʿ)",
+        "caseMarker": "kasra (ٍ) due to being a proper name/apposition",
+        "caseReason": "part of the appositive phrase describing Allah",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "appositive (naʿt) to Allah",
+      "components": [
+        {
+          "element": "ٱلْـ",
+          "transliteration": "al-",
+          "type": "definite article (ḥarf al-ʿahd)",
+          "function": "determines the noun"
+        },
+        {
+          "element": "رَّحْمَٰنِ",
+          "transliteration": "raḥmāni",
+          "type": "adjective (ṣifah)",
+          "function": "describes Allah"
+        }
+      ],
+      "semanticNote": "One of the 99 names of Allah."
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ٱلرَّحِيمِ",
+      "transliteration": "ar-raḥīmi",
+      "meaning": "The Most Merciful",
+      "grammaticalCategory": "definite adjective (ṣifah maʿrifa)",
+      "definiteness": "definite (by al- prefix)",
+      "root": {
+        "letters": "ر-ح-م",
+        "transliteration": "r-ḥ-m",
+        "meaning": "to have mercy, compassion"
+      },
+      "morphology": {
+        "pattern": "فَعِيل",
+        "patternTransliteration": "faʿīl",
+        "wordType": "ṣīgah (form IV active participle)",
+        "note": "Another intensive form of the root."
+      },
+      "grammar": {
+        "case": "nominative (marfūʿ)",
+        "caseMarker": "kasra (ٍ) due to being a proper name/apposition",
+        "caseReason": "part of the appositive phrase describing Allah",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "syntacticFunction": "appositive (naʿt) to Allah",
+      "components": [
+        {
+          "element": "ٱلْـ",
+          "transliteration": "al-",
+          "type": "definite article (ḥarf al-ʿahd)",
+          "function": "determines the noun"
+        },
+        {
+          "element": "رَّحِيمِ",
+          "transliteration": "raḥīmi",
+          "type": "adjective (ṣifah)",
+          "function": "describes Allah"
+        }
+      ],
+      "semanticNote": "Another of the 99 names of Allah."
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-Most-Gracious - The-Most-Merciful",
+    "preservingSyntax": "ar-raḥmāni ar-raḥīmi"
+  },
+  "rootSummary": [
+    {
+      "word": "ٱلرَّحْمَٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "to have mercy, compassion",
+      "derivedMeaning": "The Most Gracious (active participle)"
+    },
+    {
+      "word": "ٱلرَّحِيمِ",
+      "transliteration": "ar-raḥīmi",
+      "root": "ر-ح-م (r-ḥ-m)",
+      "coreMeaning": "to have mercy, compassion",
+      "derivedMeaning": "The Most Merciful (active participle)"
+    }
+  ],
+  "grammarObservations": {
+    "sentenceType": {
+      "classification": "jumla ismiyya (nominal)",
+      "mubtada": "[Implied: Allah]",
+      "khabar": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+    },
+    "idafaConstructions": [],
+    "notes": [
+      "The verse consists of two appositive adjectives describing Allah. The mubtada' (subject) is implied, understood from context.",
+      "The case marking on both adjectives is kasra due to their function as an appositive phrase functioning like a proper name."
+    ]
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
