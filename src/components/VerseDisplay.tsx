@@ -6,6 +6,7 @@ interface VerseDisplayProps {
   surahName?: string
   className?: string
   size?: 'sm' | 'md' | 'lg' | 'xl'
+  colorizeWords?: boolean
 }
 
 const sizeStyles = {
@@ -15,13 +16,23 @@ const sizeStyles = {
   xl: 'text-arabic-xl',
 }
 
+// Alternating colors for word highlighting
+const wordColors = [
+  'text-teal-700',
+  'text-amber-700',
+]
+
 export function VerseDisplay({
   arabic,
   verseNumber,
   surahName,
   className,
   size = 'lg',
+  colorizeWords = false,
 }: VerseDisplayProps) {
+  // Split Arabic text into words for colorization
+  const words = arabic.split(/\s+/)
+
   return (
     <div className={cn('bg-primary-50/50 rounded-xl p-6 md:p-8', className)}>
       {/* Surah and verse reference */}
@@ -39,13 +50,25 @@ export function VerseDisplay({
       {/* Arabic text */}
       <p
         className={cn(
-          'font-arabic text-gray-900 leading-[2.5]',
+          'font-arabic leading-[2.5]',
+          !colorizeWords && 'text-gray-900',
           sizeStyles[size]
         )}
         dir="rtl"
         lang="ar"
       >
-        {arabic}
+        {colorizeWords ? (
+          words.map((word, index) => (
+            <span key={index}>
+              <span className={wordColors[index % wordColors.length]}>
+                {word}
+              </span>
+              {index < words.length - 1 && ' '}
+            </span>
+          ))
+        ) : (
+          arabic
+        )}
       </p>
     </div>
   )

@@ -24,75 +24,60 @@ export interface Verse {
 }
 
 // =============================================================================
-// WORD ANALYSIS TYPES
+// QURAN SOURCE DATA TYPES (from Tanzil.net)
+// =============================================================================
+
+// Verse in quran.json (source of truth)
+export interface QuranVerse {
+  number: number
+  arabic: string
+  translations: {
+    'en.sahih': string
+    'en.transliteration': string
+    [key: string]: string  // Future translations
+  }
+}
+
+// Surah with verses in quran.json
+export interface QuranSurah extends Surah {
+  verses: QuranVerse[]
+}
+
+// Complete quran.json structure
+export interface QuranData {
+  meta: {
+    source: string           // "tanzil.net"
+    arabicEdition: string    // "quran-simple"
+    translations: string[]   // ["en.sahih"]
+    generatedAt: string      // ISO timestamp
+  }
+  surahs: QuranSurah[]
+}
+
+// =============================================================================
+// WORD ANALYSIS TYPES (simplified for learners)
 // =============================================================================
 
 // Root information for an Arabic word
 export interface WordRoot {
   letters: string              // e.g., "ح-م-د"
-  transliteration: string      // e.g., "ḥ-m-d"
   meaning: string              // Core meaning of the root
 }
 
-// Morphological pattern information
-export interface WordMorphology {
-  pattern: string              // Arabic pattern e.g., "فَعْل"
-  patternTransliteration: string  // e.g., "faʿl"
-  wordType: string             // e.g., "maṣdar (verbal noun)"
-  note?: string                // Additional morphology notes
-}
-
-// Grammatical case and agreement
-export interface WordGrammar {
-  case: string                 // e.g., "nominative (marfūʿ)"
-  caseMarker: string           // e.g., "ḍamma (ُ)"
-  caseReason: string           // e.g., "mubtadaʾ (subject)"
-  gender: 'masculine' | 'feminine'
-  number: 'singular' | 'dual' | 'plural'
-}
-
-// Component parts for compound words (e.g., لِلَّهِ = لِ + اللَّهِ)
+// Component parts for compound words (e.g., لِلَّهِ = لِ + الله)
 export interface WordComponent {
-  element: string              // Arabic element
-  transliteration: string
-  type: string                 // e.g., "preposition (ḥarf jarr)"
-  function?: string            // What it does
+  arabic: string               // Arabic element
+  meaning: string              // What it means
 }
 
-// Complete word-by-word analysis
+// Word-by-word analysis (focused on meaning, not grammar)
 export interface WordAnalysis {
-  // Essential (always shown)
   wordNumber: number
   arabic: string
   transliteration: string
   meaning: string              // Literal meaning
-
-  // Quick reference (shown in table)
-  root?: WordRoot
-  grammaticalCategory?: string // e.g., "definite noun (ism maʿrifa)"
-
-  // Detailed (expandable)
-  morphology?: WordMorphology
-  grammar?: WordGrammar
-  syntacticFunction?: string   // e.g., "mubtadaʾ (subject)"
-  components?: WordComponent[] // For compound words
-  semanticNote?: string        // Additional meaning context
-  definiteness?: string        // e.g., "definite (by al- prefix)"
-}
-
-// Sentence-level grammar observations
-export interface SentenceGrammar {
-  sentenceType: {
-    classification: string     // e.g., "jumla ismiyya (nominal sentence)"
-    mubtada?: string           // Subject
-    khabar?: string            // Predicate
-  }
-  idafaConstructions?: {
-    description: string
-    mudaf: string
-    mudafIlayhi: string
-  }[]
-  notes?: string[]
+  root?: WordRoot              // Triliteral root (if applicable)
+  components?: WordComponent[] // For compound words only
 }
 
 // Complete verse analysis
@@ -107,16 +92,7 @@ export interface VerseAnalysis {
   words: WordAnalysis[]
   literalTranslation: {
     wordAligned: string        // e.g., "The-praise [belongs] to-Allāh"
-    preservingSyntax?: string  // Keeping Arabic word order
   }
-  rootSummary: {
-    word: string
-    transliteration: string
-    root: string
-    coreMeaning: string
-    derivedMeaning: string
-  }[]
-  grammarObservations?: SentenceGrammar
   metadata?: {
     analysisType: string
     linguisticFramework: string

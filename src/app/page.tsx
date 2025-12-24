@@ -15,7 +15,7 @@ export default function HomePage() {
                   Browse Surahs
                 </Button>
               </Link>
-              <Link href="/practice?verseId=1:1">
+              <Link href="/browse/surah/1/1">
                 <Button variant="secondary">
                   Start Practice
                 </Button>
@@ -35,7 +35,7 @@ export default function HomePage() {
             Build deep understanding through active learning.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/practice?verseId=1:1">
+            <Link href="/browse/surah/1/1">
               <Button size="lg" variant="secondary" className="w-full sm:w-auto">
                 Try with Al-Fatihah
               </Button>
@@ -48,37 +48,6 @@ export default function HomePage() {
           </div>
         </div>
       </header>
-
-      {/* Featured Verse - Try It Now */}
-      <section className="py-16 bg-gray-50">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-2">Try It Now</h2>
-            <p className="text-gray-600">See how Qalam helps you learn</p>
-          </div>
-
-          <div className="bg-white rounded-2xl shadow-card p-8 md:p-12">
-            <p className="text-sm text-gray-500 mb-4 text-center">Al-Fatihah 1:1</p>
-            <p
-              className="font-arabic text-arabic-xl text-gray-900 text-center leading-[2.5] mb-6"
-              dir="rtl"
-              lang="ar"
-            >
-              بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-            </p>
-            <p className="text-center text-gray-500 text-sm mb-6">
-              Can you translate this verse? Click below to practice.
-            </p>
-            <div className="flex justify-center">
-              <Link href="/practice?verseId=1:1">
-                <Button size="lg">
-                  Practice This Verse
-                </Button>
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* How It Works */}
       <section className="py-20 bg-white">

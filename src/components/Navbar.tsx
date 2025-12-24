@@ -8,7 +8,6 @@ import { cn } from '@/lib/utils'
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/browse', label: 'Browse' },
-  { href: '/practice', label: 'Practice' },
 ]
 
 export function Navbar() {
@@ -53,7 +52,7 @@ export function Navbar() {
           {/* Right side - Quick practice button */}
           <div className="flex items-center gap-3">
             <Link
-              href="/practice?verseId=1:1"
+              href="/browse/surah/1/1"
               className="hidden sm:inline-flex items-center px-4 py-2 text-sm font-medium rounded-lg bg-primary-600 text-white hover:bg-primary-700 transition-colors"
             >
               Quick Practice
@@ -100,7 +99,7 @@ export function Navbar() {
               </Link>
             ))}
             <Link
-              href="/practice?verseId=1:1"
+              href="/browse/surah/1/1"
               className="block px-4 py-3 rounded-lg text-base font-medium bg-primary-600 text-white text-center mt-2"
               onClick={() => setIsMobileMenuOpen(false)}
             >

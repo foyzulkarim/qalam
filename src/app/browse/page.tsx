@@ -5,29 +5,34 @@ import Link from 'next/link'
 import { Input, Card, Spinner } from '@/components/ui'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
-import { getAllSurahs } from '@/lib/data'
+import { getAllSurahs, getAnalysisManifest, type AnalysisManifest } from '@/lib/data'
 import type { Surah } from '@/types'
 
 type FilterType = 'all' | 'Meccan' | 'Medinan'
 
 export default function BrowsePage() {
   const [surahs, setSurahs] = useState<Surah[]>([])
+  const [analysisManifest, setAnalysisManifest] = useState<AnalysisManifest | null>(null)
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
   const [filter, setFilter] = useState<FilterType>('all')
 
   useEffect(() => {
-    async function loadSurahs() {
+    async function loadData() {
       try {
-        const data = await getAllSurahs()
-        setSurahs(data)
+        const [surahsData, manifest] = await Promise.all([
+          getAllSurahs(),
+          getAnalysisManifest(),
+        ])
+        setSurahs(surahsData)
+        setAnalysisManifest(manifest)
       } catch (error) {
-        console.error('Failed to load surahs:', error)
+        console.error('Failed to load data:', error)
       } finally {
         setLoading(false)
       }
     }
-    loadSurahs()
+    loadData()
   }, [])
 
   const filteredSurahs = surahs.filter((surah) => {
@@ -41,6 +46,12 @@ export default function BrowsePage() {
 
     return matchesSearch && matchesFilter
   })
+
+  // Helper to get analysis count for a surah
+  const getAnalysisCount = (surahId: number): number => {
+    if (!analysisManifest) return 0
+    return analysisManifest.verses.filter(v => v.startsWith(`${surahId}:`)).length
+  }
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -129,6 +140,29 @@ export default function BrowsePage() {
                             {surah.revelationType}
                           </span>
                         </div>
+                        {/* Analysis Progress Bar */}
+                        {(() => {
+                          const analyzed = getAnalysisCount(surah.id)
+                          const total = surah.verseCount
+                          const percentage = total > 0 ? Math.round((analyzed / total) * 100) : 0
+                          return (
+                            <div className="mt-2">
+                              <div className="relative h-5 bg-gray-200 rounded-full overflow-hidden">
+                                <div
+                                  className={cn(
+                                    'h-full rounded-full transition-all',
+                                    percentage === 100 ? 'bg-primary-500' :
+                                    percentage > 0 ? 'bg-amber-500' : 'bg-gray-300'
+                                  )}
+                                  style={{ width: `${Math.max(percentage, percentage > 0 ? 10 : 0)}%` }}
+                                />
+                                <span className="absolute inset-0 flex items-center justify-center text-xs font-medium text-gray-700">
+                                  {analyzed}/{total} analyzed
+                                </span>
+                              </div>
+                            </div>
+                          )
+                        })()}
                       </div>
                     </div>
                   </Card>
