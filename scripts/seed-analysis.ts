@@ -47,16 +47,42 @@ const LMS_MODEL = process.env.LMS_MODEL || 'local-model'
 
 // Paths
 const PROJECT_ROOT = path.resolve(__dirname, '..')
-const SURAHS_FILE = path.join(PROJECT_ROOT, 'public/data/surahs.json')
+const QURAN_FILE = path.join(PROJECT_ROOT, 'public/data/quran.json')
 const ANALYSIS_DIR = path.join(PROJECT_ROOT, 'public/data/analysis')
 const TEMP_DIR = path.join(ANALYSIS_DIR, '_temp')
 
+// Surah Range Filter (inclusive)
+// First run: 1-1 (Al-Fatiha), Second run: 78-114 (Juz Amma)
+const START_SURAH = 78
+const END_SURAH = 114
+
 // Types
+interface QuranVerse {
+  number: number
+  arabic: string
+  translations: {
+    'en.sahih': string
+    'en.transliteration': string
+    [key: string]: string
+  }
+}
+
 interface Surah {
   id: number
   name: string
   nameArabic: string
   verseCount: number
+  verses: QuranVerse[]
+}
+
+interface QuranData {
+  meta: {
+    source: string
+    arabicEdition: string
+    translations: string[]
+    generatedAt: string
+  }
+  surahs: Surah[]
 }
 
 interface BaseWord {
@@ -66,39 +92,30 @@ interface BaseWord {
   meaning: string
 }
 
+// Simplified word detail (for learners - focus on meaning, not grammar)
 interface WordDetail {
   wordNumber: number
   root?: {
     letters: string
-    transliteration: string
     meaning: string
   }
-  grammaticalCategory?: string
-  definiteness?: string
-  morphology?: {
-    pattern: string
-    patternTransliteration: string
-    wordType: string
-    note?: string
-  }
-  grammar?: {
-    case: string
-    caseMarker: string
-    caseReason: string
-    gender: string
-    number: string
-  }
-  syntacticFunction?: string
   components?: Array<{
-    element: string
-    transliteration: string
-    type: string
-    function: string
+    arabic: string
+    meaning: string
   }>
-  semanticNote?: string
 }
 
-interface BaseAnalysis {
+// What LLM returns in Phase 1 (simplified - no verse info, no root summary)
+interface LLMBaseResponse {
+  words: BaseWord[]
+  literalTranslation: {
+    wordAligned: string
+    preservingSyntax?: string
+  }
+}
+
+// Full analysis structure (verse info added from quran.json)
+interface BaseAnalysis extends LLMBaseResponse {
   verseId: string
   verse: {
     arabic: string
@@ -106,139 +123,75 @@ interface BaseAnalysis {
     surah: string
     verseNumber: number
   }
-  words: BaseWord[]
-  literalTranslation: {
-    wordAligned: string
-    preservingSyntax?: string
-  }
-  rootSummary: Array<{
-    word: string
-    transliteration: string
-    root: string
-    coreMeaning: string
-    derivedMeaning: string
-  }>
-  metadata?: {
+  metadata: {
     analysisType: string
     linguisticFramework: string
     scope: string
   }
 }
 
-// Phase 1 Prompt: Base verse + word list
-const BASE_PROMPT = `You are an expert in Classical Arabic grammar (naḥw and ṣarf). Provide the base analysis for the following Quranic verse.
+// Phase 1 Prompt: Word list + literal translation
+// We already have: verseId, arabic, transliteration, english, surah, verseNumber from quran.json
+// Root info is added in Phase 2 for each word
+const BASE_PROMPT = `You are an expert in Classical Arabic grammar (naḥw and ṣarf). Analyze the following Quranic verse.
 
-IMPORTANT GUIDELINES:
+GUIDELINES:
 - Focus ONLY on lexical analysis (no deep morphology yet)
 - NO tafsīr, thematic, or theological interpretation
 - Use academic transliteration (ḥ, ʿ, ā, ū, ī, etc.)
-- Include full diacritical marks (tashkīl) for Arabic text
 
 VERSE TO ANALYZE:
-Surah: {SURAH_NAME}
-Surah Number: {SURAH_NUMBER}
-Verse Number: {VERSE_NUMBER}
+Surah: {SURAH_NAME} (Verse {VERSE_NUMBER})
+Arabic: {VERSE_ARABIC}
+Translation: {VERSE_ENGLISH}
 
-Return ONLY a valid JSON object with this structure:
+Return ONLY a valid JSON object with these two fields:
 
 {
-  "verseId": "{SURAH_NUMBER}:{VERSE_NUMBER}",
-  "verse": {
-    "arabic": "[Full Arabic text with tashkīl]",
-    "transliteration": "[Academic transliteration]",
-    "surah": "{SURAH_NAME}",
-    "verseNumber": {VERSE_NUMBER}
-  },
   "words": [
     {
       "wordNumber": 1,
-      "arabic": "[Word with tashkīl]",
+      "arabic": "[Word from verse]",
       "transliteration": "[transliteration]",
       "meaning": "[literal meaning]"
     }
   ],
   "literalTranslation": {
     "wordAligned": "[Word-for-word translation with hyphens for compound meanings and [brackets] for implied words]"
-  },
-  "rootSummary": [
-    {
-      "word": "[Arabic word]",
-      "transliteration": "[transliteration]",
-      "root": "[ح-م-د (ḥ-m-d)]",
-      "coreMeaning": "[core meaning of root]",
-      "derivedMeaning": "[meaning of this derived word]"
-    }
-  ],
-  "metadata": {
-    "analysisType": "lexical and morphological",
-    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
-    "scope": "no tafsīr, thematic, or theological interpretation"
   }
 }
 
 Return ONLY the JSON object, no additional text or markdown.`
 
-// Phase 2 Prompt: Word detail
-const WORD_PROMPT = `You are an expert in Classical Arabic grammar (naḥw and ṣarf). Provide detailed morphological and grammatical analysis for this word from the Quran.
+// Phase 2 Prompt: Word detail (simplified for learners)
+const WORD_PROMPT = `Analyze this Arabic word from the Quran. Focus on meaning and root, not grammar.
 
-CONTEXT:
-Surah: {SURAH_NAME}
-Verse Number: {VERSE_NUMBER}
-Full Verse: {VERSE_ARABIC}
-
-WORD TO ANALYZE:
-Word Number: {WORD_NUMBER} of {TOTAL_WORDS}
+WORD:
 Arabic: {WORD_ARABIC}
 Transliteration: {WORD_TRANSLITERATION}
 Meaning: {WORD_MEANING}
 
-IMPORTANT GUIDELINES:
-- Focus ONLY on lexical and morphological analysis
-- NO tafsīr, thematic, or theological interpretation
-- Use academic transliteration (ḥ, ʿ, ā, ū, ī, etc.)
-- Consider the word's role in the sentence context
-
-Return ONLY a valid JSON object with this structure:
+Return ONLY a valid JSON object:
 
 {
   "wordNumber": {WORD_NUMBER},
   "root": {
-    "letters": "[e.g., ح-م-د]",
-    "transliteration": "[e.g., ḥ-m-d]",
+    "letters": "[3-letter root, e.g., ح-م-د]",
     "meaning": "[core root meaning]"
   },
-  "grammaticalCategory": "[e.g., definite noun (ism maʿrifa)]",
-  "definiteness": "[e.g., definite (by al- prefix)]",
-  "morphology": {
-    "pattern": "[Arabic pattern, e.g., فَعْل]",
-    "patternTransliteration": "[e.g., faʿl]",
-    "wordType": "[e.g., maṣdar (verbal noun)]",
-    "note": "[optional additional info]"
-  },
-  "grammar": {
-    "case": "[nominative (marfūʿ) | accusative (manṣūb) | genitive (majrūr)]",
-    "caseMarker": "[e.g., ḍamma (ُ)]",
-    "caseReason": "[why this case]",
-    "gender": "[masculine | feminine]",
-    "number": "[singular | dual | plural]"
-  },
-  "syntacticFunction": "[role in sentence, e.g., mubtadaʾ (subject)]",
   "components": [
     {
-      "element": "[Arabic part]",
-      "transliteration": "[transliteration]",
-      "type": "[e.g., preposition (ḥarf jarr)]",
-      "function": "[what it does]"
+      "arabic": "[part]",
+      "meaning": "[meaning of this part]"
     }
-  ],
-  "semanticNote": "[optional: additional meaning context]"
+  ]
 }
 
-NOTES:
-- Include "components" ONLY if the word has prefixes/suffixes (like بِسْمِ = بِ + اسْم)
-- For particles without roots, omit the "root" field or set letters to "—"
+RULES:
+- "root": Include ONLY if word has a triliteral root. Omit for particles (لِ, بِ, etc.) or proper nouns (الله)
+- "components": Include ONLY if word is compound (e.g., لِلَّهِ = لِ + الله, بِسْمِ = بِ + اسْم). Omit for simple words.
 
-Return ONLY the JSON object, no additional text or markdown.`
+Return ONLY the JSON object, no markdown.`
 
 /**
  * Call Ollama API to generate analysis
@@ -423,16 +376,49 @@ function getTempPaths(surahId: number, verseNum: number) {
 }
 
 /**
+ * Strip HTML tags from transliteration text
+ */
+function stripHtmlTags(text: string): string {
+  return text.replace(/<[^>]*>/g, '')
+}
+
+/**
  * Phase 1: Generate base analysis
+ * LLM returns only words/literalTranslation/rootSummary
+ * Verse info is added from quran.json (Tanzil.net)
  */
 async function generateBaseAnalysis(surah: Surah, verseNum: number): Promise<BaseAnalysis> {
+  const verse = surah.verses.find(v => v.number === verseNum)
+  if (!verse) {
+    throw new Error(`Verse ${surah.id}:${verseNum} not found in quran.json`)
+  }
+
   const prompt = BASE_PROMPT
     .replace(/{SURAH_NAME}/g, surah.name)
-    .replace(/{SURAH_NUMBER}/g, surah.id.toString())
     .replace(/{VERSE_NUMBER}/g, verseNum.toString())
+    .replace(/{VERSE_ARABIC}/g, verse.arabic)
+    .replace(/{VERSE_ENGLISH}/g, verse.translations['en.sahih'])
 
   const response = await callLLM(prompt)
-  return extractJson(response) as BaseAnalysis
+  const llmResponse = extractJson(response) as LLMBaseResponse
+
+  // Merge LLM response with verse info from quran.json
+  return {
+    verseId: `${surah.id}:${verseNum}`,
+    verse: {
+      arabic: verse.arabic,
+      transliteration: stripHtmlTags(verse.translations['en.transliteration'] || ''),
+      surah: surah.name,
+      verseNumber: verseNum,
+    },
+    words: llmResponse.words,
+    literalTranslation: llmResponse.literalTranslation,
+    metadata: {
+      analysisType: 'lexical and morphological',
+      linguisticFramework: 'Classical Arabic grammar (naḥw, ṣarf)',
+      scope: 'no tafsīr, thematic, or theological interpretation',
+    },
+  }
 }
 
 /**
@@ -469,13 +455,7 @@ function mergeAnalysis(base: BaseAnalysis, wordDetails: WordDetail[]): object {
       return {
         ...baseWord,
         root: detail.root,
-        grammaticalCategory: detail.grammaticalCategory,
-        definiteness: detail.definiteness,
-        morphology: detail.morphology,
-        grammar: detail.grammar,
-        syntacticFunction: detail.syntacticFunction,
         components: detail.components,
-        semanticNote: detail.semanticNote,
       }
     }
     return baseWord
@@ -485,6 +465,31 @@ function mergeAnalysis(base: BaseAnalysis, wordDetails: WordDetail[]): object {
     ...base,
     words: mergedWords,
   }
+}
+
+/**
+ * Update manifest.json with list of available analyses
+ * Called at the end of seeding to track which verses have analysis
+ */
+function updateManifest(): void {
+  const files = fs.readdirSync(ANALYSIS_DIR)
+    .filter(f => /^\d+-\d+\.json$/.test(f))
+    .sort((a, b) => {
+      // Sort by surah then verse numerically
+      const [surahA, verseA] = a.replace('.json', '').split('-').map(Number)
+      const [surahB, verseB] = b.replace('.json', '').split('-').map(Number)
+      return surahA - surahB || verseA - verseB
+    })
+
+  const verses = files.map(f => f.replace('.json', '').replace('-', ':'))
+  const manifest = {
+    verses,
+    generatedAt: new Date().toISOString(),
+  }
+
+  const manifestPath = path.join(ANALYSIS_DIR, 'manifest.json')
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2))
+  console.log(`Updated manifest.json with ${verses.length} verses`)
 }
 
 /**
@@ -502,10 +507,12 @@ function formatDuration(ms: number): string {
  */
 async function processVerse(surah: Surah, verseNum: number): Promise<{ success: boolean; cached: boolean }> {
   const paths = getTempPaths(surah.id, verseNum)
-  const verseId = `${surah.id}:${verseNum}`
+  const verseStartTime = Date.now()
 
   // Check if final file exists
   if (fs.existsSync(paths.final)) {
+    // Update manifest to ensure it's in sync (in case of previous interrupted run)
+    updateManifest()
     return { success: true, cached: true }
   }
 
@@ -547,12 +554,19 @@ async function processVerse(surah: Surah, verseNum: number): Promise<{ success: 
   const final = mergeAnalysis(base, wordDetails)
   fs.writeFileSync(paths.final, JSON.stringify(final, null, 2))
 
+  // Update manifest immediately (so CTRL+C won't lose progress)
+  updateManifest()
+
   // Cleanup temp files
   if (fs.existsSync(paths.base)) fs.unlinkSync(paths.base)
   for (const word of base.words) {
     const wordPath = paths.word(word.wordNumber)
     if (fs.existsSync(wordPath)) fs.unlinkSync(wordPath)
   }
+
+  // Log total verse time
+  const totalVerseTime = Date.now() - verseStartTime
+  console.log(`      Total: ${formatDuration(totalVerseTime)} ✓`)
 
   return { success: true, cached: false }
 }
@@ -564,6 +578,7 @@ async function main() {
   console.log('='.repeat(60))
   console.log('Qalam Verse Analysis Seeder (Two-Phase)')
   console.log('='.repeat(60))
+  console.log(`Range:        Surah ${START_SURAH} - ${END_SURAH}`)
   console.log(`Backend:      ${LLM_BACKEND}`)
   if (LLM_BACKEND.toLowerCase() === 'lms' || LLM_BACKEND.toLowerCase() === 'lmstudio') {
     console.log(`LM Studio:    ${LMS_BASE_URL}`)
@@ -584,8 +599,15 @@ async function main() {
     fs.mkdirSync(TEMP_DIR, { recursive: true })
   }
 
-  // Load surahs
-  const surahs: Surah[] = JSON.parse(fs.readFileSync(SURAHS_FILE, 'utf-8'))
+  // Load quran.json (source of truth for verse text)
+  if (!fs.existsSync(QURAN_FILE)) {
+    console.error('ERROR: quran.json not found. Run `npx tsx scripts/build-quran-json.ts` first.')
+    process.exit(1)
+  }
+  const quranData: QuranData = JSON.parse(fs.readFileSync(QURAN_FILE, 'utf-8'))
+  const surahs = quranData.surahs
+
+  console.log(`Source: ${quranData.meta.source} (${quranData.meta.arabicEdition})`)
 
   // Calculate totals
   const totalVerses = surahs.reduce((sum, s) => sum + s.verseCount, 0)
@@ -600,6 +622,11 @@ async function main() {
 
   // Process each surah
   for (const surah of surahs) {
+    // Skip surahs outside the configured range
+    if (surah.id < START_SURAH || surah.id > END_SURAH) {
+      continue
+    }
+
     console.log(`\n${'─'.repeat(50)}`)
     console.log(`Surah ${surah.id}: ${surah.name} (${surah.nameArabic})`)
     console.log(`Verses: ${surah.verseCount}`)
@@ -620,7 +647,6 @@ async function main() {
           console.log(`      Skipped (already exists)`)
         } else {
           processedCount++
-          console.log(`      Complete!`)
         }
       } catch (error) {
         errorCount++
@@ -636,6 +662,9 @@ async function main() {
       }
     }
   }
+
+  // Update manifest with all available analyses
+  updateManifest()
 
   // Summary
   const totalDuration = Date.now() - startTime
