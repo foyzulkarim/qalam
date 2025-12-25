@@ -1,0 +1,191 @@
+{
+  "verseId": "72:19",
+  "verse": {
+    "arabic": "وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا",
+    "transliteration": "Waannahu lamma qama AAabdu Allahi yadAAoohu kadoo yakoonoona AAalayhi libadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّهُ",
+      "transliteration": "ʾannahu",
+      "meaning": "that it/him",
+      "root": {
+        "letters": "ن-هـ-ي",
+        "meaning": "to be, to exist; hiddenness, absence"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَمَّا",
+      "transliteration": "lamma",
+      "meaning": "when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَامَ",
+      "transliteration": "qāma",
+      "meaning": "stood up",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to be erect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَبْدُ",
+      "transliteration": "ʿabdu",
+      "meaning": "servant (of)",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to be a slave or servant"
+      },
+      "components": [
+        {
+          "arabic": "عَبْد",
+          "meaning": "servant, slave; one who submits and obeys"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah (genitive)",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to worship, to be divine; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَدْعُوهُ",
+      "transliteration": "yadʿūhu",
+      "meaning": "he calls him/it",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "يد",
+          "meaning": "prefix indicating 'he'"
+        },
+        {
+          "arabic": "عُوهُ",
+          "meaning": "him/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَادُوا",
+      "transliteration": "kādū",
+      "meaning": "they almost (were about to)",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "to deceive, to plot, to scheme; effort with intention"
+      },
+      "components": [
+        {
+          "arabic": "كاد",
+          "meaning": "he almost (was about to)"
+        },
+        {
+          "arabic": "وا",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَكُونُونَ",
+      "transliteration": "yakūnūna",
+      "meaning": "they become/were about to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person plural or active voice"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "being, existence (verbal noun)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating masculine plural, present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him/over him",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him/to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لِبَدًا",
+      "transliteration": "libadan",
+      "meaning": "a mass/compacted thing",
+      "root": {
+        "letters": "ل-ب-د",
+        "meaning": "to be compact, dense, or solid; to cling together"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that it/him when stood up servant-[of] Allah he calls-him they almost become upon him a mass"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

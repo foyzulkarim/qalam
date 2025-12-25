@@ -1,0 +1,54 @@
+{
+  "verseId": "77:2",
+  "verse": {
+    "arabic": "فَالْعَاصِفَاتِ عَصْفًا",
+    "transliteration": "FaalAAasifati AAasfan",
+    "surah": "Al-Mursalat",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَالْعَاصِفَاتِ",
+      "transliteration": "fa-l-ʿāṣifāt",
+      "meaning": "Then the winds (plural)",
+      "root": {
+        "letters": "ع-ص-ف",
+        "meaning": "to blow, storm, gust of wind; to collect or gather forcefully"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "Then, so"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "عَاصِفَاتٍ",
+          "meaning": "Winds (plural), blowing strongly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَصْفًا",
+      "transliteration": "ʿaṣfan",
+      "meaning": "Violently blowing, a forceful gust",
+      "root": {
+        "letters": "ع-ص-ف",
+        "meaning": "to blow, to sweep away violently"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-the-winds [that blow]-violently-blowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

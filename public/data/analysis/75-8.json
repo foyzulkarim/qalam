@@ -1,0 +1,49 @@
+{
+  "verseId": "75:8",
+  "verse": {
+    "arabic": "وَخَسَفَ الْقَمَرُ",
+    "transliteration": "Wakhasafa alqamaru",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَسَفَ",
+      "transliteration": "khasafa",
+      "meaning": "to sink, to collapse, to become depressed; to be darkened (of the moon)",
+      "root": {
+        "letters": "خ-س-ف",
+        "meaning": "to be low, to subside; to perish or disappear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقَمَرُ",
+      "transliteration": "al-qamaru",
+      "meaning": "the moon",
+      "root": {
+        "letters": "ق-م-ر",
+        "meaning": "To measure, to diminish (and by extension, the moon's phases)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - sunk/collapsed - the-moon"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

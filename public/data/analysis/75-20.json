@@ -1,0 +1,76 @@
+{
+  "verseId": "75:20",
+  "verse": {
+    "arabic": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+    "transliteration": "Kalla bal tuhibboona alAAajilata",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Indeed not!",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to refuse, to reject, to deny; totality, completeness (often with negative connotation)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "But, rather",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to be moist; to reach a state of opposition or negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُحِبُّونَ",
+      "transliteration": "tuḥibbūna",
+      "meaning": "You love (plural)",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of, affection"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person plural (you - masculine)"
+        },
+        {
+          "arabic": "حِبّ",
+          "meaning": "love, affection (verbal noun related to the root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person plural (you - masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَاجِلَةَ",
+      "transliteration": "al-ʿājilah",
+      "meaning": "The immediate, the present life",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "to hasten, to speed up; urgency"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - But - you-all love - the immediate"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "verseId": "76:5",
+  "verse": {
+    "arabic": "إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+    "transliteration": "Inna alabrara yashraboona min kasin kana mizajuha kafooran",
+    "surah": "Al-Insan",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed; verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed; verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَبْرَارَ",
+      "transliteration": "al-ʾabrāra",
+      "meaning": "The righteous; the virtuous",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "To be upright, righteous; to excel in goodness."
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The definite article."
+        },
+        {
+          "arabic": "أَبْرَار",
+          "meaning": "Plural of بَرّ (barr), meaning righteous or virtuous people."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَشْرَبُونَ",
+      "transliteration": "yashrabūna",
+      "meaning": "They drink",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorb"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "شْرَب",
+          "meaning": "drinking (verbal noun)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "present active plural suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease; separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَأْسٍ",
+      "transliteration": "kaʾsin",
+      "meaning": "A cup; goblet",
+      "root": {
+        "letters": "ك-أ-س",
+        "meaning": "To drink; to suffice with something; a vessel for drinking."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was; used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be; existence; becoming"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِزَاجُهَا",
+      "transliteration": "mizājuhā",
+      "meaning": "Its mixture; its blending",
+      "root": {
+        "letters": "م-ز-ج",
+        "meaning": "to blend; to mix; to combine"
+      },
+      "components": [
+        {
+          "arabic": "مِزَاجٌ",
+          "meaning": "mixture; blend"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَافُورًا",
+      "transliteration": "kāfūran",
+      "meaning": "Kafur; camphor (fragrant substance)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be thankful (by covering the defect of the giver)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- the righteous- they drink- from- a cup- was- its mixture- Kafur."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

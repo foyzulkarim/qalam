@@ -1,0 +1,61 @@
+{
+  "verseId": "75:27",
+  "verse": {
+    "arabic": "وَقِيلَ مَنْ ۜ رَاقٍ",
+    "transliteration": "Waqeela man raqin",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقِيلَ",
+      "transliteration": "wa-qīla",
+      "meaning": "and it was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قِيلَ",
+          "meaning": "it was said (passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure, to exist but not perceived"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَاقٍ",
+      "transliteration": "rāqin",
+      "meaning": "one who cures; healer",
+      "root": {
+        "letters": "ر-ق-ع",
+        "meaning": "to ascend, to climb; to strengthen, to cure (a bone)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-said who [one]-who-cures"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

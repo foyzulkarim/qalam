@@ -1,0 +1,70 @@
+{
+  "verseId": "77:12",
+  "verse": {
+    "arabic": "لِأَيِّ يَوْمٍ أُجِّلَتْ",
+    "transliteration": "Liayyi yawmin ojjilat",
+    "surah": "Al-Mursalat",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِأَيِّ",
+      "transliteration": "liʾayyi",
+      "meaning": "for what, to which",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "to belong to, related to, concerning"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَيّ",
+          "meaning": "which, what"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمٍ",
+      "transliteration": "yawmin",
+      "meaning": "day (accusative indefinite)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُجِّلَتْ",
+      "transliteration": "ʾujjalat",
+      "meaning": "was postponed, was delayed (passive)",
+      "root": {
+        "letters": "ج-ل-و",
+        "meaning": "to become manifest, to appear, to be clear; also delay or postpone (related to the idea of something becoming 'clear' when it happens)"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker (prefix indicating the subject is acted upon)"
+        },
+        {
+          "arabic": "جِّلَتْ",
+          "meaning": "past tense, feminine singular form derived from the root ج-ل-و indicating 'was postponed'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-what day was-postponed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

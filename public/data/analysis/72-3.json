@@ -1,0 +1,165 @@
+{
+  "verseId": "72:3",
+  "verse": {
+    "arabic": "وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا",
+    "transliteration": "Waannahu taAAala jaddu rabbina ma ittakhatha sahibatan wala waladan",
+    "surah": "Al-Jinn",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّهُ",
+      "transliteration": "ʾannahu",
+      "meaning": "that He",
+      "root": {
+        "letters": "ح-ن-ن",
+        "meaning": "to incline, to lean, to tend toward; existence"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَعَالَىٰ",
+      "transliteration": "taʿālā",
+      "meaning": "exalted, high",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَدُّ",
+      "transliteration": "jaddu",
+      "meaning": "nobleness, excellence, high rank",
+      "root": {
+        "letters": "ج-د-د",
+        "meaning": "to be new, to strive, to excel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبِّنَا",
+      "transliteration": "rabbinā",
+      "meaning": "our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master, Possessor"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "not, that not",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be nonexistent, to lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اتَّخَذَ",
+      "transliteration": "ittakhaḏa",
+      "meaning": "He took, He chose",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "To take, to grasp, to possess; also to select or choose."
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "Reflexive/intensive prefix indicating taking something for oneself or choosing strongly."
+        },
+        {
+          "arabic": "خَذَ",
+          "meaning": "He took, he grasped."
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "صَاحِبَةً",
+      "transliteration": "ṣāḥibatan",
+      "meaning": "a wife, companion (female)",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to have a companion, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and nor, neither...nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَلَدًا",
+      "transliteration": "waladan",
+      "meaning": "a son, offspring",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to produce offspring"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that He - exalted - nobleness-of our Lord - not - He took - a wife - and nor - a son"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

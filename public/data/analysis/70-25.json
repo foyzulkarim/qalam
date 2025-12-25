@@ -1,0 +1,63 @@
+{
+  "verseId": "70:25",
+  "verse": {
+    "arabic": "لِّلسَّائِلِ وَالْمَحْرُومِ",
+    "transliteration": "Lilssaili waalmahroomi",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّلسَّائِلِ",
+      "transliteration": "li-s-sāʾili",
+      "meaning": "for the petitioner",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire, to request"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "السَّائِلِ",
+          "meaning": "the petitioner, the one who asks"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَالْمَحْرُومِ",
+      "transliteration": "wa-l-maḥrūmi",
+      "meaning": "and the deprived",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to be forbidden, deprived, lacking"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَحْرُومِ",
+          "meaning": "deprived, one who is lacking"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the-petitioner and-the-deprived"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

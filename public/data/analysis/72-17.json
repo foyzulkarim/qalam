@@ -1,0 +1,191 @@
+{
+  "verseId": "72:17",
+  "verse": {
+    "arabic": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا",
+    "transliteration": "Linaftinahum feehi waman yuAArid AAan thikri rabbihi yaslukhu AAathaban saAAadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّنَفْتِنَهُمْ",
+      "transliteration": "li-naftinahum",
+      "meaning": "for We test them",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "to test, to tempt, to deceive"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَفْتِنَ",
+          "meaning": "we test/tempt"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it/therein",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to encompass, be within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَمَن",
+      "transliteration": "wa-man",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate; also encompasses questioning and relation."
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُعْرِضْ",
+      "transliteration": "yuʿriḍ",
+      "meaning": "turns away",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to show, to turn away from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "from",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be distant from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ذِكْرِ",
+      "transliteration": "dhikri",
+      "meaning": "remembrance of",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْر",
+          "meaning": "remembrance, mention"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive marker (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَسْلُكْهُ",
+      "transliteration": "yaslukhu",
+      "meaning": "He will put him into it/guide him to it",
+      "root": {
+        "letters": "س-ل-ك",
+        "meaning": "to follow a path, to proceed, to enter"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense and the third person singular masculine"
+        },
+        {
+          "arabic": "سَلُكْ",
+          "meaning": "to enter, to pass through (from the root س-ل-ك)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it (direct object pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَذَابًا",
+      "transliteration": "ʿadhāban",
+      "meaning": "punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to suffer, to be painful; to punish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "صَعَدًا",
+      "transliteration": "ṣaʿadan",
+      "meaning": "arduous/severe",
+      "root": {
+        "letters": "ص-ع-د",
+        "meaning": "to ascend, to go up; effort, difficulty"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-We test-them in-it and-whoever turns-away from remembrance of his Lord He-will put-him into punishment arduous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

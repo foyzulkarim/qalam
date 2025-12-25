@@ -1,0 +1,202 @@
+{
+  "verseId": "71:25",
+  "verse": {
+    "arabic": "مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّهِ أَنصَارًا",
+    "transliteration": "Mimma khateeatihim oghriqoo faodkhiloo naran falam yajidoo lahum min dooni Allahi ansaran",
+    "surah": "Nuh",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مِّمَّا",
+      "transliteration": "mim mā",
+      "meaning": "from what/because of what",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to prevent, to withhold, source/origin"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَطِيئَاتِهِمْ",
+      "transliteration": "khaṭīʾātihim",
+      "meaning": "their sins, their wrongdoings",
+      "root": {
+        "letters": "خ-ط-أ",
+        "meaning": "to err, to sin, to go wrong"
+      },
+      "components": [
+        {
+          "arabic": "خَطِيئَات",
+          "meaning": "sins, wrongdoings (plural)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُغْرِقُوا",
+      "transliteration": "ughriqū",
+      "meaning": "they were drowned"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأُدْخِلُوا",
+      "transliteration": "faʾudkhilū",
+      "meaning": "and they were entered/made to enter",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "أُدْخِلُوا",
+          "meaning": "made to enter, were entered (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَارًا",
+      "transliteration": "nāran",
+      "meaning": "a fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَلَمْ",
+      "transliteration": "fa lam",
+      "meaning": "and not/so they did not",
+      "root": {
+        "letters": "ل-م-د",
+        "meaning": "to refuse, to deny, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَجِدُوا",
+      "transliteration": "yajidū",
+      "meaning": "they find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to obtain, to find, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present/future tense and the first person plural"
+        },
+        {
+          "arabic": "جِد",
+          "meaning": "finding, obtaining (verb stem)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّن دُونِ",
+      "transliteration": "min dūni",
+      "meaning": "apart from/besides",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be humble; to lack, to be without"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, apart from"
+        },
+        {
+          "arabic": "دُونِ",
+          "meaning": "without, lacking; besides"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنصَارًا",
+      "transliteration": "anṣāran",
+      "meaning": "helpers/supporters",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to support, to aid"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "from-what their-sins they-were-drowned and-they-were-entered a-fire so-not they-find for-them apart-from Allah helpers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

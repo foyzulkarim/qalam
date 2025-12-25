@@ -1,0 +1,103 @@
+{
+  "verseId": "77:36",
+  "verse": {
+    "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+    "transliteration": "Wala yuthanu lahum fayaAAtathiroona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُؤْذَنُ",
+      "transliteration": "yuʾḏanu",
+      "meaning": "is permitted, is allowed",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen; to permit, to allow"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker and prefix for third-person masculine singular imperfect tense"
+        },
+        {
+          "arabic": "ؤَذِنَ",
+          "meaning": "imperfect tense form of the verb 'to permit, to allow'"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case and verb ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to belong to, to possess, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَيَعْتَذِرُونَ",
+      "transliteration": "fa-yaʿtadhirūna",
+      "meaning": "so they make an excuse, then they offer excuses",
+      "root": {
+        "letters": "ع-ذ-ر",
+        "meaning": "to ask for forgiveness, to offer an excuse, to plead"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "يَعْتَذِرُونَ",
+          "meaning": "they make an excuse, they offer excuses (verb form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not is-permitted for-them so-they-make-excuses"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

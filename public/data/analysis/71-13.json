@@ -1,0 +1,109 @@
+{
+  "verseId": "71:13",
+  "verse": {
+    "arabic": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+    "transliteration": "Ma lakum la tarjoona lillahi waqaran",
+    "surah": "Nuh",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "to you, for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to possess, to be complete, perfection"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "ـكُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَرْجُونَ",
+      "transliteration": "tarjūna",
+      "meaning": "you hope, you expect",
+      "root": {
+        "letters": "ر-ج-و",
+        "meaning": "to hope, to expect, to desire"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the first person plural (we)"
+        },
+        {
+          "arabic": "رَجُونَ",
+          "meaning": "hope/expect (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "for Allah, to Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "divinity, godhood; belonging to God"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the One God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَقَارًا",
+      "transliteration": "waqāran",
+      "meaning": "and grandeur, and reverence",
+      "root": {
+        "letters": "ق-و-ر",
+        "meaning": "to be firm, strong, or to restrain oneself; also related to weight and value"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "what-to-you not you-hope for-Allah and-grandeur"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "verseId": "73:1",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الْمُزَّمِّلُ",
+    "transliteration": "Ya ayyuha almuzzammilu",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, masculine singular)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O (general vocative)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "masculine singular vocative marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُزَّمِّلُ",
+      "transliteration": "al-muzzammil",
+      "meaning": "the one who wraps himself (in clothing)",
+      "root": {
+        "letters": "ز-م-ل",
+        "meaning": "to wrap, cover, conceal"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُزَّمِّل",
+          "meaning": "one who wraps himself (in clothing)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O - O [you] - the-one-who-wraps-himself"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

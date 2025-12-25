@@ -1,0 +1,203 @@
+{
+  "verseId": "73:15",
+  "verse": {
+    "arabic": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+    "transliteration": "Inna arsalna ilaykum rasoolan shahidan AAalaykum kama arsalna ila firAAawna rasoolan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily; the emphatic dual pronoun 'we'",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; inherent quality"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (nasba particle)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (dual pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرْسَلْنَا",
+      "transliteration": "ʾarsalnā",
+      "meaning": "We have sent",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch, to direct"
+      },
+      "components": [
+        {
+          "arabic": "أَرْ",
+          "meaning": "prefix indicating first person plural (we)"
+        },
+        {
+          "arabic": "سَلْنَا",
+          "meaning": "we sent (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَيْكُمْ",
+      "transliteration": "ʾilaykum",
+      "meaning": "To you (plural)",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "To return, to go towards, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "To, towards"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "You (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَسُولًا",
+      "transliteration": "rasūlan",
+      "meaning": "A messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شَاهِدًا",
+      "transliteration": "shāhidan",
+      "meaning": "A witness",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to be present, to testify"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "Upon you (plural)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to ascend; over, above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "As, just as",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "To be, to exist; resemblance, similarity"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "Resemblance, similarity (particle)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "What, that which; relative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَرْسَلْنَا",
+      "transliteration": "ʾarsalnā",
+      "meaning": "We have sent",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, dispatch, or transmit; to direct something towards a goal"
+      },
+      "components": [
+        {
+          "arabic": "أَرْ",
+          "meaning": "prefix indicating first person plural (we)"
+        },
+        {
+          "arabic": "سَلْنَا",
+          "meaning": "we sent (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "To",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, be associated with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِرْعَوْنَ",
+      "transliteration": "firʿawna",
+      "meaning": "Pharaoh",
+      "root": {
+        "letters": "ف-ر-ع",
+        "meaning": "to split, to break apart, to divide; to elevate or surpass (in power)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "رَسُولًا",
+      "transliteration": "rasūlan",
+      "meaning": "A messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a message or communication"
+      },
+      "components": [
+        {
+          "arabic": "رَسُول",
+          "meaning": "messenger (general form)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fathah, indefinite accusative marker (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we have-sent-to-you a-messenger a-witness upon-you as We-have-sent to Pharaoh a-messenger"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

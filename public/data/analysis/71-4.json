@@ -1,0 +1,351 @@
+{
+  "verseId": "71:4",
+  "verse": {
+    "arabic": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+    "transliteration": "Yaghfir lakum min thunoobikum wayuakhkhirkum ila ajalin musamman inna ajala Allahi itha jaa la yuakhkharu law kuntum taAAlamoona",
+    "surah": "Nuh",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَغْفِرْ",
+      "transliteration": "yaghfir",
+      "meaning": "He will forgive",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense and third-person singular masculine"
+        },
+        {
+          "arabic": "غَفِرَ",
+          "meaning": "to forgive (basic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُم",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "ـكُم",
+          "meaning": "you (plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, source of, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذُنُوبِكُمْ",
+      "transliteration": "dhunūbikumu",
+      "meaning": "your sins (plural)",
+      "root": {
+        "letters": "ذ-ن-ب",
+        "meaning": "to sin, wrongdoing, fault"
+      },
+      "components": [
+        {
+          "arabic": "ذُنُوبِ",
+          "meaning": "sins (plural, genitive)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُؤَخِّرْكُمْ",
+      "transliteration": "yuʾakhkhirkum",
+      "meaning": "He will delay you (plural)",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to delay, to postpone; the end or last part of something"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix indicating 3rd person masculine singular active voice)"
+        },
+        {
+          "arabic": "أَخَّرَ",
+          "meaning": "to delay, to postpone"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, object pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to resort to, inclination or connection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَجَلٍ",
+      "transliteration": "ʾajalın",
+      "meaning": "a term/time",
+      "root": {
+        "letters": "أ-ج-ل",
+        "meaning": "to hasten, to come quickly; limited time, end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مُّسَمًّى",
+      "transliteration": "musamman",
+      "meaning": "specified/named",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise in status, be high or elevated; to name, designate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed/Verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, truth, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَجَلَ",
+      "transliteration": "ʾajala",
+      "meaning": "the time/term",
+      "root": {
+        "letters": "أ-ج-ل",
+        "meaning": "to hasten, to come quickly; limitation of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "of/belonging to Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِذَا",
+      "transliteration": "ʾidhā",
+      "meaning": "when/if",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to perceive, be aware; to go away, depart (from a place or state)"
+      },
+      "components": [
+        {
+          "arabic": "إِذ",
+          "meaning": "time, when; then"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "conditional particle, indicating 'if'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "جَاءَ",
+      "transliteration": "jāʾa",
+      "meaning": "it comes",
+      "root": {
+        "letters": "ج-ي-أ",
+        "meaning": "to arrive, to come, to occur"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يُؤَخَّرُ",
+      "transliteration": "yuʾakhkharu",
+      "meaning": "it will be delayed",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to delay, to postpone; to lag behind"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "indicates passive voice and future tense (prefix)"
+        },
+        {
+          "arabic": "أَخَّرَ",
+          "meaning": "to delay (verb in the root form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanween al-fatḥ (indefinite noun marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "ۖ",
+      "transliteration": "fāṣilah (pause)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, decide"
+      },
+      "components": [
+        {
+          "arabic": "فاصِل",
+          "meaning": "separator, divider"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker/indefinite noun ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if/would that",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, will, wishing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "to be (verb root)"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "suffix indicating second person plural (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūna",
+      "meaning": "you know (plural)",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person plural masculine present tense"
+        },
+        {
+          "arabic": "عَلِمْ",
+          "meaning": "to know (root form)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person plural masculine present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-will-forgive - for-you(pl) - from - your-sins(pl) - and - He-will-delay-you(pl) - to - a-term/time - specified - [pause marker] - Indeed - the-time/term - of-Allah - when/if - it-comes - not - it-will-be-delayed - [pause marker] - if - you-were(pl) - you-know(pl)"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

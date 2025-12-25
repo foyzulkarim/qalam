@@ -1,0 +1,90 @@
+{
+  "verseId": "74:14",
+  "verse": {
+    "arabic": "وَمَهَّدتُّ لَهُ تَمْهِيدًا",
+    "transliteration": "Wamahhadtu lahu tamheedan",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَهَّدتُّ",
+      "transliteration": "mahhaṭtu",
+      "meaning": "I smoothed, I prepared, I made easy",
+      "root": {
+        "letters": "هـ-م-د",
+        "meaning": "to praise, to be smooth, to soften"
+      },
+      "components": [
+        {
+          "arabic": "مَـ",
+          "meaning": "prefix indicating past tense and first-person singular (I)"
+        },
+        {
+          "arabic": "هَـ",
+          "meaning": "part of the root representing smoothness or preparation"
+        },
+        {
+          "arabic": "دَّ",
+          "meaning": "emphasizing completion of the action; intensifier"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "suffix indicating first-person singular (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَمْهِيدًا",
+      "transliteration": "tamhīdan",
+      "meaning": "smoothing, preparation, easing",
+      "root": {
+        "letters": "م-ه-د",
+        "meaning": "to lay a foundation, to prepare, to pave"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a verbal noun (masdar) in Pattern V"
+        },
+        {
+          "arabic": "مْهِـ",
+          "meaning": "related to the root م-ه-د, indicating preparation or laying foundation"
+        },
+        {
+          "arabic": "ـدًا",
+          "meaning": "suffix indicating the indefinite accusative masdar (verbal noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-I smoothed -for-him smoothing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "verseId": "70:10",
+  "verse": {
+    "arabic": "وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا",
+    "transliteration": "Wala yasalu hameemun hameeman",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَسْأَلُ",
+      "transliteration": "yasʾalu",
+      "meaning": "he asks",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (in this context)"
+        },
+        {
+          "arabic": "سْأَلَ",
+          "meaning": "to ask, inquire, request (verb root)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case due to being a verb in the present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَمِيمٌ",
+      "transliteration": "ḥamīmun",
+      "meaning": "a close friend, intimate companion",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, commendation, warmth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَمِيمًا",
+      "transliteration": "ḥamīman",
+      "meaning": "a close friend, intimate companion (accusative)",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "Praise, thankfulness; warmth, intensity."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not he-asks a-close-friend a-close-friend"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

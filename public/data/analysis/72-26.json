@@ -1,0 +1,150 @@
+{
+  "verseId": "72:26",
+  "verse": {
+    "arabic": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+    "transliteration": "AAalimu alghaybi fala yuthhiru AAala ghaybihi ahadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَالِمُ",
+      "transliteration": "ʿālimu",
+      "meaning": "Knower, aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "عَالِم",
+          "meaning": "knower, learned person"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanwīn al-fath, indefinite marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْغَيْبِ",
+      "transliteration": "al-ghaybi",
+      "meaning": "The unseen, the hidden",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be absent, hidden, unseen"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "غَيْب",
+          "meaning": "unseen, hiddenness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "So not, and does not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (connective particle)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُظْهِرُ",
+      "transliteration": "yuẓhiru",
+      "meaning": "He reveals, He discloses",
+      "root": {
+        "letters": "ظ-ه-ر",
+        "meaning": "to appear, to become visible, to manifest"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun suffix indicating third person masculine singular)"
+        },
+        {
+          "arabic": "ظْهِرُ",
+          "meaning": "to reveal, to disclose (verb root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over, regarding",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated, superior; to rise or ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "غَيْبِهِ",
+      "transliteration": "ghaybihi",
+      "meaning": "His unseen, His hidden [thing]",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be hidden, to be absent, unseen"
+      },
+      "components": [
+        {
+          "arabic": "غَيْبِ",
+          "meaning": "unseen, hidden thing"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "Anyone, someone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Unique, one, indivisible"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Indefinite marker / negation (depending on context)"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "One, individual; derived from the root meaning uniqueness."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Knower-of the unseen - so not He reveals - upon His unseen - anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

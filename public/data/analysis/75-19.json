@@ -1,0 +1,86 @@
+{
+  "verseId": "75:19",
+  "verse": {
+    "arabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ",
+    "transliteration": "Thumma inna AAalayna bayanahu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to be firm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "verily, indeed",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "verily, indeed (emphasizes the following statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "upon us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, to ascend; elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَيَانَهُ",
+      "transliteration": "bayānahu",
+      "meaning": "its clarification, its explanation",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, to become manifest, to explain"
+      },
+      "components": [
+        {
+          "arabic": "بَيَانَ",
+          "meaning": "clarification, explanation"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "its (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-indeed upon-us is-its clarification"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

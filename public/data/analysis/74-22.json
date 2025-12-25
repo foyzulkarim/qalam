@@ -1,0 +1,61 @@
+{
+  "verseId": "74:22",
+  "verse": {
+    "arabic": "ثُمَّ عَبَسَ وَبَسَرَ",
+    "transliteration": "Thumma AAabasa wabasara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to put after; continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَبَسَ",
+      "transliteration": "ʿabasa",
+      "meaning": "he frowned, he scowled",
+      "root": {
+        "letters": "ع-ب-س",
+        "meaning": "to be gloomy, to contract the face; sadness or displeasure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَبَسَرَ",
+      "transliteration": "wa-basara",
+      "meaning": "and he scowled, and he glared",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to be aware of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَسَرَ",
+          "meaning": "he scowled, he glared (verbal noun from the root ب-ص-ر)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then- he- frowned and- he- scowled"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

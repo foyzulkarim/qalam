@@ -1,0 +1,99 @@
+{
+  "verseId": "75:17",
+  "verse": {
+    "arabic": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+    "transliteration": "Inna AAalayna jamAAahu waquranahu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "a particle emphasizing the following statement; indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "Upon us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, to ascend; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَمْعَهُ",
+      "transliteration": "jamʿahu",
+      "meaning": "Its collection, gathering it",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather"
+      },
+      "components": [
+        {
+          "arabic": "جمْع",
+          "meaning": "collection, gathering"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَقُرْآنَهُ",
+      "transliteration": "wa-qurʾānahu",
+      "meaning": "And its recitation, and reciting it",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قُرْآنُ",
+          "meaning": "the recitation, the Quran (as recited text)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "its (pronoun suffix referring to the Quran)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-upon-us-is-its-collection-and-its-recitation"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

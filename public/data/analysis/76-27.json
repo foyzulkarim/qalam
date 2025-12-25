@@ -1,0 +1,153 @@
+{
+  "verseId": "76:27",
+  "verse": {
+    "arabic": "إِنَّ هَـٰؤُلَاءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَاءَهُمْ يَوْمًا ثَقِيلًا",
+    "transliteration": "Inna haolai yuhibboona alAAajilata wayatharoona waraahum yawman thaqeelan",
+    "surah": "Al-Insan",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed; Verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; to exist; presence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed; Verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰؤُلَاءِ",
+      "transliteration": "hāʾulāʾi",
+      "meaning": "These (masculine, plural)",
+      "root": {
+        "letters": "هـ-و-ل",
+        "meaning": "to decline, to weaken, to fall away; related to demonstrative pronouns indicating something distant"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰا",
+          "meaning": "This (demonstrative particle)"
+        },
+        {
+          "arabic": "أُولَاءِ",
+          "meaning": "These (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُحِبُّونَ",
+      "transliteration": "yuḥibbūna",
+      "meaning": "They love",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "They (masculine plural pronoun)"
+        },
+        {
+          "arabic": "حِبُّونَ",
+          "meaning": "love (verbal noun/present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَاجِلَةَ",
+      "transliteration": "al-ʿājilah",
+      "meaning": "The immediate (thing); the present life",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "haste, speed, urgency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَيَذَرُونَ",
+      "transliteration": "wa-yadhurūna",
+      "meaning": "And they leave behind",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَذَرُونَ",
+          "meaning": "they leave behind, they abandon (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَرَاءَهُمْ",
+      "transliteration": "warāʾahum",
+      "meaning": "Behind them",
+      "root": {
+        "letters": "و-ر-أ",
+        "meaning": "to turn back, to be behind"
+      },
+      "components": [
+        {
+          "arabic": "وَرَاءَ",
+          "meaning": "behind"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "A day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, to pass (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ثَقِيلًا",
+      "transliteration": "thaqīlan",
+      "meaning": "Heavy; Grave (in terms of difficulty)",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "weight, heaviness; to be heavy or difficult"
+      },
+      "components": [
+        {
+          "arabic": "ثَقِيلًا",
+          "meaning": "Heavy; grave (difficult to bear)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- these - they love - the immediate - and they leave behind - behind them - a day - heavy."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,972 @@
+{
+  "verseId": "74:31",
+  "verse": {
+    "arabic": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+    "transliteration": "Wama jaAAalna ashaba alnnari illa malaikatan wama jaAAalna AAiddatahum illa fitnatan lillatheena kafaroo liyastayqina allatheena ootoo alkitaba wayazdada allatheena amanoo eemanan wala yartaba allatheena ootoo alkitaba waalmuminoona waliyaqoola allatheena fee quloobihim maradun waalkafiroona matha arada Allahu bihatha mathalan kathalika yudillu Allahu man yashao wayahdee man yashao wama yaAAlamu junooda rabbika illa huwa wama hiya illa thikra lilbashari",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَعَلْنَا",
+      "transliteration": "jaʿalnā",
+      "meaning": "We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made (verb, perfect tense)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَصْحَابَ",
+      "transliteration": "ʾaṣḥāba",
+      "meaning": "companions/keepers",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nāri",
+      "meaning": "the Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "النَّارِ",
+          "meaning": "the Fire"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away from, to reject, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَلَائِكَةً",
+      "transliteration": "malāʾikatan",
+      "meaning": "angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "ownership, kingship, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَعَلْنَا",
+      "transliteration": "jaʿalnā",
+      "meaning": "We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "جَعَل",
+          "meaning": "We made"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عِدَّتَهُمْ",
+      "transliteration": "ʿiddatahum",
+      "meaning": "their number",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, number"
+      },
+      "components": [
+        {
+          "arabic": "عِدَّة",
+          "meaning": "number, count"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to deny, to refuse, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فِتْنَةً",
+      "transliteration": "fitnatan",
+      "meaning": "trial/temptation",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "to test, to try, to tempt, to deviate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لِّلَّذِينَ",
+      "transliteration": "lil-ladhīna",
+      "meaning": "for those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to go, to be; existence, presence"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "لَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, deny (a blessing), disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating plural perfect tense"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they disbelieved (perfect tense, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لِيَسْتَيْقِنَ",
+      "transliteration": "li-yastaqiyna",
+      "meaning": "that they may be convinced/certain",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "to be certain, to know with assurance"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "يَسْتَيْقِنَ",
+          "meaning": "that they may be certain/convinced (verb in subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أُوتُوا",
+      "transliteration": "ʾūtiyū",
+      "meaning": "were given",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, to bestow"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker/prefix indicating 'were'"
+        },
+        {
+          "arabic": "وتُوا",
+          "meaning": "given (to them)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "writing; scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَيَزْدَادَ",
+      "transliteration": "wa yazdāda",
+      "meaning": "and may increase",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to grow, to add"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَزْدَادَ",
+          "meaning": "he may increase, he might grow"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to possess, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating first-person plural imperfect tense"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (from the root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "إِيمَانًا",
+      "transliteration": "ʾīmānan",
+      "meaning": "faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "يَرْتَابَ",
+      "transliteration": "yartāba",
+      "meaning": "may doubt",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "to be full, to increase; also, to be firm, strong (which can lead to doubt when something shakes that firmness)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present/future tense, active voice"
+        },
+        {
+          "arabic": "رْتَابَ",
+          "meaning": "to doubt, to be uncertain"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أُوتُوا",
+      "transliteration": "ʾūtiyū",
+      "meaning": "were given",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "were given (passive voice prefix)"
+        },
+        {
+          "arabic": "تُوا",
+          "meaning": "to be given (suffix indicating plural recipients)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "writing; scripture; book"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَالْمُؤْمِنُونَ",
+      "transliteration": "wal-muʾminūna",
+      "meaning": "and the believers",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمُؤْمِنُونَ",
+          "meaning": "the believers (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "وَلِيَقُولَ",
+      "transliteration": "wa li-yaqūla",
+      "meaning": "and that they may say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "يَقُولَ",
+          "meaning": "he may say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to possess, to be endowed with a quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "فِي قُلُوبِهِم",
+      "transliteration": "fī qulūbihim",
+      "meaning": "in their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; heart (as the organ that changes)"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, on"
+        },
+        {
+          "arabic": "قُلُوبِهِم",
+          "meaning": "their hearts"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "مَّرَضٌ",
+      "transliteration": "maraḍun",
+      "meaning": "disease/hypocrisy",
+      "root": {
+        "letters": "م-ض-ر",
+        "meaning": "weakness, affliction, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَالْكَافِرُونَ",
+      "transliteration": "wal-kāfirūna",
+      "meaning": "and the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْكَافِرُونَ",
+          "meaning": "the disbelievers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "مَاذَا",
+      "transliteration": "mādhā",
+      "meaning": "what?",
+      "root": {
+        "letters": "ذ-هـ-أ",
+        "meaning": "to take, to seize; to be aware of, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "interrogative particle; what"
+        },
+        {
+          "arabic": "ذَا",
+          "meaning": "this, the one"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "أَرَادَ",
+      "transliteration": "ʾarāda",
+      "meaning": "intended/willed",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to desire, to seek, to will"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating intent or future tense (often used to form the imperfect)"
+        },
+        {
+          "arabic": "رَادَ",
+          "meaning": "to turn back, to revert (related to the core root meaning of seeking)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity, the Divine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "بِهَـٰذَا",
+      "transliteration": "bi-hādhā",
+      "meaning": "with this",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, this"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هَـٰذَا",
+          "meaning": "this"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "مَثَلًا",
+      "transliteration": "mathalan",
+      "meaning": "as an example",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like; example, likeness"
+      },
+      "components": [
+        {
+          "arabic": "مَثَل",
+          "meaning": "example, simile, likeness"
+        },
+        {
+          "arabic": "ـًا",
+          "meaning": "tanwīn al-naṣb, indicating the accusative case (adverbial function: as an example)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kadhalika",
+      "meaning": "thus/in this way",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to be like"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like this; a demonstrative particle"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that, this (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "يُضِلُّ",
+      "transliteration": "yuḍillu",
+      "meaning": "He misleads/astrays",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to be lost; error, wandering"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, active voice; he does"
+        },
+        {
+          "arabic": "ضَلَّ",
+          "meaning": "to go astray, to be misguided"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "vowel indicating verb conjugation and adding duration to the action."
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to be worshipped; the divine being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "مَن يَشَاءُ",
+      "transliteration": "man yashāʾu",
+      "meaning": "whoever He wills",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to wish"
+      },
+      "components": [
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        },
+        {
+          "arabic": "يَشَاءُ",
+          "meaning": "He wills, desires, wishes (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "وَيَهْدِي",
+      "transliteration": "wa yahdī",
+      "meaning": "and He guides",
+      "root": {
+        "letters": "هـ-د-ي",
+        "meaning": "to guide, to show the right way, to lead"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَهْدِي",
+          "meaning": "He guides"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "مَن يَشَاءُ",
+      "transliteration": "man yashāʾu",
+      "meaning": "whoever He wills",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to want"
+      },
+      "components": [
+        {
+          "arabic": "مَن",
+          "meaning": "whoever"
+        },
+        {
+          "arabic": "يَشَاءُ",
+          "meaning": "wills, desires"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also related to questioning and negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not; relative pronoun or negation particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person singular (I)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know, to be aware"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah ending, indicating present tense and first person singular (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "جُنُودَ",
+      "transliteration": "junūda",
+      "meaning": "soldiers/forces",
+      "root": {
+        "letters": "ج-ن-د",
+        "meaning": "to gather, to collect; warfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rab-bika",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master, Sustainer"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to deny, to refuse, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also related to water and non-existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not; a questioning particle or negation particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "it",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to reject, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "ذِكْرَىٰ",
+      "transliteration": "dhikran",
+      "meaning": "reminder/admonition",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "لِّلْبَشَرِ",
+      "transliteration": "lil-bashari",
+      "meaning": "for humanity",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be human; to have flesh, humanity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "لِبَشَرِ",
+          "meaning": "humanity, humans (genitive singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And not We made -the keepers of the Fire- except angels. And not We made -their number- except as a trial for those who disbelieved -that they may be convinced- [the] those who were given the Scripture and may increase -the] those who believed in faith and not doubt [the] those who were given the Scripture and the believers. And that they may say -those in whose hearts is disease and the disbelievers- what does intend Allah with this as an example? Thus like that misleads Allah whoever He wills and guides whoever He wills. And not knows -the] soldiers of your Lord except He. And not is it but reminder for humanity."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

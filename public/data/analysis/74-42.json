@@ -1,0 +1,69 @@
+{
+  "verseId": "74:42",
+  "verse": {
+    "arabic": "مَا سَلَكَكُمْ فِي سَقَرَ",
+    "transliteration": "Ma salakakum fee saqara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what (interrogative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; also relates to questioning and negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَلَكَكُمْ",
+      "transliteration": "salakakum",
+      "meaning": "caused you to enter/pass through (verb)",
+      "root": {
+        "letters": "س-ل-ك",
+        "meaning": "to go, proceed, follow a path or way; to pierce, penetrate"
+      },
+      "components": [
+        {
+          "arabic": "سَلَك",
+          "meaning": "caused to enter, pass through, follow a path"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in (preposition)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَقَرَ",
+      "transliteration": "saqar",
+      "meaning": "Saqar (name of a hell)",
+      "root": {
+        "letters": "س-ق-ر",
+        "meaning": "to burn, to scorch, intense heat"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "what-caused-you-to-enter in Saqar"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

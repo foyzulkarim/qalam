@@ -1,0 +1,166 @@
+{
+  "verseId": "70:43",
+  "verse": {
+    "arabic": "يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+    "transliteration": "Yawma yakhrujoona mina alajdathi siraAAan kaannahum ila nusubin yoofidoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَخْرُجُونَ",
+      "transliteration": "yakhrujūna",
+      "meaning": "they emerge/exit",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to appear"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating 3rd person plural present tense (they)"
+        },
+        {
+          "arabic": "خْرُج",
+          "meaning": "the root verb form denoting exiting/emerging"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating 3rd person plural masculine present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be of the same kind as"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَجْدَاثِ",
+      "transliteration": "al-ʾajdāthi",
+      "meaning": "the graves",
+      "root": {
+        "letters": "ج-د-ث",
+        "meaning": "to dig, to excavate; to set or place (something) in the earth"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَجْدَاثِ",
+          "meaning": "graves (plural of جُدْث)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سِرَاعًا",
+      "transliteration": "sirāʿan",
+      "meaning": "rapidly/with haste",
+      "root": {
+        "letters": "س-ر-ع",
+        "meaning": "to hasten, to be quick, speed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَأَنَّهُمْ",
+      "transliteration": "kaʾannahum",
+      "meaning": "as if they are",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hiddenness or latency"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "similar to, as if"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to/toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline toward, to be connected with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نُصُبٍ",
+      "transliteration": "nuṣubin",
+      "meaning": "an erected idol/marker",
+      "root": {
+        "letters": "ن-ص-ب",
+        "meaning": "to erect, to set up; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُوفِضُونَ",
+      "transliteration": "yūfiḍūna",
+      "meaning": "they hasten/flow to",
+      "root": {
+        "letters": "ف-ض-ي",
+        "meaning": "to flow, to pour forth, to overflow; to expend liberally"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural (we)"
+        },
+        {
+          "arabic": "وفِض",
+          "meaning": "to flow, to pour forth; basic root form"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active participle"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day- they- emerge - from - the- graves - rapidly - as if-they-are - to - an- erected-idol/marker - they-hasten"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

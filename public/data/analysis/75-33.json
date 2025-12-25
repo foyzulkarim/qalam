@@ -1,0 +1,83 @@
+{
+  "verseId": "75:33",
+  "verse": {
+    "arabic": "ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ",
+    "transliteration": "Thumma thahaba ila ahlihi yatamatta",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; also implies sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَهَبَ",
+      "transliteration": "dhahaba",
+      "meaning": "he went, he departed",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go away, to depart; to melt (of gold)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَهْلِهِ",
+      "transliteration": "ahlihi",
+      "meaning": "his people, his family",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to be weak, to lack strength; family/household due to inherent connection and need"
+      },
+      "components": [
+        {
+          "arabic": "أَهْلِ",
+          "meaning": "people, family (plural of أَهْل)"
+        },
+        {
+          "arabic": "هِـ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَتَمَطَّىٰ",
+      "transliteration": "yatamattā",
+      "meaning": "he swaggered, he walked proudly",
+      "root": {
+        "letters": "م-ط-ي",
+        "meaning": "extension, stretching; arrogance, pride"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - he went - to - his people - he swaggered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

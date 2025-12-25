@@ -1,0 +1,96 @@
+{
+  "verseId": "77:41",
+  "verse": {
+    "arabic": "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ",
+    "transliteration": "Inna almuttaqeena fee thilalin waAAuyoonin",
+    "surah": "Al-Mursalat",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمُتَّقِينَ",
+      "transliteration": "al-muttaqīna",
+      "meaning": "the righteous, the God-fearing",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, be cautious"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُتَّقِينَ",
+          "meaning": "those who fear (God), the righteous (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, among",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ظِلَالٍ",
+      "transliteration": "ẓilālin",
+      "meaning": "shades, shadows",
+      "root": {
+        "letters": "ظ-ل-ل",
+        "meaning": "shade, shadow, coolness; to provide shade or protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عُيُونٍ",
+      "transliteration": "ʿuyūnin",
+      "meaning": "springs, fountains",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye, source, spring"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-righteous in-shades and-springs"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

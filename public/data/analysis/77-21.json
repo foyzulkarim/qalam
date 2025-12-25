@@ -1,0 +1,76 @@
+{
+  "verseId": "77:21",
+  "verse": {
+    "arabic": "فَجَعَلْنَاهُ فِي قَرَارٍ مَّكِينٍ",
+    "transliteration": "FajaAAalnahu fee qararin makeenin",
+    "surah": "Al-Mursalat",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَجَعَلْنَاهُ",
+      "transliteration": "fa-jaʿalnāhu",
+      "meaning": "so We made it/placed it",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made, We placed"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "it (pronoun suffix, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَرَارٍ",
+      "transliteration": "qarārin",
+      "meaning": "a place of rest/lodging",
+      "root": {
+        "letters": "ق-ر-ر",
+        "meaning": "to settle, to rest, to decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَّكِينٍ",
+      "transliteration": "makīnin",
+      "meaning": "firm/secure/stable",
+      "root": {
+        "letters": "م-ك-ن",
+        "meaning": "to be able, to empower, to secure"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-We-made-it in a place-of-rest firm/secure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

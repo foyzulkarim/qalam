@@ -1,0 +1,100 @@
+{
+  "verseId": "70:24",
+  "verse": {
+    "arabic": "وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ",
+    "transliteration": "Waallatheena fee amwalihim haqqun maAAloomun",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to have"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَمْوَالِهِمْ",
+      "transliteration": "amwālihim",
+      "meaning": "their wealths",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, own; to turn back or return"
+      },
+      "components": [
+        {
+          "arabic": "أمْوالِ",
+          "meaning": "wealths (plural)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَقٌّ",
+      "transliteration": "ḥaqq(un)",
+      "meaning": "a right",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, what is due; to be true or real"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَّعْلُومٌ",
+      "transliteration": "maʿlūm(un)",
+      "meaning": "known",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - those who - in - their wealths - a right - known"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

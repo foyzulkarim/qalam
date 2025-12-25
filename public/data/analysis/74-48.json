@@ -1,0 +1,103 @@
+{
+  "verseId": "74:48",
+  "verse": {
+    "arabic": "فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+    "transliteration": "Fama tanfaAAuhum shafaAAatu alshshafiAAeena",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "So, then not / Therefore not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be able, to possess power, or to prevent"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "not / that which is not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَنفَعُهُمْ",
+      "transliteration": "tanfaʿuhum",
+      "meaning": "benefit them / will benefit them",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to be useful, to benefit"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating future tense or potentiality"
+        },
+        {
+          "arabic": "نَفَعَ",
+          "meaning": "to benefit"
+        },
+        {
+          "arabic": "-هُ",
+          "meaning": "pronoun suffix: them"
+        },
+        {
+          "arabic": "-مْ",
+          "meaning": "pronoun suffix: them (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَفَاعَةُ",
+      "transliteration": "shafāʿatu",
+      "meaning": "intercession / the intercession of",
+      "root": {
+        "letters": "ش-ف-ع",
+        "meaning": "to intercede, to plead on behalf of another; to be full, complete (related to removing deficiency through intercession)"
+      },
+      "components": [
+        {
+          "arabic": "شَفَاعَةٌ",
+          "meaning": "intercession, the act of pleading on behalf of another; a benefit or favour obtained through intercession"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الشَّافِعِينَ",
+      "transliteration": "al-shāfiʿīn",
+      "meaning": "the intercessors / the interceding ones",
+      "root": {
+        "letters": "ش-ف-ع",
+        "meaning": "to suffice, to intercede, to explain; sufficient, witness"
+      },
+      "components": [
+        {
+          "arabic": "الشَّافِع",
+          "meaning": "the intercessor, the one who pleads"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural marker for masculine humans"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-not benefit-them intercession-of the-intercessors"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

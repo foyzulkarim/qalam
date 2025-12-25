@@ -1,0 +1,117 @@
+{
+  "verseId": "73:7",
+  "verse": {
+    "arabic": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+    "transliteration": "Inna laka fee alnnahari sabhan taweelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "for you, to you",
+      "root": {
+        "letters": "ل-ك-و",
+        "meaning": "possession, attribution"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, by",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in; abundance, overflow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّهَارِ",
+      "transliteration": "an-nahāri",
+      "meaning": "the day",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to be clear, bright; to appear; day"
+      },
+      "components": [
+        {
+          "arabic": "النَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هَارِ",
+          "meaning": "day (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سَبْحًا",
+      "transliteration": "sabḥan",
+      "meaning": "occupation, activity",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to flow; glorification, praise (through flowing movement)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "طَوِيلًا",
+      "transliteration": "ṭawīlan",
+      "meaning": "prolonged, long",
+      "root": {
+        "letters": "ط-و-ل",
+        "meaning": "to be long, to extend"
+      },
+      "components": [
+        {
+          "arabic": "طَوِيل",
+          "meaning": "long (masculine singular)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fathah for indefinite accusative/temporal"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-for you in-the day occupation prolonged."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

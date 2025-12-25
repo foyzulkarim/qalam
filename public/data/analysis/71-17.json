@@ -1,0 +1,105 @@
+{
+  "verseId": "71:17",
+  "verse": {
+    "arabic": "وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا",
+    "transliteration": "WaAllahu anbatakum mina alardi nabatan",
+    "surah": "Nuh",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be divine, to worship; God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنبَتَكُم",
+      "transliteration": "ʾanbatakum",
+      "meaning": "He caused you to grow/sprout",
+      "root": {
+        "letters": "ن-ب-ت",
+        "meaning": "to grow, to sprout, to originate"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to cause something to happen (verbal prefix)"
+        },
+        {
+          "arabic": "بَتَكُم",
+          "meaning": "you (plural) grew/sprouted; derived from the root ن-ب-ت with pronominal suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to restrain, to withhold, origin of separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, extensive; the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "tanwin (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَبَاتًا",
+      "transliteration": "nabātan",
+      "meaning": "a growth/plant",
+      "root": {
+        "letters": "ن-ب-ت",
+        "meaning": "to sprout, grow, originate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-Allah He-caused-you-to-grow from the-earth a-growth"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

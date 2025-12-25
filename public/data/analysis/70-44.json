@@ -1,0 +1,171 @@
+{
+  "verseId": "70:44",
+  "verse": {
+    "arabic": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ",
+    "transliteration": "KhashiAAatan absaruhum tarhaquhum thillatun thalika alyawmu allathee kanoo yooAAadoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَاشِعَةً",
+      "transliteration": "khāshiʿatan",
+      "meaning": "humbled, submissive",
+      "root": {
+        "letters": "خ-ش-ع",
+        "meaning": "to be subdued, humbled, lowered"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَبْصَارُهُمْ",
+      "transliteration": "ʾabṣāruhum",
+      "meaning": "their eyes",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, vision"
+      },
+      "components": [
+        {
+          "arabic": "أَبْ",
+          "meaning": "their (pronoun suffix)"
+        },
+        {
+          "arabic": "صَارُ",
+          "meaning": "eyes (plural of بَصَر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَرْهَقُهُمْ",
+      "transliteration": "tarhaquhum",
+      "meaning": "will cover them, overwhelms them",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "to weary, exhaust, overwhelm"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense or potentiality"
+        },
+        {
+          "arabic": "رَهَقَ",
+          "meaning": "to overwhelm, cover with exhaustion"
+        },
+        {
+          "arabic": "-هُمْ",
+          "meaning": "them (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِلَّةٌ",
+      "transliteration": "dhillatun",
+      "meaning": "humiliation, disgrace",
+      "root": {
+        "letters": "ذ-ل-ل",
+        "meaning": "to be humbled, to submit, weakness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that is, this is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or humble"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰ",
+          "meaning": "demonstrative pronoun indicating remoteness (far away)"
+        },
+        {
+          "arabic": "ـكَ",
+          "meaning": "suffix pronoun - your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْيَوْمُ",
+      "transliteration": "al-yawmu",
+      "meaning": "the day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to exist, to pass (of time), day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "which, that which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership; having qualities or characteristics"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were, they used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (masculine plural pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (past tense, plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُوعَدُونَ",
+      "transliteration": "yūʿadūn",
+      "meaning": "they are promised, they used to be promised",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to threaten"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, 3rd person plural"
+        },
+        {
+          "arabic": "وُعِدَ",
+          "meaning": "passive voice of the verb 'to promise'"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating 3rd person plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "humbled-eyes-of-them will-cover-them humiliation -that-is the-day which they-were promised"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

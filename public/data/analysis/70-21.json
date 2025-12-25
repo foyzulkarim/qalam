@@ -1,0 +1,90 @@
+{
+  "verseId": "70:21",
+  "verse": {
+    "arabic": "وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا",
+    "transliteration": "Waitha massahu alkhayru manooAAan",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "wa-idhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; time passing"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, at the time when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَسَّهُ",
+      "transliteration": "massahu",
+      "meaning": "touched him",
+      "root": {
+        "letters": "م-سّ-ح",
+        "meaning": "to touch, to stroke, to wipe over"
+      },
+      "components": [
+        {
+          "arabic": "مَسَّ",
+          "meaning": "touched"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْخَيْرُ",
+      "transliteration": "al-khayru",
+      "meaning": "the good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَيْر",
+          "meaning": "goodness, benefit"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَنُوعًا",
+      "transliteration": "manūʿan",
+      "meaning": "withholding, miserly",
+      "root": {
+        "letters": "ن-ع-و",
+        "meaning": "to lack, to be in need; withholding"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when touched-him the-good withholding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

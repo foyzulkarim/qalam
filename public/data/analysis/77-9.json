@@ -1,0 +1,60 @@
+{
+  "verseId": "77:9",
+  "verse": {
+    "arabic": "وَإِذَا السَّمَاءُ فُرِجَتْ",
+    "transliteration": "Waitha alssamao furijat",
+    "surah": "Al-Mursalat",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to come, to arrive; to pass time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the heaven, the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to elevate; height, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فُرِجَتْ",
+      "transliteration": "furijat",
+      "meaning": "was opened, was cleft apart",
+      "root": {
+        "letters": "ف-ر-ج",
+        "meaning": "to widen, to ease, to open"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-heaven was-opened"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

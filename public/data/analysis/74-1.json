@@ -1,0 +1,64 @@
+{
+  "verseId": "74:1",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الْمُدَّثِّرُ",
+    "transliteration": "Ya ayyuha almuddaththiru",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, masculine singular)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "interrogative pronoun/particle of address, often implying emphasis or calling attention"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "vocative particle, indicates direct address (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُدَّثِّرُ",
+      "transliteration": "al-muddatthiru",
+      "meaning": "the one who covers himself",
+      "root": {
+        "letters": "د-ث-ر",
+        "meaning": "to wrap, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُدَّثِّر",
+          "meaning": "one who wraps himself, one who covers himself (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O - O [masculine singular] - the-one-who-covers-himself"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

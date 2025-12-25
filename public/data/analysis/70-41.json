@@ -1,0 +1,139 @@
+{
+  "verseId": "70:41",
+  "verse": {
+    "arabic": "عَلَىٰ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+    "transliteration": "AAala an nubaddila khayran minhum wama nahnu bimasbooqeena",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, for",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to (infinitive marker)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being; also used to form verbal nouns and infinitives"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُّبَدِّلَ",
+      "transliteration": "nubaddila",
+      "meaning": "we replace, we substitute",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to exchange, to substitute, to replace"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "بَدَّلَ",
+          "meaning": "to replace, to substitute"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "goodness, better (accusative)",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, good quality, virtue"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them, than them",
+      "root": {
+        "letters": "م-ن-هـ",
+        "meaning": "to originate, to be from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "not, that (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, to incline towards; presence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِمَسْبُوقِينَ",
+      "transliteration": "bimasbūqīn",
+      "meaning": "preceded, outdone (passive participle)",
+      "root": {
+        "letters": "س-ب-ق",
+        "meaning": "to precede, to outstrip, to be early"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَسْبُوقِينَ",
+          "meaning": "preceded ones, outstripped ones (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "upon-that we-replace goodness-than-them and not-we we by-outdone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

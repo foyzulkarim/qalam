@@ -1,0 +1,89 @@
+{
+  "verseId": "70:37",
+  "verse": {
+    "arabic": "عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ",
+    "transliteration": "AAani alyameeni waAAani alshshimali AAizeena",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about, from, regarding",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, to return to, to revert"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْيَمِينِ",
+      "transliteration": "al-yamīni",
+      "meaning": "the right (side)",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, strength, auspiciousness, the south"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَمِين",
+          "meaning": "right (side)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about, from, regarding",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be related to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الشِّمَالِ",
+      "transliteration": "ash-shimāli",
+      "meaning": "the left (side)",
+      "root": {
+        "letters": "ش-م-ل",
+        "meaning": "to be on the left, to incline towards, weakness (related to left-handedness)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عِزِينَ",
+      "transliteration": "ʿizīn",
+      "meaning": "groups, assemblies (plural)",
+      "root": {
+        "letters": "ع-ز-ي",
+        "meaning": "strength, power, honor; to strengthen, empower"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "about-the right and about-the left groups-[are]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "verseId": "75:9",
+  "verse": {
+    "arabic": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+    "transliteration": "WajumiAAa alshshamsu waalqamaru",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجُمِعَ",
+      "transliteration": "wa-jumiʿa",
+      "meaning": "and was gathered/collected",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, gather, assemble"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جُمِعَ",
+          "meaning": "was gathered/collected (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الشَّمْسُ",
+      "transliteration": "ash-shamsu",
+      "meaning": "the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to go, to travel; intensity, heat, brightness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالْقَمَرُ",
+      "transliteration": "wal-qamaru",
+      "meaning": "and the moon",
+      "root": {
+        "letters": "ق-م-ر",
+        "meaning": "to measure, to regulate (time), the moon itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَمَرُ",
+          "meaning": "moon"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-[was] gathered-and the sun-and the moon"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

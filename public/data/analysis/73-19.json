@@ -1,0 +1,180 @@
+{
+  "verseId": "73:19",
+  "verse": {
+    "arabic": "إِنَّ هَـٰذِهِ تَذْكِرَةٌ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+    "transliteration": "Inna hathihi tathkiratun faman shaa ittakhatha ila rabbihi sabeelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, Verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "conditional particle indicating emphasis or affirmation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذِهِ",
+      "transliteration": "hāḏihi",
+      "meaning": "This (feminine)",
+      "root": {
+        "letters": "هـ-ذَا-ي",
+        "meaning": "to point, to indicate, this"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰذِ",
+          "meaning": "this (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "-هِ",
+          "meaning": "feminine singular suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَذْكِرَةٌ",
+      "transliteration": "taḏkiratun",
+      "meaning": "A reminder, an admonition",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "تَذْكِير",
+          "meaning": "gerund/verbal noun of reminding"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker, indefinite noun ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "— (pause)",
+      "meaning": "Pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَمَن",
+      "transliteration": "famam",
+      "meaning": "So whoever, then whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate, to belong to; also, weakness or exhaustion (related to the negative sense)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle indicating consequence/sequel)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَاءَ",
+      "transliteration": "šāʾa",
+      "meaning": "Willed, desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "To will, to desire, to want"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اتَّخَذَ",
+      "transliteration": "ittakhaḏa",
+      "meaning": "Took, chose",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to possess, to choose"
+      },
+      "components": [
+        {
+          "arabic": "اِتِّ",
+          "meaning": "intensive/iterative prefix indicating seeking something out repeatedly or doing it thoroughly"
+        },
+        {
+          "arabic": "خَذَ",
+          "meaning": "to take, to possess"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix indicating the third person masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "To, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To turn towards, to incline, to resort to; belonging or pertaining to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "His Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, master (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "سَبِيلًا",
+      "transliteration": "sabīlan",
+      "meaning": "A way, a path",
+      "root": {
+        "letters": "س-ب-ل",
+        "meaning": "to flow, to extend, to have access; a path or way as an extension or means of access"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-this is -a reminder – so whoever – willed – took – to -his Lord -a way."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

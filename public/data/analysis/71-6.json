@@ -1,0 +1,110 @@
+{
+  "verseId": "71:6",
+  "verse": {
+    "arabic": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+    "transliteration": "Falam yazidhum duAAaee illa firaran",
+    "surah": "Nuh",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَمْ",
+      "transliteration": "fa-lam",
+      "meaning": "so not/and not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to will, to refuse"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then, and"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not, did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَزِدْهُمْ",
+      "transliteration": "yazid-hum",
+      "meaning": "increase them",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add"
+      },
+      "components": [
+        {
+          "arabic": "يَزِيدُ",
+          "meaning": "he increases/adds (verb)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "دُعَائِي",
+      "transliteration": "duʿāʾī",
+      "meaning": "my invitation/calling",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, invoke, pray"
+      },
+      "components": [
+        {
+          "arabic": "دُعَاء",
+          "meaning": "invitation, calling, prayer"
+        },
+        {
+          "arabic": "ِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away from, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِرَارًا",
+      "transliteration": "firāran",
+      "meaning": "flight/escaping",
+      "root": {
+        "letters": "ف-ر-ر",
+        "meaning": "to flee, to run away, to escape"
+      },
+      "components": [
+        {
+          "arabic": "فِرَار",
+          "meaning": "flight, escaping"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fath (indicates indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-not increase-them my-invitation except flight"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

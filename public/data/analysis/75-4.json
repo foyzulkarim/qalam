@@ -1,0 +1,94 @@
+{
+  "verseId": "75:4",
+  "verse": {
+    "arabic": "بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ",
+    "transliteration": "Bala qadireena AAala an nusawwiya bananahu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلَىٰ",
+      "transliteration": "balā",
+      "meaning": "yes, indeed, truly",
+      "root": {
+        "letters": "ب-ل-ي",
+        "meaning": "to be afflicted, to suffer hardship; to attain, to reach (a desired state)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَادِرِينَ",
+      "transliteration": "qādirīn",
+      "meaning": "able, capable",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be powerful, to have power or ability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on, over, able to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise; ascendancy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to (followed by a verb)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also denotes intention or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نُسَوِّيَ",
+      "transliteration": "nusawwiya",
+      "meaning": "we proportion, we make equal, we adjust",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to incline, to turn, to make something good or proper; to adjust, rectify"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بَنَانَهُ",
+      "transliteration": "banānahu",
+      "meaning": "his fingertips, his fingers (specifically)",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; also, to create, to originate"
+      },
+      "components": [
+        {
+          "arabic": "بَنَان",
+          "meaning": "fingertips, fingers"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Yes-indeed, able-capable [we are] upon to-that we-proportion his-fingertips"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

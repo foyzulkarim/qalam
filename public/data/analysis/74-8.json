@@ -1,0 +1,72 @@
+{
+  "verseId": "74:8",
+  "verse": {
+    "arabic": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+    "transliteration": "Faitha nuqira fee alnnaqoori",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "So when, then",
+      "root": {
+        "letters": "إ-ذ-ي",
+        "meaning": "to come, to occur, to happen; sudden appearance"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُقِرَ",
+      "transliteration": "nuqira",
+      "meaning": "Was blown, was struck, was sounded",
+      "root": {
+        "letters": "ن-ق-ر",
+        "meaning": "to strike, peck, tap; to carve; to read (by striking the letters)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, at",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to contain, to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّاقُورِ",
+      "transliteration": "an-nāqūri",
+      "meaning": "The trumpet, the horn",
+      "root": {
+        "letters": "ن-ق-ر",
+        "meaning": "to strike, to peck, to beat (a drum or bell)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-then [when]-nuqira-was blown fī-in an-nāqūri-the trumpet"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

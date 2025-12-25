@@ -1,0 +1,220 @@
+{
+  "verseId": "72:27",
+  "verse": {
+    "arabic": "إِلَّا مَنِ ارْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا",
+    "transliteration": "Illa mani irtada min rasoolin fainnahu yasluku min bayni yadayhi wamin khalfihi rasadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنِ",
+      "transliteration": "mani",
+      "meaning": "who, whom",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to be, to exist; belonging to, from whom"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ارْتَضَىٰ",
+      "transliteration": "irtaḍā",
+      "meaning": "he chose, he approved of",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to accept willingly"
+      },
+      "components": [
+        {
+          "arabic": "اِرْتَـ",
+          "meaning": "prefix indicating seeking or doing something repeatedly/thoroughly"
+        },
+        {
+          "arabic": "ضَىٰ",
+          "meaning": "root relating to satisfaction or willingness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ى",
+        "meaning": "to originate, to be born from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَّسُولٍ",
+      "transliteration": "rusūlin",
+      "meaning": "messenger(s)",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a message"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَإِنَّهُ",
+      "transliteration": "faʾinnahū",
+      "meaning": "then indeed he",
+      "root": {
+        "letters": "هـ-نْ-أ",
+        "meaning": "to be, to exist; also safety, tranquility"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he, it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَسْلُكُ",
+      "transliteration": "yasluku",
+      "meaning": "he follows, he sends forth",
+      "root": {
+        "letters": "س-ل-ك",
+        "meaning": "to proceed, to follow a path, to pass through"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first-person singular (he)"
+        },
+        {
+          "arabic": "سَلُكَ",
+          "meaning": "to follow a path, to proceed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَيْنِ",
+      "transliteration": "bayna",
+      "meaning": "between, in front of",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to become clear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَدَيْهِ",
+      "transliteration": "yadaihi",
+      "meaning": "his two hands, before him",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; to hold, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "يد",
+          "meaning": "hand"
+        },
+        {
+          "arabic": "يْهِ",
+          "meaning": "his (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَمِنْ",
+      "transliteration": "wa min",
+      "meaning": "and from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, to prevent, to originate from"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "خَلْفِهِ",
+      "transliteration": "khalfihī",
+      "meaning": "behind him",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to remain, to come after, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "خَلْف",
+          "meaning": "behind, after"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رَصَدًا",
+      "transliteration": "raṣadan",
+      "meaning": "observers, watchmen",
+      "root": {
+        "letters": "ر-ص-د",
+        "meaning": "to watch, to lie in wait, to observe"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-who [He] chose-from messenger(s), then indeed he sends forth-from between-his two hands and-from behind him observers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "verseId": "77:35",
+  "verse": {
+    "arabic": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+    "transliteration": "Hatha yawmu la yantiqoona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "This (demonstrative pronoun)",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمُ",
+      "transliteration": "yawmu",
+      "meaning": "Day (noun)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "To exist, to be; day as a period of existence."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَنطِقُونَ",
+      "transliteration": "yanṭiqūna",
+      "meaning": "They speak (verb)",
+      "root": {
+        "letters": "ن-ط-ق",
+        "meaning": "to speak, to utter, to articulate"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense and third person plurality"
+        },
+        {
+          "arabic": "نَطِقُـ",
+          "meaning": "basic form of the verb 'to speak'"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating third person plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "This-is Day not they-speak"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

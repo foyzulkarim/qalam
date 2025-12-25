@@ -1,0 +1,78 @@
+{
+  "verseId": "77:42",
+  "verse": {
+    "arabic": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ",
+    "transliteration": "Wafawakiha mimma yashtahoona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَوَاكِهَ",
+      "transliteration": "fawākih",
+      "meaning": "fruits",
+      "root": {
+        "letters": "ف-و-ك",
+        "meaning": "to be ripe, to flourish; sweetness, abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِمَّا",
+      "transliteration": "mimmā",
+      "meaning": "from what/of that which",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "prevention, withholding, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَشْتَهُونَ",
+      "transliteration": "yashtahūnūna",
+      "meaning": "they desire",
+      "root": {
+        "letters": "ش-ه-و",
+        "meaning": "to desire, to want, to crave"
+      },
+      "components": [
+        {
+          "arabic": "يَشْتَ",
+          "meaning": "they desire (prefix + stem)"
+        },
+        {
+          "arabic": "هُونَ",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - fruits - from what/of that which - they desire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

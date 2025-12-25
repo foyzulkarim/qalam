@@ -1,0 +1,178 @@
+{
+  "verseId": "70:42",
+  "verse": {
+    "arabic": "فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ",
+    "transliteration": "Fatharhum yakhoodoo wayalAAaboo hatta yulaqoo yawmahumu allathee yooAAadoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَذَرْهُمْ",
+      "transliteration": "fa-dh'ar-hum",
+      "meaning": "so leave them",
+      "root": {
+        "letters": "ذ-ر-ع",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "ذَرْ",
+          "meaning": "leave, abandon (verb in the imperative mood)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَخُوضُوا",
+      "transliteration": "ya-khūḍū",
+      "meaning": "they converse, they indulge (in talk)",
+      "root": {
+        "letters": "خ-و-ض",
+        "meaning": "to stir up, to delve into, to enter (water or a matter)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person plural subjunctive or jussive"
+        },
+        {
+          "arabic": "خُوضُوا",
+          "meaning": "they delve into, they engage in (derived from the root خ-و-ض)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَيَلْعَبُوا",
+      "transliteration": "wa-yalʿabū",
+      "meaning": "and they play, and amuse themselves",
+      "root": {
+        "letters": "ل-ع-ب",
+        "meaning": "to play, to amuse oneself, to entertain"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَلْعَبُوا",
+          "meaning": "they play"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُلَاقُوا",
+      "transliteration": "yu-lāqū",
+      "meaning": "they meet",
+      "root": {
+        "letters": "ل-ق-و",
+        "meaning": "to meet, encounter"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense/mood"
+        },
+        {
+          "arabic": "لَاقُوا",
+          "meaning": "they met/are meeting - verb form indicating action performed by the subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَوْمَهُمُ",
+      "transliteration": "yawma-humu",
+      "meaning": "their Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the Day of, in the Day of"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "which, that (relative pronoun)",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, having qualities"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "which, that (relative pronoun base)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُوعَدُونَ",
+      "transliteration": "yu-ūʿadūn",
+      "meaning": "they are promised",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to fulfill a pledge"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "وُعِدَ",
+          "meaning": "passive voice of 'to promise'"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating masculine plural"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-leave them - they-converse - and-they-amuse themselves - until - they-meet - their-Day - which - they-are-promised"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

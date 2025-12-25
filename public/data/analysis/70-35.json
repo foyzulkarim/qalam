@@ -1,0 +1,78 @@
+{
+  "verseId": "70:35",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ",
+    "transliteration": "Olaika fee jannatin mukramoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those, these (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, initial, foremost; to begin"
+      },
+      "components": [
+        {
+          "arabic": "أُولَـ",
+          "meaning": "Those (remote demonstrative pronoun base)"
+        },
+        {
+          "arabic": "-ٰئِكَ",
+          "meaning": "Suffix indicating masculine plural (distant)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, within (preposition)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَنَّاتٍ",
+      "transliteration": "jannātin",
+      "meaning": "Gardens (plural of جنّة)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to veil; also abundance and greenery"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُّكْرَمُونَ",
+      "transliteration": "mukramūn",
+      "meaning": "Honored, noble (passive participle)",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, to honor, excellence"
+      },
+      "components": [
+        {
+          "arabic": "مُكْرَم",
+          "meaning": "Honored (passive participle stem)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "Plural masculine ending, indicating a group of honored ones"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-indeed in gardens honored."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

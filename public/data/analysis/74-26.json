@@ -1,0 +1,58 @@
+{
+  "verseId": "74:26",
+  "verse": {
+    "arabic": "سَأُصْلِيهِ سَقَرَ",
+    "transliteration": "Saosleehi saqara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَأُصْلِيهِ",
+      "transliteration": "saʾuṣlihi",
+      "meaning": "I will burn him, I will roast him",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to burn, to roast; to pray (related through intensification)"
+      },
+      "components": [
+        {
+          "arabic": "سَـ",
+          "meaning": "future particle (indicating future tense)"
+        },
+        {
+          "arabic": "أُ",
+          "meaning": "first person singular pronoun marker (I)"
+        },
+        {
+          "arabic": "صَلِّي",
+          "meaning": "imperative/present form from the root ص-ل-و (to burn, to roast)"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "masculine singular object pronoun (him)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَقَرَ",
+      "transliteration": "saqara",
+      "meaning": "Saqar (name of a hell)",
+      "root": {
+        "letters": "س-ق-ر",
+        "meaning": "to burn, to scorch, intense heat"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "I-will-burn-him Saqar"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

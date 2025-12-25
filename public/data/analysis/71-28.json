@@ -1,0 +1,290 @@
+{
+  "verseId": "71:28",
+  "verse": {
+    "arabic": "رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+    "transliteration": "Rabbi ighfir lee waliwalidayya waliman dakhala baytiya muminan walilmumineena waalmuminati wala tazidi alththalimeena illa tabaran",
+    "surah": "Nuh",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَّبِّ",
+      "transliteration": "rabbi",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have power, to increase; generally related to sovereignty and lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "My Lord (possessive pronoun suffix indicating first-person singular possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اغْفِرْ",
+      "transliteration": "ighfir",
+      "meaning": "Forgive!",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "To cover, to forgive, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِي",
+      "transliteration": "lī",
+      "meaning": "For me",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "belonging to, for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِوَالِدَيَّ",
+      "transliteration": "li-wālidayya",
+      "meaning": "For my parents",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "To be born, to produce offspring; birth, origin"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "For, to"
+        },
+        {
+          "arabic": "وَالِدَيَّ",
+          "meaning": "My parents (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلِمَن",
+      "transliteration": "wa-li-man",
+      "meaning": "And for whoever",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to prevent, to withhold, possession"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "دَخَلَ",
+      "transliteration": "dakhala",
+      "meaning": "Entered",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "To enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بَيْتِيَ",
+      "transliteration": "baytiya",
+      "meaning": "My house",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to build, structure, habitation"
+      },
+      "components": [
+        {
+          "arabic": "بيت",
+          "meaning": "house"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مُؤْمِنًا",
+      "transliteration": "mu'minan",
+      "meaning": "A believer",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trust, faith"
+      },
+      "components": [
+        {
+          "arabic": "مُ",
+          "meaning": "participial prefix indicating the active participle (one who does)"
+        },
+        {
+          "arabic": "أَمِن",
+          "meaning": "to believe, to be secure"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-fatḥ (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لِلْمُؤْمِنِينَ",
+      "transliteration": "li-l-mu'minīn",
+      "meaning": "For the believing men",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُؤْمِنِينَ",
+          "meaning": "the believers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالْمُؤْمِنَاتِ",
+      "transliteration": "wa-l-mu'mināt",
+      "meaning": "And the believing women",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمُؤْمِنَاتِ",
+          "meaning": "the believing women"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Do not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تَزِدِ",
+      "transliteration": "tazid",
+      "meaning": "Increase",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to excel"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix indicating the imperative mood, second person feminine singular (you)"
+        },
+        {
+          "arabic": "زِدِ",
+          "meaning": "Increase (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الظَّالِمِينَ",
+      "transliteration": "al-ẓālimīn",
+      "meaning": "The wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "wrongdoers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "Except",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "To be absent, to lack, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تَبَارًا",
+      "transliteration": "tabāran",
+      "meaning": "Destruction",
+      "root": {
+        "letters": "ب-ر-أ",
+        "meaning": "to destroy, to ruin, to be ruined or destroyed"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "My-Lord - Forgive! - For-me - And - For-my-parents - And-for-whoever - Entered - My-house - A-believer - And - For-the-believing-men - And-the-believing-women - And - Do-not - Increase - The-wrongdoers - Except - Destruction"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

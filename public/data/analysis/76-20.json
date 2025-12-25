@@ -1,0 +1,133 @@
+{
+  "verseId": "76:20",
+  "verse": {
+    "arabic": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا",
+    "transliteration": "Waitha raayta thamma raayta naAAeeman wamulkan kabeeran",
+    "surah": "Al-Insan",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to come, to happen; time"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَأَيْتَ",
+      "transliteration": "raʾayta",
+      "meaning": "you see (masculine singular)",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": [
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "you see (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ثَمَّ",
+      "transliteration": "thamma",
+      "meaning": "there",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to remain, to be fixed in a place"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَأَيْتَ",
+      "transliteration": "raʾayta",
+      "meaning": "you will see (masculine singular)",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to observe, perception"
+      },
+      "components": [
+        {
+          "arabic": "رَأَى",
+          "meaning": "to see, to witness"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَعِيمًا",
+      "transliteration": "naʿīman",
+      "meaning": "pleasure, bliss",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, to enjoy comfort and ease"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَمُلْكًا",
+      "transliteration": "wa-mulkan",
+      "meaning": "and dominion, kingship",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, ownership, kingship"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مُلْكًا",
+          "meaning": "dominion, kingdom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَبِيرًا",
+      "transliteration": "kabīran",
+      "meaning": "great, large",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "growth, magnitude, greatness"
+      },
+      "components": [
+        {
+          "arabic": "كَبِيرًا",
+          "meaning": "great, large (accusative case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when you-see there you-will-see pleasure and-dominion great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

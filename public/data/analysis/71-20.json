@@ -1,0 +1,81 @@
+{
+  "verseId": "71:20",
+  "verse": {
+    "arabic": "لِّتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
+    "transliteration": "Litaslukoo minha subulan fijajan",
+    "surah": "Nuh",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّتَسْلُكُوا",
+      "transliteration": "li-taslukū",
+      "meaning": "to follow paths/roads",
+      "root": {
+        "letters": "س-ل-ك",
+        "meaning": "to proceed, to follow a path or way; to manage affairs"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to (purpose)"
+        },
+        {
+          "arabic": "تَسْلُكُوا",
+          "meaning": "you (plural) follow a path/road"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it/therein",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/therein (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سُبُلًا",
+      "transliteration": "subulan",
+      "meaning": "roads, pathways",
+      "root": {
+        "letters": "س-ب-ل",
+        "meaning": "to open a path, to facilitate access; pathway"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِجَاجًا",
+      "transliteration": "fijājan",
+      "meaning": "smooth, open passages; clear roads",
+      "root": {
+        "letters": "ف-ج-ج",
+        "meaning": "to split, to cleave, to separate; to be smooth or open"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-follow-paths from-it roads passages"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

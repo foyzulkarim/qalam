@@ -1,0 +1,50 @@
+{
+  "verseId": "77:4",
+  "verse": {
+    "arabic": "فَالْفَارِقَاتِ فَرْقًا",
+    "transliteration": "Faalfariqati farqan",
+    "surah": "Al-Mursalat",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَالْفَارِقَاتِ",
+      "transliteration": "fa-l-fāriqāti",
+      "meaning": "And the separating ones / And those who separate",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to distinguish, to differentiate"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "And (conjunction)"
+        },
+        {
+          "arabic": "الْفَارِقَاتِ",
+          "meaning": "The separating ones / Those who separate (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَرْقًا",
+      "transliteration": "farqan",
+      "meaning": "separation / a distinction / criterion",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to distinguish, to break apart"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[and] l-fāriqāti [the separating ones] farqan [separation/criterion]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

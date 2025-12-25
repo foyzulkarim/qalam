@@ -1,0 +1,101 @@
+{
+  "verseId": "75:10",
+  "verse": {
+    "arabic": "يَقُولُ الْإِنسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+    "transliteration": "Yaqoolu alinsanu yawmaithin ayna almafarru",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to command, to relate"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense and first person singular (he)"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "The root verb meaning 'he says'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "The human being, Man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly, to adapt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾiḏin",
+      "meaning": "On that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on a day; the accusative case marker indicating time"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time); a demonstrative pronoun indicating specificity"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَيْنَ",
+      "transliteration": "ʾayna",
+      "meaning": "Where?",
+      "root": {
+        "letters": "أ-ي-ن",
+        "meaning": "to exist, to be present; hiddenness or obscurity (implied in questioning location)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمَفَرُّ",
+      "transliteration": "al-mafarru",
+      "meaning": "The escape, the way out",
+      "root": {
+        "letters": "ف-ر-ر",
+        "meaning": "to flee, to escape"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَفَرّ",
+          "meaning": "escape, way out (verbal noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-says The-human-being On-that-Day Where? The-escape"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

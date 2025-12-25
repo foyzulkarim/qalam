@@ -1,0 +1,98 @@
+{
+  "verseId": "77:50",
+  "verse": {
+    "arabic": "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ",
+    "transliteration": "Fabiayyi hadeethin baAAdahu yuminoona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبِأَيِّ",
+      "transliteration": "fa-bi-ʾayyi",
+      "meaning": "So, with which?",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "to return, to come back; question particle"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (conjunction)"
+        },
+        {
+          "arabic": "بِـ",
+          "meaning": "With, by means of (preposition)"
+        },
+        {
+          "arabic": "أَيِّ",
+          "meaning": "Which? (interrogative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَدِيثٍ",
+      "transliteration": "ḥadīthin",
+      "meaning": "statement, narrative",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "occurrence, happening, newness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَعْدَهُ",
+      "transliteration": "baʿdahu",
+      "meaning": "after it (referring to the Qur'an)",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "بَعْدَ",
+          "meaning": "after"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (referring to the Qur'an)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yuʾminūna",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, security"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (prefix indicating plural present tense)"
+        },
+        {
+          "arabic": "أَمِنَ",
+          "meaning": "to believe, to have faith"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine present tense suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-with which - statement - after it - they believe?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "verseId": "68:28",
+  "verse": {
+    "arabic": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+    "transliteration": "Qala awsatuhum alam aqul lakum lawla tusabbihoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَوْسَطُهُمْ",
+      "transliteration": "awsaṭuhum",
+      "meaning": "their most moderate one",
+      "root": {
+        "letters": "و-س-ط",
+        "meaning": "to be in the middle, to moderate"
+      },
+      "components": [
+        {
+          "arabic": "أَوْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "سَطَ",
+          "meaning": "middle, moderate"
+        },
+        {
+          "arabic": "ـُهُمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَلَمْ",
+      "transliteration": "'alam",
+      "meaning": "did not?",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to know, to perceive, to be aware; negative connotation of lack of knowledge or perception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَقُل",
+      "transliteration": "aqul",
+      "meaning": "I say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating first person singular imperfect tense (I)"
+        },
+        {
+          "arabic": "قُل",
+          "meaning": "say!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "to you (plural)",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to possess, to be complete; sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَوْلَا",
+      "transliteration": "lawlā",
+      "meaning": "if not/why not",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to want, to desire; to turn towards something"
+      },
+      "components": [
+        {
+          "arabic": "لَو",
+          "meaning": "if, were"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تُسَبِّحُونَ",
+      "transliteration": "tusabbiḥūna",
+      "meaning": "you (plural) glorify/exalt",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to flow; by extension, to glorify, praise (through constant repetition like flowing water)"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural (you)"
+        },
+        {
+          "arabic": "سَبِّح",
+          "meaning": "active participle stem of 'to glorify/exalt'"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person plural (you, masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "said - their most moderate one - did not? - I say - to you (plural) - if not/why not - you (plural) glorify/exalt"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

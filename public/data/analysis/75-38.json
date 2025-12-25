@@ -1,0 +1,92 @@
+{
+  "verseId": "75:38",
+  "verse": {
+    "arabic": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+    "transliteration": "Thumma kana AAalaqatan fakhalaqa fasawwa",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; to follow in time or sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, he was",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "to be, to exist, inherent quality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَقَةً",
+      "transliteration": "ʿalaqatan",
+      "meaning": "a clinging clot, a leech-like substance",
+      "root": {
+        "letters": "ع-ل-ق",
+        "meaning": "to cling, to adhere, to be suspended"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَخَلَقَ",
+      "transliteration": "fa-khalaqa",
+      "meaning": "then He created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothing"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "then, so; a connective particle indicating sequence"
+        },
+        {
+          "arabic": "خَلَقَ",
+          "meaning": "He created (past tense verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَسَوَّىٰ",
+      "transliteration": "fa-sawwā",
+      "meaning": "then He proportioned, then He made straight/perfect",
+      "root": {
+        "letters": "س-و-ى",
+        "meaning": "to even, to make straight, to proportion, to adjust"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so (particle indicating sequence)"
+        },
+        {
+          "arabic": "سَوَّىٰ",
+          "meaning": "He proportioned, He made straight/perfect (verb in perfect tense)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-was-[he] a-clinging-clot then-created-[He]-him then-proportioned-[He]-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

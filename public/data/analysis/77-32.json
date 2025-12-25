@@ -1,0 +1,103 @@
+{
+  "verseId": "77:32",
+  "verse": {
+    "arabic": "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ",
+    "transliteration": "Innaha tarmee bishararin kaalqasri",
+    "surah": "Al-Mursalat",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهَا",
+      "transliteration": "ʾinnahā",
+      "meaning": "Indeed it (feminine)",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be, to exist; tranquility, rest"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرْمِي",
+      "transliteration": "tarmī",
+      "meaning": "It throws",
+      "root": {
+        "letters": "ر-م-ي",
+        "meaning": "to throw, to aim, to cast"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the present tense, specifically feminine singular imperfect form (she throws)"
+        },
+        {
+          "arabic": "رَمْـ",
+          "meaning": "the root relating to throwing or aiming"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "feminine singular pronoun suffix (she)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِشَرَرٍ",
+      "transliteration": "bi-šarrarٍ",
+      "meaning": "With sparks",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, harm, wickedness; spark (due to its intensity)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "شَرَرٍ",
+          "meaning": "sparks, embers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَالْقَصْرِ",
+      "transliteration": "ka-l-qaṣri",
+      "meaning": "Like the fortress",
+      "root": {
+        "letters": "ق-ص-ر",
+        "meaning": "to restrict, to confine; deficiency, shortness"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "Like, as"
+        },
+        {
+          "arabic": "الْقَصْرِ",
+          "meaning": "the fortress, the palace"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-it throws with-sparks like-the fortress."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "verseId": "76:13",
+  "verse": {
+    "arabic": "مُّتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+    "transliteration": "Muttakieena feeha AAala alaraiki la yarawna feeha shamsan wala zamhareeran",
+    "surah": "Al-Insan",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مُّتَّكِئِينَ",
+      "transliteration": "muttakʾīna",
+      "meaning": "reclining, leaning",
+      "root": {
+        "letters": "ك-ي-أ",
+        "meaning": "to support, to lean on, to rely upon"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to encompass, to be in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَرَائِكِ",
+      "transliteration": "al-ʾarāʾiki",
+      "meaning": "the couches, the divans",
+      "root": {
+        "letters": "أ-ر-ك",
+        "meaning": "to strengthen, to fortify; to incline or lean back (related to sitting)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَرَوْنَ",
+      "transliteration": "yarawna",
+      "meaning": "they see, they perceive",
+      "root": {
+        "letters": "ر-ي-و",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, they (masculine plural)"
+        },
+        {
+          "arabic": "رَو",
+          "meaning": "the root related to seeing or perceiving"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating masculine plural pronoun (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to dwell"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "شَمْسًا",
+      "transliteration": "shamsan",
+      "meaning": "sun, sunshine",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "intensity, heat, brightness; to travel in the sun"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "زَمْهَرِيرًا",
+      "transliteration": "zamharīran",
+      "meaning": "freezing cold, intense heat (contrary to common interpretation)",
+      "root": {
+        "letters": "ظ-م-ر",
+        "meaning": "intense cold, constriction, extreme heat (paradoxical duality)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "reclining-ones therein on the couches – not they-see in it sun and nor freezing-cold"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

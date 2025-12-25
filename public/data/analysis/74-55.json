@@ -1,0 +1,70 @@
+{
+  "verseId": "74:55",
+  "verse": {
+    "arabic": "فَمَن شَاءَ ذَكَرَهُ",
+    "transliteration": "Faman shaa thakarahu",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 55
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (introducing a conditional clause)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "willed, desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to will, to desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَكَرَهُ",
+      "transliteration": "dhakarahu",
+      "meaning": "remembered it",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to mention, to remember, to recall"
+      },
+      "components": [
+        {
+          "arabic": "ذَكَرَ",
+          "meaning": "he remembered"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [then] man- whoever shāʾa- willed dhakarahu- remembered it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

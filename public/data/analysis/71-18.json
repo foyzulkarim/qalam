@@ -1,0 +1,110 @@
+{
+  "verseId": "71:18",
+  "verse": {
+    "arabic": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+    "transliteration": "Thumma yuAAeedukum feeha wayukhrijukum ikhrajan",
+    "surah": "Nuh",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish after something else"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُعِيدُكُمْ",
+      "transliteration": "yuʿīdukum",
+      "meaning": "He returns you (plural)",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "to return, to go back, restoration"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun suffix indicating the third person masculine singular)"
+        },
+        {
+          "arabic": "عِيدُ",
+          "meaning": "returning (verbal noun/active participle)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "into it (feminine)",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be contained in, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, into"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيُخْرِجُكُمْ",
+      "transliteration": "wa yukhrījukum",
+      "meaning": "and He extracts you (plural)",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to bring forth"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُخْرِجُكُمْ",
+          "meaning": "He extracts you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِخْرَاجًا",
+      "transliteration": "ikhrājan",
+      "meaning": "extraction, bringing out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "إِخْرَاج",
+          "meaning": "extraction, bringing out"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-He-returns-you into-it and-He-extracts-you extraction"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

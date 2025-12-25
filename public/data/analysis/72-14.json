@@ -1,0 +1,245 @@
+{
+  "verseId": "72:14",
+  "verse": {
+    "arabic": "وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُولَـٰئِكَ تَحَرَّوْا رَشَدًا",
+    "transliteration": "Waanna minna almuslimoona waminna alqasitoona faman aslama faolaika taharraw rashadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, presence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَّا",
+      "transliteration": "minnā",
+      "meaning": "from among us",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to proceed from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُسْلِمُونَ",
+      "transliteration": "al-muslimūn",
+      "meaning": "the submitters/Muslims",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, to surrender, to submit"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُسْلِم",
+          "meaning": "submitter, one who surrenders (active participle)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural marker (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِنَّا",
+      "transliteration": "minnā",
+      "meaning": "from among us",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be of the same kind as"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْقَاسِطُونَ",
+      "transliteration": "al-qāṣiṭūn",
+      "meaning": "the unjust/deviators",
+      "root": {
+        "letters": "ق-س-ط",
+        "meaning": "to be just, to deviate"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَاسِطُونَ",
+          "meaning": "unjust, deviators (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "then/so",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to initiate, to begin; a connective particle indicating sequence or result"
+      },
+      "components": [
+        {
+          "arabic": "ف",
+          "meaning": "the letter 'f', used as a connective particle"
+        },
+        {
+          "arabic": "أ",
+          "meaning": "the letter 'a', used to initiate a new clause or sentence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَمَنْ",
+      "transliteration": "fa-man",
+      "meaning": "then whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also related to questioning or uncertainty"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَسْلَمَ",
+      "transliteration": "ʾaslama",
+      "meaning": "became Muslim/submitted",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, submission, surrender"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "fa-ʾawlāʾik",
+      "meaning": "then those",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to return; precedence, priority"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural, demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَحَرَّوْا",
+      "transliteration": "taḥarrū",
+      "meaning": "sought/pursued intentionally",
+      "root": {
+        "letters": "ح-ر-ي",
+        "meaning": "to seek, to pursue with care and intention; diligent search"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating intent or purpose (form VIII)"
+        },
+        {
+          "arabic": "حَرَّ",
+          "meaning": "intensive form of the root, related to seeking/pursuing diligently"
+        },
+        {
+          "arabic": "وْا",
+          "meaning": "pronoun suffix indicating 'they' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رَشَدًا",
+      "transliteration": "rashdan",
+      "meaning": "right guidance/the right course",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to guide; to be rightly guided; maturity of opinion"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - that we - from among us - the submitters/Muslims - and - from among us - the unjust/deviators - then/so - then whoever - became Muslim/submitted - then those - sought/pursued intentionally - right guidance/the right course"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

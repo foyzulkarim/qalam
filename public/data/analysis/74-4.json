@@ -1,0 +1,63 @@
+{
+  "verseId": "74:4",
+  "verse": {
+    "arabic": "وَثِيَابَكَ فَطَهِّرْ",
+    "transliteration": "Wathiyabaka fatahhir",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَثِيَابَكَ",
+      "transliteration": "wa-thiyābaka",
+      "meaning": "and your clothing",
+      "root": {
+        "letters": "ث-ي-ب",
+        "meaning": "to cover, to clothe; integrity, chastity"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ثِيَابَ",
+          "meaning": "clothing (plural of ثَوْب)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَطَهِّرْ",
+      "transliteration": "faṭahhir",
+      "meaning": "then purify!",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to be pure, clean; to purify, cleanse"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "طَهِّرْ",
+          "meaning": "purify (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-your clothing then-purify!"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

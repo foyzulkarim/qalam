@@ -1,0 +1,72 @@
+{
+  "verseId": "75:26",
+  "verse": {
+    "arabic": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ",
+    "transliteration": "Kalla itha balaghati alttaraqiya",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No, indeed; by no means",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to refuse, reject, or negate strongly; to be insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "When; whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to go away; to depart; to vanish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَلَغَتِ",
+      "transliteration": "balaġati",
+      "meaning": "Reached; arrived at",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "To attain, reach, arrive at; to mature."
+      },
+      "components": [
+        {
+          "arabic": "بَلَغ",
+          "meaning": "To reach, arrive at (verb root)"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "Suffix indicating the feminine singular past tense."
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "التَّرَاقِيَ",
+      "transliteration": "at-tarāqī",
+      "meaning": "The collar bones; the jugular region",
+      "root": {
+        "letters": "ر-ق-ي",
+        "meaning": "to ascend, to rise; to have a high position or status"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No-indeed [then]-when reached the collar bones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "verseId": "73:18",
+  "verse": {
+    "arabic": "السَّمَاءُ مُنفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
+    "transliteration": "Alssamao munfatirun bihi kana waAAduhu mafAAoolan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "The heaven, the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مُنْفَطِرٌ",
+      "transliteration": "munfaṭirun",
+      "meaning": "Split, broken apart"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "With it, by it, therefrom",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "Possession, accompaniment, means"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "It (pronoun suffix, referring to a masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, there was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَعْدُهُ",
+      "transliteration": "waʿduhu",
+      "meaning": "His promise",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to offer"
+      },
+      "components": [
+        {
+          "arabic": "وَعْدُ",
+          "meaning": "promise, pledge"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَفْعُولًا",
+      "transliteration": "mafʿūlan",
+      "meaning": "Accomplished, fulfilled",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "To do, to make, to accomplish"
+      },
+      "components": [
+        {
+          "arabic": "مَفْعُول",
+          "meaning": "Passive participle form indicating 'done' or 'accomplished'"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "Tanwīn al-fatḥ, indefinite accusative case ending."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-heaven split-apart by-it was His-promise fulfilled-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

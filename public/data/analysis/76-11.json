@@ -1,0 +1,143 @@
+{
+  "verseId": "76:11",
+  "verse": {
+    "arabic": "فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُورًا",
+    "transliteration": "Fawaqahumu Allahu sharra thalika alyawmi walaqqahum nadratan wasurooran",
+    "surah": "Al-Insan",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَوَقَاهُمُ",
+      "transliteration": "fa-waqāhumu",
+      "meaning": "then He protected them",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "وَقَاهُمُ",
+          "meaning": "He protected them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَرَّ",
+      "transliteration": "sharrah",
+      "meaning": "evil of",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, badness, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, weakness; to be low, base, or humbled"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْيَوْمِ",
+      "transliteration": "al-yawmi",
+      "meaning": "the Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time, period"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَوْم",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلَقَّاهُمْ",
+      "transliteration": "wa-laqqāhum",
+      "meaning": "and He met them with/gave to them",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "to meet, encounter, or give something to someone"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَّاهُمْ",
+          "meaning": "He met them, He gave to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَضْرَةً",
+      "transliteration": "naḍrah",
+      "meaning": "radiance",
+      "root": {
+        "letters": "ن-ض-ر",
+        "meaning": "freshness, greenness, brightness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَسُرُورًا",
+      "transliteration": "wa-surūran",
+      "meaning": "and happiness",
+      "root": {
+        "letters": "س-و-ر",
+        "meaning": "to be joyful, to feel pleasure or delight"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سُرُورًا",
+          "meaning": "happiness, joy, delight"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-[He] protected-them Allah evil-of that the-Day and-[He] met-them radiance and happiness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

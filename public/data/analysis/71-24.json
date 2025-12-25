@@ -1,0 +1,160 @@
+{
+  "verseId": "71:24",
+  "verse": {
+    "arabic": "وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+    "transliteration": "Waqad adalloo katheeran wala tazidi alththalimeena illa dalalan",
+    "surah": "Nuh",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَدْ",
+      "transliteration": "wa-qad",
+      "meaning": "and already/indeed",
+      "root": {
+        "letters": "ق-د-ع",
+        "meaning": "to hold back, restrain; to be able, capable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "already, indeed (denotes completion or certainty)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَضَلُّوا",
+      "transliteration": "aḍallū",
+      "meaning": "they have misled",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to misguide, to deviate"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past tense and active voice"
+        },
+        {
+          "arabic": "ضَلُّوا",
+          "meaning": "they went astray / they were misled (verb in past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَثِيرًا",
+      "transliteration": "kathīran",
+      "meaning": "many/much",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be abundant, to increase, multitude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor (negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَزِدِ",
+      "transliteration": "tazidi",
+      "meaning": "you increase",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to grow"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person feminine singular present tense"
+        },
+        {
+          "arabic": "زِدِ",
+          "meaning": "you increase (imperative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الظَّالِمِينَ",
+      "transliteration": "al-ẓālimīn",
+      "meaning": "the wrongdoers/oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "wrongdoers, oppressors (plural masculine active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to deviate, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ضَلَالًا",
+      "transliteration": "ḍalālan",
+      "meaning": "error/misguidance",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to stray, to err, to deviate from the right path"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-already they-have-misled many [pause] and-not you-increase the-wrongdoers except error"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

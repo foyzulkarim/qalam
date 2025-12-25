@@ -1,0 +1,112 @@
+{
+  "verseId": "73:4",
+  "verse": {
+    "arabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+    "transliteration": "Aw zid AAalayhi warattili alqurana tarteelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire; alternative conjunction indicating choice or possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "زِدْ",
+      "transliteration": "zid",
+      "meaning": "increase, add to",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "growth, increase, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon it, to it",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to ascend, to be high; to depend upon, to relate to"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, to, over"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "it (masculine singular, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَرَتِّلِ",
+      "transliteration": "warattil",
+      "meaning": "and recite with measured recitation, and make smooth",
+      "root": {
+        "letters": "ر-ت-ل",
+        "meaning": "to arrange, to order, to recite clearly and slowly with deliberation"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَتِّلِ",
+          "meaning": "recite with measured recitation, make smooth (from root ر-ت-ل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْقُرْآنَ",
+      "transliteration": "al-qurʾāna",
+      "meaning": "the Qur'an",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite, declaim"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُرْآنَ",
+          "meaning": "the recitation, the reading (specifically referring to the divine scripture)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَرْتِيلًا",
+      "transliteration": "tartīlan",
+      "meaning": "with measured recitation, smoothly",
+      "root": {
+        "letters": "ر-ت-ل",
+        "meaning": "to arrange, to order; to recite distinctly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-increase-upon-it-and-recite-the-Qur'an-[with]-measured-recitation"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

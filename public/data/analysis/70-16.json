@@ -1,0 +1,50 @@
+{
+  "verseId": "70:16",
+  "verse": {
+    "arabic": "نَزَّاعَةً لِّلشَّوَىٰ",
+    "transliteration": "NazzaAAatan lilshshawa",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَزَّاعَةً",
+      "transliteration": "nazzāʿatan",
+      "meaning": "a remover, a stripper, one who tears away",
+      "root": {
+        "letters": "ن-ز-ع",
+        "meaning": "to pull out, to strip away, to remove forcefully"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّلشَّوَىٰ",
+      "transliteration": "li-sh-shawā",
+      "meaning": "for the exteriors, to the skins/hides",
+      "root": {
+        "letters": "ش-و-ي",
+        "meaning": "to roast, to burn, to be dark/scorched"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "شَوَّىٰ",
+          "meaning": "the exteriors, the skins/hides (as in roasted or tanned hides)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "a-remover-[for] the-exteriors/skins"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

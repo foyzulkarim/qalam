@@ -1,0 +1,133 @@
+{
+  "verseId": "73:14",
+  "verse": {
+    "arabic": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَّهِيلًا",
+    "transliteration": "Yawma tarjufu alardu waaljibalu wakanati aljibalu katheeban maheelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day (as a period of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرْجُفُ",
+      "transliteration": "tarjufu",
+      "meaning": "will convulse, shake violently",
+      "root": {
+        "letters": "ر-ج-ف",
+        "meaning": "to tremble, shake violently"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; strength, power"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِبَالُ",
+          "meaning": "mountains (plural of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَكَانَتِ",
+      "transliteration": "wakānatī",
+      "meaning": "and it was/became",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَتِ",
+          "meaning": "it was/became (feminine singular past)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise high"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَثِيبًا",
+      "transliteration": "kathīban",
+      "meaning": "heap, dune",
+      "root": {
+        "letters": "ك-ث-ب",
+        "meaning": "to be abundant, to pile up; density"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَّهِيلًا",
+      "transliteration": "mahīlan",
+      "meaning": "pouring down, scattered",
+      "root": {
+        "letters": "ه-ي-ل",
+        "meaning": "to fall down, to pour forth; weakness, attenuation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day- [when] the earth will convulse and the mountains -and- the mountains -[they] were/became- heap pouring down"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

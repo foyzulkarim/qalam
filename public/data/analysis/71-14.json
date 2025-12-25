@@ -1,0 +1,69 @@
+{
+  "verseId": "71:14",
+  "verse": {
+    "arabic": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+    "transliteration": "Waqad khalaqakum atwaran",
+    "surah": "Nuh",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "indeed, certainly",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to come forward; establishing something firmly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَلَقَكُمْ",
+      "transliteration": "khalaqa-kum",
+      "meaning": "He created you (plural)",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقَ",
+          "meaning": "He created"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَطْوَارًا",
+      "transliteration": "aṭwāran",
+      "meaning": "stages, phases",
+      "root": {
+        "letters": "ط-و-ر",
+        "meaning": "to rise, to ascend; newness, freshness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed He-created-you [in] stages"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

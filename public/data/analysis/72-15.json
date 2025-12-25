@@ -1,0 +1,115 @@
+{
+  "verseId": "72:15",
+  "verse": {
+    "arabic": "وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا",
+    "transliteration": "Waama alqasitoona fakanoo lijahannama hataban",
+    "surah": "Al-Jinn",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but as for, concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to receive, to return (generally signifying focusing attention)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقَاسِطُونَ",
+      "transliteration": "al-qāsiṭūna",
+      "meaning": "the unjust, the deviators",
+      "root": {
+        "letters": "ق-س-ط",
+        "meaning": "to be just, to deviate from justice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "then, so",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, consequence, result"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were, they will be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (masculine plural pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (past tense verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِ",
+      "transliteration": "li",
+      "meaning": "for, to",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جَهَنَّمَ",
+      "transliteration": "jahannama",
+      "meaning": "Hell, the fire",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "intense heat, severity, aridity; to be hidden or covered"
+      },
+      "components": [
+        {
+          "arabic": "جَهَنَّمَ",
+          "meaning": "The fire; a deep, hidden valley (the original meaning contributing to the sense of 'Hell' as a concealed, severe place)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "حَطَبًا",
+      "transliteration": "ḥaṭaban",
+      "meaning": "firewood, fuel",
+      "root": {
+        "letters": "ح-ط-ب",
+        "meaning": "to break, to split; dryness, aridity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-as for the unjust -then they were for Hell -firewood"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

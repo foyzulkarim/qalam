@@ -1,0 +1,91 @@
+{
+  "verseId": "74:6",
+  "verse": {
+    "arabic": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+    "transliteration": "Wala tamnun tastakthiru",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَمْنُن",
+      "transliteration": "tamnunu",
+      "meaning": "you confer favor",
+      "root": {
+        "letters": "م-ن-ح",
+        "meaning": "to bestow, grant, confer a favor"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "مْنُن",
+          "meaning": "to confer favor, bestow"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah - vowel indicating verb conjugation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَسْتَكْثِرُ",
+      "transliteration": "tastakthiru",
+      "meaning": "you seek to increase (in quantity)",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be numerous, to increase"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense (you)"
+        },
+        {
+          "arabic": "سْتَ",
+          "meaning": "indicates seeking or attempting"
+        },
+        {
+          "arabic": "كثَّرَ",
+          "meaning": "to increase, to multiply (from the root ك-ث-ر)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanween al-fatḥ (indicating indefiniteness and nominative case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you-confer-favor you-seek-to-increase"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

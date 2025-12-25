@@ -1,0 +1,65 @@
+{
+  "verseId": "77:22",
+  "verse": {
+    "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+    "transliteration": "Ila qadarin maAAloomin",
+    "surah": "Al-Mursalat",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَدَرٍ",
+      "transliteration": "qadarٍ",
+      "meaning": "extent, measure, amount",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate, power, capability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّعْلُومٍ",
+      "transliteration": "maʿlūmٍ",
+      "meaning": "known, certain",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "مَ",
+          "meaning": "passive participle marker"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb)"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "tanwīn an-nun (indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-toward - an extent - known"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

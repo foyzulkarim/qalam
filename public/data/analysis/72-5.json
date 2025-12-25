@@ -1,0 +1,181 @@
+{
+  "verseId": "72:5",
+  "verse": {
+    "arabic": "وَأَنَّا ظَنَنَّا أَن لَّن تَقُولَ الْإِنسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا",
+    "transliteration": "Waanna thananna an lan taqoola alinsu waaljinnu AAala Allahi kathiban",
+    "surah": "Al-Jinn",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ظَنَنَّا",
+      "transliteration": "ẓunnanā",
+      "meaning": "we thought/supposed",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe"
+      },
+      "components": [
+        {
+          "arabic": "ظَنَ",
+          "meaning": "to think, to suppose"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَّن",
+      "transliteration": "lan",
+      "meaning": "never/not ever",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish for; negative connotation related to unwillingness or inability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَقُولَ",
+      "transliteration": "taqūla",
+      "meaning": "you (they) say/speak",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular future tense"
+        },
+        {
+          "arabic": "قُولَ",
+          "meaning": "say/speak (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْإِنسُ",
+      "transliteration": "al-ʾinsu",
+      "meaning": "mankind/human beings",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to adapt, to be familiar with, intimacy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْجِنُّ",
+      "transliteration": "al-jinnu",
+      "meaning": "the jinn/genies",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to be concealed; to become dark or obscure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/about",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise, ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَذِبًا",
+      "transliteration": "kaḏiban",
+      "meaning": "a lie/falsehood",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false"
+      },
+      "components": [
+        {
+          "arabic": "كذب",
+          "meaning": "lie, falsehood (verbal noun)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanween indicating indefinite accusative case"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that we thought that not ever you (they)-say mankind and the jinn upon Allah falsehood"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

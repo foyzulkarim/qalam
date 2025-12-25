@@ -1,0 +1,113 @@
+{
+  "verseId": "70:34",
+  "verse": {
+    "arabic": "وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+    "transliteration": "Waallatheena hum AAala salatihim yuhafithoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having quality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "صَلَاتِهِمْ",
+      "transliteration": "ṣalātihihim",
+      "meaning": "their prayer(s)",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to supplicate, to turn (towards)"
+      },
+      "components": [
+        {
+          "arabic": "صَلَا",
+          "meaning": "prayer(s)"
+        },
+        {
+          "arabic": "تِهِمْ",
+          "meaning": "their (possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُحَافِظُونَ",
+      "transliteration": "yuḥāfiẓūna",
+      "meaning": "they maintain/preserve",
+      "root": {
+        "letters": "ح-ف-ظ",
+        "meaning": "to guard, to protect, to preserve"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "حَافِظ",
+          "meaning": "preserving, maintaining - verbal noun/active participle form"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural) - suffix indicating subject and number"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-those-who they upon-their prayer(s) they-maintain"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

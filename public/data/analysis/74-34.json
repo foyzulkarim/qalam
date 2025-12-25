@@ -1,0 +1,76 @@
+{
+  "verseId": "74:34",
+  "verse": {
+    "arabic": "وَالصُّبْحِ إِذَا أَسْفَرَ",
+    "transliteration": "Waalssubhi itha asfara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, affection, friendship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الصُّبْحِ",
+      "transliteration": "aṣ-ṣubḥi",
+      "meaning": "the morning",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to shine, to become light; dawn, morning"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صُبْح",
+          "meaning": "morning"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive marker (indicating possession or relationship)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to be aware of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَسْفَرَ",
+      "transliteration": "asfara",
+      "meaning": "it brightened, became radiant",
+      "root": {
+        "letters": "س-ف-ر",
+        "meaning": "to travel, to go away; to be light-colored or bright"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -the-morning when it brightened"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

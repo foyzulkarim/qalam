@@ -1,0 +1,65 @@
+{
+  "verseId": "74:40",
+  "verse": {
+    "arabic": "فِي جَنَّاتٍ يَتَسَاءَلُونَ",
+    "transliteration": "Fee jannatin yatasaaloona",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to return"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَنَّاتٍ",
+      "transliteration": "jannātin",
+      "meaning": "gardens, paradises (plural)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also related to the idea of abundance and lushness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَتَسَاءَلُونَ",
+      "transliteration": "yatasāʾalūna",
+      "meaning": "they ask each other, they inquire of one another",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire"
+      },
+      "components": [
+        {
+          "arabic": "يَتَـ",
+          "meaning": "they (prefix denoting present/future tense)"
+        },
+        {
+          "arabic": "تَسَاءَلَ",
+          "meaning": "to ask each other, to inquire (mutual action)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "they (suffix denoting plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in - gardens - they-ask-each-other"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "verseId": "72:11",
+  "verse": {
+    "arabic": "وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَائِقَ قِدَدًا",
+    "transliteration": "Waanna minna alssalihoona waminna doona thalika kunna taraiqa qidadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَّا",
+      "transliteration": "minnā",
+      "meaning": "from among us",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be part of"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصَّالِحُونَ",
+      "transliteration": "aṣ-ṣāliḥūna",
+      "meaning": "the righteous ones",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, or sound; to repair"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَالِح",
+          "meaning": "righteous, good, correct"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural masculine ending, indicating 'ones'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِنَّا",
+      "transliteration": "minnā",
+      "meaning": "from among us",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "دُونَ",
+      "transliteration": "dūna",
+      "meaning": "less than/without",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be humble; inferiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that/this",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of"
+        },
+        {
+          "arabic": "لِكَ",
+          "meaning": "to you, for you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause/separator]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "ۖ",
+          "meaning": "pause/separator; indicates a slight pause in recitation, often used to mark the end of verses or significant breaks in thought"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "we were (verb, past tense)"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "طَرَائِقَ",
+      "transliteration": "ṭarāʾiqa",
+      "meaning": "ways/paths",
+      "root": {
+        "letters": "ط-ر-ق",
+        "meaning": "to seek, to inquire, to aim for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قِدَدًا",
+      "transliteration": "qidada",
+      "meaning": "groups/sections/numbers",
+      "root": {
+        "letters": "ق-د-د",
+        "meaning": "to measure, to apportion, to estimate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that we from among us the righteous ones and from among us less than that [were] we ways groups"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

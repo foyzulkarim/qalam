@@ -1,0 +1,161 @@
+{
+  "verseId": "76:1",
+  "verse": {
+    "arabic": "هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا",
+    "transliteration": "Hal ata AAala alinsani heenun mina alddahri lam yakun shayan mathkooran",
+    "surah": "Al-Insan",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "interrogative particle indicating a question",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتَىٰ",
+      "transliteration": "ʾatā",
+      "meaning": "to come, to arrive",
+      "root": {
+        "letters": "أ-ي-ا",
+        "meaning": "to come, to approach, to visit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْإِنسَانِ",
+      "transliteration": "al-ʾinsāni",
+      "meaning": "the human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be friendly, adapt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حِينٌ",
+      "transliteration": "ḥīnun",
+      "meaning": "a period of time, an era",
+      "root": {
+        "letters": "ح-ن-و",
+        "meaning": "longing, desire, affection; to incline or tend towards something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to originate, to be born from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الدَّهْرِ",
+      "transliteration": "ad-dahri",
+      "meaning": "the age, the time, a long period of time",
+      "root": {
+        "letters": "د-ه-ر",
+        "meaning": "to endure, to last; the world, life"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "negative particle, not",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لَمْ",
+          "meaning": "negative particle, not. Indicates past tense negation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَكُن",
+      "transliteration": "yakun",
+      "meaning": "to be (imperfect tense, negated)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "imperfect tense marker, indicative of the verb being in the present/future time frame"
+        },
+        {
+          "arabic": "كُن",
+          "meaning": "to be (verbal noun/root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "something, a thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be, to exist; something that exists"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَّذْكُورًا",
+      "transliteration": "madhkūran",
+      "meaning": "mentioned, remembered",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "مَـ",
+          "meaning": "prefix indicating passive voice or a noun of the passive form"
+        },
+        {
+          "arabic": "ذْكُور",
+          "meaning": "participial noun related to remembrance/mention"
+        },
+        {
+          "arabic": "-ًا",
+          "meaning": "tanwīn al-fatḥ, indicating indefiniteness and accusative/nominative case (depending on context)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Has-there come-upon the-human being a-period-of-time from-the-age not-was a-thing mentioned?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

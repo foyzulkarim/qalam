@@ -1,0 +1,90 @@
+{
+  "verseId": "76:18",
+  "verse": {
+    "arabic": "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا",
+    "transliteration": "AAaynan feeha tusamma salsabeelan",
+    "surah": "Al-Insan",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَيْنًا",
+      "transliteration": "ʿaynan",
+      "meaning": "a spring, a fountain, an eye (source)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to be an eye, to be a source, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "عَيْن",
+          "meaning": "eye, source"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fathah, indefinite accusative marker (can also indicate adverbial function)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, within it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُسَمَّىٰ",
+      "transliteration": "tusammā",
+      "meaning": "it is named, it is called",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise in status; to be elevated, renowned"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "passive voice prefix"
+        },
+        {
+          "arabic": "سَمَّىٰ",
+          "meaning": "to name, to call (active verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَلْسَبِيلًا",
+      "transliteration": "salsabīlan",
+      "meaning": "a smooth flowing stream, a cool drink",
+      "root": {
+        "letters": "س-ل-ب",
+        "meaning": "to draw out, extract; smoothness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "a spring - within it - it is named - a smooth flowing stream"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

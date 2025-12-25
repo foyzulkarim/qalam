@@ -1,0 +1,141 @@
+{
+  "verseId": "76:15",
+  "verse": {
+    "arabic": "وَيُطَافُ عَلَيْهِم بِآنِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا",
+    "transliteration": "Wayutafu AAalayhim bianiyatin min fiddatin waakwabin kanat qawareera",
+    "surah": "Al-Insan",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيُطَافُ",
+      "transliteration": "wa yuṭāfu",
+      "meaning": "and it is circulated/passed around",
+      "root": {
+        "letters": "ط-و-ف",
+        "meaning": "to go around, to circumambulate, to encompass"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "يُطَافُ",
+          "meaning": "it is circulated/passed around (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِم",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them/around them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; also, over, upon, regarding"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِآنِيَةٍ",
+      "transliteration": "biʾāniyatin",
+      "meaning": "with vessels/containers",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be soft, tender; to be containers/vessels (related to the material from which vessels are made)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "آنِيَةٍ",
+          "meaning": "vessels, containers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن فِضَّةٍ",
+      "transliteration": "min fiḍḍatin",
+      "meaning": "of silver",
+      "root": {
+        "letters": "ف-ض-د",
+        "meaning": "to separate, to divide; excellence, superiority"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "فِضَّةٍ",
+          "meaning": "silver"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَأَكْوَابٍ",
+      "transliteration": "wa ʾakwābin",
+      "meaning": "and cups/goblets",
+      "root": {
+        "letters": "ك-و-ب",
+        "meaning": "to be round, to fill (a vessel)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَانَتْ",
+      "transliteration": "kānat",
+      "meaning": "it was/they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "it/they (feminine singular or plural)"
+        },
+        {
+          "arabic": "انْتَ",
+          "meaning": "the suffix indicating past tense and agreement with the subject (feminine singular/plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قَوَارِيرَا",
+      "transliteration": "qawārīra",
+      "meaning": "clear [like glass]/glass bottles/vessels",
+      "root": {
+        "letters": "ق-و-ر",
+        "meaning": "to break, to split; to be clear and transparent (related to the breaking down of light)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it-is-circulated upon-them with-vessels of-silver and-cups it-was clear [as glass]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

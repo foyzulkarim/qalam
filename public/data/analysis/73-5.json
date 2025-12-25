@@ -1,0 +1,87 @@
+{
+  "verseId": "73:5",
+  "verse": {
+    "arabic": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+    "transliteration": "Inna sanulqee AAalayka qawlan thaqeelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, Verily (emphatic particle + pronoun)",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, Verily (emphatic particle)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَنُلْقِي",
+      "transliteration": "sanulqī",
+      "meaning": "We will cast, We shall certainly throw (future tense verb)"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْكَ",
+      "transliteration": "ʿalayka",
+      "meaning": "Upon you (preposition + pronoun)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend; elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَوْلًا",
+      "transliteration": "qawlan",
+      "meaning": "A word, Saying (noun)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To say, to utter; speech"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ثَقِيلًا",
+      "transliteration": "thaqīlan",
+      "meaning": "Heavy, Weighty (adjective)",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "weight, heaviness, difficulty"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we will-cast-upon-you a-word heavy"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "verseId": "70:11",
+  "verse": {
+    "arabic": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ",
+    "transliteration": "Yubassaroonahum yawaddu almujrimu law yaftadee min AAathabi yawmiithin bibaneehi",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُبَصَّرُونَهُمْ",
+      "transliteration": "yubṣṣarūnahum",
+      "meaning": "They will be shown them",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "passive voice marker/prefix indicating 'they are'"
+        },
+        {
+          "arabic": "بَصَّرُون",
+          "meaning": "to show, to make visible (from the root ب-ص-ر)"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوَدُّ",
+      "transliteration": "yawaddu",
+      "meaning": "He wishes, desires",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, to feel affection, to desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُجْرِمُ",
+      "transliteration": "al-mujrimu",
+      "meaning": "The criminal, sinner",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "to commit a crime, to sin, to transgress"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُجْرِم",
+          "meaning": "Criminal, sinner (one who commits a crime)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "If only, would that",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَفْتَدِي",
+      "transliteration": "yaftadī",
+      "meaning": "He ransoms himself, redeems himself",
+      "root": {
+        "letters": "ف-د-ي",
+        "meaning": "to redeem, ransom; to offer something as a substitute or compensation"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "indicates the present imperfect tense, first person singular (he)"
+        },
+        {
+          "arabic": "فَتَدَى",
+          "meaning": "to ransom oneself, to redeem oneself (derived from the root ف-د-ي)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to derive from; absence, lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَذَابِ",
+      "transliteration": "ʿadhābi",
+      "meaning": "Punishment of",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "To punish, to inflict pain; bitterness"
+      },
+      "components": [
+        {
+          "arabic": "عَذَابٍ",
+          "meaning": "Punishment, torment, penalty (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَوْمِئِذٍ",
+      "transliteration": "yawmiʾidhin",
+      "meaning": "That Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمِ",
+          "meaning": "day (genitive form)"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِبَنِيهِ",
+      "transliteration": "bibanyhi",
+      "meaning": "With his children",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; offspring, children"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "بَنِيهِ",
+          "meaning": "his children"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-will-be-shown-them - He-wishes - The-criminal - If-only - He-ransoms-himself - From - Punishment-of - That-Day - With-his-children"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "verseId": "74:5",
+  "verse": {
+    "arabic": "وَالرُّجْزَ فَاهْجُرْ",
+    "transliteration": "Waalrrujza faohjur",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الرُّجْزَ",
+      "transliteration": "ar-rujza",
+      "meaning": "the filth, the uncleanliness, the abomination",
+      "root": {
+        "letters": "ر-ج-ز",
+        "meaning": "to be averse, to reject, to loathe; aversion, disgust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَاهْجُرْ",
+      "transliteration": "fahjur",
+      "meaning": "then avoid, then shun",
+      "root": {
+        "letters": "ه-ج-ر",
+        "meaning": "to leave, to abandon, to shun, to migrate"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "particle indicating sequence or then"
+        },
+        {
+          "arabic": "اهْجُرْ",
+          "meaning": "avoid, shun (imperative verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-uncleanliness then-avoid"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

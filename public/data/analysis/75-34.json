@@ -1,0 +1,70 @@
+{
+  "verseId": "75:34",
+  "verse": {
+    "arabic": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+    "transliteration": "Awla laka faawla",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْلَىٰ",
+      "transliteration": "awlā",
+      "meaning": "more worthy, preferable; woe (as an interjection)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to abandon; to be responsible for; to succeed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "to you, for you",
+      "root": {
+        "letters": "ل-ك-و",
+        "meaning": "possession, attribution, belonging"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَأَوْلَىٰ",
+      "transliteration": "fa-awlā",
+      "meaning": "and more worthy, and woe (as an interjection)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to be distant; to prefer or choose something over another"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "particle indicating sequence or consequence"
+        },
+        {
+          "arabic": "أَوْلَىٰ",
+          "meaning": "more worthy, preferable; also used as an interjection expressing woe or condemnation"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "more-worthy to-you - and more-worthy"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

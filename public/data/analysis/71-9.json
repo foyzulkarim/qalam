@@ -1,0 +1,141 @@
+{
+  "verseId": "71:9",
+  "verse": {
+    "arabic": "ثُمَّ إِنِّي أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+    "transliteration": "Thumma innee aAAlantu lahum waasrartu lahum israran",
+    "surah": "Nuh",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; also implies a sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنِّي",
+      "transliteration": "innī",
+      "meaning": "indeed I, verily I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also indicates emphasis or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphatic statement)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَعْلَنتُ",
+      "transliteration": "aʿlantu",
+      "meaning": "I announced, I declared openly",
+      "root": {
+        "letters": "ع-ل-ن",
+        "meaning": "to be high, to become manifest, to know, to declare"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating first person singular (I)"
+        },
+        {
+          "arabic": "عَلَنتُ",
+          "meaning": "to announce, to declare openly (perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them, for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَأَسْرَرْتُ",
+      "transliteration": "wa-asrarrtu",
+      "meaning": "and I confided, and I kept secret",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to conceal, be secret"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَسْرَرْتُ",
+          "meaning": "I concealed, I kept secret (first person singular past)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them, for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِسْرَارًا",
+      "transliteration": "isrāran",
+      "meaning": "a secret, something confided",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to conceal, keep hidden, be private"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-indeed I announced-[to] them and I confided-[to] them a secret"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

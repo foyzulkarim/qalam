@@ -1,0 +1,61 @@
+{
+  "verseId": "70:15",
+  "verse": {
+    "arabic": "كَلَّا ۖ إِنَّهَا لَظَىٰ",
+    "transliteration": "Kalla innaha latha",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Surely not!",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "To be deficient, lacking, or incomplete; to deny or reject."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّهَا",
+      "transliteration": "innahā",
+      "meaning": "Indeed it is, Verily she is",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be, to exist; tranquility, rest"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, Verily (emphatic particle)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "She, It (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَظَىٰ",
+      "transliteration": "laẓā",
+      "meaning": "a blazing fire, the Flame",
+      "root": {
+        "letters": "ل-ظ-ي",
+        "meaning": "to blaze, to flame, to burn intensely"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - Indeed - it is - the Flame!"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

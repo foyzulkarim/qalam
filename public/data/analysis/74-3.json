@@ -1,0 +1,59 @@
+{
+  "verseId": "74:3",
+  "verse": {
+    "arabic": "وَرَبَّكَ فَكَبِّرْ",
+    "transliteration": "Warabbaka fakabbir",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَرَبَّكَ",
+      "transliteration": "wa rabbaka",
+      "meaning": "and your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَبَّكَ",
+          "meaning": "your Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَكَبِّرْ",
+      "transliteration": "fa kabbir",
+      "meaning": "so glorify/magnify",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase; magnification, glorification"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence or result)"
+        },
+        {
+          "arabic": "كَبِّرْ",
+          "meaning": "magnify, glorify (imperative form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - your Lord - so glorify"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
