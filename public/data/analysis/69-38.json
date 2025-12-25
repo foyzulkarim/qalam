@@ -1,0 +1,94 @@
+{
+  "verseId": "69:38",
+  "verse": {
+    "arabic": "فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ",
+    "transliteration": "Fala oqsimu bima tubsiroona",
+    "surah": "Al-Haqqah",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "so, then not; but no",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "uqsimu",
+      "meaning": "I swear; I make an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, to apportion; generally relating to distribution or establishing portions"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "by what; with that which",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what; that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُبْصِرُونَ",
+      "transliteration": "tubṣirūna",
+      "meaning": "you see; you perceive",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "بَصَر",
+          "meaning": "seeing, perception"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person masculine plural present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-not I-swear by-what you-see"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "verseId": "68:49",
+  "verse": {
+    "arabic": "لَّوْلَا أَن تَدَارَكَهُ نِعْمَةٌ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ",
+    "transliteration": "Lawla an tadarakahu niAAmatun min rabbihi lanubitha bialAAarai wahuwa mathmoomun",
+    "surah": "Al-Qalam",
+    "verseNumber": 49
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّوْلَا",
+      "transliteration": "lawlā",
+      "meaning": "If not, were it not for",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to desire, to wish for; to be responsible for"
+      },
+      "components": [
+        {
+          "arabic": "لَو",
+          "meaning": "if, were it not for (conditional particle)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, for",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; to turn towards something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَدَارَكَهُ",
+      "transliteration": "tadārakahu",
+      "meaning": "overtook him, rescued him",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to reach, attain; to comprehend; to help, assist"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating past tense and often mutual action"
+        },
+        {
+          "arabic": "دَارَكَ",
+          "meaning": "reached, attained (him)"
+        },
+        {
+          "arabic": "~هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نِعْمَةٌ",
+      "transliteration": "niʿmah",
+      "meaning": "a favor, a grace",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to enjoy, to benefit, pleasantness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to derive from, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَّبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَنُبِذَ",
+      "transliteration": "lanubidha",
+      "meaning": "he would have been thrown",
+      "root": {
+        "letters": "ب-ذ-ح",
+        "meaning": "to throw away, to discard"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "particle indicating future negative possibility (would not)"
+        },
+        {
+          "arabic": "نُ",
+          "meaning": "pronoun suffix: we"
+        },
+        {
+          "arabic": "بُذِحَ",
+          "meaning": "passive voice of بَذَحَ (to throw away, to discard)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِالْعَرَاءِ",
+      "transliteration": "bil-ʿarāʾi",
+      "meaning": "onto the naked shore, in the open desert",
+      "root": {
+        "letters": "ع-ر-ي",
+        "meaning": "to be naked, bare; openness, exposure"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, onto"
+        },
+        {
+          "arabic": "الْعَرَاءِ",
+          "meaning": "the naked shore, the open desert"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and he",
+      "root": {
+        "letters": "هـ-و-أ",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَذْمُومٌ",
+      "transliteration": "madhmūm",
+      "meaning": "censured, blamed",
+      "root": {
+        "letters": "ذ-م-م",
+        "meaning": "to censure, to blame, to reproach"
+      },
+      "components": [
+        {
+          "arabic": "مَ",
+          "meaning": "prefix indicating passive voice or participle"
+        },
+        {
+          "arabic": "ذْمُوم",
+          "meaning": "active participle form, denoting one who is blamed or censured"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "tanwīn al-nakrah (indefinite noun ending)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "If-not that for overtook-him a-favor from-his Lord he-would-be-thrown onto-the naked-shore and-he censured"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

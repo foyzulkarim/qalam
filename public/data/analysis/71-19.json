@@ -1,0 +1,101 @@
+{
+  "verseId": "71:19",
+  "verse": {
+    "arabic": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
+    "transliteration": "WaAllahu jaAAala lakumu alarda bisatan",
+    "surah": "Nuh",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-l-lahu",
+      "meaning": "and the Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "The God (Allah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَعَلَ",
+      "transliteration": "jaʿala",
+      "meaning": "He made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to establish, to create, to place, to make something come into being; broadly relating to change of state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakumu",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, perfect; to possess, have"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level; the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِسَاطًا",
+      "transliteration": "bi-sāṭan",
+      "meaning": "as an expanse/carpet",
+      "root": {
+        "letters": "ب-س-ط",
+        "meaning": "to spread out, to extend, to unfold"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "سَاطًا",
+          "meaning": "a spread-out thing, an expanse"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the Allah He-made for-you the-earth as-an expanse"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

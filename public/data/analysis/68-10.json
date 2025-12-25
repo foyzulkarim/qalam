@@ -1,0 +1,92 @@
+{
+  "verseId": "68:10",
+  "verse": {
+    "arabic": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+    "transliteration": "Wala tutiAA kulla hallafin maheenin",
+    "surah": "Al-Qalam",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُطِعْ",
+      "transliteration": "tuṭiʿ",
+      "meaning": "you obey",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to submit willingly"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "طِعْ",
+          "meaning": "source form related to obedience"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُلَّ",
+      "transliteration": "kulla",
+      "meaning": "every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, wholeness, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَلَّافٍ",
+      "transliteration": "ḥallāfin",
+      "meaning": "swereer (habitual)",
+      "root": {
+        "letters": "ح-ل-ف",
+        "meaning": "to take an oath; to swear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّهِينٍ",
+      "transliteration": "mahīnin",
+      "meaning": "despicable, worthless",
+      "root": {
+        "letters": "ه-و-ن",
+        "meaning": "weakness, inferiority, lowness; to be humble or low"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you-obey every swereer (habitual) despicable"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

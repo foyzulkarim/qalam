@@ -1,0 +1,72 @@
+{
+  "verseId": "70:2",
+  "verse": {
+    "arabic": "لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ",
+    "transliteration": "Lilkafireena laysa lahu dafiAAun",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّلْكَافِرِينَ",
+      "transliteration": "lil-kāfirīn",
+      "meaning": "for the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الكَافِرِينَ",
+          "meaning": "the disbelievers, the ungrateful ones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَيْسَ",
+      "transliteration": "laysa",
+      "meaning": "is not; there is no",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be absent, to negate existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him; to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "دَافِعٌ",
+      "transliteration": "dāfiʿun",
+      "meaning": "preventer; repeller",
+      "root": {
+        "letters": "د-ف-ع",
+        "meaning": "to repel, push away, avert"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the disbelievers - is not - to him - preventer"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

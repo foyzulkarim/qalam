@@ -1,0 +1,118 @@
+{
+  "verseId": "68:31",
+  "verse": {
+    "arabic": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ",
+    "transliteration": "Qaloo ya waylana inna kunna tagheena",
+    "surah": "Al-Qalam",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَال",
+          "meaning": "they said (past tense)"
+        },
+        {
+          "arabic": "و",
+          "meaning": "pronoun suffix indicating 'they' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَيْلَنَا",
+      "transliteration": "waylanā",
+      "meaning": "woe to us",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "loss, destruction, anguish"
+      },
+      "components": [
+        {
+          "arabic": "وَيْل",
+          "meaning": "woe, destruction"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "indeed we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "we were (verb, imperfect tense)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "طَاغِينَ",
+      "transliteration": "ṭāghīn",
+      "meaning": "transgressors",
+      "root": {
+        "letters": "ط-غ-ي",
+        "meaning": "to exceed limits, to be excessive, to oppress"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-said O woe-to-us indeed-we we-were transgressors"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

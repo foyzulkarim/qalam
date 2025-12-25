@@ -1,0 +1,92 @@
+{
+  "verseId": "68:40",
+  "verse": {
+    "arabic": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+    "transliteration": "Salhum ayyuhum bithalika zaAAeemun",
+    "surah": "Al-Qalam",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَلْ",
+      "transliteration": "sal",
+      "meaning": "ask, inquire",
+      "root": {
+        "letters": "س-ل-أ",
+        "meaning": "to be smooth, to go down; also to ask (derived from the idea of seeking something lower/easier)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "them",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to return, to be present, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَيُّهُمْ",
+      "transliteration": "ayyum",
+      "meaning": "which of them",
+      "root": {
+        "letters": "أ-ي-م",
+        "meaning": "to be alive, to exist; to be one of a group"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "interrogative pronoun referring to a group or collective"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِذَٰلِكَ",
+      "transliteration": "bi-dhālik",
+      "meaning": "with that, regarding that",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness; to be submissive or low"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ذَٰلِك",
+          "meaning": "that (masculine, distant)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "زَعِيمٌ",
+      "transliteration": "zaʿīm",
+      "meaning": "guarantor, responsible one",
+      "root": {
+        "letters": "ظ-ع-م",
+        "meaning": "to assume responsibility, to guarantee"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "ask-them which-of-them with-that responsible?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

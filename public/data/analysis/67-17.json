@@ -1,0 +1,216 @@
+{
+  "verseId": "67:17",
+  "verse": {
+    "arabic": "أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
+    "transliteration": "Am amintum man fee alssamai an yursila AAalaykum hasiban fasataAAlamoona kayfa natheeri",
+    "surah": "Al-Mulk",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, but",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to wish, to intend; also negation and questioning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمِنتُم",
+      "transliteration": "ʾamintum",
+      "meaning": "did you feel secure, did you think safe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to trust, believe"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle of questioning/negation, implying doubt or disbelief"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, of; in this context it's part of the verb root indicating possession/state"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "second-person masculine plural suffix indicating 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to conceal, or belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go within; abundance, increase (related to the idea of something being *in* a state)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "the heaven, the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, elevation, height"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to (infinitive marker)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; source/origin"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "source/origin, indefinite marker (often related to the root meaning of 'to be')"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "secondary consonant, often used in conjunction with 'أ' to form particles indicating purpose or infinitives"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يُرْسِلَ",
+      "transliteration": "yursila",
+      "meaning": "He sends, to send",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch, to direct"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, he does"
+        },
+        {
+          "arabic": "رَسَلَ",
+          "meaning": "to send, to dispatch"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel marking and infiniteness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you, against you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "حَاصِبًا",
+      "transliteration": "ḥāṣiban",
+      "meaning": "a storm of stones, stone-throwing",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon; to throw stones (derived meaning)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۖ",
+      "transliteration": "silent pause marker",
+      "meaning": "pause",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَسَتَعْلَمُونَ",
+      "transliteration": "fasataʿlamūna",
+      "meaning": "then you will know, so you will come to know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "سَ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you will know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how, in what manner",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; state or condition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "نَذِيرِ",
+      "transliteration": "nadhīrī",
+      "meaning": "a warning, the warning (My warning)",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-did-you-feel-secure-who-in-the-heaven-that-He-sends-upon-you-a-storm-of-stones-so-you-will-know-how-[My]-warning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

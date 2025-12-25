@@ -1,0 +1,59 @@
+{
+  "verseId": "69:30",
+  "verse": {
+    "arabic": "خُذُوهُ فَغُلُّوهُ",
+    "transliteration": "Khuthoohu faghulloohu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خُذُوهُ",
+      "transliteration": "khudhūhu",
+      "meaning": "Take it/him",
+      "root": {
+        "letters": "خ-ذ-ه",
+        "meaning": "to take, to seize, to possess"
+      },
+      "components": [
+        {
+          "arabic": "خُذُوا",
+          "meaning": "Take (you all)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it/him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَغُلُّوهُ",
+      "transliteration": "fa-ghullūhu",
+      "meaning": "Then shackle him",
+      "root": {
+        "letters": "غ-ل-و",
+        "meaning": "to exceed, to go beyond limits, to be excessive; to overpower or dominate"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "غُلُّوهُ",
+          "meaning": "shackle him (imperative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Take-him [then] shackle-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

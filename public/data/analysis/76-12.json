@@ -1,0 +1,117 @@
+{
+  "verseId": "76:12",
+  "verse": {
+    "arabic": "وَجَزَاهُم بِمَا صَبَرُوا جَنَّةً وَحَرِيرًا",
+    "transliteration": "Wajazahum bima sabaroo jannatan wahareeran",
+    "surah": "Al-Insan",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَزَاهُم",
+      "transliteration": "jazāhum",
+      "meaning": "rewarded them",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to give fully or generously"
+      },
+      "components": [
+        {
+          "arabic": "جَزَ",
+          "meaning": "to reward, recompense"
+        },
+        {
+          "arabic": "-اهُم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "with what/for what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to flow, be abundant, or possess fluidity; associated with ease and availability"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَبَرُوا",
+      "transliteration": "ṣabarū",
+      "meaning": "they were patient/they endured",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to be patient, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "صَبَر",
+          "meaning": "they were patient/endured (verb, past tense)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "they (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَنَّةً",
+      "transliteration": "jannatan",
+      "meaning": "garden/Paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to shield; also growth and abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "حَرِيرًا",
+      "transliteration": "ḥarīran",
+      "meaning": "silk",
+      "root": {
+        "letters": "ح-ر-ي",
+        "meaning": "heat, intensity; smoothness, fineness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-rewarded-them with-what they-were-patient garden and-silk"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

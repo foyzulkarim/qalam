@@ -1,0 +1,110 @@
+{
+  "verseId": "68:50",
+  "verse": {
+    "arabic": "فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ",
+    "transliteration": "Faijtabahu rabbuhu fajaAAalahu mina alssaliheena",
+    "surah": "Al-Qalam",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَاجْتَبَاهُ",
+      "transliteration": "fa-ijtabāhu",
+      "meaning": "so He chose him",
+      "root": {
+        "letters": "ج-ب-و",
+        "meaning": "to select, to choose, to take by choice; elevation"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "اِجْتَبَاهُ",
+          "meaning": "He chose him (passive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبُّهُ",
+      "transliteration": "rabbu-hu",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord, master, possessor"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَجَعَلَهُ",
+      "transliteration": "fa-jaʿalahu",
+      "meaning": "so He made him",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to cause something to be"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "He made, He created"
+        },
+        {
+          "arabic": "~هُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّالِحِينَ",
+      "transliteration": "aṣ-ṣāliḥīna",
+      "meaning": "the righteous ones",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, sound, well-suited"
+      },
+      "components": [
+        {
+          "arabic": "اَلصَّالِحِينَ",
+          "meaning": "the righteous ones (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-He chose-him his-Lord so-He made-him from among the-righteous-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "verseId": "67:18",
+  "verse": {
+    "arabic": "وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ",
+    "transliteration": "Walaqad kaththaba allatheena min qablihim fakayfa kana nakeeri",
+    "surah": "Al-Mulk",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-laqad",
+      "meaning": "and indeed / and certainly",
+      "root": {
+        "letters": "ل-ق-د",
+        "meaning": "to take an oath, to be firm/certain/true"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, certainly (oath form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَذَّبَ",
+      "transliteration": "kaḏḏaba",
+      "meaning": "he denied / they denied (perfect tense)",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to reject truth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who / the ones who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be, to exist; relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who / the ones who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِن قَبْلِهِمْ",
+      "transliteration": "min qablihim",
+      "meaning": "from before them / preceding them",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to be before, acceptance (derived)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "قَبْلِهِمْ",
+          "meaning": "before them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَكَيْفَ",
+      "transliteration": "fakayfa",
+      "meaning": "so how / then how",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "manner, way, state; questioning about the how of something"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence or transition)"
+        },
+        {
+          "arabic": "كَيْفَ",
+          "meaning": "how, in what manner; a questioning adverb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was / existed / happened (imperfect tense)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَكِيرِ",
+      "transliteration": "nakīri",
+      "meaning": "My reproach / My denial / a terrible thing (genitive)",
+      "root": {
+        "letters": "ن-ك-ر",
+        "meaning": "to deny, to reject, to disbelieve"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed he-denied those-who from-before-them so-how was My-reproach"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

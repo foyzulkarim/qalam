@@ -1,0 +1,94 @@
+{
+  "verseId": "75:12",
+  "verse": {
+    "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+    "transliteration": "Ila rabbika yawmaithin almustaqarru",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline toward, association"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma-ʾidhi",
+      "meaning": "that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُسْتَقَرُّ",
+      "transliteration": "al-mustaqarru",
+      "meaning": "the place of permanence, the resting place",
+      "root": {
+        "letters": "س-ق-ر",
+        "meaning": "to settle, reside; to fall or descend"
+      },
+      "components": [
+        {
+          "arabic": "الْمُسْتَ",
+          "meaning": "the passive participle prefix indicating 'the one who experiences/receives the action'"
+        },
+        {
+          "arabic": "قَرّ",
+          "meaning": "settlement, permanence, resting"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanween al-fath, indefinite accusative marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-your Lord that-Day the-place-of-permanence"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "verseId": "67:30",
+  "verse": {
+    "arabic": "قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ",
+    "transliteration": "Qul araaytum in asbaha maokum ghawran faman yateekum bimain maAAeenin",
+    "surah": "Al-Mulk",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say (command)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرَأَيْتُمْ",
+      "transliteration": "ʾaraʾaytum",
+      "meaning": "Have you considered/seen?",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "To see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "أَرَ",
+          "meaning": "Prefix indicating interrogation or astonishment, related to the root ر-ء-ي denoting seeking attention."
+        },
+        {
+          "arabic": "يْتُمْ",
+          "meaning": "Suffix denoting 'you' (plural) in the accusative case."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِنْ",
+      "transliteration": "ʾin",
+      "meaning": "If",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "If, indeed; a conditional particle expressing uncertainty or doubt."
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَصْبَحَ",
+      "transliteration": "ʾaṣbaḥa",
+      "meaning": "Became/was in the morning (past tense)",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to dawn, to become light; morning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَاؤُكُمْ",
+      "transliteration": "māʾukum",
+      "meaning": "Your water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "water, liquidity"
+      },
+      "components": [
+        {
+          "arabic": "مَاء",
+          "meaning": "water"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "غَوْرًا",
+      "transliteration": "ghawran",
+      "meaning": "Sunken/disappearing (into the earth)",
+      "root": {
+        "letters": "غ-و-ر",
+        "meaning": "to sink, disappear; depth, hiddenness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "Then who?",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, who"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَأْتِيكُم",
+      "transliteration": "yaʾtīkum",
+      "meaning": "Could bring you/will come to you",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "يَأْتِ",
+          "meaning": "he comes/will come"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِمَاءٍ",
+      "transliteration": "bi-māʾin",
+      "meaning": "With water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "water, fluidity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَاءٍ",
+          "meaning": "water (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَّعِينٍ",
+      "transliteration": "maʿīnin",
+      "meaning": "Flowing/sweet/clear (water)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to assist, to help; to be plentiful or abundant (of water)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say - Have-you-considered - If - Became - Your-water - Sunken - Then-who - Could-bring-to-you - With-water - Flowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "verseId": "70:26",
+  "verse": {
+    "arabic": "وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
+    "transliteration": "Waallatheena yusaddiqoona biyawmi alddeeni",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, have"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُصَدِّقُونَ",
+      "transliteration": "yuṣaddiqūna",
+      "meaning": "they believe/affirm",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to be true, to speak the truth, to confirm"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun suffix indicating plural masculine)"
+        },
+        {
+          "arabic": "صَدِّق",
+          "meaning": "truth, believing/affirming (verbal noun form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (verb suffix indicating present/future active)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِيَوْمِ",
+      "transliteration": "bi-yawmi",
+      "meaning": "in/on the day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass (time); decline"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in/on/with/by (preposition)"
+        },
+        {
+          "arabic": "يَوْمِ",
+          "meaning": "the day (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "the recompense/judgment",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be in debt, to subjugate, obligation, recompense"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِين",
+          "meaning": "religion, recompense, judgment"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - those-who - they-believe/affirm - in/on the day of - the recompense/judgment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

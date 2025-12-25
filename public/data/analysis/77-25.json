@@ -1,0 +1,90 @@
+{
+  "verseId": "77:25",
+  "verse": {
+    "arabic": "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا",
+    "transliteration": "Alam najAAali alarda kifatan",
+    "surah": "Al-Mursalat",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Have not?",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To know, to perceive, to become aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "Past negative particle, have not (typically indicates completion)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَجْعَلِ",
+      "transliteration": "najʿal",
+      "meaning": "We make",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "The earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be spacious; the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَرْضَ",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كِفَاتًا",
+      "transliteration": "kifātan",
+      "meaning": "A container, sufficient",
+      "root": {
+        "letters": "ك-ف-ي",
+        "meaning": "sufficiency, adequacy, protection"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-not We make the-earth a-container?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

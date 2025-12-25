@@ -53,8 +53,8 @@ const TEMP_DIR = path.join(ANALYSIS_DIR, '_temp')
 
 // Surah Range Filter (inclusive)
 // First run: 1-1 (Al-Fatiha), Second run: 78-114 (Juz Amma)
-const START_SURAH = 78
-const END_SURAH = 114
+const START_SURAH = 67
+const END_SURAH = 77
 
 // Types
 interface QuranVerse {

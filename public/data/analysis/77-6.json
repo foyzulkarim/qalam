@@ -1,0 +1,52 @@
+{
+  "verseId": "77:6",
+  "verse": {
+    "arabic": "عُذْرًا أَوْ نُذْرًا",
+    "transliteration": "AAuthran aw nuthran",
+    "surah": "Al-Mursalat",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عُذْرًا",
+      "transliteration": "ʿudhran",
+      "meaning": "Excuse, justification; an offering of excuse",
+      "root": {
+        "letters": "ع-ذ-ر",
+        "meaning": "to find fault, to blame; weakness, defect; excuse, apology"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire, or a conjunction indicating alternative possibilities."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُذْرًا",
+      "transliteration": "nudhran",
+      "meaning": "Warning, admonition; an offering of warning",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to remind; to offer something as a warning or vow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Excuse - or - warning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

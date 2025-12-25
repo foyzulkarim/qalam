@@ -1,0 +1,152 @@
+{
+  "verseId": "76:14",
+  "verse": {
+    "arabic": "وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا",
+    "transliteration": "Wadaniyatan AAalayhim thilaluha wathullilat qutoofuha tathleelan",
+    "surah": "Al-Insan",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "دَانِيَةً",
+      "transliteration": "dāniyatan",
+      "meaning": "near, close"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "above them, upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to surpass; elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, above, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ظِلَالُهَا",
+      "transliteration": "ẓilāluhā",
+      "meaning": "its shades (feminine plural)",
+      "root": {
+        "letters": "ظ-ل-ل",
+        "meaning": "shade, shadow, coolness, protection"
+      },
+      "components": [
+        {
+          "arabic": "ظِلَالٌ",
+          "meaning": "shades, shadows (plural)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ذُلِّلَتْ",
+      "transliteration": "dhullilat",
+      "meaning": "were lowered, were made easy",
+      "root": {
+        "letters": "ذ-ل-ل",
+        "meaning": "to be humiliated, to be base, to be easy/submissive"
+      },
+      "components": [
+        {
+          "arabic": "ذُلّ",
+          "meaning": "humiliation, easiness, submissiveness (noun form)"
+        },
+        {
+          "arabic": "ِت",
+          "meaning": "feminine passive participle marker (indicating 'were made')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قُطُوفُهَا",
+      "transliteration": "quṭūfuhā",
+      "meaning": "its fruits (feminine plural)",
+      "root": {
+        "letters": "ق-ط-ف",
+        "meaning": "to pick, harvest; to cut off"
+      },
+      "components": [
+        {
+          "arabic": "قُطُوف",
+          "meaning": "fruits (plural)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَذْلِيلًا",
+      "transliteration": "tadhīlan",
+      "meaning": "lowering, making easy",
+      "root": {
+        "letters": "ذ-ل-ل",
+        "meaning": "to humiliate, to abase; to become soft or pliable"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the causative form (form IV)"
+        },
+        {
+          "arabic": "ذِل",
+          "meaning": "the root relating to humiliation or ease"
+        },
+        {
+          "arabic": "-ال",
+          "meaning": "masculine accusative ending indicating the purpose or manner"
+        },
+        {
+          "arabic": "-ًا",
+          "meaning": "tanwīn accusative ending indicating indefinite nouns with general purpose or manner."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-near above-them its shades and-were-lowered its fruits lowering"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

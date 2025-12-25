@@ -1,0 +1,166 @@
+{
+  "verseId": "72:8",
+  "verse": {
+    "arabic": "وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+    "transliteration": "Waanna lamasna alssamaa fawajadnaha muliat harasan shadeedan washuhuban",
+    "surah": "Al-Jinn",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa-",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَمَسْنَا",
+      "transliteration": "lamasnā",
+      "meaning": "we touched, we sought to reach",
+      "root": {
+        "letters": "ل-م-س",
+        "meaning": "to touch, to feel, to reach"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "مَسْنَا",
+          "meaning": "touched (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "السَّمَاءَ",
+      "transliteration": "as-samāʾa",
+      "meaning": "the heaven, the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَوَجَدْنَاهَا",
+      "transliteration": "fawajadnāhā",
+      "meaning": "so we found it",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to come upon, to obtain"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "وَجَدْنَا",
+          "meaning": "we found"
+        },
+        {
+          "arabic": "~هَا",
+          "meaning": "it (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مُلِئَتْ",
+      "transliteration": "muliʾat",
+      "meaning": "was filled",
+      "root": {
+        "letters": "م-ل-أ",
+        "meaning": "to be full, to fill"
+      },
+      "components": [
+        {
+          "arabic": "مُلِئَ",
+          "meaning": "was filled (passive voice)"
+        },
+        {
+          "arabic": "-تْ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "حَرَسًا",
+      "transliteration": "ḥarasan",
+      "meaning": "guards, a guard",
+      "root": {
+        "letters": "ح-ر-س",
+        "meaning": "to protect, to guard, to watch over"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "شَدِيدًا",
+      "transliteration": "shadīdan",
+      "meaning": "powerful, intense",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "strength, firmness, intensity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa-",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "شُهُبًا",
+      "transliteration": "shuhuban",
+      "meaning": "burning flames, meteors",
+      "root": {
+        "letters": "ش-ه-ب",
+        "meaning": "to blaze, to be bright; brilliance"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that we touched the-heaven so-we found-it was-filled guards intense and burning-flames"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

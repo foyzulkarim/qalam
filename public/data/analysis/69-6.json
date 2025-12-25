@@ -1,0 +1,120 @@
+{
+  "verseId": "69:6",
+  "verse": {
+    "arabic": "وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+    "transliteration": "Waamma AAadun faohlikoo bireehin sarsarin AAatiyatin",
+    "surah": "Al-Haqqah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "as for; concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to take aim at"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what; that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَادٌ",
+      "transliteration": "'Ādun",
+      "meaning": "Aad (name of a people)",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "to return, to revert; also strength, vigor"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأُهْلِكُوا",
+      "transliteration": "fa'uhlikū",
+      "meaning": "then they were destroyed",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed, to die"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُهْلِكُوا",
+          "meaning": "they were destroyed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِرِيحٍ",
+      "transliteration": "bi-rīḥin",
+      "meaning": "by a wind",
+      "root": {
+        "letters": "ر-ي-ح",
+        "meaning": "to move, to flow (of air), to smell sweetly"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "رِيحٍ",
+          "meaning": "wind"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "صَرْصَرٍ",
+      "transliteration": "ṣarṣarin",
+      "meaning": "screaming; whistling",
+      "root": {
+        "letters": "ص-ر-ر",
+        "meaning": "to scream, to whistle; intense noise or sound"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَاتِيَةٍ",
+      "transliteration": "'ātiyatin",
+      "meaning": "violent; fierce; strong",
+      "root": {
+        "letters": "ع-ت-و",
+        "meaning": "to exceed, be arrogant, violent"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-as-for-'Ādun-then-they-were-destroyed-by-a-wind-screaming-violent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

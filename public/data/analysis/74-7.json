@@ -1,0 +1,49 @@
+{
+  "verseId": "74:7",
+  "verse": {
+    "arabic": "وَلِرَبِّكَ فَاصْبِرْ",
+    "transliteration": "Walirabbika faisbir",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلِرَبِّكَ",
+      "transliteration": "wa-li-rabbika",
+      "meaning": "and for your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "رَبِّكَ",
+          "meaning": "your Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَاصْبِرْ",
+      "transliteration": "fa-ṣbir",
+      "meaning": "so be patient!"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-for your Lord - so be patient!"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

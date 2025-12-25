@@ -1,0 +1,252 @@
+{
+  "verseId": "67:20",
+  "verse": {
+    "arabic": "أَمَّنْ هَـٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ الرَّحْمَـٰنِ ۚ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ",
+    "transliteration": "Amman hatha allathee huwa jundun lakum yansurukum min dooni alrrahmani ini alkafiroona illa fee ghuroorin",
+    "surah": "Al-Mulk",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمَّنْ",
+      "transliteration": "ʾamman",
+      "meaning": "or who, or is it one",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this, here is",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "who, that which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, relation"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, that which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "he, it is",
+      "root": {
+        "letters": "هـ-و-ا",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جُندٌ",
+      "transliteration": "jundun",
+      "meaning": "army, soldiers",
+      "root": {
+        "letters": "ج-ن-د",
+        "meaning": "to gather, to collect; military force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you, to you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, to possess, perfection"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَنصُرُكُم",
+      "transliteration": "yanṣurukum",
+      "meaning": "he aids you, to aid you",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to support"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, imperfect form"
+        },
+        {
+          "arabic": "نَصُرَ",
+          "meaning": "to aid, to help (verb root)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural), object pronoun suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّن دُونِ",
+      "transliteration": "min dūni",
+      "meaning": "apart from, without",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be humble; to lack, to be without"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, apart from"
+        },
+        {
+          "arabic": "دُونِ",
+          "meaning": "without, lacking"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "meaning": "the Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰن",
+          "meaning": "The Most Merciful (intensive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause/separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, confirmation, truthfulness"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, if (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْكَافِرُونَ",
+      "transliteration": "al-kāfirūna",
+      "meaning": "the disbelievers, the unbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to be ungrateful or disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرُونَ",
+          "meaning": "disbelievers, unbelievers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "غُرُورٍ",
+      "transliteration": "ġurūrin",
+      "meaning": "delusion, deceit",
+      "root": {
+        "letters": "غ-ر-ر",
+        "meaning": "to deceive, to err; delusion, vanity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Or-who this -that which he is army -for you aids-you from apart-from the-Most Merciful [pause] Indeed the-disbelievers except in delusion"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

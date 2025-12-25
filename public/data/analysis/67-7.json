@@ -1,0 +1,160 @@
+{
+  "verseId": "67:7",
+  "verse": {
+    "arabic": "إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ",
+    "transliteration": "Itha olqoo feeha samiAAoo laha shaheeqan wahiya tafooru",
+    "surah": "Al-Mulk",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to become quiet or still"
+      },
+      "components": [
+        {
+          "arabic": "إِذ",
+          "meaning": "when, at the time when"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "particle of extension"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُلْقُوا",
+      "transliteration": "ulqiyā",
+      "meaning": "they were thrown, they are thrown (passive)",
+      "root": {
+        "letters": "ق-ي-أ",
+        "meaning": "to throw, to cast"
+      },
+      "components": [
+        {
+          "arabic": "أُلْ",
+          "meaning": "passive voice marker, form X (تُفْعِل)"
+        },
+        {
+          "arabic": "قُوا",
+          "meaning": "they were thrown/are thrown (3rd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "into it, within it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to encompass, to be in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَمِعُوا",
+      "transliteration": "samiʿū",
+      "meaning": "they heard",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "سَمِع",
+          "meaning": "they heard (perfect tense)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "dual or plural masculine suffix (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَهَا",
+      "transliteration": "lahā",
+      "meaning": "for it, to it",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to belong, possess"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَهِيقًا",
+      "transliteration": "shahīqan",
+      "meaning": "a loud inhalation, a roaring sound",
+      "root": {
+        "letters": "ش-ه-ق",
+        "meaning": "to inhale deeply, to gasp, to roar (like an animal)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "it (feminine)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَفُورُ",
+      "transliteration": "tafūru",
+      "meaning": "it boils up, it surges forth",
+      "root": {
+        "letters": "ف-و-ر",
+        "meaning": "to overflow, to abound, to be plentiful"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-if they-were-thrown into-it they-heard to-it a-roaring and-it it-boils-up"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

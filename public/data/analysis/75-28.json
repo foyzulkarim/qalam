@@ -1,0 +1,72 @@
+{
+  "verseId": "75:28",
+  "verse": {
+    "arabic": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+    "transliteration": "Wathanna annahu alfiraqu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "to connect, to join"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ظَنَّ",
+      "transliteration": "ẓanna",
+      "meaning": "he thought, he supposed",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe, to expect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَّهُ",
+      "transliteration": "annahū",
+      "meaning": "that it is he/himself",
+      "root": {
+        "letters": "ح-ن-ا",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he/himself"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْفِرَاقُ",
+      "transliteration": "al-firāqu",
+      "meaning": "the separation, the parting",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to divide, to break apart"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-thought he that-it-is he the-separation"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "verseId": "69:15",
+  "verse": {
+    "arabic": "فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ",
+    "transliteration": "Fayawmaithin waqaAAati alwaqiAAatu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَيَوْمَئِذٍ",
+      "transliteration": "fa-yawmaʾidhin",
+      "meaning": "then on that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on that day"
+        },
+        {
+          "arabic": "~إِذٍ",
+          "meaning": "that time/occasion (demonstrative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَقَعَتِ",
+      "transliteration": "wa-qaʿat",
+      "meaning": "and occurred, and fell upon",
+      "root": {
+        "letters": "ق-ع-و",
+        "meaning": "to fall, to happen, to come down firmly"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَعَتِ",
+          "meaning": "it fell, it occurred (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْوَاقِعَةُ",
+      "transliteration": "al-wāqiʿah",
+      "meaning": "the Reality, the Resurrection",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to happen, to occur"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وَاقِعَة",
+          "meaning": "Reality, the Inevitable Event (Resurrection)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [on] that day - wa- occurred - the Reality"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "verseId": "69:44",
+  "verse": {
+    "arabic": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ",
+    "transliteration": "Walaw taqawwala AAalayna baAAda alaqaweeli",
+    "surah": "Al-Haqqah",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire; conditionality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَقَوَّلَ",
+      "transliteration": "taqawwala",
+      "meaning": "to fabricate, to utter falsely",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to speak"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating intensification or causation"
+        },
+        {
+          "arabic": "قَوَّلَ",
+          "meaning": "to make someone say, to cause speech (passive form of قول)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "upon us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَعْضَ",
+      "transliteration": "baʿḍa",
+      "meaning": "some, a part of",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, to have a portion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأَقَاوِيلِ",
+      "transliteration": "al-aqāwīl",
+      "meaning": "the sayings, the statements",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter; speech"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَقَاوِيلِ",
+          "meaning": "sayings, statements (plural of قول)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if fabricated upon-us some the-sayings"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

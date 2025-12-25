@@ -1,0 +1,50 @@
+{
+  "verseId": "74:36",
+  "verse": {
+    "arabic": "نَذِيرًا لِّلْبَشَرِ",
+    "transliteration": "Natheeran lilbashari",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَذِيرًا",
+      "transliteration": "nad̲hīran",
+      "meaning": "Warner, one who warns",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّلْبَشَرِ",
+      "transliteration": "lil-bashari",
+      "meaning": "For humanity, to the humans",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be human, to have flesh; humanity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "لِلْبَشَرِ",
+          "meaning": "the humans, humanity (genitive)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "warner - to-the-humans"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "verseId": "67:9",
+  "verse": {
+    "arabic": "قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِن شَيْءٍ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ",
+    "transliteration": "Qaloo bala qad jaana natheerun fakaththabna waqulna ma nazzala Allahu min shayin in antum illa fee dalalin kabeerin",
+    "surah": "Al-Mulk",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَلَىٰ",
+      "transliteration": "balā",
+      "meaning": "Yes, indeed",
+      "root": {
+        "letters": "ب-ل-ي",
+        "meaning": "to be afflicted, to remain, to be true or real"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "Certainly, indeed",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "To advance, to step forward; establish, prepare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَاءَنَا",
+      "transliteration": "jā'anā",
+      "meaning": "Came to us",
+      "root": {
+        "letters": "ج-ي-أ",
+        "meaning": "To come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَأ",
+          "meaning": "To come (basic form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "To us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَذِيرٌ",
+      "transliteration": "nadhīrun",
+      "meaning": "A warner",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to remind, to give notice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَكَذَّبْنَا",
+      "transliteration": "fakadhdhbnā",
+      "meaning": "So we denied",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to falsely accuse, to disprove"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "كَذَّب",
+          "meaning": "to deny, to reject (from root ك-ذ-ب)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَقُلْنَا",
+      "transliteration": "wa qulnā",
+      "meaning": "And we said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قُلْنَا",
+          "meaning": "we said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, not...",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, negation/absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نَزَّلَ",
+      "transliteration": "nazzala",
+      "meaning": "Sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِن شَيْءٍ",
+      "transliteration": "min shay'in",
+      "meaning": "Of anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "thing, object, entity"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "شَيْءٍ",
+          "meaning": "a thing, anything"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِنْ",
+      "transliteration": "in",
+      "meaning": "Indeed, surely",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, surely (introduces a conditional sentence with emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَنتُمْ",
+      "transliteration": "antum",
+      "meaning": "You (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, exist, presence; indicating the speaker or referent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "Except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to decline, to abstain from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ضَلَالٍ",
+      "transliteration": "ḍalālin",
+      "meaning": "Error, astrayness",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to err, to go astray; misguidance, wandering"
+      },
+      "components": [
+        {
+          "arabic": "ضَلّ",
+          "meaning": "to be lost, to go astray"
+        },
+        {
+          "arabic": "-الٍ",
+          "meaning": "nisbah (relative adjective) indicating belonging to or having the quality of error/astrayness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كَبِيرٍ",
+      "transliteration": "kabīrin",
+      "meaning": "Great, large",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "To be large, to grow, greatness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said - Yes - Indeed - Came-to-us - A-warner - So-we-denied - And-we-said - Not [something] - Sent-down - Allah - Of-anything - Indeed - You - Except - In - Error - Great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

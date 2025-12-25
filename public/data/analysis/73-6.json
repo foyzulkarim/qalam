@@ -1,0 +1,139 @@
+{
+  "verseId": "73:6",
+  "verse": {
+    "arabic": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+    "transliteration": "Inna nashiata allayli hiya ashaddu watan waaqwamu qeelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَاشِئَةَ",
+      "transliteration": "nāshiʾata",
+      "meaning": "rising, hours that rise (at night)",
+      "root": {
+        "letters": "ن-ش-أ",
+        "meaning": "to originate, to rise, to grow up"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّيْلِ",
+      "transliteration": "al-layli",
+      "meaning": "the night (genitive)",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark or hidden"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَيْل",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "it (feminine pronoun)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَشَدُّ",
+      "transliteration": "ʾashaddu",
+      "meaning": "more intense, stronger",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be intense, strong; to exert force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَطْئًا",
+      "transliteration": "waṭʾan",
+      "meaning": "treading, striking (metaphorically: effectiveness)",
+      "root": {
+        "letters": "و-ط-أ",
+        "meaning": "to step on, to trample; to settle in a place, to subdue"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَأَقْوَمُ",
+      "transliteration": "wa-ʾaqwamu",
+      "meaning": "and more upright, and better (in quality)",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to be upright; firmness, strength, excellence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَقْوَمُ",
+          "meaning": "more upright, better (superlative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قِيلًا",
+      "transliteration": "qīlan",
+      "meaning": "saying, speech (uttered)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to speak"
+      },
+      "components": [
+        {
+          "arabic": "قَوْل",
+          "meaning": "saying, speech"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "indefinite accusative ending (tanwin)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-rising-of-the-night it-is more-intense striking [in effect]-and better upright-ness saying."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

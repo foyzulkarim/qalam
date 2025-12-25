@@ -1,0 +1,90 @@
+{
+  "verseId": "69:26",
+  "verse": {
+    "arabic": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+    "transliteration": "Walam adri ma hisabiyah",
+    "surah": "Al-Haqqah",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَمْ",
+      "transliteration": "wa-lam",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to wish, to refuse"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not (past tense negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرِ",
+      "transliteration": "ʾadri",
+      "meaning": "I know",
+      "root": {
+        "letters": "د-ر-ي",
+        "meaning": "to know, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun, first person singular)"
+        },
+        {
+          "arabic": "دُرِيَ",
+          "meaning": "passive form of knowing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, also relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حِسَابِيَهْ",
+      "transliteration": "ḥisābīyah",
+      "meaning": "my account",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to reckon, to calculate, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "حِسَاب",
+          "meaning": "account, reckoning"
+        },
+        {
+          "arabic": "ِيَّهْ",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not I-know what my-account [is]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

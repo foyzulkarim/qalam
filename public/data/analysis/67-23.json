@@ -1,0 +1,221 @@
+{
+  "verseId": "67:23",
+  "verse": {
+    "arabic": "قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
+    "transliteration": "Qul huwa allathee anshaakum wajaAAala lakumu alssamAAa waalabsara waalafidata qaleelan ma tashkuroona",
+    "surah": "Al-Mulk",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "alladhī",
+      "meaning": "Who/The One who",
+      "root": {
+        "letters": "ذ-ي-ل",
+        "meaning": "to possess, to own; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنشَأَكُمْ",
+      "transliteration": "ʾanshaʾakum",
+      "meaning": "Produced you (plural)",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to begin, to create, to originate"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to create, to produce"
+        },
+        {
+          "arabic": "شَأ",
+          "meaning": "matter, affair, to create"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَجَعَلَ",
+      "transliteration": "wajʿala",
+      "meaning": "And He made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "To create, to make, to place, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "And"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "He made, He created"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakum",
+      "meaning": "For you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, existence, to possess"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "For, to"
+        },
+        {
+          "arabic": "ـكُمُ",
+          "meaning": "You (plural, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "السَّمْعَ",
+      "transliteration": "as-samʿa",
+      "meaning": "The hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, perception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْأَبْصَارَ",
+      "transliteration": "wal-ʾabṣāra",
+      "meaning": "And the vision",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, vision"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَبْصَار",
+          "meaning": "visions, eyes (plural of بَصَر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَالْأَفْئِدَةَ",
+      "transliteration": "wal-ʾafʾida",
+      "meaning": "And the hearts",
+      "root": {
+        "letters": "أ-ف-د",
+        "meaning": "to know, understand; to feel, have an inclination"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَفْئِدَةَ",
+          "meaning": "the hearts (plural of heart)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "Little",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to decrease, to diminish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "What/That",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَشْكُرُونَ",
+      "transliteration": "tashkurūna",
+      "meaning": "You (plural) are grateful",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to acknowledge kindness"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the present tense, 'you (plural)' form"
+        },
+        {
+          "arabic": "شْكُر",
+          "meaning": "gratitude, thankfulness (verbal noun/source)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person plural masculine (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - He - The One who - Produced you (plural) - And He made - For you (plural) - The hearing - And the vision - And the hearts - [Pause] - Little - That - You (plural) are grateful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

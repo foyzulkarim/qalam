@@ -1,0 +1,96 @@
+{
+  "verseId": "77:20",
+  "verse": {
+    "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّاءٍ مَّهِينٍ",
+    "transliteration": "Alam nakhluqkum min main maheenin",
+    "surah": "Al-Mursalat",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did...not, is it not?",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to desire, to wish, to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negative particle, did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَخْلُقكُّم",
+      "transliteration": "nakhlukukum",
+      "meaning": "We create you (plural)",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "خَلُق",
+          "meaning": "creation, originating"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural, accusative/genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "separation, extraction, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَّاءٍ",
+      "transliteration": "māʾin",
+      "meaning": "Water (indefinite)",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, fluidity; water (as a substance)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّهِينٍ",
+      "transliteration": "mahīnin",
+      "meaning": "Despised, disdained, humble",
+      "root": {
+        "letters": "ه-ي-ن",
+        "meaning": "weakness, ease, lowness; to be humiliated"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not We create-you (plural) from water a-despised?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

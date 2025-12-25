@@ -1,0 +1,81 @@
+{
+  "verseId": "69:28",
+  "verse": {
+    "arabic": "مَا أَغْنَىٰ عَنِّي مَالِيَهْ ۜ",
+    "transliteration": "Ma aghna AAannee maliyah",
+    "surah": "Al-Haqqah",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "not, what (interrogative)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَغْنَىٰ",
+      "transliteration": "ʾaġnā",
+      "meaning": "enriched, availed",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be sufficient, to suffice, to be rich"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنِّي",
+      "transliteration": "ʿannī",
+      "meaning": "about me, for me",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be inclined towards, to care for, to relate to"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, concerning"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "me, possessive suffix for the first person singular (ana)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَالِيَهْ",
+      "transliteration": "mālīyah",
+      "meaning": "my wealth",
+      "root": {
+        "letters": "م-ل-ي",
+        "meaning": "possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "مَالِ",
+          "meaning": "my wealth (genitive)"
+        },
+        {
+          "arabic": "ـيَهْ",
+          "meaning": "possessive suffix, my"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-availed about-me my-wealth"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

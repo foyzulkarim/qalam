@@ -1,0 +1,81 @@
+{
+  "verseId": "69:40",
+  "verse": {
+    "arabic": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+    "transliteration": "Innahu laqawlu rasoolin kareemin",
+    "surah": "Al-Haqqah",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahū",
+      "meaning": "Indeed, it is he/it",
+      "root": {
+        "letters": "ن-هـ-و",
+        "meaning": "to be, existence; emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it/he (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَقَوْلُ",
+      "transliteration": "la-qawlu",
+      "meaning": "Surely, a saying/the word",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قول",
+          "meaning": "saying, word"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَسُولٍ",
+      "transliteration": "rasūlin",
+      "meaning": "A messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to travel, message"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَرِيمٍ",
+      "transliteration": "karīmin",
+      "meaning": "Noble/generous",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, noble, honorable; abundance"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-[it is] a saying/the word of-a messenger noble."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

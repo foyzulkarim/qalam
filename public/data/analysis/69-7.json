@@ -1,0 +1,256 @@
+{
+  "verseId": "69:7",
+  "verse": {
+    "arabic": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+    "transliteration": "Sakhkharaha AAalayhim sabAAa layalin wathamaniyata ayyamin husooman fatara alqawma feeha sarAAa kaannahum aAAjazu nakhlin khawiyatun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَخَّرَهَا",
+      "transliteration": "sakhkharahā",
+      "meaning": "He subjected it, He harnessed it",
+      "root": {
+        "letters": "س-خ-ر",
+        "meaning": "to subdue, to control, to make something work for someone/something else"
+      },
+      "components": [
+        {
+          "arabic": "سَخَّرَ",
+          "meaning": "He subjected, He harnessed"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "It (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them, against them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, against"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَبْعَ",
+      "transliteration": "sabʿa",
+      "meaning": "seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "fullness, abundance; to go beyond a limit in quantity or extent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَيَالٍ",
+      "transliteration": "layālin",
+      "meaning": "nights",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "night, darkness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَثَمَانِيَةَ",
+      "transliteration": "wa-thamāniyata",
+      "meaning": "and eight",
+      "root": {
+        "letters": "ث-م-ن",
+        "meaning": "to count, to estimate value, eight"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ثَمَانِيَةَ",
+          "meaning": "eight (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَيَّامٍ",
+      "transliteration": "ayyāmin",
+      "meaning": "days",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, to elapse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "حُسُومًا",
+      "transliteration": "ḥusūman",
+      "meaning": "in succession, continuous",
+      "root": {
+        "letters": "ح-س-م",
+        "meaning": "to be severe, to finish, to decide decisively"
+      },
+      "components": [
+        {
+          "arabic": "حُسُومًا",
+          "meaning": "in succession, continuous (plural accusative form indicating manner)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَتَرَى",
+      "transliteration": "fa-tarā",
+      "meaning": "so you see",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to observe"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "تَرَى",
+          "meaning": "you see (verb, second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْقَوْمَ",
+      "transliteration": "al-qawma",
+      "meaning": "the people, the nation",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; people, tribe, nation"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَوْمَ",
+          "meaning": "people, nation (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to exist within, to contain"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "صَرْعَىٰ",
+      "transliteration": "ṣarʿā",
+      "meaning": "fallen, prostrate, overcome",
+      "root": {
+        "letters": "ص-ر-ع",
+        "meaning": "to strike, to overcome, to fall prostrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَأَنَّهُمْ",
+      "transliteration": "ka-annahum",
+      "meaning": "as if they were",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hiddenness or latency"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "as if, like"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَعْجَازُ",
+      "transliteration": "aʿjāzu",
+      "meaning": "trunks, stalks",
+      "root": {
+        "letters": "ع-ج-ز",
+        "meaning": "weakness, inability, the posterior part of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "نَخْلٍ",
+      "transliteration": "nakhl",
+      "meaning": "of palm trees",
+      "root": {
+        "letters": "ن-خ-ل",
+        "meaning": "to grow, to be soft; palm tree itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "خَاوِيَةٍ",
+      "transliteration": "khāwiyah",
+      "meaning": "hollow, empty",
+      "root": {
+        "letters": "خ-و-ي",
+        "meaning": "to be low, to fall down, to become empty or deficient"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-subjected-it upon-them seven nights and-eight days continuous so-you-see the-people in-it fallen as-if-they-were trunks of-palm-trees hollow"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

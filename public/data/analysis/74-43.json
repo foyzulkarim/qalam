@@ -1,0 +1,92 @@
+{
+  "verseId": "74:43",
+  "verse": {
+    "arabic": "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ",
+    "transliteration": "Qaloo lam naku mina almusalleena",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To desire, to will; negation or absence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَكُ",
+      "transliteration": "naku",
+      "meaning": "We were",
+      "root": {
+        "letters": "ن-ك-و",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We"
+        },
+        {
+          "arabic": "كُ",
+          "meaning": "were (past tense suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be possessed of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمُصَلِّينَ",
+      "transliteration": "al-muṣallīn",
+      "meaning": "The pray-ers/those who pray",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "To pray, to perform ritual prayer, to make supplication; also to heat or burn"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُصَلِّينَ",
+          "meaning": "Pray-ers, those who pray (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said not we-were from-among the-pray-ers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

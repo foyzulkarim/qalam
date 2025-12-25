@@ -1,0 +1,55 @@
+{
+  "verseId": "77:26",
+  "verse": {
+    "arabic": "أَحْيَاءً وَأَمْوَاتًا",
+    "transliteration": "Ahyaan waamwatan",
+    "surah": "Al-Mursalat",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَحْيَاءً",
+      "transliteration": "ʾaḥyāʾan",
+      "meaning": "living ones, the living",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "أَحْيَاءً",
+          "meaning": "living ones, the living (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَأَمْوَاتًا",
+      "transliteration": "waʾamwātan",
+      "meaning": "and dead ones, the dead",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَمْوَاتًا",
+          "meaning": "dead ones, the dead (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "living-ones - and - dead-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

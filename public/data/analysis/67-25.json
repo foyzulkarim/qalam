@@ -1,0 +1,128 @@
+{
+  "verseId": "67:25",
+  "verse": {
+    "arabic": "وَيَقُولُونَ مَتَىٰ هَـٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ",
+    "transliteration": "Wayaqooloona mata hatha alwaAAdu in kuntum sadiqeena",
+    "surah": "Al-Mulk",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَقُولُونَ",
+      "transliteration": "wa yaqūlūna",
+      "meaning": "and they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقُولُونَ",
+          "meaning": "they say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَتَىٰ",
+      "transliteration": "matā",
+      "meaning": "when?",
+      "root": {
+        "letters": "م-ت-و",
+        "meaning": "time, when"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "pointing, indicating, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْوَعْدُ",
+      "transliteration": "al-waʿdu",
+      "meaning": "the promise",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to threaten"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "وَعْد",
+          "meaning": "promise"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "to be, existence; also negation and conditionality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُنْتُم",
+          "meaning": "you were/are (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "صَادِقِينَ",
+      "transliteration": "ṣādiqīna",
+      "meaning": "truthful (ones)",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to be true, to speak the truth, to fulfill a promise"
+      },
+      "components": [
+        {
+          "arabic": "صَادِق",
+          "meaning": "truthful, honest"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural masculine ending indicating a group of truthful ones"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they say when this the-promise if you-are truthful-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

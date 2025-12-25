@@ -1,0 +1,205 @@
+{
+  "verseId": "72:12",
+  "verse": {
+    "arabic": "وَأَنَّا ظَنَنَّا أَن لَّن نُّعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَن نُّعْجِزَهُ هَرَبًا",
+    "transliteration": "Wanna thananna an lan nuAAjiza Allaha fee alardi walan nuAAjizahu haraban",
+    "surah": "Al-Jinn",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾanna",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also pronoun related meanings"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "pronoun suffix indicating first person plural (we)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ظَنَنَّا",
+      "transliteration": "ẓunnanā",
+      "meaning": "we thought/believed",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe, to expect"
+      },
+      "components": [
+        {
+          "arabic": "ظَنَ",
+          "meaning": "to think, to believe"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation or indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَّن",
+      "transliteration": "lan",
+      "meaning": "never/not",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish, to intend; negation implies lack of intention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نُّعْجِزَ",
+      "transliteration": "nuʿjiza",
+      "meaning": "we will cause to fail/overpower",
+      "root": {
+        "letters": "ع-ج-ز",
+        "meaning": "to be weak, incapable, deficient; to fail or overpower (when transitive)"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "عَجِزَ",
+          "meaning": "to be unable, to fail or overpower (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/upon",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level; the earth itself, land"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَن",
+      "transliteration": "lan",
+      "meaning": "never/not",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to refuse, to abstain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نُّعْجِزَهُ",
+      "transliteration": "nuʿjizahu",
+      "meaning": "we will cause to fail Him",
+      "root": {
+        "letters": "ع-ج-ز",
+        "meaning": "to be weak, incapable, or deficient; to fail or be unable"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "عَجِزَ",
+          "meaning": "to be unable, to fail (verb)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "هَرَبًا",
+      "transliteration": "haraban",
+      "meaning": "by flight/escaping",
+      "root": {
+        "letters": "ه-ر-ب",
+        "meaning": "to flee, to escape"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that-we-thought-that-not-we-will-cause-to-fail-Allah-upon-the-earth-and-not-we-will-cause-to-fail-Him-[by]-flight"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

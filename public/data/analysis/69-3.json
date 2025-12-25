@@ -1,0 +1,90 @@
+{
+  "verseId": "69:3",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا الْحَاقَّةُ",
+    "transliteration": "Wama adraka ma alhaqqatu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for; relative pronoun (what)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "adrāka",
+      "meaning": "can make you know",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to realize, to comprehend"
+      },
+      "components": [
+        {
+          "arabic": "أَدْ",
+          "meaning": "prefix signifying completion or intensification of an action"
+        },
+        {
+          "arabic": "رَكَ",
+          "meaning": "you know/perceive (second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to possess, to have; also related to water and fluidity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَاقَّةُ",
+      "transliteration": "al-ḥāqqah",
+      "meaning": "the Inevitable Reality",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "حَاقَّة",
+          "meaning": "the inevitable reality, the truth that will inevitably come to pass"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what can-make-you-know what the-[inevitable]-reality"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

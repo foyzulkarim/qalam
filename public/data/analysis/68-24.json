@@ -1,0 +1,111 @@
+{
+  "verseId": "68:24",
+  "verse": {
+    "arabic": "أَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ",
+    "transliteration": "An la yadkhulannaha alyawma AAalaykum miskeenun",
+    "surah": "Al-Qalam",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, so that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also to desire or intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, lest",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَدْخُلَنَّهَا",
+      "transliteration": "yadkhulannahā",
+      "meaning": "it enters it, shall enter it (emphatic)",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "يد",
+          "meaning": "prefix indicating the first-person plural ('we')"
+        },
+        {
+          "arabic": "خل",
+          "meaning": "root relating to entering"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "suffix indicating the first-person plural ('we')"
+        },
+        {
+          "arabic": "ـها",
+          "meaning": "pronoun suffix referring to 'it' (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْيَوْمَ",
+      "transliteration": "al-yawm",
+      "meaning": "the day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, to pass/elapse (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَيْكُم",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to be over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّسْكِينٌ",
+      "transliteration": "misʾkīnun",
+      "meaning": "poor person, needy one",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to be weak, poor; to suffer hardship"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "that-not enters-it-emphatically it the day upon you poor-person"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

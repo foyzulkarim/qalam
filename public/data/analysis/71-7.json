@@ -1,0 +1,302 @@
+{
+  "verseId": "71:7",
+  "verse": {
+    "arabic": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+    "transliteration": "Wainnee kullama daAAawtuhum litaghfira lahum jaAAaloo asabiAAahum fee athanihim waistaghshaw thiyabahum waasarroo waistakbaroo istikbaran",
+    "surah": "Nuh",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنِّي",
+      "transliteration": "waʾinnī",
+      "meaning": "and indeed I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also used for emphasis or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنِّي",
+          "meaning": "indeed I"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُلَّمَا",
+      "transliteration": "kullamā",
+      "meaning": "every time",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word; to speak or communicate"
+      },
+      "components": [
+        {
+          "arabic": "كُلّ",
+          "meaning": "all, every"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "that which, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "دَعَوْتُهُمْ",
+      "transliteration": "daʿawtuhum",
+      "meaning": "I invited them",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "دَعَوْتُ",
+          "meaning": "I invited"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِتَغْفِرَ",
+      "transliteration": "li-taghfira",
+      "meaning": "that You forgive",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to pardon"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order that"
+        },
+        {
+          "arabic": "تَغْفِرَ",
+          "meaning": "You forgive (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَعَلُوا",
+      "transliteration": "jaʿalū",
+      "meaning": "they made/put",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to place, to make"
+      },
+      "components": [
+        {
+          "arabic": "جَعَ",
+          "meaning": "they made/put (base form)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَصَابِعَهُمْ",
+      "transliteration": "ʾaṣābiʿahum",
+      "meaning": "their fingers",
+      "root": {
+        "letters": "ص-ب-ع",
+        "meaning": "to follow, to hit the target; finger (as that which 'hits' or reaches)"
+      },
+      "components": [
+        {
+          "arabic": "أَصَابِعَ",
+          "meaning": "fingers (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آذَانِهِمْ",
+      "transliteration": "ʾādhānihim",
+      "meaning": "their ears",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen, perception"
+      },
+      "components": [
+        {
+          "arabic": "آذَانِ",
+          "meaning": "ears (dual form)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (masculine plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَاسْتَغْشَوْا",
+      "transliteration": "wastaghshaw",
+      "meaning": "and they covered themselves",
+      "root": {
+        "letters": "غ-ش-و",
+        "meaning": "to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اسْتَ",
+          "meaning": "intensive prefix, to seek or do something thoroughly/repeatedly"
+        },
+        {
+          "arabic": "غَشَّ",
+          "meaning": "to cover, to shroud"
+        },
+        {
+          "arabic": "وْا",
+          "meaning": "pronoun suffix, they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ثِيَابَهُمْ",
+      "transliteration": "thiyābahum",
+      "meaning": "their garments",
+      "root": {
+        "letters": "ث-ي-ب",
+        "meaning": "to weave, garments, clothes"
+      },
+      "components": [
+        {
+          "arabic": "ثِيَاب",
+          "meaning": "garments, clothes"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَأَصَرُّوا",
+      "transliteration": "waʾaṣarrū",
+      "meaning": "and they persisted",
+      "root": {
+        "letters": "ص-ر-ر",
+        "meaning": "to be firm, resolute, steadfast; to insist, persist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَصَرُّوا",
+          "meaning": "they persisted (in their disbelief/error)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَاسْتَكْبَرُوا",
+      "transliteration": "wastakbarū",
+      "meaning": "and they were arrogant",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase; ultimately relating to prominence and superiority"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اسْتَ",
+          "meaning": "intensive prefix indicating seeking or performing the action to a high degree"
+        },
+        {
+          "arabic": "كَبَّرُوا",
+          "meaning": "they magnified; they considered themselves great"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اسْتِكْبَارًا",
+      "transliteration": "istikbāran",
+      "meaning": "arrogance",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be great, to increase, to grow; (in this context) to consider oneself superior"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتِ",
+          "meaning": "indicates seeking, attempting or doing something repeatedly (form IV prefix)"
+        },
+        {
+          "arabic": "كَبَارًا",
+          "meaning": "greatness, superiority (from the passive participle of كَبُر)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed I every-time I-invited-them that-You forgive for-them they-made their-fingers in-their ears and-they-covered themselves with-their garments and-they-persisted and-they-were arrogant arrogance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

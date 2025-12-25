@@ -1,0 +1,167 @@
+{
+  "verseId": "67:6",
+  "verse": {
+    "arabic": "وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ الْمَصِيرُ",
+    "transliteration": "Walillatheena kafaroo birabbihim AAathabu jahannama wabisa almaseeru",
+    "surah": "Al-Mulk",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلِلَّذِينَ",
+      "transliteration": "wa-lil-ladhīna",
+      "meaning": "and for those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to go, to be, to melt; essence, existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny, to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group of people (plural)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they disbelieved (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِرَبِّهِمْ",
+      "transliteration": "bi-rabbihiim",
+      "meaning": "in their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "رَبِّهِمْ",
+          "meaning": "their Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَذَابُ",
+      "transliteration": "ʿadhābu",
+      "meaning": "punishment (of)",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to suffer, to be hard or severe; to punish"
+      },
+      "components": [
+        {
+          "arabic": "عَذَابٌ",
+          "meaning": "punishment, torment; something causing hardship or pain"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَهَنَّمَ",
+      "transliteration": "jahannama",
+      "meaning": "Hell",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "intensity, heat, severe punishment; concealment or obscurity"
+      },
+      "components": [
+        {
+          "arabic": "جَهَنَّمَ",
+          "meaning": "Hell; a deep, fiery pit of punishment. The name itself embodies intensity and hidden torment."
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَبِئْسَ",
+      "transliteration": "wa-biʾsa",
+      "meaning": "and wretched is",
+      "root": {
+        "letters": "ب-ي-س",
+        "meaning": "insufficiency, badness, wretchedness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بِ",
+          "meaning": "with, in/by means of (here functioning as an intensifier)"
+        },
+        {
+          "arabic": "ئِسَ",
+          "meaning": "wretchedness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْمَصِيرُ",
+      "transliteration": "al-maṣīru",
+      "meaning": "the destination",
+      "root": {
+        "letters": "ص-ي-ر",
+        "meaning": "to return, to go back, to become"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَصِير",
+          "meaning": "place of return, destination"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-for those who disbelieved in-their Lord punishment of Hell — and-wretched is the destination"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "verseId": "71:8",
+  "verse": {
+    "arabic": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+    "transliteration": "Thumma innee daAAawtuhum jiharan",
+    "surah": "Nuh",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; continuation, sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنِّي",
+      "transliteration": "innī",
+      "meaning": "indeed I, verily I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also used for emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "دَعَوْتُهُمْ",
+      "transliteration": "daʿawtuhum",
+      "meaning": "I invited them, I called upon them",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "دَعَ",
+          "meaning": "I invited, I called upon"
+        },
+        {
+          "arabic": "-تُهُمْ",
+          "meaning": "them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جِهَارًا",
+      "transliteration": "jihāran",
+      "meaning": "publicly, openly, loudly",
+      "root": {
+        "letters": "ج-ه-ر",
+        "meaning": "to be clear, manifest, public; to sound loudly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-indeed I-I invited-them publicly"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

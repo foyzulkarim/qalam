@@ -1,0 +1,83 @@
+{
+  "verseId": "68:23",
+  "verse": {
+    "arabic": "فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ",
+    "transliteration": "Faintalaqoo wahum yatakhafatoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَانطَلَقُوا",
+      "transliteration": "fa-nṭalaqū",
+      "meaning": "So they set out/departed",
+      "root": {
+        "letters": "ن-ط-ل",
+        "meaning": "to go out, to depart, to proceed"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "انْطَلَقُوا",
+          "meaning": "they departed, they set out"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; collective pronoun connotation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَتَخَافَتُونَ",
+      "transliteration": "yataḵāfatūna",
+      "meaning": "they are lowering their voices/whispering",
+      "root": {
+        "letters": "خ-ف-ت",
+        "meaning": "to be afraid, to fear; to hide, to become quiet"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense (form I)"
+        },
+        {
+          "arabic": "تَخَافَتُ",
+          "meaning": "mutual/reciprocal action related to fearing or lowering voices"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix of masculine plural, indicative mood"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-set out [they]-and they-they are lowering their voices"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

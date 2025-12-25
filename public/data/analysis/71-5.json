@@ -1,0 +1,137 @@
+{
+  "verseId": "71:5",
+  "verse": {
+    "arabic": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+    "transliteration": "Qala rabbi innee daAAawtu qawmee laylan wanaharan",
+    "surah": "Nuh",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبِّ",
+      "transliteration": "rabbi",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "My Lord (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِنِّي",
+      "transliteration": "inni",
+      "meaning": "Indeed I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed; verily (emphasizing particle)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "دَعَوْتُ",
+      "transliteration": "daʿawtu",
+      "meaning": "I invited",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "دَعَ",
+          "meaning": "I invited, I called upon"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "first-person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَوْمِي",
+      "transliteration": "qawmī",
+      "meaning": "My people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to establish, people, tribe"
+      },
+      "components": [
+        {
+          "arabic": "قوم",
+          "meaning": "people, tribe"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَيْلًا",
+      "transliteration": "laylan",
+      "meaning": "Night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark or hidden"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَنَهَارًا",
+      "transliteration": "wanahāran",
+      "meaning": "And day",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to be clear or distinct; daytime (as in clarity)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَهَارًا",
+          "meaning": "day (indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said My-Lord Indeed-I I-invited My-people Night-and Day"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

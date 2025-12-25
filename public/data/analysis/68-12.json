@@ -1,0 +1,81 @@
+{
+  "verseId": "68:12",
+  "verse": {
+    "arabic": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+    "transliteration": "MannaAAin lilkhayri muAAtadin atheemin",
+    "surah": "Al-Qalam",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّنَّاعٍ",
+      "transliteration": "mannāʿin",
+      "meaning": "preventer, obstructer",
+      "root": {
+        "letters": "ن-ع-ع",
+        "meaning": "to grant a favor, to bestow; also, to obstruct or prevent (as the opposite of giving freely)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّلْخَيْرِ",
+      "transliteration": "lil-khayri",
+      "meaning": "for the good, to/towards the good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, towards"
+        },
+        {
+          "arabic": "الْخَيْرِ",
+          "meaning": "the good, the benefit"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُعْتَدٍ",
+      "transliteration": "muʿtadin",
+      "meaning": "transgressor, one who exceeds limits",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to transgress, to be hostile"
+      },
+      "components": [
+        {
+          "arabic": "مُعْتَـ",
+          "meaning": "passive participle prefix indicating 'one who is subjected to the action of'"
+        },
+        {
+          "arabic": "ـدٍ",
+          "meaning": "active participle suffix indicating 'one who performs the action'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَثِيمٍ",
+      "transliteration": "ʾathīmin",
+      "meaning": "sinful, wicked, transgressing",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to sin, wrongdoing"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "preventer-of the-good, transgressor, sinful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

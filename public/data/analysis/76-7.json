@@ -1,0 +1,145 @@
+{
+  "verseId": "76:7",
+  "verse": {
+    "arabic": "يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا",
+    "transliteration": "Yoofoona bialnnathri wayakhafoona yawman kana sharruhu mustateeran",
+    "surah": "Al-Insan",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُوفُونَ",
+      "transliteration": "yūfūnūna",
+      "meaning": "They fulfill",
+      "root": {
+        "letters": "و-ف-ي",
+        "meaning": "to fulfill, to pay, to keep a promise"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural subject (they)"
+        },
+        {
+          "arabic": "فُونَ",
+          "meaning": "verb root indicating fulfillment, with suffix denoting plural subject (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِالنَّذْرِ",
+      "transliteration": "bi-n-nadri",
+      "meaning": "With the vow/promise",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to vow, to promise, to pledge"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "النَّذْرِ",
+          "meaning": "the vow/promise (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَيَخَافُونَ",
+      "transliteration": "wa-yakhāfūna",
+      "meaning": "And they fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, be afraid"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَخَافُونَ",
+          "meaning": "they fear (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "A day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time; to pass (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was/is (copula)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, existence, becoming"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَرُّهُ",
+      "transliteration": "sharruhu",
+      "meaning": "Its evil/its harm",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, harm, badness"
+      },
+      "components": [
+        {
+          "arabic": "شَرّ",
+          "meaning": "evil, harm, badness"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "its, his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُسْتَطِيرًا",
+      "transliteration": "mustaṭīran",
+      "meaning": "Widespread/spreading rapidly",
+      "root": {
+        "letters": "ط-و-ر",
+        "meaning": "To rise, to ascend, to swell up; high ground, mountain."
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَ",
+          "meaning": "Passive participle prefix indicating 'one who is acted upon', or a state of being."
+        },
+        {
+          "arabic": "طِير",
+          "meaning": "Rapid movement, spreading quickly; related to the root meaning of rising and swelling."
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "Tanwīn al-fatḥ indicating indefinite accusative singular masculine."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They fulfill - with the vow/promise - and they fear - a day - was - its evil - widespread"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

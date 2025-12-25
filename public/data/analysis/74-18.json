@@ -1,0 +1,70 @@
+{
+  "verseId": "74:18",
+  "verse": {
+    "arabic": "إِنَّهُ فَكَّرَ وَقَدَّرَ",
+    "transliteration": "Innahu fakkara waqaddara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahu",
+      "meaning": "Indeed he/it",
+      "root": {
+        "letters": "ن-ه-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He/It (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَكَّرَ",
+      "transliteration": "fakkara",
+      "meaning": "He thought/pondered",
+      "root": {
+        "letters": "ف-ك-ر",
+        "meaning": "To think, to ponder, to consider; intelligence, reflection."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَقَدَّرَ",
+      "transliteration": "wa-qaddara",
+      "meaning": "And he deliberated/estimated",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "To measure, to estimate, to have power, to determine"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "قَدَّرَ",
+          "meaning": "He estimated/deliberated/decreed (verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-he thought and he-deliberated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

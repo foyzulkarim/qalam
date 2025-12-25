@@ -1,0 +1,70 @@
+{
+  "verseId": "77:37",
+  "verse": {
+    "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "transliteration": "Waylun yawmaithin lilmukaththibeena",
+    "surah": "Al-Mursalat",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيْلٌ",
+      "transliteration": "waylun",
+      "meaning": "woe, destruction",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "loss, deficiency, destruction; to be lost or deficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "on that day, the Day (specifically)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day; the day (in a time context)"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then; at that time; specifically"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِّلْمُكَذِّبِينَ",
+      "transliteration": "lil-mukadhdhibīna",
+      "meaning": "for the deniers, to those who deny",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْمُكَذِّبِينَ",
+          "meaning": "the deniers, those who deny"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "woe- destruction - on that day - to the deniers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

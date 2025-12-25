@@ -1,0 +1,240 @@
+{
+  "verseId": "67:5",
+  "verse": {
+    "arabic": "وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِّلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ",
+    "transliteration": "Walaqad zayyanna alssamaa alddunya bimasabeeha wajaAAalnaha rujooman lilshshayateeni waaAAtadna lahum AAathaba alssaAAeeri",
+    "surah": "Al-Mulk",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-la-qad",
+      "meaning": "and indeed; and certainly",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be powerful, to have the ability; fate, decree"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "indeed, certainly (emphatic particle)"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "has happened, occurred (past tense marker emphasizing completion)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "زَيَّنَّا",
+      "transliteration": "zayyanā",
+      "meaning": "we have beautified; we adorned",
+      "root": {
+        "letters": "ز-ي-ن",
+        "meaning": "to be beautiful; to adorn; to make fair"
+      },
+      "components": [
+        {
+          "arabic": "زَيَّن",
+          "meaning": "we beautified/adorned (verb form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us; we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّمَاءَ",
+      "transliteration": "as-samāʾa",
+      "meaning": "the heaven; the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise; elevation; height"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the nearest; the world",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble; to draw near, intimacy"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دُنْيَا",
+          "meaning": "the world, life; what is near at hand"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِمَصَابِيحَ",
+      "transliteration": "bi-maṣābīḥa",
+      "meaning": "with lamps; with stars (lamps)",
+      "root": {
+        "letters": "ṣ-b-ḥ",
+        "meaning": "to shine, to be bright; dawn"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَصَابِيحَ",
+          "meaning": "lamps; stars"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَجَعَلْنَاهَا",
+      "transliteration": "wa-jaʿalnāhā",
+      "meaning": "and we made them; and we turned them into",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "we made"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رُجُومًا",
+      "transliteration": "rujūman",
+      "meaning": "stones; missiles; things thrown",
+      "root": {
+        "letters": "ر-ج-م",
+        "meaning": "to throw; to cast back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لِّلشَّيَاطِينِ",
+      "transliteration": "li-sh-shayāṭīni",
+      "meaning": "for the devils; for demons",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to stray, to err, to be rebellious"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "شَّيَاطِينِ",
+          "meaning": "devils, demons"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَأَعْتَدْنَا",
+      "transliteration": "wa-aʿtadnā",
+      "meaning": "and we prepared; and we made ready",
+      "root": {
+        "letters": "ع-ت-د",
+        "meaning": "to prepare, to equip, to provide"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَعْتَدْنَا",
+          "meaning": "we prepared, we made ready"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them; to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging; to have, own"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَذَابَ",
+      "transliteration": "ʿadhāba",
+      "meaning": "punishment; torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish; to be severe or painful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "السَّعِيرِ",
+      "transliteration": "as-saʿīri",
+      "meaning": "the Blaze; the flaming fire",
+      "root": {
+        "letters": "س-ع-ر",
+        "meaning": "to burn; to blaze, become heated"
+      },
+      "components": [
+        {
+          "arabic": "السَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِير",
+          "meaning": "fire; blaze, burning flame (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-certainly we-have-beautified the-heaven the-nearest with-lamps and-we-made-them stones for-the-devils and-we-prepared for-them punishment the-Blaze"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

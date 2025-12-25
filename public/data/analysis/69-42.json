@@ -1,0 +1,136 @@
+{
+  "verseId": "69:42",
+  "verse": {
+    "arabic": "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
+    "transliteration": "Wala biqawli kahinin qaleelan ma tathakkaroona",
+    "surah": "Al-Haqqah",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not / nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, not to be"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not / nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِقَوْلِ",
+      "transliteration": "bi-qawli",
+      "meaning": "by/with a word",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "قَوْلِ",
+          "meaning": "a word (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَاهِنٍ",
+      "transliteration": "kāhinin",
+      "meaning": "soothsayer / diviner",
+      "root": {
+        "letters": "ك-ح-ن",
+        "meaning": "to foresee, to divine, to be skilled in prophecy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamūna",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you know (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "little / a small amount",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, small in quantity or number; to diminish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what / that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَذَكَّرُونَ",
+      "transliteration": "tad̲hakkurūna",
+      "meaning": "you remember / you recall",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall, to be mindful"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the 2nd person masculine plural imperfective/present tense form"
+        },
+        {
+          "arabic": "ذَكَّرُ",
+          "meaning": "to remind, to cause to remember (Form IV verb root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the 2nd person masculine plural pronoun (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not by/with word of-a soothsayer [pause marker] little what you remember"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

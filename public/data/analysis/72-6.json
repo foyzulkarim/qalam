@@ -1,0 +1,188 @@
+{
+  "verseId": "72:6",
+  "verse": {
+    "arabic": "وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا",
+    "transliteration": "Waannahu kana rijalun mina alinsi yaAAoothoona birijalin mina aljinni fazadoohum rahaqan",
+    "surah": "Al-Jinn",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّهُ",
+      "transliteration": "ʾannahu",
+      "meaning": "that he/it",
+      "root": {
+        "letters": "ح-ن-و",
+        "meaning": "to incline, lean towards, be in a state of"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was/were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رِجَالٌ",
+      "transliteration": "rijālun",
+      "meaning": "men",
+      "root": {
+        "letters": "ر-ج-ل",
+        "meaning": "to return, to go back, firmness, masculinity (related to strength and ability)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to withhold, to prevent, source/origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْإِنسِ",
+      "transliteration": "al-ʾins",
+      "meaning": "mankind/humanity",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be familiar, intimate; to associate closely with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَعُوذُونَ",
+      "transliteration": "yaʿūdhūn",
+      "meaning": "they seek refuge",
+      "root": {
+        "letters": "ع-ذ-ي",
+        "meaning": "to seek refuge, to ask protection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural"
+        },
+        {
+          "arabic": "عَاذُوا",
+          "meaning": "they sought refuge (verbal root)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating first person plural pronoun (we/us)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِرِجَالٍ",
+      "transliteration": "bi-rijālin",
+      "meaning": "in/with men",
+      "root": {
+        "letters": "ر-ج-ل",
+        "meaning": "to return, to step back; man (as one who returns to the earth)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "رِجَالٍ",
+          "meaning": "men (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or be separate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْجِنِّ",
+      "transliteration": "al-jinn",
+      "meaning": "the jinn",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to veil, to be concealed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَزَادُوهُمْ",
+      "transliteration": "fa-zādūhum",
+      "meaning": "so they increased them",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "زَادُوهُمْ",
+          "meaning": "they increased them (verb + pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "رَهَقًا",
+      "transliteration": "rahqan",
+      "meaning": "burden/exhaustion/stress",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "weakness, exhaustion, being burdened; to be overcome or weakened"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that he/it was men from the mankind they-seek refuge in/with men from the jinn so-they increased-them burden"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

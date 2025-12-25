@@ -1,0 +1,127 @@
+{
+  "verseId": "69:32",
+  "verse": {
+    "arabic": "ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ",
+    "transliteration": "Thumma fee silsilatin tharAAuha sabAAoona thiraAAan faoslukoohu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set; subsequently"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سِلْسِلَةٍ",
+      "transliteration": "silsilatin",
+      "meaning": "a chain",
+      "root": {
+        "letters": "س-ل-س",
+        "meaning": "to be smooth, to flow; to connect, link"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذَرْعُهَا",
+      "transliteration": "dharʿuhā",
+      "meaning": "its length, the measure of its width",
+      "root": {
+        "letters": "ض-ر-ع",
+        "meaning": "need, supplication; wide, broad"
+      },
+      "components": [
+        {
+          "arabic": "ذَرْعُ",
+          "meaning": "the length, measure; width"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سَبْعُونَ",
+      "transliteration": "sabʿūna",
+      "meaning": "seventy",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "to follow, to go after; intensity, abundance"
+      },
+      "components": [
+        {
+          "arabic": "سبع",
+          "meaning": "seven"
+        },
+        {
+          "arabic": "ون",
+          "meaning": "denoting tens; suffix indicating the number seventy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ذِرَاعًا",
+      "transliteration": "dhirāʿan",
+      "meaning": "a cubit, arm's length",
+      "root": {
+        "letters": "ض-ر-ع",
+        "meaning": "to need, to beseech; broad area, expanse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَاسْلُكُوهُ",
+      "transliteration": "faslukūhu",
+      "meaning": "insert him, drive him into it",
+      "root": {
+        "letters": "س-ل-ك",
+        "meaning": "to proceed, to follow a path; to smooth or make easy"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating command or exhortation"
+        },
+        {
+          "arabic": "اسْلُكُ",
+          "meaning": "proceed, enter (II form verb)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "pronoun suffix, 'him'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-in a-chain its-length seventy cubits insert-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

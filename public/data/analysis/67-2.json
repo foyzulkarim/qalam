@@ -1,0 +1,211 @@
+{
+  "verseId": "67:2",
+  "verse": {
+    "arabic": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ",
+    "transliteration": "Allathee khalaqa almawta waalhayata liyabluwakum ayyukum ahsanu AAamalan wahuwa alAAazeezu alghafooru",
+    "surah": "Al-Mulk",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the one who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to adhere to, to belong to; possessing qualities"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "one who; possessor of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَوْتَ",
+      "transliteration": "al-mawta",
+      "meaning": "death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, cessation of life"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْحَيَاةَ",
+      "transliteration": "al-ḥayāta",
+      "meaning": "life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِيَبْلُوَكُمْ",
+      "transliteration": "li-yabluwakum",
+      "meaning": "to test you",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to test, try, or examine; to be afflicted"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يَبْلُوَكُمْ",
+          "meaning": "He tests you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَيُّكُمْ",
+      "transliteration": "ayyukum",
+      "meaning": "which of you",
+      "root": {
+        "letters": "أ-ي-ك",
+        "meaning": "to be, existence; pertaining to someone or something"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "which, any"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَحْسَنُ",
+      "transliteration": "aḥsanu",
+      "meaning": "better/best",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "goodness, beauty, excellence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the definite article 'the'"
+        },
+        {
+          "arabic": "حْسَنُ",
+          "meaning": "good, beautiful, excellent (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَمَلًا",
+      "transliteration": "ʿamalan",
+      "meaning": "deed/work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, exertion, labor"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "and He is",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to be, existence, essence; also desire or affection (though less common in this context)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He is (pronoun and verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْعَزِيزُ",
+      "transliteration": "al-ʿazīzu",
+      "meaning": "the Exalted in Might",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "power, strength, might; to be strong"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَزِيز",
+          "meaning": "mighty, exalted in power"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْغَفُورُ",
+      "transliteration": "al-ghafūru",
+      "meaning": "the Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "غَفُورٌ",
+          "meaning": "Forgiving (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-one-who created death and life to-test you which-of-you better deed/work and-He is the-Exalted-in-Might the-Forgiving"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

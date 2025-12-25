@@ -1,0 +1,50 @@
+{
+  "verseId": "69:2",
+  "verse": {
+    "arabic": "مَا الْحَاقَّةُ",
+    "transliteration": "Ma alhaqqatu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْحَاقَّةُ",
+      "transliteration": "al-ḥāqqah(u)",
+      "meaning": "the Inevitable Reality, the Truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, to exist in reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَاقَّة",
+          "meaning": "inevitable, real, true; the Reality"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "what - the Inevitable Reality?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

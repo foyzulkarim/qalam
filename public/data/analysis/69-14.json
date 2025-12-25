@@ -1,0 +1,125 @@
+{
+  "verseId": "69:14",
+  "verse": {
+    "arabic": "وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً",
+    "transliteration": "Wahumilati alardu waaljibalu fadukkata dakkatan wahidatan",
+    "surah": "Al-Haqqah",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَحُمِلَتِ",
+      "transliteration": "wa ḥumilatī",
+      "meaning": "and it was carried/lifted (feminine)",
+      "root": {
+        "letters": "ح-م-ل",
+        "meaning": "to bear, carry, lift; to endure, tolerate"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حُمِلَتِ",
+          "meaning": "it was carried/lifted (feminine singular, passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالْجِبَالُ",
+      "transliteration": "wa-l-jibālu",
+      "meaning": "and the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise up; strength, power"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِبَالُ",
+          "meaning": "mountains (plural of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَدُكَّتَا",
+      "transliteration": "fa-dukkatā",
+      "meaning": "so they were leveled/shattered (dual)",
+      "root": {
+        "letters": "د-ك-ك",
+        "meaning": "to crush, to break down, to pulverize"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "دُكَّتَا",
+          "meaning": "they were leveled/shattered (dual passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "دَكَّةً",
+      "transliteration": "dakkatān",
+      "meaning": "leveling/shattering (state)",
+      "root": {
+        "letters": "د-ك-ك",
+        "meaning": "to crush, to break down, to pulverize; forceful impact or destruction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَاحِدَةً",
+      "transliteration": "wāḥidatan",
+      "meaning": "one/single (state)",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, to unite, oneness"
+      },
+      "components": [
+        {
+          "arabic": "وَاحد",
+          "meaning": "one (masculine)"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker, indefinite accusative case ending"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it-was-carried the-earth and-the-mountains so-they-were-leveled leveling one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

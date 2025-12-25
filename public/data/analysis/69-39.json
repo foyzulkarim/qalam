@@ -1,0 +1,71 @@
+{
+  "verseId": "69:39",
+  "verse": {
+    "arabic": "وَمَا لَا تُبْصِرُونَ",
+    "transliteration": "Wama la tubsiroona",
+    "surah": "Al-Haqqah",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, from which derive notions of questioning and negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُبْصِرُونَ",
+      "transliteration": "tubṣirūna",
+      "meaning": "you see",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural present tense"
+        },
+        {
+          "arabic": "بَصَر",
+          "meaning": "seeing, vision"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - what - not - you-all - see"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

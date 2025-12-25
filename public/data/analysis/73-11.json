@@ -1,0 +1,134 @@
+{
+  "verseId": "73:11",
+  "verse": {
+    "arabic": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+    "transliteration": "Watharnee waalmukaththibeena olee alnnaAAmati wamahhilhum qaleelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَرْنِي",
+      "transliteration": "dharnī",
+      "meaning": "leave Me",
+      "root": {
+        "letters": "ذ-ر-ي",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالْمُكَذِّبِينَ",
+      "transliteration": "wal-mukadhdhibīna",
+      "meaning": "and the deniers",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمُكَذِّبِينَ",
+          "meaning": "the deniers (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُولِي",
+      "transliteration": "ʾūlī",
+      "meaning": "possessors of / those having",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to befriend, to protect, to govern; to turn away from something"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "the prefix indicating possessors of/those having (plural)"
+        },
+        {
+          "arabic": "لِي",
+          "meaning": "belonging to, possessing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "النَّعْمَةِ",
+      "transliteration": "an-naʿmati",
+      "meaning": "the grace / the ease [in life]",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, agreeable; kindness, benefit"
+      },
+      "components": [
+        {
+          "arabic": "النَّعْمَةِ",
+          "meaning": "the grace, the ease [in life]"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَمَهِّلْهُمْ",
+      "transliteration": "wa-mahhilhum",
+      "meaning": "and allow them respite",
+      "root": {
+        "letters": "م-ه-ل",
+        "meaning": "to delay, respite, to allow time"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَهِّلْهُمْ",
+          "meaning": "allow them respite, grant them time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "a little",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to diminish, scarcity"
+      },
+      "components": [
+        {
+          "arabic": "قَلِيل",
+          "meaning": "few, little (masculine singular)"
+        },
+        {
+          "arabic": "ـًا",
+          "meaning": "accusative ending (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-leave Me-and-the-deniers possessors-of the-grace and-allow-them respite a-little"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

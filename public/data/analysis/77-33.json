@@ -1,0 +1,65 @@
+{
+  "verseId": "77:33",
+  "verse": {
+    "arabic": "كَأَنَّهُ جِمَالَتٌ صُفْرٌ",
+    "transliteration": "Kaannahu jimalatun sufrun",
+    "surah": "Al-Mursalat",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَأَنَّهُ",
+      "transliteration": "kaʾannahu",
+      "meaning": "as if it were, like its being",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "to be, to exist, essence"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "as, like"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it, he (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جِمَالَتٌ",
+      "transliteration": "jimālatun",
+      "meaning": "camels (plural)",
+      "root": {
+        "letters": "ج-م-ل",
+        "meaning": "beauty, grace; to be beautiful or graceful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "صُفْرٌ",
+      "transliteration": "ṣufrun",
+      "meaning": "yellow, yellowish; also used for black (in reference to camels)",
+      "root": {
+        "letters": "ص-ف-ر",
+        "meaning": "to be yellow; to become pale or clear, to turn yellow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "as-if-it-were - camels - yellow/black"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

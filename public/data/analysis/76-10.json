@@ -1,0 +1,108 @@
+{
+  "verseId": "76:10",
+  "verse": {
+    "arabic": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+    "transliteration": "Inna nakhafu min rabbina yawman AAaboosan qamtareeran",
+    "surah": "Al-Insan",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, surely, verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, surely, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَخَافُ",
+      "transliteration": "nakhāfu",
+      "meaning": "We fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "خَافُ",
+          "meaning": "to fear (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن رَّبِّنَا",
+      "transliteration": "min rabbinā",
+      "meaning": "From our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّبِّنَا",
+          "meaning": "our Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "A day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as something that passes)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَبُوسًا",
+      "transliteration": "ʿabūsan",
+      "meaning": "Austerely, grimly",
+      "root": {
+        "letters": "ع-ب-س",
+        "meaning": "to frown, to look sternly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَمْطَرِيرًا",
+      "transliteration": "qamṭarīran",
+      "meaning": "Distressful, severe",
+      "root": {
+        "letters": "ق-م-ط",
+        "meaning": "To bind, to restrain tightly; constriction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we fear from our-Lord a day austerely distressful."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

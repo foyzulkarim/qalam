@@ -1,0 +1,50 @@
+{
+  "verseId": "74:2",
+  "verse": {
+    "arabic": "قُمْ فَأَنذِرْ",
+    "transliteration": "Qum faanthir",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُمْ",
+      "transliteration": "qum",
+      "meaning": "Rise, stand up",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "To rise, to stand up; firmness, stability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَأَنذِرْ",
+      "transliteration": "faʾandhir",
+      "meaning": "So warn, therefore warn",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, therefore (particle of emphasis)"
+        },
+        {
+          "arabic": "أَنذِرْ",
+          "meaning": "warn! (imperative verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Rise-then warn"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

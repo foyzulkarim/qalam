@@ -1,0 +1,75 @@
+{
+  "verseId": "68:6",
+  "verse": {
+    "arabic": "بِأَييِّكُمُ الْمَفْتُونُ",
+    "transliteration": "Biayyikumu almaftoonu",
+    "surah": "Al-Qalam",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِأَيِّي",
+      "transliteration": "bi-ʾayyī",
+      "meaning": "With which (of you)",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "relativity, pertaining to something; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَيِّي",
+          "meaning": "which (of you); belonging to whom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُمُ",
+      "transliteration": "kumū",
+      "meaning": "[pronoun suffix] of you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; essence, being"
+      },
+      "components": [
+        {
+          "arabic": "كُمْ",
+          "meaning": "of you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَفْتُونُ",
+      "transliteration": "al-maftūnu",
+      "meaning": "The afflicted, the possessed",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "to be tempted, tried, or afflicted; to deviate or stray"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَفْتُون",
+          "meaning": "passive participle of فَتَنَ, meaning afflicted or possessed"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "with-which of-you the-afflicted"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

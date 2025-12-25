@@ -1,0 +1,123 @@
+{
+  "verseId": "73:10",
+  "verse": {
+    "arabic": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+    "transliteration": "Waisbir AAala ma yaqooloona waohjurhum hajran jameelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاصْبِرْ",
+      "transliteration": "wa-ṣbir",
+      "meaning": "and be patient",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to restrain oneself, patience"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اصْبِرْ",
+          "meaning": "be patient (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be abundant, to flow; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَقُولُونَ",
+      "transliteration": "yaqūlūn",
+      "meaning": "they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "قُولُونَ",
+          "meaning": "say (verb, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَاهْجُرْهُمْ",
+      "transliteration": "wa-hjurhum",
+      "meaning": "and avoid them",
+      "root": {
+        "letters": "ه-ج-ر",
+        "meaning": "to abandon, to shun, to leave behind"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اهْجُرْهُمْ",
+          "meaning": "avoid them (verb command)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هَجْرًا",
+      "transliteration": "hajran",
+      "meaning": "avoidance, forsaking",
+      "root": {
+        "letters": "ح-ج-ر",
+        "meaning": "to leave, to abandon, to restrain or prevent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جَمِيلًا",
+      "transliteration": "jamīlan",
+      "meaning": "beautiful, gracious",
+      "root": {
+        "letters": "ج-م-ل",
+        "meaning": "beauty, grace, perfection"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-be-patient - upon - what - they-say - and-avoid-them - avoidance - beautiful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

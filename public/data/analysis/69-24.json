@@ -1,0 +1,160 @@
+{
+  "verseId": "69:24",
+  "verse": {
+    "arabic": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ",
+    "transliteration": "Kuloo waishraboo haneean bima aslaftum fee alayyami alkhaliyati",
+    "surah": "Al-Haqqah",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كُلُوا",
+      "transliteration": "kulū",
+      "meaning": "Eat (imperative, plural)",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat, to devour"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اشْرَبُوا",
+      "transliteration": "ishrabū",
+      "meaning": "Drink (imperative, plural)",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink; to absorb; to sip"
+      },
+      "components": [
+        {
+          "arabic": "اِشْرَ",
+          "meaning": "prefix indicating the imperative mood form for plural"
+        },
+        {
+          "arabic": "بُوا",
+          "meaning": "suffix indicating the plural imperative form (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هَنِيئًا",
+      "transliteration": "hanī’an",
+      "meaning": "Pleasantly, with enjoyment (adverb)",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be pleasant, agreeable; to prosper"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "With what, for what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to cease existence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَسْلَفْتُمْ",
+      "transliteration": "aslaftum",
+      "meaning": "You put forth, you sent forward (past tense, plural)",
+      "root": {
+        "letters": "س-ل-ف",
+        "meaning": "to advance, to precede; to give beforehand or loan"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past tense, often with an emphatic tone"
+        },
+        {
+          "arabic": "سَلَفْتُمْ",
+          "meaning": "you all advanced/sent forward (past tense, second person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; to be contained in."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْأَيَّامِ",
+      "transliteration": "al-ayyāmi",
+      "meaning": "The days",
+      "root": {
+        "letters": "أ-ي-م",
+        "meaning": "to live, be alive; to spend time; a day"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَيَّامِ",
+          "meaning": "days (genitive plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْخَالِيَةِ",
+      "transliteration": "al-khāliyah",
+      "meaning": "The past, that have passed",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to remain alone, to pass away"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَالِيَة",
+          "meaning": "past, that which has passed; time gone by"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Eat-you and drink-you pleasantly for-what put-forth-you in the days the past"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

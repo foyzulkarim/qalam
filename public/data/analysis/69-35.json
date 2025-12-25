@@ -1,0 +1,110 @@
+{
+  "verseId": "69:35",
+  "verse": {
+    "arabic": "فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ",
+    "transliteration": "Falaysa lahu alyawma hahuna hameemun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَيْسَ",
+      "transliteration": "falaysa",
+      "meaning": "so is not; therefore there is not",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be weak, deficient; to not exist"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so; therefore (particle of emphasis)"
+        },
+        {
+          "arabic": "لَيْسَ",
+          "meaning": "is not; there is not (negation of existence)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُ",
+      "transliteration": "lahū",
+      "meaning": "for him; to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to; possession; ownership"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for; to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him; he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْيَوْمَ",
+      "transliteration": "al-yawma",
+      "meaning": "today, on this day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "day (accusative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هَاهُنَا",
+      "transliteration": "hāhunā",
+      "meaning": "here, in this place",
+      "root": {
+        "letters": "هـ-ن-و",
+        "meaning": "existence, being present"
+      },
+      "components": [
+        {
+          "arabic": "هَ",
+          "meaning": "interjection particle indicating attention or presence"
+        },
+        {
+          "arabic": "هُنَا",
+          "meaning": "this place, here"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَمِيمٌ",
+      "transliteration": "ḥamīmun",
+      "meaning": "intimate friend; close companion",
+      "root": {
+        "letters": "ح-م-و",
+        "meaning": "intensity, warmth; fondness, closeness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-is-not for-him today here any intimate-friend"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

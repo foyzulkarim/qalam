@@ -1,0 +1,85 @@
+{
+  "verseId": "68:36",
+  "verse": {
+    "arabic": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+    "transliteration": "Ma lakum kayfa tahkumoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "existence, being, water (related to the concept of questioning existence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "to you, for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; condition, state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَحْكُمُونَ",
+      "transliteration": "taḥkumūn",
+      "meaning": "you judge",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule, to arbitrate"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense, 'you'"
+        },
+        {
+          "arabic": "حَـ",
+          "meaning": "indicates judgment or ruling"
+        },
+        {
+          "arabic": "ـكُمُونَ",
+          "meaning": "suffix indicating plural 'you' in the present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "what-to you how do-you judge?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

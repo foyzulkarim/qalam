@@ -1,0 +1,92 @@
+{
+  "verseId": "73:3",
+  "verse": {
+    "arabic": "نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا",
+    "transliteration": "Nisfahu awi onqus minhu qaleelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نِّصْفَهُ",
+      "transliteration": "niṣfahu",
+      "meaning": "its half",
+      "root": {
+        "letters": "ن-ص-ف",
+        "meaning": "to divide in half, portion, share"
+      },
+      "components": [
+        {
+          "arabic": "نِصْف",
+          "meaning": "half, portion"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his/its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire; or (as a conjunction)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "انقُصْ",
+      "transliteration": "inquṣ",
+      "meaning": "subtract/reduce",
+      "root": {
+        "letters": "ق-ص-ع",
+        "meaning": "to cut, to diminish, to reduce"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "a little/small amount",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to decrease, to lessen"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "its-half - or - subtract - from-it - a-little"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

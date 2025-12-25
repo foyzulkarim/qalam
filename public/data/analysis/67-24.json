@@ -1,0 +1,151 @@
+{
+  "verseId": "67:24",
+  "verse": {
+    "arabic": "قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+    "transliteration": "Qul huwa allathee tharaakum fee alardi wailayhi tuhsharoona",
+    "surah": "Al-Mulk",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; to fall or descend (related to the idea of something having a defined existence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "The One who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere to, possess a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "owner of, possessor of (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذَرَأَكُمْ",
+      "transliteration": "dharaʾakum",
+      "meaning": "has multiplied you/scattered you",
+      "root": {
+        "letters": "ذ-ر-أ",
+        "meaning": "to create, to originate, to multiply"
+      },
+      "components": [
+        {
+          "arabic": "ذَرَأَ",
+          "meaning": "has multiplied, has scattered"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/throughout",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in/into; abundance, overflow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَإِلَيْهِ",
+      "transliteration": "waʾilayhi",
+      "meaning": "and to Him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to resort, to go towards"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تُحْشَرُونَ",
+      "transliteration": "tuḥsharūn",
+      "meaning": "you will be gathered",
+      "root": {
+        "letters": "ح-ش-ر",
+        "meaning": "to gather, to collect, to assemble"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "prefix indicating the passive voice or a form of the verb in Form II (تفعيل)"
+        },
+        {
+          "arabic": "حَشَر",
+          "meaning": "to gather, to collect"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural 'you' (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - He - The One who - has multiplied you - in/throughout - the earth - and to Him - you will be gathered."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

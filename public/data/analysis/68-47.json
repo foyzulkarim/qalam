@@ -1,0 +1,105 @@
+{
+  "verseId": "68:47",
+  "verse": {
+    "arabic": "أَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+    "transliteration": "Am AAindahumu alghaybu fahum yaktuboona",
+    "surah": "Al-Qalam",
+    "verseNumber": 47
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, whether, but",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to wish, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عِندَهُمُ",
+      "transliteration": "ʿindahum",
+      "meaning": "with them, at their possession",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to be present, to have, to possess"
+      },
+      "components": [
+        {
+          "arabic": "عِندَ",
+          "meaning": "with, at the presence of"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْغَيْبُ",
+      "transliteration": "al-ghaybu",
+      "meaning": "the unseen, the hidden thing",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be absent, to go away, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَهُمْ",
+      "transliteration": "fahum",
+      "meaning": "so they, then they",
+      "root": {
+        "letters": "ف-ه-م",
+        "meaning": "to understand, to comprehend, to know"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَكْتُبُونَ",
+      "transliteration": "yaktubūna",
+      "meaning": "they write",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix indicating plural)"
+        },
+        {
+          "arabic": "كُتُب",
+          "meaning": "writing (verbal noun/form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "present tense, active voice (suffix indicating plural actors)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-with them the unseen so they write"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "verseId": "70:38",
+  "verse": {
+    "arabic": "أَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+    "transliteration": "AyatmaAAu kullu imriin minhum an yudkhala jannata naAAeemin",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَيَطْمَعُ",
+      "transliteration": "ʾayaṭmaʿu",
+      "meaning": "Does he/it hope, Does he/it aspire?",
+      "root": {
+        "letters": "ط-م-ع",
+        "meaning": "To desire, to hope for something, to aspire"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "يَطْمَعُ",
+          "meaning": "He hopes, he aspires (verb in the present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُلُّ",
+      "transliteration": "kullu",
+      "meaning": "Every, All",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness, allness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "امْرِئٍ",
+      "transliteration": "imriʾin",
+      "meaning": "Person, Man",
+      "root": {
+        "letters": "م-ر-أ",
+        "meaning": "To see, to know, man (as one who is known)"
+      },
+      "components": [
+        {
+          "arabic": "اِمْرِءٍ",
+          "meaning": "Man, person (indefinite nominative singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "From them, Among them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, among"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَن يُدْخَلَ",
+      "transliteration": "ʾan yudkhala",
+      "meaning": "[That] he enters, To enter",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, to"
+        },
+        {
+          "arabic": "يُدْخَلَ",
+          "meaning": "he enters (subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَنَّةَ",
+      "transliteration": "jannata",
+      "meaning": "Garden, Paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also lush growth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَعِيمٍ",
+      "transliteration": "naʿīmin",
+      "meaning": "Pleasure, Bliss",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "To enjoy, to be comfortable, pleasantness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Does-hope every person from-them [that] he enters garden pleasure?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

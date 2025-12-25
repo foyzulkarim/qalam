@@ -1,0 +1,58 @@
+{
+  "verseId": "68:27",
+  "verse": {
+    "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+    "transliteration": "Bal nahnu mahroomoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "rather, but",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, to incline, to be directed towards"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَحْرُومُونَ",
+      "transliteration": "maḥrūmūn",
+      "meaning": "deprived, prevented, denied",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to be forbidden, prevented, or deprived"
+      },
+      "components": [
+        {
+          "arabic": "مَحْرُوم",
+          "meaning": "deprived (singular)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural masculine ending, indicating a group of deprived people"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "rather- we - deprived"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

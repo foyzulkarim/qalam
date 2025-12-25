@@ -1,0 +1,238 @@
+{
+  "verseId": "67:19",
+  "verse": {
+    "arabic": "أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَـٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ",
+    "transliteration": "Awalam yaraw ila alttayri fawqahum saffatin wayaqbidna ma yumsikuhunna illa alrrahmanu innahu bikulli shayin baseerun",
+    "surah": "Al-Mulk",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوَلَمْ",
+      "transliteration": "ʾawalam",
+      "meaning": "Did they not?",
+      "root": {
+        "letters": "و-ل-م",
+        "meaning": "to turn away, to neglect, to refuse, to not accept"
+      },
+      "components": [
+        {
+          "arabic": "أَو",
+          "meaning": "or"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَرَوْا",
+      "transliteration": "yaraw",
+      "meaning": "See",
+      "root": {
+        "letters": "ر-ي-و",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "To",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "return to, approach, incline towards"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الطَّيْرِ",
+      "transliteration": "aṭ-ṭayri",
+      "meaning": "The birds",
+      "root": {
+        "letters": "ط-ي-ر",
+        "meaning": "to fly, bird"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَوْقَهُمْ",
+      "transliteration": "fawqahum",
+      "meaning": "Above them",
+      "root": {
+        "letters": "ف-و-ق",
+        "meaning": "To be above, to excel, to surpass"
+      },
+      "components": [
+        {
+          "arabic": "فَوْقَ",
+          "meaning": "Above"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "They (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "صَافَّاتٍ",
+      "transliteration": "ṣāffāt",
+      "meaning": "Outspread (wings)",
+      "root": {
+        "letters": "ص-ف-و",
+        "meaning": "to arrange, to align, to spread out; purity, clarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَيَقْبِضْنَ",
+      "transliteration": "wayaqbiḍna",
+      "meaning": "And they fold (wings)",
+      "root": {
+        "letters": "ق-ب-ض",
+        "meaning": "to grasp, to seize, to hold tightly; to contract, to fold"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقْبِضْنَ",
+          "meaning": "they fold (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What/That which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also related to water and questioning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُمْسِكُهُنَّ",
+      "transliteration": "yumskuhunna",
+      "meaning": "Holds them",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "To hold, restrain, control; to keep possession of"
+      },
+      "components": [
+        {
+          "arabic": "يُمۡسِكُ",
+          "meaning": "He holds, He keeps"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "Them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "Except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to deny, to refuse, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الرَّحْمَـٰنُ",
+      "transliteration": "ar-raḥmānu",
+      "meaning": "The Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahū",
+      "meaning": "Indeed He",
+      "root": {
+        "letters": "هـ-نـ-أ",
+        "meaning": "To be, to exist; tranquility, rest"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِكُلِّ",
+      "transliteration": "bikulli",
+      "meaning": "With all/Of every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to be sufficient, entirety"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "كُلِّ",
+          "meaning": "all, every (indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "Thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be non-existent, to lack something, to have no essential nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بَصِيرٌ",
+      "transliteration": "baṣīrun",
+      "meaning": "Seeing",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to be aware, to understand"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-they-not see to the birds above-them outspread and-they-fold what holds-them except The-Most-Merciful indeed-He with-all thing Seeing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

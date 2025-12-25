@@ -1,0 +1,115 @@
+{
+  "verseId": "69:11",
+  "verse": {
+    "arabic": "إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ",
+    "transliteration": "Inna lamma tagha almao hamalnakum fee aljariyati",
+    "surah": "Al-Haqqah",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily, truly (emphasizing the following statement)",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence; used to form emphatic particles"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces an emphatic statement)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (first-person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمَّا",
+      "transliteration": "lammā",
+      "meaning": "When, as soon as, upon (temporal conjunction indicating a past event)",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "طَغَى",
+      "transliteration": "ṭaḡā",
+      "meaning": "Overflowed, transgressed, exceeded (past tense verb)",
+      "root": {
+        "letters": "ط-غ-ي",
+        "meaning": "To exceed, to overflow, to be arrogant"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَاءُ",
+      "transliteration": "al-māʾu",
+      "meaning": "The water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, fluidity, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَمَلْنَاكُمْ",
+      "transliteration": "ḥamalnākum",
+      "meaning": "We carried you (plural)",
+      "root": {
+        "letters": "ح-م-ل",
+        "meaning": "to bear, to carry"
+      },
+      "components": [
+        {
+          "arabic": "حَمَلْ",
+          "meaning": "We carried (verb, first person plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, upon (preposition)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْجَارِيَةِ",
+      "transliteration": "al-jāriyah(ti)",
+      "meaning": "The sailing ship, the vessel",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "To flow, to run, to move swiftly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-verily when overflowed the-water We-carried you-all in the-sailing-ship"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

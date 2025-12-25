@@ -1,0 +1,162 @@
+{
+  "verseId": "68:42",
+  "verse": {
+    "arabic": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ",
+    "transliteration": "Yawma yukshafu AAan saqin wayudAAawna ila alssujoodi fala yastateeAAoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as something that passes or exists"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُكْشَفُ",
+      "transliteration": "yukshafu",
+      "meaning": "is uncovered, is revealed",
+      "root": {
+        "letters": "ك-ش-ف",
+        "meaning": "to uncover, to reveal, to expose"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker/prefix indicating 'is being'"
+        },
+        {
+          "arabic": "كُشِفَ",
+          "meaning": "passive voice of the verb كشف (to uncover/reveal)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "tanwīn al-fatḥ (indicates indefiniteness and nominative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "from, about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be away from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَاقٍ",
+      "transliteration": "sāqin",
+      "meaning": "shin, leg",
+      "root": {
+        "letters": "س-ق-و",
+        "meaning": "to drink, to flow, to pour forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَيُدْعَوْنَ",
+      "transliteration": "wa yudʿawna",
+      "meaning": "and they are invited",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to summon"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُدْعَوْنَ",
+          "meaning": "they are invited (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to approach, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "السُّجُودِ",
+      "transliteration": "as-sujūdi",
+      "meaning": "the prostration",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to lower oneself in humility"
+      },
+      "components": [
+        {
+          "arabic": "السِّـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جُودِ",
+          "meaning": "prostration (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "so not, then they are unable",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, unable; to fail or perish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَسْتَطِيعُونَ",
+      "transliteration": "yastaṭīʿūna",
+      "meaning": "they are able, they can",
+      "root": {
+        "letters": "ع-ط-و",
+        "meaning": "to possess strength, to be able"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "they seek, they attempt (prefix indicating iterative or habitual action)"
+        },
+        {
+          "arabic": "طِيعُ",
+          "meaning": "power, ability; state of being able"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "they (masculine plural pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day - is uncovered - from - shin - and they are invited - to - the prostration - so not - they are able"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

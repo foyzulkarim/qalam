@@ -1,0 +1,99 @@
+{
+  "verseId": "69:52",
+  "verse": {
+    "arabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+    "transliteration": "Fasabbih biismi rabbika alAAatheemi",
+    "surah": "Al-Haqqah",
+    "verseNumber": 52
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَبِّحْ",
+      "transliteration": "fasabbiḥ",
+      "meaning": "So exalt, then glorify",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "swim, flow; to extol, glorify, praise"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle indicating sequence or emphasis)"
+        },
+        {
+          "arabic": "سَبِّحْ",
+          "meaning": "Exalt, glorify (imperative verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِاسْمِ",
+      "transliteration": "bismī",
+      "meaning": "With the name of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to elevate, to be high; excellence, renown"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "اِسْمِ",
+          "meaning": "the name of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَظِيمِ",
+      "transliteration": "al-ʿaẓīm",
+      "meaning": "The Great, The Magnificent",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, to be magnificent, size, importance"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيم",
+          "meaning": "great, magnificent"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-exalt [then] with the name of your Lord The-Great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

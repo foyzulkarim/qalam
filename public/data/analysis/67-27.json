@@ -1,0 +1,238 @@
+{
+  "verseId": "67:27",
+  "verse": {
+    "arabic": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ هَـٰذَا الَّذِي كُنتُم بِهِ تَدَّعُونَ",
+    "transliteration": "Falamma raawhu zulfatan seeat wujoohu allatheena kafaroo waqeela hatha allathee kuntum bihi taddaAAoona",
+    "surah": "Al-Mulk",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَمَّا",
+      "transliteration": "fa-lammā",
+      "meaning": "so when, then when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to incline towards"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَأَوْهُ",
+      "transliteration": "ra'awhu",
+      "meaning": "they saw it",
+      "root": {
+        "letters": "ر-أ-ى",
+        "meaning": "to see, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "رَأَوْ",
+          "meaning": "they saw"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "زُلْفَةً",
+      "transliteration": "zulfaṫan",
+      "meaning": "nearness, proximity",
+      "root": {
+        "letters": "ظ-ل-ف",
+        "meaning": "shade, covering, darkness; by extension, concealment or protection, and from that nearness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سِيئَتْ",
+      "transliteration": "sī'at",
+      "meaning": "bad, evil",
+      "root": {
+        "letters": "س-ي-ء",
+        "meaning": "bad, evil, poor quality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وُجُوهُ",
+      "transliteration": "wujūhu",
+      "meaning": "faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, clear, or manifest; to find something beautiful or desirable. The root also relates to direction and orientation."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to own; to be (in a state)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful or deny a blessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَقِيلَ",
+      "transliteration": "wa-qīla",
+      "meaning": "and it was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قِيلَ",
+          "meaning": "it was said (passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hāḏā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "that which, the one which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership; having qualities or attributes"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "possessing, having (relative pronoun base)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كُنتُم",
+      "transliteration": "kuntum",
+      "meaning": "you were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "to be (root form)"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "suffix indicating second person plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, ownership, accompaniment"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَدَّعُونَ",
+      "transliteration": "taddaʿūna",
+      "meaning": "you used to call for, you used to invoke",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating past habitual action (used to)"
+        },
+        {
+          "arabic": "دَعَ",
+          "meaning": "to call, to invoke"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine 'you'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-when they-saw it nearness-[a] bad faces of-those who disbelieved and-was-said this that which you were with-it call-for"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

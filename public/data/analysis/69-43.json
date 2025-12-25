@@ -1,0 +1,72 @@
+{
+  "verseId": "69:43",
+  "verse": {
+    "arabic": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ",
+    "transliteration": "Tanzeelun min rabbi alAAalameena",
+    "surah": "Al-Haqqah",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَنزِيلٌ",
+      "transliteration": "tanzīlun",
+      "meaning": "A sending down, a revelation",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "Source, origin, extraction; to decrease or diminish (related to taking *from* something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّبِّ",
+      "transliteration": "rabbi",
+      "meaning": "Lord of, Master of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīn",
+      "meaning": "The worlds, the beings",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds, beings (plural of عالم)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "A-sending-down - from - Lord-of - the-worlds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

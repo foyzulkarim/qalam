@@ -1,0 +1,69 @@
+{
+  "verseId": "69:51",
+  "verse": {
+    "arabic": "وَإِنَّهُ لَحَقُّ الْيَقِينِ",
+    "transliteration": "Wainnahu lahaqqu alyaqeeni",
+    "surah": "Al-Haqqah",
+    "verseNumber": 51
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّهُ",
+      "transliteration": "inna-hu",
+      "meaning": "indeed, he/it",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he/it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَحَقٌّ",
+      "transliteration": "laḥaqqun",
+      "meaning": "certainly truth/reality",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, to realize, to follow necessarily"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْيَقِينِ",
+      "transliteration": "al-yaqīn(i)",
+      "meaning": "the certainty/surety",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "to be firm, sure, certain; to settle firmly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed, he/it-[is] certainly truth the-certainty"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

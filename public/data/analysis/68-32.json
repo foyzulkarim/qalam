@@ -1,0 +1,183 @@
+{
+  "verseId": "68:32",
+  "verse": {
+    "arabic": "عَسَىٰ رَبُّنَا أَن يُبْدِلَنَا خَيْرًا مِّنْهَا إِنَّا إِلَىٰ رَبِّنَا رَاغِبُونَ",
+    "transliteration": "AAasa rabbuna an yubdilana khayran minha inna ila rabbina raghiboona",
+    "surah": "Al-Qalam",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَسَىٰ",
+      "transliteration": "ʿasā",
+      "meaning": "Perhaps, hopefully",
+      "root": {
+        "letters": "ع-س-ي",
+        "meaning": "To desire, to wish, to hope; weakness or inability."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبُّنَا",
+      "transliteration": "rab bunā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, master, owner"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "That, to (introduce a subjunctive clause)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "affirmation, to be"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "to exist, being"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُبَدِّلَنَا",
+      "transliteration": "yubaddil nā",
+      "meaning": "He substitutes for us",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to replace, substitute, exchange"
+      },
+      "components": [
+        {
+          "arabic": "يُبَدِّل",
+          "meaning": "He substitutes/replaces (verb, form IV)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "Better thing, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "Goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّنْهَا",
+      "transliteration": "minhā",
+      "meaning": "Than it, from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed we, surely we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be, or to happen"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, surely"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "To, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To turn, to incline towards; to be connected with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَبِّنَا",
+      "transliteration": "rab bunā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَاغِبُونَ",
+      "transliteration": "rāghibūn",
+      "meaning": "Desirous, wanting",
+      "root": {
+        "letters": "ر-غ-ب",
+        "meaning": "To want, to desire, to seek with eagerness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Perhaps-hopefully our-Lord that-to He-substitutes-for-us better thing than-it indeed-surely we to-toward our-Lord desirous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

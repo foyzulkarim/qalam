@@ -1,0 +1,50 @@
+{
+  "verseId": "74:13",
+  "verse": {
+    "arabic": "وَبَنِينَ شُهُودًا",
+    "transliteration": "Wabaneena shuhoodan",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَبَنِينَ",
+      "transliteration": "wa-banīna",
+      "meaning": "and sons",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; also, to have sons"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَنِينَ",
+          "meaning": "sons (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شُهُودًا",
+      "transliteration": "shuhūdan",
+      "meaning": "witnesses; present ones",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness; to be present; to testify"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-sons - present-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "verseId": "68:4",
+  "verse": {
+    "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+    "transliteration": "Wainnaka laAAala khuluqin AAatheemin",
+    "surah": "Al-Qalam",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنَّكَ",
+      "transliteration": "waʾinnaka",
+      "meaning": "and indeed, you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; essence, being"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَعَلَىٰ",
+      "transliteration": "laʿalā",
+      "meaning": "are upon/over",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, in order that"
+        },
+        {
+          "arabic": "عَلَىٰ",
+          "meaning": "over, upon, above"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خُلُقٍ",
+      "transliteration": "khuluqin",
+      "meaning": "a character/disposition",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to form; inherent nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَظِيمٍ",
+      "transliteration": "ʿaẓīmin",
+      "meaning": "great/immense",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, immense; power, magnitude"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed-[you] are-upon a-character great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

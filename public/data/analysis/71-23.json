@@ -1,0 +1,235 @@
+{
+  "verseId": "71:23",
+  "verse": {
+    "arabic": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+    "transliteration": "Waqaloo la tatharunna alihatakum wala tatharunna waddan wala suwaAAan wala yaghootha wayaAAooqa wanasran",
+    "surah": "Nuh",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالُوا",
+      "transliteration": "wa-qālū",
+      "meaning": "and they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, never",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَذَرُنَّ",
+      "transliteration": "tadhurunna",
+      "meaning": "you leave, you forsake (emphatic negative)",
+      "root": {
+        "letters": "ذ-ر-ن",
+        "meaning": "to leave, to forsake, to abandon"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "ذَر",
+          "meaning": "leave, forsake (root)"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "emphatic negative suffix (not)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آلِهَتَكُمْ",
+      "transliteration": "ālihatakum",
+      "meaning": "your gods",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be a god"
+      },
+      "components": [
+        {
+          "arabic": "آلِ",
+          "meaning": "family of, belonging to"
+        },
+        {
+          "arabic": "هَتَكُمْ",
+          "meaning": "your gods (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَذَرُنَّ",
+      "transliteration": "tadhurunna",
+      "meaning": "you leave, you forsake (emphatic negative)",
+      "root": {
+        "letters": "ذ-ر-ن",
+        "meaning": "to leave behind, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating first person plural (we)"
+        },
+        {
+          "arabic": "ذَرُنَّ",
+          "meaning": "you (plural) forsake/leave; emphatic negative command"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَدًّا",
+      "transliteration": "waddan",
+      "meaning": "Wadd (name of an idol)",
+      "root": {
+        "letters": "و-د-د",
+        "meaning": "love, affection, fondness; to wish or desire something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "سُوَاعًا",
+      "transliteration": "suwāʿan",
+      "meaning": "Suwa' (name of an idol)",
+      "root": {
+        "letters": "س-و-ع",
+        "meaning": "to be wide, spacious; to rise up, swell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَغُوثَ",
+      "transliteration": "yaghūtha",
+      "meaning": "Yaghuth (name of an idol)",
+      "root": {
+        "letters": "غ-ث-ا",
+        "meaning": "to help, to aid; to overstep (boundaries); excessiveness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَيَعُوقَ",
+      "transliteration": "wa-yaʿūqa",
+      "meaning": "and Ya'uq (name of an idol)",
+      "root": {
+        "letters": "ع-و-ق",
+        "meaning": "to hinder, obstruct, or resist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَنَسْرًا",
+      "transliteration": "wa-nasran",
+      "meaning": "and Nasr (name of an idol)",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, victory"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَسْرًا",
+          "meaning": "Nasr (name of an idol)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-said not-you-leave your-gods and-not-you-leave Wadd and-not-you-leave Suwa' and-not-you-leave Yaghuth and-Ya'uq and-Nasr"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

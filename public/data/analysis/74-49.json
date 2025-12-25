@@ -1,0 +1,110 @@
+{
+  "verseId": "74:49",
+  "verse": {
+    "arabic": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ",
+    "transliteration": "Fama lahum AAani alttathkirati muAArideena",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 49
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَا",
+      "transliteration": "famā",
+      "meaning": "So what, then",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, desire, will; to be able to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to have, to possess; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "from, concerning",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be away from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "التَّذْكِرَةِ",
+      "transliteration": "at-tadhkirati",
+      "meaning": "the reminder",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تَذْكِرَة",
+          "meaning": "reminder, act of reminding"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مُعْرِضِينَ",
+      "transliteration": "muʿriḍīna",
+      "meaning": "turning away",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to show, to turn away (as in refusing something presented)"
+      },
+      "components": [
+        {
+          "arabic": "مُعْرِض",
+          "meaning": "one who turns away, turning away (active participle stem)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending, indicating a group of those turning away"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-mā-lahum-ʿani-at-tadhkirati-muʿriḍīna"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

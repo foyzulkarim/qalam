@@ -1,0 +1,136 @@
+{
+  "verseId": "67:14",
+  "verse": {
+    "arabic": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ",
+    "transliteration": "Ala yaAAlamu man khalaqa wahuwa allateefu alkhabeeru",
+    "surah": "Al-Mulk",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَا",
+      "transliteration": "ʾalā",
+      "meaning": "Isn't it true that...",
+      "root": {
+        "letters": "ا-ل-ي",
+        "meaning": "to desire, to wish, to long for; to return, to revert"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "He knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense and third person singular masculine"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah indicating present tense, third person singular masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "Who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, obscured; also to ask or inquire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "Created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "And He",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to be, existence, essence, personality"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He is/It is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّطِيفُ",
+      "transliteration": "al-laṭīfu",
+      "meaning": "The Subtle, the Gracious",
+      "root": {
+        "letters": "ل-ط-ف",
+        "meaning": "to be kind, gentle, subtle; to cover up or conceal (in a positive way)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the definite article (determiner)"
+        },
+        {
+          "arabic": "لَطِيفُ",
+          "meaning": "subtle, gracious; possessing the quality of being kind and gentle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْخَبِيرُ",
+      "transliteration": "al-khabīru",
+      "meaning": "The Acquainted, the Well-Aware",
+      "root": {
+        "letters": "خ-ب-ر",
+        "meaning": "to know, to be aware, to possess information"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَبِير",
+          "meaning": "Acquainted, Well-Aware (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Isn't-it-true-[that]-He-knows who created and He [is] the Subtle the Acquainted."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

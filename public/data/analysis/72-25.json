@@ -1,0 +1,175 @@
+{
+  "verseId": "72:25",
+  "verse": {
+    "arabic": "قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا",
+    "transliteration": "Qul in adree aqareebun ma tooAAadoona am yajAAalu lahu rabbee amadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or express verbally; to command (related to expressing authority through speech)."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنْ",
+      "transliteration": "in",
+      "meaning": "Indeed / Verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَدْرِي",
+      "transliteration": "'adrī",
+      "meaning": "I do not know",
+      "root": {
+        "letters": "د-ر-ي",
+        "meaning": "to know, to perceive, to be aware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَقَرِيبٌ",
+      "transliteration": "'aqrīb",
+      "meaning": "Is it near?",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "To be near, to approach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "What / That which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تُوعَدُونَ",
+      "transliteration": "tuʿadūn",
+      "meaning": "You are promised",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "to return, to come back, to promise (based on the idea of something returning/being fulfilled)"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine plural (you)"
+        },
+        {
+          "arabic": "وُ",
+          "meaning": "vowel marking and linking particle"
+        },
+        {
+          "arabic": "عِدْتُمْ",
+          "meaning": "passive voice form derived from the root ع-و-د, indicating 'being promised'"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَمْ",
+      "transliteration": "'am",
+      "meaning": "Or",
+      "root": {
+        "letters": "ا-م-و",
+        "meaning": "To desire, to wish, also serves as a connective particle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَجْعَلُ",
+      "transliteration": "yajʿal",
+      "meaning": "Will He make / Will He grant",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to place, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (He)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create, to grant"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَهُ",
+      "transliteration": "lahū",
+      "meaning": "For it / To it",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession, for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture, to increase"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, master, possessor"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَمَدًا",
+      "transliteration": "'amadā",
+      "meaning": "A period / A term",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to prolong, stretching"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say-! Indeed I do not know -Is it near [the thing]- what you are promised -Or will He make- for it my Lord -a period?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

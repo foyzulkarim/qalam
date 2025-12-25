@@ -1,0 +1,189 @@
+{
+  "verseId": "67:16",
+  "verse": {
+    "arabic": "أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ",
+    "transliteration": "Aamintum man fee alssamai an yakhsifa bikumu alarda faitha hiya tamooru",
+    "surah": "Al-Mulk",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَأَمِنتُم",
+      "transliteration": "ʾaʾamintum",
+      "meaning": "Did you feel secure?",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to trust, have faith"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicating a question"
+        },
+        {
+          "arabic": "أَمِ",
+          "meaning": "prefix indicating a question with the verb"
+        },
+        {
+          "arabic": "نتُم",
+          "meaning": "you (plural) - suffix pronoun indicating the subjects of the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّن",
+      "transliteration": "man",
+      "meaning": "Who/the one who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be (exist), to perish, to die; belonging to, pertaining to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In/within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "The heaven/the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "That/to (introduces a verbal noun)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also conveys intention or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَخْسِفَ",
+      "transliteration": "yakhsifa",
+      "meaning": "He would cause to sink/swallow up",
+      "root": {
+        "letters": "خ-س-ف",
+        "meaning": "to fall into ruin, to be lowered, to sink"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense or subjunctive mood/jussive"
+        },
+        {
+          "arabic": "خَسَفَ",
+          "meaning": "to cause to sink, to swallow up"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِكُمُ",
+      "transliteration": "bikumu",
+      "meaning": "With you/upon you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist; inherent capability or essence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With, by means of, in/on"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "You (plural, genitive/accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "The earth/the land",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to spread out; the earth as a broad expanse"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "Then/and suddenly",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to arrive; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if, then/suddenly (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "It (referring to the earth)",
+      "root": {
+        "letters": "هـ-يَ-ا",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَمُورُ",
+      "transliteration": "tamūru",
+      "meaning": "It sways/it is in turbulent motion",
+      "root": {
+        "letters": "ت-م-ر",
+        "meaning": "to be soft, pliable; to pass away (time); to sway, fluctuate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-you-feel-secure? Who in the-heaven that he would-cause-to-sink with-you the-earth? Then it is sways."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

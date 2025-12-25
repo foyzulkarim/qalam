@@ -1,0 +1,74 @@
+{
+  "verseId": "75:29",
+  "verse": {
+    "arabic": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+    "transliteration": "Wailtaffati alssaqu bialssaqi",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْتَفَّتِ",
+      "transliteration": "wa-ltafatī",
+      "meaning": "and it wound/coiled around",
+      "root": {
+        "letters": "ل-ف-ت",
+        "meaning": "to twist, turn, coil, wrap"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تَفَّتِ",
+          "meaning": "it wound/coiled (feminine singular, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّاقُ",
+      "transliteration": "as-sāqu",
+      "meaning": "the leg",
+      "root": {
+        "letters": "س-ق-و",
+        "meaning": "to fall, to drip, to flow; to weaken or be feeble (related to the leg's function)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالسَّاقِ",
+      "transliteration": "bi-s-sāqi",
+      "meaning": "with the leg",
+      "root": {
+        "letters": "س-ق-و",
+        "meaning": "to drink, to flow, to pour forth; leg (as that which 'pours' the body forward)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "السَّاقِ",
+          "meaning": "the leg"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-wound/coiled-around the-leg with-the-leg"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

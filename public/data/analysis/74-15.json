@@ -1,0 +1,63 @@
+{
+  "verseId": "74:15",
+  "verse": {
+    "arabic": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+    "transliteration": "Thumma yatmaAAu an azeeda",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; also implies time and sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَطْمَعُ",
+      "transliteration": "yaṭmaʿu",
+      "meaning": "he hopes, he desires",
+      "root": {
+        "letters": "ط-م-ع",
+        "meaning": "to seek, to desire with longing, to hope for something beyond what one deserves or expects"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنْ",
+      "transliteration": "ʾan",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; used to form verbal nouns of intention or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَزِيدَ",
+      "transliteration": "ʾazīda",
+      "meaning": "I increase, I add",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to grow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then- he-desires that I-increase"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

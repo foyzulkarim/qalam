@@ -1,0 +1,93 @@
+{
+  "verseId": "68:9",
+  "verse": {
+    "arabic": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+    "transliteration": "Waddoo law tudhinu fayudhinoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَدُّوا",
+      "transliteration": "waddū",
+      "meaning": "They wished, they desired",
+      "root": {
+        "letters": "و-د-د",
+        "meaning": "to love, to desire, to wish well"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "If, would that",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, will, wishing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُدْهِنُ",
+      "transliteration": "tud'hinu",
+      "meaning": "You soften, you compromise",
+      "root": {
+        "letters": "د-ه-ن",
+        "meaning": "to smear, to soften, to be lenient"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person masculine singular, present tense"
+        },
+        {
+          "arabic": "دَهِنَ",
+          "meaning": "to soften, to compromise (root verb)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "damma indicating present tense and nominative case"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَيُدْهِنُونَ",
+      "transliteration": "fayudh'inūna",
+      "meaning": "So they soften, so they compromise",
+      "root": {
+        "letters": "ه-د-ن",
+        "meaning": "to soften, to be gentle, to compromise; also related to deception/subtlety"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "يُـ",
+          "meaning": "they (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "دَهُنَ",
+          "meaning": "softness, compromise (derived from root ه-د-ن)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "they (masculine plural pronoun suffix, indicative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-wished - if - you-soften - so-they-soften"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

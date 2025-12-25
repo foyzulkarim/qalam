@@ -1,0 +1,123 @@
+{
+  "verseId": "70:36",
+  "verse": {
+    "arabic": "فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ",
+    "transliteration": "Famali allatheena kafaroo qibalaka muhtiAAeena",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَالِ",
+      "transliteration": "famāli",
+      "meaning": "What is the matter with?",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; defect, fault, or ailment (relatable to something being 'wrong' with something)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "the particle فَ, indicating consequence or resumption"
+        },
+        {
+          "arabic": "مَالِ",
+          "meaning": "what is the matter with?, what is wrong?"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, existence; referring to something or someone specific"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "Disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, conceal; to deny, be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Prefix indicating plurality and past tense in the verb form."
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "Second person masculine plural past tense suffix attached to the root."
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قِبَلَكَ",
+      "transliteration": "qibālaka",
+      "meaning": "Before you, toward you",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to turn towards, to face"
+      },
+      "components": [
+        {
+          "arabic": "قِبَلَ",
+          "meaning": "toward, in front of"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مُهْطِعِينَ",
+      "transliteration": "muhṭiʿīna",
+      "meaning": "Hastening, rushing forth",
+      "root": {
+        "letters": "ح-ط-ع",
+        "meaning": "to break, to smash, to hasten violently"
+      },
+      "components": [
+        {
+          "arabic": "مُ",
+          "meaning": "participial prefix indicating passive or active voice (here, active)"
+        },
+        {
+          "arabic": "هْطِع",
+          "meaning": "the root itself, indicating breaking forth or rushing"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural masculine ending, indicating a group of people"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-māli - the matter with - those who - disbelieved - before you - hastening"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

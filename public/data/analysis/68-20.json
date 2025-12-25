@@ -1,0 +1,59 @@
+{
+  "verseId": "68:20",
+  "verse": {
+    "arabic": "فَأَصْبَحَتْ كَالصَّرِيمِ",
+    "transliteration": "Faasbahat kaalssareemi",
+    "surah": "Al-Qalam",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَصْبَحَتْ",
+      "transliteration": "fa-ʾaṣbaḥat",
+      "meaning": "then it became (feminine singular)",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to dawn, to become morning; to be bright or clear"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَصْبَحَتْ",
+          "meaning": "became (feminine singular, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَالصَّرِيمِ",
+      "transliteration": "ka-ṣ-ṣarīmi",
+      "meaning": "like the reaped (thing)",
+      "root": {
+        "letters": "ص-ر-م",
+        "meaning": "to cut off, to reap, to prune"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الصَّرِيمِ",
+          "meaning": "the reaped thing, the cut off (crop)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [then] - ʾaṣbaḥat - became - ka - like - ṣ-ṣarīmi - the reaped"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

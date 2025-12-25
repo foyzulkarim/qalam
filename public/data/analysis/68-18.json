@@ -1,0 +1,67 @@
+{
+  "verseId": "68:18",
+  "verse": {
+    "arabic": "وَلَا يَسْتَثْنُونَ",
+    "transliteration": "Wala yastathnoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to not will"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَسْتَثْنُونَ",
+      "transliteration": "yastaṯnūnūna",
+      "meaning": "they make exceptions",
+      "root": {
+        "letters": "س-ث-ن",
+        "meaning": "to have a remainder, to keep back, to except"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَـ",
+          "meaning": "they seek, they attempt (prefix indicating imperfect tense and subject)"
+        },
+        {
+          "arabic": "ثْـ",
+          "meaning": "the letter tha, part of the root"
+        },
+        {
+          "arabic": "نُـ",
+          "meaning": "they (suffix indicating plural pronoun)"
+        },
+        {
+          "arabic": "~وُـ",
+          "meaning": "vowel indicating imperfect tense and plurality"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not they-make-exceptions"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

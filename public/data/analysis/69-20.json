@@ -1,0 +1,114 @@
+{
+  "verseId": "69:20",
+  "verse": {
+    "arabic": "إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيَهْ",
+    "transliteration": "Innee thanantu annee mulaqin hisabiyah",
+    "surah": "Al-Haqqah",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنِّي",
+      "transliteration": "ʾinnī",
+      "meaning": "Indeed I; Verily me",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be; existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "Indeed; Verily"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "me; I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ظَنَنتُ",
+      "transliteration": "ẓanantu",
+      "meaning": "I thought; I supposed; I believed",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, suppose, believe, have an opinion"
+      },
+      "components": [
+        {
+          "arabic": "ظَنَ",
+          "meaning": "to think, suppose"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنِّي",
+      "transliteration": "ʾannī",
+      "meaning": "That I; Verily me (that)",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "أَنّ",
+          "meaning": "that; verily"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "me; I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُلَاقٍ",
+      "transliteration": "mulāqin",
+      "meaning": "Meeting; Encountering; Destined to meet",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "To meet; To encounter; To find"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حِسَابِيَهْ",
+      "transliteration": "ḥisābiyahā",
+      "meaning": "My account; Its reckoning [of mine]",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, reckon, suffice"
+      },
+      "components": [
+        {
+          "arabic": "حِسَاب",
+          "meaning": "account, reckoning"
+        },
+        {
+          "arabic": "ـِيَه",
+          "meaning": "my (possessive suffix), belonging to me"
+        },
+        {
+          "arabic": "ـā",
+          "meaning": "(feminine marker)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-I thought-that-I meeting-my-account-[of mine]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

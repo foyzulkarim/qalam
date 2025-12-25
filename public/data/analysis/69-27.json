@@ -1,0 +1,87 @@
+{
+  "verseId": "69:27",
+  "verse": {
+    "arabic": "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ",
+    "transliteration": "Ya laytaha kanati alqadiyatu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O, vocative particle",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَيْتَهَا",
+      "transliteration": "laytahā",
+      "meaning": "O if only it were, wish particle + feminine singular pronoun suffix",
+      "root": {
+        "letters": "ل-ي-ت",
+        "meaning": "softness, mildness, weakness; also denotes wishing or longing"
+      },
+      "components": [
+        {
+          "arabic": "لَيْتَ",
+          "meaning": "O if only, wish particle"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "feminine singular pronoun suffix (referring to the thing wished for)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَتِ",
+      "transliteration": "kānatī",
+      "meaning": "It was, past tense verb + feminine singular pronoun suffix",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَانَ",
+          "meaning": "it was, past tense verb"
+        },
+        {
+          "arabic": "-تِ",
+          "meaning": "feminine singular pronoun suffix (she/it)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْقَاضِيَةَ",
+      "transliteration": "al-qāḍiyah",
+      "meaning": "The decisive one, definite article + active participle (feminine singular)",
+      "root": {
+        "letters": "ق-ض-ي",
+        "meaning": "to judge, to decide, to finish"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "قَاضِيَة",
+          "meaning": "decisive one (feminine singular active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O - if-only-it-were - it-was - the-decisive-one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

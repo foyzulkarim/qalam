@@ -1,0 +1,93 @@
+{
+  "verseId": "74:53",
+  "verse": {
+    "arabic": "كَلَّا ۖ بَل لَّا يَخَافُونَ الْآخِرَةَ",
+    "transliteration": "Kalla bal la yakhafoona alakhirata",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 53
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No! / Indeed not!",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to reject, to deny, to refuse, opposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَل",
+      "transliteration": "bal",
+      "meaning": "But / Rather",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to reach its limit/end; negation or opposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَخَافُونَ",
+      "transliteration": "yakhāfūn",
+      "meaning": "They fear / They are afraid of",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person plural subject (نحن)"
+        },
+        {
+          "arabic": "خَاف",
+          "meaning": "to fear, to be afraid (root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine subject ('they')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْآخِرَةَ",
+      "transliteration": "al-ʾākhirata",
+      "meaning": "The Hereafter / The Last Life",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after, the end"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the Last Life, the Hereafter"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - But - Not - They fear - The Hereafter."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

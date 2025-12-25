@@ -1,0 +1,104 @@
+{
+  "verseId": "68:45",
+  "verse": {
+    "arabic": "وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ",
+    "transliteration": "Waomlee lahum inna kaydee mateenun",
+    "surah": "Al-Qalam",
+    "verseNumber": 45
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأُمْلِي",
+      "transliteration": "wa-ʾumli",
+      "meaning": "and I grant respite/delay",
+      "root": {
+        "letters": "أ-م-ل",
+        "meaning": "to dictate, to grant respite/delay"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُمْلِي",
+          "meaning": "I grant respite/delay (first person singular imperfect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ۚ",
+      "transliteration": "lākin",
+      "meaning": "pause particle (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed/verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "if (conditional particle)"
+        },
+        {
+          "arabic": "نُ",
+          "meaning": "stress/emphasis particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَيْدِي",
+      "transliteration": "kaydī",
+      "meaning": "My plan/scheme/design",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "to scheme, plan, design; deceit"
+      },
+      "components": [
+        {
+          "arabic": "كَيْد",
+          "meaning": "scheme, plan, design"
+        },
+        {
+          "arabic": "ِي",
+          "meaning": "my (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَتِينٌ",
+      "transliteration": "matīnun",
+      "meaning": "firm/strong/solid",
+      "root": {
+        "letters": "م-ث-ن",
+        "meaning": "strength, firmness, stability"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-I-grant respite to-them - indeed My plan firm"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

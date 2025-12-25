@@ -1,0 +1,103 @@
+{
+  "verseId": "69:13",
+  "verse": {
+    "arabic": "فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ",
+    "transliteration": "Faitha nufikha fee alssoori nafkhatun wahidatun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "then, when; so then",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to come, to happen; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُفِخَ",
+      "transliteration": "nufikha",
+      "meaning": "it was blown; it is blown (passive)",
+      "root": {
+        "letters": "ن-ف-خ",
+        "meaning": "to breathe, to exhale; to blow (wind, fire)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; abundance or completeness (related to the idea of filling a space)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصُّورِ",
+      "transliteration": "aṣ-ṣūri",
+      "meaning": "the Horn",
+      "root": {
+        "letters": "ص-و-ر",
+        "meaning": "to form, to shape; a picture, an image or likeness"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صُّورِ",
+          "meaning": "the Horn (instrument of resurrection)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَفْخَةٌ",
+      "transliteration": "nafkhah(un)",
+      "meaning": "a blast, a blowing",
+      "root": {
+        "letters": "ن-ف-خ",
+        "meaning": "to breathe, to blow, to exhale"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَاحِدَةٌ",
+      "transliteration": "wāḥidah(un)",
+      "meaning": "one, single",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, to unite, oneness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-then it-was-blown in the-Horn a-blast one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

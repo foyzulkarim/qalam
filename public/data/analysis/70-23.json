@@ -1,0 +1,101 @@
+{
+  "verseId": "70:23",
+  "verse": {
+    "arabic": "الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ",
+    "transliteration": "Allatheena hum AAala salatihim daimoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to have, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "To be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَلَاتِهِمْ",
+      "transliteration": "ṣalātihiim",
+      "meaning": "Their prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings"
+      },
+      "components": [
+        {
+          "arabic": "صَلا",
+          "meaning": "prayer"
+        },
+        {
+          "arabic": "تِهِمْ",
+          "meaning": "their (possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "دَائِمُونَ",
+      "transliteration": "dāʾimūna",
+      "meaning": "Constant, persevering",
+      "root": {
+        "letters": "د-و-م",
+        "meaning": "to continue, to persist, to remain"
+      },
+      "components": [
+        {
+          "arabic": "دَائِم",
+          "meaning": "constant, enduring"
+        },
+        {
+          "arabic": "-ُونَ",
+          "meaning": "plural active participle suffix (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-those-who they upon-on their-prayer constant-are"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

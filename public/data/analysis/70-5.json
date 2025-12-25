@@ -1,0 +1,61 @@
+{
+  "verseId": "70:5",
+  "verse": {
+    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+    "transliteration": "Faisbir sabran jameelan",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَاصْبِرْ",
+      "transliteration": "fa-ṣbir",
+      "meaning": "So be patient",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to be patient, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of exhortation)"
+        },
+        {
+          "arabic": "اصْبِرْ",
+          "meaning": "Be patient (imperative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَبْرًا",
+      "transliteration": "ṣabran",
+      "meaning": "patience",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "endurance, steadfastness, to restrain oneself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَمِيلًا",
+      "transliteration": "jamīlan",
+      "meaning": "beautiful, gracious",
+      "root": {
+        "letters": "ج-م-ل",
+        "meaning": "beauty, grace, perfection"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [then] ṣbir - patience jamīlan - beautiful/gracious"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

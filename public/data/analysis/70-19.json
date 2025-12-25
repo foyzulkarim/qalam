@@ -1,0 +1,70 @@
+{
+  "verseId": "70:19",
+  "verse": {
+    "arabic": "إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا",
+    "transliteration": "Inna alinsana khuliqa halooAAan",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily; an emphatic particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; an emphatic particle introducing a clause."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "Mankind, the human being",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be friendly, adapt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خُلِقَ",
+      "transliteration": "khuliqa",
+      "meaning": "Was created, was formed",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to form, to originate"
+      },
+      "components": [
+        {
+          "arabic": "خُلِقَ",
+          "meaning": "was created, was formed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هَلُوعًا",
+      "transliteration": "halūʿan",
+      "meaning": "Anxious, restless, impatient; in a state of agitation",
+      "root": {
+        "letters": "ح-ل-ع",
+        "meaning": "To be restless, agitated; to lack stability or tranquility."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-human-being was-created anxious"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

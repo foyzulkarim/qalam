@@ -1,0 +1,184 @@
+{
+  "verseId": "71:27",
+  "verse": {
+    "arabic": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+    "transliteration": "Innaka in tatharhum yudilloo AAibadaka wala yalidoo illa fajiran kaffaran",
+    "surah": "Nuh",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّكَ",
+      "transliteration": "ʾinnaka",
+      "meaning": "Indeed you",
+      "root": {
+        "letters": "ك-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "If",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَذَرْهُمْ",
+      "transliteration": "tadhrhum",
+      "meaning": "You leave them",
+      "root": {
+        "letters": "ذ-ر-ح",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "ذَرْ",
+          "meaning": "to leave, to abandon (verb root)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُضِلُّوا",
+      "transliteration": "yuḍillū",
+      "meaning": "They mislead",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to err, to deviate from the right path"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating they (masculine plural) are doing the action"
+        },
+        {
+          "arabic": "ضِلّ",
+          "meaning": "to mislead, to cause to go astray"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عِبَادَكَ",
+      "transliteration": "ʿibādaka",
+      "meaning": "Your servants",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to be a servant"
+      },
+      "components": [
+        {
+          "arabic": "عِبَادَ",
+          "meaning": "servants, worshippers"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَلِدُوا",
+      "transliteration": "yalidū",
+      "meaning": "They beget",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "To beget, to give birth, to produce offspring"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense, and first-person plural (they)"
+        },
+        {
+          "arabic": "لِدُوا",
+          "meaning": "To beget, they beget (derived from the root و-ل-د)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "Except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَاجِرًا",
+      "transliteration": "fājiran",
+      "meaning": "Wicked one",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "To break, split apart; to deviate from the right path, be corrupt."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَفَّارًا",
+      "transliteration": "kaffāran",
+      "meaning": "Disbeliever(s)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, conceal; to be ungrateful, reject faith"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-you if-You leave-them they-mislead Your-servants and not-they beget except wicked-one disbeliever(s)"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

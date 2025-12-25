@@ -1,0 +1,50 @@
+{
+  "verseId": "77:3",
+  "verse": {
+    "arabic": "وَالنَّاشِرَاتِ نَشْرًا",
+    "transliteration": "Waalnnashirati nashran",
+    "surah": "Al-Mursalat",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالنَّاشِرَاتِ",
+      "transliteration": "wa-an-nāshirāti",
+      "meaning": "and the spreading ones (feminine plural)",
+      "root": {
+        "letters": "ن-ش-ر",
+        "meaning": "to spread out, to unfold, to disseminate, to raise up"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "النَّاشِرَاتِ",
+          "meaning": "the spreading ones (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَشْرًا",
+      "transliteration": "nashran",
+      "meaning": "spreading, dispersal",
+      "root": {
+        "letters": "ن-ش-ر",
+        "meaning": "to unfold, spread out, disperse"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-[the]-spreading-ones spreading"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

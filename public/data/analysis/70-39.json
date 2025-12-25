@@ -1,0 +1,110 @@
+{
+  "verseId": "70:39",
+  "verse": {
+    "arabic": "كَلَّا ۖ إِنَّا خَلَقْنَاهُم مِّمَّا يَعْلَمُونَ",
+    "transliteration": "Kalla inna khalaqnahum mimma yaAAlamoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, indeed; by no means",
+      "root": {
+        "letters": "ك-ل-و",
+        "meaning": "to refuse, reject, or deny; to be insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "Indeed, verily; surely we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, surely; emphasizes the following statement"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَلَقْنَاهُم",
+      "transliteration": "khalaqnāhum",
+      "meaning": "We have created them",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "We created (perfect tense)"
+        },
+        {
+          "arabic": "نَاهُم",
+          "meaning": "them (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّمَّا",
+      "transliteration": "min mā",
+      "meaning": "from that which",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "that which, what"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware, perceive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (verb suffix, masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - Indeed-we - created-them - from - that which-they know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "verseId": "68:39",
+  "verse": {
+    "arabic": "أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+    "transliteration": "Am lakum aymanun AAalayna balighatun ila yawmi alqiyamati inna lakum lama tahkumoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, but",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to intend, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَيْمَانٌ",
+      "transliteration": "ʾaymānun",
+      "meaning": "oaths",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "strength, firmness, reliability; to swear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "upon us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَالِغَةٌ",
+      "transliteration": "bālighatun",
+      "meaning": "reaching, extending",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, be full; mature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, until",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to be associated with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَوْمِ",
+      "transliteration": "yawmi",
+      "meaning": "day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "يَو",
+          "meaning": "day (genitive case marker)"
+        },
+        {
+          "arabic": "مِ",
+          "meaning": "genitive case ending, belonging to/of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmah",
+      "meaning": "the Resurrection",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to resurrect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۙ",
+      "transliteration": "",
+      "meaning": "pause marker (wassla)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "conditional particle, introduces emphasis and certainty"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, possess, have sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَمَا",
+      "transliteration": "lamā",
+      "meaning": "what, whatever",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَحْكُمُونَ",
+      "transliteration": "taḥkumūn",
+      "meaning": "you judge",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule, to arbitrate; possess control or power"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense (form I)"
+        },
+        {
+          "arabic": "حَـ",
+          "meaning": "base of the verb, related to judgment"
+        },
+        {
+          "arabic": "ـكُمُونَ",
+          "meaning": "suffix indicating 'you (plural)' and the imperfect tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Or - for you oaths - upon us - reaching - to day of the Resurrection - indeed - for you - whatever - you judge?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

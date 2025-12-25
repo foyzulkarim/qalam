@@ -1,0 +1,198 @@
+{
+  "verseId": "68:48",
+  "verse": {
+    "arabic": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+    "transliteration": "Faisbir lihukmi rabbika wala takun kasahibi alhooti ith nada wahuwa makthoomun",
+    "surah": "Al-Qalam",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَاصْبِرْ",
+      "transliteration": "fa-ṣbir",
+      "meaning": "So be patient/endure",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to be patient, to hold back"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So/Then (particle initiating the command)"
+        },
+        {
+          "arabic": "اصْبِرْ",
+          "meaning": "Be patient/Endure (command form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِحُكْمِ",
+      "transliteration": "li-ḥukmi",
+      "meaning": "For the judgment/decision"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "Of your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, Master (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor (negation particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَكُن",
+      "transliteration": "takun",
+      "meaning": "Be/become",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix indicating the imperfect tense (future/present)"
+        },
+        {
+          "arabic": "كُن",
+          "meaning": "Be! (Imperative form of the root ك-و-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَصَاحِبِ",
+      "transliteration": "ka-ṣāḥibi",
+      "meaning": "Like the companion/owner of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "To accompany, to befriend, to possess (as in a companion)"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "Like, as"
+        },
+        {
+          "arabic": "صَاحِبِ",
+          "meaning": "The companion/owner"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْحُوتِ",
+      "transliteration": "al-ḥūti",
+      "meaning": "The whale/fish",
+      "root": {
+        "letters": "ح-و-ت",
+        "meaning": "to swim, to surround, to contain"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حُوت",
+          "meaning": "whale/fish"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "When/as",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to perceive, to feel, to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نَادَىٰ",
+      "transliteration": "nādā",
+      "meaning": "He called out/cried",
+      "root": {
+        "letters": "ن-د-ا",
+        "meaning": "to call, to summon, to invoke"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "And he/while he",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to fall, to decline; to be (exist)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَكْظُومٌ",
+      "transliteration": "makẓūm",
+      "meaning": "Distressed/suffocated/oppressed",
+      "root": {
+        "letters": "ك-ظ-م",
+        "meaning": "to restrain, suppress, withhold"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-be-patient for-the-judgment of-your Lord and-not be like the companion of-the fish when he-called-out while-he [was]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "verseId": "74:45",
+  "verse": {
+    "arabic": "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ",
+    "transliteration": "Wakunna nakhoodu maAAa alkhaideena",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 45
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "we were"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَخُوضُ",
+      "transliteration": "nakḥūḍu",
+      "meaning": "we plunge, we engage in",
+      "root": {
+        "letters": "خ-و-ض",
+        "meaning": "to enter water, to mix, to delve into"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "خُوضُ",
+          "meaning": "plunging, engaging (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "with",
+      "root": {
+        "letters": "ع-ي-ش",
+        "meaning": "to live, be alive, life"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْخَائِضِينَ",
+      "transliteration": "al-khāʾiḍīna",
+      "meaning": "the plungers, the ones who engage [in vain discourse]",
+      "root": {
+        "letters": "خ-ي-ض",
+        "meaning": "to sink, to plunge, to immerse oneself (often in something negative or futile)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَائِضِينَ",
+          "meaning": "plungers, those who engage (in vain discourse/activity)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-we used to be-plunging with-the-plungers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

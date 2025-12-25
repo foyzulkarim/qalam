@@ -1,0 +1,61 @@
+{
+  "verseId": "69:31",
+  "verse": {
+    "arabic": "ثُمَّ الْجَحِيمَ صَلُّوهُ",
+    "transliteration": "Thumma aljaheema salloohu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish after something else; sequentiality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَحِيمَ",
+      "transliteration": "al-jaḥīma",
+      "meaning": "the Hellfire, the blazing fire",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "intense heat, burning, aridity; to be hot or severe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "صَلُّوهُ",
+      "transliteration": "ṣallūhu",
+      "meaning": "drive him into it, burn him in it",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to burn, to roast"
+      },
+      "components": [
+        {
+          "arabic": "صَلُّوا",
+          "meaning": "they pray, they burn"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, it"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - the-Hellfire - drive-him-into-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

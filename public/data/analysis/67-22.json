@@ -1,0 +1,191 @@
+{
+  "verseId": "67:22",
+  "verse": {
+    "arabic": "أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+    "transliteration": "Afaman yamshee mukibban AAala wajhihi ahda amman yamshee sawiyyan AAala siratin mustaqeemin",
+    "surah": "Al-Mulk",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَمَن",
+      "transliteration": "ʾafaman",
+      "meaning": "So is it then, who?",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be safe, secure; to have faith or trust; existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "So, then (interrogative particle)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "Who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَمْشِي",
+      "transliteration": "yamshī",
+      "meaning": "walks",
+      "root": {
+        "letters": "م-ش-ي",
+        "meaning": "to walk, to go, movement"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُكِبًّا",
+      "transliteration": "mukibban",
+      "meaning": "falling (forward), headlong",
+      "root": {
+        "letters": "ك-ب-ب",
+        "meaning": "to overturn, to fall prostrate, to be overwhelmed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَجْهِهِ",
+      "transliteration": "wajhihi",
+      "meaning": "his face",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be wide, expansive; face, direction"
+      },
+      "components": [
+        {
+          "arabic": "وَجْ",
+          "meaning": "face, countenance"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَهْدَىٰ",
+      "transliteration": "ʾahdā",
+      "meaning": "more rightly guided?",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَمَّن",
+      "transliteration": "ʾamman",
+      "meaning": "or who?",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who?"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَمْشِي",
+      "transliteration": "yamshī",
+      "meaning": "walks",
+      "root": {
+        "letters": "م-ش-ي",
+        "meaning": "to walk, to go, to travel; the general idea of motion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "سَوِيًّا",
+      "transliteration": "sawiyyan",
+      "meaning": "straight, upright",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to be straight, correct, good; to align or adjust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "صِرَاطٍ",
+      "transliteration": "ṣirāṭin",
+      "meaning": "a path, a way",
+      "root": {
+        "letters": "ص-ر-ط",
+        "meaning": "to be straight, direct; a road or way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مُّسْتَقِيمٍ",
+      "transliteration": "mustaqīmin",
+      "meaning": "straight, right",
+      "root": {
+        "letters": "س-ق-م",
+        "meaning": "to go straight, to be upright, to stand firm"
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَ",
+          "meaning": "passive participle prefix indicating 'one who is made to be'"
+        },
+        {
+          "arabic": "قِيم",
+          "meaning": "upright, firm, established (from the root س-ق-م)"
+        },
+        {
+          "arabic": "ٍ",
+          "meaning": "tanwīn al-fatḥ, indefinite accusative case marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So is it then-who walks-falling (forward)-upon-his face-more rightly guided?-or who-walks-straight-upon-a path-straight?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

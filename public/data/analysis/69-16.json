@@ -1,0 +1,101 @@
+{
+  "verseId": "69:16",
+  "verse": {
+    "arabic": "وَانشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ",
+    "transliteration": "Wainshaqqati alssamao fahiya yawmaithin wahiyatun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَانشَقَّتِ",
+      "transliteration": "wa-nshaqqaati",
+      "meaning": "and split/cracked/rent",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to crack open, to rend apart"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "انشَقَّتِ",
+          "meaning": "split/cracked (feminine singular, past)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the heaven/sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be elevated; height, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَهِيَ",
+      "transliteration": "fa-hiya",
+      "meaning": "so it/for that (feminine)",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to be, existence; she/it (feminine pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (connecting particle)"
+        },
+        {
+          "arabic": "هِيَ",
+          "meaning": "she/it (feminine pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "on that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on a day; during the day"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then; at that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَاهِيَةٌ",
+      "transliteration": "wāhiyah",
+      "meaning": "fragile/weak/infirm",
+      "root": {
+        "letters": "و-ه-ي",
+        "meaning": "to be weak, feeble, or slack"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-split the-heaven so-it on-that-Day fragile"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

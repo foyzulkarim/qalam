@@ -1,0 +1,106 @@
+{
+  "verseId": "68:38",
+  "verse": {
+    "arabic": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
+    "transliteration": "Inna lakum feehi lama takhayyaroona",
+    "surah": "Al-Qalam",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; emphasis and confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "For you, to you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "completion, perfection, possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "In it, within it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to be contained within, to exist in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "In"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "It (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَمَا",
+      "transliteration": "lamā",
+      "meaning": "Whatever, that which",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, something wanted or wished for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَخَيَّرُونَ",
+      "transliteration": "takhyarūna",
+      "meaning": "You choose, you select",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "to be good, to choose the best"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-for-you in-it whatever you-choose?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "verseId": "68:11",
+  "verse": {
+    "arabic": "هَمَّازٍ مَّشَّاءٍ بِنَمِيمٍ",
+    "transliteration": "Hammazin mashshain binameemin",
+    "surah": "Al-Qalam",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَمَّازٍ",
+      "transliteration": "hammāzin",
+      "meaning": "Scorner, one who habitually slanders or backbites",
+      "root": {
+        "letters": "ح-م-ز",
+        "meaning": "to cut, to break, to diminish; to revile, to slander"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّشَّاءٍ",
+      "transliteration": "mashshāʾin",
+      "meaning": "Going about, walker; one who strolls or wanders",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to go, to walk, to proceed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِنَمِيمٍ",
+      "transliteration": "bi-namīmin",
+      "meaning": "With malicious gossip, with slander; by means of tales or reports",
+      "root": {
+        "letters": "ن-م-م",
+        "meaning": "to relate, report; to speak of (someone) in their absence; to convey information"
+      },
+      "components": [
+        {
+          "arabic": "بِـ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "نَمِيمٍ",
+          "meaning": "malicious gossip, slander; tales or reports (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "scorner-one going about-with malicious gossip"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

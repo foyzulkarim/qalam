@@ -1,0 +1,72 @@
+{
+  "verseId": "70:3",
+  "verse": {
+    "arabic": "مِّنَ اللَّهِ ذِي الْمَعَارِجِ",
+    "transliteration": "Mina Allahi thee almaAAariji",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مِّنَ",
+      "transliteration": "minna",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be sourced in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to be worshipped, divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذِي",
+      "transliteration": "dhī",
+      "meaning": "owner of, possessor of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, ownership, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَعَارِجِ",
+      "transliteration": "al-maʿārij",
+      "meaning": "the ways of ascent, the ascents",
+      "root": {
+        "letters": "ع-ر-ج",
+        "meaning": "to ascend, to climb, to rise"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَعَارِج",
+          "meaning": "ways of ascent, ascents (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "from-of Allah owner-of the-ways-of ascent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

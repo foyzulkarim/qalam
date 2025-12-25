@@ -1,0 +1,190 @@
+{
+  "verseId": "69:19",
+  "verse": {
+    "arabic": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ",
+    "transliteration": "Faamma man ootiya kitabahu biyameenihi fayaqoolu haomu iqraoo kitabiyah",
+    "surah": "Al-Haqqah",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "then as for",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to undertake, to proceed with"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure; also related to questioning and seeking information"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُوتِيَ",
+      "transliteration": "ʾūtiya",
+      "meaning": "was given, has been bestowed upon",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker, indicates 'was given'"
+        },
+        {
+          "arabic": "و-تِيَ",
+          "meaning": "derived from the root أ-و-ت, relating to receiving a gift or bestowal"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كِتَابَهُ",
+      "transliteration": "kitābahū",
+      "meaning": "his record, his book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كتاب",
+          "meaning": "book, record"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِيَمِينِهِ",
+      "transliteration": "bi-yamīnihī",
+      "meaning": "in his right hand",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, power, blessing"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "يَمِينِهِ",
+          "meaning": "his right hand"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَيَقُولُ",
+      "transliteration": "fayaqūlu",
+      "meaning": "then he will say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "يَقُولُ",
+          "meaning": "he says, he will say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "هَاؤُمُ",
+      "transliteration": "hāʾūmū",
+      "meaning": "Here! Take!, This is!",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "To desire, to long for; to take urgently."
+      },
+      "components": [
+        {
+          "arabic": "هَ",
+          "meaning": "Particle of beckoning, calling attention. Equivalent to 'Here!' or 'Take!'"
+        },
+        {
+          "arabic": "أُومُ",
+          "meaning": "To take, to receive; a verbal noun indicating the act of receiving something offered."
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اقْرَءُوا",
+      "transliteration": "iqraʾū",
+      "meaning": "Read!",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite, understand"
+      },
+      "components": [
+        {
+          "arabic": "اقْرَ",
+          "meaning": "read, recite (imperative prefix + root)"
+        },
+        {
+          "arabic": "ُؤُوا",
+          "meaning": "you (plural, masculine) - suffix indicating the addressee"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كِتَابِيَهْ",
+      "transliteration": "kitābiya",
+      "meaning": "my record, my book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كِتَابٍ",
+          "meaning": "record, book (genitive)"
+        },
+        {
+          "arabic": "ـيَهْ",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "faʾammā - then as for  man - who ʾūtiya - was given kitābahū - his record bi-yamīnihī - in his right hand fayaqūlu - then he will say hāʾūmū - Here! Take! iqraʾū - Read! kitābiya - my record"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "verseId": "67:11",
+  "verse": {
+    "arabic": "فَاعْتَرَفُوا بِذَنبِهِمْ فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ",
+    "transliteration": "FaiAAtarafoo bithanbihim fasuhqan liashabi alssaAAeeri",
+    "surah": "Al-Mulk",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَاعْتَرَفُوا",
+      "transliteration": "fa-ʿtarafū",
+      "meaning": "so they confessed/acknowledged",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to be aware of, to recognize"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "اعْتَرَفُوا",
+          "meaning": "they confessed, they acknowledged (form VIII verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِذَنبِهِمْ",
+      "transliteration": "bi-ḏunubihim",
+      "meaning": "with their sin"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَسُحْقًا",
+      "transliteration": "fa-suḥqan",
+      "meaning": "so destruction/alienation",
+      "root": {
+        "letters": "س-ح-ق",
+        "meaning": "to crush, to pulverize, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "سُحْقًا",
+          "meaning": "destruction, alienation (noun of state/condition)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِّأَصْحَابِ",
+      "transliteration": "li-ʾaṣḥābi",
+      "meaning": "for the companions of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَصْحَابِ",
+          "meaning": "the companions of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "السَّعِيرِ",
+      "transliteration": "as-saʿīri",
+      "meaning": "the Blaze/fire",
+      "root": {
+        "letters": "س-ع-ر",
+        "meaning": "to blaze, to burn intensely; fire"
+      },
+      "components": [
+        {
+          "arabic": "السَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِير",
+          "meaning": "fire, blaze (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-confessed with-their-sin so-destruction for-companions of-the-Blaze"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

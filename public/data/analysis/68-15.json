@@ -1,0 +1,132 @@
+{
+  "verseId": "68:15",
+  "verse": {
+    "arabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+    "transliteration": "Itha tutla AAalayhi ayatuna qala asateeru alawwaleena",
+    "surah": "Al-Qalam",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to avoid; to turn aside"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُتْلَىٰ",
+      "transliteration": "tutlā",
+      "meaning": "are recited",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "passive voice marker and 3rd person feminine singular prefix"
+        },
+        {
+          "arabic": "تْلَىٰ",
+          "meaning": "to recite, to read aloud (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him, to him",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to be over or above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, to"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آيَاتُنَا",
+      "transliteration": "āyātunā",
+      "meaning": "Our verses, Our signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, miracle; to come with a sign"
+      },
+      "components": [
+        {
+          "arabic": "آيَات",
+          "meaning": "verses, signs (plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our, us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَسَاطِيرُ",
+      "transliteration": "asāṭīru",
+      "meaning": "legends, myths",
+      "root": {
+        "letters": "أ-س-ط",
+        "meaning": "to be ancient, to relate stories; to narrate or recount tales"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَوَّلِينَ",
+      "transliteration": "al-awwalīna",
+      "meaning": "the former ones, the ancients",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; initial"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَوَّلِينَ",
+          "meaning": "former ones, ancients (plural of أَوَّل)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-whenever - are recited - upon him/to him - Our verses/signs - he said - legends/myths - the former ones/ancients"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

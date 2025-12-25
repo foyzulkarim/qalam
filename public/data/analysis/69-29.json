@@ -1,0 +1,70 @@
+{
+  "verseId": "69:29",
+  "verse": {
+    "arabic": "هَلَكَ عَنِّي سُلْطَانِيَهْ",
+    "transliteration": "Halaka AAannee sultaniyah",
+    "surah": "Al-Haqqah",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلَكَ",
+      "transliteration": "halaka",
+      "meaning": "perished, died, was lost",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be lost, to decay"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَنِّي",
+      "transliteration": "ʿannī",
+      "meaning": "from me, away from me",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be distant, to deviate, to turn away"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, away from"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سُلْطَانِيَهْ",
+      "transliteration": "sulṭāniyah",
+      "meaning": "my authority, my dominion, my power",
+      "root": {
+        "letters": "س-ل-ط",
+        "meaning": "power, authority, dominion, control"
+      },
+      "components": [
+        {
+          "arabic": "سُلْطَان",
+          "meaning": "authority, dominion, power"
+        },
+        {
+          "arabic": "ـِيَهْ",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "perished-from-me authority-my"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

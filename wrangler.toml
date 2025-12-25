@@ -1,0 +1,5 @@
+name = "qalam"
+compatibility_date = "2024-12-24"
+
+[assets]
+directory = "./out"

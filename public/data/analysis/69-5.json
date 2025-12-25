@@ -1,0 +1,90 @@
+{
+  "verseId": "69:5",
+  "verse": {
+    "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ",
+    "transliteration": "Faamma thamoodu faohlikoo bialttaghiyati",
+    "surah": "Al-Haqqah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "So as for, then concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to be full of"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ثَمُودُ",
+      "transliteration": "thamūdu",
+      "meaning": "Thamud (name of a tribe)",
+      "root": {
+        "letters": "ث-م-د",
+        "meaning": "firmness, strength, endurance; to establish or build strongly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَأُهْلِكُوا",
+      "transliteration": "faʾuhlikū",
+      "meaning": "Then they were destroyed",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُهْلِكُوا",
+          "meaning": "they were destroyed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالطَّاغِيَةِ",
+      "transliteration": "biṭ-ṭāghiyah",
+      "meaning": "By the overpowering [thing]",
+      "root": {
+        "letters": "ط-غ-ي",
+        "meaning": "to exceed limits, to be arrogant or oppressive"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "الطَّاغِيَةِ",
+          "meaning": "the overpowering, the transgressing one"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-then concerning - Thamud - then they were destroyed - by the overpowering-[thing]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

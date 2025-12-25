@@ -1,0 +1,141 @@
+{
+  "verseId": "73:8",
+  "verse": {
+    "arabic": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+    "transliteration": "Waothkuri isma rabbika watabattal ilayhi tabteelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اذْكُرِ",
+      "transliteration": "udhkur",
+      "meaning": "remember!",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "اُذْ",
+          "meaning": "command prefix, indicating imperative mood"
+        },
+        {
+          "arabic": "كُرْ",
+          "meaning": "second person masculine singular suffix attached to the verb root, indicating 'you (masculine)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اسْمَ",
+      "transliteration": "isma",
+      "meaning": "name",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, height; to rise, be high"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, Master (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَبَتَّلْ",
+      "transliteration": "tabattal",
+      "meaning": "devote yourself!",
+      "root": {
+        "letters": "ب-ت-ل",
+        "meaning": "to separate, to isolate oneself, to abstain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ilayhi",
+      "meaning": "to Him",
+      "root": {
+        "letters": "هـ-ي-ل",
+        "meaning": "return, go to, revert"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him, belonging to Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَبْتِيلًا",
+      "transliteration": "tabtīlan",
+      "meaning": "with [complete] devotion",
+      "root": {
+        "letters": "ب-ت-ل",
+        "meaning": "to exhaust, to wear out; to devote oneself entirely"
+      },
+      "components": [
+        {
+          "arabic": "تَب",
+          "meaning": "prefix indicating intensive or exhaustive action"
+        },
+        {
+          "arabic": "تِيل",
+          "meaning": "related to complete devotion or exhaustion (from the root)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-fatḥ, indicating indefinite accusative noun (mafʿūl)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-remember! name-of your-Lord and-devote yourself to-Him with-[complete]-devotion"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

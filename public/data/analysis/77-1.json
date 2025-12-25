@@ -1,0 +1,50 @@
+{
+  "verseId": "77:1",
+  "verse": {
+    "arabic": "وَالْمُرْسَلَاتِ عُرْفًا",
+    "transliteration": "Waalmursalati AAurfan",
+    "surah": "Al-Mursalat",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْمُرْسَلَاتِ",
+      "transliteration": "wa-l-mursalāti",
+      "meaning": "and the sent ones (feminine plural)",
+      "root": {
+        "letters": "أ-ر-س",
+        "meaning": "to send, dispatch, or transmit"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمُرْسَلَاتِ",
+          "meaning": "the sent ones (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عُرْفًا",
+      "transliteration": "ʿurfan",
+      "meaning": "in gusts, by means of markings/signs",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, recognize, be aware of; fragrance, scent"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the [ones] sent-forth feminine-plural by/with gusts"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

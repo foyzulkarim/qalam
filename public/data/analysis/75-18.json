@@ -1,0 +1,99 @@
+{
+  "verseId": "75:18",
+  "verse": {
+    "arabic": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+    "transliteration": "Faitha qaranahu faittabiAA quranahu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "So when, then when",
+      "root": {
+        "letters": "أ-د-ح",
+        "meaning": "to come upon, to arrive; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَرَأْنَاهُ",
+      "transliteration": "qaraʾnāhu",
+      "meaning": "We recited it",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite"
+      },
+      "components": [
+        {
+          "arabic": "قَرَأْ",
+          "meaning": "we recited"
+        },
+        {
+          "arabic": "نَاهُ",
+          "meaning": "it (him)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَاتَّبِعْ",
+      "transliteration": "fattabiʿ",
+      "meaning": "Then follow",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to succeed, to track"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "Then (particle indicating sequence)"
+        },
+        {
+          "arabic": "تَتَّبِعْ",
+          "meaning": "You follow (verb, imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قُرْآنَهُ",
+      "transliteration": "qurʾānahu",
+      "meaning": "Its recitation, its Quran",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite"
+      },
+      "components": [
+        {
+          "arabic": "قُرْآن",
+          "meaning": "the recitation, the Quran (noun)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his/its (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-idhā - so when, qaraʾnāhu - We recited it, fattabiʿ - then follow, qurʾānahu - its recitation"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

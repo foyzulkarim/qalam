@@ -1,0 +1,63 @@
+{
+  "verseId": "68:5",
+  "verse": {
+    "arabic": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+    "transliteration": "Fasatubsiru wayubsiroona",
+    "surah": "Al-Qalam",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَتُبْصِرُ",
+      "transliteration": "fasatubṣiru",
+      "meaning": "So you will see",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle indicating future tense/sequence)"
+        },
+        {
+          "arabic": "سَـ",
+          "meaning": "Will (future tense marker)"
+        },
+        {
+          "arabic": "تُبْصِرُ",
+          "meaning": "You will see (verb, 2nd person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَيُبْصِرُونَ",
+      "transliteration": "wayubṣirūna",
+      "meaning": "and they will see",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُبْصِرُونَ",
+          "meaning": "they see (future/subjunctive)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then]-you-will-see wa-[and]-they-will-see"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "verseId": "68:16",
+  "verse": {
+    "arabic": "سَنَسِمُهُ عَلَى الْخُرْطُومِ",
+    "transliteration": "Sanasimuhu AAala alkhurtoomi",
+    "surah": "Al-Qalam",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَنَسِمُهُ",
+      "transliteration": "sanusimuhu",
+      "meaning": "We will mark him/it",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to elevate; to have a distinguishing mark or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "future particle indicating 'we will'"
+        },
+        {
+          "arabic": "نَسِمُ",
+          "meaning": "we mark, we brand (derived from سَمَّ - to mark)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise; ascendancy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْخُرْطُومِ",
+      "transliteration": "al-khurṭūm",
+      "meaning": "the snout/nose",
+      "root": {
+        "letters": "خ-ر-ط",
+        "meaning": "to dig, to plow; to turn over soil; to make a track or furrow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We-will-mark-him upon the-snout"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

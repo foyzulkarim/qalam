@@ -1,0 +1,104 @@
+{
+  "verseId": "69:18",
+  "verse": {
+    "arabic": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ",
+    "transliteration": "Yawmaithin tuAAradoona la takhfa minkum khafiyatun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma’idhin",
+      "meaning": "On that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُعْرَضُونَ",
+      "transliteration": "tuʿraḍūna",
+      "meaning": "You will be exhibited/presented"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَخْفَىٰ",
+      "transliteration": "takhfā",
+      "meaning": "Is hidden/concealed",
+      "root": {
+        "letters": "خ-ف-ي",
+        "meaning": "to be hidden, to remain unknown, to be obscured"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect/present tense form, often denoting habitual action or intention"
+        },
+        {
+          "arabic": "خَفَىٰ",
+          "meaning": "to be hidden, to remain concealed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "From you/Among you",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "To be, existence; related to being or belonging"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "From, among"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "You (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "خَافِيَةٌ",
+      "transliteration": "khāfiyah",
+      "meaning": "A concealed thing/Anything hidden",
+      "root": {
+        "letters": "خ-ف-ي",
+        "meaning": "to be hidden, concealed; to be unknown"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "On-that-day you-[will be]-exhibited not-is-hidden from-you a-concealed-thing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

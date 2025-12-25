@@ -1,0 +1,243 @@
+{
+  "verseId": "72:28",
+  "verse": {
+    "arabic": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا",
+    "transliteration": "LiyaAAlama an qad ablaghoo risalati rabbihim waahata bima ladayhim waahsa kulla shayin AAadadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّيَعْلَمَ",
+      "transliteration": "li-yaʿlama",
+      "meaning": "so that He may know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "so that, in order to"
+        },
+        {
+          "arabic": "يَعْلَمَ",
+          "meaning": "He may know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾanna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "affirmation, source; used to turn a verb into a noun of affirmation"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "to be, existence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "indeed, certainly",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to precede"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَبْلَغُوا",
+      "transliteration": "ʾablaghū",
+      "meaning": "they conveyed, they communicated",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to reach, attain, communicate"
+      },
+      "components": [
+        {
+          "arabic": "أَبْ",
+          "meaning": "prefix indicating command or encouragement to a group (form II)"
+        },
+        {
+          "arabic": "لَغُوا",
+          "meaning": "to convey, communicate (from the root ب-ل-غ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رِسَالَاتِ",
+      "transliteration": "risālāti",
+      "meaning": "messages",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "رِسَالَة",
+          "meaning": "message, communication"
+        },
+        {
+          "arabic": "ـَاتِ",
+          "meaning": "genitive plural suffix (indicating possession or belonging)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their, belonging to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَأَحَاطَ",
+      "transliteration": "wa-ʾaḥāṭa",
+      "meaning": "and He encompassed, and He surrounded",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to surround, encompass, close in on"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَحَاطَ",
+          "meaning": "encompassed, surrounded"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what, concerning that which",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be abundant, to flow, to surge; related to water and waves"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَدَيْهِمْ",
+      "transliteration": "laday-him",
+      "meaning": "with them, near/by them",
+      "root": {
+        "letters": "د-ي-و",
+        "meaning": "possess, have, be near"
+      },
+      "components": [
+        {
+          "arabic": "لَدَى",
+          "meaning": "near, by, with"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَأَحْصَىٰ",
+      "transliteration": "wa-ʾaḥṣā",
+      "meaning": "and He enumerated, and He counted",
+      "root": {
+        "letters": "ح-ص-ي",
+        "meaning": "to count, enumerate, reckon; to be aware of, comprehend"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَحْصَىٰ",
+          "meaning": "He counted, He enumerated"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كُلَّ",
+      "transliteration": "kulla",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness; to be full or complete"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, to exist, substance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَدَدًا",
+      "transliteration": "ʿadadan",
+      "meaning": "number, count",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to enumerate, limit"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-that He may know - that - indeed - they conveyed - messages - their Lord - and He encompassed - with what - near them - and He enumerated - all - thing - number"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "verseId": "68:37",
+  "verse": {
+    "arabic": "أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ",
+    "transliteration": "Am lakum kitabun feehi tadrusoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, whether",
+      "root": {
+        "letters": "ا-م-ر",
+        "meaning": "command, matter, order; wishing or doubting"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you, to you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كِتَابٌ",
+      "transliteration": "kitābun",
+      "meaning": "a book, scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, within it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَدْرُسُونَ",
+      "transliteration": "tadrusūna",
+      "meaning": "you learn, you study",
+      "root": {
+        "letters": "د-ر-س",
+        "meaning": "to learn, to study, to read; teaching, lesson"
+      },
+      "components": [
+        {
+          "arabic": "تَ-",
+          "meaning": "prefix indicating the present tense (form I)"
+        },
+        {
+          "arabic": "دُرُس-",
+          "meaning": "root relating to learning and study"
+        },
+        {
+          "arabic": "-ُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or - for you - a book - in it - you learn"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

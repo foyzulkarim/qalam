@@ -1,0 +1,127 @@
+{
+  "verseId": "69:49",
+  "verse": {
+    "arabic": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+    "transliteration": "Wainna lanaAAlamu anna minkum mukaththibeena",
+    "surah": "Al-Haqqah",
+    "verseNumber": 49
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنَّا",
+      "transliteration": "waʾinnā",
+      "meaning": "and indeed we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates confirmation or emphasis"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (inclusive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَنَعْلَمُ",
+      "transliteration": "lanaʿlamu",
+      "meaning": "certainly we know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "نَعْلَمُ",
+          "meaning": "we know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence, actuality"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, in that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنكُم",
+      "transliteration": "minkum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate from, to be part of"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مُّكَذِّبِينَ",
+      "transliteration": "mukazzibīn",
+      "meaning": "deniers",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to falsely attribute, to deny the truth"
+      },
+      "components": [
+        {
+          "arabic": "مُـ",
+          "meaning": "active participle marker"
+        },
+        {
+          "arabic": "كـ",
+          "meaning": "second-person masculine plural pronoun suffix (attached)"
+        },
+        {
+          "arabic": "ذِبـ",
+          "meaning": "part of the root denoting denial or falsification"
+        },
+        {
+          "arabic": "ـِينَ",
+          "meaning": "plural ending for active participles (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed we certainly-we know that from-among you deniers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "verseId": "69:47",
+  "verse": {
+    "arabic": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ",
+    "transliteration": "Fama minkum min ahadin AAanhu hajizeena",
+    "surah": "Al-Haqqah",
+    "verseNumber": 47
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "then no/so no",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be able, to possess power, to prevent"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "not, no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنكُم",
+      "transliteration": "min-kum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate, to come from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَحَدٍ",
+      "transliteration": "aḥadin",
+      "meaning": "anyone/one",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, singular"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the indefinite article (similar to 'a' or 'an')"
+        },
+        {
+          "arabic": "حَدٍ",
+          "meaning": "one, singular (from the root أ-ح-د)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَنْهُ",
+      "transliteration": "ʿan-hu",
+      "meaning": "from him/regarding him",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be away from, to distance oneself, to turn away"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, regarding"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَاجِزِينَ",
+      "transliteration": "ḥājizin",
+      "meaning": "preventers/obstructors",
+      "root": {
+        "letters": "ح-ج-ز",
+        "meaning": "to separate, to restrain, to hold back"
+      },
+      "components": [
+        {
+          "arabic": "حَاجِز",
+          "meaning": "preventer, obstructer (singular)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "dual ending, indicating two preventers/obstructors"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-no from-among-you anyone from-him preventers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

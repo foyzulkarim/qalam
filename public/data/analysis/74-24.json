@@ -1,0 +1,107 @@
+{
+  "verseId": "74:24",
+  "verse": {
+    "arabic": "فَقَالَ إِنْ هَـٰذَا إِلَّا سِحْرٌ يُؤْثَرُ",
+    "transliteration": "Faqala in hatha illa sihrun yutharu",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَقَالَ",
+      "transliteration": "fa-qāla",
+      "meaning": "and he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "and (then)"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنْ",
+      "transliteration": "ʾin",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "ه-ذ-أ",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to turn away, to refuse, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سِحْرٌ",
+      "transliteration": "siḥrun",
+      "meaning": "magic, sorcery",
+      "root": {
+        "letters": "س-ح-ر",
+        "meaning": "to rub, to wear away; to be intense or sharp (of color); to cast a spell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُؤْثَرُ",
+      "transliteration": "yuʾtharu",
+      "meaning": "is imitated, is followed",
+      "root": {
+        "letters": "أ-ث-ر",
+        "meaning": "to have lasting effect, to leave a trace; to be famous or well-known"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker + 3rd person masculine singular prefix"
+        },
+        {
+          "arabic": "أُثِرَ",
+          "meaning": "passive form of the verb 'to be imitated'"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "tanwin al-fatḥ (indicates indefiniteness)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[he] said-indeed this but magic imitated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

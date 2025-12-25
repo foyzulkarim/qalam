@@ -1,0 +1,81 @@
+{
+  "verseId": "69:46",
+  "verse": {
+    "arabic": "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ",
+    "transliteration": "Thumma laqataAAna minhu alwateena",
+    "surah": "Al-Haqqah",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish after something else"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَقَطَعْنَا",
+      "transliteration": "laqaṭaʿnā",
+      "meaning": "We would have certainly cut",
+      "root": {
+        "letters": "ق-ط-ع",
+        "meaning": "To cut, to sever, to separate"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "Conditional particle (la), indicating 'if...then'"
+        },
+        {
+          "arabic": "قَطَعْنَا",
+          "meaning": "We cut (perfect tense, first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from him",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْوَتِينَ",
+      "transliteration": "al-watīn",
+      "meaning": "the aorta",
+      "root": {
+        "letters": "و-ت-ن",
+        "meaning": "to dwell, to remain deeply embedded; firmness, stability (in a place or condition)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-We-would-have-certainly-cut-from-him-[the]-aorta"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

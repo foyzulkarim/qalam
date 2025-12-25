@@ -1,0 +1,174 @@
+{
+  "verseId": "68:41",
+  "verse": {
+    "arabic": "أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِن كَانُوا صَادِقِينَ",
+    "transliteration": "Am lahum shurakao falyatoo bishurakaihim in kanoo sadiqeena",
+    "surah": "Al-Qalam",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, but",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety; to be safe, trustworthy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them, to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شُرَكَاءُ",
+      "transliteration": "shurakāʾu",
+      "meaning": "partners, associates",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate, to partake in something"
+      },
+      "components": [
+        {
+          "arabic": "شَرِك",
+          "meaning": "partnership, association"
+        },
+        {
+          "arabic": "ـاءُ",
+          "meaning": "indefinite plural marker (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَلْيَأْتُوا",
+      "transliteration": "fa-lyaʾtū",
+      "meaning": "then let them come, so they bring",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to bring"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, so that"
+        },
+        {
+          "arabic": "يَأْتُوا",
+          "meaning": "they come, they bring (subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِشُرَكَائِهِمْ",
+      "transliteration": "bi-shurakāʾihim",
+      "meaning": "with their partners",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (in partnership)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "شُرَكَائِهِمْ",
+          "meaning": "their partners"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of emphasis or prolongation"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "pronoun, 'you'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were, they are (past imperfect)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (masculine plural pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (past imperfect ending)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "صَادِقِينَ",
+      "transliteration": "ṣādiqīn",
+      "meaning": "truthful, honest",
+      "root": {
+        "letters": "ṣ-d-q",
+        "meaning": "to be truthful, to speak the truth, to be sincere"
+      },
+      "components": [
+        {
+          "arabic": "صَادِق",
+          "meaning": "truthful (singular masculine)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural masculine ending (indicating a group of truthful individuals)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-to them partners then-let them come with-their partners if they were truthful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

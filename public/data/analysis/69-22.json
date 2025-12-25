@@ -1,0 +1,52 @@
+{
+  "verseId": "69:22",
+  "verse": {
+    "arabic": "فِي جَنَّةٍ عَالِيَةٍ",
+    "transliteration": "Fee jannatin AAaliyatin",
+    "surah": "Al-Haqqah",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; abundance, return"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَنَّةٍ",
+      "transliteration": "jannatin",
+      "meaning": "garden, paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; hence, a place hidden from view"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَالِيَةٍ",
+      "transliteration": "ʿāliyah",
+      "meaning": "elevated, high",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-within [a] garden elevated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

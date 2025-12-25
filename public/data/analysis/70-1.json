@@ -1,0 +1,72 @@
+{
+  "verseId": "70:1",
+  "verse": {
+    "arabic": "سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ",
+    "transliteration": "Saala sailun biAAathabin waqiAAin",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَأَلَ",
+      "transliteration": "saʾala",
+      "meaning": "he asked, inquired",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire, to request"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَائِلٌ",
+      "transliteration": "sāʾilun",
+      "meaning": "a questioner, a supplicant (one who asks)",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire, to request"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِعَذَابٍ",
+      "transliteration": "biʿaḏābin",
+      "meaning": "with a punishment, by means of a punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; suffering, pain"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عَذَابٍ",
+          "meaning": "punishment, torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَاقِعٍ",
+      "transliteration": "wāqiʿin",
+      "meaning": "occurring, bound to happen, imminent",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to happen, to occur"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "asked-a-questioner-with-punishment-occurring"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

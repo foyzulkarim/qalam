@@ -1,0 +1,189 @@
+{
+  "verseId": "74:56",
+  "verse": {
+    "arabic": "وَمَا يَذْكُرُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ",
+    "transliteration": "Wama yathkuroona illa an yashaa Allahu huwa ahlu alttaqwa waahlu almaghfirati",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 56
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَذْكُرُونَ",
+      "transliteration": "yadhkurūn",
+      "meaning": "they remember/they recall",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural (they)"
+        },
+        {
+          "arabic": "ذْكُرُ",
+          "meaning": "root verb in the masculine plural form (they remember)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating masculine plural pronoun (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to reject, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also related to desire and intention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَشَاءَ",
+      "transliteration": "yashāʾa",
+      "meaning": "He wills/He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to will, to desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He/It is",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَهْلُ",
+      "transliteration": "ahlu",
+      "meaning": "worthy of/people of",
+      "root": {
+        "letters": "أ-هـ-ل",
+        "meaning": "to incline towards, to be fit for; family, household"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "التَّقْوَىٰ",
+      "transliteration": "at-taqwā",
+      "meaning": "the piety/righteousness",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, preserve; to be cautious"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تَقْوَىٰ",
+          "meaning": "piety, righteousness (verbal noun from the root و-ق-ي)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَأَهْلُ",
+      "transliteration": "wa ahlu",
+      "meaning": "and worthy of/and people of",
+      "root": {
+        "letters": "أ-هـ-ل",
+        "meaning": "to incline towards something, to be fit for or belong to (a group)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَهْلُ",
+          "meaning": "people of, worthy of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْمَغْفِرَةِ",
+      "transliteration": "al-maghfirah",
+      "meaning": "the forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَغْفِرَة",
+          "meaning": "forgiveness, remission"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what they-remember except that He-wills - Allah. He is worthy-of the-piety and worthy-of the-forgiveness."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

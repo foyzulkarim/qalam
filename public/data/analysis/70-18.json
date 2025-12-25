@@ -1,0 +1,59 @@
+{
+  "verseId": "70:18",
+  "verse": {
+    "arabic": "وَجَمَعَ فَأَوْعَىٰ",
+    "transliteration": "WajamaAAa faawAAa",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَمَعَ",
+      "transliteration": "wa-jamaʿa",
+      "meaning": "and he collected",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to gather, to collect, to unite"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَمَعَ",
+          "meaning": "he collected"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَأَوْعَىٰ",
+      "transliteration": "fa-ʾawʿā",
+      "meaning": "then he hoarded/contained",
+      "root": {
+        "letters": "و-ع-ي",
+        "meaning": "to contain, to hold, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَوْعَىٰ",
+          "meaning": "he contained, he hoarded (perfect tense verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he-collected - then-he-hoarded"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

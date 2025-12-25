@@ -1,0 +1,113 @@
+{
+  "verseId": "68:34",
+  "verse": {
+    "arabic": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ",
+    "transliteration": "Inna lilmuttaqeena AAinda rabbihim jannati alnnaAAeemi",
+    "surah": "Al-Qalam",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "to be, existence; confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, if; conditional particle introducing emphasis"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلْمُتَّقِينَ",
+      "transliteration": "lil-muttaqīna",
+      "meaning": "for the righteous, to the pious",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, be cautious"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُتَّقِينَ",
+          "meaning": "the righteous, the pious ones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "with, near, at the presence of",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَنَّاتِ",
+      "transliteration": "jannāti",
+      "meaning": "gardens (plural)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be secluded; also relates to the essence of life and growth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "النَّعِيمِ",
+      "transliteration": "an-naʿīmi",
+      "meaning": "the pleasure, the bliss",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, to enjoy, comfort"
+      },
+      "components": [
+        {
+          "arabic": "النَّعْمِ",
+          "meaning": "the pleasure, the bliss (definite form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed - for the righteous - with - their Lord - gardens of - the pleasure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

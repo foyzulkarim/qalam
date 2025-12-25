@@ -1,0 +1,61 @@
+{
+  "verseId": "75:24",
+  "verse": {
+    "arabic": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+    "transliteration": "Wawujoohun yawmaithin basiratun",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَوُجُوهٌ",
+      "transliteration": "wa wujūhun",
+      "meaning": "and faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to find, to be prominent; face (as that which is found or turned towards)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma’idhin",
+      "meaning": "on that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time; period"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَاسِرَةٌ",
+      "transliteration": "bāsirah",
+      "meaning": "contorted, frowning, gloomy",
+      "root": {
+        "letters": "ب-س-ر",
+        "meaning": "to look, to be clear, insight"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - faces [on] - that - Day - contorted"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

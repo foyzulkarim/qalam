@@ -1,0 +1,50 @@
+{
+  "verseId": "69:23",
+  "verse": {
+    "arabic": "قُطُوفُهَا دَانِيَةٌ",
+    "transliteration": "Qutoofuha daniyatun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُطُوفُهَا",
+      "transliteration": "quṭūfuhā",
+      "meaning": "its picked fruits/clusters of fruit",
+      "root": {
+        "letters": "ق-ط-ف",
+        "meaning": "to pick, to harvest, to cut off"
+      },
+      "components": [
+        {
+          "arabic": "قُطُوفٌ",
+          "meaning": "picked fruits/clusters of fruit (plural)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "دَانِيَةٌ",
+      "transliteration": "dāniyah",
+      "meaning": "hanging near/close",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be near, to draw near, low (in altitude)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "its-picked-fruits hanging near"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

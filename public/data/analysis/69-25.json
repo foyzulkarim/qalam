@@ -1,0 +1,217 @@
+{
+  "verseId": "69:25",
+  "verse": {
+    "arabic": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ",
+    "transliteration": "Waamma man ootiya kitabahu bishimalihi fayaqoolu ya laytanee lam oota kitabiyah",
+    "surah": "Al-Haqqah",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "as for, but concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to receive, to intend"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or, but"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; or to diminish, lessen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُوتِيَ",
+      "transliteration": "ūtiya",
+      "meaning": "was given, was bestowed upon",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "passive voice prefix indicating 'was'"
+        },
+        {
+          "arabic": "تِيَ",
+          "meaning": "receiving the action of giving, bestowed upon"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كِتَابَهُ",
+      "transliteration": "kitābahū",
+      "meaning": "his record, his book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كتاب",
+          "meaning": "book, writing, record"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِشِمَالِهِ",
+      "transliteration": "bi-shimālihi",
+      "meaning": "in his left hand, with his left hand",
+      "root": {
+        "letters": "ش-م-ل",
+        "meaning": "left side, weakness, inclination"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "شِمَالِهِ",
+          "meaning": "his left hand"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَيَقُولُ",
+      "transliteration": "fayaqūlu",
+      "meaning": "then he will say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "يَقُولُ",
+          "meaning": "he says, he will say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O, Alas",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَيْتَنِي",
+      "transliteration": "laytanī",
+      "meaning": "Oh, I wish, if only I had",
+      "root": {
+        "letters": "ل-ي-ت",
+        "meaning": "softness, weakness, inability; wishing something unattainable"
+      },
+      "components": [
+        {
+          "arabic": "لَيْتَ",
+          "meaning": "Oh, I wish; if only"
+        },
+        {
+          "arabic": "-نِي",
+          "meaning": "first-person singular pronoun suffix (my)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not, did not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to will, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أُوتَ",
+      "transliteration": "ūta",
+      "meaning": "was given, was bestowed upon",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker"
+        },
+        {
+          "arabic": "وتَ",
+          "meaning": "to give, was given (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كِتَابِيَهْ",
+      "transliteration": "kitābiyahū",
+      "meaning": "my record, my book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, record"
+        },
+        {
+          "arabic": "ـِيَهْ",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - as for - who - was given - his record - in his left hand - then he will say - O - I wish - not - was given - my record"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

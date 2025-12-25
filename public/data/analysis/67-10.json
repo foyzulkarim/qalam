@@ -1,0 +1,202 @@
+{
+  "verseId": "67:10",
+  "verse": {
+    "arabic": "وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ",
+    "transliteration": "Waqaloo law kunna nasmaAAu aw naAAqilu ma kunna fee ashabi alssaAAeeri",
+    "surah": "Al-Mulk",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if only, were if",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "we were (perfect tense)"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "we (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَسْمَعُ",
+      "transliteration": "nasmaʿu",
+      "meaning": "we hear, we were hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (first person plural pronoun)"
+        },
+        {
+          "arabic": "سَمِعَ",
+          "meaning": "to hear (verb root)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍamma (indicating present tense, active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَعْقِلُ",
+      "transliteration": "naʿqilu",
+      "meaning": "we reason, we were reasoning",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to comprehend, to reason"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "عَقِلُ",
+          "meaning": "to reason, to comprehend (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُنْ",
+          "meaning": "be!"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "to enter, to be present, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَصْحَابِ",
+      "transliteration": "aṣḥābi",
+      "meaning": "companions of, possessors of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": [
+        {
+          "arabic": "أَصْحَابِ",
+          "meaning": "companions of, possessors of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "السَّعِيرِ",
+      "transliteration": "as-saʿīri",
+      "meaning": "the Blaze, the fire",
+      "root": {
+        "letters": "س-ع-ر",
+        "meaning": "to blaze, to burn intensely; intensity of heat"
+      },
+      "components": [
+        {
+          "arabic": "السَّعِ",
+          "meaning": "the blazing, the burning"
+        },
+        {
+          "arabic": "يرِ",
+          "meaning": "the definite article (ال) + the noun ending indicating genitive case/indefiniteness"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-said if-only we-were hearing or we-were reasoning what that-which we-were in companions of the-Blaze"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

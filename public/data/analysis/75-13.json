@@ -1,0 +1,134 @@
+{
+  "verseId": "75:13",
+  "verse": {
+    "arabic": "يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+    "transliteration": "Yunabbao alinsanu yawmaithin bima qaddama waakhkhara",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُنَبَّأُ",
+      "transliteration": "yunabbaʾu",
+      "meaning": "He will be informed, it will be announced to him",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to inform, to announce; news itself"
+      },
+      "components": [
+        {
+          "arabic": "يُنَ",
+          "meaning": "passive voice prefix, indicates 'is being'"
+        },
+        {
+          "arabic": "بَّأَ",
+          "meaning": "to inform, to announce (form II verb)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah, indicates nominative case and vowel harmony"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "The human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly, weakness/dependence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "On that day, that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "With what, by means of what",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be possessed, to exist"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, something"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَدَّمَ",
+      "transliteration": "qaddama",
+      "meaning": "He sent ahead, he advanced",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to set forth, to advance, to put forward"
+      },
+      "components": [
+        {
+          "arabic": "قد",
+          "meaning": "already, indeed"
+        },
+        {
+          "arabic": "مَ",
+          "meaning": "suffix indicating the third person masculine singular active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَأَخَّرَ",
+      "transliteration": "waʾakhkhara",
+      "meaning": "And he kept back, and he delayed",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to delay, to put back, to postpone"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَخَّرَ",
+          "meaning": "he delayed, he kept back"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-will-be-informed - the-human-being - on-that-day - with-what - he-sent-ahead - and-he-kept-back"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

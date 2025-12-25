@@ -1,0 +1,200 @@
+{
+  "verseId": "72:2",
+  "verse": {
+    "arabic": "يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَن نُّشْرِكَ بِرَبِّنَا أَحَدًا",
+    "transliteration": "Yahdee ila alrrushdi faamanna bihi walan nushrika birabbina ahadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَهْدِي",
+      "transliteration": "yahdī",
+      "meaning": "it guides",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, to direct"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense/active voice"
+        },
+        {
+          "arabic": "هَدْي",
+          "meaning": "guidance, leading; the verbal noun from هدى"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "pronoun suffix indicating third-person singular masculine (he)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, be associated with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرُّشْدِ",
+      "transliteration": "ar-rušdi",
+      "meaning": "the right course, the guidance",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to be guided correctly, maturity of understanding"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَآمَنَّا",
+      "transliteration": "faʾāmannā",
+      "meaning": "so we believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "آمَن",
+          "meaning": "we believed (verb in perfect tense)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "in it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, him, her (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "—",
+        "meaning": "pause; silence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَن",
+      "transliteration": "wa-lan",
+      "meaning": "and never",
+      "root": {
+        "letters": "ل-ن-ع",
+        "meaning": "to refuse, to be unwilling, or to not happen"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "will not, never (particle of negation for the future)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نُّشْرِكَ",
+      "transliteration": "nušrika",
+      "meaning": "we associate",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (in partnership), to ascribe partners (to God)"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "شْرِك",
+          "meaning": "association, partnership (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِرَبِّنَا",
+      "transliteration": "bi-rabbinā",
+      "meaning": "with our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "رَبِّنَا",
+          "meaning": "our Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَحَدًا",
+      "transliteration": "ʾaḥadan",
+      "meaning": "anyone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, singular"
+      },
+      "components": [
+        {
+          "arabic": "أَحَد",
+          "meaning": "the unique, one"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "indefinite accusative marker (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "it-guides - to - the-right-course - so-we-believed - in-it - [pause] - and-never - we-associate - with-our-Lord - anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

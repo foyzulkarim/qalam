@@ -1,0 +1,89 @@
+{
+  "verseId": "69:4",
+  "verse": {
+    "arabic": "كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ",
+    "transliteration": "Kaththabat thamoodu waAAadun bialqariAAati",
+    "surah": "Al-Haqqah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَذَّبَتْ",
+      "transliteration": "kad̲h̲abāt",
+      "meaning": "it denied, she lied",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "prefix indicating the feminine singular past tense"
+        },
+        {
+          "arabic": "ذَبَّتْ",
+          "meaning": "past tense verb form meaning 'it denied', 'she lied'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ثَمُودُ",
+      "transliteration": "th̲amūd",
+      "meaning": "Thamud (a people)",
+      "root": {
+        "letters": "ث-م-د",
+        "meaning": "to be firm, strong, lasting; to establish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَادٌ",
+      "transliteration": "'ād",
+      "meaning": "‘Aad (a people)",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "to return, to revert, to be back; also signifies strength and power"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْقَارِعَةِ",
+      "transliteration": "bi-l-qāriʿah",
+      "meaning": "with/by the Striking Calamity",
+      "root": {
+        "letters": "ق-ر-ع",
+        "meaning": "to strike, to knock, to cause impact"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْقَارِعَةِ",
+          "meaning": "the Striking Calamity, the overwhelming disaster"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "denied-it Thamud and-‘Aad with-the Striking Calamity"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "verseId": "67:4",
+  "verse": {
+    "arabic": "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ",
+    "transliteration": "Thumma irjiAAi albasara karratayni yanqalib ilayka albasaru khasian wahuwa haseerun",
+    "surah": "Al-Mulk",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish; also indicates time sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ارْجِعِ",
+      "transliteration": "irjiʿī",
+      "meaning": "return (imperative, feminine singular)"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْبَصَرَ",
+      "transliteration": "al-baṣara",
+      "meaning": "the vision, the sight",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَصَر",
+          "meaning": "vision, sight"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَرَّتَيْنِ",
+      "transliteration": "karrataynī",
+      "meaning": "twice, two times (dual accusative)",
+      "root": {
+        "letters": "ك-ر-ر",
+        "meaning": "to repeat, to return (upon oneself)"
+      },
+      "components": [
+        {
+          "arabic": "كَرَّ",
+          "meaning": "to repeat, to return (upon oneself)"
+        },
+        {
+          "arabic": "تَيْنِ",
+          "meaning": "dual accusative ending (two times)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَنقَلِبْ",
+      "transliteration": "yanqalibu",
+      "meaning": "it will return, it reverts (subjunctive)",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change, to revert"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense/subjunctive mood (from يَا)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "prefix indicating the passive voice/reflexive form"
+        },
+        {
+          "arabic": "قَلَبَ",
+          "meaning": "to turn over, to change, the root verb"
+        },
+        {
+          "arabic": "بْ",
+          "meaning": "subjunctive marker / nunation of the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَيْكَ",
+      "transliteration": "ilayka",
+      "meaning": "to you",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْبَصَرُ",
+      "transliteration": "al-baṣaru",
+      "meaning": "the vision, the sight (nominative)",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَصَر",
+          "meaning": "vision, sight"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خَاسِئًا",
+      "transliteration": "khāsiʾan",
+      "meaning": "humbled, disgraced (accusative)",
+      "root": {
+        "letters": "خ-س-أ",
+        "meaning": "to be low, abased; to fail, perish; to lose, be lost"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and it is, and he/it is",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to fall, to decline; essence, being"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "حَسِيرٌ",
+      "transliteration": "ḥasīrun",
+      "meaning": "fatigued, exhausted (nominative)",
+      "root": {
+        "letters": "ح-س-ر",
+        "meaning": "to be deficient, to lack, to feel loss or need; regret"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-return [you] the vision twice again it-will-return to you the vision humbled and it is fatigued"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

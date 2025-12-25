@@ -1,0 +1,97 @@
+{
+  "verseId": "69:34",
+  "verse": {
+    "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+    "transliteration": "Wala yahuddu AAala taAAami almiskeeni",
+    "surah": "Al-Haqqah",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَحُضُّ",
+      "transliteration": "yaḥuḍḍu",
+      "meaning": "he encourages/urges",
+      "root": {
+        "letters": "ح-ض-د",
+        "meaning": "to incite, to urge, to encourage, to prepare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on/to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise; ascendancy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "طَعَامِ",
+      "transliteration": "ṭaʿāmi",
+      "meaning": "food of/the food of",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, nourishment"
+      },
+      "components": [
+        {
+          "arabic": "طَعَامٍ",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمِسْكِينِ",
+      "transliteration": "al-miskīni",
+      "meaning": "the poor man/the needy one",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "weakness, poverty; to be weak or poor"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مِسْكِين",
+          "meaning": "poor person, needy one"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not he-encourages upon food-of the-poor-man"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "verseId": "75:11",
+  "verse": {
+    "arabic": "كَلَّا لَا وَزَرَ",
+    "transliteration": "Kalla la wazara",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, indeed not, by no means",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to refuse, reject, or deny; to be insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, there is no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَزَرَ",
+      "transliteration": "wazara",
+      "meaning": "refuge, protection, shelter",
+      "root": {
+        "letters": "و-ز-ر",
+        "meaning": "burden, weight; to bear a burden or responsibility"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - not - refuge"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

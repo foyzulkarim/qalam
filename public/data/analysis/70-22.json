@@ -1,0 +1,50 @@
+{
+  "verseId": "70:22",
+  "verse": {
+    "arabic": "إِلَّا الْمُصَلِّينَ",
+    "transliteration": "Illa almusalleena",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to decline, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمُصَلِّينَ",
+      "transliteration": "al-muṣallīna",
+      "meaning": "the observers of prayer, the pray-ers",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to perform ritual worship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُصَلِّينَ",
+          "meaning": "pray-ers, observers of prayer (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except - the-observers-of-prayer"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

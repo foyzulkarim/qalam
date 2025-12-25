@@ -1,0 +1,101 @@
+{
+  "verseId": "75:5",
+  "verse": {
+    "arabic": "بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ أَمَامَهُ",
+    "transliteration": "Bal yureedu alinsanu liyafjura amamahu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "but, rather, nay",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to be moist; to reach a limit or boundary (figurative)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُرِيدُ",
+      "transliteration": "yurīdu",
+      "meaning": "he desires, he wills",
+      "root": {
+        "letters": "ر-د-و",
+        "meaning": "to turn back, to return; to choose, to will"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular or general active voice"
+        },
+        {
+          "arabic": "رِيدُ",
+          "meaning": "desire, volition (verbal noun derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly, weakness/mortality (derived)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِيَفْجُرَ",
+      "transliteration": "li-yafjurā",
+      "meaning": "in order that he may transgress, to sin",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to burst forth, to split open; to exceed limits (in behavior)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يَفْجُرَ",
+          "meaning": "he transgresses, he sins (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَمَامَهُ",
+      "transliteration": "ʾamāmahu",
+      "meaning": "before him, in front of him (referring to his lifetime/future)",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to be in front of, to lead, facing"
+      },
+      "components": [
+        {
+          "arabic": "أَمَام",
+          "meaning": "in front of, before"
+        },
+        {
+          "arabic": "-هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "but- desires - the- human-being - to-sin - before-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

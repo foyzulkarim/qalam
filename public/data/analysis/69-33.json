@@ -1,0 +1,118 @@
+{
+  "verseId": "69:33",
+  "verse": {
+    "arabic": "إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ",
+    "transliteration": "Innahu kana la yuminu biAllahi alAAatheemi",
+    "surah": "Al-Haqqah",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahū",
+      "meaning": "Indeed, he (emphatic particle + pronoun)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; becoming, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, used to be",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "to be, to exist, inherent quality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُؤْمِنُ",
+      "transliteration": "yuʾminu",
+      "meaning": "believe, have faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness; to feel safe or secure"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first-person singular or imperfective aspect"
+        },
+        {
+          "arabic": "ؤْمِنُ",
+          "meaning": "to believe, to have faith (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "in Allah, by Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to worship, to follow, divinity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, in, with"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah, the God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْعَظِيمِ",
+      "transliteration": "al-ʿaẓīmi",
+      "meaning": "the Great, the Most Great",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, to be large, to exceed; power, magnitude"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيم",
+          "meaning": "great, magnificent"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-he was not believe in-Allah the-Great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

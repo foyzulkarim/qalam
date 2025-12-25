@@ -1,0 +1,181 @@
+{
+  "verseId": "67:12",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+    "transliteration": "Inna allatheena yakhshawna rabbahum bialghaybi lahum maghfiratun waajrun kabeerun",
+    "surah": "Al-Mulk",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, to exist; confirmation, emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to possess, to own, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَخْشَوْنَ",
+      "transliteration": "yakhshawūna",
+      "meaning": "They fear",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to feel fear, to be afraid, to revere"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and plurality"
+        },
+        {
+          "arabic": "خْشَ",
+          "meaning": "fear, reverence (stem from root خ-ش-ي)"
+        },
+        {
+          "arabic": "وَنَ",
+          "meaning": "suffix indicating 'they' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبَّهُم",
+      "transliteration": "rabba-hum",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْغَيْبِ",
+      "transliteration": "bil-ghaybi",
+      "meaning": "In the unseen, due to the unseen",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be hidden, unseen; to absent oneself"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "الْغَيْبِ",
+          "meaning": "the unseen, the hidden things"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "For them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَّغْفِرَةٌ",
+      "transliteration": "maghfiratun",
+      "meaning": "Forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَأَجْرٌ",
+      "transliteration": "wa-ajrun",
+      "meaning": "And a reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَجْرٌ",
+          "meaning": "reward, wages"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كَبِيرٌ",
+      "transliteration": "kabīrun",
+      "meaning": "Great, large",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, greatness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-ones-who they-fear their-Lord in-the-unseen for-them forgiveness and-a-reward great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

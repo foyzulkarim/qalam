@@ -1,0 +1,129 @@
+{
+  "verseId": "77:48",
+  "verse": {
+    "arabic": "وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+    "transliteration": "Waitha qeela lahumu irkaAAoo la yarkaAAoona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; time passing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قِيلَ",
+      "transliteration": "qīla",
+      "meaning": "it was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said (active voice)"
+        },
+        {
+          "arabic": "مَفْعُول",
+          "meaning": "passive voice marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَهُمُ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ارْكَعُوا",
+      "transliteration": "arkʿū",
+      "meaning": "bow (imperative, plural)",
+      "root": {
+        "letters": "ر-ك-ع",
+        "meaning": "to bend, to incline, to prostrate; weakness"
+      },
+      "components": [
+        {
+          "arabic": "اَرْ",
+          "meaning": "imperative marker (often indicating a command)"
+        },
+        {
+          "arabic": "كَعُوا",
+          "meaning": "bow (plural, second person)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَرْكَعُونَ",
+      "transliteration": "yarkʿūn",
+      "meaning": "they bow",
+      "root": {
+        "letters": "ر-ك-ع",
+        "meaning": "to bow, to incline in worship"
+      },
+      "components": [
+        {
+          "arabic": "يَر",
+          "meaning": "prefix indicating present/future tense, they (masculine plural)"
+        },
+        {
+          "arabic": "كَعُونَ",
+          "meaning": "bowing, state of being in the act of bowing"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - it was said - to them - bow [you all] - not - they bow"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "verseId": "69:50",
+  "verse": {
+    "arabic": "وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ",
+    "transliteration": "Wainnahu lahasratun AAala alkafireena",
+    "surah": "Al-Haqqah",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence; confirmation, emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphatic statements)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُ",
+      "transliteration": "hu",
+      "meaning": "it, he",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "existence, being; falling into something (like a well)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَحَسْرَةٌ",
+      "transliteration": "laḥasratun",
+      "meaning": "certainly [is] regret, a cause of grief",
+      "root": {
+        "letters": "ح-س-ر",
+        "meaning": "to feel loss, to be deficient, to regret"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīna",
+      "meaning": "the disbelievers, the ones who reject faith",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny faith, to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers, rejecters of faith (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed-it [is]-certainly regret upon the disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

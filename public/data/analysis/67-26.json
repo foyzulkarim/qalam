@@ -1,0 +1,145 @@
+{
+  "verseId": "67:26",
+  "verse": {
+    "arabic": "قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ",
+    "transliteration": "Qul innama alAAilmu AAinda Allahi wainnama ana natheerun mubeenun",
+    "surah": "Al-Mulk",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "Speech, utterance, to relate; the core concept revolves around communication through verbal expression."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "Indeed, only; verily it is solely",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict; to be exclusively"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which; used here for restriction/limitation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعِلْمُ",
+      "transliteration": "al-ʿilmu",
+      "meaning": "The knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, awareness, understanding"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِلْمٌ",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "With; at; near",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "Possession, location, time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to be divine; the act of devotion and submission"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَإِنَّمَا",
+      "transliteration": "wa-innamā",
+      "meaning": "And indeed, only; and verily it is solely",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to define, to specify, to limit"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّمَا",
+          "meaning": "only, solely; restrictive particle emphasizing negation of everything except what follows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَنَا",
+      "transliteration": "anā",
+      "meaning": "I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; inherent existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نَذِيرٌ",
+      "transliteration": "nad̲hīrun",
+      "meaning": "A warner",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مُّبِينٌ",
+      "transliteration": "mubīnun",
+      "meaning": "Clear; evident; manifest",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "To be apparent; to become clear or evident; distinction."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - Indeed, only - the knowledge - with - Allah - and - indeed, only - I - a warner - clear."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "verseId": "71:26",
+  "verse": {
+    "arabic": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+    "transliteration": "Waqala noohun rabbi la tathar AAala alardi mina alkafireena dayyaran",
+    "surah": "Nuh",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالَ",
+      "transliteration": "wa-qāla",
+      "meaning": "and he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُوحٌ",
+      "transliteration": "nūḥun",
+      "meaning": "Noah (proper noun)",
+      "root": {
+        "letters": "ن-و-ح",
+        "meaning": "to rest, to seek refuge; also associated with a specific type of cry or lamentation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّبِّ",
+      "transliteration": "rabbi",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "my Lord (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَذَرْ",
+      "transliteration": "tadhar",
+      "meaning": "leave, abandon",
+      "root": {
+        "letters": "ذ-ر-ح",
+        "meaning": "to leave, to forsake, to abandon; related to spaciousness and ease (as in leaving something free)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "tanwin al-fatḥ (indicating indefinite accusative or genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from among, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīna",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny (faith), be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "دَيَّارًا",
+      "transliteration": "dayyāran",
+      "meaning": "an inhabitant, dwelling place",
+      "root": {
+        "letters": "د-ي-ر",
+        "meaning": "to dwell, to live; a place of dwelling"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-said Noah my-Lord not leave upon the-earth from among the-disbelievers an-inhabitant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

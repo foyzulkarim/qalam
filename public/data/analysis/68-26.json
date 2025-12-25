@@ -1,0 +1,115 @@
+{
+  "verseId": "68:26",
+  "verse": {
+    "arabic": "فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ",
+    "transliteration": "Falamma raawha qaloo inna ladalloona",
+    "surah": "Al-Qalam",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَمَّا",
+      "transliteration": "fa-lammā",
+      "meaning": "then when, so when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to incline towards"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, so when (conditional particle indicating time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَأَوْهَا",
+      "transliteration": "ra'awhā",
+      "meaning": "they saw it",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "رَأَوْ",
+          "meaning": "they saw"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَال",
+          "meaning": "they said (past tense, imperfect)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "indeed we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَضَالُّونَ",
+      "transliteration": "laḍāllūn",
+      "meaning": "certainly astray, lost",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to err, to deviate from the right path, to be lost"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not, certainly not"
+        },
+        {
+          "arabic": "ضَالُّونَ",
+          "meaning": "astray, lost (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-when they saw it, they said, indeed we are lost"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

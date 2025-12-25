@@ -1,0 +1,70 @@
+{
+  "verseId": "75:32",
+  "verse": {
+    "arabic": "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ",
+    "transliteration": "Walakin kaththaba watawalla",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَـٰكِن",
+      "transliteration": "wa-lākin",
+      "meaning": "but, however; and yet",
+      "root": {
+        "letters": "ك-ن-ل",
+        "meaning": "to be, to exist; belonging to; possession"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـٰكِن",
+          "meaning": "but, however; yet (expressing opposition)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَذَّبَ",
+      "transliteration": "kaḏḏaba",
+      "meaning": "he denied; he rejected; he belied",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie; to be false"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَتَوَلَّىٰ",
+      "transliteration": "wa-tawallā",
+      "meaning": "and he turned away; and he retreated; and he abandoned",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from; to abandon; to be in charge of/protect"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَوَلَّىٰ",
+          "meaning": "he turned away/retreated/abandoned (derived from the root وَ-ل-ي)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "but-yet he-denied and-he-turned-away"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

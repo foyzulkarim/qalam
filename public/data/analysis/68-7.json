@@ -1,0 +1,216 @@
+{
+  "verseId": "68:7",
+  "verse": {
+    "arabic": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+    "transliteration": "Inna rabbaka huwa aAAlamu biman dalla AAan sabeelihi wahuwa aAAlamu bialmuhtadeena",
+    "surah": "Al-Qalam",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates affirmation or emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Conditional particle indicating affirmation, indeed."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Your (masculine singular, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "ʾaʿlamu",
+      "meaning": "Most knowing, more knowledgeable",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "most"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِمَن",
+      "transliteration": "biman",
+      "meaning": "With who, of whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whom, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ضَلَّ",
+      "transliteration": "ḍalla",
+      "meaning": "Strayed, went astray",
+      "root": {
+        "letters": "د-ل-ل",
+        "meaning": "To err, deviate, be lost; to weaken or fall."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "From, away from",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be distant, to depart, to return"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "سَبِيلِهِ",
+      "transliteration": "sabīlihi",
+      "meaning": "His way, His path",
+      "root": {
+        "letters": "س-ب-ا",
+        "meaning": "to follow a path, to go on a way; road, route"
+      },
+      "components": [
+        {
+          "arabic": "سَبِيلِ",
+          "meaning": "way, path"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "And He",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He, it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "ʾaʿlamu",
+      "meaning": "Most knowing, more knowledgeable",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "most, superative prefix"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know, to be aware (verb)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah (case ending indicating nominative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِالْمُهْتَدِينَ",
+      "transliteration": "bil-muhtadīn",
+      "meaning": "With the rightly guided, of those who are guided",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْمُهْتَدِينَ",
+          "meaning": "the rightly guided, those who are guided"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-Your Lord-He-Most knowing-with who-strayed-from-His way-And He-Most knowing-with the rightly guided."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

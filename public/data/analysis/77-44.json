@@ -1,0 +1,99 @@
+{
+  "verseId": "77:44",
+  "verse": {
+    "arabic": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+    "transliteration": "Inna kathalika najzee almuhsineena",
+    "surah": "Al-Mursalat",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, surely, verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, surely"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲h̲ālik",
+      "meaning": "thus, like that, in this manner",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "to be humble, to submit; that (masculine singular)"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, thus (particle indicating resemblance)"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that (masculine singular demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَجْزِي",
+      "transliteration": "najzī",
+      "meaning": "We reward",
+      "root": {
+        "letters": "ج-ز-ي",
+        "meaning": "to recompense, to reward; to give generously"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "جْزِي",
+          "meaning": "to reward (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُحْسِنِينَ",
+      "transliteration": "al-muḥsinīn",
+      "meaning": "the doers of good, the virtuous ones",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, to excel, to be beautiful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُحْسِنِينَ",
+          "meaning": "doers of good, virtuous ones (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we thus reward the doers-of-good"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

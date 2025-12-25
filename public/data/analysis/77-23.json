@@ -1,0 +1,83 @@
+{
+  "verseId": "77:23",
+  "verse": {
+    "arabic": "فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ",
+    "transliteration": "Faqadarna faniAAma alqadiroona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَقَدَرْنَا",
+      "transliteration": "fa-qadar-nā",
+      "meaning": "So We determined/decreed",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "To measure, to determine, to decree, to have power"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "قَدَّرْ",
+          "meaning": "We determined/decreed (verb, perfect tense)"
+        },
+        {
+          "arabic": "~نَا",
+          "meaning": "We (first-person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَنِعْمَ",
+      "transliteration": "fa-niʿma",
+      "meaning": "Then excellent/how good",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "benefit, favor, grace"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "Then, so"
+        },
+        {
+          "arabic": "نِعْمَ",
+          "meaning": "Excellent! How good!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقَادِرُونَ",
+      "transliteration": "al-qādirūna",
+      "meaning": "The determiners/The capable ones",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power, to measure"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "قَادِرُونَ",
+          "meaning": "capable ones (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-We-determined - Then-excellent-[are We] - The-determiners"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

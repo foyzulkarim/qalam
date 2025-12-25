@@ -1,0 +1,162 @@
+{
+  "verseId": "72:7",
+  "verse": {
+    "arabic": "وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ اللَّهُ أَحَدًا",
+    "transliteration": "Waannahum thannoo kama thanantum an lan yabAAatha Allahu ahadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّهُمْ",
+      "transliteration": "annahum",
+      "meaning": "that they",
+      "root": {
+        "letters": "أ-ن-هـ",
+        "meaning": "to be, existence; also indicates reporting speech/nominal clauses"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ظَنُّوا",
+      "transliteration": "ẓannū",
+      "meaning": "they thought, they suspected",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe, to expect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as, like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance, similarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ظَنَنتُمْ",
+      "transliteration": "ẓanantum",
+      "meaning": "you thought, you suspected",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to believe, to suspect"
+      },
+      "components": [
+        {
+          "arabic": "ظَنَ",
+          "meaning": "to think, to believe"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural) - suffix indicating second person plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, to exist; confirmation or emphasis"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّن",
+      "transliteration": "lan",
+      "meaning": "never, not at all",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to will, desire, intend; refusal or negation of future action"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَبْعَثَ",
+      "transliteration": "yabʿath",
+      "meaning": "He sends, He resurrects (subjunctive)",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to dispatch; to raise up, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and subjunctive mood (third person singular)"
+        },
+        {
+          "arabic": "بَعَثَ",
+          "meaning": "to send, to resurrect (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "anyone, someone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "unique, one, singular"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the indefinite marker (tanwīn al-fath)"
+        },
+        {
+          "arabic": "حَد",
+          "meaning": "singularity, uniqueness"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that they-thought as-you thought that never He-sends Allah anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

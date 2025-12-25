@@ -1,0 +1,130 @@
+{
+  "verseId": "69:9",
+  "verse": {
+    "arabic": "وَجَاءَ فِرْعَوْنُ وَمَن قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ",
+    "transliteration": "Wajaa firAAawnu waman qablahu waalmutafikatu bialkhatiati",
+    "surah": "Al-Haqqah",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَاءَ",
+      "transliteration": "wa-jāʾa",
+      "meaning": "and came",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَاءَ",
+          "meaning": "he came"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِرْعَوْنُ",
+      "transliteration": "firʿawnū",
+      "meaning": "Pharaoh",
+      "root": {
+        "letters": "ف-ر-ع",
+        "meaning": "to divide, to split, branch off; to be high or exalted (often with negative connotations)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَمَن",
+      "transliteration": "wa-man",
+      "meaning": "and whoever/and those who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin; also implies questioning or relative pronouns"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَبْلَهُ",
+      "transliteration": "qabla-hu",
+      "meaning": "before him",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to be in front of"
+      },
+      "components": [
+        {
+          "arabic": "قبل",
+          "meaning": "before"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالْمُؤْتَفِكَاتُ",
+      "transliteration": "wa-l-muʾtafikātu",
+      "meaning": "and the overturned/destroyed cities",
+      "root": {
+        "letters": "ف-ك-ك",
+        "meaning": "to overturn, destroy, annihilate"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمُؤْتَفِكَاتُ",
+          "meaning": "the overturned/destroyed cities (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِالْخَاطِئَةِ",
+      "transliteration": "bi-l-khāṭiʾati",
+      "meaning": "with the sin/in sin",
+      "root": {
+        "letters": "خ-ط-أ",
+        "meaning": "to err, to mistake, to go wrong"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْخَاطِئَةِ",
+          "meaning": "the sin, the error"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-came Pharaoh and-whoever before-him and-the-overturned-cities with-the-sin"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

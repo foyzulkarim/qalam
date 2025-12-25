@@ -1,0 +1,94 @@
+{
+  "verseId": "69:48",
+  "verse": {
+    "arabic": "وَإِنَّهُ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
+    "transliteration": "Wainnahu latathkiratun lilmuttaqeena",
+    "surah": "Al-Haqqah",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; hidden/latent existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُ",
+      "transliteration": "hu",
+      "meaning": "it, he",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "existence, essence, being; falling into a state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَتَذْكِرَةٌ",
+      "transliteration": "lataḏkiratun",
+      "meaning": "is a reminder",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "تَذْكِرَةٌ",
+          "meaning": "reminder, that which reminds"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّلْمُتَّقِينَ",
+      "transliteration": "lil-muttaqīna",
+      "meaning": "for the righteous, for those who fear (God)",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect; to fear, be cautious"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُتَّقِينَ",
+          "meaning": "the righteous, those who fear (God)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed-it-is-a-reminder-for-the-righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

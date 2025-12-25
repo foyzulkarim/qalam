@@ -1,0 +1,72 @@
+{
+  "verseId": "68:13",
+  "verse": {
+    "arabic": "عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+    "transliteration": "AAutullin baAAda thalika zaneemin",
+    "surah": "Al-Qalam",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عُتُلٍّ",
+      "transliteration": "ʿutullin",
+      "meaning": "cruel, arrogant, stubborn",
+      "root": {
+        "letters": "ع-ت-ل",
+        "meaning": "weakness, inability, indolence; also to be idle or negligent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَعْدَ",
+      "transliteration": "baʿda",
+      "meaning": "after, following",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (demonstrative pronoun)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (remote demonstrative base)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix - indicates remoteness and gender (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "زَنِيمٍ",
+      "transliteration": "zanīmin",
+      "meaning": "illegitimate, bastard",
+      "root": {
+        "letters": "ز-ي-ن",
+        "meaning": "to be evil, to be immoral, excess, corruption"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "cruel-after-that-illegitimate"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

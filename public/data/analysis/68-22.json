@@ -1,0 +1,123 @@
+{
+  "verseId": "68:22",
+  "verse": {
+    "arabic": "أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَارِمِينَ",
+    "transliteration": "Ani ighdoo AAala harthikum in kuntum sarimeena",
+    "surah": "Al-Qalam",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَنِ",
+      "transliteration": "ʾani",
+      "meaning": "That; concerning that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence; being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اغْدُوا",
+      "transliteration": "ighdū",
+      "meaning": "Go forth in the morning; depart early",
+      "root": {
+        "letters": "غ-د-و",
+        "meaning": "to go forth, to depart; morning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon; to; over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَرْثِكُمْ",
+      "transliteration": "ḥarthikum",
+      "meaning": "Your cultivated land; your crops",
+      "root": {
+        "letters": "ح-ر-ث",
+        "meaning": "to cultivate, to plow, to sow"
+      },
+      "components": [
+        {
+          "arabic": "حَرْثٍ",
+          "meaning": "cultivated land, crops (genitive case)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "If; indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle indicating condition or affirmation"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "pronoun suffix, indicating the second person masculine singular (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "You are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُنْ",
+          "meaning": "be (imperative)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "you (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "صَارِمِينَ",
+      "transliteration": "ṣārimīn",
+      "meaning": "Cutting; harvestors; those who reap",
+      "root": {
+        "letters": "ص-ر-م",
+        "meaning": "to cut, to sever, to harvest"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "That- you go forth in the morning - to your crops - if - you are - cutting [fruit]."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

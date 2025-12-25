@@ -1,0 +1,249 @@
+{
+  "verseId": "68:51",
+  "verse": {
+    "arabic": "وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ",
+    "transliteration": "Wain yakadu allatheena kafaroo layuzliqoonaka biabsarihim lamma samiAAoo alththikra wayaqooloona innahu lamajnoonun",
+    "surah": "Al-Qalam",
+    "verseNumber": 51
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "إ-ن-ن",
+        "meaning": "affirmation, confirmation, emphasis"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَكَادُ",
+      "transliteration": "yakādu",
+      "meaning": "he almost, it is close to",
+      "root": {
+        "letters": "ك-د-و",
+        "meaning": "to strive, to be sufficient, to be close to achieving something"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third person singular masculine"
+        },
+        {
+          "arabic": "كَادَ",
+          "meaning": "to be close to, almost"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, existence; reference/demonstration"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved, rejected faith",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny, to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating plural active voice"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they rejected/disbelieved (second person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَيُزْلِقُونَكَ",
+      "transliteration": "layuzliqūnaka",
+      "meaning": "they would almost make you slip, they are close to causing you to stumble",
+      "root": {
+        "letters": "ز-ل-ق",
+        "meaning": "to slip, to stumble, to err"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to (purpose)"
+        },
+        {
+          "arabic": "يُزْلِقُونَكَ",
+          "meaning": "they make you slip/stumble (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِأَبْصَارِهِمْ",
+      "transliteration": "bi'abṣārihim",
+      "meaning": "with their eyes",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, vision"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَبْصَارِهِمْ",
+          "meaning": "their eyes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَمَّا",
+      "transliteration": "lammā",
+      "meaning": "when, upon",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend; inclination, purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "سَمِعُوا",
+      "transliteration": "samiʿū",
+      "meaning": "they heard",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "سَمِعَ",
+          "meaning": "they heard (past tense)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الذِّكْرَ",
+      "transliteration": "al-ḏikra",
+      "meaning": "the message, the remembrance [of God]",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِكْر",
+          "meaning": "remembrance, message"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَيَقُولُونَ",
+      "transliteration": "wayaqūlūna",
+      "meaning": "and they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقُولُونَ",
+          "meaning": "they say (verb, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahu",
+      "meaning": "indeed, he",
+      "root": {
+        "letters": "ن-هـ-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَمَجْنُونٌ",
+      "transliteration": "lamajnūnun",
+      "meaning": "is mad, surely he is insane",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to be insane, to lose one's mind"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not, surely not"
+        },
+        {
+          "arabic": "مَجْنُونٌ",
+          "meaning": "mad, insane"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-indeed he-almost those who disbelieved they-would-nearly make-you-slip with-their-eyes when they heard the-message and-they-say indeed-he is-mad"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

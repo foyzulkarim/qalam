@@ -1,0 +1,204 @@
+{
+  "verseId": "69:17",
+  "verse": {
+    "arabic": "وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
+    "transliteration": "Waalmalaku AAala arjaiha wayahmilu AAarsha rabbika fawqahum yawmaithin thamaniyatun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَلَكُ",
+      "transliteration": "al-malaku",
+      "meaning": "the angel(s)",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "ownership, possession; to have power or control"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَكُ",
+          "meaning": "angel"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, at",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَرْجَائِهَا",
+      "transliteration": "arjāʾihā",
+      "meaning": "its edges, its corners",
+      "root": {
+        "letters": "ر-ج-و",
+        "meaning": "to hope, to return, to desire; also, the edge or border"
+      },
+      "components": [
+        {
+          "arabic": "أَرْ",
+          "meaning": "prefix indicating intensification or extension related to the root meaning of 'returning' or 'reaching'"
+        },
+        {
+          "arabic": "جَاء",
+          "meaning": "sides, edges, corners (plural form)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her, its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۚ",
+      "transliteration": "lā tadhkur",
+      "meaning": "(pause marker)",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not, negation particle"
+        },
+        {
+          "arabic": "تَذْكُر",
+          "meaning": "you remember (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَيَحْمِلُ",
+      "transliteration": "wa yaḥmilu",
+      "meaning": "and they bear/carry",
+      "root": {
+        "letters": "ح-م-ل",
+        "meaning": "to carry, bear, undertake; to be patient, endure"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَحْمِلُ",
+          "meaning": "he carries/bears"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَرْشَ",
+      "transliteration": "ʿarsha",
+      "meaning": "throne",
+      "root": {
+        "letters": "ع-ر-ش",
+        "meaning": "to desire, to will; firmness, stability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَوْقَهُمْ",
+      "transliteration": "fawqahum",
+      "meaning": "above them",
+      "root": {
+        "letters": "ف-و-ق",
+        "meaning": "to be above, to exceed, to surpass"
+      },
+      "components": [
+        {
+          "arabic": "فَوْقَ",
+          "meaning": "above"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day; during the day"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then; that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ثَمَانِيَةٌ",
+      "transliteration": "thamāniyatun",
+      "meaning": "eight",
+      "root": {
+        "letters": "ث-م-ن",
+        "meaning": "to count, to enumerate; eight (as a numerical quantity)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the angel(s) at its-edges and-they bear the-throne of-your Lord above-them that-Day eight"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

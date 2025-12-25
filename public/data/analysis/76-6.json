@@ -1,0 +1,163 @@
+{
+  "verseId": "76:6",
+  "verse": {
+    "arabic": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+    "transliteration": "AAaynan yashrabu biha AAibadu Allahi yufajjiroonaha tafjeeran",
+    "surah": "Al-Insan",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَيْنًا",
+      "transliteration": "ʿaynan",
+      "meaning": "a spring, an eye (here: a source)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to be an eye, to be a source, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "عَيْنًا",
+          "meaning": "a spring, an eye (as a source of water), definite noun form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَشْرَبُ",
+      "transliteration": "yashrabu",
+      "meaning": "he drinks, they drink (verb)",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, to absorb, to quench thirst"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person singular or third person masculine singular"
+        },
+        {
+          "arabic": "شْرَبَ",
+          "meaning": "to drink (past tense root)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case and present tense conjugation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهَا",
+      "transliteration": "bihā",
+      "meaning": "with it, by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عِبَادُ",
+      "transliteration": "ʿibādu",
+      "meaning": "servants, worshippers",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "عَبْد",
+          "meaning": "servant, slave"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanwīn al-ḍamm (indefinite plural marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah, belonging to Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The deity, the God"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The definite article"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Allah, the God (genitive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُفَجِّرُونَهَا",
+      "transliteration": "yufajjirūnahā",
+      "meaning": "they make it gush forth, they cause to overflow",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to burst forth, to spring up (of water), to open up"
+      },
+      "components": [
+        {
+          "arabic": "يُ-",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "فَجَّر",
+          "meaning": "to cause to gush forth, to make overflow"
+        },
+        {
+          "arabic": "-ون",
+          "meaning": "they (plural active participle suffix)"
+        },
+        {
+          "arabic": "-هَا",
+          "meaning": "it (feminine singular object suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَفْجِيرًا",
+      "transliteration": "tafjīran",
+      "meaning": "gushing forth, overflowing (manner)",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to split open, to burst forth, to excavate"
+      },
+      "components": [
+        {
+          "arabic": "تَفْجِيرًا",
+          "meaning": "gushing forth, overflowing (as a manner)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "a spring - they drink - with it - servants of Allah - they make it gush forth [it] - gushing forth"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

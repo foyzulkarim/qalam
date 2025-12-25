@@ -1,0 +1,83 @@
+{
+  "verseId": "69:36",
+  "verse": {
+    "arabic": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+    "transliteration": "Wala taAAamun illa min ghisleenin",
+    "surah": "Al-Haqqah",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَعَامٌ",
+      "transliteration": "ṭaʿāmun",
+      "meaning": "food, nourishment",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, to nourish, taste"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to be without, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غِسْلِينٍ",
+      "transliteration": "ghiṣlīnin",
+      "meaning": "discharge of wounds, pus",
+      "root": {
+        "letters": "غ-س-ل",
+        "meaning": "to wash, cleanse, purify"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not food except from discharge-of-wounds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

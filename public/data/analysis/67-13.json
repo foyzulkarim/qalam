@@ -1,0 +1,180 @@
+{
+  "verseId": "67:13",
+  "verse": {
+    "arabic": "وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+    "transliteration": "Waasirroo qawlakum awi ijharoo bihi innahu AAaleemun bithati alssudoori",
+    "surah": "Al-Mulk",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَسِرُّوا",
+      "transliteration": "ʾasirū",
+      "meaning": "conceal, keep secret",
+      "root": {
+        "letters": "س-رّ-ا",
+        "meaning": "to conceal, hide, be secret"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَوْلَكُمْ",
+      "transliteration": "qawlakum",
+      "meaning": "your saying, your speech",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to speak, utterance"
+      },
+      "components": [
+        {
+          "arabic": "قَوْل",
+          "meaning": "saying, speech"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to leave, abandon, relinquish; to call upon (as in prayer)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اِجْهَرُوا",
+      "transliteration": "ijharū",
+      "meaning": "declare openly, publicize",
+      "root": {
+        "letters": "ج-ه-ر",
+        "meaning": "to be clear, manifest, or loud; to pronounce openly"
+      },
+      "components": [
+        {
+          "arabic": "اِجْ",
+          "meaning": "indicates a command or request (imperative prefix)"
+        },
+        {
+          "arabic": "هَرُوا",
+          "meaning": "to declare openly, to publicize (from the root ج-ه-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, in it (referring to speech)",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, pronoun referring to a masculine singular noun (speech in this context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahū",
+      "meaning": "indeed He, surely He",
+      "root": {
+        "letters": "هـ-نـ-و",
+        "meaning": "existence, being; also used to indicate negation or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely; emphatic particle introducing a clause"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He; pronoun referring to God (in this context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīm(un)",
+      "meaning": "Knowing, Aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "To know, to be aware, possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "To know"
+        },
+        {
+          "arabic": "-ٌ",
+          "meaning": "Indefinite nominative singular ending (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِذَاتِ",
+      "transliteration": "bi-dhāti",
+      "meaning": "with the essence of, by that within",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "to possess, to have an intrinsic quality or essence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ذَاتِ",
+          "meaning": "essence, intrinsic nature"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الصُّدُورِ",
+      "transliteration": "ṣ-ṣudūri",
+      "meaning": "the breasts, the hearts",
+      "root": {
+        "letters": "ص-د-ر",
+        "meaning": "to advance, to be foremost; chest, heart"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-conceal your-speech or-declare-openly with-it indeed-He Knowing by-the-essence-of the-breasts"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

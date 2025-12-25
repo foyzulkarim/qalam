@@ -1,0 +1,110 @@
+{
+  "verseId": "75:39",
+  "verse": {
+    "arabic": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ",
+    "transliteration": "FajaAAala minhu alzzawjayni alththakara waalontha",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَجَعَلَ",
+      "transliteration": "fa-jaʿala",
+      "meaning": "So He made/And He caused to be",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create, to cause to be"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "He made, He caused to be (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنْهُ",
+      "transliteration": "min-hu",
+      "meaning": "From him/Of it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الزَّوْجَيْنِ",
+      "transliteration": "az-zawjayni",
+      "meaning": "The two pairs/The two mates",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to couple, to marry"
+      },
+      "components": [
+        {
+          "arabic": "الزَّوْج",
+          "meaning": "the pair, the mate"
+        },
+        {
+          "arabic": "َيْنِ",
+          "meaning": "dual ending (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الذَّكَرَ",
+      "transliteration": "adh-dhakara",
+      "meaning": "The male/The man",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, male"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ذَكَر",
+          "meaning": "male, man"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالْأُنثَىٰ",
+      "transliteration": "wal-ʾunthā",
+      "meaning": "And the female/And the woman",
+      "root": {
+        "letters": "أ-ن-ث",
+        "meaning": "femininity, female gender"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-He-made From-him The-two-pairs The-male And-the-female"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

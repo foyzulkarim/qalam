@@ -1,0 +1,83 @@
+{
+  "verseId": "68:14",
+  "verse": {
+    "arabic": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+    "transliteration": "An kana tha malin wabaneena",
+    "surah": "Al-Qalam",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, because",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "to be (past tense)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَا",
+      "transliteration": "dhā",
+      "meaning": "possessor of, owner of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَالٍ",
+      "transliteration": "mālin",
+      "meaning": "wealth, property",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَبَنِينَ",
+      "transliteration": "wa-banīna",
+      "meaning": "and sons, and children (plural)",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; also used for progeny, descendants"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَنِينَ",
+          "meaning": "sons, children (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "that-is [because] to-be possessor-of wealth and sons"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

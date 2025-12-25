@@ -1,0 +1,101 @@
+{
+  "verseId": "77:39",
+  "verse": {
+    "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+    "transliteration": "Fain kana lakum kaydun fakeedooni",
+    "surah": "Al-Mursalat",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِن",
+      "transliteration": "faʾin",
+      "meaning": "So if, then indeed",
+      "root": {
+        "letters": "إ-نّ",
+        "meaning": "affirmation, confirmation, existence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "إِنّ",
+          "meaning": "indeed, verily; emphatic particle introducing a clause"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, to be (verb)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist; establishment, becoming"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "For you, to you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَيْدٌ",
+      "transliteration": "kaydun",
+      "meaning": "A plan, a scheme, trickery",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "To scheme, to plan cunningly, to deceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَكِيدُونِ",
+      "transliteration": "fakīdūnī",
+      "meaning": "Then plan against me, then scheme against me",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "to deceive, to scheme, to plot"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "كِيدُونِ",
+          "meaning": "you plan, you scheme (plural imperative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-if indeed to-be for-you a-plan then-plan-against-me"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

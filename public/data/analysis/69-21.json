@@ -1,0 +1,72 @@
+{
+  "verseId": "69:21",
+  "verse": {
+    "arabic": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+    "transliteration": "Fahuwa fee AAeeshatin radiyatin",
+    "surah": "Al-Haqqah",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَهُوَ",
+      "transliteration": "fa-huwa",
+      "meaning": "so he",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to incline, to tend towards; he (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (connective particle)"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عِيشَةٍ",
+      "transliteration": "ʿīshatin",
+      "meaning": "a life",
+      "root": {
+        "letters": "ع-ي-ش",
+        "meaning": "to live, life, livelihood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَّاضِيَةٍ",
+      "transliteration": "rāḍiyatin",
+      "meaning": "pleasant, satisfying",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to approve, contentment"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-he in a-life pleasant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

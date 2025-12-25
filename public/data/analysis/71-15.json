@@ -1,0 +1,116 @@
+{
+  "verseId": "71:15",
+  "verse": {
+    "arabic": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+    "transliteration": "Alam taraw kayfa khalaqa Allahu sabAAa samawatin tibaqan",
+    "surah": "Nuh",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Have you not?",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to know, to perceive, to be aware; often used as a negative interrogative particle"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle (not)"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "particle indicating past negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَوْا",
+      "transliteration": "taraw",
+      "meaning": "See/Observe",
+      "root": {
+        "letters": "ر-و-ي",
+        "meaning": "To see, observe, perceive; return (water)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "How?",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "Condition, manner, state of being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "Created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سَبْعَ",
+      "transliteration": "sabʿa",
+      "meaning": "Seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "fullness, abundance, or to go beyond a limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَمَاوَاتٍ",
+      "transliteration": "samāwāti",
+      "meaning": "Heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "طِبَاقًا",
+      "transliteration": "ṭibāqan",
+      "meaning": "Layers/Superimposed",
+      "root": {
+        "letters": "ط-ب-ق",
+        "meaning": "To impress, to stamp; to correspond, agree. Also covers the idea of layers or a dish."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-not See/Observe How Created Allah Seven Heavens Layers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

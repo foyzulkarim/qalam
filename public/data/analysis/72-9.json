@@ -1,0 +1,273 @@
+{
+  "verseId": "72:9",
+  "verse": {
+    "arabic": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَّصَدًا",
+    "transliteration": "Waanna kunna naqAAudu minha maqaAAida lilssamAAi faman yastamiAAi alana yajid lahu shihaban rasadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, to invoke; affection, love"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist; to have a characteristic or quality"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "we were"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَقْعُدُ",
+      "transliteration": "naqʿudu",
+      "meaning": "we sit/used to sit",
+      "root": {
+        "letters": "ق-ع-د",
+        "meaning": "to sit, to dwell, to remain"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "قَعَدُ",
+          "meaning": "to sit (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it/therein",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/therein (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَقَاعِدَ",
+      "transliteration": "maqāʿida",
+      "meaning": "sitting places/positions",
+      "root": {
+        "letters": "ع-ق-د",
+        "meaning": "to tie, to bind, to establish firmly; knot"
+      },
+      "components": [
+        {
+          "arabic": "مَـ",
+          "meaning": "prefix indicating place or time of an action"
+        },
+        {
+          "arabic": "قَاعِد",
+          "meaning": "one who sits; sitting"
+        },
+        {
+          "arabic": "ـة",
+          "meaning": "feminine marker, indicating a place or position (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لِلسَّمْعِ",
+      "transliteration": "lis-samʿi",
+      "meaning": "for hearing/to hear",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, understanding"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "السَّمْعِ",
+          "meaning": "the hearing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "so/then",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, consequence, result"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, exist; also related to questioning and indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَسْتَمِعِ",
+      "transliteration": "yastamiʿi",
+      "meaning": "listens/will listen",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen"
+      },
+      "components": [
+        {
+          "arabic": "يَس-",
+          "meaning": "prefix indicating future tense/imperative mood"
+        },
+        {
+          "arabic": "تَمِع",
+          "meaning": "passive/reflexive form of hearing/listening"
+        },
+        {
+          "arabic": "-ِ",
+          "meaning": "present tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْآنَ",
+      "transliteration": "al-ʾāna",
+      "meaning": "now/at this time",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to come, to arrive; time"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آنَ",
+          "meaning": "time, moment (present)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَجِدْ",
+      "transliteration": "yajidu",
+      "meaning": "will find",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to obtain, to discover"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates future tense and the 3rd person singular masculine subject (he)"
+        },
+        {
+          "arabic": "جِدْ",
+          "meaning": "find, obtain (verbal noun/root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him/to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "شِهَابًا",
+      "transliteration": "shihāban",
+      "meaning": "flame/burning ember",
+      "root": {
+        "letters": "ش-ه-ب",
+        "meaning": "to blaze, to shine brightly; intense fire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "رَّصَدًا",
+      "transliteration": "raṣadan",
+      "meaning": "lying in wait/in ambush",
+      "root": {
+        "letters": "ر-ص-د",
+        "meaning": "to watch, to lie in wait, to aim at"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that we used-to-be sit from-it positions for-hearing so whoever listens now will-find to-him flame lying-in-wait"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

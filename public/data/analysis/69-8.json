@@ -1,0 +1,89 @@
+{
+  "verseId": "69:8",
+  "verse": {
+    "arabic": "فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ",
+    "transliteration": "Fahal tara lahum min baqiyatin",
+    "surah": "Al-Haqqah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَهَلْ",
+      "transliteration": "fa-hal",
+      "meaning": "particle introducing a rhetorical question; thus, 'then do...?' or 'is there...?'",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so; connective particle often indicating consequence or sequence"
+        },
+        {
+          "arabic": "هَلْ",
+          "meaning": "particle introducing a rhetorical question; thus, 'do...?' or 'is there...?'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَىٰ",
+      "transliteration": "tarā",
+      "meaning": "you see, you perceive",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "for them, to them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "belonging to, for, with"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, from a place or source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَاقِيَةٍ",
+      "transliteration": "bāqiyah",
+      "meaning": "remains, residue, anything left over",
+      "root": {
+        "letters": "ب-ق-ي",
+        "meaning": "to remain, to stay behind, to survive"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-do you-see for-them from remains?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

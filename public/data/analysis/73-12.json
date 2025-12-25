@@ -1,0 +1,83 @@
+{
+  "verseId": "73:12",
+  "verse": {
+    "arabic": "إِنَّ لَدَيْنَا أَنكَالًا وَجَحِيمًا",
+    "transliteration": "Inna ladayna ankalan wajaheeman",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily; emphatic particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle introducing a sentence or clause."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَدَيْنَا",
+      "transliteration": "ladaynā",
+      "meaning": "With Us, by Our side; preposition 'l-' + pronoun suffix",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "debt, obligation, religion; to be indebted or held accountable"
+      },
+      "components": [
+        {
+          "arabic": "لَدَى",
+          "meaning": "near, by the side of; possession"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنكَالًا",
+      "transliteration": "ʾankālan",
+      "meaning": "Shackles, fetters; plural noun",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "To restrain, to confine; to be heavy or difficult."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَجَحِيمًا",
+      "transliteration": "wajahīman",
+      "meaning": "And burning fire; conjunction 'wa-' + noun",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "intense heat, burning; to be hot or severe"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَحِيمًا",
+          "meaning": "burning fire, hellfire"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-with-Us [are] shackles and burning-fire."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

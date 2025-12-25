@@ -1,0 +1,79 @@
+{
+  "verseId": "68:35",
+  "verse": {
+    "arabic": "أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ",
+    "transliteration": "AfanajAAalu almuslimeena kaalmujrimeena",
+    "surah": "Al-Qalam",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَنَجْعَلُ",
+      "transliteration": "ʾafanajʿalu",
+      "meaning": "Do We then make?",
+      "root": {
+        "letters": "ن-ج-ع",
+        "meaning": "to succeed, to accomplish; to obtain benefit or victory"
+      },
+      "components": [
+        {
+          "arabic": "أَفَـ",
+          "meaning": "particle indicating rhetorical question or denial (often with emphasis)"
+        },
+        {
+          "arabic": "نَجْعَلُ",
+          "meaning": "we make, we cause to be"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمُسْلِمِينَ",
+      "transliteration": "al-muslimīna",
+      "meaning": "The Muslims (plural)",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, sound, peaceful; to surrender (to God)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُسْلِمِينَ",
+          "meaning": "Muslims (plural, nominative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَالْمُجْرِمِينَ",
+      "transliteration": "kal-mujrimīna",
+      "meaning": "Like the criminals (plural)",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "to commit a crime, to transgress"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الْمُجْرِمِينَ",
+          "meaning": "the criminals (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Do-We then make-the Muslims like-the criminals?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

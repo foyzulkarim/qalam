@@ -1,0 +1,235 @@
+{
+  "verseId": "67:29",
+  "verse": {
+    "arabic": "قُلْ هُوَ الرَّحْمَـٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ",
+    "transliteration": "Qul huwa alrrahmanu amanna bihi waAAalayhi tawakkalna fasataAAlamoona man huwa fee dalalin mubeenin",
+    "surah": "Al-Mulk",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, narrate; to command (related to making something known through speech)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ا",
+        "meaning": "to be, existence; to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّحْمَـٰنُ",
+      "transliteration": "ar-raḥmānu",
+      "meaning": "The Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰنُ",
+          "meaning": "The Most Merciful (intensive form of mercy)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنَّا",
+      "transliteration": "āmannā",
+      "meaning": "We have believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness; to believe"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating first-person plural"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "we (pronoun suffix)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "to believe (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "In Him",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَعَلَيْهِ",
+      "transliteration": "waʿalayhi",
+      "meaning": "And upon Him",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to bear, to carry a burden; obligation, responsibility"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَلَيْهِ",
+          "meaning": "upon him/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَوَكَّلْنَا",
+      "transliteration": "tawakkalnā",
+      "meaning": "We have relied",
+      "root": {
+        "letters": "ك-و-ل",
+        "meaning": "to rely, to entrust"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating past tense and the agent (we)"
+        },
+        {
+          "arabic": "وَكَّلْ",
+          "meaning": "to entrust, to rely (form II verb)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "pronoun suffix - we (first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "Pause/separator mark",
+      "root": {
+        "letters": "أ-ي-ه",
+        "meaning": "Sign, verse, miracle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَسَتَعْلَمُونَ",
+      "transliteration": "fasataʿlamūn",
+      "meaning": "Then you will know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "سَـ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you will know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "Who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to exist; also related to questioning and inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He is",
+      "root": {
+        "letters": "هـ-و-ا",
+        "meaning": "to exist, to be"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to go into; to be contained within; to understand."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ضَلَالٍ",
+      "transliteration": "ḍalālin",
+      "meaning": "Error",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to err, to deviate from the right path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مُّبِينٍ",
+      "transliteration": "mubīnin",
+      "meaning": "Clear/evident",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, evident, or clear; to become apparent"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - He - The Most Merciful - We have believed - In Him - And upon Him - We have relied - [Then] - You will know - Who - He is - In - Error - Clear."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

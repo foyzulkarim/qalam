@@ -1,0 +1,188 @@
+{
+  "verseId": "68:33",
+  "verse": {
+    "arabic": "كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+    "transliteration": "Kathalika alAAathabu walaAAathabu alakhirati akbaru law kanoo yaAAlamoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲hālika",
+      "meaning": "thus, like that; such is",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to show, to indicate, to guide"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like this; as"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that, this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْعَذَابُ",
+      "transliteration": "al-ʿadhābu",
+      "meaning": "the punishment; the torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish; to inflict pain; to torment"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابٌ",
+          "meaning": "punishment; torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "pause marker (waqf)"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَلَعَذَابُ",
+      "transliteration": "wala-ʿadhābu",
+      "meaning": "and for the punishment; and indeed the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish; to be severe; pain, suffering"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for; indeed (emphatic particle)"
+        },
+        {
+          "arabic": "عَذَابُ",
+          "meaning": "the punishment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ākhirati",
+      "meaning": "the Hereafter; the Last Life/Day",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to come after; the end; last"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the Last (Life/Day)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَكْبَرُ",
+      "transliteration": "akbaru",
+      "meaning": "greater; more significant",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase"
+      },
+      "components": [
+        {
+          "arabic": "أَكْبَرُ",
+          "meaning": "greater; more significant (superlative form of كبير)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "pause marker (wasl)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if only, were that",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, lacking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were; they used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be; to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (masculine plural)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (past tense, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know; they used to know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person plural or general group"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine active present/future tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Thus-is the punishment – and for-the punishment of-the Hereafter greater [indeed] if they were knowing."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

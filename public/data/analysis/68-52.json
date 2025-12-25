@@ -1,0 +1,97 @@
+{
+  "verseId": "68:52",
+  "verse": {
+    "arabic": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
+    "transliteration": "Wama huwa illa thikrun lilAAalameena",
+    "surah": "Al-Qalam",
+    "verseNumber": 52
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/but",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun referring to something unknown or unspecified"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, but, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it/he",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "existence, being, essence; to fall (into despair)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/not but",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِكْرٌ",
+      "transliteration": "dhikrun",
+      "meaning": "a reminder/memorial",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْرٌ",
+          "meaning": "a reminder, a memorial, recollection"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّلْعَالَمِينَ",
+      "transliteration": "lilʿālamīn",
+      "meaning": "for the worlds",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware; knowledge, world"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْعَالَمِينَ",
+          "meaning": "the worlds, the universes"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what it not-except a-reminder for-the-worlds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "verseId": "68:29",
+  "verse": {
+    "arabic": "قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ",
+    "transliteration": "Qaloo subhana rabbina inna kunna thalimeena",
+    "surah": "Al-Qalam",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سُبْحَانَ",
+      "transliteration": "subḥāna",
+      "meaning": "Glory be to / Exalted is",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to flow; also, to praise, glorify"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّنَا",
+      "transliteration": "rabbinā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, master"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "Indeed we / Truly we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist, happen"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, truly (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "We were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "We were (verb in the imperfect tense)"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "We (pronoun suffix indicating first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ظَالِمِينَ",
+      "transliteration": "ẓālimīn",
+      "meaning": "Wrongdoers / Oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, oppression, darkness (related to the idea of obscuring truth)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said - Glory-be-to – Our-Lord – Indeed-we – We-were – Wrongdoers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

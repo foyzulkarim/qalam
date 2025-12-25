@@ -1,0 +1,144 @@
+{
+  "verseId": "69:41",
+  "verse": {
+    "arabic": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ",
+    "transliteration": "Wama huwa biqawli shaAAirin qaleelan ma tuminoona",
+    "surah": "Al-Haqqah",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and indeed",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it/he",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "existence, being, essence; to fall (of a bird)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِقَوْلِ",
+      "transliteration": "bi-qawli",
+      "meaning": "with/by the saying of",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter, speech"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "قَوْلِ",
+          "meaning": "saying, speech (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "شَاعِرٍ",
+      "transliteration": "shāʿirin",
+      "meaning": "a poet",
+      "root": {
+        "letters": "ش-ع-ر",
+        "meaning": "to feel, to be aware, or to know; also related to poetry and hair"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamu [faṣlan]",
+      "meaning": "[pause particle - meaning implied separation]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "تعلمون",
+          "meaning": "you (plural) do not know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "little/few",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to diminish, to be few in quantity or number"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what/that",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تُؤْمِنُونَ",
+      "transliteration": "tuʾminūna",
+      "meaning": "you believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to believe, trust"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "to believe, have faith"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what it is/he with-the saying of a poet - pause particle little what you believe"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

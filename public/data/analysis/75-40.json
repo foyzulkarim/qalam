@@ -1,0 +1,149 @@
+{
+  "verseId": "75:40",
+  "verse": {
+    "arabic": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ",
+    "transliteration": "Alaysa thalika biqadirin AAala an yuhyiya almawta",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَيْسَ",
+      "transliteration": "ʾalaysa",
+      "meaning": "Is not, Are not",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be absent, nonexistent; to not exist"
+      },
+      "components": [
+        {
+          "arabic": "أَلِـ",
+          "meaning": "interrogative particle; signifies a question, often rhetorical"
+        },
+        {
+          "arabic": "يَسَ",
+          "meaning": "present tense verb root indicating non-existence/absence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "ḏālika",
+      "meaning": "That, This (masculine)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, having the quality of"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِقَادِرٍ",
+      "transliteration": "bi-qādirin",
+      "meaning": "With [someone] Able, In ability",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be powerful, to have power or ability; to estimate, measure"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in; by means of"
+        },
+        {
+          "arabic": "قَادِرٍ",
+          "meaning": "able, powerful"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, On",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "To be high, to elevate, ascendancy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "That, To (introduces a verbal noun)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "To be, To exist; indicating potential or possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُحْيِيَ",
+      "transliteration": "yuḥyīya",
+      "meaning": "He revives, He gives life to",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live, existence"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "He (pronoun prefix indicating the third person masculine singular)"
+        },
+        {
+          "arabic": "حَيَّ",
+          "meaning": "life, alive (verbal noun form)"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "(indicates subjunctive/jussive mood or apocopation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَوْتَىٰ",
+      "transliteration": "al-mawta",
+      "meaning": "The dead [ones]",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, to die"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَوْتَىٰ",
+          "meaning": "dead (ones)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Is-not That with-[someone] Able upon To-revive The-dead"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

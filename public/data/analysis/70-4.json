@@ -1,0 +1,175 @@
+{
+  "verseId": "70:4",
+  "verse": {
+    "arabic": "تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
+    "transliteration": "TaAAruju almalaikatu waalrroohu ilayhi fee yawmin kana miqdaruhu khamseena alfa sanatin",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَعْرُجُ",
+      "transliteration": "taʿruju",
+      "meaning": "ascend, rise up",
+      "root": {
+        "letters": "ع-ر-ج",
+        "meaning": "to return, to ascend, to go up; incline, curve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَلَائِكَةُ",
+      "transliteration": "al-malāʾikatu",
+      "meaning": "the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَائِكَة",
+          "meaning": "angels (plural of مَلَك)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرُّوحُ",
+      "transliteration": "ar-rūḥu",
+      "meaning": "the Spirit",
+      "root": {
+        "letters": "ر-و-ح",
+        "meaning": "to live, be alive; softness, gentleness, kindness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ʾilayhi",
+      "meaning": "to Him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards, direction"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, during",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَوْمٍ",
+      "transliteration": "yawmin",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to exist, to pass (of time), day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, existed",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِقْدَارُهُ",
+      "transliteration": "miqdāruhu",
+      "meaning": "its extent, its measure",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate power or ability"
+      },
+      "components": [
+        {
+          "arabic": "مِقْدَارُ",
+          "meaning": "extent, measure (noun)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his, its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "خَمْسِينَ",
+      "transliteration": "khamsīna",
+      "meaning": "fifty",
+      "root": {
+        "letters": "خ-م-س",
+        "meaning": "to count, five"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَلْفَ",
+      "transliteration": "ʾalfa",
+      "meaning": "thousand",
+      "root": {
+        "letters": "أ-ل-ف",
+        "meaning": "to be first, to begin; also implies a great number or quantity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "سَنَةٍ",
+      "transliteration": "sanatin",
+      "meaning": "year",
+      "root": {
+        "letters": "س-ن-و",
+        "meaning": "to become weak, languish; to age; year (as a period of aging)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "ascend-the angels and -and the Spirit to-Him in a day was its-extent fifty thousand year"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

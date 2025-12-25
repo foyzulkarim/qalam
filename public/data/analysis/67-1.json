@@ -1,0 +1,145 @@
+{
+  "verseId": "67:1",
+  "verse": {
+    "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Tabaraka allathee biyadihi almulku wahuwa AAala kulli shayin qadeerun",
+    "surah": "Al-Mulk",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَبَارَكَ",
+      "transliteration": "tabārak(a)",
+      "meaning": "Blessed, increased in goodness",
+      "root": {
+        "letters": "ب-ر-ك",
+        "meaning": "to bless, to be abundant, to increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "The One who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; relative pronoun indicating attribution or qualification"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, which, that (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِيَدِهِ",
+      "transliteration": "bi-yadīhi",
+      "meaning": "In His hand",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "possession, hand, power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "يَدِهِ",
+          "meaning": "His hand"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُلْكُ",
+      "transliteration": "al-mulk(u)",
+      "meaning": "The dominion, the kingdom",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "And He",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to incline, to tend towards; essence, identity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He, it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "All, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "Totality, completeness; to be complete or whole"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾ(in)",
+      "meaning": "Thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadīr(un)",
+      "meaning": "Competent, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "To be powerful, to have the ability or capacity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Blessed-is He The-One who In-His-hand The-dominion And-He Upon all thing Competent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "verseId": "69:37",
+  "verse": {
+    "arabic": "لَّا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ",
+    "transliteration": "La yakuluhu illa alkhatioona",
+    "surah": "Al-Haqqah",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, none",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَأْكُلُهُ",
+      "transliteration": "yaʾkulu-hu",
+      "meaning": "he eats it",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "يَأْكُلُ",
+          "meaning": "he eats"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, only",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to incline, to turn away from, or negation/limitation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْخَاطِئُونَ",
+      "transliteration": "al-khāṭiʾūna",
+      "meaning": "the sinners, the wrongdoers",
+      "root": {
+        "letters": "خ-ط-أ",
+        "meaning": "to err, to make a mistake, to go wrong"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَاطِئُونَ",
+          "meaning": "sinners, wrongdoers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-eats-it except the-sinners"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "verseId": "74:35",
+  "verse": {
+    "arabic": "إِنَّهَا لَإِحْدَى الْكُبَرِ",
+    "transliteration": "Innaha laihda alkubari",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهَا",
+      "transliteration": "ʾinnahā",
+      "meaning": "Indeed it (feminine)",
+      "root": {
+        "letters": "ه-ن-أ",
+        "meaning": "to be, to exist; tranquility, rest"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَ",
+      "transliteration": "la-",
+      "meaning": "Indeed; emphatic particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ل",
+          "meaning": "Indeed; emphatic particle indicating affirmation or negation. Often used to strengthen an oath or statement."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِحْدَى",
+      "transliteration": "ʾiḥdā",
+      "meaning": "One of",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "To be unique, to single out, oneness"
+      },
+      "components": [
+        {
+          "arabic": "إِحْد",
+          "meaning": "One (feminine)"
+        },
+        {
+          "arabic": "ى",
+          "meaning": "Tanween al-fath (indefinite marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْكُبَرِ",
+      "transliteration": "al-kubar",
+      "meaning": "The greatest (things); great afflictions/calamities",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, great; to grow, increase"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-it indeed one-of the-greatest"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

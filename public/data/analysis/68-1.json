@@ -1,0 +1,100 @@
+{
+  "verseId": "68:1",
+  "verse": {
+    "arabic": "ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ",
+    "transliteration": "Noon waalqalami wama yasturoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ن",
+      "transliteration": "nūn",
+      "meaning": "The letter 'N', often used as an oath marker.",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ن",
+          "meaning": "The letter 'N'. Used as an oath marker, often indicating emphasis or affirmation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَالْقَلَمِ",
+      "transliteration": "wa-l-qalamī",
+      "meaning": "And the pen.",
+      "root": {
+        "letters": "ق-ل-م",
+        "meaning": "to speak, to write; a writing instrument"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَلَمِ",
+          "meaning": "pen"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what/whatever.",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; pertaining to water (related to the idea of wanting something essential)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/whatever; the interrogative pronoun or indefinite relative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَسْطُرُونَ",
+      "transliteration": "yasṭurūn",
+      "meaning": "They inscribe/write.",
+      "root": {
+        "letters": "س-ط-ر",
+        "meaning": "to write, to inscribe, to draw a line"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "سَطَرُوا",
+          "meaning": "they wrote/inscribed (verb)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Nun - And-the pen-[of] - And what - They inscribe"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

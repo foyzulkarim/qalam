@@ -1,0 +1,125 @@
+{
+  "verseId": "76:4",
+  "verse": {
+    "arabic": "إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَلَاسِلَ وَأَغْلَالًا وَسَعِيرًا",
+    "transliteration": "Inna aAAtadna lilkafireena salasila waaghlalan wasaAAeeran",
+    "surah": "Al-Insan",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, Verily (emphasized form of 'we')",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also carries connotations of confirmation and emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "Indeed, Verily (nasba particle)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَعْتَدْنَا",
+      "transliteration": "ʾaʿtadnā",
+      "meaning": "We have prepared, We made ready",
+      "root": {
+        "letters": "ع-ت-د",
+        "meaning": "to prepare, to equip, to reckon"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating perfect tense and 1st person plural (we)"
+        },
+        {
+          "arabic": "عَتَد",
+          "meaning": "to prepare, to equip (base form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "suffix indicating 1st person plural (we)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِلْكَافِرِينَ",
+      "transliteration": "lil-kāfirīn",
+      "meaning": "for the disbelievers, to the unbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْكَافِرِينَ",
+          "meaning": "the disbelievers, the unbelievers (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَلَاسِلَ",
+      "transliteration": "salāsil",
+      "meaning": "chains, links",
+      "root": {
+        "letters": "س-ل-س",
+        "meaning": "to be smooth, to flow; to draw out, extend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَأَغْلَالًا",
+      "transliteration": "wa-ʾaghlāl",
+      "meaning": "and shackles, and fetters",
+      "root": {
+        "letters": "غ-ل-ل",
+        "meaning": "to confine, to restrain, to overpower"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَغْلَالًا",
+          "meaning": "shackles, fetters (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَسَعِيرًا",
+      "transliteration": "wa-saʿīr",
+      "meaning": "and a blaze, and a fiery flame",
+      "root": {
+        "letters": "س-ع-ر",
+        "meaning": "to blaze, to burn intensely; a fire"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we have-prepared for-the disbelievers chains and-shackles and-a blaze."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

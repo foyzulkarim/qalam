@@ -1,0 +1,79 @@
+{
+  "verseId": "69:45",
+  "verse": {
+    "arabic": "لَأَخَذْنَا مِنْهُ بِالْيَمِينِ",
+    "transliteration": "Laakhathna minhu bialyameeni",
+    "surah": "Al-Haqqah",
+    "verseNumber": 45
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَأَخَذْنَا",
+      "transliteration": "la-ʾakhadhnā",
+      "meaning": "We would have certainly taken/seized",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "conditional particle, would have"
+        },
+        {
+          "arabic": "أَخَذْنَا",
+          "meaning": "we took/seized (perfect tense, first-person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "From him",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْيَمِينِ",
+      "transliteration": "bi-l-yamīni",
+      "meaning": "By the right hand",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, power, blessing; the south"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "الْيَمِينِ",
+          "meaning": "the right hand"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We-would-have-certainly-taken - from-him - by-the-right-hand"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

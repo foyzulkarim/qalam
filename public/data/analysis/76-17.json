@@ -1,0 +1,112 @@
+{
+  "verseId": "76:17",
+  "verse": {
+    "arabic": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+    "transliteration": "Wayusqawna feeha kasan kana mizajuha zanjabeelan",
+    "surah": "Al-Insan",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيُسْقَوْنَ",
+      "transliteration": "wa-yusqawna",
+      "meaning": "and they will be given to drink",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to drink, to irrigate, to provide water"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُسْقَوْنَ",
+          "meaning": "they will be given to drink (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَأْسًا",
+      "transliteration": "kaʾsan",
+      "meaning": "a cup",
+      "root": {
+        "letters": "ك-أ-س",
+        "meaning": "to drink, to cup; also implies covering/enveloping"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was (is)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِزَاجُهَا",
+      "transliteration": "mizājuhā",
+      "meaning": "its mixture",
+      "root": {
+        "letters": "م-ز-ج",
+        "meaning": "to blend, mix"
+      },
+      "components": [
+        {
+          "arabic": "مِزَاج",
+          "meaning": "mixture, temperament"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "زَنجَبِيلًا",
+      "transliteration": "zanjabīlan",
+      "meaning": "ginger",
+      "root": {
+        "letters": "ز-ن-ج",
+        "meaning": "to be dark, to have a dusky color; to be uneven or rough"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-will-be-given-to-drink in-it a-cup was its-mixture ginger"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

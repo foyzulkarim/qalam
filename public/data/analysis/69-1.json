@@ -1,0 +1,39 @@
+{
+  "verseId": "69:1",
+  "verse": {
+    "arabic": "الْحَاقَّةُ",
+    "transliteration": "Alhaqqatu",
+    "surah": "Al-Haqqah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْحَاقَّةُ",
+      "transliteration": "al-ḥāqqah(u)",
+      "meaning": "The Inevitable Reality",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَاقَّةٌ",
+          "meaning": "inevitable reality, the truth that will certainly come to pass"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-Inevitable Reality"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

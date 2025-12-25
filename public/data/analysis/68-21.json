@@ -1,0 +1,59 @@
+{
+  "verseId": "68:21",
+  "verse": {
+    "arabic": "فَتَنَادَوْا مُصْبِحِينَ",
+    "transliteration": "Fatanadaw musbiheena",
+    "surah": "Al-Qalam",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَتَنَادَوْا",
+      "transliteration": "fat-anādawā",
+      "meaning": "So they called each other",
+      "root": {
+        "letters": "ن-د-و",
+        "meaning": "to call, to invoke, to summon"
+      },
+      "components": [
+        {
+          "arabic": "فَتَ",
+          "meaning": "prefix denoting mutual action or reciprocal calling"
+        },
+        {
+          "arabic": "انَادَوْا",
+          "meaning": "they called each other (verb in the imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مُصْبِحِينَ",
+      "transliteration": "muṣbiḥīn",
+      "meaning": "At morning/being those who call at morning",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to dawn, to become bright; to wake up early"
+      },
+      "components": [
+        {
+          "arabic": "مُصَبِّح",
+          "meaning": "one who calls at dawn, one who announces the morning"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending, indicating a group of people"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-they called each other - [as] morning-callers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

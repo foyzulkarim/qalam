@@ -1,0 +1,59 @@
+{
+  "verseId": "70:12",
+  "verse": {
+    "arabic": "وَصَاحِبَتِهِ وَأَخِيهِ",
+    "transliteration": "Wasahibatihi waakheehi",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَصَاحِبَتِهِ",
+      "transliteration": "wa-ṣāḥibatihi",
+      "meaning": "and his wife/companion",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to possess a companion"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "صَاحِبَتِهِ",
+          "meaning": "his wife/companion (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَأَخِيهِ",
+      "transliteration": "wa-akhihi",
+      "meaning": "and his brother",
+      "root": {
+        "letters": "أ-خ-و",
+        "meaning": "to have a brother, kinship, to be related"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَخِيهِ",
+          "meaning": "his brother"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-wife/companion-of-him and-brother-of-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

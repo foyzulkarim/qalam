@@ -1,0 +1,102 @@
+{
+  "verseId": "68:2",
+  "verse": {
+    "arabic": "مَا أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+    "transliteration": "Ma anta biniAAmati rabbika bimajnoonin",
+    "surah": "Al-Qalam",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "not, what (negative particle)",
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "not, what (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "you (masculine singular)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; pronoun indicator"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِنِعْمَةِ",
+      "transliteration": "bi-niʿmati",
+      "meaning": "by the favor/grace of",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "pleasantness, goodness; favor, grace"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "نِعْمَةٍ",
+          "meaning": "grace, favor, kindness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِمَجْنُونٍ",
+      "transliteration": "bi-majūnin",
+      "meaning": "in/with madness, a madman",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to be insane, to deviate from sanity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَجْنُونٍ",
+          "meaning": "madman, insane person"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not - you - by-the-favor/grace-of - your-Lord - in/with madness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "verseId": "68:46",
+  "verse": {
+    "arabic": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+    "transliteration": "Am tasaluhum ajran fahum min maghramin muthqaloona",
+    "surah": "Al-Qalam",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, but",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to wish, or to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَسْأَلُهُمْ",
+      "transliteration": "tasʾaluhum",
+      "meaning": "you ask them",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "سْأَلَ",
+          "meaning": "to ask, inquire (verb root)"
+        },
+        {
+          "arabic": "ـُهُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَجْرًا",
+      "transliteration": "ʾajran",
+      "meaning": "a payment, reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward; the act of rewarding or compensating"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَهُم",
+      "transliteration": "fahum",
+      "meaning": "so they, then they",
+      "root": {
+        "letters": "ف-ه-م",
+        "meaning": "to understand, to comprehend"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, from, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَّغْرَمٍ",
+      "transliteration": "maghramin",
+      "meaning": "debt, financial burden",
+      "root": {
+        "letters": "غ-ر-م",
+        "meaning": "to incur debt, to be liable; to pay a fine or compensation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُّثْقَلُونَ",
+      "transliteration": "muthqalūn",
+      "meaning": "burdened down, weighed down",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "heaviness, weight; to be heavy or difficult"
+      },
+      "components": [
+        {
+          "arabic": "مُثْقَل",
+          "meaning": "passive participle of the Form IV verb (أَثْقَلَ) meaning 'made heavy', implying something *is* made heavy"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine ending, indicating 'they are'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-do you-ask-them a-payment so-they from debt burdened-down"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

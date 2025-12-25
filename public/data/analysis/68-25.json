@@ -1,0 +1,71 @@
+{
+  "verseId": "68:25",
+  "verse": {
+    "arabic": "وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ",
+    "transliteration": "Waghadaw AAala hardin qadireena",
+    "surah": "Al-Qalam",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "غَدَوْا",
+      "transliteration": "ghadaw",
+      "meaning": "they went early, they set out in the morning",
+      "root": {
+        "letters": "غ-د-و",
+        "meaning": "to go early, to set out; to become or happen in the morning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, at, in relation to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَرْدٍ",
+      "transliteration": "ḥardin",
+      "meaning": "determination, hardship, intense effort",
+      "root": {
+        "letters": "ح-د-ر",
+        "meaning": "striving, difficulty, intensity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَادِرِينَ",
+      "transliteration": "qādirīn",
+      "meaning": "able, capable, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to have power, to be able, to measure or estimate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-went-early upon determination able"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

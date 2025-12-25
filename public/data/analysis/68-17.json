@@ -1,0 +1,196 @@
+{
+  "verseId": "68:17",
+  "verse": {
+    "arabic": "إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+    "transliteration": "Inna balawnahum kama balawna ashaba aljannati ith aqsamoo layasrimunnaha musbiheena",
+    "surah": "Al-Qalam",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَلَوْنَاهُمْ",
+      "transliteration": "balawnāhum",
+      "meaning": "We have tested them",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be afflicted, tested, tried; to reach maturity"
+      },
+      "components": [
+        {
+          "arabic": "بَلَو",
+          "meaning": "testing, affliction"
+        },
+        {
+          "arabic": "نَاهُمْ",
+          "meaning": "them (suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "As, like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "To be, to exist; resemblance, similarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَلَوْنَا",
+      "transliteration": "balawnā",
+      "meaning": "We tested",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "affliction, trial, testing"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "لَوَ",
+          "meaning": "we tested (first person plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (first person plural possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَصْحَابَ",
+      "transliteration": "ʾaṣḥāba",
+      "meaning": "Companions, people of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to have relations with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْجَنَّةِ",
+      "transliteration": "al-jannati",
+      "meaning": "The garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also, fruitfulness and abundance"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "جَنَّة",
+          "meaning": "garden, paradise"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِذْ",
+      "transliteration": "ʾidh",
+      "meaning": "When, at the time when",
+      "root": {
+        "letters": "أ-ذ-ح",
+        "meaning": "to perceive, to sense, to be aware of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَقْسَمُوا",
+      "transliteration": "ʾaqsamū",
+      "meaning": "They swore",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "To divide, apportion, distribute; to swear (by dividing one's commitment)"
+      },
+      "components": [
+        {
+          "arabic": "أَقْسَمَ",
+          "meaning": "To swear (verb root)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "They (masculine plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَيَصْرِمُنَّهَا",
+      "transliteration": "layaṣrimunnahā",
+      "meaning": "To cut it certainly/definitely",
+      "root": {
+        "letters": "ص-ر-م",
+        "meaning": "to cut, to harvest, to remove"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to (purpose)"
+        },
+        {
+          "arabic": "يَصْرِمُنَّهَا",
+          "meaning": "they will cut it (certainly)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مُصْبِحِينَ",
+      "transliteration": "muṣbiḥīn",
+      "meaning": "In the morning, as dawn breaks",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to dawn, to become morning"
+      },
+      "components": [
+        {
+          "arabic": "مُصَبِّح",
+          "meaning": "one who does something at dawn (verbal noun)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending, indicating a group of people"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we have-tested-them as-like We-tested companions of-the-garden when they-swore to-cut-[it]-certainly in-the-morning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

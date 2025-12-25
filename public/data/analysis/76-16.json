@@ -1,0 +1,92 @@
+{
+  "verseId": "76:16",
+  "verse": {
+    "arabic": "قَوَارِيرَ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+    "transliteration": "Qawareera min fiddatin qaddarooha taqdeeran",
+    "surah": "Al-Insan",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَوَارِيرَ",
+      "transliteration": "qawārīra",
+      "meaning": "glass vessels, flasks",
+      "root": {
+        "letters": "ق-و-ر",
+        "meaning": "to break, split, or shatter; also to pour forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِضَّةٍ",
+      "transliteration": "fiḍḍatin",
+      "meaning": "silver",
+      "root": {
+        "letters": "ف-ض-د",
+        "meaning": "to split, to divide, to separate; also related to brightness and clarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَدَّرُوهَا",
+      "transliteration": "qaddarūhā",
+      "meaning": "they measured it, they determined its amount",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to determine, to estimate, to have power"
+      },
+      "components": [
+        {
+          "arabic": "قدَّر",
+          "meaning": "they measured, they determined"
+        },
+        {
+          "arabic": "وهَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَقْدِيرًا",
+      "transliteration": "taqdīran",
+      "meaning": "measurement, a determined amount",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate, to have power; capacity"
+      },
+      "components": [
+        {
+          "arabic": "تَقْدِير",
+          "meaning": "measurement, estimation, a determined amount (verbal noun)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fatha, indefinite accusative marker (depending on context)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "glass-vessels - from - silver - they-measured-it - measurement"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "verseId": "67:3",
+  "verse": {
+    "arabic": "الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِي خَلْقِ الرَّحْمَـٰنِ مِن تَفَاوُتٍ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ",
+    "transliteration": "Allathee khalaqa sabAAa samawatin tibaqan ma tara fee khalqi alrrahmani min tafawutin fairjiAAi albasara hal tara min futoorin",
+    "surah": "Al-Mulk",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "The One who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to adhere to, to belong to; possessor"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِي",
+          "meaning": "who, which, that (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, originate, bring into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَبْعَ",
+      "transliteration": "sabʿa",
+      "meaning": "seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "to go, to proceed; fullness, abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَمَاوَاتٍ",
+      "transliteration": "samāwātin",
+      "meaning": "heavens (plural)",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "طِبَاقًا",
+      "transliteration": "ṭibāqan",
+      "meaning": "layers, in layers",
+      "root": {
+        "letters": "ﻁ-ب-ق",
+        "meaning": "to be suitable, to correspond, to agree; also related to impressions or stamping (hence layers)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "faṣlan",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "not, that not",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to possess, to have; also negation and non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَرَىٰ",
+      "transliteration": "tarā",
+      "meaning": "you see",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to observe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to be contained within, to dwell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "خَلْقِ",
+      "transliteration": "khalqi",
+      "meaning": "creation of",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, originate, produce"
+      },
+      "components": [
+        {
+          "arabic": "خَلْق",
+          "meaning": "creation"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "al-raḥmāni",
+      "meaning": "the Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رَحْمَـٰنِ",
+          "meaning": "The Most Merciful (active participle, emphasizing constant action)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "any, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَفَاوُتٍ",
+      "transliteration": "tafāwutin",
+      "meaning": "inconsistency, disparity",
+      "root": {
+        "letters": "ف-و-ت",
+        "meaning": "to differ, to vary, to be distinct"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating nominalization (forming a noun of state or habit)"
+        },
+        {
+          "arabic": "فَاوُتٍ",
+          "meaning": "related to difference, disparity (derived from the root ف-و-ت)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۖ",
+      "transliteration": "faṣlan",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَارْجِعِ",
+      "transliteration": "farjiʿī",
+      "meaning": "then return",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "ارْجِعِ",
+          "meaning": "return (imperative, feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْبَصَرَ",
+      "transliteration": "al-baṣara",
+      "meaning": "the vision, the sight",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, insight"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "do you see",
+      "root": {
+        "letters": "هـ-ي-ل",
+        "meaning": "to be weak, to perish; to be absent or hidden"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تَرَىٰ",
+      "transliteration": "tarā",
+      "meaning": "you see",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "any, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease, separation, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فُطُورٍ",
+      "transliteration": "fuṭūrin",
+      "meaning": "breaks, rifts",
+      "root": {
+        "letters": "ف-ط-ر",
+        "meaning": "to split, to break open, to originate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-One-who created seven heavens in-layers. Not you-see in creation-of the-Most-Merciful any inconsistency. Then return vision do-you see any breaks?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

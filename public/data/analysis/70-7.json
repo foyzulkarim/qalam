@@ -1,0 +1,63 @@
+{
+  "verseId": "70:7",
+  "verse": {
+    "arabic": "وَنَرَاهُ قَرِيبًا",
+    "transliteration": "Wanarahu qareeban",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَنَرَاهُ",
+      "transliteration": "wa narāhu",
+      "meaning": "and We see it",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to look at"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَرَى",
+          "meaning": "We see"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَرِيبًا",
+      "transliteration": "qarīban",
+      "meaning": "near",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "قَرِيب",
+          "meaning": "near, close"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "adverbial suffix indicating imminence or proximity in time"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We see it - near"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

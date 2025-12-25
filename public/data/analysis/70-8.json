@@ -1,0 +1,85 @@
+{
+  "verseId": "70:8",
+  "verse": {
+    "arabic": "يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ",
+    "transliteration": "Yawma takoonu alssamao kaalmuhli",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَكُونُ",
+      "transliteration": "takūnu",
+      "meaning": "will be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating future tense/subjunctive mood"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "being, existence (verbal noun form)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "second person masculine singular pronoun suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَالْمُهْلِ",
+      "transliteration": "kal-muhli",
+      "meaning": "like the murky oil",
+      "root": {
+        "letters": "ه-م-ل",
+        "meaning": "to be dark, murky; to cover, conceal"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الْمُهْلِ",
+          "meaning": "the murky oil; the dark liquid substance"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Day- [it] will be the sky like-the murky oil"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

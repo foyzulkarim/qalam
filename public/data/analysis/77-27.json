@@ -1,0 +1,123 @@
+{
+  "verseId": "77:27",
+  "verse": {
+    "arabic": "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُم مَّاءً فُرَاتًا",
+    "transliteration": "WajaAAalna feeha rawasiya shamikhatin waasqaynakum maan furatan",
+    "surah": "Al-Mursalat",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَعَلْنَا",
+      "transliteration": "wa-jaʿalnā",
+      "meaning": "and We made/placed",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to establish, to place, to make something happen"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made/placed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it/therein",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/therein (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَوَاسِيَ",
+      "transliteration": "rawāsīya",
+      "meaning": "mountains, firmly fixed things",
+      "root": {
+        "letters": "ر-و-س",
+        "meaning": "to be firm, fixed, to hold fast; head (as the most firm part)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "شَامِخَاتٍ",
+      "transliteration": "shāmikhatin",
+      "meaning": "lofty, towering",
+      "root": {
+        "letters": "ش-و-ك",
+        "meaning": "to rise, to be high; a thorn or spike (denoting something elevated and potentially formidable)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَأَسْقَيْنَاكُم",
+      "transliteration": "wa-asqaynākum",
+      "meaning": "and We gave you to drink",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to water, to give drink"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَسْقَيْنَاكُم",
+          "meaning": "We gave you to drink (inclusive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَاءً",
+      "transliteration": "māʾan",
+      "meaning": "water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, wateriness, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فُرَاتًا",
+      "transliteration": "furātan",
+      "meaning": "sweet, fresh",
+      "root": {
+        "letters": "ف-ر-و",
+        "meaning": "abundance, flowing copiously, richness (of water)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-We-made in-it mountains lofty and-We-gave-you-to-drink water sweet"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

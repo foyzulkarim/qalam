@@ -1,0 +1,147 @@
+{
+  "verseId": "76:22",
+  "verse": {
+    "arabic": "إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+    "transliteration": "Inna hatha kana lakum jazaan wakana saAAyukum mashkooran",
+    "surah": "Al-Insan",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates affirmation and emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces a sentence with emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "This",
+      "root": {
+        "letters": "ه-ذ-ا",
+        "meaning": "to point, to indicate, to direct attention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "For you, to you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, to possess, perfection"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural, genitive/accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَزَاءً",
+      "transliteration": "jazāʾan",
+      "meaning": "A reward, recompense",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to benefit someone"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "سَعْيُكُم",
+      "transliteration": "saʿyukum",
+      "meaning": "Your effort, your striving",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to strive, to endeavor, to make effort"
+      },
+      "components": [
+        {
+          "arabic": "سَعْيُ",
+          "meaning": "effort, striving (nominal form)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "your (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَّشْكُورًا",
+      "transliteration": "mashkūran",
+      "meaning": "Appreciated, thanked",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to thank"
+      },
+      "components": [
+        {
+          "arabic": "مَشْكُور",
+          "meaning": "one who is thanked, grateful (passive participle)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fatha, indicates indefinite accusative case (ḥal)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-this-was-for-you-a-reward-and-was-your-effort-appreciated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

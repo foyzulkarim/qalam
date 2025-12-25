@@ -1,0 +1,86 @@
+{
+  "verseId": "68:3",
+  "verse": {
+    "arabic": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+    "transliteration": "Wainna laka laajran ghayra mamnoonin",
+    "surah": "Al-Qalam",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed, verily"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "for you",
+      "root": {
+        "letters": "ل-ك-ي",
+        "meaning": "possession, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَأَجْرًا",
+      "transliteration": "laʾjran",
+      "meaning": "a reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to reward, to compensate; wages, payment"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to (indicating purpose)"
+        },
+        {
+          "arabic": "أَجْرًا",
+          "meaning": "a reward, wages"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غَيْرَ",
+      "transliteration": "ghayra",
+      "meaning": "other than, without",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to lack, to be without, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَمْنُونٍ",
+      "transliteration": "mamnūnin",
+      "meaning": "interrupted, diminished, ungratefully repaid",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, deny; protection, prevention"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed for-you is a-reward other-than interrupted"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

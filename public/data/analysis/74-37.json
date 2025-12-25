@@ -1,0 +1,149 @@
+{
+  "verseId": "74:37",
+  "verse": {
+    "arabic": "لِمَن شَاءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+    "transliteration": "Liman shaa minkum an yataqaddama aw yataakhkhara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِمَن",
+      "transliteration": "liman",
+      "meaning": "for who, to whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "belonging to, pertaining to; abstract noun formation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "willed, desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to will, to desire; to be something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate from, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to (introduce a verbal noun)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; to become"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle of subordination, used to introduce a verbal noun or nominal sentence"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "often functions as a marker for infinitives or verbal nouns, though its standalone meaning is less significant in this context"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَتَقَدَّمَ",
+      "transliteration": "yataqaddama",
+      "meaning": "he proceeds, he advances",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to advance, to proceed forward, to set forth"
+      },
+      "components": [
+        {
+          "arabic": "يت-",
+          "meaning": "indicates imperfect tense, 3rd person masculine singular"
+        },
+        {
+          "arabic": "تقدّم",
+          "meaning": "to advance, to proceed (verbal noun/root form)"
+        },
+        {
+          "arabic": "-َ",
+          "meaning": "fatha, vowel ending indicating nominative case/imperfect tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَتَأَخَّرَ",
+      "transliteration": "yataʾakhkhara",
+      "meaning": "he stays behind, he delays",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to lag behind, to postpone; the last part of something"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third-person singular masculine"
+        },
+        {
+          "arabic": "تَأَ",
+          "meaning": "indicates reflexivity; he does it to himself/for himself, or is affected by the action"
+        },
+        {
+          "arabic": "خَّرَ",
+          "meaning": "past tense stem from the root أ-خ-ر, signifying delay or being late"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-whoever wills from-among you that he-proceeds or he-stays-behind"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "verseId": "67:28",
+  "verse": {
+    "arabic": "قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّهُ وَمَن مَّعِيَ أَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ",
+    "transliteration": "Qul araaytum in ahlakaniya Allahu waman maAAiya aw rahimana faman yujeeru alkafireena min AAathabin aleemin",
+    "surah": "Al-Mulk",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرَأَيْتُمْ",
+      "transliteration": "ʾaraʾaytum",
+      "meaning": "Have you seen/considered?",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "To see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "A questioning particle, indicating inquiry or astonishment"
+        },
+        {
+          "arabic": "رَأَيْتُمْ",
+          "meaning": "You have seen/considered (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِنْ",
+      "transliteration": "ʾin",
+      "meaning": "If/Whether",
+      "root": {
+        "letters": "ا-ن-ي",
+        "meaning": "to be, existence; also relates to weakness or inability (in some derivations)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَهْلَكَنِيَ",
+      "transliteration": "ʾahlakanīya",
+      "meaning": "He destroys me/cause my destruction",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first person singular pronoun (me)"
+        },
+        {
+          "arabic": "هَلَكَ",
+          "meaning": "to perish, to be destroyed (past tense)"
+        },
+        {
+          "arabic": "ـنِي",
+          "meaning": "suffix indicating first person singular pronoun (me) as the object of the verb's action"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "And who/and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin, kind"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَّعِيَ",
+      "transliteration": "maʿiya",
+      "meaning": "With me",
+      "root": {
+        "letters": "ع-ي-ي",
+        "meaning": "Possession, accompaniment, being with"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "With"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "Me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "To refuse, to reject; separation, opposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَحِمَنَا",
+      "transliteration": "raḥimanā",
+      "meaning": "He has mercy upon us",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to show mercy"
+      },
+      "components": [
+        {
+          "arabic": "رَحِمَ",
+          "meaning": "He had mercy"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَمَن",
+      "transliteration": "fa man",
+      "meaning": "Then who?",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, exist; who, what"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "Then, so"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "Who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يُجِيرُ",
+      "transliteration": "yujīru",
+      "meaning": "Protects/shelters",
+      "root": {
+        "letters": "ج-ي-ر",
+        "meaning": "To protect, shield, or defend; to offer help and refuge."
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating the first person singular present tense (I protect/shelter)."
+        },
+        {
+          "arabic": "جَارَ",
+          "meaning": "To protect, shelter, or defend."
+        },
+        {
+          "arabic": "و",
+          "meaning": "Vowel marking the present tense and connecting to the verb."
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الكَافِرِينَ",
+      "transliteration": "al-kāfirīna",
+      "meaning": "The disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, to restrain, to prevent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَذَابٍ",
+      "transliteration": "ʿadhābin",
+      "meaning": "Punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe, painfulness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَلِيمٍ",
+      "transliteration": "ʾalīmin",
+      "meaning": "Painful/severe",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "Pain, suffering, affliction; to be weary or exhausted."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - Have-you-seen/considered? - If - He-destroys-me - Allah - And-who - With-me - Or - He-has-mercy-upon-us - Then-who? - Protects/shelters - The-disbelievers - From - Punishment - Painful/severe"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

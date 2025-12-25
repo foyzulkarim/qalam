@@ -1,0 +1,140 @@
+{
+  "verseId": "72:21",
+  "verse": {
+    "arabic": "قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+    "transliteration": "Qul innee la amliku lakum darran wala rashadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنِّي",
+      "transliteration": "inni",
+      "meaning": "indeed, I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; I (as a pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily; emphatic particle introducing a clause"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَمْلِكُ",
+      "transliteration": "amliku",
+      "meaning": "I possess/own",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (first-person singular pronoun)"
+        },
+        {
+          "arabic": "مَلِكُ",
+          "meaning": "possessing, owning (verbal noun/active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ضَرًّا",
+      "transliteration": "ḍarran",
+      "meaning": "harm/evil",
+      "root": {
+        "letters": "ض-ر-ر",
+        "meaning": "to be tight, constricted; to cause difficulty or injury"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَشَدًا",
+      "transliteration": "rashadan",
+      "meaning": "right guidance/direction",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to be guided, to follow the right path; maturity, soundness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say-! indeed-I not I-possess for-you harm and-not right-guidance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "verseId": "68:44",
+  "verse": {
+    "arabic": "فَذَرْنِي وَمَن يُكَذِّبُ بِهَـٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
+    "transliteration": "Fatharnee waman yukaththibu bihatha alhadeethi sanastadrijuhum min haythu la yaAAlamoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَذَرْنِي",
+      "transliteration": "fa-dharnī",
+      "meaning": "so leave Me",
+      "root": {
+        "letters": "ذ-ر-ا",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "ذَرْنِي",
+          "meaning": "leave Me (imperative verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; also signifies uncertainty or questioning"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُكَذِّبُ",
+      "transliteration": "yukadhdhibu",
+      "meaning": "denies",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "indicates the present/future tense, active voice; a prefix related to verb conjugation"
+        },
+        {
+          "arabic": "كَذَّبَ",
+          "meaning": "to deny, to falsely accuse"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah; indicates vowel pattern for the verb form and tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِهَـٰذَا",
+      "transliteration": "bihādhā",
+      "meaning": "with this (one)",
+      "root": {
+        "letters": "ه-ذ-ا",
+        "meaning": "to point, to indicate, this"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هَـٰذَا",
+          "meaning": "this (one)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْحَدِيثِ",
+      "transliteration": "al-ḥadīthi",
+      "meaning": "the narrative/news",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to inform, to relate, to occur, novelty"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَدِيث",
+          "meaning": "narrative, news, report"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَنَسْتَدْرِجُهُم",
+      "transliteration": "sanastadrijuhum",
+      "meaning": "We will progressively lead them",
+      "root": {
+        "letters": "د-ر-ج",
+        "meaning": "to descend, to go down gradually; to lead by stages"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "future particle (will)"
+        },
+        {
+          "arabic": "نَسْتَدْرِجُ",
+          "meaning": "we will progressively lead/draw out"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, restrain, or be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "where/whence",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present; to exist; location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūn",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense/subjunctive mood, they"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine, they"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-leave Me - and-whoever - denies - with-this - the-narrative/news - [pause] - We-will-progressively-lead-them - from - where/whence - not - they-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "verseId": "72:18",
+  "verse": {
+    "arabic": "وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا",
+    "transliteration": "Waanna almasajida lillahi fala tadAAoo maAAa Allahi ahadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, to exist; affirmation, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of emphasis/affirmation"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "nūn al-tawkīd (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَسَاجِدَ",
+      "transliteration": "al-masājida",
+      "meaning": "the masjids, the places of prostration",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "prostration, bowing down in worship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسَاجِد",
+          "meaning": "places of prostration, mosques (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillaahi",
+      "meaning": "for Allah, belonging to Allah",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, glory, commendation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "The God (Allah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "so, then",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "returning, coming back, consequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, do not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَدْعُوا",
+      "transliteration": "tadʿū",
+      "meaning": "you invoke, you call upon",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine singular present tense"
+        },
+        {
+          "arabic": "دَعَا",
+          "meaning": "to call, to invoke"
+        },
+        {
+          "arabic": "و",
+          "meaning": "pronoun suffix indicating second person masculine singular (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "with, along with",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "return, come back; association, companionship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The One God, deity; to worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَحَدًا",
+      "transliteration": "ʾaḥadan",
+      "meaning": "anyone, someone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, solitary, one"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the indefinite article, 'a'"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "uniqueness, oneness (noun form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed the-masjids for-Allah so not-you invoke with-Allah anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

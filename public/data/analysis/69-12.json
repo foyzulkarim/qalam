@@ -1,0 +1,129 @@
+{
+  "verseId": "69:12",
+  "verse": {
+    "arabic": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ",
+    "transliteration": "LinajAAalaha lakum tathkiratan wataAAiyaha othunun waAAiyatun",
+    "surah": "Al-Haqqah",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِنَجْعَلَهَا",
+      "transliteration": "li-najʿalahā",
+      "meaning": "so that We might make it",
+      "root": {
+        "letters": "ن-ج-ع",
+        "meaning": "to produce, bring forth, accomplish"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, so that"
+        },
+        {
+          "arabic": "نَجْعَلَهَا",
+          "meaning": "We might make it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, perfect; to possess"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَذْكِرَةً",
+      "transliteration": "tadhkiratan",
+      "meaning": "a reminder",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating verbal noun formation (masdar)"
+        },
+        {
+          "arabic": "ذِكْرَة",
+          "meaning": "remembrance, act of remembering"
+        },
+        {
+          "arabic": "-ًة",
+          "meaning": "tanwīn al-naṣb (accusative case marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَتَعِيَهَا",
+      "transliteration": "wa taʿiyahā",
+      "meaning": "and to comprehend it/and [that] it be comprehended",
+      "root": {
+        "letters": "ع-ي-ه",
+        "meaning": "to understand, to comprehend, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a verb in the imperfect tense, 3rd person feminine singular"
+        },
+        {
+          "arabic": "عِيَهَا",
+          "meaning": "to comprehend it/her"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أُذُنٌ",
+      "transliteration": "udhunun",
+      "meaning": "an ear",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen, perception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَاعِيَةٌ",
+      "transliteration": "wāʿiyah",
+      "meaning": "conscious/attentive",
+      "root": {
+        "letters": "ع-ي-و",
+        "meaning": "to perceive, to be aware, to understand"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so that-We might make-it for-you a reminder and-to comprehend-it [that] an ear conscious"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

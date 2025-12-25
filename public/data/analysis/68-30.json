@@ -1,0 +1,109 @@
+{
+  "verseId": "68:30",
+  "verse": {
+    "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ",
+    "transliteration": "Faaqbala baAAduhum AAala baAAdin yatalawamoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَقْبَلَ",
+      "transliteration": "faʾaqbala",
+      "meaning": "Then he/they approached",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to turn towards, to come forward"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَقْبَلَ",
+          "meaning": "he/they approached, came forward (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَعْضُهُمْ",
+      "transliteration": "baʿḍuhum",
+      "meaning": "Some of them / a part of them",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, split, or possess a portion of something"
+      },
+      "components": [
+        {
+          "arabic": "بَعْض",
+          "meaning": "a portion, part"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon / on / towards",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَعْضٍ",
+      "transliteration": "baʿḍin",
+      "meaning": "A part / some (accusative)",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, to possess a portion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَتَلَاوَمُونَ",
+      "transliteration": "yatalāwamūn",
+      "meaning": "They blame each other / they reproach one another",
+      "root": {
+        "letters": "ل-و-م",
+        "meaning": "to blame, to reproach, to find fault"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and 3rd person plural"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating reciprocal action (each other)"
+        },
+        {
+          "arabic": "لَاوَم",
+          "meaning": "to blame, to reproach (from the root ل-و-م)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating 3rd person plural masculine active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [then] ʾaqbala - he/they approached, baʿḍuhum - some of them, ʿalā - upon, baʿḍin - a part/some, yatalāwamūn- they blame each other"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "verseId": "68:8",
+  "verse": {
+    "arabic": "فَلَا تُطِعِ الْمُكَذِّبِينَ",
+    "transliteration": "Fala tutiAAi almukaththibeena",
+    "surah": "Al-Qalam",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then not; so do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to be unable; to lack; negation, absence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not; negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُطِعِ",
+      "transliteration": "tuṭiʿ",
+      "meaning": "you obey; you heed",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey willingly, to submit, to be humble"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "you (masculine singular, prefix indicating second person)"
+        },
+        {
+          "arabic": "طِعْ",
+          "meaning": "obedience, heeding (from the root ط-و-ع)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُكَذِّبِينَ",
+      "transliteration": "al-mukadhdhibīn",
+      "meaning": "the deniers; the ones who reject (truth)",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie; to be false; to contradict"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُكَذِّبِينَ",
+          "meaning": "deniers; ones who reject (truth) - active participle plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-not you-obey the-deniers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

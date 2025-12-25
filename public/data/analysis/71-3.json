@@ -1,0 +1,125 @@
+{
+  "verseId": "71:3",
+  "verse": {
+    "arabic": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+    "transliteration": "Ani oAAbudoo Allaha waittaqoohu waateeAAooni",
+    "surah": "Nuh",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَنِ",
+      "transliteration": "ʾani",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, indeed (particle of emphasis/subordination)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اعْبُدُوا",
+      "transliteration": "iʿbudū",
+      "meaning": "worship (imperative, plural)",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship, slavery"
+      },
+      "components": [
+        {
+          "arabic": "اع",
+          "meaning": "prefix indicating imperative mood"
+        },
+        {
+          "arabic": "بُدُوا",
+          "meaning": "plural imperative form of the verb 'to worship'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اتَّقُوهُ",
+      "transliteration": "ittaqūhu",
+      "meaning": "fear Him (imperative, plural)",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard oneself"
+      },
+      "components": [
+        {
+          "arabic": "اتّـ",
+          "meaning": "intensive imperative prefix"
+        },
+        {
+          "arabic": "ـقُوهُ",
+          "meaning": "second person plural imperative with pronoun suffix (Him)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَطِيعُونِ",
+      "transliteration": "ʾaṭīʿūnī",
+      "meaning": "obey me (imperative, plural)",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to submit willingly"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle of command/imperative"
+        },
+        {
+          "arabic": "طِيعُونِ",
+          "meaning": "obeyers (plural, masculine), with the -ī suffix indicating plural and the -nī pronominal suffix meaning 'me'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "that-indeed worship-you Allah and fear-Him-you and obey-me-you"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

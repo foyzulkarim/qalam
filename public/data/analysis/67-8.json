@@ -1,0 +1,250 @@
+{
+  "verseId": "67:8",
+  "verse": {
+    "arabic": "تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ",
+    "transliteration": "Takadu tamayyazu mina alghaythi kullama olqiya feeha fawjun saalahum khazanatuha alam yatikum natheerun",
+    "surah": "Al-Mulk",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَكَادُ",
+      "transliteration": "takādu",
+      "meaning": "It is almost, it nearly",
+      "root": {
+        "letters": "ك-د-و",
+        "meaning": "to strive, to struggle, to be sufficient"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating near future or habitual action"
+        },
+        {
+          "arabic": "كَدُ",
+          "meaning": "striving, being close to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَمَيَّزُ",
+      "transliteration": "tamayyazu",
+      "meaning": "To distinguish, to separate, to burst (figuratively)",
+      "root": {
+        "letters": "م-ي-ز",
+        "meaning": "to distinguish, to separate, to differentiate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْغَيْظِ",
+      "transliteration": "al-ghayẓi",
+      "meaning": "The rage, the fury",
+      "root": {
+        "letters": "غ-ي-ظ",
+        "meaning": "to be angry, to rage, to feel intense resentment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "(pause particle, no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كُلَّمَا",
+      "transliteration": "kullamā",
+      "meaning": "Whenever, every time",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, communication, utterance"
+      },
+      "components": [
+        {
+          "arabic": "كُلّ",
+          "meaning": "all, every"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أُلْقِيَ",
+      "transliteration": "ulqiya",
+      "meaning": "Was thrown, was cast",
+      "root": {
+        "letters": "ق-ي-ا",
+        "meaning": "To throw, to cast; to reject or abandon"
+      },
+      "components": [
+        {
+          "arabic": "أُلْ",
+          "meaning": "Passive voice marker (form IV)"
+        },
+        {
+          "arabic": "قِيَ",
+          "meaning": "Derived from the root ق-ي-ا; relates to throwing or casting"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "Masculine singular past tense ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "Into it (feminine)",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, to be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, into"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَوْجٌ",
+      "transliteration": "fawjun",
+      "meaning": "A company, a group, a multitude",
+      "root": {
+        "letters": "ف-و-ج",
+        "meaning": "To return, to come back; a group returning together"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "سَأَلَهُمْ",
+      "transliteration": "sa'alahum",
+      "meaning": "Asked them",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "سَأَ",
+          "meaning": "prefix indicating future tense or intention"
+        },
+        {
+          "arabic": "لَهُمْ",
+          "meaning": "to them, for them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "خَزَنَتُهَا",
+      "transliteration": "khazanatuhā",
+      "meaning": "Its keepers (feminine possessive)",
+      "root": {
+        "letters": "خ-ز-ن",
+        "meaning": "To keep, to store, to preserve; guardianship"
+      },
+      "components": [
+        {
+          "arabic": "خَزَنَة",
+          "meaning": "Keepers, guardians (feminine plural)"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "Its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَلَمْ",
+      "transliteration": "alam",
+      "meaning": "Did... not?",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To know, to perceive, to realize; negation or absence of knowledge/perception."
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "A negative particle indicating denial or questioning of an action."
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "Past negative particle; indicates that an action did not occur."
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يَأْتِكُمْ",
+      "transliteration": "ya'tikum",
+      "meaning": "Come to you?",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating the present tense, first person (I)"
+        },
+        {
+          "arabic": "أَتِـ",
+          "meaning": "present tense root form of 'to come'"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "pronoun suffix, 'to you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "نَذِيرٌ",
+      "transliteration": "nad̲hīrun",
+      "meaning": "A warner, a reminder",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to remind, to give notice"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "It-almost bursts - from the rage. Whenever – was-thrown – into it – a company – asked-them – its keepers - Did-not come to you – [someone] – a warner?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "verseId": "68:43",
+  "verse": {
+    "arabic": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ",
+    "transliteration": "KhashiAAatan absaruhum tarhaquhum thillatun waqad kanoo yudAAawna ila alssujoodi wahum salimoona",
+    "surah": "Al-Qalam",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَاشِعَةً",
+      "transliteration": "khāshiʿatan",
+      "meaning": "humbled, submissive",
+      "root": {
+        "letters": "خ-ش-ع",
+        "meaning": "to be humble, subdued, lowered (in posture or spirit)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَبْصَارُهُمْ",
+      "transliteration": "ʾabṣāruhum",
+      "meaning": "their eyes",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, sight"
+      },
+      "components": [
+        {
+          "arabic": "أَبْ",
+          "meaning": "their (possession)"
+        },
+        {
+          "arabic": "صَارُ",
+          "meaning": "eyes (plural of بَصَر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَرْهَقُهُمْ",
+      "transliteration": "tarhaquhum",
+      "meaning": "covers them, overwhelms them",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "to be weary, exhausted; to overwhelm, burden"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating present/future tense, often with a sense of repetition or habituality"
+        },
+        {
+          "arabic": "رَهَقَ",
+          "meaning": "to overwhelm, cover with exhaustion or difficulty"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِلَّةٌ",
+      "transliteration": "dhillatun",
+      "meaning": "humiliation, disgrace",
+      "root": {
+        "letters": "ذ-ل-ل",
+        "meaning": "to be humbled, to submit; weakness, lowliness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَقَدْ",
+      "transliteration": "wa-qad",
+      "meaning": "and indeed, and already",
+      "root": {
+        "letters": "ق-د-ع",
+        "meaning": "to establish, to perform (a deed), to be able (to do something)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed, already; indicates completion or certainty"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُدْعَوْنَ",
+      "transliteration": "yudʿawna",
+      "meaning": "they were being invited",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker/prefix indicating they are being acted upon"
+        },
+        {
+          "arabic": "دُعِ",
+          "meaning": "passive participle form of the verb 'to call'"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "plural masculine suffix (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline to, or to be associated with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "السُّجُودِ",
+      "transliteration": "as-sujūdi",
+      "meaning": "the prostration",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate; to submit humbly"
+      },
+      "components": [
+        {
+          "arabic": "السِّـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جُودِ",
+          "meaning": "prostration (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "ه-م-و",
+        "meaning": "to have, to possess; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "سَالِمُونَ",
+      "transliteration": "sālimūna",
+      "meaning": "sound, safe, unharmed",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, sound, free from defects"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "humbled-eyes [their] overwhelms-them humiliation and-indeed they-were being-invited to the-prostration while [they were] sound"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

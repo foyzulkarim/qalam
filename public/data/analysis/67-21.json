@@ -1,0 +1,204 @@
+{
+  "verseId": "67:21",
+  "verse": {
+    "arabic": "أَمَّنْ هَـٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَل لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ",
+    "transliteration": "Amman hatha allathee yarzuqukum in amsaka rizqahu bal lajjoo fee AAutuwwin wanufoorin",
+    "surah": "Al-Mulk",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمَّنْ",
+      "transliteration": "ʾamman",
+      "meaning": "Or who?",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or, whether"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this one",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "who, that which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, having a quality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "possessing, owner of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَرْزُقُكُمْ",
+      "transliteration": "yarzuqukum",
+      "meaning": "provides for you (plural)",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": [
+        {
+          "arabic": "يَرْزُقُ",
+          "meaning": "He provides, He sustains (verb form)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "for you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنْ",
+      "transliteration": "ʾin",
+      "meaning": "if",
+      "root": {
+        "letters": "إ-ن-ي",
+        "meaning": "to be, existence; a conditional particle indicating possibility or uncertainty."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَمْسَكَ",
+      "transliteration": "ʾamsaka",
+      "meaning": "He withheld, He stopped",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to hold, to restrain, to control"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رِزْقَهُ",
+      "transliteration": "rizqahu",
+      "meaning": "His provision",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "provision, sustenance, livelihood"
+      },
+      "components": [
+        {
+          "arabic": "رِزْق",
+          "meaning": "provision, sustenance"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۚ",
+      "transliteration": "lām-shadda",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَل",
+      "transliteration": "bal",
+      "meaning": "rather, but",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to oppose, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَّجُّوا",
+      "transliteration": "lajjū",
+      "meaning": "they persisted, they insisted",
+      "root": {
+        "letters": "ل-ج-ج",
+        "meaning": "to seek refuge, to resort to something; persistence, insistence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عُتُوٍّ",
+      "transliteration": "ʿutūw",
+      "meaning": "insolence, arrogance",
+      "root": {
+        "letters": "ع-ت-و",
+        "meaning": "to exceed, transgress; to be arrogant"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَنُفُورٍ",
+      "transliteration": "wa-nufūr",
+      "meaning": "and aversion, and rejection",
+      "root": {
+        "letters": "ن-ف-ر",
+        "meaning": "to turn away, to flee, to reject"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نُفُورٍ",
+          "meaning": "aversion, rejection (noun form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Or-who - this-one - who - provides-for-you (plural) - if - He-withheld - His-provision - [pause] - rather - they-persisted - in - insolence - and-aversion"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

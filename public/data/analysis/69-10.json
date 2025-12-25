@@ -1,0 +1,125 @@
+{
+  "verseId": "69:10",
+  "verse": {
+    "arabic": "فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+    "transliteration": "FaAAasaw rasoola rabbihim faakhathahum akhthatan rabiyatan",
+    "surah": "Al-Haqqah",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَعَصَوْا",
+      "transliteration": "faʿaṣawū",
+      "meaning": "so they disobeyed",
+      "root": {
+        "letters": "ع-ص-ي",
+        "meaning": "to disobey, to rebel, to resist"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "عَصَوْا",
+          "meaning": "they disobeyed (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَسُولَ",
+      "transliteration": "rasūla",
+      "meaning": "messenger of",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a message or communication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, master, possessor"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأَخَذَهُمْ",
+      "transliteration": "fa-ʾakhādha-hum",
+      "meaning": "so He seized them",
+      "root": {
+        "letters": "خ-ذ-ح",
+        "meaning": "to take, seize, grasp"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَخَذَ",
+          "meaning": "he took, he seized"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَخْذَةً",
+      "transliteration": "ʾakhdhah",
+      "meaning": "a seizure",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "أَخْذ",
+          "meaning": "taking, seizing"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite accusative marker (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَّابِيَةً",
+      "transliteration": "rābiyah",
+      "meaning": "exceeding [in severity]",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "to grow, to increase, to be abundant"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they disobeyed -messenger-of -their Lord -so He seized-them -a seizure -exceeding-[in severity]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
