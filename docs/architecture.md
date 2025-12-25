@@ -79,7 +79,8 @@ Word-by-word linguistic analysis in `public/data/analysis/`:
 
 - File format: `{surah}-{verse}.json` (e.g., `1-5.json`)
 - Contains: roots, grammar, morphology, transliteration
-- Generated via Ollama (see [LLM Integration](./llm-integration.md))
+- Generated using LM Studio (Gemma3-27B) or Ollama
+- See [LLM Integration](./llm-integration.md) for details
 
 Currently includes:
 - Surah Al-Fatihah (1:1-7)
@@ -95,8 +96,8 @@ Build Time:
 └─────────────────┘     └─────────────────┘
 
 ┌─────────────────┐     ┌─────────────────┐
-│ Ollama LLM      │────▶│ analysis/*.json │
-│ (local)         │     │ (linguistic)    │
+│ LM Studio or    │────▶│ analysis/*.json │
+│ Ollama (local)  │     │ (linguistic)    │
 └─────────────────┘     └─────────────────┘
 
 Runtime:

@@ -47,17 +47,37 @@ All data is in `public/data/`:
 
 See [LLM Integration](./llm-integration.md) for details.
 
-Quick version:
+The script supports **LM Studio** or **Ollama**:
+
+### Using LM Studio (Recommended)
 
 ```bash
-# Install Ollama and pull a model
-ollama pull qwen2.5:72b
+# 1. Install LM Studio from https://lmstudio.ai
+# 2. Download a model (e.g., Gemma3-27B)
+# 3. Start the local server in LM Studio
 
 # Create .env
-echo "OLLAMA_BASE_URL=http://localhost:11434" > .env
-echo "OLLAMA_MODEL=qwen2.5:72b" >> .env
+cat > .env << EOF
+LLM_BACKEND=lms
+LMS_BASE_URL=http://localhost:1234
+LMS_MODEL=gemma3-27b
+EOF
 
 # Run seed script
+npm run seed:analysis
+```
+
+### Using Ollama
+
+```bash
+ollama pull qwen2.5:72b
+
+cat > .env << EOF
+LLM_BACKEND=ollama
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_MODEL=qwen2.5:72b
+EOF
+
 npm run seed:analysis
 ```
 
@@ -92,11 +112,16 @@ npm install
 **Arabic font not loading:**
 Check browser console. Font is loaded via `next/font/google` in layout.tsx.
 
+**LM Studio issues:**
+```bash
+# Check if server is running
+curl http://localhost:1234/v1/models
+# If not, start server in LM Studio: Developer → Start Server
+```
+
 **Ollama issues:**
 ```bash
-# Check if running
 curl http://localhost:11434/api/tags
-
-# Start if needed
+# If error, start Ollama:
 ollama serve
 ```

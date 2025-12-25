@@ -9,36 +9,59 @@ LLMs are used **only at build time** to generate linguistic analysis. They are N
 - Generating translations (sourced from Sahih International)
 - Runtime evaluation (planned for future)
 
+## Supported Backends
+
+The seed script supports two LLM backends:
+
+| Backend | Tool | API Style |
+|---------|------|-----------|
+| `ollama` | [Ollama](https://ollama.ai) | Ollama native API |
+| `lms` | [LM Studio](https://lmstudio.ai) | OpenAI-compatible API |
+
+The current analysis was generated using **LM Studio with Gemma3-27B**.
+
 ## Seed Script
 
 The seed script (`npm run seed:analysis`) generates word-by-word analysis for verses.
-
-### Prerequisites
-
-1. [Ollama](https://ollama.ai) installed and running
-2. A suitable model pulled (see recommendations below)
-3. Environment configured
 
 ### Configuration
 
 Create `.env` file:
 
 ```bash
-OLLAMA_BASE_URL=http://localhost:11434
-OLLAMA_MODEL=qwen2.5:72b
+# Backend selection: 'ollama' or 'lms'
+LLM_BACKEND="lms"
+
+# LM Studio (recommended)
+LMS_BASE_URL="http://localhost:1234"
+LMS_MODEL="gemma3-27b"
+
+# Ollama (alternative)
+OLLAMA_BASE_URL="http://localhost:11434"
+OLLAMA_MODEL="qwen2.5:72b"
 ```
 
-### Running
+### Running with LM Studio
 
 ```bash
-# Start Ollama (if not running)
+# 1. Download and install LM Studio from https://lmstudio.ai
+# 2. Download a model (e.g., Gemma3-27B, Qwen2.5)
+# 3. Start the local server in LM Studio
+# 4. Run seed script
+LLM_BACKEND=lms npm run seed:analysis
+```
+
+### Running with Ollama
+
+```bash
+# Start Ollama
 ollama serve
 
-# Pull recommended model
+# Pull a model
 ollama pull qwen2.5:72b
 
 # Run seed script
-npm run seed:analysis
+LLM_BACKEND=ollama npm run seed:analysis
 ```
 
 ### Features
@@ -49,13 +72,23 @@ npm run seed:analysis
 
 ## Model Recommendations
 
+### LM Studio Models
+
+| Model | Size | Arabic Quality | Notes |
+|-------|------|----------------|-------|
+| Gemma3-27B | ~16GB | Excellent | Used for current analysis |
+| Qwen2.5-32B | ~18GB | Excellent | Great Arabic support |
+| Llama3-70B | ~40GB | Very Good | Requires significant RAM |
+
+### Ollama Models
+
 | Model | Size | Arabic Quality | Speed |
 |-------|------|----------------|-------|
 | qwen2.5:72b | 40GB | Excellent | Slow |
 | qwen2.5:32b | 18GB | Very Good | Medium |
 | llama3.2 | 4GB | Basic | Fast |
 
-For Quranic Arabic analysis, larger models produce significantly better results.
+For Quranic Arabic analysis, larger models (27B+) produce significantly better results.
 
 ## Two-Phase Generation
 
@@ -142,6 +175,13 @@ Total: ~550 verses with full word-by-word analysis.
 
 ## Troubleshooting
 
+**LM Studio not responding:**
+```bash
+curl http://localhost:1234/v1/models
+# If error, ensure LM Studio server is running
+# In LM Studio: Developer tab → Start Server
+```
+
 **Ollama not responding:**
 ```bash
 curl http://localhost:11434/api/tags
@@ -149,15 +189,9 @@ curl http://localhost:11434/api/tags
 ollama serve
 ```
 
-**Model not found:**
-```bash
-ollama list
-ollama pull qwen2.5:72b
-```
-
 **Invalid JSON responses:**
-- Try a larger model for better Arabic handling
-- Script has retry logic (3 attempts per verse)
+- Try a larger model (27B+) for better Arabic handling
+- Script has retry logic with JSON repair
 
 **Script stops mid-way:**
 Just run again - it resumes from where it stopped.
