@@ -8,7 +8,11 @@
     "start": "next start",
     "lint": "next lint",
     "build:quran": "tsx scripts/build-quran-json.ts",
-    "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts"
+    "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts",
+    "worker:dev": "cd worker && npm run dev",
+    "worker:dev:remote": "cd worker && npm run dev:remote",
+    "worker:deploy": "cd worker && npm run deploy",
+    "serve:static": "npx serve out -p 3000"
   },
   "dependencies": {
     "next": "^16.1.1",

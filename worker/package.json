@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "wrangler dev",
+    "dev:remote": "wrangler dev --remote",
     "dev:local": "wrangler dev --env dev",
     "deploy": "wrangler deploy",
     "deploy:prod": "wrangler deploy --env production",
