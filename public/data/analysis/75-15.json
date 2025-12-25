@@ -1,0 +1,74 @@
+{
+  "verseId": "75:15",
+  "verse": {
+    "arabic": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ",
+    "transliteration": "Walaw alqa maAAatheerahu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَوْ",
+      "transliteration": "wa-law",
+      "meaning": "and if, even if",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to wish, to will, desire; possibility, ability"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, even if; a conditional particle expressing unrealized conditions or wishes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَلْقَىٰ",
+      "transliteration": "alqā",
+      "meaning": "he threw, he cast, he presented",
+      "root": {
+        "letters": "ق-ي-أ",
+        "meaning": "to throw, to cast, to present; to reject or abandon (figuratively)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَعَاذِيرَهُ",
+      "transliteration": "maʿādhīrahu",
+      "meaning": "his excuses, his justifications",
+      "root": {
+        "letters": "ع-ذ-ر",
+        "meaning": "to find an excuse, to offer a justification; deficiency, weakness"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with, along with"
+        },
+        {
+          "arabic": "آذِير",
+          "meaning": "excuses, justifications (plural of معذرة)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if he-threw his-excuses"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

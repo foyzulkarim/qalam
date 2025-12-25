@@ -1,0 +1,61 @@
+{
+  "verseId": "75:23",
+  "verse": {
+    "arabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+    "transliteration": "Ila rabbiha nathiratun",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline, to approach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبِّهَا",
+      "transliteration": "rabbi-hā",
+      "meaning": "her Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَاظِرَةٌ",
+      "transliteration": "nāẓirah",
+      "meaning": "looking, gazing",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look, to observe, to consider"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-her Lord - looking"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

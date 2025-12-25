@@ -1,0 +1,105 @@
+{
+  "verseId": "70:32",
+  "verse": {
+    "arabic": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+    "transliteration": "Waallatheena hum liamanatihim waAAahdihim raAAoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-al-ladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; to belong to, to be suitable for"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِأَمَانَاتِهِمْ",
+      "transliteration": "li-amānātihim",
+      "meaning": "for their trusts",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "trust, safety, security"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَمَانَاتِهِمْ",
+          "meaning": "their trusts"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَعَهْدِهِمْ",
+      "transliteration": "wa-ʿahdihim",
+      "meaning": "and their promises",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to covenant, promise, agreement"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَهْدِهِمْ",
+          "meaning": "their promises, their covenants"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَاعُونَ",
+      "transliteration": "rāʿūna",
+      "meaning": "attentive, guardians",
+      "root": {
+        "letters": "ر-ع-ي",
+        "meaning": "to pasture, to care for, to oversee"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-those who they for-their trusts and-their promises attentive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

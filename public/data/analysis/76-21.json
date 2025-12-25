@@ -1,0 +1,205 @@
+{
+  "verseId": "76:21",
+  "verse": {
+    "arabic": "عَالِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوا أَسَاوِرَ مِن فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+    "transliteration": "AAaliyahum thiyabu sundusin khudrun waistabraqun wahulloo asawira min fiddatin wasaqahum rabbuhum sharaban tahooran",
+    "surah": "Al-Insan",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَالِيَهُمْ",
+      "transliteration": "ʿāliyahum",
+      "meaning": "Upon them; high over them",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise"
+      },
+      "components": [
+        {
+          "arabic": "عَالِي",
+          "meaning": "high, elevated"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ثِيَابُ",
+      "transliteration": "thiyābu",
+      "meaning": "Garments; clothes",
+      "root": {
+        "letters": "ث-ي-ب",
+        "meaning": "To return, to come back; firmness, stability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سُندُسٍ",
+      "transliteration": "sundusin",
+      "meaning": "Fine silk; a type of fabric",
+      "root": {
+        "letters": "س-ن-د",
+        "meaning": "to be close, to approach; support, aid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خُضْرٌ",
+      "transliteration": "ḫuḍrun",
+      "meaning": "Green; verdant",
+      "root": {
+        "letters": "خ-ض-ر",
+        "meaning": "to be green, to flourish, freshness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَإِسْتَبْرَقٌ",
+      "transliteration": "wa-’istabraqun",
+      "meaning": "And brocade; a rich fabric",
+      "root": {
+        "letters": "س-ب-ر",
+        "meaning": "to test, examine; to weave tightly, refine"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْتِبْرَقٌ",
+          "meaning": "brocade; a rich fabric (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَحُلُّوا",
+      "transliteration": "wa-ḥullū",
+      "meaning": "And they were adorned; and they were embellished",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to loosen, untie, solve; to adorn, embellish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حُلُّوا",
+          "meaning": "they were adorned/embellished (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَسَاوِرَ",
+      "transliteration": "ʾasāwira",
+      "meaning": "Bracelets; armbands",
+      "root": {
+        "letters": "س-و-ر",
+        "meaning": "To surround, to cover, to protect; height, fortress."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِن فِضَّةٍ",
+      "transliteration": "min fiḍḍatin",
+      "meaning": "Of silver; from silver",
+      "root": {
+        "letters": "ف-ض-د",
+        "meaning": "to separate, to divide; excellence, surplus (leading to the material sense of silver as something valuable and refined)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "فِضَّةٍ",
+          "meaning": "silver"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَسَقَاهُمْ",
+      "transliteration": "wa-saqāhum",
+      "meaning": "And He gave them to drink; and their Lord quenched their thirst",
+      "root": {
+        "letters": "س-ق-ى",
+        "meaning": "to give to drink; to water; to quench thirst"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَقَاهُمْ",
+          "meaning": "He gave them to drink; He quenched their thirst (verb + pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَبُّهُمْ",
+      "transliteration": "rabbu-hum",
+      "meaning": "Their Lord; the one who sustains them",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to sustain"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord, Sustainer"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "شَرَابًا",
+      "transliteration": "sharāban",
+      "meaning": "A drink; beverage",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink; to absorb, take in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "طَهُورًا",
+      "transliteration": "ṭahūran",
+      "meaning": "Purifying; clean; pure",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to purify; to clean; to become pure"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Upon-them garments of fine-silk green and brocade - and they were adorned bracelets from silver - and gave-them their-Lord drink purifying"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

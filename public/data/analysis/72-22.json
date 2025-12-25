@@ -1,0 +1,206 @@
+{
+  "verseId": "72:22",
+  "verse": {
+    "arabic": "قُلْ إِنِّي لَن يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِ مُلْتَحَدًا",
+    "transliteration": "Qul innee lan yujeeranee mina Allahi ahadun walan ajida min doonihi multahadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنِّي",
+      "transliteration": "innī",
+      "meaning": "Indeed I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also used to emphasize the following statement"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (an emphatic particle)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَن",
+      "transliteration": "lan",
+      "meaning": "will not, never",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to be unwilling, to refuse, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُجِيرَنِي",
+      "transliteration": "yujīrunī",
+      "meaning": "protect me",
+      "root": {
+        "letters": "ج-ي-ر",
+        "meaning": "to protect, shield, defend"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating first-person singular (I)"
+        },
+        {
+          "arabic": "جِيرَ",
+          "meaning": "passive voice, protective form relating to the root ج-ي-ر"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "suffix indicating first-person singular (me)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنَ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source, place of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāh",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, deity; to worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَحَدٌ",
+      "transliteration": "aḥadun",
+      "meaning": "anyone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, singular, one"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, linking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَنْ",
+      "transliteration": "lan",
+      "meaning": "will not, never",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَجِدَ",
+      "transliteration": "ajida",
+      "meaning": "I find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to seek, to find, effort"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, be less, diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "دُونِهِ",
+      "transliteration": "dūnīhi",
+      "meaning": "other than Him",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, inferior; to diminish, lessen"
+      },
+      "components": [
+        {
+          "arabic": "دُونِ",
+          "meaning": "other than, besides"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مُلْتَحَدًا",
+      "transliteration": "multaḥadan",
+      "meaning": "refuge, place of security",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "occurrence, novelty, emergence; to happen, to be new"
+      },
+      "components": [
+        {
+          "arabic": "مُـ",
+          "meaning": "prefix indicating passive or intensive form"
+        },
+        {
+          "arabic": "لْتَحَد",
+          "meaning": "seeking refuge, being secure (derived from the root ح-د-ث)"
+        },
+        {
+          "arabic": "ـًا",
+          "meaning": "adjectival suffix indicating state or condition (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - Indeed I - will not - protect me - from - Allah - anyone - and - will not - I find - from - other than Him - refuge."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "verseId": "73:13",
+  "verse": {
+    "arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+    "transliteration": "WataAAaman tha ghussatin waAAathaban aleeman",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, to invite; love, affection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَعَامًا",
+      "transliteration": "ṭaʿāman",
+      "meaning": "food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, to feed, nourishment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَا",
+      "transliteration": "dhā",
+      "meaning": "possessing, owner of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "غُصَّةٍ",
+      "transliteration": "ghuṣṣatin",
+      "meaning": "choking, suffocation",
+      "root": {
+        "letters": "غ-ص-ص",
+        "meaning": "to choke, to be oppressed; difficulty in breathing or swallowing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَعَذَابًا",
+      "transliteration": "waʿadhāban",
+      "meaning": "and punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe or painful"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَذَابًا",
+          "meaning": "punishment, torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَلِيمًا",
+      "transliteration": "alīman",
+      "meaning": "painful, severe",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "pain, suffering, affliction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -food -possessing -choking -and -punishment -painful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

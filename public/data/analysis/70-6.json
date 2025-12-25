@@ -1,0 +1,74 @@
+{
+  "verseId": "70:6",
+  "verse": {
+    "arabic": "إِنَّهُمْ يَرَوْنَهُ بَعِيدًا",
+    "transliteration": "Innahum yarawnahu baAAeedan",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "ʾinnahum",
+      "meaning": "Indeed they",
+      "root": {
+        "letters": "هـ-مْ-ي",
+        "meaning": "to be, to exist; intention, desire"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَرَوْنَهُ",
+      "transliteration": "yarawnahu",
+      "meaning": "They see it",
+      "root": {
+        "letters": "ر-ي-و",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "They (masculine plural pronoun)"
+        },
+        {
+          "arabic": "رَو",
+          "meaning": "to see, to perceive"
+        },
+        {
+          "arabic": "نَهُ",
+          "meaning": "it (masculine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَعِيدًا",
+      "transliteration": "baʿīdan",
+      "meaning": "Distant",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "Remoteness, distance, far away"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-they see-it distant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

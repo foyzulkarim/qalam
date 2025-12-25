@@ -1,0 +1,103 @@
+{
+  "verseId": "77:31",
+  "verse": {
+    "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+    "transliteration": "La thaleelin wala yughnee mina allahabi",
+    "surah": "Al-Mursalat",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ظَلِيلٍ",
+      "transliteration": "ẓalīlin",
+      "meaning": "cool shade, providing shade",
+      "root": {
+        "letters": "ظ-ل-ل",
+        "meaning": "shade, shadow, coolness, protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُغْنِي",
+      "transliteration": "yughnī",
+      "meaning": "benefit, avail, suffice",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be free from want, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, active voice"
+        },
+        {
+          "arabic": "غَنِيَ",
+          "meaning": "to be sufficient, to benefit (root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهَبِ",
+      "transliteration": "al-lahabi",
+      "meaning": "the flame, the burning fire",
+      "root": {
+        "letters": "ل-ه-ب",
+        "meaning": "to blaze, to flame; burning"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "no-cool shade and not-benefit from the-flame"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

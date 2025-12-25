@@ -1,0 +1,100 @@
+{
+  "verseId": "77:46",
+  "verse": {
+    "arabic": "كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+    "transliteration": "Kuloo watamattaAAoo qaleelan innakum mujrimoona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كُلُوا",
+      "transliteration": "kulū",
+      "meaning": "eat (imperative)",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat"
+      },
+      "components": [
+        {
+          "arabic": "كُل",
+          "meaning": "eat (stem)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "imperative plural suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَمَتَّعُوا",
+      "transliteration": "tamattaʿū",
+      "meaning": "enjoy yourselves (imperative)",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "to possess, to enjoy, to benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "a little",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to diminish, scarcity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنَّكُم",
+      "transliteration": "innakum",
+      "meaning": "indeed you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; becoming, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily; emphatic particle"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مُّجْرِمُونَ",
+      "transliteration": "mujrimūn",
+      "meaning": "criminals",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "to commit a crime, to transgress"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "eat-you-plural and enjoy-yourselves-you-plural a little indeed you-plural criminals"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

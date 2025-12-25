@@ -1,0 +1,121 @@
+{
+  "verseId": "71:10",
+  "verse": {
+    "arabic": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+    "transliteration": "Faqultu istaghfiroo rabbakum innahu kana ghaffaran",
+    "surah": "Nuh",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَقُلْتُ",
+      "transliteration": "fa-qultu",
+      "meaning": "So I said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "قُلْتُ",
+          "meaning": "I said (verb, first-person singular perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اِسْتَغْفِرُوا",
+      "transliteration": "istaghfirū",
+      "meaning": "Seek forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَـ",
+          "meaning": "intensive/request form (prefix)"
+        },
+        {
+          "arabic": "غَفِرُوا",
+          "meaning": "they forgave/sought forgiveness (verb, third person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبَّكُمْ",
+      "transliteration": "rabba-kum",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have possession, to own; to increase, to grow; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahu",
+      "meaning": "Indeed He",
+      "root": {
+        "letters": "هـ-نـ-أ",
+        "meaning": "to be, existence, presence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was/Is",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "غَفَّارًا",
+      "transliteration": "ghaffāran",
+      "meaning": "A Forgiver",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-I said - Seek forgiveness - Your Lord - Indeed He - Was/Is - A Forgiver"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

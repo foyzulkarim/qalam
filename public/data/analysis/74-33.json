@@ -1,0 +1,60 @@
+{
+  "verseId": "74:33",
+  "verse": {
+    "arabic": "وَاللَّيْلِ إِذْ أَدْبَرَ",
+    "transliteration": "Waallayli ith adbara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّيْلِ",
+      "transliteration": "al-layli",
+      "meaning": "the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; concealment, covering"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, at the time when",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to depart; time passing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَدْبَرَ",
+      "transliteration": "adbara",
+      "meaning": "it departed, turned away",
+      "root": {
+        "letters": "د-ب-ر",
+        "meaning": "to send back, to turn away, to finish"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the night - when - it departed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

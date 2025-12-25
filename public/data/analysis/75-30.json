@@ -1,0 +1,81 @@
+{
+  "verseId": "75:30",
+  "verse": {
+    "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+    "transliteration": "Ila rabbika yawmaithin almasaqu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to resort to; inclination, relationship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma-ʾidhi",
+      "meaning": "on that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on a day"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that, at that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَسَاقُ",
+      "transliteration": "al-masāqu",
+      "meaning": "the procession, the driving forth",
+      "root": {
+        "letters": "س-و-ق",
+        "meaning": "to go, to proceed; market, trade"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-your Lord on-that Day the-procession"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

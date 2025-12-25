@@ -1,0 +1,70 @@
+{
+  "verseId": "77:11",
+  "verse": {
+    "arabic": "وَإِذَا الرُّسُلُ أُقِّتَتْ",
+    "transliteration": "Waitha alrrusulu oqqitat",
+    "surah": "Al-Mursalat",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; time, instance"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الرُّسُلُ",
+      "transliteration": "ar-rusulu",
+      "meaning": "the messengers",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to travel, communication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُقِّتَتْ",
+      "transliteration": "uqqittat",
+      "meaning": "were appointed (a time)",
+      "root": {
+        "letters": "ق-ت-ت",
+        "meaning": "to fix, to determine, to appoint a time"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker"
+        },
+        {
+          "arabic": "قِّتَتْ",
+          "meaning": "appointed (a time); derived from the root ق-ت-ت with inflection for past tense, passive voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-and when - the messengers - were appointed-[to them]-a time"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

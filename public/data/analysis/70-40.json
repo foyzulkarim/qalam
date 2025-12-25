@@ -1,0 +1,163 @@
+{
+  "verseId": "70:40",
+  "verse": {
+    "arabic": "فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ",
+    "transliteration": "Fala oqsimu birabbi almashariqi waalmagharibi inna laqadiroona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "So, then not; therefore not",
+      "root": {
+        "letters": "ل-ي-د",
+        "meaning": "to refuse, to deny, to be incapable"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "uqsimu",
+      "meaning": "I swear; I make an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, apportion, distribute; to share out; to decree or assign a portion"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "prefix indicating the first person singular active voice (I)"
+        },
+        {
+          "arabic": "قَسَمَ",
+          "meaning": "the verb root meaning to swear, oath (derived from the root ق-س-م)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِرَبِّ",
+      "transliteration": "bi-rabbi",
+      "meaning": "By the Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَشَارِقِ",
+      "transliteration": "al-mashāriqi",
+      "meaning": "The risings; the places of sunrise",
+      "root": {
+        "letters": "ش-ر-ق",
+        "meaning": "to rise; to begin (often of the sun)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَشَارِق",
+          "meaning": "risings; places of sunrise (plural of mashriq)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالْمَغَارِبِ",
+      "transliteration": "wa-al-maghāribi",
+      "meaning": "And the settings; and the places of sunset",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to set (sun), to go down, to hide; west"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَغَارِبِ",
+          "meaning": "settings (of the sun), places of sunset (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "Indeed We; Verily we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed; Verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We; Us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَقَادِرُونَ",
+      "transliteration": "la-qādirūna",
+      "meaning": "Truly able; We are certainly capable",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be powerful, to have power or ability; to estimate, measure, appreciate"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "The emphatic particle 'la' - used for emphasis, meaning 'truly', 'indeed'"
+        },
+        {
+          "arabic": "قَادِرُونَ",
+          "meaning": "Capable, able (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-then not I-swear By-Lord-of the-risings And-the-settings Indeed We Truly-able"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

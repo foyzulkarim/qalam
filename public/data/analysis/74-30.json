@@ -1,0 +1,61 @@
+{
+  "verseId": "74:30",
+  "verse": {
+    "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+    "transliteration": "AAalayha tisAAata AAashara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon it, over it",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تِسْعَةَ",
+      "transliteration": "tisʿata",
+      "meaning": "nine",
+      "root": {
+        "letters": "س-ع-ع",
+        "meaning": "to be high, to elevate; fullness, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَشَرَ",
+      "transliteration": "ʿashara",
+      "meaning": "ten",
+      "root": {
+        "letters": "ع-ش-ر",
+        "meaning": "to associate, to count, to be ten"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "upon-it nine ten"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

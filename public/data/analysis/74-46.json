@@ -1,0 +1,93 @@
+{
+  "verseId": "74:46",
+  "verse": {
+    "arabic": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ",
+    "transliteration": "Wakunna nukaththibu biyawmi alddeeni",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we were"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُكَذِّبُ",
+      "transliteration": "nukadhdhibu",
+      "meaning": "we deny/disbelieve",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "كَذِّبُ",
+          "meaning": "to deny, to disbelieve (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِيَوْمِ",
+      "transliteration": "bi-yawmi",
+      "meaning": "with/in the day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse (time)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "يَوْمِ",
+          "meaning": "the day (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "the recompense/judgement",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be in debt, to subjugate; recompense, judgement, religion"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِينِ",
+          "meaning": "recompense, judgement"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - we were - we deny/disbelieve - with/in the day of - the recompense/judgement"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

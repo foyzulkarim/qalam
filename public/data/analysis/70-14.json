@@ -1,0 +1,121 @@
+{
+  "verseId": "70:14",
+  "verse": {
+    "arabic": "وَمَن فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+    "transliteration": "Waman fee alardi jameeAAan thumma yunjeehi",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and who/whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/on",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-arḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be flat, the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَمِيعًا",
+      "transliteration": "jamīʿan",
+      "meaning": "altogether/entirely",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather, completeness"
+      },
+      "components": [
+        {
+          "arabic": "جَمِيع",
+          "meaning": "whole, entire, complete"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "adverbial ending indicating manner (altogether, entirely)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then/afterward",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after, to follow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُنجِيهِ",
+      "transliteration": "yunajjīhi",
+      "meaning": "it saves him/He will save him",
+      "root": {
+        "letters": "ن-ج-و",
+        "meaning": "escape, rescue, be safe"
+      },
+      "components": [
+        {
+          "arabic": "يُنَجِّي",
+          "meaning": "He saves, it saves"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-who in the-earth altogether then it-saves-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

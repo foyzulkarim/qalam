@@ -1,0 +1,92 @@
+{
+  "verseId": "74:38",
+  "verse": {
+    "arabic": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+    "transliteration": "Kullu nafsin bima kasabat raheenatun",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كُلُّ",
+      "transliteration": "kullu",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-و-ل",
+        "meaning": "to take completely, to encompass, to be sufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَفْسٍ",
+      "transliteration": "nafsin",
+      "meaning": "soul, self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, soul, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "by what, for what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَسَبَتْ",
+      "transliteration": "kasabat",
+      "meaning": "it earned, it acquired",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to earn, to strive for something"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "feminine prefix indicating the subject is a feminine noun/pronoun. This does not alter the core meaning of the root."
+        },
+        {
+          "arabic": "سَبَتْ",
+          "meaning": "past tense, 3rd person feminine singular. Indicates the action of earning/acquiring was completed by a female subject."
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَهِينَةٌ",
+      "transliteration": "rahīnatun",
+      "meaning": "pledge, security, that which is being held",
+      "root": {
+        "letters": "ر-ه-ن",
+        "meaning": "to hold, to keep in custody, to pledge"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "every-soul by-[what] it-earned pledge-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

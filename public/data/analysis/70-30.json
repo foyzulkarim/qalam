@@ -1,0 +1,153 @@
+{
+  "verseId": "70:30",
+  "verse": {
+    "arabic": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+    "transliteration": "Illa AAala azwajihim aw ma malakat aymanuhum fainnahum ghayru maloomeena",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away from, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, with respect to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate, to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَزْوَاجِهِمْ",
+      "transliteration": "azwājihim",
+      "meaning": "their spouses, their wives",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to couple, to join together; pair, spouse"
+      },
+      "components": [
+        {
+          "arabic": "أَزْواج",
+          "meaning": "spouses, pairs"
+        },
+        {
+          "arabic": "ـِهِمْ",
+          "meaning": "their (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَلَكَتْ",
+      "transliteration": "malakat",
+      "meaning": "possessed, owned",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own, dominion, kingship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَيْمَانُهُمْ",
+      "transliteration": "aymānuhum",
+      "meaning": "their right hands, those they possess (slaves/captives)",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, strength, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "أَيْمَانُ",
+          "meaning": "right hands, oaths (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَإِنَّهُمْ",
+      "transliteration": "fa'innahum",
+      "meaning": "then indeed they, so verily they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; firmness, stability"
+      },
+      "components": [
+        {
+          "arabic": "فَإِنَّ",
+          "meaning": "then indeed, so verily"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "غَيْرُ",
+      "transliteration": "ghayru",
+      "meaning": "not, other than, without",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to lack, to be without, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَلُومِينَ",
+      "transliteration": "malūmīn",
+      "meaning": "blamed, reproached, censured",
+      "root": {
+        "letters": "ل-و-م",
+        "meaning": "to blame, to reproach, to censure"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-upon their wives or what possessed their right hands then-indeed they not blamed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

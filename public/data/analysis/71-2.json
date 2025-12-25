@@ -1,0 +1,123 @@
+{
+  "verseId": "71:2",
+  "verse": {
+    "arabic": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ",
+    "transliteration": "Qala ya qawmi innee lakum natheerun mubeenun",
+    "surah": "Nuh",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": {
+        "letters": "ي-و-ا",
+        "meaning": "to exist, to be; a call or invocation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَوْمِ",
+      "transliteration": "qawmī",
+      "meaning": "My people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "To rise, to stand up; a people, tribe, or nation"
+      },
+      "components": [
+        {
+          "arabic": "قوم",
+          "meaning": "People, nation, tribe"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "My (possessive suffix, first person singular masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنِّي",
+      "transliteration": "innī",
+      "meaning": "Indeed, I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also used for emphasizing the following statement."
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "Indeed, verily; an emphatic particle."
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "pronoun suffix, first person singular (I)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "To you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نَذِيرٌ",
+      "transliteration": "nadhīrun",
+      "meaning": "A warner",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to remind, to give notice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُّبِينٌ",
+      "transliteration": "mubīnun",
+      "meaning": "Clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, evident, or clear"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said O-my-people Indeed-I to-you a-warner clear"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

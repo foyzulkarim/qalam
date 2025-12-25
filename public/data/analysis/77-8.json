@@ -1,0 +1,75 @@
+{
+  "verseId": "77:8",
+  "verse": {
+    "arabic": "فَإِذَا النُّجُومُ طُمِسَتْ",
+    "transliteration": "Faitha alnnujoomu tumisat",
+    "surah": "Al-Mursalat",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "So when; then when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; unexpected occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So; then (connector)"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when; if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النُّجُومُ",
+      "transliteration": "an-nujūmu",
+      "meaning": "The stars",
+      "root": {
+        "letters": "ن-ج-م",
+        "meaning": "to be bright, to shine; star"
+      },
+      "components": [
+        {
+          "arabic": "النُّجُومُ",
+          "meaning": "The stars (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "طُمِسَتْ",
+      "transliteration": "ṭumisat",
+      "meaning": "Were obliterated; were extinguished",
+      "root": {
+        "letters": "ط-م-س",
+        "meaning": "to erase, obliterate, destroy"
+      },
+      "components": [
+        {
+          "arabic": "طُمِسَ",
+          "meaning": "was obliterated (passive)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-idhā - then when | an-nujūmu - the stars | ṭumisat - were obliterated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

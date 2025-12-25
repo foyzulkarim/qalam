@@ -1,0 +1,70 @@
+{
+  "verseId": "77:17",
+  "verse": {
+    "arabic": "ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ",
+    "transliteration": "Thumma nutbiAAuhumu alakhireena",
+    "surah": "Al-Mursalat",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to stand still; also implies time or sequence after completion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُتْبِعُهُمُ",
+      "transliteration": "nutbiʿuhumu",
+      "meaning": "We will follow them",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to succeed, to pursue"
+      },
+      "components": [
+        {
+          "arabic": "نُتْبِعُ",
+          "meaning": "We will follow"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْآخِرِينَ",
+      "transliteration": "al-ʾākhirīna",
+      "meaning": "the later ones, the last ones",
+      "root": {
+        "letters": "خ-ر-ي",
+        "meaning": "to go behind, to follow, to be later"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرِينَ",
+          "meaning": "later ones, last ones (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - We-will-follow-them - the-later-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

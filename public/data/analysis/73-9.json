@@ -1,0 +1,164 @@
+{
+  "verseId": "73:9",
+  "verse": {
+    "arabic": "رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَـٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+    "transliteration": "Rabbu almashriqi waalmaghribi la ilaha illa huwa faittakhithhu wakeelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَّبُّ",
+      "transliteration": "rabbu",
+      "meaning": "Lord, Master, Possessor",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion, to increase, to strengthen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَشْرِقِ",
+      "transliteration": "al-mashriqi",
+      "meaning": "the East, the rising place [of the sun]",
+      "root": {
+        "letters": "ش-ر-ق",
+        "meaning": "to rise, to appear (especially the sun); east"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَشْرِق",
+          "meaning": "rising place, east (verbal noun from شَرَقَ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَغْرِبِ",
+      "transliteration": "al-maghribi",
+      "meaning": "the West, the setting place [of the sun]",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to set, to decline; west"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَغْرِبِ",
+          "meaning": "setting-place, west"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "no, not",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "night, darkness; negation, absence (related to the concept of covering/obscuring like night)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَـٰهَ",
+      "transliteration": "ilāha",
+      "meaning": "deity, god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; godhood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to decline, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He, It",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; to be"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَاتَّخِذْهُ",
+      "transliteration": "fattaḫiḏhu",
+      "meaning": "[so] take him, [so] choose him",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to possess"
+      },
+      "components": [
+        {
+          "arabic": "فَتَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "تَّخِذْ",
+          "meaning": "take, choose (imperative form)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَكِيلًا",
+      "transliteration": "wakīlan",
+      "meaning": "[as a] trustee, [as a] disposer of affairs, [as an] agent",
+      "root": {
+        "letters": "و-ك-ل",
+        "meaning": "to entrust, to delegate, to depend upon"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "preposition indicating dependency or entrustment (in this context)"
+        },
+        {
+          "arabic": "كِيلًا",
+          "meaning": "agent noun, one who is entrusted/depended upon"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Lord-of the East and the West - no deity except He - so take-him [as a] trustee."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

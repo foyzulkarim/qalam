@@ -1,0 +1,127 @@
+{
+  "verseId": "75:16",
+  "verse": {
+    "arabic": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+    "transliteration": "La tuharrik bihi lisanaka litaAAjala bihi",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُحَرِّكْ",
+      "transliteration": "tuḥarrik",
+      "meaning": "you do not move, you don't stir",
+      "root": {
+        "letters": "ح-ر-ك",
+        "meaning": "to move, to shake, agitation"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person masculine singular future tense (you will)"
+        },
+        {
+          "arabic": "حَرِّكْ",
+          "meaning": "imperative form of the verb 'to move, to stir'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, him, her"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِسَانَكَ",
+      "transliteration": "lisānak",
+      "meaning": "your tongue",
+      "root": {
+        "letters": "ل-س-ن",
+        "meaning": "to be smooth, fluent; to possess a tongue or speak"
+      },
+      "components": [
+        {
+          "arabic": "لِسَانَ",
+          "meaning": "tongue"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِتَعْجَلَ",
+      "transliteration": "litaʿjala",
+      "meaning": "in order to hasten, so that you hurry",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "to hasten, to speed up, urgency"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "تَعْجَلَ",
+          "meaning": "you hasten, you hurry (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, by it",
+      "root": {
+        "letters": "ب-ح-ي",
+        "meaning": "to shine, to be bright; existence, presence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-you-move with-it your-tongue in-order-to hasten with-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

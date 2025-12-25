@@ -1,0 +1,166 @@
+{
+  "verseId": "72:20",
+  "verse": {
+    "arabic": "قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا",
+    "transliteration": "Qul innama adAAoo rabbee wala oshriku bihi ahadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; generally encompassing verbal communication."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "Only, indeed",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to be limited, to restrict"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "What, that which (relative pronoun/particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَدْعُو",
+      "transliteration": "adʿū",
+      "meaning": "I invoke, I call upon",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "أَدْ",
+          "meaning": "prefix indicating first person singular, 'I'"
+        },
+        {
+          "arabic": "عُو",
+          "meaning": "the root verb form indicating present/future tense, 'call'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أُشْرِكُ",
+      "transliteration": "ushriku",
+      "meaning": "I associate, I join as partners",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate, to participate"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "I (pronoun suffix, first person singular)"
+        },
+        {
+          "arabic": "شْرِكُ",
+          "meaning": "associating, partnership (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "With Him",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, through"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "Anyone, something",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Uniqueness, oneness, singularity"
+      },
+      "components": [
+        {
+          "arabic": "أَحَد",
+          "meaning": "Unique, one. The indefinite accusative case indicates 'anyone' or 'something'."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - Indeed - I invoke - My Lord - And not - I associate - With Him - Anyone."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

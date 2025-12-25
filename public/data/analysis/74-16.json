@@ -1,0 +1,94 @@
+{
+  "verseId": "74:16",
+  "verse": {
+    "arabic": "كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا",
+    "transliteration": "Kalla innahu kana liayatina AAaneedan",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, indeed, by no means",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to reject, to refuse, to deny, to avert"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; a core meaning related to existence and affirmation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He, it",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to be, existence, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, has been",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, existence, becoming"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِآيَاتِنَا",
+      "transliteration": "li-āyātinā",
+      "meaning": "To Our verses/signs",
+      "root": {
+        "letters": "أ-ي-ن",
+        "meaning": "to be visible, clear signs or evidence"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "آيَاتِنَا",
+          "meaning": "Our verses/signs"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَنِيدًا",
+      "transliteration": "ʿanīdan",
+      "meaning": "Stubborn, obstinate, defiant",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "Strength, force; firmness, persistence (often negative)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No!-Indeed-He-was-to Our verses-[being]-stubborn."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

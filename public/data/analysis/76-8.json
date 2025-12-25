@@ -1,0 +1,132 @@
+{
+  "verseId": "76:8",
+  "verse": {
+    "arabic": "وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+    "transliteration": "WayutAAimona alttaAAama AAala hubbihi miskeenan wayateeman waaseeran",
+    "surah": "Al-Insan",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيُطْعِمُونَ",
+      "transliteration": "wa-yuṭʿimūna",
+      "meaning": "and they feed/give food",
+      "root": {
+        "letters": "ع-ط-م",
+        "meaning": "to feed, to provide food, to nourish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُطْعِمُونَ",
+          "meaning": "they feed, they give food (verb - present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الطَّعَامَ",
+      "transliteration": "aṭ-ṭaʿāma",
+      "meaning": "the food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, food, nourishment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/despite",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise; elevation, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حُبِّهِ",
+      "transliteration": "ḥubbi-hi",
+      "meaning": "its love/affection for it",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of; affection, attachment"
+      },
+      "components": [
+        {
+          "arabic": "حُبّ",
+          "meaning": "love, affection"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "its/his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِسْكِينًا",
+      "transliteration": "misrīnan",
+      "meaning": "a needy person/poor one",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "weakness, poverty; to live in destitution or need"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَيَتِيمًا",
+      "transliteration": "wa-yatīman",
+      "meaning": "and an orphan",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, helpless; to lack a parent"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَتِيمًا",
+          "meaning": "an orphan (masculine, indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَأَسِيرًا",
+      "transliteration": "wa-ʾasīran",
+      "meaning": "and a captive/prisoner",
+      "root": {
+        "letters": "أ-س-ر",
+        "meaning": "to be captured, to take prisoner; enslavement"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَسِيرًا",
+          "meaning": "a captive, a prisoner (masculine singular indefinite)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they feed the-food upon its-love needy and-an-orphan and-a-captive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "verseId": "71:21",
+  "verse": {
+    "arabic": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+    "transliteration": "Qala noohun rabbi innahum AAasawnee waittabaAAoo man lam yazidhu maluhu wawaladuhu illa khasaran",
+    "surah": "Nuh",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُوحٌ",
+      "transliteration": "nūḥun",
+      "meaning": "Noah (proper noun)",
+      "root": {
+        "letters": "ن-و-ح",
+        "meaning": "to rest, to find comfort; also associated with lamentation and crying out (due to hardship)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّبِّ",
+      "transliteration": "rabbi",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "My Lord (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "innahum",
+      "meaning": "Indeed they",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "to be, to exist; intention, desire"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَصَوْنِي",
+      "transliteration": "ʿaṣawnī",
+      "meaning": "They disobeyed me",
+      "root": {
+        "letters": "ع-ص-و",
+        "meaning": "to disobey, to rebel, to deviate from the right path"
+      },
+      "components": [
+        {
+          "arabic": "عَصَ",
+          "meaning": "to disobey, to resist"
+        },
+        {
+          "arabic": "وْنِي",
+          "meaning": "they (masculine plural) did to me"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": {
+        "letters": "و-ا-د",
+        "meaning": "to unite, to join, or connection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اتَّبَعُوا",
+      "transliteration": "ittabaʿū",
+      "meaning": "They followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to adhere to"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix, indicating thoroughness or repetition"
+        },
+        {
+          "arabic": "بَعُوا",
+          "meaning": "they followed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "Who/him who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be safe, secure; to protect or defend; origin of inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَّمْ",
+      "transliteration": "lam",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to will, negation/absence of something desired"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَزِدْهُ",
+      "transliteration": "yazidhu",
+      "meaning": "Increase him",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add more"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present tense, jussive mood or imperfect form"
+        },
+        {
+          "arabic": "زِدْ",
+          "meaning": "to increase, to add (verb root)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَالُهُ",
+      "transliteration": "māluhu",
+      "meaning": "His wealth",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "Possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "مَالُ",
+          "meaning": "Wealth, property"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "His"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَوَلَدُهُ",
+      "transliteration": "wa waladuhu",
+      "meaning": "And his children",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, offspring"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "وَلَدُ",
+          "meaning": "children (plural of وَلَد)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِلَّا",
+      "transliteration": "illa",
+      "meaning": "Except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "خَسَارًا",
+      "transliteration": "khasāran",
+      "meaning": "Loss",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to suffer defeat or deprivation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Said-Noah My-Lord Indeed-they Disobeyed-me And-followed Who not Increase-him Wealth-his And-children-his Except Loss"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

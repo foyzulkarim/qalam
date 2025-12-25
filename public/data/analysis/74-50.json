@@ -1,0 +1,78 @@
+{
+  "verseId": "74:50",
+  "verse": {
+    "arabic": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ",
+    "transliteration": "Kaannahum humurun mustanfiratun",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَأَنَّهُمْ",
+      "transliteration": "kaʾannahum",
+      "meaning": "as if they were, like them",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "as, like"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حُمُرٌ",
+      "transliteration": "ḥumurun",
+      "meaning": "donkeys (plural)",
+      "root": {
+        "letters": "ح-م-ر",
+        "meaning": "redness, intensity (of color); also associated with stubbornness or strength"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّسْتَنفِرَةٌ",
+      "transliteration": "mustanfiratun",
+      "meaning": "alarmed, fleeing in panic",
+      "root": {
+        "letters": "ن-ف-ر",
+        "meaning": "to depart, to go away; to mobilize (troops)"
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَـ",
+          "meaning": "passive participle prefix indicating 'one that is subjected to the action'"
+        },
+        {
+          "arabic": "ـنْفِرَة",
+          "meaning": "departure, fleeing; alarming situation (derived from the root)"
+        },
+        {
+          "arabic": "ـٌ",
+          "meaning": "feminine singular ending, indefinite noun marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "as-if-they-were donkeys alarmed/fleeing-in-panic"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

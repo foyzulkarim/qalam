@@ -1,0 +1,54 @@
+{
+  "verseId": "74:32",
+  "verse": {
+    "arabic": "كَلَّا وَالْقَمَرِ",
+    "transliteration": "Kalla waalqamari",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No, indeed; by no means",
+      "root": {
+        "letters": "ك-ل-و",
+        "meaning": "to refuse, reject, or deny; to be insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَالْقَمَرِ",
+      "transliteration": "wa-l-qamari",
+      "meaning": "And the moon",
+      "root": {
+        "letters": "ق-م-ر",
+        "meaning": "To measure, to control (time), the moon itself"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "قَمَرِ",
+          "meaning": "The moon (genitive case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No-[indeed] - and-the-moon"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

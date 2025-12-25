@@ -1,0 +1,134 @@
+{
+  "verseId": "76:23",
+  "verse": {
+    "arabic": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنزِيلًا",
+    "transliteration": "Inna nahnu nazzalna AAalayka alqurana tanzeelan",
+    "surah": "Al-Insan",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily; the emphatic dual pronoun 'we'",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (dual pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to incline, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَزَّلْنَا",
+      "transliteration": "nazzalnā",
+      "meaning": "We have sent down; verb, perfect tense, first person plural",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down, to lower"
+      },
+      "components": [
+        {
+          "arabic": "نَزَّلْ",
+          "meaning": "We sent down; verbal stem indicating descent"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us; first person plural pronoun suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْكَ",
+      "transliteration": "ʿalayka",
+      "meaning": "Upon you; preposition 'upon' + pronoun 'you'",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to rise; elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْقُرْآنَ",
+      "transliteration": "al-qurʾāna",
+      "meaning": "The Qur'an; definite noun",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite; a reading, recitation"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُرْآن",
+          "meaning": "the recitation, the reading (Qur'an)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَنزِيلًا",
+      "transliteration": "tanzīlan",
+      "meaning": "A sending down; noun, accusative case (ḥāl)",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down; lowering"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix: Indicates a causative or intensive form (Form IV)"
+        },
+        {
+          "arabic": "نَزِيل",
+          "meaning": "Active participle of the Form IV verb; something that is sent down or lowered"
+        },
+        {
+          "arabic": "ـًا",
+          "meaning": "Noun suffix: Indicates indefinite accusative singular masculine (ḥāl)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-We We-[have] sent-down upon-you the-Qur'an a-sending-down"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "verseId": "75:7",
+  "verse": {
+    "arabic": "فَإِذَا بَرِقَ الْبَصَرُ",
+    "transliteration": "Faitha bariqa albasaru",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "So when; then, behold",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so; then"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when; if; behold"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَرِقَ",
+      "transliteration": "bariqa",
+      "meaning": "dazzled; flashed; gleamed",
+      "root": {
+        "letters": "ب-ر-ق",
+        "meaning": "shine, gleam, flash"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْبَصَرُ",
+      "transliteration": "al-baṣaru",
+      "meaning": "the vision; the sight; the eye",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see; to perceive; to be aware"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then]-idhā-when bariqa-dazzled al-baṣaru-the vision"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "verseId": "73:16",
+  "verse": {
+    "arabic": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+    "transliteration": "FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَعَصَىٰ",
+      "transliteration": "faʿaṣā",
+      "meaning": "So he disobeyed",
+      "root": {
+        "letters": "ع-ص-ي",
+        "meaning": "to disobey, to resist, to be obstinate"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "عَصَىٰ",
+          "meaning": "he disobeyed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِرْعَوْنُ",
+      "transliteration": "firʿawnu",
+      "meaning": "Pharaoh",
+      "root": {
+        "letters": "ف-ر-ع",
+        "meaning": "to split, to branch off; to elevate oneself, to be high and mighty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّسُولَ",
+      "transliteration": "ar-rasūla",
+      "meaning": "The messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رَّسُولَ",
+          "meaning": "messenger (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأَخَذْنَاهُ",
+      "transliteration": "faʾakhadhū-nāhu",
+      "meaning": "So We seized him",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, seize, grasp"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَخَذْ",
+          "meaning": "He took, He seized (verbal root)"
+        },
+        {
+          "arabic": "نَاهُ",
+          "meaning": "Him (pronoun suffix, object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَخْذًا",
+      "transliteration": "ʾakhdhan",
+      "meaning": "A seizure",
+      "root": {
+        "letters": "خ-ذ-أ",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَبِيلًا",
+      "transliteration": "wa-bīlan",
+      "meaning": "And ruinous",
+      "root": {
+        "letters": "ب-ي-ل",
+        "meaning": "intensity, excess, ruin; to be destroyed or lost"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بِيلًا",
+          "meaning": "ruinous, destructive; intense loss or destruction"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-disobeyed Pharaoh the-messenger So-seized-We him a-seizure and-ruinous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

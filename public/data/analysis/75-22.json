@@ -1,0 +1,61 @@
+{
+  "verseId": "75:22",
+  "verse": {
+    "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+    "transliteration": "Wujoohun yawmaithin nadiratun",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وُجُوهٌ",
+      "transliteration": "wujūhun",
+      "meaning": "faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, clear, to find, to appear; face, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "on that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that (time/occasion)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَّاضِرَةٌ",
+      "transliteration": "nāḍirah",
+      "meaning": "radiant, blooming, fresh",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look at, to regard; hence also to await, expect, or consider"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "faces- on that Day radiant."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

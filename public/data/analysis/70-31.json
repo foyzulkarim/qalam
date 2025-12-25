@@ -1,0 +1,145 @@
+{
+  "verseId": "70:31",
+  "verse": {
+    "arabic": "فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَـٰئِكَ هُمُ الْعَادُونَ",
+    "transliteration": "Famani ibtagha waraa thalika faolaika humu alAAadoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَنِ",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate, to have a characteristic of"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (introduces a conditional clause)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whosoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ابْتَغَىٰ",
+      "transliteration": "ibtaghā",
+      "meaning": "sought, searched for",
+      "root": {
+        "letters": "ب-غ-ي",
+        "meaning": "to seek, to desire, to go after something (often illicitly)"
+      },
+      "components": [
+        {
+          "arabic": "ابْتِ",
+          "meaning": "prefix indicating seeking or attempting to obtain"
+        },
+        {
+          "arabic": "غَىٰ",
+          "meaning": "seeking, searching (from the root ب-غ-ي)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَرَاءَ",
+      "transliteration": "warāʾa",
+      "meaning": "beyond, after",
+      "root": {
+        "letters": "و-ر-أ",
+        "meaning": "to turn back, to be behind"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (demonstrative pronoun)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission; weakness, abasement"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "possession, owner of"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "fa-ʾūlāʾika",
+      "meaning": "then those, so they are",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, initial, or foremost; to return (as in returning to the originator)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "they (pronoun)",
+      "root": {
+        "letters": "هـ-م-و",
+        "meaning": "pronoun, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْعَادُونَ",
+      "transliteration": "al-ʿādūn",
+      "meaning": "the transgressors, the exceeding ones",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to transgress, enmity, opposition"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَادُونَ",
+          "meaning": "transgressors, exceeding ones (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-whoever sought beyond that then-those they are the-transgressors"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

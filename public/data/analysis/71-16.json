@@ -1,0 +1,130 @@
+{
+  "verseId": "71:16",
+  "verse": {
+    "arabic": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+    "transliteration": "WajaAAala alqamara feehinna nooran wajaAAala alshshamsa sirajan",
+    "surah": "Nuh",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَعَلَ",
+      "transliteration": "jaʿala",
+      "meaning": "He made, He appointed",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to establish, to place, to create"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقَمَرَ",
+      "transliteration": "al-qamara",
+      "meaning": "the moon",
+      "root": {
+        "letters": "ق-م-ر",
+        "meaning": "to measure, to wane; moon itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَمَر",
+          "meaning": "moon"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِيهِنَّ",
+      "transliteration": "fīhinna",
+      "meaning": "in them (feminine plural)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to exist within; location or presence"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "they (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نُورًا",
+      "transliteration": "nūran",
+      "meaning": "light",
+      "root": {
+        "letters": "ن-و-ر",
+        "meaning": "brightness, radiance, illumination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جَعَلَ",
+      "transliteration": "jaʿala",
+      "meaning": "He made, He appointed",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الشَّمْسَ",
+      "transliteration": "ash-shamsa",
+      "meaning": "the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to go, to travel; intensity, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "سِرَاجًا",
+      "transliteration": "sirājan",
+      "meaning": "a lamp, a burning light",
+      "root": {
+        "letters": "س-ر-ج",
+        "meaning": "to burn, to light, to illuminate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-He-made the-moon in-them light and-He-made the-sun a-lamp"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

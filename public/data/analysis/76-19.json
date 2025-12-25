@@ -1,0 +1,172 @@
+{
+  "verseId": "76:19",
+  "verse": {
+    "arabic": "وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+    "transliteration": "Wayatoofu AAalayhim wildanun mukhalladoona itha raaytahum hasibtahum luluan manthooran",
+    "surah": "Al-Insan",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَطُوفُ",
+      "transliteration": "wa yaṭūfu",
+      "meaning": "and they circulate/go around",
+      "root": {
+        "letters": "ط-و-ف",
+        "meaning": "to circumambulate, to go around repeatedly, to encompass"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَطُوفُ",
+          "meaning": "he circulates/goes around (verb, imperfect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to rise above; over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وِلْدَانٌ",
+      "transliteration": "wildānun",
+      "meaning": "young boys/servants",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to beget, to give birth, to produce offspring"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُّخَلَّدُونَ",
+      "transliteration": "mukhalladūna",
+      "meaning": "made eternal/immortalized",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": [
+        {
+          "arabic": "مُخَلَّد",
+          "meaning": "made eternal, immortalized (passive participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "masculine plural ending indicating a group of beings who are made eternal/immortalized"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when/whenever",
+      "root": {
+        "letters": "أ-ذ-ى",
+        "meaning": "to harm, to pain; aversion, discomfort"
+      },
+      "components": [
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when (temporal particle)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "indefinite pronoun (in this context, reinforces the temporal aspect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَأَيْتَهُمْ",
+      "transliteration": "ra'aytahum",
+      "meaning": "you see them",
+      "root": {
+        "letters": "ر-أ-ي",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": [
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "you saw (masculine singular)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "حَسِبْتَهُمْ",
+      "transliteration": "ḥasibtahum",
+      "meaning": "you would think them",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to estimate, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "حَسِبْتَ",
+          "meaning": "you thought, you reckoned"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لُؤْلُؤًا",
+      "transliteration": "lu'lu'an",
+      "meaning": "pearls",
+      "root": {
+        "letters": "ل-ؤ-ل",
+        "meaning": "shine, brightness, luster"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَّنثُورًا",
+      "transliteration": "manthūran",
+      "meaning": "scattered/strewn",
+      "root": {
+        "letters": "ن-ث-ر",
+        "meaning": "to scatter, to spread out, to diffuse"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and they circulate - upon them - young boys - made eternal - when - you see them - you would think them - pearls - scattered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

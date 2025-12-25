@@ -1,0 +1,81 @@
+{
+  "verseId": "75:1",
+  "verse": {
+    "arabic": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+    "transliteration": "La oqsimu biyawmi alqiyamati",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; negation (related to absence of light)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "uqsimu",
+      "meaning": "I swear, I make an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, apportion, distribute; to swear (by dividing one's commitment)"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating first-person singular present tense (I)"
+        },
+        {
+          "arabic": "قَسَمَ",
+          "meaning": "to swear, to make an oath (base verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِيَوْمِ",
+      "transliteration": "bi-yawmi",
+      "meaning": "by the Day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time, occasion"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "يَوْمِ",
+          "meaning": "the Day (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmah",
+      "meaning": "the Resurrection, the Day of Standing",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-I swear by-the Day of the-Resurrection"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

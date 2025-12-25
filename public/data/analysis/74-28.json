@@ -1,0 +1,78 @@
+{
+  "verseId": "74:28",
+  "verse": {
+    "arabic": "لَا تُبْقِي وَلَا تَذَرُ",
+    "transliteration": "La tubqee wala tatharu",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُبْقِي",
+      "transliteration": "tubqī",
+      "meaning": "you leave (something remaining), you preserve",
+      "root": {
+        "letters": "ب-ق-ي",
+        "meaning": "to remain, to stay behind, to endure"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "you (feminine singular)"
+        },
+        {
+          "arabic": "بْقِي",
+          "meaning": "to remain, to leave behind (basic root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَذَرُ",
+      "transliteration": "taḏaru",
+      "meaning": "you leave (something abandoned), you forsake",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to scatter, to leave behind, to abandon"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-you-leave-remaining - and-not-you-leave-abandoned"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

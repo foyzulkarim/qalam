@@ -1,0 +1,72 @@
+{
+  "verseId": "70:17",
+  "verse": {
+    "arabic": "تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+    "transliteration": "TadAAoo man adbara watawalla",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَدْعُو",
+      "transliteration": "tadʿū",
+      "meaning": "it calls, it invites",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure, a source or origin (related to questioning/inquiry)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَدْبَرَ",
+      "transliteration": "ʾadbara",
+      "meaning": "turned his back, turned away",
+      "root": {
+        "letters": "د-ب-ر",
+        "meaning": "to send back, to return; to arrange or manage (affairs)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَتَوَلَّىٰ",
+      "transliteration": "watawallā",
+      "meaning": "and he turned away, and he went away",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to go away, to be responsible for"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَوَلَّى",
+          "meaning": "he turned away, he went away"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "it-calls - who - turned-his-back - and-turned-away"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

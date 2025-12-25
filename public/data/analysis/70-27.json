@@ -1,0 +1,116 @@
+{
+  "verseId": "70:27",
+  "verse": {
+    "arabic": "وَالَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+    "transliteration": "Waallatheena hum min AAathabi rabbihim mushfiqoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to possess, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُم",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "deprivation, withholding, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَذَابِ",
+      "transliteration": "ʿadhābi",
+      "meaning": "punishment of",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to cause pain or suffering"
+      },
+      "components": [
+        {
+          "arabic": "عَذَابٍ",
+          "meaning": "punishment, torment (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبِّهِم",
+      "transliteration": "rabbi-him",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master, Owner"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, Master (genitive case)"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُّشْفِقُونَ",
+      "transliteration": "mushfiqūna",
+      "meaning": "fearful",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to cleave; to be distressed or anxious (due to something splitting the heart)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - those who - they - from - punishment of - their Lord - fearful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

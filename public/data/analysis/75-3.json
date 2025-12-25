@@ -1,0 +1,105 @@
+{
+  "verseId": "75:3",
+  "verse": {
+    "arabic": "أَيَحْسَبُ الْإِنسَانُ أَلَّن نَّجْمَعَ عِظَامَهُ",
+    "transliteration": "Ayahsabu alinsanu allan najmaAAa AAithamahu",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَيَحْسَبُ",
+      "transliteration": "ʾayahsubu",
+      "meaning": "Does he think?",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "أَي",
+          "meaning": "interrogative particle, indicating a question"
+        },
+        {
+          "arabic": "حَسَبَ",
+          "meaning": "to think, to reckon, to consider (derived from the root)"
+        },
+        {
+          "arabic": "يَ",
+          "meaning": "present tense marker (prefix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "The human being/man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be weak, frail; to adapt or become accustomed (to a place)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَلَّن",
+      "transliteration": "ʾallan",
+      "meaning": "That/lest/in order that (introducing a noun clause)",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "softness, gentleness, ease; to be soft or pliable"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَّجْمَعَ",
+      "transliteration": "najmaʿa",
+      "meaning": "We assemble",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather together"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "جَمَعَ",
+          "meaning": "to collect, to gather"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عِظَامَهُ",
+      "transliteration": "ʿiẓāmahu",
+      "meaning": "His bones",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "strength, firmness, bones"
+      },
+      "components": [
+        {
+          "arabic": "عِظَام",
+          "meaning": "bones (plural)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Does-he-think the-human being that/lest We-assemble his-bones?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

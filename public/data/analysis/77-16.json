@@ -1,0 +1,83 @@
+{
+  "verseId": "77:16",
+  "verse": {
+    "arabic": "أَلَمْ نُهْلِكِ الْأَوَّلِينَ",
+    "transliteration": "Alam nuhliki alawwaleena",
+    "surah": "Al-Mursalat",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did...not?",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to wish, to will; negation or questioning related to intention or occurrence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of negation and questioning, introducing a rhetorical question expecting a negative answer"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past tense negative particle; indicates something did not happen"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُهْلِكِ",
+      "transliteration": "nuhlikِ",
+      "meaning": "We destroy (feminine)",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun suffix)"
+        },
+        {
+          "arabic": "هْلِك",
+          "meaning": "to destroy, to perish (verb form)"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "(feminine singular pronoun suffix - to whom)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَوَّلِينَ",
+      "transliteration": "al-ʾawwalīna",
+      "meaning": "The former ones/peoples",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَوَّلِينَ",
+          "meaning": "former ones/peoples (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not We destroy the former-ones?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "verseId": "75:6",
+  "verse": {
+    "arabic": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ",
+    "transliteration": "Yasalu ayyana yawmu alqiyamati",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَسْأَلُ",
+      "transliteration": "yasʾalu",
+      "meaning": "He asks",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, he/she does"
+        },
+        {
+          "arabic": "سْأَلَ",
+          "meaning": "to ask, inquire, request (basic form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating present tense conjugation for masculine singular pronoun (هو)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيَّانَ",
+      "transliteration": "ʾayyāna",
+      "meaning": "When?",
+      "root": {
+        "letters": "أ-ي-ن",
+        "meaning": "to be, existence; also time/place"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "when, at what time"
+        },
+        {
+          "arabic": "ـانَ",
+          "meaning": "the ending indicating interrogative past tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمُ",
+      "transliteration": "yawmu",
+      "meaning": "Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, to be full"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmah",
+      "meaning": "the Resurrection",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, stand up; resurrection"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-asks - When? - Day-the - Resurrection-the"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

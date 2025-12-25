@@ -1,0 +1,90 @@
+{
+  "verseId": "70:29",
+  "verse": {
+    "arabic": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ",
+    "transliteration": "Waallatheena hum lifuroojihim hafithoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-al-ladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to have, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "belonging to, being with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِفُرُوجِهِمْ",
+      "transliteration": "li-furūjihim",
+      "meaning": "for their private parts",
+      "root": {
+        "letters": "ف-ر-ج",
+        "meaning": "to separate, to open, to relax; specifically refers to the sexual organ"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "فُرُوجِهِمْ",
+          "meaning": "their private parts (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَافِظُونَ",
+      "transliteration": "ḥāfiẓūna",
+      "meaning": "guarding/preserving",
+      "root": {
+        "letters": "ح-ف-ظ",
+        "meaning": "to safeguard, to protect, to preserve"
+      },
+      "components": [
+        {
+          "arabic": "حَفَظَ",
+          "meaning": "to guard, to preserve"
+        },
+        {
+          "arabic": "-ُونَ",
+          "meaning": "dual or plural active participle ending (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-those who they for-their private-parts guarding/preserving"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

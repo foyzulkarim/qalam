@@ -1,0 +1,61 @@
+{
+  "verseId": "74:47",
+  "verse": {
+    "arabic": "حَتَّىٰ أَتَانَا الْيَقِينُ",
+    "transliteration": "Hatta atana alyaqeenu",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 47
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتَانَا",
+      "transliteration": "ʾatānā",
+      "meaning": "came to us",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "أَتَ",
+          "meaning": "came"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "to us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْيَقِينُ",
+      "transliteration": "al-yaqīn(u)",
+      "meaning": "the certainty",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "to be firm, certain, assured; to know with confidence"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "until-to-us came the-certainty"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

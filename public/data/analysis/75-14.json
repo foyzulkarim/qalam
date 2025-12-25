@@ -1,0 +1,101 @@
+{
+  "verseId": "75:14",
+  "verse": {
+    "arabic": "بَلِ الْإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ",
+    "transliteration": "Bali alinsanu AAala nafsihi baseeratun",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلِ",
+      "transliteration": "bal",
+      "meaning": "rather, but rather, nay",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to refuse or reject, to be exhausted"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly, to adapt"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "إِنْسَانُ",
+          "meaning": "human being, man"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, against",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَفْسِهِ",
+      "transliteration": "nafsihi",
+      "meaning": "his own self, himself (with reflexive pronoun)",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, life force"
+      },
+      "components": [
+        {
+          "arabic": "نَفْسِ",
+          "meaning": "self, soul"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَصِيرَةٌ",
+      "transliteration": "baṣīratun",
+      "meaning": "a witness, clear sight, insight",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "بَصِير",
+          "meaning": "seeing, perceptive, insightful"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker, indefinite noun suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Rather- the human being- upon- his own self-[is]- a witness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

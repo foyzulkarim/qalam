@@ -1,0 +1,52 @@
+{
+  "verseId": "74:51",
+  "verse": {
+    "arabic": "فَرَّتْ مِن قَسْوَرَةٍ",
+    "transliteration": "Farrat min qaswaratin",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 51
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَرَّتْ",
+      "transliteration": "farraat",
+      "meaning": "She fled; she ran away (feminine singular past)",
+      "root": {
+        "letters": "ف-ر-ر",
+        "meaning": "to flee, to run away, to escape"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَسْوَرَةٍ",
+      "transliteration": "qaswaratin",
+      "meaning": "Lion (indefinite, genitive singular)",
+      "root": {
+        "letters": "ق-س-ر",
+        "meaning": "to be strong, forceful; to restrain, confine"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "She-fled - from - a-lion"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "verseId": "76:9",
+  "verse": {
+    "arabic": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا",
+    "transliteration": "Innama nutAAimukum liwajhi Allahi la nureedu minkum jazaan wala shukooran",
+    "surah": "Al-Insan",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّمَا",
+      "transliteration": "ʾinnamā",
+      "meaning": "Only, indeed; restrictive particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphasizes the following statement"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "What, that which; indefinite relative pronoun functioning as a restrictive particle here"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُطْعِمُكُمْ",
+      "transliteration": "nuṭʿimukum",
+      "meaning": "We feed you",
+      "root": {
+        "letters": "ع-ط-م",
+        "meaning": "to feed, to provide sustenance"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "طَعِمُ",
+          "meaning": "to feed, sustenance (verb stem)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, object pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِوَجْهِ",
+      "transliteration": "li-wajhi",
+      "meaning": "For the face/countenance of",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, radiant; face, direction, appearance"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "وَجْهِ",
+          "meaning": "the face, countenance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not, no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نُرِيدُ",
+      "transliteration": "nurīdu",
+      "meaning": "We desire, we wish",
+      "root": {
+        "letters": "ر-ي-د",
+        "meaning": "To want, to seek, to desire"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun suffix)"
+        },
+        {
+          "arabic": "رِيدُ",
+          "meaning": "Desire (verb, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "From you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "origin, source, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَزَاءً",
+      "transliteration": "jazāʾan",
+      "meaning": "Reward, recompense",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "To recompense, to reward; effort expended"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "شُكُورًا",
+      "transliteration": "shukūran",
+      "meaning": "Gratitude, thankfulness",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to acknowledge a favor, to thank"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-only we-feed you for-the-face of-Allah not we-desire from-you reward and gratitude"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

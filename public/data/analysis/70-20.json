@@ -1,0 +1,77 @@
+{
+  "verseId": "70:20",
+  "verse": {
+    "arabic": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+    "transliteration": "Itha massahu alshsharru jazooAAan",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to decline or diminish (in intensity/strength)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَسَّهُ",
+      "transliteration": "massahu",
+      "meaning": "touched him, afflicted him",
+      "root": {
+        "letters": "م-س-س",
+        "meaning": "to touch, to travel, to afflict"
+      },
+      "components": [
+        {
+          "arabic": "مَسَّ",
+          "meaning": "to touch, to afflict"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الشَّرُّ",
+      "transliteration": "al-sharr",
+      "meaning": "the evil, the harm",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "to be evil, to harm, badness"
+      },
+      "components": [
+        {
+          "arabic": "الشَّرِّ",
+          "meaning": "the evil, the harm (definite form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَزُوعًا",
+      "transliteration": "jazūʿan",
+      "meaning": "impatient, restless, uneasy",
+      "root": {
+        "letters": "ج-ذ-ع",
+        "meaning": "to be hasty, to rush; to hurry impulsively or recklessly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-touched-him the-evil impatient"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verseId": "74:25",
+  "verse": {
+    "arabic": "إِنْ هَـٰذَا إِلَّا قَوْلُ الْبَشَرِ",
+    "transliteration": "In hatha illa qawlu albashari",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنْ",
+      "transliteration": "ʾin",
+      "meaning": "Indeed; verily; if (introducing a conditional clause)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence; presence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed; verily; if (introducing a conditional clause)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "This (masculine demonstrative pronoun)",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, to direct attention"
+      },
+      "components": [
+        {
+          "arabic": "هَ",
+          "meaning": "the letter of demonstration (pointing)"
+        },
+        {
+          "arabic": "ذَ",
+          "meaning": "pronoun suffix indicating masculine singular"
+        },
+        {
+          "arabic": "أ",
+          "meaning": "pronoun suffix indicating near proximity"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "But; except; only",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "To refuse, to deny; negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَوْلُ",
+      "transliteration": "qawlu",
+      "meaning": "Word; speech (noun)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To say; to utter; speech"
+      },
+      "components": [
+        {
+          "arabic": "قَوْلٌ",
+          "meaning": "Word; speech (noun, indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْبَشَرِ",
+      "transliteration": "al-bashari",
+      "meaning": "The human being(s); mankind (definite noun)",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be human; to have flesh; maturity"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَشَر",
+          "meaning": "human being(s); mankind"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- this - not but - word - of- the human being(s)"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

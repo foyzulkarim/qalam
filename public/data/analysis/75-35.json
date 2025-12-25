@@ -1,0 +1,72 @@
+{
+  "verseId": "75:35",
+  "verse": {
+    "arabic": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+    "transliteration": "Thumma awla laka faawla",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; then (as a result of settling/completion)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَوْلَىٰ",
+      "transliteration": "awlā",
+      "meaning": "woe, destruction; more fitting, better (as an interjection)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to be distant; weakness, inability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "to you, for you",
+      "root": {
+        "letters": "ل-ك-ا",
+        "meaning": "possession, ownership, belonging"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأَوْلَىٰ",
+      "transliteration": "fa-awlā",
+      "meaning": "then woe, and woe!, moreover destruction",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to be averse; to incline towards something (often negatively)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so (introducing a consequence or continuation)"
+        },
+        {
+          "arabic": "أَوْلَىٰ",
+          "meaning": "more fit, more deserving (of punishment); woe, destruction"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - woe - to you - and woe!"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

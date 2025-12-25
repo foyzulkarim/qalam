@@ -1,0 +1,98 @@
+{
+  "verseId": "77:30",
+  "verse": {
+    "arabic": "انطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+    "transliteration": "Intaliqoo ila thillin thee thalathi shuAAabin",
+    "surah": "Al-Mursalat",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "انطَلِقُوا",
+      "transliteration": "inṭaliqū",
+      "meaning": "Proceed, set forth, go away (imperative plural)",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to release, to set free, to divorce; to go forth quickly"
+      },
+      "components": [
+        {
+          "arabic": "انْ",
+          "meaning": "Imperative marker, indicates command form."
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "Plural marker, indicates the command is directed to multiple people."
+        },
+        {
+          "arabic": "لِقُوا",
+          "meaning": "Go forth/proceed (second person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "To, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To turn, to incline towards, to be responsible for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ظِلٍّ",
+      "transliteration": "ẓillin",
+      "meaning": "A shadow, shade (indefinite accusative)",
+      "root": {
+        "letters": "ظ-لّ-ل",
+        "meaning": "shade, darkness, coolness; to shade or protect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِي",
+      "transliteration": "ḏī",
+      "meaning": "Possessing, having (relative pronoun)",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, ownership, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ثَلَاثِ",
+      "transliteration": "ṯalāṯi",
+      "meaning": "Three (feminine genitive)",
+      "root": {
+        "letters": "ث-ل-ث",
+        "meaning": "to be three; abundance, multitude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شُعَبٍ",
+      "transliteration": "šuʿabin",
+      "meaning": "Columns, branches (indefinite accusative)",
+      "root": {
+        "letters": "ش-ع-ب",
+        "meaning": "to divide, to split; a branch or division"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Proceed-you to [of] a shadow possessing of three columns"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

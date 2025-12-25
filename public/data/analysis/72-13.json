@@ -1,0 +1,297 @@
+{
+  "verseId": "72:13",
+  "verse": {
+    "arabic": "وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَن يُؤْمِن بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+    "transliteration": "Waanna lamma samiAAna alhuda amanna bihi faman yumin birabbihi fala yakhafu bakhsan wala rahaqan",
+    "surah": "Al-Jinn",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَمَّا",
+      "transliteration": "lammā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَمِعْنَا",
+      "transliteration": "samiʿnā",
+      "meaning": "we heard",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen"
+      },
+      "components": [
+        {
+          "arabic": "سَمِعْ",
+          "meaning": "we heard (imperative/jussive form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْهُدَىٰ",
+      "transliteration": "al-hudā",
+      "meaning": "the guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way; direction"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هُدَىٰ",
+          "meaning": "guidance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "آمَنَّا",
+      "transliteration": "ʾāmannā",
+      "meaning": "we believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "we (first person plural prefix)"
+        },
+        {
+          "arabic": "مَنَّا",
+          "meaning": "to believe, to have faith"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "in it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with; related to existence and being"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "pause marker; used to indicate a significant pause in recitation, often at the end of verses"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate from, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conditional particle)"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُؤْمِن",
+      "transliteration": "yuʾmin",
+      "meaning": "believes",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be secure, to trust, to have faith"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person singular (often implying habitual action or invoking)"
+        },
+        {
+          "arabic": "أَمِنَ",
+          "meaning": "to believe, to have faith"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِرَبِّهِ",
+      "transliteration": "bi-rabbihī",
+      "meaning": "in his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "رَبِّهِ",
+          "meaning": "his Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then not",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to negate, to not be"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يَخَافُ",
+      "transliteration": "yakhāfu",
+      "meaning": "he fears",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, first person singular"
+        },
+        {
+          "arabic": "خَافَ",
+          "meaning": "to fear"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating present tense conjugation for 'he'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بَخْسًا",
+      "transliteration": "bakhsan",
+      "meaning": "deprivation, loss",
+      "root": {
+        "letters": "ب-خ-س",
+        "meaning": "to diminish, to reduce; to be insufficient or meager"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رَهَقًا",
+      "transliteration": "rahqan",
+      "meaning": "burden, hardship",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "weakness, fatigue, distress"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that we when-we heard the-guidance believed-in it -so whoever believes in-his Lord then not he-fears deprivation nor burden"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

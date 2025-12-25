@@ -1,0 +1,162 @@
+{
+  "verseId": "74:52",
+  "verse": {
+    "arabic": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+    "transliteration": "Bal yureedu kullu imriin minhum an yuta suhufan munashsharatan",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 52
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "rather, but, nay",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to oppose, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُرِيدُ",
+      "transliteration": "yurīdu",
+      "meaning": "he desires, he wants",
+      "root": {
+        "letters": "ر-ي-د",
+        "meaning": "to desire, to want, to seek"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person singular (he)"
+        },
+        {
+          "arabic": "رِيدُ",
+          "meaning": "desire, wanting - verbal noun/root form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُلُّ",
+      "transliteration": "kullu",
+      "meaning": "every, all of",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "امْرِئٍ",
+      "transliteration": "imriʾin",
+      "meaning": "person, man",
+      "root": {
+        "letters": "م-ر-أ",
+        "meaning": "to see, to know, man (as one who is known by others)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them, among them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to (infinitive marker)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; indicating possibility or potentiality."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يُؤْتَىٰ",
+      "transliteration": "yuʾtā",
+      "meaning": "he be given, he receives (passive)",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give, to bestow"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker and 3rd person singular masculine prefix"
+        },
+        {
+          "arabic": "أُتِيَ",
+          "meaning": "passive form of the verb 'to give'"
+        },
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present/future tense, connected to the passive voice."
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "صُحُفًا",
+      "transliteration": "ṣuḥufan",
+      "meaning": "scriptures, pages (plural of ṣaḥīfah)",
+      "root": {
+        "letters": "ص-ح-ف",
+        "meaning": "to be smooth, to write, to record; clarity and flatness (in writing)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مُّنَشَّرَةً",
+      "transliteration": "munsharah",
+      "meaning": "spread out, unfolded, expanded",
+      "root": {
+        "letters": "ن-ش-ر",
+        "meaning": "to spread, to unfold, to disseminate"
+      },
+      "components": [
+        {
+          "arabic": "مُنَ",
+          "meaning": "passive participle prefix indicating 'being spread out'"
+        },
+        {
+          "arabic": "شَّرَة",
+          "meaning": "formative pattern related to spreading and expansion"
+        },
+        {
+          "arabic": "ـةً",
+          "meaning": "feminine indefinite accusative ending (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "rather- every person- from them- that- he be given- scriptures- spread out"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

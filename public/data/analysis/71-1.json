@@ -1,0 +1,198 @@
+{
+  "verseId": "71:1",
+  "verse": {
+    "arabic": "إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+    "transliteration": "Inna arsalna noohan ila qawmihi an anthir qawmaka min qabli an yatiyahum AAathabun aleemun",
+    "surah": "Nuh",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily; the emphatic form of 'we'",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; to exist; presence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing the following clause)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرْسَلْنَا",
+      "transliteration": "ʾarsalnā",
+      "meaning": "We sent",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, dispatch; to follow a messenger"
+      },
+      "components": [
+        {
+          "arabic": "أَرْ",
+          "meaning": "prefix indicating first-person plural (We)"
+        },
+        {
+          "arabic": "سَلْنَا",
+          "meaning": "sent (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُوحًا",
+      "transliteration": "nūḥan",
+      "meaning": "Noah (proper noun)",
+      "root": {
+        "letters": "ن-و-ح",
+        "meaning": "to seek refuge, to rest; also associated with intelligence and safety"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to resort to, dependence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَوْمِهِ",
+      "transliteration": "qawmihi",
+      "meaning": "his people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to establish, a people or tribe"
+      },
+      "components": [
+        {
+          "arabic": "قوم",
+          "meaning": "people, tribe, nation"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنْ",
+      "transliteration": "ʾan",
+      "meaning": "that, to (introducing a verbal noun)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَنذِرْ",
+      "transliteration": "ʾandhir",
+      "meaning": "Warn!",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قَوْمَكَ",
+      "transliteration": "qawmaka",
+      "meaning": "your people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; people, tribe"
+      },
+      "components": [
+        {
+          "arabic": "قوم",
+          "meaning": "people, tribe, nation"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن قَبْلِ",
+      "transliteration": "min qabli",
+      "meaning": "before, prior to",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to precede, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "قَبْلِ",
+          "meaning": "prior to, before"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَن يَأْتِيَهُمْ",
+      "transliteration": "ʾan yaʾtiyahum",
+      "meaning": "that it comes to them",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, arrive"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, to"
+        },
+        {
+          "arabic": "يَأْتِيَهُمْ",
+          "meaning": "it comes to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "punishment, torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe, to inflict pain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَلِيمٌ",
+      "transliteration": "ʾalīmun",
+      "meaning": "painful, grievous",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to feel pain, to suffer; weakness, affliction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we sent Noah to-his people that warn your-people from before that comes-to-them punishment painful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

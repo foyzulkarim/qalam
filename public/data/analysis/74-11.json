@@ -1,0 +1,89 @@
+{
+  "verseId": "74:11",
+  "verse": {
+    "arabic": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
+    "transliteration": "Tharnee waman khalaqtu waheedan",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ذَرْنِي",
+      "transliteration": "dharnī",
+      "meaning": "Leave Me",
+      "root": {
+        "letters": "ذ-ر-أ",
+        "meaning": "to scatter, to leave behind, to abandon"
+      },
+      "components": [
+        {
+          "arabic": "ذَر",
+          "meaning": "Leave, abandon"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "Me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, the one who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; to exist, occur"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَلَقْتُ",
+      "transliteration": "khalaqtū",
+      "meaning": "I created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothing"
+      },
+      "components": [
+        {
+          "arabic": "خَلَق",
+          "meaning": "I created (verb root)"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "first-person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَحِيدًا",
+      "transliteration": "waḥīdan",
+      "meaning": "alone, solitary",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, to be one, unity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Leave-Me and [the one] who I-created alone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

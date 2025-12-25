@@ -1,0 +1,230 @@
+{
+  "verseId": "72:10",
+  "verse": {
+    "arabic": "وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَن فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+    "transliteration": "Waanna la nadree asharrun oreeda biman fee alardi am arada bihim rabbuhum rashadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَدْرِي",
+      "transliteration": "nadrī",
+      "meaning": "we know",
+      "root": {
+        "letters": "د-ر-ي",
+        "meaning": "to perceive, to be aware of, to know"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَ",
+      "transliteration": "ʾa",
+      "meaning": "whether/or",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "interrogative particle, signifies questioning or doubt; can also function as a conditional particle ('if')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَرٌّ",
+      "transliteration": "sharrun",
+      "meaning": "evil",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "to be evil, bad, harmful; wickedness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أُرِيدَ",
+      "transliteration": "ʾurīda",
+      "meaning": "is intended/was intended (passive)",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to want, to desire, to wish"
+      },
+      "components": [
+        {
+          "arabic": "أُرِيدَ",
+          "meaning": "is intended/was intended (passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِمَن",
+      "transliteration": "biman",
+      "meaning": "for those who/with whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, existence; also to possess or belong (in relation to people)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, for, in (preposition)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whom, those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/on",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be firm, the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or/but",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to wish, or to intend. Also related to uncertainty."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَرَادَ",
+      "transliteration": "ʾarāda",
+      "meaning": "intended/willed",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to desire, to seek, to will"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating intention or future tense"
+        },
+        {
+          "arabic": "رَادَ",
+          "meaning": "to return, to revert (related to the core meaning of seeking)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِهِمْ",
+      "transliteration": "bihim",
+      "meaning": "for them",
+      "root": {
+        "letters": "ب-هـ-م",
+        "meaning": "to be with, to possess (in relation to)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "for, with, in"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "رَبُّهُمْ",
+      "transliteration": "rabbu-hum",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, master, owner"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "رَشَدًا",
+      "transliteration": "rashadan",
+      "meaning": "right guidance",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to guide correctly, to be upright; maturity of intellect and sound judgment"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and that we not know whether evil is-intended for those who in the earth or intended for them their Lord right-guidance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

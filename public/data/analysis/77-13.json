@@ -1,0 +1,59 @@
+{
+  "verseId": "77:13",
+  "verse": {
+    "arabic": "لِيَوْمِ الْفَصْلِ",
+    "transliteration": "Liyawmi alfasli",
+    "surah": "Al-Mursalat",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِيَوْمِ",
+      "transliteration": "li-yawmi",
+      "meaning": "for the day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to exist, occur"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "يَوْمِ",
+          "meaning": "the day (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْفَصْلِ",
+      "transliteration": "al-faṣli",
+      "meaning": "the judgment/separation",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, decide"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَصْل",
+          "meaning": "judgment, separation"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the day of-the judgment/separation"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

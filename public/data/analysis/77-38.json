@@ -1,0 +1,124 @@
+{
+  "verseId": "77:38",
+  "verse": {
+    "arabic": "هَـٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ",
+    "transliteration": "Hatha yawmu alfasli jamaAAnakum waalawwaleena",
+    "surah": "Al-Mursalat",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "This",
+      "root": {
+        "letters": "ه-ذ-ا",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمُ",
+      "transliteration": "yawmu",
+      "meaning": "Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to exist, to pass (time), day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْفَصْلِ",
+      "transliteration": "al-faṣli",
+      "meaning": "The Judgement/Distinction",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, divide"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَصْل",
+          "meaning": "judgement, distinction, separation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "faṣlan (implied)",
+      "meaning": "[Pause marker]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, to distinguish, to decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَمَعْنَاكُمْ",
+      "transliteration": "jamaʿnākum",
+      "meaning": "We assembled you (plural)",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, gather, assemble"
+      },
+      "components": [
+        {
+          "arabic": "جَمَع",
+          "meaning": "We collected/assembled (verb root)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural) (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَوَّلِينَ",
+      "transliteration": "al-awwalīna",
+      "meaning": "The former ones/peoples",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَوَّلِينَ",
+          "meaning": "former ones, the first peoples (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "This - Day - of-the-Judgement - [pause] - We-assembled - you-[plural] - and - the-former-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

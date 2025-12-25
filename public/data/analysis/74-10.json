@@ -1,0 +1,72 @@
+{
+  "verseId": "74:10",
+  "verse": {
+    "arabic": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ",
+    "transliteration": "AAala alkafireena ghayru yaseerin",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, at, concerning",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīn",
+      "meaning": "the disbelievers, the unbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to be ungrateful, to deny (faith)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers, unbelievers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "غَيْرُ",
+      "transliteration": "ghayru",
+      "meaning": "not, other than",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to lack, be deficient, to deviate from the norm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَسِيرٍ",
+      "transliteration": "yasīr",
+      "meaning": "easy, simple, slight",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, facility, comfort"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "upon-the-disbelievers not easy"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

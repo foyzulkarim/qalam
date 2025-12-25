@@ -1,0 +1,187 @@
+{
+  "verseId": "76:31",
+  "verse": {
+    "arabic": "يُدْخِلُ مَن يَشَاءُ فِي رَحْمَتِهِ ۚ وَالظَّالِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا",
+    "transliteration": "Yudkhilu man yashao fee rahmatihi waalththalimeena aAAadda lahum AAathaban aleeman",
+    "surah": "Al-Insan",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُدْخِلُ",
+      "transliteration": "yudkhilu",
+      "meaning": "He enters, He admits",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "دَخَلَ",
+          "meaning": "to enter (verb)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍamma (vowel indicating present tense, imperfect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to exist, or to have a quality in oneself; also related to questioning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to desire, to will"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present/future tense and third-person singular masculine subject"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (past/imperfect form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, into",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; inclusion, containment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَحْمَتِهِ",
+      "transliteration": "raḥmatihi",
+      "meaning": "His mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness, pity; to have mercy"
+      },
+      "components": [
+        {
+          "arabic": "رَحْمَة",
+          "meaning": "mercy, compassion"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَالظَّالِمِينَ",
+      "transliteration": "wa-ẓ-ẓālimīna",
+      "meaning": "and the wrongdoers, and the unjust",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الظَّالِمِينَ",
+          "meaning": "the wrongdoers, the unjust (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَعَدَّ",
+      "transliteration": "aʿadda",
+      "meaning": "He prepared, He has readied",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to number; to reckon; to prepare (through reckoning/provisioning)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating perfect tense and negation (when present)"
+        },
+        {
+          "arabic": "عَدَّ",
+          "meaning": "to count, to prepare (basic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَذَابًا",
+      "transliteration": "ʿadhāban",
+      "meaning": "punishment, torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; hardship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَلِيمًا",
+      "transliteration": "alīman",
+      "meaning": "painful, severe",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to suffer, to be afflicted; pain, distress"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-enters-[who]-whom He wills into His mercy and the wrongdoers He prepared for them punishment painful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

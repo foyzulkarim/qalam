@@ -1,0 +1,61 @@
+{
+  "verseId": "74:19",
+  "verse": {
+    "arabic": "فَقُتِلَ كَيْفَ قَدَّرَ",
+    "transliteration": "Faqutila kayfa qaddara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَقُتِلَ",
+      "transliteration": "fa-qutila",
+      "meaning": "So destroyed, then let him be destroyed",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, destruction, perishing"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "قُتِلَ",
+          "meaning": "was killed, was destroyed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "How, in what manner",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "To encompass, to be sufficient, to understand the manner of something."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَدَّرَ",
+      "transliteration": "qaddara",
+      "meaning": "He estimated, he deliberated, he planned",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "To have power, to be able; measure, estimate, proportion"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then] -qutila- [he be, may he be] -kayfa- [is] -how- -qaddara- [he, it is]- he estimated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

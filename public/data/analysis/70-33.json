@@ -1,0 +1,90 @@
+{
+  "verseId": "70:33",
+  "verse": {
+    "arabic": "وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ",
+    "transliteration": "Waallatheena hum bishahadatihim qaimoona",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-al-ladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; belonging to; having a quality"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُم",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِشَهَادَاتِهِمْ",
+      "transliteration": "bi-shahādātihim",
+      "meaning": "with their testimonies",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, evidence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "شَهَادَاتِهِمْ",
+          "meaning": "their testimonies"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَائِمُونَ",
+      "transliteration": "qāʾimūna",
+      "meaning": "standing/upright",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up, to be upright"
+      },
+      "components": [
+        {
+          "arabic": "قَائِم",
+          "meaning": "standing, upright (active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "dual or plural masculine ending, indicating 'they are'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-those who they with-their testimonies standing/upright"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

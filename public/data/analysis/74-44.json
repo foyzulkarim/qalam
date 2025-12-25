@@ -1,0 +1,89 @@
+{
+  "verseId": "74:44",
+  "verse": {
+    "arabic": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ",
+    "transliteration": "Walam naku nutAAimu almiskeena",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not, did not",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will; negation or absence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَكُ",
+      "transliteration": "naku",
+      "meaning": "we were",
+      "root": {
+        "letters": "ن-ك-و",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we"
+        },
+        {
+          "arabic": "كُ",
+          "meaning": "were (past tense marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نُطْعِمُ",
+      "transliteration": "nuṭʿimu",
+      "meaning": "we feed",
+      "root": {
+        "letters": "ع-ط-م",
+        "meaning": "to feed, provide sustenance"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "طْعِمُ",
+          "meaning": "feeding, sustenance (verbal noun related to 'to feed')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمِسْكِينَ",
+      "transliteration": "al-mis̄kīna",
+      "meaning": "the poor one, the needy person",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "weakness, poverty, affliction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - not - we were - we feed - the poor one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

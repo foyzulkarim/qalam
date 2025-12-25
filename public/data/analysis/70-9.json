@@ -1,0 +1,79 @@
+{
+  "verseId": "70:9",
+  "verse": {
+    "arabic": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ",
+    "transliteration": "Watakoonu aljibalu kaalAAihni",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَتَكُونُ",
+      "transliteration": "wa-takūnu",
+      "meaning": "and it will be/become",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to become, existence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَكُونُ",
+          "meaning": "it will be/become (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise up, to tower"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِبَالُ",
+          "meaning": "mountains (plural of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَالْعِهْنِ",
+      "transliteration": "ka-l-ʿihni",
+      "meaning": "like the wool",
+      "root": {
+        "letters": "ع-ح-ن",
+        "meaning": "to be soft, tender; wool, down"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like"
+        },
+        {
+          "arabic": "الْعِهْنِ",
+          "meaning": "the wool"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it-will-be the-mountains like-the wool-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "verseId": "75:21",
+  "verse": {
+    "arabic": "وَتَذَرُونَ الْآخِرَةَ",
+    "transliteration": "Watatharoona alakhirata",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَذَرُونَ",
+      "transliteration": "taḏarūna",
+      "meaning": "you leave, you forsake",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to leave behind, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine plural present tense"
+        },
+        {
+          "arabic": "ذَرُ",
+          "meaning": "to leave, to abandon (verb root)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating second person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْآخِرَةَ",
+      "transliteration": "al-ʾākhiroh",
+      "meaning": "the Hereafter, the Last Life",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the end, the last"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the Last Life, the Hereafter (derived from root أ-خ-ر)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you-leave the-Hereafter"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

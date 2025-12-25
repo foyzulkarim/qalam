@@ -1,0 +1,97 @@
+{
+  "verseId": "77:14",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ",
+    "transliteration": "Wama adraka ma yawmu alfasli",
+    "surah": "Al-Mursalat",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, related to water or source"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "adrakāka",
+      "meaning": "can make you know (you)",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to comprehend, to realize"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَكَ",
+          "meaning": "can make you know, to overtake/reach (you) with knowledge"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, or to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمُ",
+      "transliteration": "yawmu",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to elapse; day (as that which passes)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْفَصْلِ",
+      "transliteration": "al-faṣli",
+      "meaning": "the judgement/separation",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, divide, decide"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَصْل",
+          "meaning": "judgement, separation, distinction"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what can-make-you know what day the-judgement"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

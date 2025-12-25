@@ -1,0 +1,131 @@
+{
+  "verseId": "76:26",
+  "verse": {
+    "arabic": "وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+    "transliteration": "Wamina allayli faosjud lahu wasabbihhu laylan taweelan",
+    "surah": "Al-Insan",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّيْلِ",
+      "transliteration": "al-layli",
+      "meaning": "the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to cover, conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَاسْجُدْ",
+      "transliteration": "fasjud",
+      "meaning": "(imperative) prostrate!",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to bow down in submission"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "imperative particle indicating command or exhortation"
+        },
+        {
+          "arabic": "اسْجُدْ",
+          "meaning": "prostrate! (verb in the imperative mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to Him, for Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, ownership, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَسَبِّحْهُ",
+      "transliteration": "wa sabbiḥhu",
+      "meaning": "and exalt Him, and glorify Him",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to flow; metaphorically, to extol, glorify, praise"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَبِّحْهُ",
+          "meaning": "exalt Him, glorify Him (imperative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَيْلًا",
+      "transliteration": "laylan",
+      "meaning": "at night, during the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "طَوِيلًا",
+      "transliteration": "ṭawīlan",
+      "meaning": "long, lengthy",
+      "root": {
+        "letters": "ط-و-ل",
+        "meaning": "to be long, to extend"
+      },
+      "components": [
+        {
+          "arabic": "طَوِيل",
+          "meaning": "long (masculine singular)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanween al-fatḥ (indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - from - the night - prostrate! - to Him - and exalt-Him - at night - long"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

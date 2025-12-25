@@ -1,0 +1,178 @@
+{
+  "verseId": "76:2",
+  "verse": {
+    "arabic": "إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا",
+    "transliteration": "Inna khalaqna alinsana min nutfatin amshajin nabtaleehi fajaAAalnahu sameeAAan baseeran",
+    "surah": "Al-Insan",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (exclusive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقْنَا",
+      "transliteration": "khalaqnā",
+      "meaning": "We created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into existence"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "creation, the act of creating"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be in companionship; weakness, fragility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نُّطْفَةٍ",
+      "transliteration": "nuṭfatin",
+      "meaning": "A sperm-drop, a small quantity (genitive)",
+      "root": {
+        "letters": "ن-ط-ف",
+        "meaning": "To drip, to drop; a small quantity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَمْشَاجٍ",
+      "transliteration": "ʾamshājin",
+      "meaning": "A mixture, commingled fluid (genitive)",
+      "root": {
+        "letters": "م-ش-ج",
+        "meaning": "to intertwine, blend, mix"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَّبْتَلِيهِ",
+      "transliteration": "nabtalīhi",
+      "meaning": "We test him, We try him",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to test, to try, affliction"
+      },
+      "components": [
+        {
+          "arabic": "نَبْتَلِ",
+          "meaning": "We test, We try (prefix + root)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَجَعَلْنَاهُ",
+      "transliteration": "fajaʿalnāhu",
+      "meaning": "So We made him",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to make, to create, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made/appointed"
+        },
+        {
+          "arabic": "نَاهُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "سَمِيعًا",
+      "transliteration": "samīʿan",
+      "meaning": "Hearing, an one who hears (accusative)",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "سميع",
+          "meaning": "Hearing, the One who Hears"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "Accusative ending indicating state or condition"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بَصِيرًا",
+      "transliteration": "baṣīran",
+      "meaning": "Seeing, an one who sees (accusative)",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "To see, to be aware, to understand"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we created the-human-being from a-sperm-drop mixture that we may test-him, so We made-him hearing seeing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

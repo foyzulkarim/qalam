@@ -1,0 +1,149 @@
+{
+  "verseId": "73:17",
+  "verse": {
+    "arabic": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+    "transliteration": "Fakayfa tattaqoona in kafartum yawman yajAAalu alwildana sheeban",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَكَيْفَ",
+      "transliteration": "fa-kayfa",
+      "meaning": "so how?",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "manner, way, condition; to be sufficient"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "كَيْفَ",
+          "meaning": "how? in what manner?"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَتَّقُونَ",
+      "transliteration": "tattaqūna",
+      "meaning": "you avoid, you fear",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, to shield, to be cautious of"
+      },
+      "components": [
+        {
+          "arabic": "تَتَ",
+          "meaning": "you (plural) - prefix indicating the second person plural pronoun"
+        },
+        {
+          "arabic": "قُونَ",
+          "meaning": "to protect/fear - root related form indicating active avoidance or fearing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَفَرْتُمْ",
+      "transliteration": "kafar-tum",
+      "meaning": "you disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (grace), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "كَفَر",
+          "meaning": "disbelief, ingratitude"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural) - suffix indicating second person plural masculine active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, to pass/elapse (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَجْعَلُ",
+      "transliteration": "yajʿalu",
+      "meaning": "He makes",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (I)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create, to appoint"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْوِلْدَانَ",
+      "transliteration": "al-wildāna",
+      "meaning": "the children",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to produce offspring"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وِلْدَانَ",
+          "meaning": "children (plural of وَلَد)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "شِيبًا",
+      "transliteration": "shīban",
+      "meaning": "white-haired, old age",
+      "root": {
+        "letters": "ش-ي-ب",
+        "meaning": "to become white, to age; whiteness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-how you-avoid if you-disbelieved a-day He-makes the-children white-haired"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

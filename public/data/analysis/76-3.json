@@ -1,0 +1,132 @@
+{
+  "verseId": "76:3",
+  "verse": {
+    "arabic": "إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+    "transliteration": "Inna hadaynahu alssabeela imma shakiran waimma kafooran",
+    "surah": "Al-Insan",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَدَيْنَاهُ",
+      "transliteration": "hadaynāhu",
+      "meaning": "We guided him",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "هَدَى",
+          "meaning": "to guide, to direct"
+        },
+        {
+          "arabic": "ناهُ",
+          "meaning": "him (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّبِيلَ",
+      "transliteration": "al-sabīla",
+      "meaning": "the way, the path",
+      "root": {
+        "letters": "س-ب-و",
+        "meaning": "to go, to follow a path; way, road"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِمَّا",
+      "transliteration": "ʾimmā",
+      "meaning": "either, be he",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to desire, to command (though less common)"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, though"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شَاكِرًا",
+      "transliteration": "shākiran",
+      "meaning": "grateful, thankful",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to acknowledge, to be grateful, to thank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَإِمَّا",
+      "transliteration": "wa-ʾimmā",
+      "meaning": "and either, or be he",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to desire, to proceed towards"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِمَّا",
+          "meaning": "either, or be he/she/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَفُورًا",
+      "transliteration": "kafūran",
+      "meaning": "ungrateful, disbelieving",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny, be ungrateful"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we guided-him the-way either grateful and-either ungrateful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

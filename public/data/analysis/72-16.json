@@ -1,0 +1,142 @@
+{
+  "verseId": "72:16",
+  "verse": {
+    "arabic": "وَأَن لَّوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُم مَّاءً غَدَقًا",
+    "transliteration": "Waallawi istaqamoo AAala alttareeqati laasqaynahum maan ghadaqan",
+    "surah": "Al-Jinn",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle of affirmation/emphasis"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "relative pronoun marker, indicating 'that'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّوِ",
+      "transliteration": "lawi",
+      "meaning": "if, were they to",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, wishing, volition; also used in hypothetical statements"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اسْتَقَامُوا",
+      "transliteration": "istaqāmū",
+      "meaning": "they remained upright, they followed the straight path",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand upright, to be straight, to establish"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "to seek, to attempt, prefix denoting seeking/initiation"
+        },
+        {
+          "arabic": "قَامُوا",
+          "meaning": "they stood, they remained upright (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الطَّرِيقَةِ",
+      "transliteration": "aṭ-ṭarīqah",
+      "meaning": "the way, the path",
+      "root": {
+        "letters": "ط-ر-ق",
+        "meaning": "to seek, to pursue; a way or path resulting from seeking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَأَسْقَيْنَاهُم",
+      "transliteration": "laʾasqaynāhum",
+      "meaning": "We would have given them to drink, We surely would provide them with water",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to water, to provide drink"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "conditional particle, indicating 'if/would have'"
+        },
+        {
+          "arabic": "أَسْقَيْنَاهُم",
+          "meaning": "we would have given them to drink (verb, conditional mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَّاءً",
+      "transliteration": "māʾan",
+      "meaning": "water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, water; to flow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "غَدَقًا",
+      "transliteration": "ghadaqan",
+      "meaning": "abundant, plentiful (water)",
+      "root": {
+        "letters": "غ-د-ق",
+        "meaning": "to flow profusely, to be abundant (of water)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - that - if - they remained upright - upon - the path - We would have given them to drink - water - abundant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

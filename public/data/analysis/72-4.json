@@ -1,0 +1,124 @@
+{
+  "verseId": "72:4",
+  "verse": {
+    "arabic": "وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا",
+    "transliteration": "Waannahu kana yaqoolu safeehuna AAala Allahi shatatan",
+    "surah": "Al-Jinn",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأَنَّهُ",
+      "transliteration": "waʾannahū",
+      "meaning": "and that He",
+      "root": {
+        "letters": "أ-ن-ه",
+        "meaning": "to be, existence, presence; also to know or perceive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was/used to be",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "says/was saying",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (often associated with the imperfective)"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "verbal noun/source of saying; imperfective stem based on the root ق-و-ل"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَفِيهُنَا",
+      "transliteration": "safīhunā",
+      "meaning": "our foolish one/fool among us",
+      "root": {
+        "letters": "س-ف-ه",
+        "meaning": "to be foolish, to lack good judgment"
+      },
+      "components": [
+        {
+          "arabic": "سَفِيه",
+          "meaning": "foolish one"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/about",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "شَطَطًا",
+      "transliteration": "shaṭaṭan",
+      "meaning": "excess/transgression/falsity",
+      "root": {
+        "letters": "ش-ط-ط",
+        "meaning": "to exceed limits, to go beyond bounds, to stray from the right path"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-that He was saying our-foolish-one upon Allah an-excess"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "verseId": "75:2",
+  "verse": {
+    "arabic": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+    "transliteration": "Wala oqsimu bialnnafsi allawwamati",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not; but; indeed",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate; to refuse; non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "uqsimu",
+      "meaning": "I swear; I make an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, apportion, distribute; to swear (by division/partitioning of the oath)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating the first person singular (I)"
+        },
+        {
+          "arabic": "قَسَمَ",
+          "meaning": "to swear, to take an oath"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "dammah indicating present tense, first person singular (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالنَّفْسِ",
+      "transliteration": "bi-n-nafsi",
+      "meaning": "by the soul; with/through the soul",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, spirit, breath"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "النَّفْسِ",
+          "meaning": "the soul"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّوَّامَةِ",
+      "transliteration": "al-lawwāmati",
+      "meaning": "the reproaching (soul); the blaming (soul)",
+      "root": {
+        "letters": "ل-و-م",
+        "meaning": "to blame, reproach, censure"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَوَّامَةِ",
+          "meaning": "reproaching (soul), blaming (soul) - active participle form"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - not - I-swear - by-the-soul - the-reproaching"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

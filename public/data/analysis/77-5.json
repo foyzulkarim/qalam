@@ -1,0 +1,59 @@
+{
+  "verseId": "77:5",
+  "verse": {
+    "arabic": "فَالْمُلْقِيَاتِ ذِكْرًا",
+    "transliteration": "Faalmulqiyati thikran",
+    "surah": "Al-Mursalat",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَالْمُلْقِيَاتِ",
+      "transliteration": "fa-l-mulqiyāti",
+      "meaning": "Then the sending (ones), the casting (ones)",
+      "root": {
+        "letters": "أ-ل-ق",
+        "meaning": "to throw, to cast, to send forth"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُلْقِيَاتِ",
+          "meaning": "sending ones, casting ones (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذِكْرًا",
+      "transliteration": "dhikran",
+      "meaning": "A reminder, a message, an account",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "To remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْرًا",
+          "meaning": "A reminder, a commemoration, that which is remembered."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-the-[sending]-ones reminder"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

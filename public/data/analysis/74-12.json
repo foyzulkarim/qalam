@@ -1,0 +1,89 @@
+{
+  "verseId": "74:12",
+  "verse": {
+    "arabic": "وَجَعَلْتُ لَهُ مَالًا مَّمْدُودًا",
+    "transliteration": "WajaAAaltu lahu malan mamdoodan",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَعَلْتُ",
+      "transliteration": "jaʿaltu",
+      "meaning": "I made, I granted",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to establish, to make"
+      },
+      "components": [
+        {
+          "arabic": "جَعَل",
+          "meaning": "to make, to grant"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him, to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he, him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَالًا",
+      "transliteration": "mālan",
+      "meaning": "wealth, property",
+      "root": {
+        "letters": "م-ل-أ",
+        "meaning": "to fill, to possess, have fullness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّمْدُودًا",
+      "transliteration": "mamdūdan",
+      "meaning": "extended, abundant, vast",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to stretch, prolongation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-I-made for-him wealth extended"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

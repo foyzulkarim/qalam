@@ -1,0 +1,78 @@
+{
+  "verseId": "77:7",
+  "verse": {
+    "arabic": "إِنَّمَا تُوعَدُونَ لَوَاقِعٌ",
+    "transliteration": "Innama tooAAadoona lawaqiAAun",
+    "surah": "Al-Mursalat",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّمَا",
+      "transliteration": "ʾinnamā",
+      "meaning": "indeed, only; verily it is but",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to be restricted, limited, or exclusive; to negate everything but what is stated"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily; emphasizes the following statement"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which; introduces the exclusive statement"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُوعَدُونَ",
+      "transliteration": "tuʿadūn",
+      "meaning": "you are promised; you will be promised",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise; to pledge; to threaten"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix denoting future tense and/or passive voice"
+        },
+        {
+          "arabic": "وُ",
+          "meaning": "vowel indicating the form (Form II)"
+        },
+        {
+          "arabic": "عُد",
+          "meaning": "promise (verbal root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine pronoun (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَوَاقِعٌ",
+      "transliteration": "lawāqiʿun",
+      "meaning": "to occur; the inevitable, that which is bound to happen",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to occur, to happen"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "indeed-[only] you-are-promised [it is] to-occur"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

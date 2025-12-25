@@ -1,0 +1,79 @@
+{
+  "verseId": "77:18",
+  "verse": {
+    "arabic": "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+    "transliteration": "Kathalika nafAAalu bialmujrimeena",
+    "surah": "Al-Mursalat",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲hālika",
+      "meaning": "thus, like that; in this manner",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "to be humble, to submit; that (masculine singular)"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like that (particle of resemblance)"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that (masculine singular demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَفْعَلُ",
+      "transliteration": "nafʿalu",
+      "meaning": "we do; we act; we make happen",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to benefit; to be useful; to do good"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "فَعَلُ",
+          "meaning": "to do; to act (verb stem)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْمُجْرِمِينَ",
+      "transliteration": "bil-mujrimīna",
+      "meaning": "with the criminals; concerning the criminals",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "to commit a crime; to transgress, be wicked"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; by means of; concerning"
+        },
+        {
+          "arabic": "الْمُجْرِمِينَ",
+          "meaning": "the criminals; the transgressors (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "thus-like we-do with-the-criminals"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

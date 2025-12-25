@@ -1,0 +1,103 @@
+{
+  "verseId": "75:37",
+  "verse": {
+    "arabic": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِيٍّ يُمْنَىٰ",
+    "transliteration": "Alam yaku nutfatan min manayyin yumna",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾa-lam",
+      "meaning": "Did...not?",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To know, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "A negative particle indicating denial or questioning regarding the past tense."
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "Past tense negation particle. Indicates that the following verb did not occur."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَكُ",
+      "transliteration": "yakun",
+      "meaning": "be, was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense or subjunctive mood"
+        },
+        {
+          "arabic": "كُنْ",
+          "meaning": "to be (imperative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُطْفَةً",
+      "transliteration": "nuṭfatan",
+      "meaning": "a drop, sperm-drop",
+      "root": {
+        "letters": "ن-ط-ف",
+        "meaning": "to drip, to drop, small quantity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "belonging to, source, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّنِيٍّ",
+      "transliteration": "maniyyin",
+      "meaning": "semen, fluid",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to flow, to pour forth; fluid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُمْنَىٰ",
+      "transliteration": "yumnā",
+      "meaning": "emitted, poured forth",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "to be blessed, to be fortunate; right hand or south (direction)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not be a sperm-drop from semen emitted?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "verseId": "74:41",
+  "verse": {
+    "arabic": "عَنِ الْمُجْرِمِينَ",
+    "transliteration": "AAani almujrimeena",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about, concerning",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, pertaining to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمُجْرِمِينَ",
+      "transliteration": "al-mujrimīn",
+      "meaning": "the criminals, the wrongdoers",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "to commit a crime, to do wrong"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُجْرِمِينَ",
+          "meaning": "criminals, wrongdoers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "about-the criminals"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

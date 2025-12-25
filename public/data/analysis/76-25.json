@@ -1,0 +1,111 @@
+{
+  "verseId": "76:25",
+  "verse": {
+    "arabic": "وَاذْكُرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا",
+    "transliteration": "Waothkuri isma rabbika bukratan waaseelan",
+    "surah": "Al-Insan",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د",
+        "meaning": "love, affection, friendship, union"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اذْكُرِ",
+      "transliteration": "udhkur",
+      "meaning": "remember, mention",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall, to be mindful"
+      },
+      "components": [
+        {
+          "arabic": "اذْ",
+          "meaning": "particle indicating command or exhortation"
+        },
+        {
+          "arabic": "كُرِ",
+          "meaning": "second person masculine singular imperfect form of the root ذَكَرَ (to remember)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اسْمَ",
+      "transliteration": "isma",
+      "meaning": "name",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise in status; elevation; highness, also related to characteristic or quality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بُكْرَةً",
+      "transliteration": "bukrata",
+      "meaning": "morning",
+      "root": {
+        "letters": "ب-ك-ر",
+        "meaning": "to be early, to hasten; morning (as the early time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَصِيلًا",
+      "transliteration": "aṣīlan",
+      "meaning": "evening",
+      "root": {
+        "letters": "أ-ص-ل",
+        "meaning": "to be firm, solid, or to originate; foundation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-remember name your-Lord morning and evening"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

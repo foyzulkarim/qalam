@@ -1,0 +1,184 @@
+{
+  "verseId": "72:24",
+  "verse": {
+    "arabic": "حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+    "transliteration": "Hatta itha raaw ma yooAAadoona fasayaAAlamoona man adAAafu nasiran waaqallu AAadadan",
+    "surah": "Al-Jinn",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ى",
+        "meaning": "separation, limit, boundary"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go, to depart; to pass away (of time)"
+      },
+      "components": [
+        {
+          "arabic": "إِذ",
+          "meaning": "when, at the time that"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "conditional particle (introducing a condition)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَأَوْا",
+      "transliteration": "raʾaw",
+      "meaning": "they saw",
+      "root": {
+        "letters": "ر-أ-ى",
+        "meaning": "to see, to perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; related to non-specification or indefiniteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُوعَدُونَ",
+      "transliteration": "yūʿadūn",
+      "meaning": "they are promised",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to threaten"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and 3rd person plural"
+        },
+        {
+          "arabic": "عَدَ",
+          "meaning": "to promise"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating 3rd person plural masculine active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَسَيَعْلَمُونَ",
+      "transliteration": "fasayaʿlamūn",
+      "meaning": "then they will know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "سَ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "يَعْلَمُونَ",
+          "meaning": "they will know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, belonging to, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَضْعَفُ",
+      "transliteration": "aḍʿaf",
+      "meaning": "weaker",
+      "root": {
+        "letters": "ض-ع-ف",
+        "meaning": "to be weak, to diminish, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نَاصِرًا",
+      "transliteration": "nāṣiran",
+      "meaning": "helper, assistant",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to aid, help, overcome"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَأَقَلُّ",
+      "transliteration": "waʾaqallu",
+      "meaning": "and lesser, and fewer",
+      "root": {
+        "letters": "ق-لّ-ل",
+        "meaning": "to decrease, to be few, to lessen"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَقَلُّ",
+          "meaning": "lesser, fewer (comparative adjective)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَدَدًا",
+      "transliteration": "ʿadadan",
+      "meaning": "number",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to enumerate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "until-when they-saw that-which they-are-promised then-they-will-know who is-weaker helper and-lesser number"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

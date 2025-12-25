@@ -1,0 +1,74 @@
+{
+  "verseId": "74:23",
+  "verse": {
+    "arabic": "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ",
+    "transliteration": "Thumma adbara waistakbara",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to stand firm; also implies time and sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْبَرَ",
+      "transliteration": "ʾadbara",
+      "meaning": "he turned back, he retreated",
+      "root": {
+        "letters": "د-ب-ر",
+        "meaning": "to arrange, to manage; to turn back, to retreat"
+      },
+      "components": [
+        {
+          "arabic": "أَدْ",
+          "meaning": "prefix indicating perfect tense and third person singular masculine"
+        },
+        {
+          "arabic": "بَرَ",
+          "meaning": "to turn back, to retreat (from the root د-ب-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَاسْتَكْبَرَ",
+      "transliteration": "wastakbara",
+      "meaning": "and he was arrogant, and he magnified himself",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase; in the reflexive form, to consider oneself great"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اسْتَ",
+          "meaning": "prefix denoting seeking, attempting, or completion (in this case, intensive)"
+        },
+        {
+          "arabic": "كَبَّرَ",
+          "meaning": "to magnify, to increase (size or importance)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-he-turned-back and-he-was-arrogant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

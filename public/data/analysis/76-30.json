@@ -1,0 +1,188 @@
+{
+  "verseId": "76:30",
+  "verse": {
+    "arabic": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+    "transliteration": "Wama tashaoona illa an yashaa Allahu inna Allaha kana AAaleeman hakeeman",
+    "surah": "Al-Insan",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, relative pronoun"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَشَاءُونَ",
+      "transliteration": "tashā’ūna",
+      "meaning": "you will/desire",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to will, to desire"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (root verb)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person masculine plural (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَشَاءَ",
+      "transliteration": "yashā’a",
+      "meaning": "He wills/desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to want, to desire, to wish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person singular present tense (He)"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed/Verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence; confirmation or emphasis"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was/is",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَلِيمًا",
+      "transliteration": "ʿalīman",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "حَكِيمًا",
+      "transliteration": "ḥakīman",
+      "meaning": "Wise",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to be wise"
+      },
+      "components": [
+        {
+          "arabic": "حَكِيم",
+          "meaning": "Wise (masculine singular)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "Tanwīn fatha - indefinite accusative marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what you-will except that He-wills indeed-Allah was Knowing Wise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

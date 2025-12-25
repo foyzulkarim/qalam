@@ -1,0 +1,61 @@
+{
+  "verseId": "71:22",
+  "verse": {
+    "arabic": "وَمَكَرُوا مَكْرًا كُبَّارًا",
+    "transliteration": "Wamakaroo makran kubbaran",
+    "surah": "Nuh",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَكَرُوا",
+      "transliteration": "wa-makarū",
+      "meaning": "and they conspired/schemed",
+      "root": {
+        "letters": "م-ك-ر",
+        "meaning": "to scheme, to plot, to deceive"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَكَرُوا",
+          "meaning": "they conspired/schemed (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَكْرًا",
+      "transliteration": "makran",
+      "meaning": "a conspiracy/scheme",
+      "root": {
+        "letters": "ك-و-ر",
+        "meaning": "to conceal, to turn back; hence, scheming or plotting in secret"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُبَّارًا",
+      "transliteration": "kubbāran",
+      "meaning": "immense/large/great (conspiracies)",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, great, or immense; growth"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-conspired a-conspiracy immense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

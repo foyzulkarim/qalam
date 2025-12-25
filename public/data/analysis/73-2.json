@@ -1,0 +1,63 @@
+{
+  "verseId": "73:2",
+  "verse": {
+    "arabic": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+    "transliteration": "Qumi allayla illa qaleelan",
+    "surah": "Al-Muzzammil",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُمِ",
+      "transliteration": "qum",
+      "meaning": "rise, stand up",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up, to establish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّيْلَ",
+      "transliteration": "al-layl",
+      "meaning": "the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark or hidden"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to deny, to refuse, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "little, a small amount",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to diminish, scarcity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "rise-up the-night except little"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

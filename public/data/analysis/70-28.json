@@ -1,0 +1,74 @@
+{
+  "verseId": "70:28",
+  "verse": {
+    "arabic": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+    "transliteration": "Inna AAathaba rabbihim ghayru mamoonin",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; core meaning of affirmation or emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "particle of emphasis, introducing a statement with certainty"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَذَابَ",
+      "transliteration": "ʿadhāba",
+      "meaning": "Punishment, torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "To punish, to be harsh or severe; pain, suffering."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "غَيْرُ",
+      "transliteration": "ghayru",
+      "meaning": "Not, un-",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to lack, to be without, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَأْمُونٍ",
+      "transliteration": "maʾmūnin",
+      "meaning": "Safe, secure",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "To be safe, secure; to trust, have confidence."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- the punishment- of- their Lord- not- safe-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

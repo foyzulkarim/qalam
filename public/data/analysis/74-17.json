@@ -1,0 +1,54 @@
+{
+  "verseId": "74:17",
+  "verse": {
+    "arabic": "سَأُرْهِقُهُ صَعُودًا",
+    "transliteration": "Saorhiquhu saAAoodan",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَأُرْهِقُهُ",
+      "transliteration": "saʾurhiquhu",
+      "meaning": "I will overburden/exhaust him",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "to be weak, exhausted; to feel distress or hardship"
+      },
+      "components": [
+        {
+          "arabic": "سَـ",
+          "meaning": "future particle (indicating 'will')"
+        },
+        {
+          "arabic": "أُرْهِقُ",
+          "meaning": "I will exhaust/burden (verb form)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَعُودًا",
+      "transliteration": "ṣaʿūdan",
+      "meaning": "arduousness/torment/climbing",
+      "root": {
+        "letters": "ص-ع-و",
+        "meaning": "to ascend, to climb; difficulty, hardship"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "I-will-overburden-him arduousness/torment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

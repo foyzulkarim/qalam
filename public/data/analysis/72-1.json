@@ -1,0 +1,221 @@
+{
+  "verseId": "72:1",
+  "verse": {
+    "arabic": "قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا",
+    "transliteration": "Qul oohiya ilayya annahu istamaAAa nafarun mina aljinni faqaloo inna samiAAna quranan AAajaban",
+    "surah": "Al-Jinn",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say (imperative)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; encompasses a wide range of verbal communication."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُوحِيَ",
+      "transliteration": "ūḥiya",
+      "meaning": "It was revealed",
+      "root": {
+        "letters": "و-ح-ي",
+        "meaning": "inspiration, revelation, divine communication"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "passive voice prefix indicating 'it was'"
+        },
+        {
+          "arabic": "حِيَ",
+          "meaning": "revealed, inspired (from root و-ح-ي)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَيَّ",
+      "transliteration": "ʾilayya",
+      "meaning": "To me",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to approach, to return towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "يَ",
+          "meaning": "me, pronoun suffix indicating first person singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنَّهُ",
+      "transliteration": "ʾannahū",
+      "meaning": "That it (referring to the next clause)",
+      "root": {
+        "letters": "ح-ن-ن",
+        "meaning": "To incline, to tend towards, to desire, hiddenness/concealment"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "That, indeed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "It (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اِسْتَمَعَ",
+      "transliteration": "istamaʿa",
+      "meaning": "Listened",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَـ",
+          "meaning": "prefix indicating seeking or attempting something; intensive form"
+        },
+        {
+          "arabic": "مَعَ",
+          "meaning": "to hear, to listen (root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نَفَرٌ",
+      "transliteration": "nafarun",
+      "meaning": "A group/people",
+      "root": {
+        "letters": "ن-ف-ر",
+        "meaning": "to depart, to go away; to separate, to be aloof"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, to prevent, to withhold; origin of separation or source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْجِنِّ",
+      "transliteration": "al-jinn",
+      "meaning": "The jinn",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to veil, to be concealed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَقَالُوا",
+      "transliteration": "faqālū",
+      "meaning": "So they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed we",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "affirmation, confirmation, emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "سَمِعْنَا",
+      "transliteration": "samiʿnā",
+      "meaning": "We heard",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "سَمِعْ",
+          "meaning": "we heard (verbal noun root)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (first person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قُرْآنًا",
+      "transliteration": "qurʾānan",
+      "meaning": "A Qur'an",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite; the reading itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَجَبًا",
+      "transliteration": "ʿajaban",
+      "meaning": "Amazing/wondrous",
+      "root": {
+        "letters": "ع-ج-ب",
+        "meaning": "To be wondrous, to marvel; strangeness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say - It-was-revealed - To-me - That-it - Listened - A-group - From - The-jinn - So-they-said - Indeed-we - We-heard - A-Qur'an - Amazing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

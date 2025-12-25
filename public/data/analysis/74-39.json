@@ -1,0 +1,52 @@
+{
+  "verseId": "74:39",
+  "verse": {
+    "arabic": "إِلَّا أَصْحَابَ الْيَمِينِ",
+    "transliteration": "Illa ashaba alyameeni",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَصْحَابَ",
+      "transliteration": "ʾaṣḥāba",
+      "meaning": "companions, followers",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow closely, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْيَمِينِ",
+      "transliteration": "al-yamīni",
+      "meaning": "the right [side]",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, power, strength, blessing"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except - companions - the-right"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

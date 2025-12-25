@@ -1,0 +1,181 @@
+{
+  "verseId": "71:12",
+  "verse": {
+    "arabic": "وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ وَيَجْعَل لَّكُمْ أَنْهَارًا",
+    "transliteration": "Wayumdidkum biamwalin wabaneena wayajAAal lakum jannatin wayajAAal lakum anharan",
+    "surah": "Nuh",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيُمْدِدْكُم",
+      "transliteration": "wa yumdidkum",
+      "meaning": "and He extends to you/provides increase for you",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to stretch, to prolong; also increase, continuation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُمْدِدْكُم",
+          "meaning": "He extends to you/provides increase for you (verb form indicating provision by God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِأَمْوَالٍ",
+      "transliteration": "bi'amwālin",
+      "meaning": "with wealths/possessions",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; wealth, property"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَمْوَالٍ",
+          "meaning": "wealths, possessions (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَبَنِينَ",
+      "transliteration": "wa banīna",
+      "meaning": "and sons/children",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to have offspring; progeny"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَنِينَ",
+          "meaning": "sons/children (plural broken plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيَجْعَل",
+      "transliteration": "wa yajʿal",
+      "meaning": "and He makes/creates",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to create, to make something come into being"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَجْعَل",
+          "meaning": "He makes/creates (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَنَّاتٍ",
+      "transliteration": "jannātin",
+      "meaning": "gardens/paradises",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to shield; also related to the unseen and inner nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَيَجْعَل",
+      "transliteration": "wa yajʿal",
+      "meaning": "and He makes/creates",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to establish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَجْعَل",
+          "meaning": "He makes/creates (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, perfect; to possess"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَنْهَارًا",
+      "transliteration": "anhāran",
+      "meaning": "rivers/waterways",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream; river"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and He extends-to-you with wealths and sons/children and He makes for-you gardens and He makes for-you rivers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

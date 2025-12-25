@@ -1,0 +1,129 @@
+{
+  "verseId": "77:29",
+  "verse": {
+    "arabic": "انطَلِقُوا إِلَىٰ مَا كُنتُم بِهِ تُكَذِّبُونَ",
+    "transliteration": "Intaliqoo ila ma kuntum bihi tukaththiboona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "انطَلِقُوا",
+      "transliteration": "inṭaliqū",
+      "meaning": "go forth, proceed, depart",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to release, to set free; to divorce (also implies departure)"
+      },
+      "components": [
+        {
+          "arabic": "ان",
+          "meaning": "prefix indicating command/imperative form (often with a sense of 'now')"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "indicates a form II verb (intensive/causative)"
+        },
+        {
+          "arabic": "لِقُوا",
+          "meaning": "go forth/proceed (from root ط-ل-ق)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to follow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "existence, being; water (in some dialects)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كُنتُم",
+      "transliteration": "kuntum",
+      "meaning": "you were (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "to be (imperative/base form)"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "you (plural masculine suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, in it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تُكَذِّبُونَ",
+      "transliteration": "tukadhdhibūn",
+      "meaning": "you deny, you reject (plural)",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural present tense"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "to deny, to reject (verbal stem)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Proceed-forth to that which you were with-it deny"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

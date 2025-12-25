@@ -1,0 +1,50 @@
+{
+  "verseId": "74:29",
+  "verse": {
+    "arabic": "لَوَّاحَةٌ لِّلْبَشَرِ",
+    "transliteration": "Lawwahatun lilbashari",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَوَّاحَةٌ",
+      "transliteration": "lawwāḥah",
+      "meaning": "scorching, burning, blackening",
+      "root": {
+        "letters": "ل-و-ح",
+        "meaning": "to darken, to be discolored, or to shine with a dark color; also associated with tablets or writing surfaces"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّلْبَشَرِ",
+      "transliteration": "lil-bashari",
+      "meaning": "for the humans/mankind",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be human, to possess flesh; humanity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "للبَشَرِ",
+          "meaning": "the humans/mankind (genitive case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "scorching-for the humans/mankind"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

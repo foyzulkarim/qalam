@@ -1,0 +1,56 @@
+{
+  "verseId": "77:10",
+  "verse": {
+    "arabic": "وَإِذَا الْجِبَالُ نُسِفَتْ",
+    "transliteration": "Waitha aljibalu nusifat",
+    "surah": "Al-Mursalat",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ح",
+        "meaning": "to recall, to remember, to experience"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, at the time that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُسِفَتْ",
+      "transliteration": "nusifat",
+      "meaning": "were blown away / were removed by wind",
+      "root": {
+        "letters": "ن-س-ف",
+        "meaning": "to excavate, to remove, to blow away"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-and when - the mountains - were blown away"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

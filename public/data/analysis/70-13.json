@@ -1,0 +1,98 @@
+{
+  "verseId": "70:13",
+  "verse": {
+    "arabic": "وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ",
+    "transliteration": "Wafaseelatihi allatee tuweehi",
+    "surah": "Al-Ma'arij",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, to invoke; affection, love"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَصِيلَتِهِ",
+      "transliteration": "faṣīlatihi",
+      "meaning": "his kindred, his tribe, his family",
+      "root": {
+        "letters": "ص-ي-ل",
+        "meaning": "to be related, to belong (to a group), to connect"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "prefixed 'fa' indicating result or consequence"
+        },
+        {
+          "arabic": "صِيلَة",
+          "meaning": "kinship, relation"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "which, who",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to return, to be associated with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "relative pronoun suffix, feminine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُؤْوِيهِ",
+      "transliteration": "tuʾawīhi",
+      "meaning": "shelters him, gives him refuge",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to seek refuge, to protect"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "أَوِ",
+          "meaning": "root related to seeking refuge or returning"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "pronoun suffix indicating 'him'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - his kindred - which - shelters-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

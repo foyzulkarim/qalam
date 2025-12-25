@@ -1,0 +1,81 @@
+{
+  "verseId": "74:9",
+  "verse": {
+    "arabic": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+    "transliteration": "Fathalika yawmaithin yawmun AAaseerun",
+    "surah": "Al-Muddaththir",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَذَٰلِكَ",
+      "transliteration": "fa-dhālika",
+      "meaning": "then that/so this one (demonstrative pronoun)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "to be humble, to submit, to be low; also refers to the 'that' which is near or known"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so (particle of consequence)"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that one, this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma’idhin",
+      "meaning": "on that day (temporal noun)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on a day"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمٌ",
+      "transliteration": "yawmun",
+      "meaning": "a day (noun)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَسِيرٌ",
+      "transliteration": "ʿasīrun",
+      "meaning": "difficult/hard (adjective)",
+      "root": {
+        "letters": "ع-س-ر",
+        "meaning": "to be difficult, tight, or constrained"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-that/then that - on-that day - a day - difficult"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

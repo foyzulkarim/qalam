@@ -1,0 +1,136 @@
+{
+  "verseId": "77:43",
+  "verse": {
+    "arabic": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنتُمْ تَعْمَلُونَ",
+    "transliteration": "Kuloo waishraboo haneean bima kuntum taAAmaloona",
+    "surah": "Al-Mursalat",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كُلُوا",
+      "transliteration": "kulū",
+      "meaning": "Eat (imperative, plural)",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat, to devour; general intake or absorption"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining, linking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اشْرَبُوا",
+      "transliteration": "ishrabū",
+      "meaning": "Drink (imperative, plural)",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorb liquid"
+      },
+      "components": [
+        {
+          "arabic": "اِشْرَب",
+          "meaning": "Drink!"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "plural imperative suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هَنِيئًا",
+      "transliteration": "hanī’an",
+      "meaning": "Pleasantly, with enjoyment (adverb)",
+      "root": {
+        "letters": "ه-ن-أ",
+        "meaning": "to be pleasant, agreeable, comfortable; to flourish, thrive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "With what, for what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "You were (verb, plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were (root verb)"
+        },
+        {
+          "arabic": "-تُمْ",
+          "meaning": "plural suffix indicating 'you all'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "You do/used to do (verb, plural)",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to perform"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person plural present/imperfect tense"
+        },
+        {
+          "arabic": "عَمَلْ",
+          "meaning": "the root verb form relating to doing/working"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Eat - and - drink - pleasantly - with/for - what - you were - doing/used to do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

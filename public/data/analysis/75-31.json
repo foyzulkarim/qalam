@@ -1,0 +1,81 @@
+{
+  "verseId": "75:31",
+  "verse": {
+    "arabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+    "transliteration": "Fala saddaqa wala salla",
+    "surah": "Al-Qiyamah",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "So not; therefore, not",
+      "root": {
+        "letters": "ل-ي-د",
+        "meaning": "to refuse, to deny, to reject; negativity"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So; then; consequently (introduces a result or consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "Not; negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَدَّقَ",
+      "transliteration": "ṣaddaqa",
+      "meaning": "He believed; he affirmed the truth",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truthfulness, sincerity, correctness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not; nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَلَّىٰ",
+      "transliteration": "ṣallā",
+      "meaning": "He prayed; he performed ritual prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray; to make supplication; to be devout"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-not believed-and-not prayed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
