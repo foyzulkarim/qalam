@@ -1,40 +1,35 @@
 # Setup Guide
 
+**Version:** 3.0
+**Last Updated:** December 2025
+
 ---
 
 ## Prerequisites
 
 - Node.js 18+
-- npm or yarn
-- Ollama (for LLM)
+- npm
+
+For analysis generation (optional):
+- [Ollama](https://ollama.ai) installed locally
 
 ---
 
-## Environment Variables
-
-Create `.env.local` in project root:
+## Quick Start
 
 ```bash
-# Database
-DATABASE_URL="file:./prisma/qalam.db"
+# 1. Clone and install
+git clone https://github.com/foyzulkarim/qalam.git
+cd qalam
+npm install
 
-# NextAuth
-NEXTAUTH_SECRET="generate-random-32-char-string"
-NEXTAUTH_URL="http://localhost:3000"
-
-# LLM Configuration
-LLM_PROVIDER="ollama"
-LLM_API_URL="http://localhost:11434/api/generate"
-LLM_MODEL="llama2"
-
-# Optional: For production with OpenAI
-# OPENAI_API_KEY="sk-..."
+# 2. Start development server
+npm run dev
 ```
 
-Generate a secret:
-```bash
-openssl rand -base64 32
-```
+Visit [http://localhost:3000](http://localhost:3000)
+
+That's it! No database setup, no environment variables required for development.
 
 ---
 
@@ -47,166 +42,201 @@ openssl rand -base64 32
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-
-    "fetch-quran": "tsx scripts/fetch-quran-data.ts",
-    "seed": "tsx scripts/seed.ts",
-
-    "db:migrate": "npx prisma migrate dev",
-    "db:push": "npx prisma db push",
-    "db:studio": "npx prisma studio",
-    "db:generate": "npx prisma generate"
+    "build:quran": "tsx scripts/build-quran-json.ts",
+    "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts"
   }
 }
 ```
 
 | Command | Purpose |
 |---------|---------|
-| `npm run fetch-quran` | Download Quran data from quran-json |
-| `npm run seed` | Generate verse analysis via local LLM |
-| `npm run db:migrate` | Apply Prisma schema changes |
-| `npm run db:push` | Push schema to DB without migration files |
-| `npm run db:studio` | Open Prisma GUI to browse data |
+| `npm run dev` | Start development server at localhost:3000 |
+| `npm run build` | Build static export to `./out` directory |
+| `npm run lint` | Run ESLint |
+| `npm run build:quran` | Rebuild quran.json from Tanzil.net source files |
+| `npm run seed:analysis` | Generate verse analysis via Ollama |
 
 ---
 
-## First Time Setup
+## Environment Variables (Optional)
+
+Only needed for analysis generation. Create `.env` in project root:
 
 ```bash
-# 1. Clone repo and install dependencies
-git clone <repo>
-cd qalam
-npm install
-
-# 2. Create .env.local file (see above)
-
-# 3. Set up database
-npm run db:migrate
-
-# 4. Download Quran data
-npm run fetch-quran
-
-# 5. Start Ollama and pull a model
-ollama run llama2
-
-# 6. Generate verse analysis (takes ~2 hours for all verses)
-npm run seed
-
-# 7. Start development server
-npm run dev
+# LLM Configuration for analysis generation
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_MODEL=qwen2.5:72b
 ```
+
+No environment variables are required for running the app itself.
 
 ---
 
-## After Pulling Updates
+## Data Files
 
-```bash
-npm install           # Get new dependencies
-npm run db:migrate    # Apply any schema changes
-npm run dev           # Start development
-```
+The app uses static JSON files in `public/data/`:
 
----
+### Source Files (Included)
+These files are included in the repository:
+- `quran.json` - Complete Quran with Arabic + translations
+- `surahs.json` - Surah metadata (114 surahs)
+- `quran-simple.txt` - Arabic text from Tanzil.net
+- `en.sahih.txt` - Sahih International translation
+- `en.transliteration.txt` - Transliteration
 
-## Data Acquisition
-
-### Fetch Script
-
-The `fetch-quran` script downloads Quran data from [quran-json](https://github.com/risan/quran-json) and transforms it to the required format.
-
-```bash
-npm run fetch-quran
-
-# Creates:
-# - data/surahs/index.json
-# - data/surahs/001.json through 114.json
-```
-
-### Seed Script
-
-The `seed` script generates word-by-word analysis for each verse using the local LLM.
-
-```bash
-# Ensure Ollama is running
-ollama run llama2
-
-# Run seed (resumable if stopped)
-npm run seed
-
-# Creates:
-# - data/analysis/001.json through 114.json
-```
-
-The seed script has resume support - if it stops halfway, run it again and it will skip already-completed surahs.
+### Analysis Files (Partially Included)
+- `analysis/*.json` - Word-by-word analysis for each verse
+- Currently includes Surah Al-Fatihah and Juz Amma (Surahs 78-114)
+- Generate more with `npm run seed:analysis`
 
 ---
 
-## Production Deployment
+## Rebuilding quran.json
 
-### Option 1: Vercel (Simplest)
+If you need to modify translations or add new ones:
 
-1. Push to GitHub
-2. Connect repo to Vercel
-3. Set environment variables in Vercel dashboard
-4. Deploy
+1. Edit `scripts/build-quran-json.ts`
+2. Add new translation files to `public/data/`
+3. Update the `TRANSLATIONS` array in the script
+4. Run:
+   ```bash
+   npm run build:quran
+   ```
 
-Note: Analysis JSON files are committed to the repo, so they deploy automatically.
+---
 
-### Option 2: VPS
+## Generating Verse Analysis
+
+To generate word-by-word analysis for verses:
+
+### 1. Install Ollama
+```bash
+# macOS
+brew install ollama
+
+# Or download from https://ollama.ai
+```
+
+### 2. Pull a Model
+```bash
+# Recommended for best quality
+ollama pull qwen2.5:72b
+
+# Alternative (smaller, faster)
+ollama pull llama3.2
+```
+
+### 3. Configure Environment
+Create `.env` file:
+```bash
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_MODEL=qwen2.5:72b
+```
+
+### 4. Run Seed Script
+```bash
+npm run seed:analysis
+```
+
+The script:
+- Processes verses sequentially
+- Has resume support (skips already-generated files)
+- Creates files in `public/data/analysis/`
+- Uses format: `{surah}-{verse}.json` (e.g., `1-5.json`)
+
+---
+
+## Production Build
+
+### Static Export
+
+The app builds as a static site:
 
 ```bash
-# 1. Build
 npm run build
-
-# 2. Copy to server
-scp -r .next node_modules data prisma user@server:/app/qalam
-
-# 3. Run with PM2
-pm2 start npm --name qalam -- start
-
-# 4. Set up Nginx reverse proxy
-# 5. SSL with Let's Encrypt
 ```
 
-### Production LLM
+Output is in `./out` directory with all HTML, CSS, JS, and data files.
 
-**Option A: Self-hosted Ollama on VPS**
+### Cloudflare Pages Deployment
 
-```bash
-# On VPS with Docker
-docker run -d -v ollama:/root/.ollama -p 11434:11434 ollama/ollama
-docker exec -it <container> ollama pull llama2
+The app is configured for Cloudflare Pages:
+
+1. Connect your GitHub repository to Cloudflare Pages
+2. Build settings:
+   - Build command: `npm run build`
+   - Build output directory: `out`
+3. Deploy
+
+Configuration is in `wrangler.toml`:
+```toml
+name = "qalam"
+compatibility_date = "2024-12-24"
+
+[assets]
+directory = "./out"
 ```
 
-Set `LLM_API_URL` to your VPS address.
+### Alternative Deployments
 
-**Option B: OpenAI API**
+Since this is a static site, it can be deployed anywhere:
 
-```bash
-LLM_PROVIDER="openai"
-OPENAI_API_KEY="sk-..."
-```
+- **Vercel**: Connect repo, auto-detects Next.js
+- **Netlify**: Build command `npm run build`, publish `out`
+- **GitHub Pages**: Push `./out` contents to gh-pages branch
+- **Any static host**: Upload `./out` directory contents
 
 ---
 
 ## Troubleshooting
 
-### Database Issues
+### Analysis Generation Issues
 
+**Ollama not responding:**
 ```bash
-# Reset database
-rm prisma/qalam.db
-npm run db:push
+# Check Ollama is running
+curl http://localhost:11434/api/tags
+
+# If not running, start it
+ollama serve
 ```
 
-### Seed Script Failing
+**Model not found:**
+```bash
+# List available models
+ollama list
 
-- Check Ollama is running: `ollama list`
-- Check model is available: `ollama run llama2`
-- Check LLM_API_URL is correct
+# Pull the model
+ollama pull qwen2.5:72b
+```
 
-### LLM Returns Invalid JSON
+**Script stops mid-way:**
+Just run it again - it will resume from where it stopped.
 
-The seed script has retry logic. If a verse fails 3 times, it will throw an error. You can:
-1. Check the console for which verse failed
-2. Try a different model (e.g., `mistral`)
-3. Manually add the missing analysis
+### Build Issues
+
+**TypeScript errors:**
+```bash
+npm run lint
+```
+
+**Missing dependencies:**
+```bash
+rm -rf node_modules package-lock.json
+npm install
+```
+
+### Arabic Text Display Issues
+
+Ensure the Amiri font is loading. Check browser console for font errors.
+The font is loaded in `src/app/layout.tsx` via `next/font/google`.
+
+---
+
+## Development Notes
+
+- Path alias: `@/*` maps to `./src/*`
+- Arabic text uses `font-arabic` class
+- RTL text uses `dir="rtl"` attribute
+- All 114 surahs with 6,236 verses in quran.json
+- Analysis files are generated incrementally

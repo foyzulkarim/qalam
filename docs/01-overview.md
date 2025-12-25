@@ -1,15 +1,16 @@
 # Qalam: Project Overview
 
-**Version:** 2.0
+**Version:** 3.0
 **Last Updated:** December 2025
+**Live Site:** [versemadeeasy.com](https://versemadeeasy.com)
 
 ---
 
 ## What is Qalam?
 
-Qalam is a Quran comprehension learning app. Users practice translating Arabic verses, get AI feedback, and track their progress.
+Qalam is a Quran comprehension learning app. Users practice translating Arabic verses, get AI feedback, and explore word-by-word analysis. The app helps Muslims who can read Arabic script but don't understand the meaning develop transferable understanding of Arabic patterns, roots, and grammar.
 
-**Key Principle:** Keep it simple. This is a learning project, not a production system.
+**Key Principle:** Keep it simple. This is a stateless application with no user accounts or database—all data is served from static JSON files.
 
 ---
 
@@ -17,11 +18,13 @@ Qalam is a Quran comprehension learning app. Users practice translating Arabic v
 
 | Layer | Choice | Reason |
 |-------|--------|--------|
-| Framework | Next.js 14+ (App Router) | Single process, handles frontend + backend |
-| Database | SQLite + Prisma | No server to manage, great TypeScript support |
-| Auth | NextAuth.js v5 | Handles sessions, cookies, security |
-| Styling | Tailwind CSS | No CSS files to manage |
-| LLM | Ollama (local) | Used for seeding (analysis) and runtime (feedback) |
+| Framework | Next.js 16 (App Router, Static Export) | Fast, SEO-friendly, deploys anywhere |
+| Database | None (Stateless) | No user data to store, static JSON serves all content |
+| Auth | None | No accounts needed - start learning immediately |
+| Styling | Tailwind CSS | Utility-first, no CSS files to manage |
+| Fonts | Amiri (Arabic) | Beautiful Arabic text rendering |
+| LLM | Ollama (local) | Used for seeding analysis data only |
+| Deployment | Cloudflare Pages | Fast global CDN, free hosting |
 
 ---
 
@@ -29,125 +32,129 @@ Qalam is a Quran comprehension learning app. Users practice translating Arabic v
 
 ```
 qalam/
-├── app/
-│   ├── (public)/                 # No auth required
+├── src/
+│   ├── app/
 │   │   ├── page.tsx              # Landing page
-│   │   ├── login/page.tsx
-│   │   └── register/page.tsx
+│   │   ├── layout.tsx            # Root layout with fonts
+│   │   └── browse/
+│   │       ├── page.tsx          # Surah listing
+│   │       └── surah/
+│   │           ├── [id]/
+│   │           │   ├── page.tsx  # Surah detail with verse list
+│   │           │   └── [verse]/
+│   │           │       └── page.tsx  # Verse practice page
 │   │
-│   ├── (protected)/              # Auth required
-│   │   ├── layout.tsx            # Checks auth, redirects if not logged in
-│   │   ├── practice/page.tsx     # Main practice interface
-│   │   ├── progress/page.tsx     # View learning stats
-│   │   ├── browse/page.tsx       # Browse all surahs
-│   │   └── settings/page.tsx     # User settings
+│   ├── components/
+│   │   ├── ui/                   # Reusable UI components
+│   │   │   ├── Button.tsx
+│   │   │   ├── Card.tsx
+│   │   │   ├── Input.tsx
+│   │   │   ├── Alert.tsx
+│   │   │   └── Spinner.tsx
+│   │   ├── Navbar.tsx
+│   │   ├── VerseDisplay.tsx      # Arabic verse display
+│   │   └── FeedbackCard.tsx      # AI feedback display
 │   │
-│   ├── api/
-│   │   ├── auth/[...nextauth]/route.ts
-│   │   ├── surahs/route.ts
-│   │   ├── surahs/[id]/route.ts
-│   │   ├── evaluate/route.ts
-│   │   └── progress/route.ts
+│   ├── lib/
+│   │   └── data.ts               # Data fetching utilities
 │   │
-│   └── layout.tsx                # Root layout
+│   └── types/
+│       └── index.ts              # TypeScript definitions
 │
-├── components/
-│   ├── Navbar.tsx
-│   ├── VerseDisplay.tsx
-│   ├── PracticeForm.tsx
-│   ├── FeedbackCard.tsx
-│   ├── AnalysisView.tsx
-│   └── ProgressStats.tsx
+├── public/data/
+│   ├── quran.json                # Complete Quran (Arabic + translations)
+│   ├── surahs.json               # Surah metadata (114 surahs)
+│   ├── quran-simple.txt          # Source: Arabic text from Tanzil.net
+│   ├── en.sahih.txt              # Source: Sahih International translation
+│   ├── en.transliteration.txt    # Source: Transliteration
+│   └── analysis/                 # Word-by-word analysis (LLM-generated)
+│       ├── 1-1.json              # Analysis for Surah 1, Verse 1
+│       ├── 1-2.json
+│       └── ...
 │
-├── lib/
-│   ├── db.ts                     # Prisma client singleton
-│   ├── auth.ts                   # NextAuth configuration
-│   └── llm.ts                    # LLM API calls
-│
-├── data/
-│   ├── surahs/                   # Quran verse data (114 files + index)
-│   └── analysis/                 # Pre-computed verse analysis
-│
-├── prisma/schema.prisma
 ├── scripts/
-│   ├── fetch-quran-data.ts       # Downloads Quran data
-│   └── seed.ts                   # Generates verse analysis via LLM
+│   ├── build-quran-json.ts       # Builds quran.json from source files
+│   └── seed-analysis.ts          # Generates analysis via Ollama
 │
-└── .env.local
+├── docs/                         # Documentation
+├── next.config.js                # Next.js config (static export)
+├── wrangler.toml                 # Cloudflare Pages config
+└── tailwind.config.ts            # Tailwind with custom Islamic colors
 ```
 
 ---
 
 ## Data Flow
 
-### Before App Runs (One-Time)
+### Build Time (One-Time)
 
 ```
-npm run fetch-quran  →  Downloads Quran data to /data/surahs/
-npm run seed         →  Generates analysis via LLM to /data/analysis/
+npm run build:quran  →  Parses Tanzil.net source files → Creates quran.json
+npm run seed:analysis →  Sends verses to Ollama → Creates analysis/*.json files
 ```
 
 ### At Runtime
 
 ```
+User visits verse page
+    │
+    ├── Load verse from quran.json (Arabic + translations)
+    ├── Load pre-computed analysis from analysis/{surah}-{verse}.json
+    ├── Display Arabic text with word-by-word breakdown
+    │
 User submits translation attempt
     │
-    ├── Load pre-computed analysis from /data/analysis/
-    ├── Send to LLM: user input + analysis + correct translation
-    ├── LLM returns feedback (score + explanation)
-    ├── Save attempt to SQLite database
-    └── Display feedback + analysis to user
+    ├── (Future: Send to LLM API for evaluation)
+    └── Display feedback to user
 ```
+
+Note: Currently the app displays pre-computed analysis. Runtime LLM evaluation for user translations is planned for future versions.
 
 ---
 
 ## Core User Flow
 
-1. **Visit app** → Landing page with login/register
-2. **Log in** → Redirected to dashboard
-3. **Practice** → See verse, type translation, submit
-4. **Feedback** → Score, what you got right/wrong, teaching insight
-5. **Progress** → Track stats and history over time
+1. **Visit app** → Landing page with "Start Practice" or "Browse Surahs"
+2. **Browse surahs** → See all 114 surahs with metadata
+3. **Select surah** → View all verses in that surah
+4. **Practice verse** → See Arabic, attempt translation, view analysis
+5. **Explore words** → Word-by-word breakdown with roots and grammar
 
 ---
 
-## Implementation Phases
+## Key Features
 
-### Phase 1: Setup
-- Create Next.js project with Tailwind
-- Set up Prisma with SQLite
-- Configure NextAuth.js
-- Create basic layout and auth pages
+### Implemented
+- Complete Quran text (Arabic + Sahih International translation)
+- Surah browsing with metadata
+- Verse display with proper RTL Arabic rendering
+- Word-by-word analysis display (for seeded verses)
+- Mobile-responsive design
+- Static export for fast loading
 
-### Phase 2: Data
-- Fetch Quran JSON files
-- Create seed script for verse analysis
-- Create surah API routes
-- Create browse page
+### Planned
+- Runtime LLM evaluation of user translation attempts
+- Progress tracking (client-side, localStorage)
+- Audio recitation support
 
-### Phase 3: Practice (Core)
-- Create practice page UI
-- Set up runtime LLM integration
-- Create evaluation API route
-- Show feedback + analysis
+---
 
-### Phase 4: Progress
-- Create progress API routes
-- Build progress dashboard
-- Show attempt history and stats
+## Design System
 
-### Phase 5: Polish
-- Settings page
-- Error handling
-- Loading states
-- Mobile responsiveness
+| Element | Value |
+|---------|-------|
+| Primary Color | Teal (#14b8a6) - Islamic aesthetic |
+| Secondary Color | Gold (#f59e0b) - accents |
+| Arabic Font | Amiri with `font-arabic` class |
+| Arabic Sizing | Custom `text-arabic-*` classes |
+| RTL Support | `dir="rtl"` and `lang="ar"` attributes |
 
 ---
 
 ## Related Docs
 
-- [Database Schema](./02-database.md)
-- [API Routes](./03-api-routes.md)
+- [Database Schema](./02-database.md) - *Legacy, not used in current version*
+- [API Routes](./03-api-routes.md) - *Legacy, not used in current version*
 - [LLM Integration](./04-llm-integration.md)
 - [Security](./05-security.md)
 - [Setup Guide](./06-setup.md)
