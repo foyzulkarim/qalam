@@ -55,5 +55,9 @@ playwright/.cache/
 storybook-static/
 debug-storybook.log
 
+# Loki visual regression (reference folder is committed)
+.loki/current/
+.loki/difference/
+
 # Cloudflare
 .wrangler/

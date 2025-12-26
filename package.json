@@ -18,7 +18,10 @@
     "e2e": "playwright test",
     "e2e:ui": "playwright test --ui",
     "e2e:headed": "playwright test --headed",
-    "e2e:debug": "playwright test --debug"
+    "e2e:debug": "playwright test --debug",
+    "loki:test": "loki test",
+    "loki:update": "loki update",
+    "loki:ci": "loki --requireReference --reactUri file:./storybook-static"
   },
   "dependencies": {
     "clsx": "^2.1.0",
@@ -42,6 +45,7 @@
     "autoprefixer": "^10.4.17",
     "eslint": "^9.0.0",
     "eslint-config-next": "^16.1.1",
+    "loki": "^0.35.1",
     "postcss": "^8.4.35",
     "storybook": "^8.6.15",
     "tailwindcss": "^3.4.0",
@@ -54,5 +58,19 @@
     "extends": [
       "plugin:storybook/recommended"
     ]
+  },
+  "loki": {
+    "configurations": {
+      "chrome.laptop": {
+        "target": "chrome.docker",
+        "width": 1366,
+        "height": 768
+      },
+      "chrome.mobile": {
+        "target": "chrome.docker",
+        "width": 375,
+        "height": 667
+      }
+    }
   }
 }
