@@ -237,18 +237,18 @@ export async function generateStaticParams() {
 
 ## Execution Checklist
 
-- [ ] **Step 1:** Create migration script `scripts/migrate-analysis-to-dirs.ts`
-- [ ] **Step 1b:** Run migration with `--dry-run` to verify
-- [ ] **Step 1c:** Run migration for real
-- [ ] **Step 2:** Update `src/lib/data.ts` - `getVerseAnalysis()`
-- [ ] **Step 3a:** Update `scripts/seed-analysis.ts` - `getTempPaths()`
-- [ ] **Step 3b:** Update `scripts/seed-analysis.ts` - `processVerse()`
-- [ ] **Step 3c:** Update `scripts/seed-analysis.ts` - `updateManifest()`
-- [ ] **Step 4:** Update `src/app/browse/surah/[id]/[verse]/page.tsx`
-- [ ] **Test:** Run `npm run dev` and verify verse loading works
-- [ ] **Test:** Run `npm run build` and verify static generation works
-- [ ] **Commit:** Commit all changes
-- [ ] **Push:** Push to branch
+- [x] **Step 1:** Create migration script `scripts/migrate-analysis-to-dirs.ts`
+- [x] **Step 1b:** Run migration with `--dry-run` to verify
+- [x] **Step 1c:** Run migration for real
+- [x] **Step 2:** Update `src/lib/data.ts` - `getVerseAnalysis()`
+- [x] **Step 3a:** Update `scripts/seed-analysis.ts` - `getTempPaths()`
+- [x] **Step 3b:** Update `scripts/seed-analysis.ts` - `processVerse()`
+- [x] **Step 3c:** Update `scripts/seed-analysis.ts` - `updateManifest()`
+- [x] **Step 4:** Update `src/app/browse/surah/[id]/[verse]/page.tsx`
+- [x] **Test:** Run `npm run dev` and verify verse loading works
+- [x] **Test:** Run `npm run build` and verify static generation works
+- [x] **Commit:** Commit all changes
+- [x] **Push:** Push to branch
 
 ---
 
