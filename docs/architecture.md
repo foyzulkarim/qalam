@@ -82,10 +82,6 @@ Word-by-word linguistic analysis in `public/data/analysis/`:
 - Generated using LM Studio (Gemma3-27B) or Ollama
 - See [LLM Integration](./llm-integration.md) for details
 
-Currently includes:
-- Surah Al-Fatihah (1:1-7)
-- Juz Amma (Surahs 78-114)
-
 ## Data Flow
 
 ```

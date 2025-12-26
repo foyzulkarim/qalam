@@ -11,6 +11,14 @@ Technical documentation for the Qalam project.
 | [LLM Integration](./llm-integration.md) | How verse analysis is generated |
 | [Learning Philosophy](./learning-philosophy.md) | Pedagogical approach and design principles |
 
+## Assessment API (Worker)
+
+The translation assessment feature runs on a Cloudflare Worker with KV caching:
+
+| Document | Description |
+|----------|-------------|
+| [Worker README](../worker/README.md) | API reference, setup, and deployment |
+
 ## Analysis Generation
 
 Technical reference for the LLM analysis generation system:
@@ -21,9 +29,3 @@ Technical reference for the LLM analysis generation system:
 | [Base Prompt](./analysis-prompt-base.md) | Phase 1: Verse info and word list |
 | [Word Prompt](./analysis-prompt-word.md) | Phase 2: Detailed word analysis |
 | [Schema](./analysis-schema.json) | JSON schema for analysis output |
-
-## Sample Data
-
-| File | Description |
-|------|-------------|
-| [001.json](./001.json) | Sample analysis output for reference |
