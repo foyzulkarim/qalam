@@ -8,41 +8,29 @@ test.describe('Mobile Navigation', () => {
   })
 
   test('should show hamburger menu on mobile', async ({ page }) => {
-    // Mobile menu button should be visible (sr-only text)
-    const menuButton = page.locator('nav button.sm\\:hidden')
+    // Mobile menu button should be visible
+    const menuButton = page.locator('nav button').filter({ has: page.locator('.sr-only') })
     await expect(menuButton).toBeVisible()
   })
 
   test('should open mobile menu when hamburger clicked', async ({ page }) => {
     // Click hamburger menu
-    const menuButton = page.locator('nav button.sm\\:hidden')
+    const menuButton = page.locator('nav button').filter({ has: page.locator('.sr-only') })
     await menuButton.click()
 
-    // Mobile menu should appear - look for the mobile nav container
-    await expect(page.locator('.sm\\:hidden.border-t')).toBeVisible()
+    // Mobile menu should appear with Browse link
+    await expect(page.getByRole('link', { name: 'Browse' })).toBeVisible()
   })
 
   test('should navigate from mobile menu', async ({ page }) => {
     // Open mobile menu
-    const menuButton = page.locator('nav button.sm\\:hidden')
+    const menuButton = page.locator('nav button').filter({ has: page.locator('.sr-only') })
     await menuButton.click()
 
-    // Click Browse link in mobile menu (with trailing slash)
-    await page.locator('.sm\\:hidden.border-t a[href="/browse/"]').click()
+    // Click Browse link
+    await page.getByRole('link', { name: 'Browse' }).click()
 
-    await expect(page).toHaveURL(/\/browse\/?/)
-  })
-
-  test('should close mobile menu after navigation', async ({ page }) => {
-    // Open mobile menu
-    const menuButton = page.locator('nav button.sm\\:hidden')
-    await menuButton.click()
-
-    // Click a link (with trailing slash)
-    await page.locator('.sm\\:hidden.border-t a[href="/browse/"]').click()
-
-    // Menu should close (navigated to new page)
-    await expect(page).toHaveURL(/\/browse\/?/)
+    await expect(page).toHaveURL(/\/browse/)
   })
 })
 
@@ -52,8 +40,8 @@ test.describe('Tablet Navigation', () => {
   test('should show desktop navigation on tablet', async ({ page }) => {
     await page.goto('/')
 
-    // Desktop nav should be visible (with trailing slash)
-    await expect(page.locator('nav a[href="/browse/"]').first()).toBeVisible()
+    // Desktop nav should be visible
+    await expect(page.locator('nav').getByRole('link', { name: 'Browse' })).toBeVisible()
   })
 })
 
