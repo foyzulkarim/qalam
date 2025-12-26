@@ -1,0 +1,264 @@
+{
+  "verseId": "18:71",
+  "verse": {
+    "arabic": "فَانطَلَقَا حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا",
+    "transliteration": "Faintalaqa hatta itha rakiba fee alssafeenati kharaqaha qala akharaqtaha litughriqa ahlaha laqad jita shayan imran",
+    "surah": "Al-Kahf",
+    "verseNumber": 71
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَانطَلَقَا",
+      "transliteration": "fa-inṭalaqā",
+      "meaning": "so they set out/departed",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to depart, to go out, to release"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "انـ",
+          "meaning": "indicates immediate past action (particle)"
+        },
+        {
+          "arabic": "طلَقَا",
+          "meaning": "they departed/set out (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until/up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when/whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go around, to circle; to come upon; to encounter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَكِبَا",
+      "transliteration": "rakibā",
+      "meaning": "they rode/embarked",
+      "root": {
+        "letters": "ر-ك-ب",
+        "meaning": "to mount, ride, travel (generally)"
+      },
+      "components": [
+        {
+          "arabic": "رَكِب",
+          "meaning": "they rode/mounted"
+        },
+        {
+          "arabic": "ـَا",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be contained in, to dwell within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "السَّفِينَةِ",
+      "transliteration": "as-safīnah",
+      "meaning": "the ship",
+      "root": {
+        "letters": "س-ف-ن",
+        "meaning": "to be smooth, to travel by sea; ship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خَرَقَهَا",
+      "transliteration": "kharqahā",
+      "meaning": "he tore it open",
+      "root": {
+        "letters": "خ-ر-ق",
+        "meaning": "to tear, to split, to break open"
+      },
+      "components": [
+        {
+          "arabic": "خَرَقَ",
+          "meaning": "he tore, he split"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَخَرَقْتَهَا",
+      "transliteration": "akhraqthā",
+      "meaning": "did you tear it open?",
+      "root": {
+        "letters": "خ-ر-ق",
+        "meaning": "to tear, to puncture, to violate"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle indicating a question (interrogative)"
+        },
+        {
+          "arabic": "خَرَقْتَ",
+          "meaning": "you tore (masculine singular)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "the (feminine singular pronoun suffix, referring back to the object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِتُغْرِقَ",
+      "transliteration": "li-tughriqa",
+      "meaning": "to drown",
+      "root": {
+        "letters": "غ-ر-ق",
+        "meaning": "to submerge, to sink, to be overcome with water"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "تُغْرِقَ",
+          "meaning": "that it drowns/submerges (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَهْلَهَا",
+      "transliteration": "ahlahā",
+      "meaning": "its people/those within it",
+      "root": {
+        "letters": "أ-هـ-ل",
+        "meaning": "to incline towards, to be suitable for; family, household, people associated with a place"
+      },
+      "components": [
+        {
+          "arabic": "أَهْل",
+          "meaning": "people, family, inhabitants"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَقَدْ",
+      "transliteration": "la-qad",
+      "meaning": "[indeed/certainly]",
+      "root": {
+        "letters": "ق-د-ع",
+        "meaning": "to establish, to be firm, to be true"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "the emphatic particle (used for stressing)"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "certainly, indeed (derived from the root indicating firmness and truth)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "جِئْتَ",
+      "transliteration": "ji'ta",
+      "meaning": "you have come/done",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive, to occur"
+      },
+      "components": [
+        {
+          "arabic": "جِئ",
+          "meaning": "you came/have come (stem)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "second-person masculine singular suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "شَيْئًا",
+      "transliteration": "shay'an",
+      "meaning": "something/a thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be non-existent, to lack something; thinghood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "إِمْرًا",
+      "transliteration": "imran",
+      "meaning": "grave/serious/wondrous matter",
+      "root": {
+        "letters": "ع-م-ر",
+        "meaning": "to build, to live long, life"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-set-out until when they-rode in the-ship he-tore-it-open he-said did-you-tear-it-open to-drown its-people indeed you-have-done something [a] grave-matter"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
