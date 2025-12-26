@@ -1,0 +1,81 @@
+{
+  "verseId": "56:71",
+  "verse": {
+    "arabic": "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+    "transliteration": "Afaraaytumu alnnara allatee tooroona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 71
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَرَأَيْتُمُ",
+      "transliteration": "ʾafarāʾaytumū",
+      "meaning": "Have you then seen?",
+      "root": {
+        "letters": "ر-أ-ى",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "أَفَ",
+          "meaning": "particle of questioning, initiating a rhetorical question; signifies astonishment or challenge"
+        },
+        {
+          "arabic": "رَأَيْتُمُ",
+          "meaning": "you have seen (second person plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّارَ",
+      "transliteration": "an-nāra",
+      "meaning": "The fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "That which/The one which",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be near, to protect"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "relative pronoun suffix, feminine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُورُونَ",
+      "transliteration": "tūrūna",
+      "meaning": "You ignite/you kindle",
+      "root": {
+        "letters": "و-ر-ي",
+        "meaning": "to enter, to go in; to ignite, to kindle (related meaning)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-then seen the fire that which you ignite?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

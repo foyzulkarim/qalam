@@ -1,0 +1,156 @@
+{
+  "verseId": "18:72",
+  "verse": {
+    "arabic": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا",
+    "transliteration": "Qala alam aqul innaka lan tastateeAAa maAAiya sabran",
+    "surah": "Al-Kahf",
+    "verseNumber": 72
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did not?",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To know, to perceive, to become aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "Past negative particle, did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَقُلْ",
+      "transliteration": "ʾaqul",
+      "meaning": "I say?",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of questioning/interrogation"
+        },
+        {
+          "arabic": "قُلْ",
+          "meaning": "say!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّكَ",
+      "transliteration": "ʾinnaka",
+      "meaning": "Indeed you",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "To be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular, suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَن",
+      "transliteration": "lan",
+      "meaning": "Never",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "To refuse, to deny, to be unwilling"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَسْتَطِيعَ",
+      "transliteration": "tastaṭīʿa",
+      "meaning": "You will be able",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to submit willingly, to be able"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "سْتَ",
+          "meaning": "indicates capability or potential"
+        },
+        {
+          "arabic": "طِيعَ",
+          "meaning": "derived from the root ط-و-ع, relating to ability or power"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَعِيَ",
+      "transliteration": "maʿiya",
+      "meaning": "With me",
+      "root": {
+        "letters": "ع-ي-ي",
+        "meaning": "belonging to, possessing, with"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "يَ",
+          "meaning": "me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "صَبْرًا",
+      "transliteration": "ṣabran",
+      "meaning": "Patience",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "endurance, steadfastness, to bear with something difficult"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said Did-not I-say Indeed-you Never You-will-be-able With-me Patience"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

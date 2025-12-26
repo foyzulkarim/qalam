@@ -1,0 +1,57 @@
+{
+  "verseId": "56:78",
+  "verse": {
+    "arabic": "فِي كِتَابٍ مَّكْنُونٍ",
+    "transliteration": "Fee kitabin maknoonin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 78
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, on, at",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كِتَابٍ",
+      "transliteration": "kitābin",
+      "meaning": "book, writing, register",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّكْنُونٍ",
+      "transliteration": "maknūnin",
+      "meaning": "hidden, concealed, well-protected",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to conceal, to hide, to protect"
+      },
+      "components": [
+        {
+          "arabic": "مَكْنُون",
+          "meaning": "hidden, concealed; the passive participle indicating something that is hidden or protected."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-a book-[that is] hidden"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "verseId": "18:87",
+  "verse": {
+    "arabic": "قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِ فَيُعَذِّبُهُ عَذَابًا نُّكْرًا",
+    "transliteration": "Qala amma man thalama fasawfa nuAAaththibuhu thumma yuraddu ila rabbihi fayuAAaththibuhu AAathaban nukran",
+    "surah": "Al-Kahf",
+    "verseNumber": 87
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "As for, concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to desire, to undertake"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "Who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be obscure, hidden or to lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ظَلَمَ",
+      "transliteration": "ẓalama",
+      "meaning": "Wronged, oppressed",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَسَوْفَ",
+      "transliteration": "fasawfa",
+      "meaning": "Then surely, so will",
+      "root": {
+        "letters": "س-و-ف",
+        "meaning": "to intend, to will, to desire; future time"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "سَوْفَ",
+          "meaning": "will, surely; denotes future tense with emphasis"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نُعَذِّبُهُ",
+      "transliteration": "nuʿaḏḏibuhu",
+      "meaning": "We will punish him",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to torment, hardship"
+      },
+      "components": [
+        {
+          "arabic": "نُعَ",
+          "meaning": "We will (prefix indicating first person plural future tense)"
+        },
+        {
+          "arabic": "ذِّبُ",
+          "meaning": "to punish, torment (derived from the root)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (pronoun suffix, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "Then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; also implies time or sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُرَدُّ",
+      "transliteration": "yuraddu",
+      "meaning": "He will be returned",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to revert, to repel"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular, present/future tense)"
+        },
+        {
+          "arabic": "رَدَّ",
+          "meaning": "to return (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "To, unto",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "To incline, tend towards; to return to a place or state."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "His Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَيُعَذِّبُهُ",
+      "transliteration": "fayuaʿaḏḏibuhu",
+      "meaning": "Then He will punish him",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; to be hard or severe"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "يُعَذِّبُ",
+          "meaning": "He punishes (active voice, imperfect tense)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَذَابًا",
+      "transliteration": "ʿaḏāban",
+      "meaning": "Punishment, a punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "To punish, to inflict pain; bitterness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "نُّكْرًا",
+      "transliteration": "nukran",
+      "meaning": "Severe, terrible",
+      "root": {
+        "letters": "ن-ك-ر",
+        "meaning": "To be unknown, hidden; to deny or disbelieve; to lack gratitude"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said - As-for - Who - Wronged - Then-surely - We-will-punish-him - Then - He-will-be-returned - To - His-Lord - Then-He-will-punish-him - Punishment - Terrible"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

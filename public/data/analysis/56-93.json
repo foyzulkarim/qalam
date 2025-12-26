@@ -1,0 +1,61 @@
+{
+  "verseId": "56:93",
+  "verse": {
+    "arabic": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+    "transliteration": "Fanuzulun min hameemin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 93
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَنُزُلٌ",
+      "transliteration": "fa-nuzulun",
+      "meaning": "then an accommodation/lodging/place of descent",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down, to alight"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "نُزُلٌ",
+          "meaning": "accommodation, lodging, place of descent (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, restrain, or originate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَمِيمٍ",
+      "transliteration": "ḥamīmin",
+      "meaning": "scalding water/hot water",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, commendation; heat, intensity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-an accommodation - from - scalding water"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

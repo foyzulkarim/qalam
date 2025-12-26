@@ -1,0 +1,50 @@
+{
+  "verseId": "56:29",
+  "verse": {
+    "arabic": "وَطَلْحٍ مَّنضُودٍ",
+    "transliteration": "Watalhin mandoodin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَطَلْحٍ",
+      "transliteration": "wa-ṭalḥin",
+      "meaning": "and a banana tree (or date palm)",
+      "root": {
+        "letters": "ط-ل-ح",
+        "meaning": "softness, tenderness; to be green and fresh; a young shoot or plant"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "طَلْحٍ",
+          "meaning": "banana tree (or date palm), in the genitive case indicating possession or association. Derived from the root denoting a green, fresh tree."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّنضُودٍ",
+      "transliteration": "manḍūdin",
+      "meaning": "layered, piled up (with fruit)",
+      "root": {
+        "letters": "ن-ض-د",
+        "meaning": "to arrange, to set in order, to layer"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-[banana tree]-layered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

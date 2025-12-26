@@ -1,0 +1,101 @@
+{
+  "verseId": "56:64",
+  "verse": {
+    "arabic": "أَأَنتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+    "transliteration": "Aantum tazraAAoonahu am nahnu alzzariAAoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 64
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَأَنتُمْ",
+      "transliteration": "ʾaʾantum",
+      "meaning": "Are you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle (indicating a question)"
+        },
+        {
+          "arabic": "أَنْتُمْ",
+          "meaning": "you (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَزْرَعُونَهُ",
+      "transliteration": "tazraʿūnahu",
+      "meaning": "You cultivate it/grow it",
+      "root": {
+        "letters": "ز-ر-ع",
+        "meaning": "to sow, to plant, to cultivate"
+      },
+      "components": [
+        {
+          "arabic": "تَزْرَعُ",
+          "meaning": "You cultivate/grow (verb, present tense)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun, object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-م",
+        "meaning": "to intend, to desire; also doubt or uncertainty (related to separation/division)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to incline, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الزَّارِعُونَ",
+      "transliteration": "al-zāriʿūna",
+      "meaning": "The growers/planters",
+      "root": {
+        "letters": "ز-ر-ع",
+        "meaning": "to cultivate, to plant, to grow"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "زَارِعُونَ",
+          "meaning": "growers, planters (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Are-you [plural] cultivate-it/grow-it or We the-growers/planters"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

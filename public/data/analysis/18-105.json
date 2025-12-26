@@ -1,0 +1,280 @@
+{
+  "verseId": "18:105",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا",
+    "transliteration": "Olaika allatheena kafaroo biayati rabbihim waliqaihi fahabitat aAAmaluhum fala nuqeemu lahum yawma alqiyamati waznan",
+    "surah": "Al-Kahf",
+    "verseNumber": 105
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to begin, to come first; the initial part of something"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (masculine plural demonstrative prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Suffix indicating masculine plural, remote (distant)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Who (relative pronoun)",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "Who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "They disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, reject faith"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group or collective (they)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "from the root كَفَرَ (to disbelieve); they disbelieved"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِآيَاتِ",
+      "transliteration": "bi-ʾāyāti",
+      "meaning": "In the verses of",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "Signs; Verses; Proofs"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "In; With; By means of"
+        },
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "Verses (genitive plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "Their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلِقَائِهِ",
+      "transliteration": "wa-liqāʾi-hi",
+      "meaning": "And in [their] meeting Him",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "To meet, encounter, or rendezvous. Also implies fulfilling a promise or obligation."
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And (conjunction)"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "To, for (preposition)"
+        },
+        {
+          "arabic": "قَاء",
+          "meaning": "Meeting"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَحَبِطَتْ",
+      "transliteration": "fa-ḥabiṭat",
+      "meaning": "So became worthless/futile",
+      "root": {
+        "letters": "ح-ب-ط",
+        "meaning": "to descend, to fall; to be ruined or frustrated"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "حَبِطَتْ",
+          "meaning": "it became worthless/futile (feminine singular past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَعْمَالُهُمْ",
+      "transliteration": "ʾaʿmālu-hum",
+      "meaning": "Their deeds",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "To perform, to do, work"
+      },
+      "components": [
+        {
+          "arabic": "أَعْمَالُ",
+          "meaning": "Deeds (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "Their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "So not/and We do not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, negation or impossibility"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (consecutive particle)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "Not, do not, negation particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "نُقِيمُ",
+      "transliteration": "nuqīmu",
+      "meaning": "We establish/assign",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to establish"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "قِيمُ",
+          "meaning": "to establish, to set up"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to have; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "On the Day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "Day; to pass, elapse (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmah",
+      "meaning": "The Resurrection",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, rise; to establish, perform"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَزْنًا",
+      "transliteration": "wa-waznan",
+      "meaning": "And [any] weight/importance",
+      "root": {
+        "letters": "و-ز-ن",
+        "meaning": "to weigh, measure; to be just, equitable"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-those who disbelieved in verses of their Lord -and in [their] meeting Him, so became worthless/futile their deeds -so not we establish for them on day of the Resurrection weight/importance."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

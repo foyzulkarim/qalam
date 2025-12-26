@@ -1,0 +1,121 @@
+{
+  "verseId": "56:72",
+  "verse": {
+    "arabic": "أَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنشِئُونَ",
+    "transliteration": "Aantum anshatum shajarataha am nahnu almunshioona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 72
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَأَنتُمْ",
+      "transliteration": "ʾaʾantum",
+      "meaning": "Are you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be (exist), you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle (indicating a question)"
+        },
+        {
+          "arabic": "أَنْتُمْ",
+          "meaning": "you (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنشَأْتُمْ",
+      "transliteration": "ʾanšaʾtum",
+      "meaning": "Did you originate/produce",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to create, originate, produce"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to/did you"
+        },
+        {
+          "arabic": "شَأْتُمْ",
+          "meaning": "you originate/create (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَجَرَتَهَا",
+      "transliteration": "šajaratahā",
+      "meaning": "Its tree (tree of it)",
+      "root": {
+        "letters": "ش-ج-ر",
+        "meaning": "to grow, to be abundant; tree"
+      },
+      "components": [
+        {
+          "arabic": "شَجَرَة",
+          "meaning": "tree"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-م",
+        "meaning": "to desire, to wish, to incline toward"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, incline towards, or be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمُنشِئُونَ",
+      "transliteration": "al-munšiʾūna",
+      "meaning": "The producers/originators",
+      "root": {
+        "letters": "ش-ن-أ",
+        "meaning": "to create, originate, produce"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُنْشِئُونَ",
+          "meaning": "producers, originators (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Are-you [pl.] originated-it its-tree or We the-producers?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "verseId": "55:54",
+  "verse": {
+    "arabic": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+    "transliteration": "Muttakieena AAala furushin batainuha min istabraqin wajana aljannatayni danin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 54
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مُتَّكِئِينَ",
+      "transliteration": "muttaʾkīʾīn",
+      "meaning": "reclining, leaning",
+      "root": {
+        "letters": "ك-ي-أ",
+        "meaning": "to be in a state of rest, to lean, to repose"
+      },
+      "components": [
+        {
+          "arabic": "مُتَـ",
+          "meaning": "prefix indicating passive voice or a state resulting from an action"
+        },
+        {
+          "arabic": "ـكِئِينَ",
+          "meaning": "form related to the root ك-ي-أ, indicating plurality of masculine agents in a state of reclining"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فُرُشٍ",
+      "transliteration": "furušin",
+      "meaning": "beds, cushions",
+      "root": {
+        "letters": "ف-ر-ش",
+        "meaning": "to spread out, to lay down; to furnish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَطَائِنُهَا",
+      "transliteration": "baṭāʾinuhā",
+      "meaning": "their linings, their inner layers",
+      "root": {
+        "letters": "ب-ط-ن",
+        "meaning": "to hide, inner side, abdomen"
+      },
+      "components": [
+        {
+          "arabic": "بَطَائِنُ",
+          "meaning": "inner layers, linings (plural)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her/its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "of, from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to originate, to come from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِسْتَبْرَقٍ",
+      "transliteration": "ʾistabraqin",
+      "meaning": "silk brocade, fine silk",
+      "root": {
+        "letters": "ب-ر-ق",
+        "meaning": "shine, gleam; to flash (lightning); brilliance"
+      },
+      "components": [
+        {
+          "arabic": "إِسْتَ",
+          "meaning": "intensive prefix indicating seeking or acquiring extensively"
+        },
+        {
+          "arabic": "بَرَقَ",
+          "meaning": "to shine, gleam; to flash (lightning)"
+        },
+        {
+          "arabic": "قٍ",
+          "meaning": "nisba suffix indicating belonging to or having the quality of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَجَنَى",
+      "transliteration": "wajannā",
+      "meaning": "and the fruit of, and harvest of",
+      "root": {
+        "letters": "ج-ن-ي",
+        "meaning": "to gather, to collect, to harvest; also includes the sense of hidden or unseen things (due to the association with jinn)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْجَنَّتَيْنِ",
+      "transliteration": "al-jannatayni",
+      "meaning": "the two gardens",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, garden (as a hidden/covered place)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَنَّتَيْنِ",
+          "meaning": "two gardens (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "دَانٍ",
+      "transliteration": "dānin",
+      "meaning": "hanging low, close at hand",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, to draw near, humility"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "reclining-ones upon beds their-linings of silk-brocade and-fruit of the-two-gardens hanging-low"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

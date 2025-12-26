@@ -1,0 +1,542 @@
+{
+  "verseId": "18:17",
+  "verse": {
+    "arabic": "وَتَرَى الشَّمْسَ إِذَا طَلَعَت تَّزَاوَرُ عَن كَهْفِهِمْ ذَاتَ الْيَمِينِ وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ فِي فَجْوَةٍ مِّنْهُ ۚ ذَٰلِكَ مِنْ آيَاتِ اللَّهِ ۗ مَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُ وَلِيًّا مُّرْشِدًا",
+    "transliteration": "Watara alshshamsa itha talaAAat tazawaru AAan kahfihim thata alyameeni waitha gharabat taqriduhum thata alshshimali wahum fee fajwatin minhu thalika min ayati Allahi man yahdi Allahu fahuwa almuhtadi waman yudlil falan tajida lahu waliyyan murshidan",
+    "surah": "Al-Kahf",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَى",
+      "transliteration": "tarā",
+      "meaning": "you see",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to observe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الشَّمْسَ",
+      "transliteration": "ash-shamsa",
+      "meaning": "the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to go, to travel; intensity, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when/whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to take, to seize, to possess; also time, occasion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "طَلَعَت",
+      "transliteration": "ṭalaʿat",
+      "meaning": "it rose",
+      "root": {
+        "letters": "ط-ل-ع",
+        "meaning": "to rise, to appear, to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَّزَاوَرُ",
+      "transliteration": "tazāwaru",
+      "meaning": "it inclines/deviates",
+      "root": {
+        "letters": "ز-و-ر",
+        "meaning": "to visit, to incline, to deviate"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a form IV verb (mutual/reciprocal action)"
+        },
+        {
+          "arabic": "زَاوَرَ",
+          "meaning": "to visit, to incline/deviate (form IV verb)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanwīn al-fatḥ (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "from/about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert; to be away from something, to abstain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَهْفِهِمْ",
+      "transliteration": "kahfihim",
+      "meaning": "their cave",
+      "root": {
+        "letters": "ك-هـ-ف",
+        "meaning": "to shelter, to protect; cave, hollow"
+      },
+      "components": [
+        {
+          "arabic": "كهف",
+          "meaning": "cave, cavern"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "their (masculine plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ذَاتَ",
+      "transliteration": "dhāta",
+      "meaning": "possessing/having",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْيَمِينِ",
+      "transliteration": "al-yamīn",
+      "meaning": "the right side",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "strength, rightness, auspiciousness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when/whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to perceive, to become aware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "غَرَبَت",
+      "transliteration": "gharabat",
+      "meaning": "it set",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to go down, to set (sun), to hide, to become obscure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَّقْرِضُهُمْ",
+      "transliteration": "taqriḍuhum",
+      "meaning": "it passes away from them/cuts them off",
+      "root": {
+        "letters": "ق-ر-ض",
+        "meaning": "to lend, to cut short, to diminish"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine singular present tense"
+        },
+        {
+          "arabic": "قَرَّضَ",
+          "meaning": "to lend, to cut short; the root verb in the past tense form"
+        },
+        {
+          "arabic": "ـُهُمْ",
+          "meaning": "them (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ذَاتَ",
+      "transliteration": "dhāta",
+      "meaning": "possessing/having",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الشِّمَالِ",
+      "transliteration": "ash-shimāl",
+      "meaning": "the left side",
+      "root": {
+        "letters": "ش-م-ل",
+        "meaning": "to be on the left, inclination towards something, weakness (in strength)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "هـ-م-و",
+        "meaning": "belonging to, possessing, having"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into, to be in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فَجْوَةٍ",
+      "transliteration": "fajwatin",
+      "meaning": "an open space/hollow",
+      "root": {
+        "letters": "ج-و-ف",
+        "meaning": "to be hollow, to contain emptiness; inner part"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِّنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that/this",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun, masculine singular)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix pronoun - 'your' (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin/source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "آيَاتِ",
+      "transliteration": "āyāti",
+      "meaning": "signs (of)",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, evidence, miracle"
+      },
+      "components": [
+        {
+          "arabic": "آي",
+          "meaning": "signs"
+        },
+        {
+          "arabic": "ـاتِ",
+          "meaning": "feminine plural marker with genitive case ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; belonging to, from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "يَهْدِ",
+      "transliteration": "yahdi",
+      "meaning": "guides",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "present tense marker, he/she/it does"
+        },
+        {
+          "arabic": "هَدِ",
+          "meaning": "guiding, showing the way (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "فَهُوَ",
+      "transliteration": "fa huwa",
+      "meaning": "then he is",
+      "root": {
+        "letters": "ه-و-أ",
+        "meaning": "to be, exist; he/it is"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he is, it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "الْمُهْتَدِ",
+      "transliteration": "al-muhtadī",
+      "meaning": "the rightly guided one",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُهْتَدِ",
+          "meaning": "rightly guided (passive participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; belonging to a class or category"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "يُضْلِلْ",
+      "transliteration": "yuḍill",
+      "meaning": "He leads astray",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to err, to misguide"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun prefix, indicating the third person)"
+        },
+        {
+          "arabic": "ضِلْ",
+          "meaning": "to go astray, to misguide (verbal noun/form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "فَلَن",
+      "transliteration": "fa lan",
+      "meaning": "then never",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish, to intend; negation of future action"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "will not, never (future negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "تَجِدَ",
+      "transliteration": "tajida",
+      "meaning": "you find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to seek, to find, to strive for"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "جِدَ",
+          "meaning": "to find, to discover"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "وَلِيًّا",
+      "transliteration": "waliyyan",
+      "meaning": "a protector/friend",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be near, to govern, to possess; generally related to authority or closeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "مُّرْشِدًا",
+      "transliteration": "murshidan",
+      "meaning": "a guide",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to guide, to lead correctly, maturity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you see the-sun when it rose inclines-away from their cave possessing the right and when it set passes-away from them possessing the left and they in an open space from it that from signs of Allah whoever guides Allah then he is the-rightly guided one and whoever He leads astray then never you find for him a protector friend guiding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

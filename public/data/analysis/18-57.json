@@ -1,0 +1,567 @@
+{
+  "verseId": "18:57",
+  "verse": {
+    "arabic": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِآيَاتِ رَبِّهِ فَأَعْرَضَ عَنْهَا وَنَسِيَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۖ وَإِن تَدْعُهُمْ إِلَى الْهُدَىٰ فَلَن يَهْتَدُوا إِذًا أَبَدًا",
+    "transliteration": "Waman athlamu mimman thukkira biayati rabbihi faaAArada AAanha wanasiya ma qaddamat yadahu inna jaAAalna AAala quloobihim akinnatan an yafqahoohu wafee athanihim waqran wain tadAAuhum ila alhuda falan yahtadoo ithan abadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 57
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَنْ",
+      "transliteration": "wa man",
+      "meaning": "and who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also related to questioning and indication"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَظْلَمُ",
+      "transliteration": "aẓlamu",
+      "meaning": "more unjust",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more (superlative prefix)"
+        },
+        {
+          "arabic": "ظَلَمُ",
+          "meaning": "injustice, wrongdoing (noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِمَّن",
+      "transliteration": "mim man",
+      "meaning": "than who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, origin, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذُكِّرَ",
+      "transliteration": "dhukkira",
+      "meaning": "was reminded",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "ذُكِّرَ",
+          "meaning": "was reminded (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِآيَاتِ",
+      "transliteration": "bi āyāti",
+      "meaning": "with the verses of",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, proof"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "verses (genitive plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, Master (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَأَعْرَضَ",
+      "transliteration": "fa aʿraḍa",
+      "meaning": "so turned away",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to show, to turn away from"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَـ",
+          "meaning": "prefix indicating emphasis or completion of action"
+        },
+        {
+          "arabic": "عَرَضَ",
+          "meaning": "turned away, declined, rejected"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَنْهَا",
+      "transliteration": "ʿanhā",
+      "meaning": "from them",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to deviate, to turn away from, to be distant from"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/them (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَنَسِيَ",
+      "transliteration": "wa nasīa",
+      "meaning": "and forgot",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be absent-minded, obliteration"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or something existing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "قَدَّمَتْ",
+      "transliteration": "qaddamat",
+      "meaning": "put forth",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to step forward, to advance, to present"
+      },
+      "components": [
+        {
+          "arabic": "قَدَّمَ",
+          "meaning": "to put forth, to advance (basic form)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَدَاهُ",
+      "transliteration": "yadāhu",
+      "meaning": "his hands",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; also to reach, to extend (the hand)"
+      },
+      "components": [
+        {
+          "arabic": "يَدَ",
+          "meaning": "hand(s)"
+        },
+        {
+          "arabic": "اهُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "Indeed we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist, happen"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "جَعَلْنَا",
+      "transliteration": "jaʿalnā",
+      "meaning": "have placed",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "to place, to make"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above; ascendancy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قُلُوبِهِمْ",
+      "transliteration": "qulūbihim",
+      "meaning": "their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change; the heart as an organ of changing and turning"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural)"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَكِنَّةً",
+      "transliteration": "akinnah",
+      "meaning": "coverings",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to conceal, to hide, to cover"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/lest",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "يَفْقَهُوهُ",
+      "transliteration": "yafquhūhu",
+      "meaning": "they understand it",
+      "root": {
+        "letters": "ف-ق-ه",
+        "meaning": "to understand, to comprehend; be skilled in jurisprudence"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person plural (we) or third person plural (they)"
+        },
+        {
+          "arabic": "فَقَهُ",
+          "meaning": "to understand, to comprehend"
+        },
+        {
+          "arabic": "وهُ",
+          "meaning": "him/it (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَفِي",
+      "transliteration": "wa fī",
+      "meaning": "and in",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into, to be contained in"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "آذَانِهِمْ",
+      "transliteration": "ādānihim",
+      "meaning": "their ears",
+      "root": {
+        "letters": "أ-د-ن",
+        "meaning": "to incline, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "آدَان",
+          "meaning": "ears (plural)"
+        },
+        {
+          "arabic": "ـهِمْ",
+          "meaning": "their (masculine plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَقْرًا",
+      "transliteration": "waqrān",
+      "meaning": "deafness",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "heaviness, weight; difficulty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۖ",
+      "transliteration": "āyah",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَإِن",
+      "transliteration": "wa in",
+      "meaning": "and if",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "تَدْعُهُمْ",
+      "transliteration": "tadʿuhum",
+      "meaning": "you invite them",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the present tense, 'you (plural)'"
+        },
+        {
+          "arabic": "دُعْ",
+          "meaning": "the verb 'to invite' in the present stem"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to incline towards, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "الْهُدَىٰ",
+      "transliteration": "al-hudā",
+      "meaning": "the guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way, direction"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هُدَىٰ",
+          "meaning": "guidance (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "فَلَن",
+      "transliteration": "fa lan",
+      "meaning": "then they will not",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish, to be willing"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "will not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "يَهْتَدُوا",
+      "transliteration": "yahtadū",
+      "meaning": "be guided",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person plural active present tense"
+        },
+        {
+          "arabic": "هْتَدُوا",
+          "meaning": "they are guided (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "إِذًا",
+      "transliteration": "idhān",
+      "meaning": "then/ever",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to depart; to be lost or perish; to melt (of time)"
+      },
+      "components": [
+        {
+          "arabic": "إِذْ",
+          "meaning": "then, at that time; when"
+        },
+        {
+          "arabic": "-ن",
+          "meaning": "indicates emphasis or confirmation; a particle of consequence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "أَبَدًا",
+      "transliteration": "abadān",
+      "meaning": "ever/never",
+      "root": {
+        "letters": "أ-ب-د",
+        "meaning": "to perish, to be destroyed; permanence, eternity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and who - more unjust - than who - was reminded - with the verses of - his Lord - so turned away - from them - and forgot - what - put forth - his hands - Indeed we - have placed - upon - their hearts - coverings - that/lest - they understand it - and in - their ears - deafness - And if - you invite them - to - the guidance - then they will not - be guided - then/ever - never."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

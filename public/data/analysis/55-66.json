@@ -1,0 +1,70 @@
+{
+  "verseId": "55:66",
+  "verse": {
+    "arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+    "transliteration": "Feehima AAaynani naddakhatani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 66
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهِمَا",
+      "transliteration": "fīhimā",
+      "meaning": "in them (dual)",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to be in, to contain, to possess"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَيْنَانِ",
+      "transliteration": "ʿaynānī",
+      "meaning": "two springs",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye, source, spring"
+      },
+      "components": [
+        {
+          "arabic": "عَيْن",
+          "meaning": "spring, eye, source"
+        },
+        {
+          "arabic": "َانِ",
+          "meaning": "dual ending, indicates two springs"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَضَّاخَتَانِ",
+      "transliteration": "naḍḍāḥatānī",
+      "meaning": "spouting (dual)",
+      "root": {
+        "letters": "ن-ض-خ",
+        "meaning": "to gush forth, to spout, to emit fluid"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-them(dual) two springs spouting(dual)"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

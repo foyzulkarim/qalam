@@ -1,0 +1,94 @@
+{
+  "verseId": "55:11",
+  "verse": {
+    "arabic": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+    "transliteration": "Feeha fakihatun waalnnakhlu thatu alakmami",
+    "surah": "Ar-Rahman",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it (feminine)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to reside"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَاكِهَةٌ",
+      "transliteration": "fākihatun",
+      "meaning": "fruit",
+      "root": {
+        "letters": "ف-ك-ه",
+        "meaning": "to ripen, to be sweet; abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّخْلُ",
+      "transliteration": "an-nakhlُ",
+      "meaning": "the palm trees",
+      "root": {
+        "letters": "ن-خ-ل",
+        "meaning": "to grow, to be soft/tender (of date palms)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ذَاتُ",
+      "transliteration": "dhātu",
+      "meaning": "possessing, having",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "possession, having, attribute"
+      },
+      "components": [
+        {
+          "arabic": "ذَات",
+          "meaning": "possession, attribute; the feminine form indicating belonging or essence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأَكْمَامِ",
+      "transliteration": "al-akmāmi",
+      "meaning": "the sheaths/covers",
+      "root": {
+        "letters": "ك-م-م",
+        "meaning": "to conceal, hide, cover"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-it fruit and-the palm-trees possessing the-sheaths"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

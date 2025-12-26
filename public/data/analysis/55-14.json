@@ -1,0 +1,83 @@
+{
+  "verseId": "55:14",
+  "verse": {
+    "arabic": "خَلَقَ الْإِنسَانَ مِن صَلْصَالٍ كَالْفَخَّارِ",
+    "transliteration": "Khalaqa alinsana min salsalin kaalfakhkhari",
+    "surah": "Ar-Rahman",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "He created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "the human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be weak, frail; to forget; to associate with others"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease; separation, removal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَلْصَالٍ",
+      "transliteration": "ṣalṣālin",
+      "meaning": "clay, mud",
+      "root": {
+        "letters": "س-ل-ص",
+        "meaning": "to be smooth, to melt, to refine; related to sound and resonance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَالْفَخَّارِ",
+      "transliteration": "ka-l-fakkhāri",
+      "meaning": "like the pottery",
+      "root": {
+        "letters": "ف-خ-ر",
+        "meaning": "to be proud, boast; excellence, skill"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الْفَخَّارِ",
+          "meaning": "the pottery"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-created the-human-being from clay like-the-pottery"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

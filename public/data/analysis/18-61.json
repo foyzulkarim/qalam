@@ -1,0 +1,189 @@
+{
+  "verseId": "18:61",
+  "verse": {
+    "arabic": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ سَرَبًا",
+    "transliteration": "Falamma balagha majmaAAa baynihima nasiya hootahuma faittakhatha sabeelahu fee albahri saraban",
+    "surah": "Al-Kahf",
+    "verseNumber": 61
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَمَّا",
+      "transliteration": "fa-lammā",
+      "meaning": "so when, then when",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to wish"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, after"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَلَغَا",
+      "transliteration": "balaḡā",
+      "meaning": "they reached",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, be sufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَجْمَعَ",
+      "transliteration": "majmaʿa",
+      "meaning": "meeting place, junction",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, gather"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَيْنِهِمَا",
+      "transliteration": "baynahumā",
+      "meaning": "between them (dual)",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, interval"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَسِيَا",
+      "transliteration": "nasiyā",
+      "meaning": "they forgot",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be heedless"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حُوتَهُمَا",
+      "transliteration": "ḥūta-humā",
+      "meaning": "their fish (dual)",
+      "root": {
+        "letters": "ح-و-ت",
+        "meaning": "to encompass, to surround; fish (as something encompassing water)"
+      },
+      "components": [
+        {
+          "arabic": "حُوت",
+          "meaning": "fish"
+        },
+        {
+          "arabic": "-هُمَا",
+          "meaning": "their (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَاتَّخَذَ",
+      "transliteration": "fa-ittakhadha",
+      "meaning": "so it took, then it chose",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to possess, to choose"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "اِتَّ",
+          "meaning": "intensive, reflexive prefix"
+        },
+        {
+          "arabic": "تَخَذَ",
+          "meaning": "to take, to choose (from root خ-ذ-ا)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "سَبِيلَهُ",
+      "transliteration": "sabīlahu",
+      "meaning": "its way, its path",
+      "root": {
+        "letters": "س-ب-ل",
+        "meaning": "to go, to proceed; a way, a path"
+      },
+      "components": [
+        {
+          "arabic": "سَبِيل",
+          "meaning": "way, path"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "its (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْبَحْرِ",
+      "transliteration": "al-baḥr",
+      "meaning": "the sea",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to surround, to cover; vastness, expanse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "سَرَبًا",
+      "transliteration": "saraban",
+      "meaning": "slipping away, a swift course",
+      "root": {
+        "letters": "س-ر-ب",
+        "meaning": "to flow, to spread, to pour forth"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-when they-reached meeting-place between-them then-they-forgot their-fish so-it-took its-way in the-sea slipping-away"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

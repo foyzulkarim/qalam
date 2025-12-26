@@ -1,0 +1,101 @@
+{
+  "verseId": "55:46",
+  "verse": {
+    "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+    "transliteration": "Waliman khafa maqama rabbihi jannatani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلِمَنْ",
+      "transliteration": "wa li-man",
+      "meaning": "and to whom/for whoever",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to be withheld, to prevent, to possess (in the sense of being entitled to something)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَافَ",
+      "transliteration": "khāfa",
+      "meaning": "he feared",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَقَامَ",
+      "transliteration": "maqāma",
+      "meaning": "position/standing place",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, rise, station"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "of his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَنَّتَانِ",
+      "transliteration": "jannatāni",
+      "meaning": "two gardens",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also relates to the lushness and abundance of vegetation"
+      },
+      "components": [
+        {
+          "arabic": "جَنَّتَانِ",
+          "meaning": "two gardens, dual form indicating a pair of paradisiacal or beautiful gardens"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-to whom/for whoever he-feared position-of his-Lord two-gardens"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

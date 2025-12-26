@@ -1,0 +1,129 @@
+{
+  "verseId": "18:41",
+  "verse": {
+    "arabic": "أَوْ يُصْبِحَ مَاؤُهَا غَوْرًا فَلَن تَسْتَطِيعَ لَهُ طَلَبًا",
+    "transliteration": "Aw yusbiha maoha ghawran falan tastateeAAa lahu talaban",
+    "surah": "Al-Kahf",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, alternation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُصْبِحَ",
+      "transliteration": "yuṣbiḥa",
+      "meaning": "become, be (in the morning)",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "brightness, clarity; to become bright, dawn"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates future tense/subjunctive mood, or part of the jussive form"
+        },
+        {
+          "arabic": "صَبَحَ",
+          "meaning": "to become morning, to dawn"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَاؤُهَا",
+      "transliteration": "māʾuhā",
+      "meaning": "its water"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "غَوْرًا",
+      "transliteration": "ghawran",
+      "meaning": "sunken, disappearing (water)",
+      "root": {
+        "letters": "غ-و-ر",
+        "meaning": "to sink, to disappear; depth, hiddenness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَلَن",
+      "transliteration": "fa-lan",
+      "meaning": "so, then not",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to will, to wish; to be averse to or reject"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "not, will not (negative future particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَسْتَطِيعَ",
+      "transliteration": "tastaṭīʿa",
+      "meaning": "be able to, can",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey willingly, to be pliable or submissive"
+      },
+      "components": [
+        {
+          "arabic": "تَسْتَ",
+          "meaning": "prefix indicating seeking capability or attempting to do something"
+        },
+        {
+          "arabic": "طِيعَ",
+          "meaning": "to be able, to comply (from the root ط-و-ع)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for it, to it",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "طَلَبًا",
+      "transliteration": "ṭalaban",
+      "meaning": "seeking, search",
+      "root": {
+        "letters": "ط-ل-ب",
+        "meaning": "to seek, to request, to pursue"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-become-its-water sunken-so-not-be-able-to-for-it-seeking"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

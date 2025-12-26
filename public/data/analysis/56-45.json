@@ -1,0 +1,114 @@
+{
+  "verseId": "56:45",
+  "verse": {
+    "arabic": "إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+    "transliteration": "Innahum kanoo qabla thalika mutrafeena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 45
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "ʾinnahum",
+      "meaning": "Indeed they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; to intend, to desire"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed; verily"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَبْلَ",
+      "transliteration": "qabla",
+      "meaning": "before",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to turn back, front"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that (referring to something previously mentioned)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix indicating masculine singular; 'that one'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مُتْرَفِينَ",
+      "transliteration": "mutrafīn",
+      "meaning": "indulging in affluence",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to raise, to be high (in status or wealth)"
+      },
+      "components": [
+        {
+          "arabic": "مُتَـ",
+          "meaning": "passive participle prefix indicating 'one who is'"
+        },
+        {
+          "arabic": "تَرَفَ",
+          "meaning": "to indulge in luxury, to live luxuriously"
+        },
+        {
+          "arabic": "ـِينَ",
+          "meaning": "plural masculine ending, indicating 'those who are'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-they were before that [the time] indulging-in affluence"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "verseId": "56:92",
+  "verse": {
+    "arabic": "وَأَمَّا إِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+    "transliteration": "Waamma in kana mina almukaththibeena alddalleena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 92
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, affection, friendship; to call upon (as in prayer)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but, however, concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to will, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمُكَذِّبِينَ",
+      "transliteration": "al-mukadhdhibīn",
+      "meaning": "the deniers, the liars",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُكَذِّبِينَ",
+          "meaning": "deniers, those who lie (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الضَّالِّينَ",
+      "transliteration": "al-ḍāllīn",
+      "meaning": "the astray, the misguided",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to err, to deviate from the right path"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "ضَالِّينَ",
+          "meaning": "astray, misguided (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - however - indeed - was - from - the-deniers - the-astray"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

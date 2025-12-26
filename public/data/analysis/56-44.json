@@ -1,0 +1,69 @@
+{
+  "verseId": "56:44",
+  "verse": {
+    "arabic": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+    "transliteration": "La baridin wala kareemin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, neither",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَارِدٍ",
+      "transliteration": "bāridin",
+      "meaning": "cold, cool",
+      "root": {
+        "letters": "ب-ر-د",
+        "meaning": "to be cold, to cool down; coolness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "nor, and not",
+      "root": null,
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَرِيمٍ",
+      "transliteration": "karīmin",
+      "meaning": "generous, beneficial",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "to be generous, to honor, abundance"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-cold and-nor beneficial"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

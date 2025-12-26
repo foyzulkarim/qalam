@@ -1,0 +1,81 @@
+{
+  "verseId": "55:22",
+  "verse": {
+    "arabic": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+    "transliteration": "Yakhruju minhuma alluluo waalmarjanu",
+    "surah": "Ar-Rahman",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَخْرُجُ",
+      "transliteration": "yakhruju",
+      "meaning": "he emerges, it comes forth",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and 3rd person singular masculine"
+        },
+        {
+          "arabic": "خْرُجُ",
+          "meaning": "the root itself, indicating the act of emerging"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنْهُمَا",
+      "transliteration": "minhumā",
+      "meaning": "from them (dual)",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "they (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللُّؤْلُؤُ",
+      "transliteration": "al-luʾluʾu",
+      "meaning": "the pearl",
+      "root": {
+        "letters": "ل-و-ل",
+        "meaning": "to roll, to turn; smoothness or roundness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالْمَرْجَانُ",
+      "transliteration": "wal-marjānu",
+      "meaning": "and the coral",
+      "root": {
+        "letters": "م-ر-ج",
+        "meaning": "to float, to appear on the surface of water; brilliance, clarity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "emerges-from-them the-pearl and-the-coral"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

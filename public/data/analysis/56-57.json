@@ -1,0 +1,102 @@
+{
+  "verseId": "56:57",
+  "verse": {
+    "arabic": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ",
+    "transliteration": "Nahnu khalaqnakum falawla tusaddiqoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 57
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, incline, or be towards"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقْنَاكُمْ",
+      "transliteration": "khalaqnākum",
+      "meaning": "We have created you",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, originate, bring into being"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "We created (perfect tense)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَلَوْلَا",
+      "transliteration": "falawlā",
+      "meaning": "then why not?/so what prevents?",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to desire, to turn towards, to seek help/protection"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُصَدِّقُونَ",
+      "transliteration": "tuṣaddiqūn",
+      "meaning": "do you believe?",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truthfulness, sincerity, correctness; to speak the truth"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "صَدِّق",
+          "meaning": "to believe, to verify the truth"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person masculine plural"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We - created-you - then why not - do you believe?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "verseId": "18:104",
+  "verse": {
+    "arabic": "الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+    "transliteration": "Allatheena dalla saAAyuhum fee alhayati alddunya wahum yahsaboona annahum yuhsinoona sunAAan",
+    "surah": "Al-Kahf",
+    "verseNumber": 104
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, have"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ضَلَّ",
+      "transliteration": "ḍalla",
+      "meaning": "lost, went astray",
+      "root": {
+        "letters": "د-ل-ل",
+        "meaning": "to err, to go astray, to be misguided"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَعْيُهُمْ",
+      "transliteration": "saʿyuhum",
+      "meaning": "their effort, their striving",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to strive, to endeavor, to make an effort"
+      },
+      "components": [
+        {
+          "arabic": "سَعْيٌ",
+          "meaning": "effort, striving"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix indicating possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْحَيَاةِ",
+      "transliteration": "al-ḥayāti",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاةٍ",
+          "meaning": "life (abstract noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world, the present life",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "lowliness, baseness, humility; temporary existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "to have, to possess; to be (exist)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَحْسَبُونَ",
+      "transliteration": "yaḥsabūna",
+      "meaning": "they think, they consider",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to reckon, calculate, estimate"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense and first person plural (they)"
+        },
+        {
+          "arabic": "حَسَبُوا",
+          "meaning": "they reckoned/considered (past tense root form)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating first person plural (they) present/future active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَنَّهُمْ",
+      "transliteration": "annahum",
+      "meaning": "that they",
+      "root": {
+        "letters": "هـ-مـ-ن",
+        "meaning": "to intend, to plan, to desire; to be in a state (relating to the root)"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُحْسِنُونَ",
+      "transliteration": "yuḥsinūna",
+      "meaning": "they do well, they improve",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "goodness, beauty, excellence"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "حَسَنَ",
+          "meaning": "to do good, to be skillful"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (pronoun suffix, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "صُنْعًا",
+      "transliteration": "ṣunʿan",
+      "meaning": "work, deed, making",
+      "root": {
+        "letters": "ص-ن-ع",
+        "meaning": "to fabricate, to make skillfully, to create"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who lost their-effort in the-life the-world and-they they-think that-they they-do-well work"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

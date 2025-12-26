@@ -1,0 +1,232 @@
+{
+  "verseId": "18:13",
+  "verse": {
+    "arabic": "نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
+    "transliteration": "Nahnu naqussu AAalayka nabaahum bialhaqqi innahum fityatun amanoo birabbihim wazidnahum hudan",
+    "surah": "Al-Kahf",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَّحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, incline, or bend towards something; association or togetherness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَقُصُّ",
+      "transliteration": "naquṣṣu",
+      "meaning": "We relate, We narrate",
+      "root": {
+        "letters": "ق-ص-ص",
+        "meaning": "to tell, to relate a story, to cut off (related semantic field)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْكَ",
+      "transliteration": "ʿalayka",
+      "meaning": "to you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; to be responsible for or have power over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over, to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَبَأَهُم",
+      "transliteration": "nabāʾahum",
+      "meaning": "their story, their news",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "important news, information, report"
+      },
+      "components": [
+        {
+          "arabic": "نَبَأ",
+          "meaning": "news, story, report"
+        },
+        {
+          "arabic": "-هُم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْحَقِّ",
+      "transliteration": "bil-ḥaqq",
+      "meaning": "with the truth, in truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in"
+        },
+        {
+          "arabic": "الْحَقِّ",
+          "meaning": "the truth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlam mā huwa",
+      "meaning": "[Pause marker - meaning is not lexical, it's a grammatical device]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "Negative particle, indicating negation or prohibition."
+        },
+        {
+          "arabic": "تعلم",
+          "meaning": "To know, to be aware of."
+        },
+        {
+          "arabic": "ما",
+          "meaning": "What, that which."
+        },
+        {
+          "arabic": "هو",
+          "meaning": "He, it, this."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "innahum",
+      "meaning": "Indeed, they",
+      "root": {
+        "letters": "هـ-مْ-ي",
+        "meaning": "to be (existence), to have, to possess"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِتْيَةٌ",
+      "transliteration": "fityatun",
+      "meaning": "youths, young men",
+      "root": {
+        "letters": "ف-ت-ي",
+        "meaning": "young, tender; to be young or weak"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "they believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness; to believe"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix denoting 'they'"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "believed (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِرَبِّهِمْ",
+      "transliteration": "bi-rabbihem",
+      "meaning": "in their Lord, by their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, by means of, with"
+        },
+        {
+          "arabic": "رَبِّهِمْ",
+          "meaning": "their Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَزِدْنَاهُمْ",
+      "transliteration": "wa-zidnāhum",
+      "meaning": "and We increased them",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to grow"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "زِدْنَا",
+          "meaning": "We increased"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "هُدًى",
+      "transliteration": "hudan",
+      "meaning": "guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We- relate - to- you - their- story - with- the- truth - Indeed- they - youths - believed - in- their- Lord - and- We- increased- them - guidance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

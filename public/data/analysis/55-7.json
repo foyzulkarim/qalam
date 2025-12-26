@@ -1,0 +1,97 @@
+{
+  "verseId": "55:7",
+  "verse": {
+    "arabic": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+    "transliteration": "Waalssamaa rafaAAaha wawadaAAa almeezana",
+    "surah": "Ar-Rahman",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءَ",
+      "transliteration": "as-samāʾa",
+      "meaning": "the heaven/sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَفَعَهَا",
+      "transliteration": "rafaʿahā",
+      "meaning": "He raised it",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to raise, to uplift"
+      },
+      "components": [
+        {
+          "arabic": "رَفَعَ",
+          "meaning": "He raised, he elevated"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَضَعَ",
+      "transliteration": "waḍaʿa",
+      "meaning": "He imposed/placed",
+      "root": {
+        "letters": "ض-ع-و",
+        "meaning": "to leave, to relinquish, to place, to put down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمِيزَانَ",
+      "transliteration": "al-mīzāna",
+      "meaning": "the balance",
+      "root": {
+        "letters": "م-ي-ز",
+        "meaning": "to weigh, to balance, to differentiate"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مِيزَانَ",
+          "meaning": "balance, scale (noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the heaven He-raised it and-He imposed the balance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

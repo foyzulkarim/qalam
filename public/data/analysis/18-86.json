@@ -1,0 +1,407 @@
+{
+  "verseId": "18:86",
+  "verse": {
+    "arabic": "حَتَّىٰ إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ وَوَجَدَ عِندَهَا قَوْمًا ۗ قُلْنَا يَا ذَا الْقَرْنَيْنِ إِمَّا أَن تُعَذِّبَ وَإِمَّا أَن تَتَّخِذَ فِيهِمْ حُسْنًا",
+    "transliteration": "Hatta itha balagha maghriba alshshamsi wajadaha taghrubu fee AAaynin hamiatin wawajada AAindaha qawman qulna ya tha alqarnayni imma an tuAAaththiba waimma an tattakhitha feehim husnan",
+    "surah": "Al-Kahf",
+    "verseNumber": 86
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-د-ى",
+        "meaning": "to come, to arrive; to pass (of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَلَغَ",
+      "transliteration": "balagha",
+      "meaning": "he reached, he attained",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, to reach, to be full or mature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَغْرِبَ",
+      "transliteration": "maghriba",
+      "meaning": "setting-place, west, sunset",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to go down, set (of the sun), to become dark; west"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الشَّمْسِ",
+      "transliteration": "ash-shamsi",
+      "meaning": "the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to be hot, to shine intensely; the sun or anything radiating heat and light"
+      },
+      "components": [
+        {
+          "arabic": "اَلشَّمْسِ",
+          "meaning": "the sun (definite form with the article)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَجَدَهَا",
+      "transliteration": "wajadahā",
+      "meaning": "he found it (feminine)",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to discover, to obtain"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَدَهَا",
+          "meaning": "he found it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَغْرُبُ",
+      "transliteration": "taghrubu",
+      "meaning": "it sets, it is setting",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to go down, to set (of the sun), to perish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَيْنٍ",
+      "transliteration": "ʿaynin",
+      "meaning": "a spring, a source (of water)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to be an eye, to be a source, to be soft or tender"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "حَمِئَةٍ",
+      "transliteration": "ḥamʾin",
+      "meaning": "dark mud, murky water",
+      "root": {
+        "letters": "ح-م-أ",
+        "meaning": "redness, darkness; to become hot or reddish/dark"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَوَجَدَ",
+      "transliteration": "wa-wajada",
+      "meaning": "and he found",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to obtain, to discover"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "وَجَدَ",
+          "meaning": "he found"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عِندَهَا",
+      "transliteration": "ʿindahā",
+      "meaning": "near it, by it (feminine)",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to be present, to have possession, to be near"
+      },
+      "components": [
+        {
+          "arabic": "عِندَ",
+          "meaning": "near, at, by"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "قَوْمًا",
+      "transliteration": "qawman",
+      "meaning": "a people, a nation",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; a people, tribe, community"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۗ",
+      "transliteration": "[pause]",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "قُلْنَا",
+      "transliteration": "qulnā",
+      "meaning": "we said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, saying"
+      },
+      "components": [
+        {
+          "arabic": "قل",
+          "meaning": "say!"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ذَا",
+      "transliteration": "dhā",
+      "meaning": "possessor of, owner of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْقَرْنَيْنِ",
+      "transliteration": "al-qarnayn",
+      "meaning": "the Two Horns (proper name)",
+      "root": {
+        "letters": "ق-ر-ن",
+        "meaning": "to join, to unite; a horn (of an animal)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَرْنَيْنِ",
+          "meaning": "dual form of 'qarn' - two horns, or the Two Horns (a proper name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "إِمَّا",
+      "transliteration": "immā",
+      "meaning": "either...or, if",
+      "root": {
+        "letters": "أ-مَّ-و",
+        "meaning": "to wish, to desire, or to intend. Also related to questioning and uncertainty."
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "if"
+        },
+        {
+          "arabic": "مَّا",
+          "meaning": "what, that which; often used with conditional particles like 'in'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[that], to, regarding",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "تُعَذِّبَ",
+      "transliteration": "tuʿadhdhiba",
+      "meaning": "you punish (passive)",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to torment, to find something disagreeable"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "passive voice marker/prefix"
+        },
+        {
+          "arabic": "عَذِّبَ",
+          "meaning": "to be punished (form IV verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَإِمَّا",
+      "transliteration": "wa-immā",
+      "meaning": "and either...or",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to desire, or to be inclined towards"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِمَّا",
+          "meaning": "either...or; if...then"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[that], to, regarding",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "تَتَّخِذَ",
+      "transliteration": "tattakhidha",
+      "meaning": "you take, you adopt",
+      "root": {
+        "letters": "خ-ذ-ي",
+        "meaning": "to take, to possess, to choose"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating 'you (masculine singular)' and imperfect tense"
+        },
+        {
+          "arabic": "تَخِذْ",
+          "meaning": "to take, to choose (form II verb)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix indicating 'you (masculine singular)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فِيهِمْ",
+      "transliteration": "fīhim",
+      "meaning": "in them, among them",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to be within, to contain, to exist in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (masculine plural, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "حُسْنًا",
+      "transliteration": "ḥusnan",
+      "meaning": "goodness, kindness",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness"
+      },
+      "components": [
+        {
+          "arabic": "حُسْن",
+          "meaning": "goodness, beauty"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwin (indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "until-when he-reached setting-place the-sun he-found-it it-sets in a-spring dark-mud and-he-found near-it a-people [pause] we-said O possessor-of the-Two-Horns either that-you punish and-either that-you take in-them goodness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

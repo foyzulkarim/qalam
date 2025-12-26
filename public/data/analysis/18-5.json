@@ -1,0 +1,284 @@
+{
+  "verseId": "18:5",
+  "verse": {
+    "arabic": "مَّا لَهُم بِهِ مِنْ عِلْمٍ وَلَا لِآبَائِهِمْ ۚ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ ۚ إِن يَقُولُونَ إِلَّا كَذِبًا",
+    "transliteration": "Ma lahum bihi min AAilmin wala liabaihim kaburat kalimatan takhruju min afwahihim in yaqooloona illa kathiban",
+    "surah": "Al-Kahf",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what, not (in negative contexts)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also related to water and destruction (depending on form)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompanying, having"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "it (masculine singular, genitive/accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عِلْمٍ",
+      "transliteration": "ʿilm",
+      "meaning": "knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, possess knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لِآبَائِهِمْ",
+      "transliteration": "liʾābāʾihim",
+      "meaning": "for their fathers",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "to be a father; to have an origin"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "آبَائِهِمْ",
+          "meaning": "their fathers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَبُرَتْ",
+      "transliteration": "kuburat",
+      "meaning": "it became great, is great (feminine)",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be great, to increase, to grow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَلِمَةً",
+      "transliteration": "kalimah",
+      "meaning": "word",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "to speak, to utter; a word or speech"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَخْرُجُ",
+      "transliteration": "takhruju",
+      "meaning": "it comes out, emerges",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating present tense, imperfect form"
+        },
+        {
+          "arabic": "خْرُج",
+          "meaning": "to exit, to go out, to emerge (root form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicates pronoun suffix 'you (masculine singular)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be sourced from, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَفْوَاهِهِمْ",
+      "transliteration": "ʾafwāhihim",
+      "meaning": "their mouths",
+      "root": {
+        "letters": "ف-و-ه",
+        "meaning": "to open, to yawn; the opening itself (mouth)"
+      },
+      "components": [
+        {
+          "arabic": "أَفْ",
+          "meaning": "prefix indicating negation or intensification, here forming the indefinite noun"
+        },
+        {
+          "arabic": "فَوَاه",
+          "meaning": "mouths (plural of mouth)"
+        },
+        {
+          "arabic": "ـهِمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ة",
+        "meaning": "sign, miracle, verse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "indeed, if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَقُولُونَ",
+      "transliteration": "yaqūlūn",
+      "meaning": "they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "قُولُونَ",
+          "meaning": "say (verb, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, only",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "كَذِبًا",
+      "transliteration": "kadhiban",
+      "meaning": "a lie",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, falsehood"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-to-them with-it from knowledge and not to-their-fathers. became-great word comes-out from their-mouths indeed they-say except lie."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

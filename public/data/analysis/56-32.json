@@ -1,0 +1,58 @@
+{
+  "verseId": "56:32",
+  "verse": {
+    "arabic": "وَفَاكِهَةٍ كَثِيرَةٍ",
+    "transliteration": "Wafakihatin katheeratin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَاكِهَةٍ",
+      "transliteration": "fākihatin",
+      "meaning": "fruit",
+      "root": {
+        "letters": "ف-ك-ه",
+        "meaning": "to be sweet, to ripen, to flourish; sweetness itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَثِيرَةٍ",
+      "transliteration": "kathīratin",
+      "meaning": "abundant, much",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be abundant, to be numerous"
+      },
+      "components": [
+        {
+          "arabic": "كثير",
+          "meaning": "abundant, much"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker, indefinite accusative case (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - fruit - abundant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

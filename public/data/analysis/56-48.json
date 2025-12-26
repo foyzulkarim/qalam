@@ -1,0 +1,65 @@
+{
+  "verseId": "56:48",
+  "verse": {
+    "arabic": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+    "transliteration": "Awa abaona alawwaloona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوَ",
+      "transliteration": "ʾawā",
+      "meaning": "or, or even",
+      "root": {
+        "letters": "و-ي-أ",
+        "meaning": "to desire, to wish, or to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "a negative particle indicating denial or doubt"
+        },
+        {
+          "arabic": "و",
+          "meaning": "and, or; a connective particle often used for alternatives"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آبَاؤُنَا",
+      "transliteration": "ʾābāʾunā",
+      "meaning": "our forefathers, our fathers"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَوَّلُونَ",
+      "transliteration": "al-ʾawwalūna",
+      "meaning": "the first ones, the earliest",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to precede, to be first"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَوَّلُونَ",
+          "meaning": "first ones, earliest (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-even our-forefathers the-first-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

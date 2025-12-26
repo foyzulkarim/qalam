@@ -1,0 +1,141 @@
+{
+  "verseId": "56:60",
+  "verse": {
+    "arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+    "transliteration": "Nahnu qaddarna baynakumu almawta wama nahnu bimasbooqeena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 60
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to incline, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَدَّرْنَا",
+      "transliteration": "qaddarnā",
+      "meaning": "We have decreed, We measured out",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to hold power, to be capable; to estimate, measure, decree"
+      },
+      "components": [
+        {
+          "arabic": "قد",
+          "meaning": "indicates completion or certainty (often translated as 'have already')"
+        },
+        {
+          "arabic": "درنا",
+          "meaning": "We have (pronoun suffix indicating first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَيْنَكُمُ",
+      "transliteration": "baynakumu",
+      "meaning": "among you",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be in between, to separate, distinction"
+      },
+      "components": [
+        {
+          "arabic": "بَيْنَ",
+          "meaning": "among, between"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَوْتَ",
+      "transliteration": "al-mawṭa",
+      "meaning": "the death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, cessation of life"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَوْت",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "And what/indeed",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; also relative pronoun 'what'"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn toward, to intend, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِمَسْبُوقِينَ",
+      "transliteration": "bi-masbūqīn",
+      "meaning": "are not outdone, are not preceded",
+      "root": {
+        "letters": "س-ب-ق",
+        "meaning": "to precede, to outstrip, to be ahead"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in/for"
+        },
+        {
+          "arabic": "مَسْبُوقِينَ",
+          "meaning": "those who are preceded/outstripped (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We - decreed - among-you - the-death - and - what/indeed - We - are-not - outdone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

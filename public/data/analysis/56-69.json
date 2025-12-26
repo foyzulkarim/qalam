@@ -1,0 +1,131 @@
+{
+  "verseId": "56:69",
+  "verse": {
+    "arabic": "أَأَنتُمْ أَنزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنزِلُونَ",
+    "transliteration": "Aantum anzaltumoohu mina almuzni am nahnu almunziloona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 69
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَأَنتُمْ",
+      "transliteration": "ʾa-ʾantum",
+      "meaning": "Are you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنزَلْتُمُوهُ",
+      "transliteration": "ʾanzaltumūhu",
+      "meaning": "Did you bring it down?",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to, that (introducing a verb)"
+        },
+        {
+          "arabic": "زَل",
+          "meaning": "root of descending, bringing down (form II verb)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "you (masculine plural) - suffix indicating second person plural"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it - pronoun referring to the object being brought down"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُزْنِ",
+      "transliteration": "al-muzni",
+      "meaning": "The clouds",
+      "root": {
+        "letters": "ز-ن-و",
+        "meaning": "to provide water, to rain; clouds are associated with providing water"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-م",
+        "meaning": "To desire, to intend; also used for doubt and questioning."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to incline, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمُنزِلُونَ",
+      "transliteration": "al-munzilūna",
+      "meaning": "The bringers down (plural)",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُنْزِلُونَ",
+          "meaning": "bringers down, those who descend (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Are-you-[plural] did-you-bring-it-down from the-clouds or We the-bringers-down?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

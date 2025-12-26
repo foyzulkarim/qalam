@@ -1,0 +1,118 @@
+{
+  "verseId": "56:73",
+  "verse": {
+    "arabic": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِّلْمُقْوِينَ",
+    "transliteration": "Nahnu jaAAalnaha tathkiratan wamataAAan lilmuqweena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 73
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "To turn, to incline towards, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَعَلْنَاهَا",
+      "transliteration": "jaʿalnāhā",
+      "meaning": "We have made it",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَذْكِرَةً",
+      "transliteration": "taḏkiratan",
+      "meaning": "a reminder",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating verbal noun (masdar)"
+        },
+        {
+          "arabic": "ذِكْر",
+          "meaning": "remembrance, mention"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine indefinite marker (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَمَتَاعًا",
+      "transliteration": "wa-matāʿan",
+      "meaning": "and a provision",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "enjoyment, benefit, provision"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَتَاعًا",
+          "meaning": "provision, benefit, something enjoyed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّلْمُقْوِينَ",
+      "transliteration": "lil-muqwīna",
+      "meaning": "for the travelers",
+      "root": {
+        "letters": "ق-و-ي",
+        "meaning": "to be strong, to have power, to strengthen"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُقْوِينَ",
+          "meaning": "the travelers, the ones weakened (by journey)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We - have made it - a reminder - and provision - for the travelers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

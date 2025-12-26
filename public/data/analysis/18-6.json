@@ -1,0 +1,204 @@
+{
+  "verseId": "18:6",
+  "verse": {
+    "arabic": "فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَىٰ آثَارِهِمْ إِن لَّمْ يُؤْمِنُوا بِهَـٰذَا الْحَدِيثِ أَسَفًا",
+    "transliteration": "FalaAAallaka bakhiAAun nafsaka AAala atharihim in lam yuminoo bihatha alhadeethi asafan",
+    "surah": "Al-Kahf",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَعَلَّكَ",
+      "transliteration": "fa-laʿallaka",
+      "meaning": "then perhaps you",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, possibility"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to (you)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "perhaps, maybe (derived from root ع-ل-ل)"
+        },
+        {
+          "arabic": "كَـ",
+          "meaning": "you (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَاخِعٌ",
+      "transliteration": "bākhʿun",
+      "meaning": "destroying (oneself), killing (oneself)",
+      "root": {
+        "letters": "خ-ب-ع",
+        "meaning": "to break, to destroy, to perish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَّفْسَكَ",
+      "transliteration": "nafsaka",
+      "meaning": "your self, your soul",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, psyche; to breathe, to desire"
+      },
+      "components": [
+        {
+          "arabic": "نَفْسَ",
+          "meaning": "self, soul (genitive form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آثَارِهِمْ",
+      "transliteration": "āthārihim",
+      "meaning": "their traces, their footsteps",
+      "root": {
+        "letters": "أ-ث-ر",
+        "meaning": "to remain, to leave a trace, consequence"
+      },
+      "components": [
+        {
+          "arabic": "آثَارِ",
+          "meaning": "traces, remnants (plural)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "إ-ن-ن",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed; a conditional particle emphasizing truth or certainty."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّمْ",
+      "transliteration": "lam",
+      "meaning": "[negative particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُؤْمِنُوا",
+      "transliteration": "yuʾminū",
+      "meaning": "they believe (not)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense, and first person plural (they)"
+        },
+        {
+          "arabic": "ؤْمِنُوا",
+          "meaning": "to believe (second person plural - you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِهَـٰذَا",
+      "transliteration": "bi-hādhā",
+      "meaning": "with this",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, this"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هَـٰذَا",
+          "meaning": "this"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْحَدِيثِ",
+      "transliteration": "al-ḥadīthi",
+      "meaning": "the message, the narrative",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to occur, to happen; to narrate, to relate"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَدِيث",
+          "meaning": "narrative, story, message"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَسَفًا",
+      "transliteration": "asafan",
+      "meaning": "sorrow, grief",
+      "root": {
+        "letters": "أ-س-ف",
+        "meaning": "to be sad, to grieve; redness (related to the complexion of someone in grief)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-perhaps-you destroying-oneself your-self over their-traces if not-they believe with-this the-message sorrow"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

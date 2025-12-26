@@ -1,0 +1,90 @@
+{
+  "verseId": "55:60",
+  "verse": {
+    "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+    "transliteration": "Hal jazao alihsani illa alihsanu",
+    "surah": "Ar-Rahman",
+    "verseNumber": 60
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "interrogative particle, indicating a question",
+      "root": null,
+      "components": [
+        {
+          "arabic": "هَلْ",
+          "meaning": "interrogative particle, indicating a question"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَزَاءُ",
+      "transliteration": "jazāʾu",
+      "meaning": "reward, recompense",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to take vengeance"
+      },
+      "components": [
+        {
+          "arabic": "جَزَاءُ",
+          "meaning": "reward, recompense (the indefinite accusative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِحْسَانِ",
+      "transliteration": "al-ʾiḥsāni",
+      "meaning": "the goodness, the beneficence",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, to excel, to be beautiful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "إِحْسَانِ",
+          "meaning": "goodness, beneficence (verbal noun of أَحْسَنَ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to reject, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْإِحْسَانُ",
+      "transliteration": "al-ʾiḥsānu",
+      "meaning": "the goodness, the beneficence",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, to excel, to do well"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Is-the reward-of the goodness except the goodness?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

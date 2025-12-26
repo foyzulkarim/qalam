@@ -1,0 +1,242 @@
+{
+  "verseId": "18:34",
+  "verse": {
+    "arabic": "وَكَانَ لَهُ ثَمَرٌ فَقَالَ لِصَاحِبِهِ وَهُوَ يُحَاوِرُهُ أَنَا أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
+    "transliteration": "Wakana lahu thamarun faqala lisahibihi wahuwa yuhawiruhu ana aktharu minka malan waaAAazzu nafaran",
+    "surah": "Al-Kahf",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَكَانَ",
+      "transliteration": "wa-kāna",
+      "meaning": "and was/and he had been",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "was/had been"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him/to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ثَمَرٌ",
+      "transliteration": "thamarun",
+      "meaning": "fruit",
+      "root": {
+        "letters": "ث-م-ر",
+        "meaning": "to bear fruit, to ripen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَقَالَ",
+      "transliteration": "fa-qāla",
+      "meaning": "so he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِصَاحِبِهِ",
+      "transliteration": "li-ṣāḥibihi",
+      "meaning": "to his companion/friend",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend; companionship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "صَاحِبِهِ",
+          "meaning": "his companion/friend"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "and he/while he",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence, substance, identity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يُحَاوِرُهُ",
+      "transliteration": "yuḥāwiruhu",
+      "meaning": "he converses with him/argues with him",
+      "root": {
+        "letters": "ح-و-ر",
+        "meaning": "to return, to revert; to speak, converse"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "he (masculine singular pronoun prefix - indicates present/future tense, active voice)"
+        },
+        {
+          "arabic": "حَاوَرَ",
+          "meaning": "to converse with, to argue with"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (masculine singular pronoun suffix - direct object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَنَا",
+      "transliteration": "anā",
+      "meaning": "I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَكْثَرُ",
+      "transliteration": "aktharu",
+      "meaning": "more/greater",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be numerous, to increase, abundance"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating superlative degree (more/most)"
+        },
+        {
+          "arabic": "كُثْر",
+          "meaning": "abundance, multitude, quantity (masculine singular indefinite)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah ending indicating nominative case (because it's part of the superlative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِنكَ",
+      "transliteration": "minka",
+      "meaning": "than you/from you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "origin, source, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "ـكَ",
+          "meaning": "you (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَالًا",
+      "transliteration": "mālan",
+      "meaning": "wealth/money",
+      "root": {
+        "letters": "م-ل-أ",
+        "meaning": "to fill, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَأَعَزُّ",
+      "transliteration": "wa-aʿazzu",
+      "meaning": "and more honorable/stronger",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, honor; to be strong or powerful"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَعَزُّ",
+          "meaning": "more honorable/stronger (superlative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "نَفَرًا",
+      "transliteration": "nafran",
+      "meaning": "[in numbers of] men/people",
+      "root": {
+        "letters": "ن-ف-ر",
+        "meaning": "to depart, to go away; people, individuals"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-was for-him fruit so-he said to-his companion and-he he-conversing-with-him I more than-you wealth and-more-honorable men"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "verseId": "55:72",
+  "verse": {
+    "arabic": "حُورٌ مَّقْصُورَاتٌ فِي الْخِيَامِ",
+    "transliteration": "Hoorun maqsooratun fee alkhiyami",
+    "surah": "Ar-Rahman",
+    "verseNumber": 72
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حُورٌ",
+      "transliteration": "ḥūrun",
+      "meaning": "Fair ones, beautiful women",
+      "root": {
+        "letters": "ح-و-ر",
+        "meaning": "to be white, to shine; beauty, fairness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّقْصُورَاتٌ",
+      "transliteration": "maqṣūrātun",
+      "meaning": "Restricted, confined, secluded",
+      "root": {
+        "letters": "ق-ص-ر",
+        "meaning": "To restrict, to confine, shortness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to be in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْخِيَامِ",
+      "transliteration": "al-khiyāmi",
+      "meaning": "The pavilions, the tents",
+      "root": {
+        "letters": "خ-ي-م",
+        "meaning": "to set up a tent; to dwell, reside"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Fair-ones - restricted - in - the-pavilions"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

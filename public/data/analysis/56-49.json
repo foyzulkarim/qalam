@@ -1,0 +1,94 @@
+{
+  "verseId": "56:49",
+  "verse": {
+    "arabic": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ",
+    "transliteration": "Qul inna alawwaleena waalakhireena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 49
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say (imperative)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; encompasses various forms of verbal communication."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَوَّلِينَ",
+      "transliteration": "al-ʾawwalīn",
+      "meaning": "The former ones, the first peoples",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; primacy, front rank"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَوَّلِينَ",
+          "meaning": "First ones (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْآخِرِينَ",
+      "transliteration": "al-ʾākhirīn",
+      "meaning": "The later ones, the last peoples",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; last (in time or order)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "آخِرِينَ",
+          "meaning": "the later ones, the last peoples (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say-indeed the-former-ones and the-later-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

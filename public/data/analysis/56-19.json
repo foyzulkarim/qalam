@@ -1,0 +1,115 @@
+{
+  "verseId": "56:19",
+  "verse": {
+    "arabic": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+    "transliteration": "La yusaddaAAoona AAanha wala yunzifoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُصَدَّعُونَ",
+      "transliteration": "yuṣaddaʿūna",
+      "meaning": "they are split apart/fractured (heads)",
+      "root": {
+        "letters": "ص-د-ع",
+        "meaning": "to break apart, to split, to cause a headache; fragmentation"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating passive voice or present tense (depending on form)"
+        },
+        {
+          "arabic": "صَدَّعَ",
+          "meaning": "to cause a splitting headache, to fracture (metaphorically)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine, present tense (form IV)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنْهَا",
+      "transliteration": "ʿanhā",
+      "meaning": "from it/thereof",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to deviate, to turn away, to depart from"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/thereof (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُنْزِفُونَ",
+      "transliteration": "yunzifūna",
+      "meaning": "they bleed/are intoxicated",
+      "root": {
+        "letters": "ن-ز-ف",
+        "meaning": "to drip, flow forth (liquid), to bleed/exude"
+      },
+      "components": [
+        {
+          "arabic": "يُنْ",
+          "meaning": "they (masculine plural) - present tense prefix"
+        },
+        {
+          "arabic": "زِف",
+          "meaning": "bleeding/exuding (verbal noun)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural) - present tense suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "no-they-are-split-apart from-it and-not they-bleed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

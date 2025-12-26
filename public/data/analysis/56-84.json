@@ -1,0 +1,82 @@
+{
+  "verseId": "56:84",
+  "verse": {
+    "arabic": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+    "transliteration": "Waantum heenaithin tanthuroona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 84
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنتُمْ",
+      "transliteration": "antum",
+      "meaning": "you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be (exist), to originate, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حِينَئِذٍ",
+      "transliteration": "ḥīnaʾidhin",
+      "meaning": "at that time, then",
+      "root": {
+        "letters": "ح-ي-ن",
+        "meaning": "time, occasion"
+      },
+      "components": [
+        {
+          "arabic": "حِينَ",
+          "meaning": "when, at the time of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then, at that time (particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَنظُرُونَ",
+      "transliteration": "tanẓurūn",
+      "meaning": "you are looking, you see",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the present tense and/or active voice"
+        },
+        {
+          "arabic": "نَظَر",
+          "meaning": "to see, to look"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - you - at-that-time - you-are-looking"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

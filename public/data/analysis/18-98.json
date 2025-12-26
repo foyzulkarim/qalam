@@ -1,0 +1,247 @@
+{
+  "verseId": "18:98",
+  "verse": {
+    "arabic": "قَالَ هَـٰذَا رَحْمَةٌ مِّن رَّبِّي ۖ فَإِذَا جَاءَ وَعْدُ رَبِّي جَعَلَهُ دَكَّاءَ ۖ وَكَانَ وَعْدُ رَبِّي حَقًّا",
+    "transliteration": "Qala hatha rahmatun min rabbee faitha jaa waAAdu rabbee jaAAalahu dakkaa wakana waAAdu rabbee haqqan",
+    "surah": "Al-Kahf",
+    "verseNumber": 98
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to utter, to speak, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذَا",
+        "meaning": "to point, to indicate, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَحْمَةٌ",
+      "transliteration": "raḥmatun",
+      "meaning": "a mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness; covering, encompassing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَّبِّي",
+      "transliteration": "rabbiī",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, possessor of goodness and blessings"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix indicating possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "fa-ʾidhā",
+      "meaning": "[then] when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to go, to depart; to come, to arrive; to finish, to expire"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جَاءَ",
+      "transliteration": "jāʾa",
+      "meaning": "came",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَعْدُ",
+      "transliteration": "waʿdu",
+      "meaning": "the promise",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to threaten (depending on context)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbiī",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "جَعَلَهُ",
+      "transliteration": "jaʿalahu",
+      "meaning": "He will make it",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to establish"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "He made, He created"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "دَكَّاءَ",
+      "transliteration": "dakkaʾa",
+      "meaning": "level, crushed",
+      "root": {
+        "letters": "د-ك-ك",
+        "meaning": "to crush, pulverize, break down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "wa-kāna",
+      "meaning": "[and] was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كان",
+          "meaning": "was, he was"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَعْدُ",
+      "transliteration": "waʿdu",
+      "meaning": "the promise",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to return something with intention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbiī",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master, Possessor"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "حَقًّا",
+      "transliteration": "ḥaqqan",
+      "meaning": "true",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, to be true"
+      },
+      "components": [
+        {
+          "arabic": "حَقّ",
+          "meaning": "true, right, reality"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "adverbial suffix indicating manner/state; truly"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said - this - a-mercy - from - my-Lord - then-when - came - the-promise - my-Lord - He-will-make-it - level - and-was - the-promise - my-Lord - true"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

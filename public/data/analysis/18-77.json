@@ -1,0 +1,423 @@
+{
+  "verseId": "18:77",
+  "verse": {
+    "arabic": "فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُ ۖ قَالَ لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا",
+    "transliteration": "Faintalaqa hatta itha ataya ahla qaryatin istatAAama ahlaha faabaw an yudayyifoohuma fawajada feeha jidaran yureedu an yanqadda faaqamahu qala law shita laittakhathta AAalayhi ajran",
+    "surah": "Al-Kahf",
+    "verseNumber": 77
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَانطَلَقَا",
+      "transliteration": "fa-inṭalaqā",
+      "meaning": "so they set out",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to depart, to go forth, to release"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "انـ",
+          "meaning": "and (particle, often used to indicate immediacy)"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "indicates past tense, third-person dual masculine"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "to (preposition)"
+        },
+        {
+          "arabic": "قَـ",
+          "meaning": "part of the root, indicating departure"
+        },
+        {
+          "arabic": "ـآ",
+          "meaning": "dual pronoun suffix (هما)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to cease, to finish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَتَيَا",
+      "transliteration": "atayā",
+      "meaning": "they came to",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَهْلَ",
+      "transliteration": "ahla",
+      "meaning": "people of",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to incline towards, to be fit for; family, household"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَرْيَةٍ",
+      "transliteration": "qaryatin",
+      "meaning": "a town",
+      "root": {
+        "letters": "ق-ر-ي",
+        "meaning": "to gather, to settle, to reside"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اسْتَطْعَمَا",
+      "transliteration": "istaṭʿamā",
+      "meaning": "they asked for food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to taste, to eat, to seek food"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "attempt to, seek"
+        },
+        {
+          "arabic": "طَعَمَا",
+          "meaning": "they tasted/sought food (from طعم)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَهْلَهَا",
+      "transliteration": "ahlihā",
+      "meaning": "its people",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be lost; weakness, destruction"
+      },
+      "components": [
+        {
+          "arabic": "أَهْل",
+          "meaning": "family, household; people of (a place or time)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَأَبَوْا",
+      "transliteration": "fa-ʾabaw",
+      "meaning": "so they refused",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "to refuse, to turn away, to reject"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "أَبَوْا",
+          "meaning": "they refused (verb, past tense, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[to]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates possibility or intention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يُضَيِّفُوهُمَا",
+      "transliteration": "yuḍayyifūhumā",
+      "meaning": "they host them",
+      "root": {
+        "letters": "ض-ي-ف",
+        "meaning": "to provide hospitality, to entertain as a guest"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "ضَيِّفُ",
+          "meaning": "host, entertain (verbal noun form)"
+        },
+        {
+          "arabic": "وهُمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَوَجَدَا",
+      "transliteration": "fa-wajadā",
+      "meaning": "so they found",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to discover, to obtain"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "وَجَدَا",
+          "meaning": "they found (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "therein",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to reside"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "therein, referring to a feminine singular noun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "جِدَارًا",
+      "transliteration": "jidāran",
+      "meaning": "a wall",
+      "root": {
+        "letters": "ج-د-ر",
+        "meaning": "to be smooth, to be even; firmness, solidity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يُرِيدُ",
+      "transliteration": "yurīdu",
+      "meaning": "it intends",
+      "root": {
+        "letters": "ر-ي-د",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular"
+        },
+        {
+          "arabic": "رَيدَ",
+          "meaning": "desire, volition (verbal noun form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case (subject)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[to]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, presence; also used to form verbal nouns of measure VIII"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَنقَضَّ",
+      "transliteration": "yanqaḍḍa",
+      "meaning": "it collapses",
+      "root": {
+        "letters": "ن-ق-ض",
+        "meaning": "to demolish, dismantle, invalidate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَأَقَامَهُ",
+      "transliteration": "fa-ʾaqāmahu",
+      "meaning": "so he restored it",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to establish, to erect"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "أَـ",
+          "meaning": "to do/perform (prefix implying action)"
+        },
+        {
+          "arabic": "قَامَ",
+          "meaning": "to stand, to erect"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, or absence/lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "شِئْتَ",
+      "transliteration": "šiʾta",
+      "meaning": "you wished",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to desire, to want"
+      },
+      "components": [
+        {
+          "arabic": "شَاَءَ",
+          "meaning": "to will, to wish (root verb)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "second person masculine singular suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "لَاتَّخَذْتَ",
+      "transliteration": "la-ittakhaḏta",
+      "meaning": "you could have taken",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to select"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not, no (negative particle)"
+        },
+        {
+          "arabic": "اِتَّخَذْتَ",
+          "meaning": "you took, you chose (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon it",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to be high, to rise; to depend on, to relate to"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَجْرًا",
+      "transliteration": "ajran",
+      "meaning": "a payment",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-set-out until when-they-came-to people-of a-town they-asked its-people for-food so-they-refused to-host them so-they-found therein a-wall it-intends to-collapse so-he-restored it he-said if you-wished you-could-have-taken upon-it a-payment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

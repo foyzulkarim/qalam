@@ -1,0 +1,92 @@
+{
+  "verseId": "55:52",
+  "verse": {
+    "arabic": "فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ",
+    "transliteration": "Feehima min kulli fakihatin zawjani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 52
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهِمَا",
+      "transliteration": "fīhimā",
+      "meaning": "in them (dual)",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to contain, to include, to be in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "every, all of",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, wholeness, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَاكِهَةٍ",
+      "transliteration": "fākihatin",
+      "meaning": "fruit",
+      "root": {
+        "letters": "ف-ك-ه",
+        "meaning": "to be sweet, pleasant; to benefit or nourish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "زَوْجَانِ",
+      "transliteration": "zawjānī",
+      "meaning": "two kinds, a pair",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to couple, to unite"
+      },
+      "components": [
+        {
+          "arabic": "زَوْج",
+          "meaning": "pair, spouse"
+        },
+        {
+          "arabic": "َانِ",
+          "meaning": "dual ending, indicating two of something"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-them (dual) from of every fruit two kinds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

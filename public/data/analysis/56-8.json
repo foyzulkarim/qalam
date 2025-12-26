@@ -1,0 +1,83 @@
+{
+  "verseId": "56:8",
+  "verse": {
+    "arabic": "فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ",
+    "transliteration": "Faashabu almaymanati ma ashabu almaymanati",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَصْحَابُ",
+      "transliteration": "faʾaṣḥābu",
+      "meaning": "then the companions",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, or to associate with"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَصْحَابُ",
+          "meaning": "companions, friends, associates (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَيْمَنَةِ",
+      "transliteration": "al-maymanah",
+      "meaning": "the right (side)",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, auspiciousness, strength"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what?",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "ʾaṣḥābu",
+      "meaning": "are the companions",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمَيْمَنَةِ",
+      "transliteration": "al-maymanah",
+      "meaning": "the right (side)",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, auspiciousness, strength, power"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then] ʾaṣḥābu-the companions al-maymanah-the right mā-what? ʾaṣḥābu-companions al-maymanah-the right"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

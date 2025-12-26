@@ -1,0 +1,180 @@
+{
+  "verseId": "18:12",
+  "verse": {
+    "arabic": "ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ أَيُّ الْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوا أَمَدًا",
+    "transliteration": "Thumma baAAathnahum linaAAlama ayyu alhizbayni ahsa lima labithoo amadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set; also implies time sequence."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَعَثْنَاهُمْ",
+      "transliteration": "baʿathnāhum",
+      "meaning": "We awakened them, We resurrected them",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to raise up, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "بَعَثْ",
+          "meaning": "We sent, We raised up"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we (pronoun suffix)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِنَعْلَمَ",
+      "transliteration": "linaʿlama",
+      "meaning": "so that We know, in order that We ascertain",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "نَعْلَمَ",
+          "meaning": "we know, we ascertain"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَيُّ",
+      "transliteration": "ayyu",
+      "meaning": "which, who (interrogative)",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "relativity, questioning, existence"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "interrogative particle, denotes a question"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "pronoun, relative or interrogative"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "pronoun, relative or interrogative (elongation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْحِزْبَيْنِ",
+      "transliteration": "al-ḥizbayni",
+      "meaning": "the two factions, the two groups",
+      "root": {
+        "letters": "ح-ز-ب",
+        "meaning": "to gather, to form a party or group; division, faction"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حِزْبَيْنِ",
+          "meaning": "dual form of faction, group; two factions/groups (ḥizb + -ayn dual ending)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَحْصَىٰ",
+      "transliteration": "aḥṣā",
+      "meaning": "more precise, most accurate (superlative)",
+      "root": {
+        "letters": "ح-ص-ي",
+        "meaning": "to count, enumerate, reckon; to encompass completely, be aware of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لِمَا",
+      "transliteration": "limā",
+      "meaning": "for what, regarding what",
+      "root": {
+        "letters": "ل-م-و",
+        "meaning": "to desire, to will, for the sake of"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَبِثُوا",
+      "transliteration": "labithū",
+      "meaning": "they remained, they stayed",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to remain, to stay, to tarry"
+      },
+      "components": [
+        {
+          "arabic": "لَبِثَ",
+          "meaning": "to remain, to stay (basic form)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَمَدًا",
+      "transliteration": "amadān",
+      "meaning": "a period of time, a duration [of time]",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to stretch, prolongation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-we-awakened-them-[so]-that-we-know which-of-the-two-factions more-precise for-what they-remained a-duration"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

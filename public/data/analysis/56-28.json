@@ -1,0 +1,52 @@
+{
+  "verseId": "56:28",
+  "verse": {
+    "arabic": "فِي سِدْرٍ مَّخْضُودٍ",
+    "transliteration": "Fee sidrin makhdoodin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سِدْرٍ",
+      "transliteration": "sidrin",
+      "meaning": "lote tree, acacia tree",
+      "root": {
+        "letters": "س-د-ر",
+        "meaning": "to be firm, stable; to obstruct or block"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّخْضُودٍ",
+      "transliteration": "makhḍūdin",
+      "meaning": "stripped, pruned, thorns removed",
+      "root": {
+        "letters": "خ-د-و",
+        "meaning": "to strip, to remove, to prune"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in - lote tree - with thorns removed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

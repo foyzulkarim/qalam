@@ -1,0 +1,56 @@
+{
+  "verseId": "55:19",
+  "verse": {
+    "arabic": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+    "transliteration": "Maraja albahrayni yaltaqiyani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَرَجَ",
+      "transliteration": "maraja",
+      "meaning": "He let flow, He released, He mingled",
+      "root": {
+        "letters": "م-ر-ج",
+        "meaning": "To flow, to return, to release; related to water and abundance."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْبَحْرَيْنِ",
+      "transliteration": "al-baḥrayni",
+      "meaning": "the two seas"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَلْتَقِيَانِ",
+      "transliteration": "yaltaqīān",
+      "meaning": "they meet, they come together",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "to meet, to encounter"
+      },
+      "components": [
+        {
+          "arabic": "يلتقي",
+          "meaning": "they meet, he meets"
+        },
+        {
+          "arabic": "انِ",
+          "meaning": "dual pronoun suffix, they (two)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-released the two seas they-meet"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

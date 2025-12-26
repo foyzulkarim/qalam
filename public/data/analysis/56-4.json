@@ -1,0 +1,63 @@
+{
+  "verseId": "56:4",
+  "verse": {
+    "arabic": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+    "transliteration": "Itha rujjati alardu rajjan",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to go, to depart; to be transient or fleeting"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رُجَّتِ",
+      "transliteration": "rujjat",
+      "meaning": "was shaken, was convulsed",
+      "root": {
+        "letters": "ر-ج-ج",
+        "meaning": "to return, to go back; to shake, to move violently"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth, the land",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to spread out; the earth's surface"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَجًّا",
+      "transliteration": "rajjan",
+      "meaning": "shaking, convulsion, violently",
+      "root": {
+        "letters": "ر-ج-ج",
+        "meaning": "to return, to shake, to be agitated"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-whenever - was-shaken - the-earth - shaking"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

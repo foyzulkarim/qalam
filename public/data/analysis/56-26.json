@@ -1,0 +1,72 @@
+{
+  "verseId": "56:26",
+  "verse": {
+    "arabic": "إِلَّا قِيلًا سَلَامًا سَلَامًا",
+    "transliteration": "Illa qeelan salaman salaman",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, only",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to exclude, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قِيلًا",
+      "transliteration": "qīlan",
+      "meaning": "a saying, something said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قِيل",
+          "meaning": "said (passive participle)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-nafṣ (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَلَامًا",
+      "transliteration": "salāman",
+      "meaning": "peace, safety",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, wholeness, flawlessness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَلَامًا",
+      "transliteration": "salāman",
+      "meaning": "peace, safety",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, submission, intactness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-a saying peace-peace"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

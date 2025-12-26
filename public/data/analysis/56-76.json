@@ -1,0 +1,109 @@
+{
+  "verseId": "56:76",
+  "verse": {
+    "arabic": "وَإِنَّهُ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+    "transliteration": "Wainnahu laqasamun law taAAlamoona AAatheemun",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 76
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنَّهُ",
+      "transliteration": "waʾinnahu",
+      "meaning": "and indeed it/he",
+      "root": {
+        "letters": "ك-نّ-ن",
+        "meaning": "to be, to exist; hiddenness or concealment"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it/he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَقَسَمٌ",
+      "transliteration": "laqasamun",
+      "meaning": "is an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, apportion, share out; oath (derived from dividing something as a sign of sincerity)"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle, denial or rejection"
+        },
+        {
+          "arabic": "قَسَمٌ",
+          "meaning": "an oath, something sworn by; a division or portion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّوْ",
+      "transliteration": "law",
+      "meaning": "if/were",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, will, wishing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "you know/could know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to learn"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَلِمْـ",
+          "meaning": "root of knowing/learning"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَظِيمٌ",
+      "transliteration": "ʿaẓīmun",
+      "meaning": "great/immense",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, immense; power, magnitude"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed it/he - is-an oath - if - you know/could know - great/immense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

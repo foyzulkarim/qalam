@@ -1,0 +1,87 @@
+{
+  "verseId": "56:41",
+  "verse": {
+    "arabic": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
+    "transliteration": "Waashabu alshshimali ma ashabu alshshimali",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "ʾaṣḥābu",
+      "meaning": "companions, possessors",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الشِّمَالِ",
+      "transliteration": "ash-shimāli",
+      "meaning": "the left (side)",
+      "root": {
+        "letters": "ش-م-ل",
+        "meaning": "to be on the left, to lean towards, weakness/slackness (from which comes direction)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "ʾaṣḥābu",
+      "meaning": "companions, possessors",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to possess"
+      },
+      "components": [
+        {
+          "arabic": "أَصْحَابُ",
+          "meaning": "companions, possessors (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الشِّمَالِ",
+      "transliteration": "ash-shimāli",
+      "meaning": "the left (side)",
+      "root": {
+        "letters": "ش-م-ل",
+        "meaning": "to be on the left side; weakness, softness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - companions-of the left - what - companions-of the left"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "verseId": "55:1",
+  "verse": {
+    "arabic": "الرَّحْمَـٰنُ",
+    "transliteration": "Alrrahmanu",
+    "surah": "Ar-Rahman",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الرَّحْمَـٰنُ",
+      "transliteration": "ar-raḥmānu",
+      "meaning": "The Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "To have mercy; compassion; kindness"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰنُ",
+          "meaning": "The Most Merciful (intensive form of mercy)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "al-raḥmānu - [The] Most Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

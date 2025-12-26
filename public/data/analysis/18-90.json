@@ -1,0 +1,229 @@
+{
+  "verseId": "18:90",
+  "verse": {
+    "arabic": "حَتَّىٰ إِذَا بَلَغَ مَطْلِعَ الشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَىٰ قَوْمٍ لَّمْ نَجْعَل لَّهُم مِّن دُونِهَا سِتْرًا",
+    "transliteration": "Hatta itha balagha matliAAa alshshamsi wajadaha tatluAAu AAala qawmin lam najAAal lahum min dooniha sitran",
+    "surah": "Al-Kahf",
+    "verseNumber": 90
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to turn back, aversion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَلَغَ",
+      "transliteration": "balagha",
+      "meaning": "he reached, he attained",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to arrive, to attain, to be full/complete"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَطْلِعَ",
+      "transliteration": "maṭliʿa",
+      "meaning": "rising place, ascent (of the sun)",
+      "root": {
+        "letters": "ط-ل-ع",
+        "meaning": "to rise, to ascend"
+      },
+      "components": [
+        {
+          "arabic": "مَ",
+          "meaning": "prefix indicating a relative infinitive or verbal noun of intensity/place"
+        },
+        {
+          "arabic": "طَلِعَ",
+          "meaning": "to rise, to ascend (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الشَّمْسِ",
+      "transliteration": "ash-shamsi",
+      "meaning": "the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to shine, to be radiant; the sun itself"
+      },
+      "components": [
+        {
+          "arabic": "الشَّمْسِ",
+          "meaning": "the sun (definite noun, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَجَدَهَا",
+      "transliteration": "wajadahā",
+      "meaning": "he found it (feminine)",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to obtain, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "جَدَ",
+          "meaning": "he found (masculine)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَطْلُعُ",
+      "transliteration": "taṭluʿu",
+      "meaning": "it rises, rising",
+      "root": {
+        "letters": "ط-ل-ع",
+        "meaning": "to rise, to ascend, to appear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَوْمٍ",
+      "transliteration": "qawmin",
+      "meaning": "a people, tribe",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; a people or tribe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَّمْ",
+      "transliteration": "lam",
+      "meaning": "not (negative particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ل",
+          "meaning": "negative particle; used to negate the verb that follows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "نَجْعَل",
+      "transliteration": "najʿal",
+      "meaning": "We make, We place",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "جَعَل",
+          "meaning": "to make, to place"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَّهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِّن دُونِهَا",
+      "transliteration": "min dūnihā",
+      "meaning": "besides it, apart from it",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be humble; to lack, to be without"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "دُونِهَا",
+          "meaning": "besides it, apart from it (referring to a feminine singular noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "سِتْرًا",
+      "transliteration": "sitrān",
+      "meaning": "a shield, covering, concealment",
+      "root": {
+        "letters": "س-ت-ر",
+        "meaning": "to conceal, hide, cover"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "until-when he-reached rising-place the-sun he-found-it it-rises upon a-people not We-made for-them from besides-it shield"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "verseId": "56:33",
+  "verse": {
+    "arabic": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+    "transliteration": "La maqtooAAatin wala mamnooAAatin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, neither",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَقْطُوعَةٍ",
+      "transliteration": "maqṭūʿatin",
+      "meaning": "cut, severed, limited (in time/season)",
+      "root": {
+        "letters": "ق-ط-ع",
+        "meaning": "to cut, to sever, to separate"
+      },
+      "components": [
+        {
+          "arabic": "مَقْطُوعَةٍ",
+          "meaning": "cut, severed, limited (in time/season); passive participle of the verb قَطَعَ"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَمْنُوعَةٍ",
+      "transliteration": "mamnūʿatin",
+      "meaning": "forbidden, prohibited, restricted",
+      "root": {
+        "letters": "ن-ع-و",
+        "meaning": "to be prohibited, to be restricted, to lack access"
+      },
+      "components": [
+        {
+          "arabic": "مَمْنُوعَةٍ",
+          "meaning": "forbidden, prohibited (feminine singular passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-cut nor-forbidden"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "verseId": "18:19",
+  "verse": {
+    "arabic": "وَكَذَٰلِكَ بَعَثْنَاهُمْ لِيَتَسَاءَلُوا بَيْنَهُمْ ۚ قَالَ قَائِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ ۚ قَالُوا رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَابْعَثُوا أَحَدَكُم بِوَرِقِكُمْ هَـٰذِهِ إِلَى الْمَدِينَةِ فَلْيَنظُرْ أَيُّهَا أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+    "transliteration": "Wakathalika baAAathnahum liyatasaaloo baynahum qala qailun minhum kam labithtum qaloo labithna yawman aw baAAda yawmin qaloo rabbukum aAAlamu bima labithtum faibAAathoo ahadakum biwariqikum hathihi ila almadeenati falyanthur ayyuha azka taAAaman falyatikum birizqin minhu walyatalattaf wala yushAAiranna bikum ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kaḏālik",
+      "meaning": "thus, like that",
+      "root": {
+        "letters": "ك-د-ل",
+        "meaning": "to be, to exist; to follow a course or way"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like that (demonstrative prefix)"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that, this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَعَثْنَاهُمْ",
+      "transliteration": "baʿathnāhum",
+      "meaning": "We resurrected them, We awakened them",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to resurrect, to awaken"
+      },
+      "components": [
+        {
+          "arabic": "بَعَثْ",
+          "meaning": "We sent, We resurrected (verb root)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِيَتَسَاءَلُوا",
+      "transliteration": "li-yatasāʾalū",
+      "meaning": "so that they might question one another",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "so that, for the purpose of"
+        },
+        {
+          "arabic": "يَتَسَاءَلُوا",
+          "meaning": "they may question one another (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَيْنَهُمْ",
+      "transliteration": "baynahum",
+      "meaning": "among them, between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distinct, to separate, to clarify"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between, among"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قَائِلٌ",
+      "transliteration": "qāʾilun",
+      "meaning": "a speaker, one who says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to speak"
+      },
+      "components": [
+        {
+          "arabic": "قَائِل",
+          "meaning": "speaker, one who says (active participle)"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "tanwīn al-naṣb (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from among them",
+      "root": {
+        "letters": "م-ن-هـ",
+        "meaning": "to originate from, to be derived from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَمْ",
+      "transliteration": "kam",
+      "meaning": "how much, how long",
+      "root": {
+        "letters": "ك-م-و",
+        "meaning": "quantity, measure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَبِثْتُمْ",
+      "transliteration": "labithtum",
+      "meaning": "did you remain, have you stayed",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to remain, to stay, to tarry"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "particle indicating address/interrogation, or part of the verb conjugation"
+        },
+        {
+          "arabic": "بِثْتُمْ",
+          "meaning": "you remained/stayed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَبِثْنَا",
+      "transliteration": "labithnā",
+      "meaning": "we remained, we stayed",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to stay, to remain; delay, tarry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as something that passes)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to revert; alternative, or"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بَعْضَ",
+      "transliteration": "baʿḍa",
+      "meaning": "part of, some of",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, possess a portion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَوْمٍ",
+      "transliteration": "yawmin",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as something that passes)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "رَبُّكُمْ",
+      "transliteration": "rabbukum",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رب",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "aʿlamu",
+      "meaning": "more knowing, most knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more, most (superlative prefix)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what, about what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be abundant, to flow; wave or current (metaphorically: source/cause)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "لَبِثْتُمْ",
+      "transliteration": "labithtum",
+      "meaning": "you remained, you stayed",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to remain, to stay, to tarry"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "the preposition 'for', indicating the subject of staying"
+        },
+        {
+          "arabic": "بِثْتُمْ",
+          "meaning": "you stayed, you remained (second person masculine plural verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فَابْعَثُوا",
+      "transliteration": "fabʿathū",
+      "meaning": "so send",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to raise up, resurrection"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "ابْعَثُوا",
+          "meaning": "send (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "أَحَدَكُم",
+      "transliteration": "aḥadakum",
+      "meaning": "one of you",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, solitary, one"
+      },
+      "components": [
+        {
+          "arabic": "أَحَدَ",
+          "meaning": "one, unique"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "بِوَرِقِكُمْ",
+      "transliteration": "bi-waraqikum",
+      "meaning": "with your silver coin/money",
+      "root": {
+        "letters": "و-ر-ق",
+        "meaning": "to be white, brightness; generally referring to silver (due to its color)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "وَرِقِكُمْ",
+          "meaning": "your silver coins/money"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "هَـٰذِهِ",
+      "transliteration": "hādhhihi",
+      "meaning": "this (feminine)",
+      "root": {
+        "letters": "هـ-ذَا-ي",
+        "meaning": "to point, to indicate, existence"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰذِ",
+          "meaning": "this (demonstrative pronoun, base form)"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "feminine singular pronoun suffix (هاء)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "الْمَدِينَةِ",
+      "transliteration": "al-madīnati",
+      "meaning": "the city",
+      "root": {
+        "letters": "م-د-ن",
+        "meaning": "to settle, to live in a city; civilization"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَدِينَة",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "فَلْيَنظُرْ",
+      "transliteration": "fa-l-yanẓur",
+      "meaning": "so let him look, then he should see",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, in order that (particle of purpose)"
+        },
+        {
+          "arabic": "يَنْظُرْ",
+          "meaning": "he looks, he considers (verb in the subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyahā",
+      "meaning": "[vocative particle] which, what",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to be, existence; to call attention"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "sometimes used as an interrogative pronoun, also relates to calling attention or emphasis"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "vocative particle, calls attention to the person addressed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "أَزْكَىٰ",
+      "transliteration": "azkā",
+      "meaning": "better, purer, best",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean, virtuous; to grow, thrive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "طَعَامًا",
+      "transliteration": "ṭaʿāman",
+      "meaning": "food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, nourishment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "فَلْيَأْتِكُم",
+      "transliteration": "fa-l-yaʾtikum",
+      "meaning": "so let him bring to you, then he should come to you with",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "يَأْتِ",
+          "meaning": "he comes, he brings (subjunctive)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "بِرِزْقٍ",
+      "transliteration": "bi-rizqin",
+      "meaning": "with provision, with sustenance",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "رِزْقٍ",
+          "meaning": "provision, sustenance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "مِّنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it, of it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be sourced from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it, he, she (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "وَلْيَتَلَطَّفْ",
+      "transliteration": "wa-l-yatalṭaf",
+      "meaning": "and let him be cautious, and he should act kindly/gently",
+      "root": {
+        "letters": "ل-ط-ف",
+        "meaning": "subtlety, gentleness, kindness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for (purpose)"
+        },
+        {
+          "arabic": "يَتَلَطَّفْ",
+          "meaning": "he be cautious/kind, he act gently"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "وَلَا يُشْعِرَنَّ",
+      "transliteration": "wa-lā yushʿiran",
+      "meaning": "and let not anyone make aware, and he should not alert",
+      "root": {
+        "letters": "ش-ع-ر",
+        "meaning": "to feel, to be aware, to know something intimately; to perceive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "يُشْعِرَنَّ",
+          "meaning": "he should not make aware, he should not alert (negative imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "بِكُمْ",
+      "transliteration": "bikumu",
+      "meaning": "about you, with you",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; with respect to, according to"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "anyone, somebody",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, single"
+      },
+      "components": [
+        {
+          "arabic": "أَحَد",
+          "meaning": "unique, one"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fathah, indefinite accusative marker (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and thus We resurrected them [so] that they might question one another. Said a speaker from among them \"how long did you remain?\" They said \"we remained a day or part of a day.\" They said \"Your Lord is most knowing about what you remained. So send one of you with your silver coin this to the city and let him look [for] which is the best of food so let him bring to you with provision from it and let him be cautious and let not anyone make aware about you [anyone]."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

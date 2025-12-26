@@ -1,0 +1,134 @@
+{
+  "verseId": "18:25",
+  "verse": {
+    "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+    "transliteration": "Walabithoo fee kahfihim thalatha miatin sineena waizdadoo tisAAan",
+    "surah": "Al-Kahf",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَبِثُوا",
+      "transliteration": "wa-labithū",
+      "meaning": "and they remained/stayed",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to remain, to stay, to tarry"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَبِثُوا",
+          "meaning": "they remained/stayed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَهْفِهِمْ",
+      "transliteration": "kahfihim",
+      "meaning": "their cave",
+      "root": {
+        "letters": "ك-هـ-ف",
+        "meaning": "to shelter, to conceal, cave"
+      },
+      "components": [
+        {
+          "arabic": "كهف",
+          "meaning": "cave"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ثَلَاثَ",
+      "transliteration": "thalātha",
+      "meaning": "three",
+      "root": {
+        "letters": "ث-ل-ث",
+        "meaning": "to be three; to count, enumerate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِائَةٍ",
+      "transliteration": "miʾatin",
+      "meaning": "hundreds",
+      "root": {
+        "letters": "م-ؤ-ة",
+        "meaning": "counting, numerical value"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سِنِينَ",
+      "transliteration": "sinīna",
+      "meaning": "years",
+      "root": {
+        "letters": "س-ن-و",
+        "meaning": "to flow, to pass (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَازْدَادُوا",
+      "transliteration": "wa-zdādū",
+      "meaning": "and they increased/exceeded",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to exceed"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ازْدَادُوا",
+          "meaning": "they increased/exceeded (in quantity or intensity)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تِسْعًا",
+      "transliteration": "tisʿan",
+      "meaning": "nine",
+      "root": {
+        "letters": "ت-س-ع",
+        "meaning": "to count, to be nine"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-remained in their cave three hundreds years and-they-increased nine"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

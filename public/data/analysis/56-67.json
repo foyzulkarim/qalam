@@ -1,0 +1,52 @@
+{
+  "verseId": "56:67",
+  "verse": {
+    "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+    "transliteration": "Bal nahnu mahroomoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 67
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "rather, but rather, nay",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to be soaked; difficulty or impediment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, to incline, or to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَحْرُومُونَ",
+      "transliteration": "maḥrūmūn",
+      "meaning": "deprived, prevented, withheld (plural masculine)",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to be forbidden, prevented, or deprived"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "rather- we- deprived/withheld"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

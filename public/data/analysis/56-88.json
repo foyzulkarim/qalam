@@ -1,0 +1,89 @@
+{
+  "verseId": "56:88",
+  "verse": {
+    "arabic": "فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ",
+    "transliteration": "Faamma in kana mina almuqarrabeena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 88
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "then as for; so concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to direct towards"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for; concerning; regarding"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if; indeed",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was; to be (past tense)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be; to exist; to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from; of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from; source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمُقَرَّبِينَ",
+      "transliteration": "al-muqarrabīn",
+      "meaning": "the brought near; those drawn close",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach, to draw close"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُقَرَّبِينَ",
+          "meaning": "brought near, drawn close (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-then as for ʾin-if kāna-was mina-from al-muqarrabīn-[those]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

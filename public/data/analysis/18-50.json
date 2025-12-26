@@ -1,0 +1,461 @@
+{
+  "verseId": "18:50",
+  "verse": {
+    "arabic": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ ۗ أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَاءَ مِن دُونِي وَهُمْ لَكُمْ عَدُوٌّ ۚ بِئْسَ لِلظَّالِمِينَ بَدَلًا",
+    "transliteration": "Waith qulna lilmalaikati osjudoo liadama fasajadoo illa ibleesa kana mina aljinni fafasaqa AAan amri rabbihi afatattakhithoonahu wathurriyyatahu awliyaa min doonee wahum lakum AAaduwwun bisa lilththalimeena badalan",
+    "surah": "Al-Kahf",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when",
+      "root": {
+        "letters": "و-ذ-ي",
+        "meaning": "time, occasion, instance; to perceive or experience"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُلْنَا",
+      "transliteration": "qulnā",
+      "meaning": "We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to command"
+      },
+      "components": [
+        {
+          "arabic": "قُلْ",
+          "meaning": "Say (imperative)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِلْمَلَائِكَةِ",
+      "transliteration": "lilmalāʾikati",
+      "meaning": "to the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْمَلَائِكَةِ",
+          "meaning": "the angels"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اسْجُدُوا",
+      "transliteration": "usjudū",
+      "meaning": "prostrate yourselves",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to bow down, to prostrate, to submit humbly"
+      },
+      "components": [
+        {
+          "arabic": "اسْ",
+          "meaning": "prefix indicating command/imperative form (future tense)"
+        },
+        {
+          "arabic": "جُدُوا",
+          "meaning": "prostrate (plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِآدَمَ",
+      "transliteration": "liʾādama",
+      "meaning": "to Adam",
+      "root": {
+        "letters": "أ-د-م",
+        "meaning": "to form, to create; earth, clay"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "آدَمَ",
+          "meaning": "Adam (name of the prophet)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَسَجَدُوا",
+      "transliteration": "fasajadū",
+      "meaning": "so they prostrated",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to bow down, to prostrate"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "سَجَدُوا",
+          "meaning": "they prostrated"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to deny, to negate, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِبْلِيسَ",
+      "transliteration": "ʾiblīsa",
+      "meaning": "Iblees",
+      "root": {
+        "letters": "ب-ل-س",
+        "meaning": "smoothness, cleanness; ultimately associated with a fire/burning quality due to the method of creation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "he was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be sourced in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْجِنِّ",
+      "transliteration": "al-jinni",
+      "meaning": "the jinn",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to be concealed, to veil"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَفَسَقَ",
+      "transliteration": "fafasaqa",
+      "meaning": "so he transgressed",
+      "root": {
+        "letters": "ف-س-ق",
+        "meaning": "to deviate, to be disobedient, to go wrong"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "فَسَقَ",
+          "meaning": "he transgressed, he disobeyed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَنْ",
+      "transliteration": "ʿan",
+      "meaning": "from",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be away from, to depart from, protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَمْرِ",
+      "transliteration": "ʾamri",
+      "meaning": "the command [of]",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, matter, affair"
+      },
+      "components": [
+        {
+          "arabic": "أَمْر",
+          "meaning": "command, order"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive marker (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رب",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": {
+        "letters": "null",
+        "meaning": "no core meaning as it is a pause marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَفَتَتَّخِذُونَهُ",
+      "transliteration": "ʾafatattakhidhūnahu",
+      "meaning": "So will you take him?",
+      "root": {
+        "letters": "خ-ذ-ي",
+        "meaning": "to take, to choose, to possess"
+      },
+      "components": [
+        {
+          "arabic": "أَفَ",
+          "meaning": "So, then (interrogative particle)"
+        },
+        {
+          "arabic": "تَتَّخِذُونَ",
+          "meaning": "you take, you choose (verb)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَذُرِّيَّتَهُ",
+      "transliteration": "waḏurriyyatahu",
+      "meaning": "and his descendants",
+      "root": {
+        "letters": "ذ-ر-ي",
+        "meaning": "to spread, scatter; offspring, descendants"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ذُرِّيَّتَهُ",
+          "meaning": "his descendants"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَوْلِيَاءَ",
+      "transliteration": "ʾawliyāʾa",
+      "meaning": "as allies",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be near, to protect, to govern"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِن دُونِي",
+      "transliteration": "min dūnī",
+      "meaning": "other than Me",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, humble; to abstain from; other than"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, other than"
+        },
+        {
+          "arabic": "دُونِي",
+          "meaning": "my presence, Me (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَهُمْ",
+      "transliteration": "wahum",
+      "meaning": "and they",
+      "root": {
+        "letters": "هـ-مْ-ي",
+        "meaning": "to have, to possess; intention, desire"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "to you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عَدُوٌّ",
+      "transliteration": "ʿaduwwun",
+      "meaning": "enemies",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, to oppose, to transgress"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "بِئْسَ",
+      "transliteration": "biʾsa",
+      "meaning": "wretched [is]",
+      "root": {
+        "letters": "ب-ي-س",
+        "meaning": "insufficiency, badness, evil"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "preposition indicating manner or circumstance, here functioning as an intensifier expressing negativity"
+        },
+        {
+          "arabic": "يَسَ",
+          "meaning": "badness, wretchedness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "لِلظَّالِمِينَ",
+      "transliteration": "liẓ-ẓālimīna",
+      "meaning": "for the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, oppression"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "wrongdoers, oppressors, unjust people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "بَدَلًا",
+      "transliteration": "badalan",
+      "meaning": "as an exchange",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to substitute, exchange, replace"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We-said to-the angels prostrate yourselves to-Adam so-they prostrated except Iblees he-was from the jinn so-he transgressed from command [of] his Lord. Then will you take him and his descendants as allies other than Me while they are enemies to-you? Wretched [is] for the wrongdoers as an exchange."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "verseId": "56:5",
+  "verse": {
+    "arabic": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+    "transliteration": "Wabussati aljibalu bassan",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بُسَّتِ",
+      "transliteration": "busّati",
+      "meaning": "were broken down, were crumbled",
+      "root": {
+        "letters": "ب-س-ط",
+        "meaning": "to spread, to expand, to flatten"
+      },
+      "components": [
+        {
+          "arabic": "بُسّ",
+          "meaning": "passive participle stem indicating being broken down or crumbled"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "feminine singular passive voice suffix (indicating the subject is feminine and acted upon)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid, or high; to rise up"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَسًّا",
+      "transliteration": "bassan",
+      "meaning": "crumbling, broken down (state/manner)",
+      "root": {
+        "letters": "ب-س-س",
+        "meaning": "to be sufficient, to erode, to wear away"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - were broken down - the mountains - crumbling"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "verseId": "55:2",
+  "verse": {
+    "arabic": "عَلَّمَ الْقُرْآنَ",
+    "transliteration": "AAallama alqurana",
+    "surah": "Ar-Rahman",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَّمَ",
+      "transliteration": "ʿallama",
+      "meaning": "He taught, He instructed",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware; to possess knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْقُرْآنَ",
+      "transliteration": "al-qurʾāna",
+      "meaning": "The Qur'an, The Recitation",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُرْآنَ",
+          "meaning": "the recitation, the reading (verbal noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-taught - the-Qur'an"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

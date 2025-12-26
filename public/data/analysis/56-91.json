@@ -1,0 +1,97 @@
+{
+  "verseId": "56:91",
+  "verse": {
+    "arabic": "فَسَلَامٌ لَّكَ مِنْ أَصْحَابِ الْيَمِينِ",
+    "transliteration": "Fasalamun laka min ashabi alyameeni",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 91
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَلَامٌ",
+      "transliteration": "fa-salāmun",
+      "meaning": "Then peace",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, security; to be safe, sound, healthy"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "Then, so (particle indicating consequence or sequential order)"
+        },
+        {
+          "arabic": "سَلَامٌ",
+          "meaning": "Peace, well-being, safety (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّكَ",
+      "transliteration": "lak(a)",
+      "meaning": "for you",
+      "root": {
+        "letters": "ل-ك-و",
+        "meaning": "possession, ownership, belonging"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَصْحَابِ",
+      "transliteration": "aṣḥābi",
+      "meaning": "companions of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": [
+        {
+          "arabic": "أَصْحَابِ",
+          "meaning": "companions of, possessors of companionship"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْيَمِينِ",
+      "transliteration": "al-yamīni",
+      "meaning": "the right [side/hand]",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "strength, rightness, auspiciousness; to be strong or on the right side"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَمِينِ",
+          "meaning": "right (side/hand)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-peace for-you from companions of the-right"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

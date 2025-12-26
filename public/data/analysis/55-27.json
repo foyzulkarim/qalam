@@ -1,0 +1,116 @@
+{
+  "verseId": "55:27",
+  "verse": {
+    "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Wayabqa wajhu rabbika thoo aljalali waalikrami",
+    "surah": "Ar-Rahman",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَبْقَىٰ",
+      "transliteration": "wa yabqā",
+      "meaning": "and remains/endures",
+      "root": {
+        "letters": "ب-ق-ي",
+        "meaning": "to remain, to stay behind, to endure"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَبْقَىٰ",
+          "meaning": "he remains, he endures"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَجْهُ",
+      "transliteration": "wajhu",
+      "meaning": "face",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be prominent, to appear, face"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "-ك",
+          "meaning": "your (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذُو",
+      "transliteration": "dhū",
+      "meaning": "possessor of/owner of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, having, taste; also related to the idea of 'sides' or 'parts'"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْجَلَالِ",
+      "transliteration": "al-jalāl",
+      "meaning": "majesty/glory",
+      "root": {
+        "letters": "ج-ل-ل",
+        "meaning": "manifestation of greatness, splendor, dignity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَالْإِكْرَامِ",
+      "transliteration": "wa al-ikrām",
+      "meaning": "and honor/nobility",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "to be generous, to honor, to be noble"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "إِكْرَام",
+          "meaning": "honor, nobility, generosity"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-remains face Lord-your possessor-of majesty and honor"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

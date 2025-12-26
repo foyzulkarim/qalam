@@ -1,0 +1,82 @@
+{
+  "verseId": "55:10",
+  "verse": {
+    "arabic": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+    "transliteration": "Waalarda wadaAAaha lilanami",
+    "surah": "Ar-Rahman",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level; the earth's surface"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَضَعَهَا",
+      "transliteration": "waḍaʿahā",
+      "meaning": "He laid it out, He placed it",
+      "root": {
+        "letters": "ض-ع-ع",
+        "meaning": "to place, to set down, to put"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ضَعَ",
+          "meaning": "he placed, he laid down (verb root)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِلْأَنَامِ",
+      "transliteration": "lil-ʾanāmi",
+      "meaning": "for the creatures, for mankind",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; creatures, beings"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْأَنَامِ",
+          "meaning": "the creatures, mankind"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the earth - He laid it out - for the creatures"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

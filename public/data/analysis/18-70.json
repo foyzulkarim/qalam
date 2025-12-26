@@ -1,0 +1,213 @@
+{
+  "verseId": "18:70",
+  "verse": {
+    "arabic": "قَالَ فَإِنِ اتَّبَعْتَنِي فَلَا تَسْأَلْنِي عَن شَيْءٍ حَتَّىٰ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا",
+    "transliteration": "Qala faini ittabaAAtanee fala tasalnee AAan shayin hatta ohditha laka minhu thikran",
+    "surah": "Al-Kahf",
+    "verseNumber": 70
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَإِنِ",
+      "transliteration": "fa-ʾini",
+      "meaning": "Then if/So indeed"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اتَّبَعْتَنِي",
+      "transliteration": "ittabaʿtanī",
+      "meaning": "You follow me",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "prefix indicating intensification/completion, reflects the reflexive form"
+        },
+        {
+          "arabic": "بَعْتَ",
+          "meaning": "you followed (masculine singular)"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "me (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "Then not/So do not",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, to fail, to be lost or ruined."
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "Then/So"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "Not/Do not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَسْأَلْنِي",
+      "transliteration": "tasʾalnī",
+      "meaning": "You ask me",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person singular masculine present tense"
+        },
+        {
+          "arabic": "سْأَلَـ",
+          "meaning": "to ask, inquire (verb root)"
+        },
+        {
+          "arabic": "-نِي",
+          "meaning": "second person singular masculine pronoun suffix ('you')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "About/Concerning",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to go back; protection, care"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "A thing/Anything",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to be absent, lacking, or nonexistent; also, to be something/a matter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "Until/Up to the time that",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أُحْدِثَ",
+      "transliteration": "uḥditha",
+      "meaning": "I make/I originate",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to occur, to happen; to report, to narrate; novelty, newness"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating first person singular (I)"
+        },
+        {
+          "arabic": "حَدَّثَ",
+          "meaning": "to narrate, to inform; to happen"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "For you/To you",
+      "root": {
+        "letters": "ل-ك-ف",
+        "meaning": "Possession, ownership; to take or acquire."
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "For/To (preposition indicating indirect object or beneficiary)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhū",
+      "meaning": "From it/Of it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to proceed from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it/he (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ذِكْرًا",
+      "transliteration": "dhikran",
+      "meaning": "Mention/Remembrance",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "To remember, to mention, to recall, to be mindful."
+      },
+      "components": [
+        {
+          "arabic": "ذِكْرًا",
+          "meaning": "Mention, remembrance; an accusative singular noun indicating the object of remembering or mentioning."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said - Then-if/So-indeed - You-follow-me - Then-not - You-ask-me - About - A-thing/Anything - Until - I-make - For-you - From-it - Mention"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

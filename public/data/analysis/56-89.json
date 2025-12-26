@@ -1,0 +1,72 @@
+{
+  "verseId": "56:89",
+  "verse": {
+    "arabic": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+    "transliteration": "Farawhun warayhanun wajannatu naAAeemin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 89
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَرَوْحٌ",
+      "transliteration": "farawḥun",
+      "meaning": "coolness, refreshment, tranquility",
+      "root": {
+        "letters": "ر-و-ح",
+        "meaning": "to live, spirit, life force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَرَيْحَانٌ",
+      "transliteration": "warayḥānun",
+      "meaning": "basil, fragrant plant, sweetness of scent",
+      "root": {
+        "letters": "ر-ي-ح",
+        "meaning": "fragrance, scent; to smell good"
+      },
+      "components": [
+        {
+          "arabic": "ور",
+          "meaning": "intensity, abundance (prefix)"
+        },
+        {
+          "arabic": "يحان",
+          "meaning": "fragrance, scent (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَجَنَّتُ",
+      "transliteration": "wajannatun",
+      "meaning": "garden, orchard, paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be secluded; also associated with madness/ecstasy in some derivatives"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَعِيمٍ",
+      "transliteration": "naʿīmin",
+      "meaning": "bliss, delight, pleasure",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "enjoyment, comfort, pleasantness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-coolness and-basil and-garden of-pleasure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

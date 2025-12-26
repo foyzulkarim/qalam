@@ -1,0 +1,218 @@
+{
+  "verseId": "18:62",
+  "verse": {
+    "arabic": "فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَـٰذَا نَصَبًا",
+    "transliteration": "Falamma jawaza qala lifatahu atina ghadaana laqad laqeena min safarina hatha nasaban",
+    "surah": "Al-Kahf",
+    "verseNumber": 62
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَمَّا",
+      "transliteration": "fa-lammā",
+      "meaning": "so when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to be inclined towards"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (introducing a result or consequence)"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, as soon as, after"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَاوَزَا",
+      "transliteration": "jāwazā",
+      "meaning": "they passed beyond/overcame",
+      "root": {
+        "letters": "ج-و-ز",
+        "meaning": "to pass, to go beyond, to overcome"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِفَتَاهُ",
+      "transliteration": "li-fatāhi",
+      "meaning": "to his boy/young man",
+      "root": {
+        "letters": "ف-ت-ي",
+        "meaning": "youth, young man, boy; to be young"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "فَتَاهُ",
+          "meaning": "his boy/young man"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آتِنَا",
+      "transliteration": "ʾātinā",
+      "meaning": "bring to us",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to bring"
+      },
+      "components": [
+        {
+          "arabic": "آتِ",
+          "meaning": "bringer, one who comes (verbal noun form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "غَدَاءَنَا",
+      "transliteration": "ghadāʾanā",
+      "meaning": "our morning meal/breakfast",
+      "root": {
+        "letters": "غ-د-و",
+        "meaning": "to dawn, morning, early time"
+      },
+      "components": [
+        {
+          "arabic": "غَدَاءً",
+          "meaning": "morning meal/breakfast (accusative indefinite)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَقَدْ",
+      "transliteration": "la-qad",
+      "meaning": "certainly/indeed",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to have power, to be able, to measure, to estimate; inherently related to establishing something firmly"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "lam of emphasis, used to strengthen the statement"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "certainty, completion (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَقِينَا",
+      "transliteration": "laqinā",
+      "meaning": "we encountered/suffered",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "to meet, encounter, find"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "سَفَرِنَا",
+      "transliteration": "safarinā",
+      "meaning": "our journey",
+      "root": {
+        "letters": "س-ف-ر",
+        "meaning": "to travel; journeying"
+      },
+      "components": [
+        {
+          "arabic": "سَفَر",
+          "meaning": "journey; travel"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, demonstration"
+      },
+      "components": [
+        {
+          "arabic": "هَـ",
+          "meaning": "The demonstrative particle, indicating nearness."
+        },
+        {
+          "arabic": "ذَ",
+          "meaning": "Pronoun, part of the demonstrative structure."
+        },
+        {
+          "arabic": "ا",
+          "meaning": "Tanween al-fath, indicating indefiniteness and nominative case."
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نَصَبًا",
+      "transliteration": "naṣaban",
+      "meaning": "fatigue/hardship",
+      "root": {
+        "letters": "ن-ص-ب",
+        "meaning": "to erect, to set up; also to exert effort, toil"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-when they-passed-beyond it he-said to-his-boy bring-to-us our-morning-meal certainly we-encountered from our-journey this fatigue"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

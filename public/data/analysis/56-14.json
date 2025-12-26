@@ -1,0 +1,69 @@
+{
+  "verseId": "56:14",
+  "verse": {
+    "arabic": "وَقَلِيلٌ مِّنَ الْآخِرِينَ",
+    "transliteration": "Waqaleelun mina alakhireena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَلِيلٌ",
+      "transliteration": "qalīlun",
+      "meaning": "few, little",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be little, to diminish, scarcity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to lack, to be without, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْآخِرِينَ",
+      "transliteration": "al-ʾākhirīna",
+      "meaning": "the later ones, the last peoples",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the end, the last"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرِينَ",
+          "meaning": "later ones, last peoples (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-few from-the-later-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

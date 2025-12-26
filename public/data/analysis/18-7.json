@@ -1,0 +1,207 @@
+{
+  "verseId": "18:7",
+  "verse": {
+    "arabic": "إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+    "transliteration": "Inna jaAAalna ma AAala alardi zeenatan laha linabluwahum ayyuhum ahsanu AAamalan",
+    "surah": "Al-Kahf",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to be, to exist; indicating emphasis or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (first person plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَعَلْنَا",
+      "transliteration": "jaʿalnā",
+      "meaning": "We have made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made (verb base)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be spacious; the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "tanwin (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "زِينَةً",
+      "transliteration": "zīnatān",
+      "meaning": "adornment, decoration",
+      "root": {
+        "letters": "ز-ي-ن",
+        "meaning": "to be beautiful, to adorn, to embellish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّهَا",
+      "transliteration": "lahā",
+      "meaning": "for it",
+      "root": {
+        "letters": "ل-ه-و",
+        "meaning": "to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لِنَبْلُوَهُمْ",
+      "transliteration": "linabluwahum",
+      "meaning": "that We may test them",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to test, to try, to examine"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "نَبْلُوَهُمْ",
+          "meaning": "We test them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَيُّهُمْ",
+      "transliteration": "ʾayyahum",
+      "meaning": "which of them",
+      "root": {
+        "letters": "أ-ي-هـ",
+        "meaning": "to be, existence; interrogative particle"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "which, who"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَحْسَنُ",
+      "transliteration": "ʾaḥsanu",
+      "meaning": "best, most good",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حْسَنُ",
+          "meaning": "good, beautiful (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَمَلًا",
+      "transliteration": "ʿamalān",
+      "meaning": "deed, work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, to perform"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we have-made that-which-is on-the earth adornment for-it that-We may-test them which-of-them is best deed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

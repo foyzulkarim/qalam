@@ -1,0 +1,309 @@
+{
+  "verseId": "18:14",
+  "verse": {
+    "arabic": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا فَقَالُوا رَبُّنَا رَبُّ السَّمَاوَاتِ وَالْأَرْضِ لَن نَّدْعُوَ مِن دُونِهِ إِلَـٰهًا ۖ لَّقَدْ قُلْنَا إِذًا شَطَطًا",
+    "transliteration": "Warabatna AAala quloobihim ith qamoo faqaloo rabbuna rabbu alssamawati waalardi lan nadAAuwa min doonihi ilahan laqad qulna ithan shatatan",
+    "surah": "Al-Kahf",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَرَ‌بَطْنَا",
+      "transliteration": "wa-rabaṭnā",
+      "meaning": "and We fastened/strengthened",
+      "root": {
+        "letters": "ر-ب-ط",
+        "meaning": "to bind, to tie together, to strengthen"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَبَطْنَا",
+          "meaning": "We fastened/strengthened (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated, or superior"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قُلُوبِهِمْ",
+      "transliteration": "qulūbihim",
+      "meaning": "their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural)"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when/at the time when",
+      "root": {
+        "letters": "أ-ذْ-ه",
+        "meaning": "to go away, to depart; to perceive, to know"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَامُوا",
+      "transliteration": "qāmū",
+      "meaning": "they stood up/arose",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to be upright"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَقَالُوا",
+      "transliteration": "fa-qālū",
+      "meaning": "so they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَ‌بُّنَا",
+      "transliteration": "rab bunā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to control; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَ‌بُّ",
+      "transliteration": "rab bu",
+      "meaning": "Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion; to grow, increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "the heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, be elevated; height, loftiness"
+      },
+      "components": [
+        {
+          "arabic": "السَّمَ",
+          "meaning": "the heavens (general concept)"
+        },
+        {
+          "arabic": "ـَاتِ",
+          "meaning": "the definite plural marker, indicating multiple heavens"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَالْأَرْضِ",
+      "transliteration": "wal-arḍi",
+      "meaning": "and the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَن نَّدْعُوَ",
+      "transliteration": "lan nadʿū",
+      "meaning": "we will not invoke/call upon",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, invoke, pray"
+      },
+      "components": [
+        {
+          "arabic": "لَن",
+          "meaning": "will not (negative future particle)"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "we (first person plural pronoun)"
+        },
+        {
+          "arabic": "دَعُوَ",
+          "meaning": "invoke/call upon (verb, form I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن دُونِهِ",
+      "transliteration": "min dūnihi",
+      "meaning": "besides Him/other than Him",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be humble; to lack, to be without"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, besides"
+        },
+        {
+          "arabic": "دُونِهِ",
+          "meaning": "His absence/other than Him; possessive pronoun attached to دُون"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِلَـٰهًا",
+      "transliteration": "ilāhan",
+      "meaning": "a deity/god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; to be divine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَّقَدْ",
+      "transliteration": "laqad",
+      "meaning": "certainly/indeed",
+      "root": {
+        "letters": "ق-د-ل",
+        "meaning": "to hold back, to restrain, or to be firm/established"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "The emphatic particle 'la-', used for strong affirmation."
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "A particle indicating certainty or completion; often translated as 'indeed', 'certainly', or 'already'."
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "قُلْنَا",
+      "transliteration": "qulnā",
+      "meaning": "We have said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قُلْ",
+          "meaning": "say (command)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِذًا",
+      "transliteration": "idhān",
+      "meaning": "then/at that time",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to depart; time passing"
+      },
+      "components": [
+        {
+          "arabic": "إِذ",
+          "meaning": "at that time, when"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "then, so"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "شَطَطًا",
+      "transliteration": "shaṭaṭan",
+      "meaning": "excessive transgression/folly",
+      "root": {
+        "letters": "ش-ط-ط",
+        "meaning": "to exceed limits, to be excessive; deviation from the right path"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-We fastened upon-their hearts when they stood up so-they said Our-Lord Lord of-the heavens and-the earth Never-we will-invoke from other-than-Him a deity Certainly-We have said then an-excessive transgression."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

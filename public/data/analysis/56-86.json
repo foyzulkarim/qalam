@@ -1,0 +1,101 @@
+{
+  "verseId": "56:86",
+  "verse": {
+    "arabic": "فَلَوْلَا إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+    "transliteration": "Falawla in kuntum ghayra madeeneena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 86
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَوْلَا",
+      "transliteration": "falawlā",
+      "meaning": "Then why not, or what prevents",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to desire, to wish for; to be responsible for or protect"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so; a particle indicating consequence or emphasis"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were; conditional particle expressing unreality"
+        },
+        {
+          "arabic": "ـلا",
+          "meaning": "negative particle, reinforcing the conditional statement; 'not'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "اِنْ",
+          "meaning": "if, indeed (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were, you have been",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were (basic form)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "second person plural pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "غَيْرَ",
+      "transliteration": "ghayra",
+      "meaning": "other than, not",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to be different, to lack, to deviate from the usual"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَدِينِينَ",
+      "transliteration": "madīnīn",
+      "meaning": "recompensed, accounted for",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to settle a debt, to hold accountable, religion/judgment"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-why-not if indeed you-were not recompensed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

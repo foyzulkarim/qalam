@@ -1,0 +1,50 @@
+{
+  "verseId": "55:48",
+  "verse": {
+    "arabic": "ذَوَاتَا أَفْنَانٍ",
+    "transliteration": "Thawata afnanin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ذَوَاتَا",
+      "transliteration": "dhawātā",
+      "meaning": "Dual of possessing [things], having two possessions/features",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "possession, having, owner"
+      },
+      "components": [
+        {
+          "arabic": "ذَوَات",
+          "meaning": "possessing (things), having features"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "dual marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَفْنَانٍ",
+      "transliteration": "ʾafnānin",
+      "meaning": "Branches, specifically spreading branches/luxuriant foliage",
+      "root": {
+        "letters": "ف-ن-و",
+        "meaning": "To perish, to be extinguished; abundance, flourishing"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Having-two [things] branches"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

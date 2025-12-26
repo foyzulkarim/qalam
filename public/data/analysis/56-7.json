@@ -1,0 +1,69 @@
+{
+  "verseId": "56:7",
+  "verse": {
+    "arabic": "وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً",
+    "transliteration": "Wakuntum azwajan thalathatan",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were / you have been",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you be / you were"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "plural marker (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَزْوَاجًا",
+      "transliteration": "azwājan",
+      "meaning": "pairs / groups of two",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to couple, to unite in pairs"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ثَلَاثَةً",
+      "transliteration": "thalāthatan",
+      "meaning": "three",
+      "root": {
+        "letters": "ث-ل-ث",
+        "meaning": "to be three; to follow after, third"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you-were pairs three"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

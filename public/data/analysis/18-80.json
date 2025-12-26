@@ -1,0 +1,207 @@
+{
+  "verseId": "18:80",
+  "verse": {
+    "arabic": "وَأَمَّا الْغُلَامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَن يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا",
+    "transliteration": "Waamma alghulamu fakana abawahu muminayni fakhasheena an yurhiqahuma tughyanan wakufran",
+    "surah": "Al-Kahf",
+    "verseNumber": 80
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "as for / concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or, either... or..."
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْغُلَامُ",
+      "transliteration": "al-ghulāmu",
+      "meaning": "the boy",
+      "root": {
+        "letters": "غ-ل-م",
+        "meaning": "youth, immaturity, deficiency (in understanding or age)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "then / so",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, come back, result"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was / were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَبَوَاهُ",
+      "transliteration": "abawāhu",
+      "meaning": "his parents",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "father; parentage"
+      },
+      "components": [
+        {
+          "arabic": "أَبَو",
+          "meaning": "fathers; parents"
+        },
+        {
+          "arabic": "اهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُؤْمِنَيْنِ",
+      "transliteration": "muʾminayni",
+      "meaning": "believers (dual)",
+      "root": {
+        "letters": "ʔ-m-n",
+        "meaning": "to believe, to trust, to be secure"
+      },
+      "components": [
+        {
+          "arabic": "مُؤْمِن",
+          "meaning": "believer (masculine singular)"
+        },
+        {
+          "arabic": "يْنِ",
+          "meaning": "dual ending (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَخَشِينَا",
+      "transliteration": "fakhashīnā",
+      "meaning": "so we feared",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid, to dread"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, therefore (particle of consequence)"
+        },
+        {
+          "arabic": "خَشِينَا",
+          "meaning": "we feared (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that / to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; used to form verbal nouns and relative clauses"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُرْهِقَهُمَا",
+      "transliteration": "yurhiqahumā",
+      "meaning": "he would overburden them (dual)",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "to weary, to exhaust, to burden"
+      },
+      "components": [
+        {
+          "arabic": "يُرْ",
+          "meaning": "he (prefix indicating 3rd person masculine singular present/future tense)"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "طُغْيَانًا",
+      "transliteration": "ṭughyānā",
+      "meaning": "transgression / disobedience (accusative)",
+      "root": {
+        "letters": "ط-غ-ي",
+        "meaning": "to exceed limits, to be arrogant or oppressive"
+      },
+      "components": [
+        {
+          "arabic": "طُغْيَانًا",
+          "meaning": "transgression, disobedience (in an accusative state indicating manner or extent)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَكُفْرًا",
+      "transliteration": "wakufra",
+      "meaning": "and disbelief (accusative)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; ultimately relating to the covering of truth or gratitude with falsehood or ingratitude"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كُفْرًا",
+          "meaning": "disbelief, ingratitude (accusative case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - as for - the boy - then - was - his parents - believers (dual) - so we feared - that - he would overburden them (dual) - transgression - and disbelief"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

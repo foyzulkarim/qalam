@@ -1,0 +1,156 @@
+{
+  "verseId": "18:97",
+  "verse": {
+    "arabic": "فَمَا اسْطَاعُوا أَن يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا",
+    "transliteration": "Fama istaAAoo an yathharoohu wama istataAAoo lahu naqban",
+    "surah": "Al-Kahf",
+    "verseNumber": 97
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "so/then not",
+      "root": {
+        "letters": "م-و-د",
+        "meaning": "possession, ownership, affection, love (in a broad sense)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "not, none (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اسْطَاعُوا",
+      "transliteration": "isṭāʿū",
+      "meaning": "they were able/could",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be willing, to submit"
+      },
+      "components": [
+        {
+          "arabic": "اسْتَ",
+          "meaning": "prefix indicating ability or possibility, derived from root س-ط-و meaning ‘to dominate’"
+        },
+        {
+          "arabic": "طَاعُوا",
+          "meaning": "they were able/could (verb form from root ط-و-ع)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "to/that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; a particle indicating negation or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَظْهَرُوهُ",
+      "transliteration": "yaẓharūhu",
+      "meaning": "they reveal/make it appear",
+      "root": {
+        "letters": "ظ-ه-ر",
+        "meaning": "to appear, to become manifest, to overcome"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present tense, imperfective aspect"
+        },
+        {
+          "arabic": "ظَهَرُ",
+          "meaning": "to appear, to become manifest (verb root)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it (pronoun suffix, object marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to possess, to be able; negation/absence (related to capacity)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "not, whatever (interrogative), that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اسْتَطَاعُوا",
+      "transliteration": "isṭaṭāʿū",
+      "meaning": "they were able/could",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be willing, to submit willingly"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "prefix indicating seeking, attempting, or capability"
+        },
+        {
+          "arabic": "طَاعُوا",
+          "meaning": "they were able/could (from طاعة - obedience)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for it/to it",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نَقْبًا",
+      "transliteration": "naqban",
+      "meaning": "a penetration/digging",
+      "root": {
+        "letters": "ن-ق-ب",
+        "meaning": "to pierce, to perforate; to dig, to excavate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-not they-were-able to-reveal-it and-not they-were-able for-it a-penetration"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "verseId": "56:94",
+  "verse": {
+    "arabic": "وَتَصْلِيَةُ جَحِيمٍ",
+    "transliteration": "Watasliyatu jaheemin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 94
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَصْلِيَةُ",
+      "transliteration": "taṣliyah(tu)",
+      "meaning": "burning, roasting (feminine noun)",
+      "root": {
+        "letters": "ص-ل-ي",
+        "meaning": "to roast, burn; to pray (related semantic domain)"
+      },
+      "components": [
+        {
+          "arabic": "تَصْلِيَة",
+          "meaning": "act of burning/roasting, or something subjected to it (feminine form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَحِيمٍ",
+      "transliteration": "jaḥīm(in)",
+      "meaning": "Hellfire (genitive noun)",
+      "root": {
+        "letters": "ح-م-ي",
+        "meaning": "intense heat, burning, vehemence"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - burning-of - Hellfire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "verseId": "56:51",
+  "verse": {
+    "arabic": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+    "transliteration": "Thumma innakum ayyuha alddalloona almukaththiboona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 51
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish after something else; sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُمْ",
+      "transliteration": "kum",
+      "meaning": "you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O you (vocative particle)",
+      "root": {
+        "letters": "هـ-يْ-أ",
+        "meaning": "to call, to invoke attention; to exist"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "an interjection calling attention; sometimes indicates an indefinite subject"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "vocative suffix, indicating the person being addressed (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الضَّالُّونَ",
+      "transliteration": "al-ḍāllūna",
+      "meaning": "the astray, the misguided",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to err, to be lost"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ضَّالّ",
+          "meaning": "astray, misguided (active participle)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "plural marker (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمُكَذِّبُونَ",
+      "transliteration": "al-mukadhibūna",
+      "meaning": "the deniers, the disbelievers",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُكَذِّب",
+          "meaning": "denier, disbeliever (active participle)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural masculine suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-indeed you O those-[the]-astray [those who are] the-deniers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

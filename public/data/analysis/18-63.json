@@ -1,0 +1,328 @@
+{
+  "verseId": "18:63",
+  "verse": {
+    "arabic": "قَالَ أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ وَمَا أَنسَانِيهُ إِلَّا الشَّيْطَانُ أَنْ أَذْكُرَهُ ۚ وَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ عَجَبًا",
+    "transliteration": "Qala araayta ith awayna ila alssakhrati fainnee naseetu alhoota wama ansaneehu illa alshshaytanu an athkurahu waittakhatha sabeelahu fee albahri AAajaban",
+    "surah": "Al-Kahf",
+    "verseNumber": 63
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or narrate; encompassing all forms of verbal communication."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرَأَيْتَ",
+      "transliteration": "ʾarāyta",
+      "meaning": "Did you see?",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "To see, to observe, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "A questioning particle, indicating inquiry or astonishment; 'Did...?'"
+        },
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "You saw (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذْ",
+      "transliteration": "ʾidh",
+      "meaning": "When",
+      "root": {
+        "letters": "أ-ذْ-ي",
+        "meaning": "to perceive, to experience, to come upon"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَوَيْنَا",
+      "transliteration": "ʾawaynā",
+      "meaning": "We sought refuge/retired",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to go back, to seek refuge"
+      },
+      "components": [
+        {
+          "arabic": "أَو",
+          "meaning": "to return, to go back"
+        },
+        {
+          "arabic": "يْنَا",
+          "meaning": "we (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "To",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الصَّخْرَةِ",
+      "transliteration": "aṣ-ṣakhrah",
+      "meaning": "The rock",
+      "root": {
+        "letters": "ص-خ-ر",
+        "meaning": "to be hard, firm, solid; to strike forcefully"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَإِنِّي",
+      "transliteration": "faʾinnī",
+      "meaning": "Then indeed I",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, became"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنِّي",
+          "meaning": "indeed I, verily I"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نَسِيتُ",
+      "transliteration": "nasītu",
+      "meaning": "I forgot",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be absentminded"
+      },
+      "components": [
+        {
+          "arabic": "نَسِيتُ",
+          "meaning": "I forgot"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْحُوتَ",
+      "transliteration": "al-ḥūt",
+      "meaning": "The fish",
+      "root": {
+        "letters": "ح-و-ت",
+        "meaning": "To encompass, to surround; also related to size and volume."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "And what/And none",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "Possession, belonging, or to have; also includes the idea of negation and non-existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "What/None (relative pronoun or negation particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنسَانِيهُ",
+      "transliteration": "ʾansāniih",
+      "meaning": "Made me forget it",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": [
+        {
+          "arabic": "أَنۡسَ",
+          "meaning": "He made to forget"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "Pronoun suffix - my/me (first person singular)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "Pronoun suffix - it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "Except",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الشَّيْطَانُ",
+      "transliteration": "ash-shayṭān",
+      "meaning": "The Satan/devil",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to be distant, strayed from guidance; to burn or scorch"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَنْ",
+      "transliteration": "ʾan",
+      "meaning": "That/To",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; related to indication and affirmation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَذْكُرَهُ",
+      "transliteration": "ʾadhkurahū",
+      "meaning": "I should mention it",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "أَذْكُرُ",
+          "meaning": "I remember/mention (verb, imperfect)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۚ",
+      "transliteration": "–",
+      "meaning": "Pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَاتَّخَذَ",
+      "transliteration": "wattaḫadha",
+      "meaning": "And it took/And it chose",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to select"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّخَذَ",
+          "meaning": "to take, to choose (specifically)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "سَبِيلَهُ",
+      "transliteration": "sabīlahū",
+      "meaning": "Its course/Its way",
+      "root": {
+        "letters": "س-ب-ل",
+        "meaning": "to extend, to flow; path, way"
+      },
+      "components": [
+        {
+          "arabic": "سَبِيل",
+          "meaning": "way, path, course"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his/its"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْبَحْرِ",
+      "transliteration": "al-baḥr",
+      "meaning": "The sea",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to overflow, to swell; the ocean, vast expanse of water"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "عَجَبًا",
+      "transliteration": "ʿajaban",
+      "meaning": "Amazingly/Wonderfully",
+      "root": {
+        "letters": "ع-ج-ب",
+        "meaning": "To be amazing, wondrous; to find something strange or remarkable"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said Did-you-see When We-sought-refuge To-the-rock Then-indeed I Forgot The-fish And-what None-made-me-forget it Except The-Satan That I should-mention it.  And-it-took Its-course In-the-sea Amazingly."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "verseId": "56:80",
+  "verse": {
+    "arabic": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ",
+    "transliteration": "Tanzeelun min rabbi alAAalameena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 80
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَنزِيلٌ",
+      "transliteration": "tanzīlun",
+      "meaning": "A sending down, a revelation",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "A source, origin; to be from or have something originate from."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّبِّ",
+      "transliteration": "rabbi",
+      "meaning": "Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion, to grow; broadly, 'mastery'"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, possessor, master"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "Genitive marker (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīn",
+      "meaning": "The worlds",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds (plural of عالم)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "A-sending-down - from - Lord-of - the-worlds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "verseId": "18:92",
+  "verse": {
+    "arabic": "ثُمَّ أَتْبَعَ سَبَبًا",
+    "transliteration": "Thumma atbaAAa sababan",
+    "surah": "Al-Kahf",
+    "verseNumber": 92
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish; a sense of sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتْبَعَ",
+      "transliteration": "attabaʿa",
+      "meaning": "he followed, he pursued",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to seek after"
+      },
+      "components": [
+        {
+          "arabic": "أَتْ",
+          "meaning": "prefix indicating perfect tense and third person masculine singular"
+        },
+        {
+          "arabic": "بَعَ",
+          "meaning": "to follow, to pursue (root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَبَبًا",
+      "transliteration": "sababan",
+      "meaning": "a way, a path, a cause",
+      "root": {
+        "letters": "س-ب-ب",
+        "meaning": "to follow, to go after; a rope or cord (by extension, something that connects)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then- he-followed- a-way"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "verseId": "18:64",
+  "verse": {
+    "arabic": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَارْتَدَّا عَلَىٰ آثَارِهِمَا قَصَصًا",
+    "transliteration": "Qala thalika ma kunna nabghi fairtadda AAala atharihima qasasan",
+    "surah": "Al-Kahf",
+    "verseNumber": 64
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, utter, narrate; to command (related sense of 'saying' something into existence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that (masculine)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or humble"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of; that which has"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for; belonging to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what (relative pronoun)",
+      "root": {
+        "letters": "م-و-ء",
+        "meaning": "to be, to exist; non-specification"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "we were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "we were (verb in imperfect tense)"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "pronoun suffix indicating 'we'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَبْغِ",
+      "transliteration": "nabḥi",
+      "meaning": "we seek, we desire",
+      "root": {
+        "letters": "ن-ب-ع",
+        "meaning": "to originate, to emerge, to seek water; also used for seeking things generally"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَارْتَدَّا",
+      "transliteration": "fa-irtadda",
+      "meaning": "so they returned",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to revert, to go back"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "اِرْتَدَّ",
+          "meaning": "returned, reverted (Form X verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise; elevation, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "آثَارِهِمَا",
+      "transliteration": "āthārihimā",
+      "meaning": "their footprints (dual)",
+      "root": {
+        "letters": "أ-ث-ر",
+        "meaning": "to leave a trace; remnant; effect"
+      },
+      "components": [
+        {
+          "arabic": "آثَارِ",
+          "meaning": "footprints (plural)"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "their (dual possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَصَصًا",
+      "transliteration": "qaṣaṣan",
+      "meaning": "traces, stories (indefinite accusative)",
+      "root": {
+        "letters": "ق-ص-ص",
+        "meaning": "to relate, to recount; to seek (something), to follow a trace"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "said-that what we were seeking so they returned upon footprints their traces"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "verseId": "18:47",
+  "verse": {
+    "arabic": "وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا",
+    "transliteration": "Wayawma nusayyiru aljibala watara alarda barizatan wahasharnahum falam nughadir minhum ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 47
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُسَيِّرُ",
+      "transliteration": "nusayyiru",
+      "meaning": "We will move/cause to go",
+      "root": {
+        "letters": "س-ي-ر",
+        "meaning": "to travel, to go, to proceed"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "سَيِّرُ",
+          "meaning": "to cause to go, to move (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْجِبَالَ",
+      "transliteration": "al-jibāla",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise high; strength, power"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَرَى",
+      "transliteration": "tarā",
+      "meaning": "you see",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بَارِزَةً",
+      "transliteration": "bārizatan",
+      "meaning": "prominent/exposed",
+      "root": {
+        "letters": "ب-ر-ز",
+        "meaning": "to appear, to become visible or manifest"
+      },
+      "components": [
+        {
+          "arabic": "بَارِز",
+          "meaning": "prominent, exposed"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite accusative marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "حَشَرْنَاهُمْ",
+      "transliteration": "ḥasharnāhum",
+      "meaning": "We will gather them",
+      "root": {
+        "letters": "ح-ش-ر",
+        "meaning": "to gather, to collect, to assemble"
+      },
+      "components": [
+        {
+          "arabic": "حَشَرْنَا",
+          "meaning": "We gathered"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَلَمْ",
+      "transliteration": "fa-lam",
+      "meaning": "so not/then did not",
+      "root": {
+        "letters": "ل-م-د",
+        "meaning": "to desire, to will, to refuse"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not, did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نُغَادِرْ",
+      "transliteration": "nughādir",
+      "meaning": "We leave behind/omit",
+      "root": {
+        "letters": "غ-د-ر",
+        "meaning": "to depart, to leave behind, to betray"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "غَادِرْ",
+          "meaning": "to leave behind, to omit (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-هـ",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَحَدًا",
+      "transliteration": "ʾaḥadan",
+      "meaning": "anyone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "unique, one, singular"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the negation particle (not)"
+        },
+        {
+          "arabic": "حَدّ",
+          "meaning": "limit, bound, number; also the singular state"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and day [We] will move the mountains and you see the earth prominent and We gather them so not We leave from them anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

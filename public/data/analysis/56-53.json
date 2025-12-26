@@ -1,0 +1,61 @@
+{
+  "verseId": "56:53",
+  "verse": {
+    "arabic": "فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+    "transliteration": "Famalioona minha albutoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 53
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَالِئُونَ",
+      "transliteration": "famāliʾūna",
+      "meaning": "Those who fill (pl., active participle)",
+      "root": {
+        "letters": "م-ل-أ",
+        "meaning": "to be full, to fill"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "From it (feminine pronoun referring to water)",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْبُطُونَ",
+      "transliteration": "al-buṭūna",
+      "meaning": "The bellies (plural, definite)",
+      "root": {
+        "letters": "ب-ط-ن",
+        "meaning": "to be hollow, to have a belly; inner part of something"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [they are] fillers - from-it - the-bellies"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

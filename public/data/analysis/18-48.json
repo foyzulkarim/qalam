@@ -1,0 +1,306 @@
+{
+  "verseId": "18:48",
+  "verse": {
+    "arabic": "وَعُرِضُوا عَلَىٰ رَبِّكَ صَفًّا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًا",
+    "transliteration": "WaAAuridoo AAala rabbika saffan laqad jitumoona kama khalaqnakum awwala marratin bal zaAAamtum allan najAAala lakum mawAAidan",
+    "surah": "Al-Kahf",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَعُرِضُوا",
+      "transliteration": "waʿuriḍū",
+      "meaning": "and they were presented/displayed",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to display, to offer"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عُرِضُوا",
+          "meaning": "they were presented/displayed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَفًّا",
+      "transliteration": "ṣaffan",
+      "meaning": "in rows/lines",
+      "root": {
+        "letters": "ص-ف-ف",
+        "meaning": "to arrange, to line up, to rank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَّقَدْ",
+      "transliteration": "la-qad",
+      "meaning": "certainly/indeed",
+      "root": {
+        "letters": "ق-د-ع",
+        "meaning": "to establish, to decree, to set forth (firmly)"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "particle of emphasis, affirmation"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "certainly, indeed (derived from the root denoting establishing truth)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جِئْتُمُونَا",
+      "transliteration": "jiʾtumūnā",
+      "meaning": "you have come to Us",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جِئْتُم",
+          "meaning": "you have come (masculine plural)"
+        },
+        {
+          "arabic": "ونَا",
+          "meaning": "to Us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as/like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance, similarity"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "resembling, like"
+        },
+        {
+          "arabic": "ـمَا",
+          "meaning": "what, that which; indefinite relative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خَلَقْنَاكُمْ",
+      "transliteration": "khalaqnākum",
+      "meaning": "We created you",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "We created (verb)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (pronoun suffix, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَوَّلَ",
+      "transliteration": "awwala",
+      "meaning": "the first (time)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to come back; the beginning"
+      },
+      "components": [
+        {
+          "arabic": "أَوَّلُ",
+          "meaning": "the first, initial"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَرَّةٍ",
+      "transliteration": "marratin",
+      "meaning": "time",
+      "root": {
+        "letters": "م-ر-ر",
+        "meaning": "to pass, to flow; repetition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "but/rather",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to be moist; refusal or opposition (derived sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "زَعَمْتُمْ",
+      "transliteration": "zaʿamtum",
+      "meaning": "you claimed/asserted",
+      "root": {
+        "letters": "ظ-ع-م",
+        "meaning": "to think, to suppose, to claim falsely"
+      },
+      "components": [
+        {
+          "arabic": "زع",
+          "meaning": "base of claiming/asserting"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "suffix indicating second person plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَلَّن",
+      "transliteration": "ʾalla-na",
+      "meaning": "[that] we will not",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to be distant, to deviate, non-existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "a negative particle denoting future negation, 'not'"
+        },
+        {
+          "arabic": "لَّ",
+          "meaning": "particle of emphasis/future tense, often combined with negation"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "نَّجْعَلَ",
+      "transliteration": "najʿala",
+      "meaning": "We make/appoint",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to establish, to create, to make"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make/appoint"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَكُم",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مَّوْعِدًا",
+      "transliteration": "mawʿidan",
+      "meaning": "an appointment/meeting",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to fulfill a commitment"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-were-presented upon your-Lord in-rows certainly you-have-come-to-Us as We-created-you the-first time [pause-marker] but you-claimed that-we-will-not We-make for-you an-appointment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

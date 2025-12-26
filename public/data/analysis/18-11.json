@@ -1,0 +1,114 @@
+{
+  "verseId": "18:11",
+  "verse": {
+    "arabic": "فَضَرَبْنَا عَلَىٰ آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا",
+    "transliteration": "Fadarabna AAala athanihim fee alkahfi sineena AAadadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَضَرَبْنَا",
+      "transliteration": "fa-ḍarabnā",
+      "meaning": "so we struck/we caused to strike",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "to strike, to hit, to beat, to cause impact"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "ضَرَبْنَا",
+          "meaning": "we struck/caused to strike (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آذَانِهِمْ",
+      "transliteration": "ʾādhānihim",
+      "meaning": "their ears",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen, sound"
+      },
+      "components": [
+        {
+          "arabic": "آذَانِ",
+          "meaning": "ears (dual form)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكَهْفِ",
+      "transliteration": "al-kahfi",
+      "meaning": "the cave",
+      "root": {
+        "letters": "ك-هـ-ف",
+        "meaning": "to conceal, to hide; a place of concealment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سِنِينَ",
+      "transliteration": "sinīna",
+      "meaning": "years",
+      "root": {
+        "letters": "س-ن-و",
+        "meaning": "to flow, to pass (of time); year"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَدَدًا",
+      "transliteration": "ʿadadan",
+      "meaning": "a number/quantity",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to enumerate; number itself"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-we struck - upon - their ears - in - the cave - years - a number"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

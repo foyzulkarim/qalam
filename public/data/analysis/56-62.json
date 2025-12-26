@@ -1,0 +1,142 @@
+{
+  "verseId": "56:62",
+  "verse": {
+    "arabic": "وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+    "transliteration": "Walaqad AAalimtumu alnnashata aloola falawla tathakkaroona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 62
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa la-qad",
+      "meaning": "and indeed; and certainly",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be powerful; to have ability; to estimate or measure (and from this, to value and confirm)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "the emphatic particle (reinforces the following verb)"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "certainly; indeed (derived from the root, signifying confirmation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلِمْتُمُ",
+      "transliteration": "ʿalimtumū",
+      "meaning": "you have known",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "عَلِمْ",
+          "meaning": "you have known (perfect tense)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "pronoun suffix indicating 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّشْأَةَ",
+      "transliteration": "an-nashʾata",
+      "meaning": "the creation; the origin",
+      "root": {
+        "letters": "ن-ش-أ",
+        "meaning": "to originate; to rise; to begin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأُولَىٰ",
+      "transliteration": "al-ʾūlā",
+      "meaning": "the first",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أُولَىٰ",
+          "meaning": "first (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَلَوْلَا",
+      "transliteration": "fa-lawlā",
+      "meaning": "so why not; then what prevents",
+      "root": {
+        "letters": "ل-و-ل",
+        "meaning": "regret, loss; something preventing or hindering"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating emphasis or a causal relationship; 'so, then'"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "conditional particle; 'if, were'"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "negative particle; 'not'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَذَكَّرُونَ",
+      "transliteration": "taḏakkarūna",
+      "meaning": "you remember; you recall",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall; the act of remembrance itself"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense (present/future)"
+        },
+        {
+          "arabic": "ذَكَّرْ",
+          "meaning": "to remind, to cause to remember (form II verb)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person plural masculine (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed you-have-known the-creation the-first so-why-not you-remember"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

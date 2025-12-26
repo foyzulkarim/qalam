@@ -1,0 +1,178 @@
+{
+  "verseId": "18:44",
+  "verse": {
+    "arabic": "هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا",
+    "transliteration": "Hunalika alwalayatu lillahi alhaqqi huwa khayrun thawaban wakhayrun AAuqban",
+    "surah": "Al-Kahf",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هُنَالِكَ",
+      "transliteration": "hunālika",
+      "meaning": "There, at that place",
+      "root": {
+        "letters": "هـ-ل-ك",
+        "meaning": "to perish, to be lost, to go down"
+      },
+      "components": [
+        {
+          "arabic": "هُنَا",
+          "meaning": "here"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, at"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "that (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْوَلَايَةُ",
+      "transliteration": "al-wilāyatu",
+      "meaning": "The authority, the dominion, the guardianship",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to be responsible for, to govern"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillahi",
+      "meaning": "For Allah",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "Praise, glory, commendation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "For, to, belonging to"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَقِّ",
+      "transliteration": "al-ḥaqqi",
+      "meaning": "The Truth, the Real",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, to exist in reality, to be certain"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "Truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۚ",
+      "transliteration": "lā tadhkur",
+      "meaning": "(Pause marker)",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "تَذْكُر",
+          "meaning": "you remember, you mention (second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence, substance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "Better, best",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "Goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ثَوَابًا",
+      "transliteration": "thawāban",
+      "meaning": "Reward, recompense",
+      "root": {
+        "letters": "ث-و-ب",
+        "meaning": "To return, to come back; to bestow generously"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَخَيْرٌ",
+      "transliteration": "wa khayrun",
+      "meaning": "And better, and best",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "خَيْرٌ",
+          "meaning": "good, better, best"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عُقْبًا",
+      "transliteration": "ʿuqban",
+      "meaning": "Outcome, consequence, sequel",
+      "root": {
+        "letters": "ع-ق-ب",
+        "meaning": "To follow, to succeed; heel or posterior part of an animal's foot."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "There-at the-authority for-Allah the-Truth - He is better reward and better outcome"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "verseId": "56:58",
+  "verse": {
+    "arabic": "أَفَرَأَيْتُم مَّا تُمْنُونَ",
+    "transliteration": "Afaraaytum ma tumnoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 58
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَرَأَيْتُم",
+      "transliteration": "ʾa-fa-raʾaytum",
+      "meaning": "Have you considered/seen?",
+      "root": {
+        "letters": "ر-ء-ى",
+        "meaning": "to see, to perceive, to consider"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicating a question"
+        },
+        {
+          "arabic": "فَ",
+          "meaning": "particle emphasizing the preceding interrogative"
+        },
+        {
+          "arabic": "رَأَيْتُم",
+          "meaning": "you (plural) have seen/considered"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "that which/what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, desire; to possess, have"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُمْنُونَ",
+      "transliteration": "tum-nūnūna",
+      "meaning": "you emit/discharge/bestow",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to grant, bestow, favor"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "مْنُونَ",
+          "meaning": "to bestow, grant (verb form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-seen that-which you-emit?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

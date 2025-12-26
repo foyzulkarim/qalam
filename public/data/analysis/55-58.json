@@ -1,0 +1,60 @@
+{
+  "verseId": "55:58",
+  "verse": {
+    "arabic": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+    "transliteration": "Kaannahunna alyaqootu waalmarjanu",
+    "surah": "Ar-Rahman",
+    "verseNumber": 58
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَأَنَّهُنَّ",
+      "transliteration": "kaʾannahunna",
+      "meaning": "As if they were (feminine plural)",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "To be, existence; hidden or latent state"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "As if, like"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "That, indeed"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "They (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْيَاقُوتُ",
+      "transliteration": "al-yāqūt",
+      "meaning": "The rubies"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالْمَرْجَانُ",
+      "transliteration": "wal-marjān",
+      "meaning": "And the coral",
+      "root": {
+        "letters": "م-ر-ج",
+        "meaning": "To float, to swell, to appear on the surface (of water)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "as-if-they-were - the-rubies - and-the-coral"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

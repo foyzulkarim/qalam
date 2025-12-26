@@ -1,0 +1,121 @@
+{
+  "verseId": "18:4",
+  "verse": {
+    "arabic": "وَيُنذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّهُ وَلَدًا",
+    "transliteration": "Wayunthira allatheena qaloo ittakhatha Allahu waladan",
+    "surah": "Al-Kahf",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيُنذِرَ",
+      "transliteration": "wa-yunḏira",
+      "meaning": "and to warn",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُنذِّرَ",
+          "meaning": "he warns (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ي-ن",
+        "meaning": "possession, owner, relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَال",
+          "meaning": "they said (past tense, imperfect)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اتَّخَذَ",
+      "transliteration": "ittakhaḏa",
+      "meaning": "he took, he chose",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to hold, to seize; to choose"
+      },
+      "components": [
+        {
+          "arabic": "اِتـ",
+          "meaning": "prefixed 'it-', indicating attempt or completion of action"
+        },
+        {
+          "arabic": "تَخَذَ",
+          "meaning": "to take, to choose (basic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلَدًا",
+      "transliteration": "waladan",
+      "meaning": "a son",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to produce offspring"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-to warn those-who they-said he-took Allah a-son"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "verseId": "18:30",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+    "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati inna la nudeeAAu ajra man ahsana AAamalan",
+    "surah": "Al-Kahf",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also signifies emphasis or confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "particle of emphasis, introducing a statement with certainty; 'indeed', 'verily'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to possess, to have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed, have faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "indicates present/future tense, and plurality"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed/have faith (derived from أَمَنَ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَعَمِلُوا",
+      "transliteration": "wa-ʿamilū",
+      "meaning": "And they did, and worked",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to make"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَمِلُوا",
+          "meaning": "they did, they worked"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّالِحَاتِ",
+      "transliteration": "al-ṣāliḥāti",
+      "meaning": "The righteous deeds, the good ones",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, sound; to repair, improve"
+      },
+      "components": [
+        {
+          "arabic": "الصَّالِحَاتِ",
+          "meaning": "The righteous deeds, the good ones (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, if (conditional particle emphasizing the following statement)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (first-person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not, we do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "To negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نُضِيعُ",
+      "transliteration": "nuḍīʿu",
+      "meaning": "We waste, we lose",
+      "root": {
+        "letters": "ض-ي-ع",
+        "meaning": "to lose, to waste, to misplace"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَجْرَ",
+      "transliteration": "ʾajra",
+      "meaning": "Reward, the wages of",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward; effort or exertion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "Whoever, anyone who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "To perish, to be destroyed; also related to limitation and definition."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَحْسَنَ",
+      "transliteration": "ʾaḥsana",
+      "meaning": "Did well, perfected",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "Goodness, beauty, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَمَلًا",
+      "transliteration": "ʿamalā",
+      "meaning": "A deed, work [of doing]",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, to perform"
+      },
+      "components": [
+        {
+          "arabic": "عَمَل",
+          "meaning": "deed, work, action (unspecified form)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fatha - indefinite accusative singular noun marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-ones-who-believed-and-they-did-the-righteous-deeds-indeed-we-not-waste-reward-[of]-whoever-did-well-deed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

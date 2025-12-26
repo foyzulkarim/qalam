@@ -1,0 +1,211 @@
+{
+  "verseId": "18:65",
+  "verse": {
+    "arabic": "فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِّنْ عِندِنَا وَعَلَّمْنَاهُ مِن لَّدُنَّا عِلْمًا",
+    "transliteration": "Fawajada AAabdan min AAibadina ataynahu rahmatan min AAindina waAAallamnahu min ladunna AAilman",
+    "surah": "Al-Kahf",
+    "verseNumber": 65
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَوَجَدَا",
+      "transliteration": "fa-wajadā",
+      "meaning": "and they found",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to obtain, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "وَجَدَا",
+          "meaning": "they found (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَبْدًا",
+      "transliteration": "ʿabdan",
+      "meaning": "a servant, slave",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve; servitude"
+      },
+      "components": [
+        {
+          "arabic": "عَبْد",
+          "meaning": "servant, slave"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanween indefinite accusative (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from among",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, restrain, or originate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عِبَادِنَا",
+      "transliteration": "ʿibādinā",
+      "meaning": "Our servants",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve; servant"
+      },
+      "components": [
+        {
+          "arabic": "عِبَادِ",
+          "meaning": "servants (plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آتَيْنَاهُ",
+      "transliteration": "ātaynāhu",
+      "meaning": "We had given him",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, to bestow"
+      },
+      "components": [
+        {
+          "arabic": "آتَى",
+          "meaning": "to give, to bestow (verb)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَحْمَةً",
+      "transliteration": "raḥmatan",
+      "meaning": "mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness, kindness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to originate from, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عِندِنَا",
+      "transliteration": "ʿindinā",
+      "meaning": "from Us",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "with, at, near"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَعَلَّمْنَاهُ",
+      "transliteration": "wa-ʿallamnāhu",
+      "meaning": "and We taught him",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَلَّمْنَا",
+          "meaning": "We taught"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِّن لَّدُنَّا",
+      "transliteration": "min ladunnā",
+      "meaning": "from Us (intense)",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be near; humility, closeness"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "لَّدُنَّا",
+          "meaning": "Us (intense, implying closeness and authority)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عِلْمًا",
+      "transliteration": "ʿilman",
+      "meaning": "knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, possess knowledge"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-found a-servant from among Our-servants We-had-given him mercy from from-Us and-We-taught him from Us knowledge"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

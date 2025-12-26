@@ -1,0 +1,85 @@
+{
+  "verseId": "56:83",
+  "verse": {
+    "arabic": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+    "transliteration": "Falawla itha balaghati alhulqooma",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 83
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَوْلَا",
+      "transliteration": "fa-lawlā",
+      "meaning": "then why, but if not",
+      "root": {
+        "letters": "ل-و-ل",
+        "meaning": "regret, disappointment; or a conditional particle expressing 'if not'"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were it not for (conditional particle)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, none"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go, to depart; to come, to arrive; to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَلَغَتِ",
+      "transliteration": "balaġati",
+      "meaning": "it reached, attained",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to reach, attain, mature"
+      },
+      "components": [
+        {
+          "arabic": "بَلَغ",
+          "meaning": "to reach, attain"
+        },
+        {
+          "arabic": "-تِ",
+          "meaning": "feminine singular past tense marker (suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحُلْقُومَ",
+      "transliteration": "al-ḥulqūma",
+      "meaning": "the throat, the gullet",
+      "root": {
+        "letters": "ح-ل-ق",
+        "meaning": "to be hollow, to go down, to swallow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-lawlā - then why | idhā - when | balaġati - it reached | al-ḥulqūma - the throat"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

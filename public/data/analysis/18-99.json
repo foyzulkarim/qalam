@@ -1,0 +1,212 @@
+{
+  "verseId": "18:99",
+  "verse": {
+    "arabic": "وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ ۖ وَنُفِخَ فِي الصُّورِ فَجَمَعْنَاهُمْ جَمْعًا",
+    "transliteration": "Watarakna baAAdahum yawmaithin yamooju fee baAAdin wanufikha fee alssoori fajamaAAnahum jamAAan",
+    "surah": "Al-Kahf",
+    "verseNumber": 99
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَكْنَا",
+      "transliteration": "taraknā",
+      "meaning": "We left, We abandoned",
+      "root": {
+        "letters": "ت-ر-ك",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "تَرَكَ",
+          "meaning": "He left, He abandoned (basic verb form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَعْضَهُمْ",
+      "transliteration": "baʿḍahum",
+      "meaning": "some of them",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to take a portion; to divide; part of something"
+      },
+      "components": [
+        {
+          "arabic": "بَـ",
+          "meaning": "prefix denoting a portion of"
+        },
+        {
+          "arabic": "ضَـ",
+          "meaning": "part of something; a portion"
+        },
+        {
+          "arabic": "-هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then, that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَمُوجُ",
+      "transliteration": "yamūju",
+      "meaning": "surging, flowing violently",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to flow, surge, undulate; wave"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بَعْضٍ",
+      "transliteration": "baʿḍin",
+      "meaning": "some [of others]",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, to have a portion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "āyah",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَنُفِخَ",
+      "transliteration": "wanufikha",
+      "meaning": "and was blown",
+      "root": {
+        "letters": "نفخ-n-f-kh",
+        "meaning": "to exhale; to blow; to inspire life"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نُفِخَ",
+          "meaning": "was blown (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الصُّورِ",
+      "transliteration": "aṣ-ṣūri",
+      "meaning": "the Horn [trumpet]",
+      "root": {
+        "letters": "ص-و-ر",
+        "meaning": "to form, shape; to paint or describe; sound"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَجَمَعْنَاهُمْ",
+      "transliteration": "fajamaʿnāhum",
+      "meaning": "and We assembled them",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, gather, assemble"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (connective particle)"
+        },
+        {
+          "arabic": "جَمَعْنَا",
+          "meaning": "We gathered, We assembled (verb)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "جَمْعًا",
+      "transliteration": "jamʿan",
+      "meaning": "in an assembly, collectively",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to gather, to collect"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We-left some-of-them that-day surging in some [others] - and-was-blown in the-Horn so-We-assembled them an-assembly"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

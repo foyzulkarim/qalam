@@ -1,0 +1,103 @@
+{
+  "verseId": "56:18",
+  "verse": {
+    "arabic": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+    "transliteration": "Biakwabin waabareeqa wakasin min maAAeenin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِأَكْوَابٍ",
+      "transliteration": "biʾakwābin",
+      "meaning": "with vessels/goblets",
+      "root": {
+        "letters": "ك-و-ب",
+        "meaning": "to be full, to measure; vessel, cup"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "أَكْوَابٍ",
+          "meaning": "vessels/goblets (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَأَبَارِيقَ",
+      "transliteration": "waʾabārīqa",
+      "meaning": "and pitchers/jugs",
+      "root": {
+        "letters": "ب-ر-ق",
+        "meaning": "to shine, to gleam; lightning or flash (related to water)"
+      },
+      "components": [
+        {
+          "arabic": "أب",
+          "meaning": "father, origin"
+        },
+        {
+          "arabic": "اريق",
+          "meaning": "pouring, flowing (derived from the root ب-ر-ق related to water)"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker; indicates a singular noun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَكَأْسٍ",
+      "transliteration": "wakʾasin",
+      "meaning": "and a cup/glass",
+      "root": {
+        "letters": "ك-أ-س",
+        "meaning": "to drink, cup, glass"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَأْسٍ",
+          "meaning": "a cup/glass (indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن مَّعِينٍ",
+      "transliteration": "min maʿīnin",
+      "meaning": "from a flowing spring/water source",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to flow, to be abundant; a source of water"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَّعِينٍ",
+          "meaning": "a flowing spring/water source (derived from the root ع-ي-ن)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "with-vessels and-pitchers and-a-cup from a-flowing spring"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

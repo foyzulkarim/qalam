@@ -1,0 +1,78 @@
+{
+  "verseId": "55:5",
+  "verse": {
+    "arabic": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+    "transliteration": "Alshshamsu waalqamaru bihusbanin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الشَّمْسُ",
+      "transliteration": "ash-shamsu",
+      "meaning": "the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to rise, to go up; intensity of heat or light"
+      },
+      "components": [
+        {
+          "arabic": "الشَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مْسُ",
+          "meaning": "sun (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقَمَرُ",
+      "transliteration": "al-qamaru",
+      "meaning": "the moon",
+      "root": {
+        "letters": "ق-م-ر",
+        "meaning": "to measure, to control (time), darkness/obscurity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِحُسْبَانٍ",
+      "transliteration": "biḥusbānin",
+      "meaning": "by calculation/reckoning",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to suffice, to calculate, reckoning"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "حُسْبَانٍ",
+          "meaning": "calculation, reckoning (derived from the root ح-س-ب)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-sun - and - the-moon - by-calculation/reckoning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

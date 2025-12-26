@@ -1,0 +1,104 @@
+{
+  "verseId": "55:31",
+  "verse": {
+    "arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+    "transliteration": "Sanafrughu lakum ayyuha alththaqalani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَنَفْرُغُ",
+      "transliteration": "sanafruğu",
+      "meaning": "We will empty/discharge/attend to (fully)",
+      "root": {
+        "letters": "ف-ر-غ",
+        "meaning": "to be empty, to lack something; to discharge, to complete"
+      },
+      "components": [
+        {
+          "arabic": "سَـ",
+          "meaning": "future particle (indicating future tense)"
+        },
+        {
+          "arabic": "نَـ",
+          "meaning": "first person plural pronoun prefix (we)"
+        },
+        {
+          "arabic": "فَرُغ",
+          "meaning": "emptiness, completion; to be emptied/completed"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "tanwin al-fatḥ (indicates indefinite noun in the nominative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "For you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, existence; possession (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "For, to (preposition)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "You (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَيُّهَ",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O (general vocative)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "particle of address/calling"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الثَّقَلَانِ",
+      "transliteration": "ath-thaqalāni",
+      "meaning": "The two prominent/heavy ones",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "heaviness; weight; difficulty; arduousness"
+      },
+      "components": [
+        {
+          "arabic": "الثَّ",
+          "meaning": "The (definite article) with a shadda indicating doubling of the 'th'"
+        },
+        {
+          "arabic": "قَلَانِ",
+          "meaning": "dual form of 'thaqal', meaning heavy ones; prominent ones"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We-will-empty/discharge for-you O the-two-prominent-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

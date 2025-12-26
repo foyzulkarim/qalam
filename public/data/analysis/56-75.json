@@ -1,0 +1,96 @@
+{
+  "verseId": "56:75",
+  "verse": {
+    "arabic": "فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ",
+    "transliteration": "Fala oqsimu bimawaqiAAi alnnujoomi",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 75
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then, so no; the negative particle 'lā' preceded by a connective particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so; connective particle indicating sequence or result"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "no, not; negative particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "'uqsimu",
+      "meaning": "I swear; first-person singular present active verb",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, apportion, distribute; to swear (by dividing one's speech)"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "prefix indicating first-person singular present active verb (أ + سَمِعَ becomes أَسْمَعُ)"
+        },
+        {
+          "arabic": "قَسَمَ",
+          "meaning": "to swear; base verb form from the root ق-س-م"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah indicating present tense and first-person singular conjugation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمَوَاقِعِ",
+      "transliteration": "bi-mawāqiʿi",
+      "meaning": "by the setting places; preposition 'bi' followed by a genitive noun in indefinite plural form",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to occur, to happen; to be situated"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "مَوَاقِعِ",
+          "meaning": "setting places, sites of falling/occurring (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النُّجُومِ",
+      "transliteration": "an-nujūmi",
+      "meaning": "the stars; definite plural noun",
+      "root": {
+        "letters": "ن-ج-م",
+        "meaning": "to be bright, to shine; star, constellation"
+      },
+      "components": [
+        {
+          "arabic": "النُّجُومِ",
+          "meaning": "the stars (definite plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-so no I-swear by-setting-places the-stars"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

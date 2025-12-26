@@ -1,0 +1,103 @@
+{
+  "verseId": "56:87",
+  "verse": {
+    "arabic": "تَرْجِعُونَهَا إِن كُنتُمْ صَادِقِينَ",
+    "transliteration": "TarjiAAoonaha in kuntum sadiqeena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 87
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَرْجِعُونَهَا",
+      "transliteration": "tarjiʿūnahā",
+      "meaning": "You return it/bring it back",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine singular, present/future tense"
+        },
+        {
+          "arabic": "رَجَـ",
+          "meaning": "root of returning, going back"
+        },
+        {
+          "arabic": "ـعُون",
+          "meaning": "suffix indicating plural, second person masculine"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "suffix pronoun 'it/her', referring to the object being returned"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "If, indeed",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, truth, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "If, indeed (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "You were/you are (masculine plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist; becoming, state of being"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "To be (imperative/jussive form)"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "You (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَادِقِينَ",
+      "transliteration": "ṣādiqīn",
+      "meaning": "Truthful (masculine plural)",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "To be truthful, to speak the truth, correctness."
+      },
+      "components": [
+        {
+          "arabic": "صَادِق",
+          "meaning": "Truthful (singular masculine)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "Plural ending for masculine human beings."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "You-return-it--if--you-were--truthful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

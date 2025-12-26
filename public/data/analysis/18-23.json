@@ -1,0 +1,158 @@
+{
+  "verseId": "18:23",
+  "verse": {
+    "arabic": "وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا",
+    "transliteration": "Wala taqoolanna lishayin innee faAAilun thalika ghadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not; nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be incapable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَقُولَنَّ",
+      "transliteration": "taqūlanna",
+      "meaning": "you (emphatically) do not say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating emphatic negation"
+        },
+        {
+          "arabic": "قُولَ",
+          "meaning": "verbal noun from the root ق-و-ل, 'saying'"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "emphatic particle reinforcing the negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِشَيْءٍ",
+      "transliteration": "li-shayʾin",
+      "meaning": "to a thing; about anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something; to exist"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "شَيْءٍ",
+          "meaning": "a thing, something"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنِّي",
+      "transliteration": "innī",
+      "meaning": "indeed I; verily I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "indeed; verily (emphasizing particle)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَاعِلٌ",
+      "transliteration": "fāʿilun",
+      "meaning": "doer; one who will do",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to act"
+      },
+      "components": [
+        {
+          "arabic": "فَاعِل",
+          "meaning": "active participle pattern, indicating the one who performs the action"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "tanwīn al-fatḥ, indefinite marker (nunation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that; this (referring to the aforementioned thing)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; being low or base in status"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰ",
+          "meaning": "the letter 'dhāl' with a lengthening vowel, indicating emphasis or remoteness"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "the letter 'lām', a preposition indicating direction or specification, here functioning as part of the demonstrative pronoun"
+        },
+        {
+          "arabic": "ك",
+          "meaning": "the letter 'kāf', a pronoun suffix indicating 'that' (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "غَدًا",
+      "transliteration": "ghadan",
+      "meaning": "tomorrow",
+      "root": {
+        "letters": "غ-د-و",
+        "meaning": "to come, to arrive; future time"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you-(emphatically)-do-not say to-a-thing indeed-I doer that tomorrow"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

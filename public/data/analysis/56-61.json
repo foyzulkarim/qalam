@@ -1,0 +1,167 @@
+{
+  "verseId": "56:61",
+  "verse": {
+    "arabic": "عَلَىٰ أَن نُّبَدِّلَ أَمْثَالَكُمْ وَنُنشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+    "transliteration": "AAala an nubaddila amthalakum wanunshiakum fee ma la taAAlamoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 61
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, on account of",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate; superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, in order that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; intention, purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُّبَدِّلَ",
+      "transliteration": "nubaddila",
+      "meaning": "We change, We substitute",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to replace, to substitute, to exchange"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "بَدَّلَ",
+          "meaning": "to change, to substitute (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَمْثَالَكُمْ",
+      "transliteration": "ʾamthālakum",
+      "meaning": "your likenesses, your forms",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like"
+      },
+      "components": [
+        {
+          "arabic": "أمْثال",
+          "meaning": "likenesses, forms (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نُنشِئَكُمْ",
+      "transliteration": "nunshiʾukum",
+      "meaning": "We create you, We produce you",
+      "root": {
+        "letters": "ن-ش-أ",
+        "meaning": "to originate, to begin, to grow"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "نَشَأَ",
+          "meaning": "to grow, originate, be created"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (suffix, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun indicating negation or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "you know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person plural masculine (you)"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person plural masculine (you - active)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "upon-that We-change likenesses-of-you and We-create you in what not-you-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

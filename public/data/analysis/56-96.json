@@ -1,0 +1,85 @@
+{
+  "verseId": "56:96",
+  "verse": {
+    "arabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+    "transliteration": "Fasabbih biismi rabbika alAAatheemi",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 96
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَبِّحْ",
+      "transliteration": "fasabbiḥ",
+      "meaning": "So glorify/exalt",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim; to move fluidly, to praise, glorify, or exalt"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So/Then (particle indicating consequence or exhortation)"
+        },
+        {
+          "arabic": "سَبِّحْ",
+          "meaning": "Glorify/Exalt (imperative verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِاسْمِ",
+      "transliteration": "bismi",
+      "meaning": "With the name of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, highness, renown"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "اسْمِ",
+          "meaning": "the name (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "Your Lord"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَظِيمِ",
+      "transliteration": "al-ʿaẓīmi",
+      "meaning": "The Great/Most Great",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, large, immense; power, majesty"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيمِ",
+          "meaning": "great, magnificent"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-glorify with-the-name-of your-Lord the-Great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

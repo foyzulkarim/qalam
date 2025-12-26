@@ -1,0 +1,247 @@
+{
+  "verseId": "18:78",
+  "verse": {
+    "arabic": "قَالَ هَـٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+    "transliteration": "Qala hatha firaqu baynee wabaynika saonabbioka bitaweeli ma lam tastatiAA AAalayhi sabran",
+    "surah": "Al-Kahf",
+    "verseNumber": 78
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "This",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "pointing, indicating, demonstrating"
+      },
+      "components": [
+        {
+          "arabic": "هَـ",
+          "meaning": "the letter 'hā', used for emphasis and demonstration"
+        },
+        {
+          "arabic": "ذَ",
+          "meaning": "the letter 'dhāl', part of the demonstrative pronoun"
+        },
+        {
+          "arabic": "أ",
+          "meaning": "the letter 'alif', part of the demonstrative pronoun, indicates nearness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِرَاقُ",
+      "transliteration": "firāqu",
+      "meaning": "Parting, separation",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to divide, to break apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَيْنِي",
+      "transliteration": "baynī",
+      "meaning": "Between me",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distinct, to separate, to clear difference"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَبَيْنِكَ",
+      "transliteration": "wa baynika",
+      "meaning": "And between you",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be between, to separate, distinction"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَيْنَ",
+          "meaning": "between"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamu",
+      "meaning": "[Pause marker/no lexical meaning]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "تَعْلَمُ",
+          "meaning": "you know (masculine singular, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَأُنَبِّئُكَ",
+      "transliteration": "sa'unabbi'uka",
+      "meaning": "I will inform you",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to inform, news"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "future particle (will)"
+        },
+        {
+          "arabic": "أَنبِّئُ",
+          "meaning": "I inform, I relate (verb form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "to you (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِتَأْوِيلِ",
+      "transliteration": "bi ta'wīli",
+      "meaning": "With the interpretation of",
+      "root": {
+        "letters": "ت-و-ل",
+        "meaning": "To turn, to return, to assume control; also, to explain or interpret."
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With, by means of."
+        },
+        {
+          "arabic": "تَأْوِيلِ",
+          "meaning": "Interpretation, explanation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "That which/What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "To be/exist; possess the quality of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "[Negative particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَسْتَطِع",
+      "transliteration": "tastaṭiʿ",
+      "meaning": "You could/were able to",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be willing, to have power/ability"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular imperfect tense"
+        },
+        {
+          "arabic": "سْتَ",
+          "meaning": "indicates attempting/seeking to do something (form II derivational morpheme)"
+        },
+        {
+          "arabic": "طِع",
+          "meaning": "from the root ط-و-ع, related to ability/power"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَّلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "Upon it/about it",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to be high, elevated; to bear responsibility or burden; pertaining to something"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "pronoun suffix: it/him/her (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "صَبْرًا",
+      "transliteration": "ṣabran",
+      "meaning": "Patience, endurance",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "To endure, to bear with fortitude, to restrain oneself"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said This is parting between-me and-between-you. I-will-inform you with-the-interpretation of that-which not you-could about-it patience."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

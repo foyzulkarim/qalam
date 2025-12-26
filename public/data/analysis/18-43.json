@@ -1,0 +1,182 @@
+{
+  "verseId": "18:43",
+  "verse": {
+    "arabic": "وَلَمْ تَكُن لَّهُ فِئَةٌ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مُنتَصِرًا",
+    "transliteration": "Walam takun lahu fiatun yansuroonahu min dooni Allahi wama kana muntasiran",
+    "surah": "Al-Kahf",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not, never",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَكُن",
+      "transliteration": "takun",
+      "meaning": "to be (imperfect form)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "imperfect prefix indicating second person masculine singular"
+        },
+        {
+          "arabic": "كُن",
+          "meaning": "to be (root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَّهُ",
+      "transliteration": "lahu",
+      "meaning": "for him, to him",
+      "root": {
+        "letters": "ل-ه-ب",
+        "meaning": "to possess, to belong to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِئَةٌ",
+      "transliteration": "fi'atun",
+      "meaning": "a group, company",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to return, to come back; excess, remainder"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَنصُرُونَهُ",
+      "transliteration": "yanṣurūnuhu",
+      "meaning": "they aid him, they help him",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to aid, to help, to support"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person plural agent (they)"
+        },
+        {
+          "arabic": "نُصُر",
+          "meaning": "they aid/help (verb stem)"
+        },
+        {
+          "arabic": "ـُونَهُ",
+          "meaning": "suffix indicating plural, active voice and 'him' (masculine singular object pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِن دُونِ",
+      "transliteration": "min dūni",
+      "meaning": "apart from, other than",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to diminish, inferiority"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "دُونِ",
+          "meaning": "without, apart from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to worship, to be divine; the act of devotion and submission"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what, and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, to be (past form)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مُنتَصِرًا",
+      "transliteration": "muntāṣiran",
+      "meaning": "helped, victorious; one who defends himself",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to aid, to help, to overcome"
+      },
+      "components": [
+        {
+          "arabic": "مُنتَصِرًا",
+          "meaning": "one who is helped, victorious; one defending themselves."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - not - to be - for him - a group - they aid him - apart from - Allah - and not - was - helped/defending himself"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

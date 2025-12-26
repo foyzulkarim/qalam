@@ -1,0 +1,52 @@
+{
+  "verseId": "56:30",
+  "verse": {
+    "arabic": "وَظِلٍّ مَّمْدُودٍ",
+    "transliteration": "Wathillin mamdoodin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ظِلٍّ",
+      "transliteration": "ẓillin",
+      "meaning": "shade",
+      "root": {
+        "letters": "ظ-ل-ل",
+        "meaning": "darkness, shade, protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّمْدُودٍ",
+      "transliteration": "mamdūdin",
+      "meaning": "extended, stretched out",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to stretch, prolongation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - shade - extended"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

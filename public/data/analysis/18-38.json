@@ -1,0 +1,164 @@
+{
+  "verseId": "18:38",
+  "verse": {
+    "arabic": "لَّـٰكِنَّا هُوَ اللَّهُ رَبِّي وَلَا أُشْرِكُ بِرَبِّي أَحَدًا",
+    "transliteration": "Lakinna huwa Allahu rabbee wala oshriku birabbee ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّـٰكِنَّا",
+      "transliteration": "lākinnā",
+      "meaning": "But, however; yet, although",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hidden, concealed"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "كِنَّ",
+          "meaning": "but, however (conditional particle derived from كَانَ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He; it",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah; The God",
+      "root": {
+        "letters": "ل-ه-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master, Possessor"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not; no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "To negate, to refuse, to lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أُشْرِكُ",
+      "transliteration": "ushriku",
+      "meaning": "I associate; I join (as partners)",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate, to partake"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix denoting first-person singular imperfective tense (I)"
+        },
+        {
+          "arabic": "شَرِكَ",
+          "meaning": "to associate (someone/something) as a partner; to join in partnership"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah - indicates the vowel sound of the first syllable"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِرَبِّي",
+      "transliteration": "birabbī",
+      "meaning": "With my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "رَبِّي",
+          "meaning": "my Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "Anyone; something single",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Uniqueness, singularity, oneness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "The indefinite article, signifying 'a' or 'one'"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "Singularity, limit, boundary (as a noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "But-as-for-us He is Allah My-Lord and not I associate with my Lord anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

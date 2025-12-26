@@ -1,0 +1,183 @@
+{
+  "verseId": "55:29",
+  "verse": {
+    "arabic": "يَسْأَلُهُ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
+    "transliteration": "Yasaluhu man fee alssamawati waalardi kulla yawmin huwa fee shanin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَسْأَلُهُ",
+      "transliteration": "yasʾaluhu",
+      "meaning": "He asks Him",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense, and first-person singular form in some cases."
+        },
+        {
+          "arabic": "سْأَلَ",
+          "meaning": "to ask, inquire."
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "pronoun suffix 'Him', direct object marker."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "whoever, whoever is",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to conceal; also related to questioning and inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "the heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth, land"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (indicating possession or relationship)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿrif",
+      "meaning": "(pause marker)",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "تَعْرِفُ",
+          "meaning": "you know (masculine singular, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كُلَّ",
+      "transliteration": "kulla",
+      "meaning": "every, all",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَوْمٍ",
+      "transliteration": "yawmin",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as that which passes or exists."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "شَأْنٍ",
+      "transliteration": "shaʾnin",
+      "meaning": "matter, affair",
+      "root": {
+        "letters": "ش-أ-ن",
+        "meaning": "to establish, to create, to set forth; a matter or affair"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-asks-Him whoever in the heavens and in the earth [pause marker] every day He is in a matter."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

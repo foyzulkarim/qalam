@@ -1,0 +1,513 @@
+{
+  "verseId": "18:49",
+  "verse": {
+    "arabic": "وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَـٰذَا الْكِتَابِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا",
+    "transliteration": "WawudiAAa alkitabu fatara almujrimeena mushfiqeena mimma feehi wayaqooloona ya waylatana ma lihatha alkitabi la yughadiru sagheeratan wala kabeeratan illa ahsaha wawajadoo ma AAamiloo hadiran wala yathlimu rabbuka ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 49
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وُضِعَ",
+      "transliteration": "wuḍiʿa",
+      "meaning": "was placed, was set forth",
+      "root": {
+        "letters": "ض-ع-و",
+        "meaning": "to place, to set, to put down; weakness, need"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكِتَابُ",
+      "transliteration": "al-kitābu",
+      "meaning": "the book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording, correspondence"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَتَرَى",
+      "transliteration": "fa-tarā",
+      "meaning": "so you will see",
+      "root": {
+        "letters": "ر-أ-ى",
+        "meaning": "to see, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence or result)"
+        },
+        {
+          "arabic": "تَرَى",
+          "meaning": "you will see (verb, second person masculine singular future)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمُجْرِمِينَ",
+      "transliteration": "al-mujrimīna",
+      "meaning": "the criminals",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "to commit a crime; to transgress, violate"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُجْرِمِينَ",
+          "meaning": "criminals (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مُشْفِقِينَ",
+      "transliteration": "mushfiqīna",
+      "meaning": "fearful, apprehensive",
+      "root": {
+        "letters": "ش-ف-ق",
+        "meaning": "to feel compassion or tenderness; to be softhearted, pity"
+      },
+      "components": [
+        {
+          "arabic": "مُشْفِق",
+          "meaning": "one who fears or feels compassion; apprehensive"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending for masculine humans"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِمَّا",
+      "transliteration": "mim mā",
+      "meaning": "from what, of that which",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, prevent; to be from (a place)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, within it",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "to be in, to contain, to enter"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَيَقُولُونَ",
+      "transliteration": "wa yaqūlūna",
+      "meaning": "and they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقُولُونَ",
+          "meaning": "they say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O!",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَيْلَتَنَا",
+      "transliteration": "waylatanā",
+      "meaning": "woe to us!",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "loss, destruction, calamity"
+      },
+      "components": [
+        {
+          "arabic": "وَيْل",
+          "meaning": "woe, destruction"
+        },
+        {
+          "arabic": "-تَنَا",
+          "meaning": "our, to us (suffix indicating possession and direction)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَالِ",
+      "transliteration": "mā li",
+      "meaning": "what is the matter with, what [is] about",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; ownership itself"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "the book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing; to write"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُغَادِرُ",
+      "transliteration": "yughādiru",
+      "meaning": "leaves, omits",
+      "root": {
+        "letters": "غ-د-ر",
+        "meaning": "to depart, to leave; betrayal, deceit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "صَغِيرَةً",
+      "transliteration": "ṣaghīratan",
+      "meaning": "small thing, a little one",
+      "root": {
+        "letters": "ص-غ-ر",
+        "meaning": "to be small, young, insignificant; to lessen, diminish"
+      },
+      "components": [
+        {
+          "arabic": "صَغِير",
+          "meaning": "small, little"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite accusative case ending; indicating a small thing as the object of an action or in an adverbial capacity"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, impossibility"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "كَبِيرَةً",
+      "transliteration": "kabīratan",
+      "meaning": "large thing, a great one",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase; greatness"
+      },
+      "components": [
+        {
+          "arabic": "كَبِير",
+          "meaning": "large, great"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to refuse, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أَحْصَاهَا",
+      "transliteration": "aḥṣāhā",
+      "meaning": "it has enumerated it, counted it",
+      "root": {
+        "letters": "ح-ص-و",
+        "meaning": "to count, enumerate, reckon, be aware of"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating perfect tense (past)"
+        },
+        {
+          "arabic": "حَصَ",
+          "meaning": "to count, enumerate, reckon"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun, object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَوَدُّوا",
+      "transliteration": "wa wajadū",
+      "meaning": "and they found",
+      "root": {
+        "letters": "و-دّ-ع",
+        "meaning": "to love, to desire, to wish for"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "وَدُّوا",
+          "meaning": "they loved, they wished"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun indicating negation or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عَمِلُوا",
+      "transliteration": "ʿamilū",
+      "meaning": "they did, they worked",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, to perform, to work"
+      },
+      "components": [
+        {
+          "arabic": "عَمِل",
+          "meaning": "they did, they worked (past tense)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "حَاضِرًا",
+      "transliteration": "ḥāḍiran",
+      "meaning": "present , ready",
+      "root": {
+        "letters": "ح-ض-ر",
+        "meaning": "to be present, to attend, to come forth"
+      },
+      "components": [
+        {
+          "arabic": "حَضَرَ",
+          "meaning": "to be present (verb root)"
+        },
+        {
+          "arabic": "-ًا",
+          "meaning": "masculine indefinite accusative case ending (indicating a state or time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "يَظْلِمُ",
+      "transliteration": "yaẓlimu",
+      "meaning": "oppresses, does injustice to",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "anyone, a single one",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, singular, one"
+      },
+      "components": [
+        {
+          "arabic": "أَحَد",
+          "meaning": "unique, single"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwin indefinite accusative marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-was-placed the-book so-you-will-see the-criminals fearful of-what in-it and-they-say O woe-to-us what [is]-the-matter-with this the-book not leaves small thing and-not large thing except it-has-enumerated-it and-they-found what they-did present and-not oppresses your-Lord anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

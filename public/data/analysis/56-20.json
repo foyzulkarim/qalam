@@ -1,0 +1,84 @@
+{
+  "verseId": "56:20",
+  "verse": {
+    "arabic": "وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+    "transliteration": "Wafakihatin mimma yatakhayyaroona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "to connect, to join, to arrive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَاكِهَةٍ",
+      "transliteration": "fākihatan",
+      "meaning": "fruit"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّمَّا",
+      "transliteration": "min mā",
+      "meaning": "from what/of that which",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَتَخَيَّرُونَ",
+      "transliteration": "yataḫayyarūna",
+      "meaning": "they select/choose",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "to be good, to choose the best"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third-person plural"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "indicates a derived form (Form V) implying mutual or reflexive action"
+        },
+        {
+          "arabic": "خَيَّر",
+          "meaning": "to select, to choose"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating third-person plural masculine active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -fruit -from -what they -select"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

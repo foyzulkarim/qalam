@@ -1,0 +1,295 @@
+{
+  "verseId": "18:109",
+  "verse": {
+    "arabic": "قُل لَّوْ كَانَ الْبَحْرُ مِدَادًا لِّكَلِمَاتِ رَبِّي لَنَفِدَ الْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَاتُ رَبِّي وَلَوْ جِئْنَا بِمِثْلِهِ مَدَدًا",
+    "transliteration": "Qul law kana albahru midadan likalimati rabbee lanafida albahru qabla an tanfada kalimatu rabbee walaw jina bimithlihi madadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 109
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُل",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or narrate; generally related to conveying information through language."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّوْ",
+      "transliteration": "law",
+      "meaning": "If",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, will, possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Were, was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْبَحْرُ",
+      "transliteration": "al-baḥru",
+      "meaning": "The sea",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to swell, to overflow; vastness; depth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِدَادًا",
+      "transliteration": "midādan",
+      "meaning": "Ink",
+      "root": {
+        "letters": "د-و-د",
+        "meaning": "to smear, to color; also associated with love and affection (though less directly relevant here)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِّكَلِمَاتِ",
+      "transliteration": "li-kalimāti",
+      "meaning": "For the words of",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كَلِمَاتِ",
+          "meaning": "words (genitive plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to govern; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, master, possessor"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my - possessive suffix for the first person singular pronoun (أَنَا)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَنَفِدَ",
+      "transliteration": "lanafida",
+      "meaning": "Would be exhausted",
+      "root": {
+        "letters": "ن-ف-د",
+        "meaning": "to run out, to be exhausted, to deplete"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "نَفِدَ",
+          "meaning": "to be exhausted, to run out"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْبَحْرُ",
+      "transliteration": "al-baḥru",
+      "meaning": "The sea",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to surround, to encompass; vastness; to be full"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "بَحْرٌ",
+          "meaning": "Sea"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَبْلَ",
+      "transliteration": "qabla",
+      "meaning": "Before",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "To follow, to precede, to turn back towards"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[That]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَنفَدَ",
+      "transliteration": "tanfada",
+      "meaning": "Be exhausted",
+      "root": {
+        "letters": "ن-ف-د",
+        "meaning": "Depletion, exhaustion, running out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "كَلِمَاتُ",
+      "transliteration": "kalimātu",
+      "meaning": "The words of",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word"
+      },
+      "components": [
+        {
+          "arabic": "كَلِمَات",
+          "meaning": "words"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَلَوْ",
+      "transliteration": "wa-law",
+      "meaning": "And if",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to wish, to will, to desire; also, impossibility or hypothetical situations"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were (conditional particle indicating hypothetical situation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "جِئْنَا",
+      "transliteration": "jiʾnā",
+      "meaning": "We brought",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive, to bring"
+      },
+      "components": [
+        {
+          "arabic": "جِئْ",
+          "meaning": "we came/brought (verbal root form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِمِثْلِهِ",
+      "transliteration": "bi-mithlihi",
+      "meaning": "With its like",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "similarity, likeness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "مِثْلِ",
+          "meaning": "like, similar to"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مَدَدًا",
+      "transliteration": "madadan",
+      "meaning": "A supplement",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to prolong, to stretch out; help, assistance"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say-if-were-the-sea-ink-[for]-words-of-my-Lord-would-be-exhausted-the-sea-before-[that]-be-exhausted-words-of-my-Lord-and-if-we-brought-with-its-like-supplement."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

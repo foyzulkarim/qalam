@@ -1,0 +1,94 @@
+{
+  "verseId": "56:68",
+  "verse": {
+    "arabic": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
+    "transliteration": "Afaraaytumu almaa allathee tashraboona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 68
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَرَأَيْتُمُ",
+      "transliteration": "ʾafarʾaytumū",
+      "meaning": "Have you then seen?",
+      "root": {
+        "letters": "ر-أ-ي",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "أَفَ",
+          "meaning": "interrogative particle indicating questioning or astonishment"
+        },
+        {
+          "arabic": "رَأَيْتُمُ",
+          "meaning": "you have seen (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَاءَ",
+      "transliteration": "al-māʾa",
+      "meaning": "The water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, wateriness, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "That which/The one which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, or having a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "which/possessing a quality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَشْرَبُونَ",
+      "transliteration": "tašrabūnū",
+      "meaning": "You drink",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorb"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "شَرَبَ",
+          "meaning": "to drink (basic form)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you - active voice)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-then-seen the-water that-which you-drink"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "verseId": "55:78",
+  "verse": {
+    "arabic": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Tabaraka ismu rabbika thee aljalali waalikrami",
+    "surah": "Ar-Rahman",
+    "verseNumber": 78
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَبَارَكَ",
+      "transliteration": "tabārak(a)",
+      "meaning": "Blessed, increased in goodness",
+      "root": {
+        "letters": "ب-ر-ك",
+        "meaning": "To bless, to be abundant, to increase in goodness; firmness, stability."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اسْمُ",
+      "transliteration": "ismu",
+      "meaning": "Name",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, height; to rise above, be high in status or importance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi(ka)",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِي",
+      "transliteration": "dhī",
+      "meaning": "Owner of, possessor of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, ownership, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْجَلَالِ",
+      "transliteration": "al-jalāli",
+      "meaning": "Majesty, glory",
+      "root": {
+        "letters": "ج-ل-ل",
+        "meaning": "manifest greatness, splendor, magnificence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَالْإِكْرَامِ",
+      "transliteration": "wa-l-ikrām(i)",
+      "meaning": "And Honor, and Nobility",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, honorable, noble; excellence, perfection"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "إِكْرَام",
+          "meaning": "Honor, Nobility (verbal noun from the root ك-ر-م)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Blessed-is the name of-your Lord Owner-of Majesty and-Honor"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

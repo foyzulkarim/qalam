@@ -1,0 +1,83 @@
+{
+  "verseId": "56:52",
+  "verse": {
+    "arabic": "لَآكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+    "transliteration": "Laakiloona min shajarin min zaqqoomin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 52
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَآكِلُونَ",
+      "transliteration": "la-ākilūna",
+      "meaning": "eaters, those who will eat",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation particle, not"
+        },
+        {
+          "arabic": "آكِلُونَ",
+          "meaning": "ones who eat, eaters (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَجَرٍ",
+      "transliteration": "shajarin",
+      "meaning": "tree, trees (indefinite)",
+      "root": {
+        "letters": "ش-ج-ر",
+        "meaning": "to grow, to flourish; tree or plant as something that grows"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, restrain, or prevent; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "زَقُّومٍ",
+      "transliteration": "zaqqūmin",
+      "meaning": "Zaqqum (a bitter tree)",
+      "root": {
+        "letters": "ز-ق-و",
+        "meaning": "bitterness, hardship, thorny, unpleasantness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "will-be-eating from of tree from Zaqqum"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

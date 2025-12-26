@@ -1,0 +1,114 @@
+{
+  "verseId": "56:46",
+  "verse": {
+    "arabic": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنثِ الْعَظِيمِ",
+    "transliteration": "Wakanoo yusirroona AAala alhinthi alAAatheemi",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَكَانُوا",
+      "transliteration": "wa-kānū",
+      "meaning": "and they were/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; to become, happen"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانُوا",
+          "meaning": "they were/used to be"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُصِرُّونَ",
+      "transliteration": "yuṣirruna",
+      "meaning": "they persist/insist",
+      "root": {
+        "letters": "ص-ر-ر",
+        "meaning": "to be firm, steadfast, or resolute; to incline/tend towards something persistently"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense and first person (they)"
+        },
+        {
+          "arabic": "صِرُّ",
+          "meaning": "intensive form of persistence/insistence (from root ص-ر-ر)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحِنثِ",
+      "transliteration": "al-ḥinthi",
+      "meaning": "the breaking (of an oath)",
+      "root": {
+        "letters": "ح-ن-ث",
+        "meaning": "to break, to violate (a covenant or oath)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حِنث",
+          "meaning": "breaking (of an oath)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْعَظِيمِ",
+      "transliteration": "al-ʿaẓīmi",
+      "meaning": "the great/immense",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, immense, powerful"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيمٍ",
+          "meaning": "great, immense (adjective)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they were persisting upon the breaking-of-an-oath the great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "verseId": "18:103",
+  "verse": {
+    "arabic": "قُلْ هَلْ نُنَبِّئُكُم بِالْأَخْسَرِينَ أَعْمَالًا",
+    "transliteration": "Qul hal nunabbiokum bialakhsareena aAAmalan",
+    "surah": "Al-Kahf",
+    "verseNumber": 103
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say (imperative verb)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or narrate; encompasses communication and expression."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "Interrogative particle (introducing a question)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نُنَبِّئُكُم",
+      "transliteration": "nunabbiʾukum",
+      "meaning": "We inform you (verb)",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to inform, to give news"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "نَبِّئُ",
+          "meaning": "to inform, to give news (verb form)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالْأَخْسَرِينَ",
+      "transliteration": "bil-ʾakhsarīn",
+      "meaning": "With the losers (noun)",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to be defeated, to suffer loss"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْأَخْسَرِينَ",
+          "meaning": "the losers (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَعْمَالًا",
+      "transliteration": "ʾaʿmālan",
+      "meaning": "Deeds (noun, accusative)",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, labor"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say- [O Muhammad] - Interrogative particle - We inform you - With the losers - Deeds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

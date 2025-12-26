@@ -1,0 +1,94 @@
+{
+  "verseId": "56:24",
+  "verse": {
+    "arabic": "جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+    "transliteration": "Jazaan bima kanoo yaAAmaloona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "جَزَاءً",
+      "transliteration": "jazā’an",
+      "meaning": "reward, recompense",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "by what, for what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were (doing)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَعْمَلُونَ",
+      "transliteration": "yaʿmalūna",
+      "meaning": "they do, they used to do",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to practice"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, or subjunctive mood (depending on context)"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "action, work, deed"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine, they (doers)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "reward - for what - they were (doing) - they do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
