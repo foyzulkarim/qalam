@@ -7,6 +7,7 @@ interface VerseDisplayProps {
   className?: string
   size?: 'sm' | 'md' | 'lg' | 'xl'
   colorizeWords?: boolean
+  variant?: 'default' | 'memorized' | 'perfect'
 }
 
 const sizeStyles = {
@@ -14,6 +15,22 @@ const sizeStyles = {
   md: 'text-arabic-base',
   lg: 'text-arabic-lg',
   xl: 'text-arabic-xl',
+}
+
+// Variant styles for background and badge
+const variantStyles = {
+  default: {
+    bg: 'bg-primary-50/50',
+    badge: 'bg-primary-100 text-primary-700',
+  },
+  memorized: {
+    bg: 'bg-secondary-50/50',
+    badge: 'bg-secondary-100 text-secondary-700',
+  },
+  perfect: {
+    bg: 'bg-amber-50/50',
+    badge: 'bg-amber-100 text-amber-700',
+  },
 }
 
 // Alternating colors for word highlighting
@@ -29,19 +46,21 @@ export function VerseDisplay({
   className,
   size = 'lg',
   colorizeWords = false,
+  variant = 'default',
 }: VerseDisplayProps) {
   // Split Arabic text into words for colorization
   const words = arabic.split(/\s+/)
+  const styles = variantStyles[variant]
 
   return (
-    <div className={cn('bg-primary-50/50 rounded-xl p-6 md:p-8', className)}>
+    <div className={cn(styles.bg, 'rounded-xl p-6 md:p-8', className)}>
       {/* Surah and verse reference */}
       {(surahName || verseNumber) && (
         <div className="flex items-center justify-between mb-4 text-sm text-gray-500">
           {surahName && <span>{surahName}</span>}
           {verseNumber && (
-            <span className="bg-primary-100 text-primary-700 px-2.5 py-0.5 rounded-full font-medium">
-              Ayah {verseNumber}
+            <span className={cn(styles.badge, 'px-2.5 py-0.5 rounded-full font-medium')}>
+              {variant === 'perfect' && '⭐ '}Ayah {verseNumber}
             </span>
           )}
         </div>

@@ -6,6 +6,7 @@ import { Button, Card, Spinner, Alert } from '@/components/ui'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
 import { getQuranSurah, getAnalysisManifest } from '@/lib/data'
+import { getMemorizationStore, type MemorizedVerseData } from '@/lib/memorization'
 import type { QuranSurah } from '@/types'
 
 // Generate verse range tabs (e.g., [1-50], [51-100], etc.)
@@ -32,9 +33,17 @@ export default function SurahDetailClient({ params }: { params: Promise<{ id: st
 
   const [surah, setSurah] = useState<QuranSurah | null>(null)
   const [availableAnalyses, setAvailableAnalyses] = useState<Set<string>>(new Set())
+  const [memorizedVerses, setMemorizedVerses] = useState<Map<string, MemorizedVerseData>>(new Map())
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [activeRange, setActiveRange] = useState<{ start: number; end: number } | null>(null)
+
+  // Load memorized verses from localStorage (client-side only)
+  useEffect(() => {
+    const store = getMemorizationStore()
+    const verseMap = new Map(store.verses.map(v => [v.verseId, v]))
+    setMemorizedVerses(verseMap)
+  }, [])
 
   // Generate range tabs based on verse count
   const rangeTabs = useMemo(() => {
@@ -196,6 +205,45 @@ export default function SurahDetailClient({ params }: { params: Promise<{ id: st
           </Alert>
         )}
 
+        {/* Memorization Progress */}
+        {(() => {
+          const surahVerses = Array.from(memorizedVerses.entries()).filter(
+            ([id]) => id.startsWith(`${surah.id}:`)
+          )
+          const memorizedInSurah = surahVerses.length
+          if (memorizedInSurah === 0) return null
+
+          // Check if surah is perfect (all verses memorized with 100%)
+          const isPerfectSurah = memorizedInSurah === surah.verseCount &&
+            surahVerses.every(([, data]) => data.highScore >= 1.0)
+
+          return (
+            <div className={cn(
+              'mb-6 flex items-center gap-3 p-4 rounded-lg border',
+              isPerfectSurah
+                ? 'bg-amber-50 border-amber-300'
+                : 'bg-secondary-50 border-secondary-200'
+            )}>
+              {isPerfectSurah ? (
+                <span className="text-2xl">⭐</span>
+              ) : (
+                <svg className="w-6 h-6 text-secondary-600" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                </svg>
+              )}
+              <span className={cn(
+                'font-medium',
+                isPerfectSurah ? 'text-amber-800' : 'text-secondary-800'
+              )}>
+                {isPerfectSurah
+                  ? `Perfect! All ${surah.verseCount} verses memorized with 100%`
+                  : `${memorizedInSurah} of ${surah.verseCount} verses memorized`
+                }
+              </span>
+            </div>
+          )
+        })()}
+
         {/* Verses List */}
         <div className="space-y-4">
           <h2 className="text-xl font-semibold text-gray-900">
@@ -230,13 +278,32 @@ export default function SurahDetailClient({ params }: { params: Promise<{ id: st
               const hasAnalysis = availableAnalyses.has(verseId)
 
               if (hasAnalysis) {
+                const verseData = memorizedVerses.get(verseId)
+                const isMemorized = !!verseData
+                const isPerfect = isMemorized && verseData.highScore >= 1.0
+
                 return (
                   <Link key={verseId} href={`/browse/surah/${surah.id}/${verse.number}`}>
                     <Card hover className="group py-3">
                       <div className="flex items-center gap-4">
-                        {/* Verse Number */}
-                        <div className="w-9 h-9 bg-primary-100 rounded-full flex items-center justify-center flex-shrink-0 group-hover:bg-primary-200 transition-colors">
-                          <span className="text-primary-700 font-semibold text-sm">{verse.number}</span>
+                        {/* Verse Number - with memorized/perfect indicator */}
+                        <div className={cn(
+                          'w-9 h-9 rounded-full flex items-center justify-center flex-shrink-0 transition-colors',
+                          isPerfect
+                            ? 'bg-amber-100 ring-2 ring-amber-400 group-hover:bg-amber-200'
+                            : isMemorized
+                              ? 'bg-secondary-100 ring-2 ring-secondary-400 group-hover:bg-secondary-200'
+                              : 'bg-primary-100 group-hover:bg-primary-200'
+                        )}>
+                          {isPerfect ? (
+                            <span className="text-lg">⭐</span>
+                          ) : isMemorized ? (
+                            <svg className="w-5 h-5 text-secondary-600" fill="currentColor" viewBox="0 0 20 20">
+                              <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                            </svg>
+                          ) : (
+                            <span className="text-primary-700 font-semibold text-sm">{verse.number}</span>
+                          )}
                         </div>
 
                         {/* Arabic Text */}
@@ -247,6 +314,18 @@ export default function SurahDetailClient({ params }: { params: Promise<{ id: st
                         >
                           {verse.arabic}
                         </p>
+
+                        {/* Memorized/Perfect badge */}
+                        {isMemorized && (
+                          <span className={cn(
+                            'text-xs font-medium px-2 py-1 rounded-full flex-shrink-0',
+                            isPerfect
+                              ? 'text-amber-700 bg-amber-50'
+                              : 'text-secondary-600 bg-secondary-50'
+                          )}>
+                            {isPerfect ? 'Perfect!' : 'Memorized'}
+                          </span>
+                        )}
                       </div>
                     </Card>
                   </Link>

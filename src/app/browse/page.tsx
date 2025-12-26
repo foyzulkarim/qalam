@@ -6,6 +6,7 @@ import { Input, Card, Spinner } from '@/components/ui'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
 import { getAllSurahs, getAnalysisManifest, type AnalysisManifest } from '@/lib/data'
+import { getMemorizationStore, type MemorizedVerseData } from '@/lib/memorization'
 import type { Surah } from '@/types'
 
 type FilterType = 'all' | 'Meccan' | 'Medinan'
@@ -13,9 +14,17 @@ type FilterType = 'all' | 'Meccan' | 'Medinan'
 export default function BrowsePage() {
   const [surahs, setSurahs] = useState<Surah[]>([])
   const [analysisManifest, setAnalysisManifest] = useState<AnalysisManifest | null>(null)
+  const [memorizedVerses, setMemorizedVerses] = useState<Map<string, MemorizedVerseData>>(new Map())
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
   const [filter, setFilter] = useState<FilterType>('all')
+
+  // Load memorized verses from localStorage (client-side only)
+  useEffect(() => {
+    const store = getMemorizationStore()
+    const verseMap = new Map(store.verses.map(v => [v.verseId, v]))
+    setMemorizedVerses(verseMap)
+  }, [])
 
   useEffect(() => {
     async function loadData() {
@@ -53,6 +62,13 @@ export default function BrowsePage() {
     return analysisManifest.verses.filter(v => v.startsWith(`${surahId}:`)).length
   }
 
+  // Helper to get memorized verses for a surah
+  const getMemorizedForSurah = (surahId: number): MemorizedVerseData[] => {
+    return Array.from(memorizedVerses.entries())
+      .filter(([id]) => id.startsWith(`${surahId}:`))
+      .map(([, data]) => data)
+  }
+
   return (
     <div className="min-h-screen bg-gray-50">
       <Navbar />
@@ -65,6 +81,48 @@ export default function BrowsePage() {
             Select a surah to practice translating its verses
           </p>
         </div>
+
+        {/* Progress Summary */}
+        {memorizedVerses.size > 0 && (
+          <div className="mb-8 bg-gradient-to-r from-secondary-50 to-amber-50 rounded-xl p-6 border border-secondary-200">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+              <div>
+                <h2 className="text-lg font-semibold text-gray-900 mb-1">Your Progress</h2>
+                <p className="text-gray-600 text-sm">Keep up the great work!</p>
+              </div>
+              <div className="flex flex-wrap gap-4 sm:gap-6">
+                {/* Total Memorized */}
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-secondary-600">
+                    {memorizedVerses.size}
+                  </div>
+                  <div className="text-xs text-gray-500">Verses Memorized</div>
+                </div>
+                {/* Surahs with Progress */}
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-primary-600">
+                    {new Set(Array.from(memorizedVerses.keys()).map(id => id.split(':')[0])).size}
+                  </div>
+                  <div className="text-xs text-gray-500">Surahs Started</div>
+                </div>
+                {/* Perfect Scores */}
+                {(() => {
+                  const perfectCount = Array.from(memorizedVerses.values()).filter(v => v.highScore >= 1.0).length
+                  if (perfectCount === 0) return null
+                  return (
+                    <div className="text-center">
+                      <div className="text-2xl font-bold text-amber-600 flex items-center justify-center gap-1">
+                        <span>⭐</span>
+                        <span>{perfectCount}</span>
+                      </div>
+                      <div className="text-xs text-gray-500">Perfect Scores</div>
+                    </div>
+                  )
+                })()}
+              </div>
+            </div>
+          </div>
+        )}
 
         {/* Search and Filters */}
         <div className="mb-8 flex flex-col sm:flex-row gap-4">
@@ -140,26 +198,60 @@ export default function BrowsePage() {
                             {surah.revelationType}
                           </span>
                         </div>
-                        {/* Analysis Progress Bar */}
+                        {/* Progress Bars */}
                         {(() => {
                           const analyzed = getAnalysisCount(surah.id)
+                          const memorizedData = getMemorizedForSurah(surah.id)
+                          const memorized = memorizedData.length
                           const total = surah.verseCount
-                          const percentage = total > 0 ? Math.round((analyzed / total) * 100) : 0
+                          const analysisPercentage = total > 0 ? Math.round((analyzed / total) * 100) : 0
+                          const memorizedPercentage = total > 0 ? Math.round((memorized / total) * 100) : 0
+
+                          // Check if surah is perfect (all verses memorized with 100%)
+                          const isPerfectSurah = memorized === total &&
+                            memorizedData.every(v => v.highScore >= 1.0)
+
                           return (
-                            <div className="mt-2">
+                            <div className="mt-2 space-y-2">
+                              {/* Analysis Progress Bar */}
                               <div className="relative h-5 bg-gray-200 rounded-full overflow-hidden">
                                 <div
                                   className={cn(
                                     'h-full rounded-full transition-all',
-                                    percentage === 100 ? 'bg-primary-500' :
-                                    percentage > 0 ? 'bg-amber-500' : 'bg-gray-300'
+                                    analysisPercentage === 100 ? 'bg-primary-500' :
+                                    analysisPercentage > 0 ? 'bg-amber-500' : 'bg-gray-300'
                                   )}
-                                  style={{ width: `${Math.max(percentage, percentage > 0 ? 10 : 0)}%` }}
+                                  style={{ width: `${Math.max(analysisPercentage, analysisPercentage > 0 ? 10 : 0)}%` }}
                                 />
                                 <span className="absolute inset-0 flex items-center justify-center text-xs font-medium text-gray-700">
                                   {analyzed}/{total} analyzed
                                 </span>
                               </div>
+
+                              {/* Memorization Progress Bar - only show if any memorized */}
+                              {memorized > 0 && (
+                                <div className={cn(
+                                  'relative h-5 rounded-full overflow-hidden',
+                                  isPerfectSurah ? 'bg-amber-100' : 'bg-secondary-100'
+                                )}>
+                                  <div
+                                    className={cn(
+                                      'h-full rounded-full transition-all',
+                                      isPerfectSurah
+                                        ? 'bg-amber-400'
+                                        : memorizedPercentage === 100 ? 'bg-secondary-500' : 'bg-secondary-400'
+                                    )}
+                                    style={{ width: `${Math.max(memorizedPercentage, 10)}%` }}
+                                  />
+                                  <span className={cn(
+                                    'absolute inset-0 flex items-center justify-center text-xs font-medium',
+                                    isPerfectSurah ? 'text-amber-800' : 'text-secondary-800'
+                                  )}>
+                                    {isPerfectSurah && <span className="mr-1">⭐</span>}
+                                    {memorized}/{total} memorized
+                                  </span>
+                                </div>
+                              )}
                             </div>
                           )
                         })()}
