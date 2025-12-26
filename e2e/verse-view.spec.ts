@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 
 test.describe('Verse View', () => {
   test.beforeEach(async ({ page }) => {
-    await page.goto('/browse/surah/1/1')
+    await page.goto('/browse/surah/1/1/')
   })
 
   test('should display Arabic text with RTL direction', async ({ page }) => {
@@ -32,19 +32,19 @@ test.describe('Verse View', () => {
 
 test.describe('Verse Navigation', () => {
   test('should navigate to next verse', async ({ page }) => {
-    await page.goto('/browse/surah/1/1')
-    
+    await page.goto('/browse/surah/1/1/')
+
     // Look for next button or link
     const nextButton = page.locator('a[href*="/browse/surah/1/2"], button:has-text("Next")')
     if (await nextButton.count() > 0) {
       await nextButton.first().click()
-      await expect(page).toHaveURL(/\/browse\/surah\/1\/2/)
+      await expect(page).toHaveURL(/\/browse\/surah\/1\/2\/?/)
     }
   })
 
   test('should navigate between surahs', async ({ page }) => {
-    await page.goto('/browse/surah/1')
-    
+    await page.goto('/browse/surah/1/')
+
     // Check that we can see verse links
     const verseLinks = page.locator('a[href*="/browse/surah/1/"]')
     await expect(verseLinks.first()).toBeVisible()
@@ -53,21 +53,21 @@ test.describe('Verse Navigation', () => {
 
 test.describe('Deep Linking', () => {
   test('should load specific verse directly', async ({ page }) => {
-    await page.goto('/browse/surah/2/255')
-    
+    await page.goto('/browse/surah/2/255/')
+
     // Ayat al-Kursi - verse should load
     await expect(page.locator('[dir="rtl"], [lang="ar"]').first()).toBeVisible()
   })
 
   test('should load surah 114 (last surah)', async ({ page }) => {
-    await page.goto('/browse/surah/114/1')
-    
+    await page.goto('/browse/surah/114/1/')
+
     await expect(page.locator('[dir="rtl"], [lang="ar"]').first()).toBeVisible()
   })
 
   test('should handle first surah first verse', async ({ page }) => {
-    await page.goto('/browse/surah/1/1')
-    
+    await page.goto('/browse/surah/1/1/')
+
     await expect(page.locator('text=Al-Fatihah')).toBeVisible()
   })
 })

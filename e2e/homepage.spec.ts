@@ -10,8 +10,9 @@ test.describe('Homepage', () => {
   })
 
   test('should have navigation links', async ({ page }) => {
+    // Project uses trailingSlash: true
     await expect(page.locator('nav a[href="/"]')).toBeVisible()
-    await expect(page.locator('nav a[href="/browse"]')).toBeVisible()
+    await expect(page.locator('nav a[href="/browse/"]')).toBeVisible()
   })
 
   test('should have a Quick Practice button in navbar', async ({ page }) => {
@@ -24,7 +25,7 @@ test.describe('Homepage', () => {
   })
 
   test('should navigate to browse page', async ({ page }) => {
-    await page.click('nav a[href="/browse"]')
-    await expect(page).toHaveURL('/browse')
+    await page.click('nav a[href="/browse/"]')
+    await expect(page).toHaveURL(/\/browse\/?/)
   })
 })
