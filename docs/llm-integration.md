@@ -160,11 +160,11 @@ Analysis files are saved to `public/data/analysis/{surah}-{verse}.json`:
 
 ## Current Coverage
 
-Analysis has been generated for:
-- **Surah Al-Fatihah** (1:1-7)
-- **Juz Amma** (Surahs 78-114)
+Analysis files are stored in `public/data/analysis/`. To see current coverage:
 
-Total: ~550 verses with full word-by-word analysis.
+```bash
+ls public/data/analysis/ | wc -l
+```
 
 ## Adding More Verses
 
@@ -196,13 +196,13 @@ ollama serve
 **Script stops mid-way:**
 Just run again - it resumes from where it stopped.
 
-## Future: Runtime Evaluation
+## Runtime Evaluation (Worker)
 
-Planned feature: Users submit translation attempts and receive AI feedback.
+Users can submit translation attempts and receive AI feedback via the Assessment API.
 
-This would require:
-- Runtime LLM API (Ollama or cloud provider)
+This is implemented as a Cloudflare Worker with:
+- KV caching for repeated submissions
+- Together.ai / vLLM / Ollama backend options
 - Evaluation prompt comparing user input to correct translation
-- Scoring and feedback generation
 
-Currently not implemented - the app only displays pre-computed analysis.
+See [Worker README](../worker/README.md) for API reference and setup.
