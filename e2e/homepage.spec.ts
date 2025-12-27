@@ -6,7 +6,8 @@ test.describe('Homepage', () => {
   })
 
   test('should display the Qalam logo', async ({ page }) => {
-    await expect(page.locator('text=Qalam')).toBeVisible()
+    // Target nav specifically since footer also has Qalam text
+    await expect(page.locator('nav').getByText('Qalam')).toBeVisible()
   })
 
   test('should have navigation links', async ({ page }) => {
