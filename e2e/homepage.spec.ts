@@ -11,8 +11,8 @@ test.describe('Homepage', () => {
   })
 
   test('should have navigation links', async ({ page }) => {
-    // Use flexible selectors for static export
-    await expect(page.locator('nav a[href="/"]')).toBeVisible()
+    // Use semantic selectors - avoid href attribute matching
+    await expect(page.locator('nav').getByRole('link', { name: 'Home' })).toBeVisible()
     await expect(page.locator('nav').getByRole('link', { name: 'Browse' })).toBeVisible()
   })
 
