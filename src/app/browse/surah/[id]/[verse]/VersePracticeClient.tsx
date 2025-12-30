@@ -6,11 +6,13 @@ import { useRouter } from 'next/navigation'
 import { Button, Card, CardHeader, CardTitle, CardContent, Textarea, Alert, Spinner } from '@/components/ui'
 import { VerseDisplay } from '@/components/VerseDisplay'
 import { FeedbackCard } from '@/components/FeedbackCard'
+import { AttemptHistoryModal } from '@/components/AttemptHistoryModal'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
 import { getVerseAnalysis, getSurahMetadata } from '@/lib/data'
 import { saveLastVerse } from '@/lib/lastVerse'
 import { markVerseMemorized, getMemorizedVerse, unmemorizeVerse, type MemorizedVerseData } from '@/lib/memorization'
+import { saveAttempt, getVerseAttempts, clearVerseHistory, type StoredAttempt } from '@/lib/attemptHistory'
 import type { AttemptFeedback, WordAnalysis, VerseAnalysis, Verse, Surah } from '@/types'
 
 // Default analysis for verses without pre-computed analysis (verse 1:1)
@@ -80,10 +82,17 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
   const [showHints, setShowHints] = useState(false)
   const [verseAnalysis, setVerseAnalysis] = useState<VerseAnalysis | null>(null)
   const [memorizedData, setMemorizedData] = useState<MemorizedVerseData | null>(null)
+  const [historyModalOpen, setHistoryModalOpen] = useState(false)
+  const [verseAttempts, setVerseAttempts] = useState<StoredAttempt[]>([])
 
   // Check memorization status on mount and when verseId changes
   useEffect(() => {
     setMemorizedData(getMemorizedVerse(verseId))
+  }, [verseId])
+
+  // Load attempt history when verseId changes
+  useEffect(() => {
+    setVerseAttempts(getVerseAttempts(verseId))
   }, [verseId])
 
   // Derived state for convenience
@@ -179,12 +188,17 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
       const hintsPenalty = hintsRevealed * 0.05
       const adjustedScore = Math.max(0.1, result.data.feedback.overallScore - hintsPenalty)
 
-      setFeedback({
+      const adjustedFeedback = {
         ...result.data.feedback,
         overallScore: adjustedScore,
-      })
+      }
+      setFeedback(adjustedFeedback)
       setReferenceTranslation(result.data.referenceTranslation || '')
       setViewState('feedback')
+
+      // Save attempt to history
+      saveAttempt(verseId, userTranslation.trim(), adjustedFeedback)
+      setVerseAttempts(getVerseAttempts(verseId))
 
       // Mark verse as memorized if score >= 90%
       if (adjustedScore >= 0.9) {
@@ -309,6 +323,23 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
           </nav>
 
           <div className="flex items-center gap-3">
+            {/* History Button */}
+            <button
+              onClick={() => setHistoryModalOpen(true)}
+              className={cn(
+                'flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium transition-colors',
+                verseAttempts.length > 0
+                  ? 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                  : 'bg-gray-50 text-gray-400 hover:bg-gray-100 hover:text-gray-600'
+              )}
+              title="View attempt history"
+            >
+              <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              {verseAttempts.length > 0 && <span>{verseAttempts.length}</span>}
+            </button>
+
             {/* Memorization Status */}
             {isMemorized && (
               <div className={cn(
@@ -646,6 +677,18 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
             </div>
           </div>
         )}
+
+        {/* Attempt History Modal */}
+        <AttemptHistoryModal
+          isOpen={historyModalOpen}
+          onClose={() => setHistoryModalOpen(false)}
+          attempts={verseAttempts}
+          verseId={verseId}
+          onClearHistory={() => {
+            clearVerseHistory(verseId)
+            setVerseAttempts([])
+          }}
+        />
       </main>
     </div>
   )
