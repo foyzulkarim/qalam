@@ -11,16 +11,16 @@ This document outlines the migration to a Cloudflare-native architecture that us
 │   CLOUDFLARE PAGES      │     │   CLOUDFLARE WORKER     │
 │   (Static App Only)     │     │   (qalam-api)           │
 ├─────────────────────────┤     ├─────────────────────────┤
-│ Next.js static export   │     │ POST /assess            │
-│ HTML/JS/CSS/fonts       │────▶│ GET /data/*             │
-│ No data files           │     │ KV caching              │
-│ < 500 files             │     │ Fetches from R2         │
+│ Next.js static export   │     │ POST /assess only       │
+│ HTML/JS/CSS/fonts       │────▶│ KV caching              │
+│ No data files           │     │ LLM API calls           │
+│ < 500 files             │     │ (minimal footprint)     │
 └─────────────────────────┘     └─────────────────────────┘
           │                              │
           │                              ▼
           │                     ┌─────────────────────────┐
           │                     │   CLOUDFLARE R2         │
-          │                     │   (Object Storage)      │
+          │                     │   (Public Bucket)       │
           │                     ├─────────────────────────┤
           │                     │ quran.json              │
           │                     │ surahs.json             │
@@ -36,6 +36,8 @@ This document outlines the migration to a Cloudflare-native architecture that us
           └────────────────────▶│ 30-day TTL              │
                                 └─────────────────────────┘
 ```
+
+**Key insight:** Data is served directly from public R2 (no Worker hop). The Worker only handles `/assess` requests that need LLM + KV caching.
 
 ## Why This Architecture
 
@@ -81,27 +83,32 @@ const nextConfig = {
 
 **Build Output:** `out/` directory with ~200-500 files
 
-### 2. Cloudflare Worker (API + Data Server)
+### 2. Cloudflare Worker (Assessment Only)
 
-**Purpose:** Handle all server-side logic
+**Purpose:** Handle LLM-based translation assessment
 
 **Endpoints:**
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/assess` | POST | Translation assessment (with KV caching) |
-| `/data/quran.json` | GET | Full Quran data |
-| `/data/surahs.json` | GET | Surah metadata |
-| `/data/analysis/:id.json` | GET | Verse analysis files |
 | `/health` | GET | Health check for monitoring |
 
 **Bindings:**
 - `ASSESSMENT_CACHE` - KV namespace for caching
-- `DATA_BUCKET` - R2 bucket for JSON files
 - `TOGETHER_API_KEY` - Secret for LLM API
 
-### 3. Cloudflare R2 (Object Storage)
+**Note:** The Worker no longer serves data files - they come directly from public R2.
 
-**Purpose:** Store all JSON data files
+### 3. Cloudflare R2 (Public Bucket)
+
+**Purpose:** Serve all JSON data files directly to clients
+
+**Access:** Public (no authentication required)
+
+**Why Public?**
+All data is non-sensitive (Quranic text and linguistic analysis). There's no security requirement - this knowledge should be openly accessible.
+
+**Public URL:** `https://pub-{bucket-id}.r2.dev/`
 
 **Structure:**
 ```
@@ -117,9 +124,11 @@ qalam-data/
 
 **Benefits:**
 - 10GB free storage
-- Free egress to Workers (same Cloudflare network)
+- Free public egress
 - No file count limits
-- Can add more translations/analysis without deployment
+- Direct access (no Worker hop)
+- CDN caching built-in
+- Data available even if Worker has issues
 
 ### 4. Cloudflare KV (Cache)
 
@@ -133,9 +142,94 @@ qalam-data/
 
 ## Implementation Plan
 
-### Phase 1: Set Up R2 Storage
+### Phase 0: Upgrade to Next.js 16
 
-#### 1.1 Create R2 Bucket
+Since we're moving to static export and simplifying the architecture, this is an ideal time to upgrade Next.js.
+
+#### Current State
+- **Next.js**: 15.5.2
+- **Node.js**: 25.2.1 (exceeds minimum 20.9.0 requirement)
+
+#### Target
+- **Next.js**: 16.x (latest stable - currently 16.1.1)
+
+#### Why Upgrade Now
+
+| Feature | Benefit |
+|---------|---------|
+| **Turbopack stable & default** | ~10x faster cached builds |
+| **React Compiler stable** | Auto-memoization, fewer re-renders |
+| **Explicit caching** | `"use cache"` directive - more predictable |
+| **Smaller install** | ~20MB lighter package |
+| **File system caching** | Eliminates cold start delays |
+
+#### Breaking Changes to Handle
+
+1. **Node.js minimum 20.9.0** - ✅ Already on 25.2.1
+2. **`middleware.ts` → `proxy.ts`** - ✅ N/A (we don't use middleware)
+3. **Async `params`/`searchParams` required** - ✅ Already using `Promise<>` in dynamic routes
+
+#### Dependencies to Remove
+
+Since we're moving to static export, these are no longer needed:
+
+```diff
+  "devDependencies": {
+-   "@cloudflare/next-on-pages": "^1.13.16",
+-   "vercel": "^47.0.4",
+  }
+```
+
+#### Upgrade Steps
+
+```bash
+# 1. Upgrade Next.js using the automated codemod
+npx @next/codemod@canary upgrade latest
+
+# 2. Remove unnecessary dependencies
+npm uninstall @cloudflare/next-on-pages vercel
+
+# 3. Clean up scripts in package.json
+# Remove: pages:build, pages:dev, pages:deploy
+
+# 4. Verify build works
+npm run build
+```
+
+#### Updated package.json (After Upgrade)
+
+```json
+{
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.1.1",
+    "typescript": "^5.7.0",
+    "wrangler": "^4.54.0"
+  }
+}
+```
+
+#### Verification
+
+After upgrade, verify:
+- [ ] `npm run dev` starts without errors
+- [ ] `npm run build` completes successfully
+- [ ] `npm run lint` passes
+- [ ] Dynamic routes (`/browse/surah/[id]/[verse]`) work correctly
+
+---
+
+### Phase 1: Set Up R2 Storage (Public)
+
+#### 1.1 Create R2 Bucket with Public Access
 
 ```bash
 # Create the bucket
@@ -145,7 +239,23 @@ npx wrangler r2 bucket create qalam-data
 npx wrangler r2 bucket list
 ```
 
-#### 1.2 Upload Data Files
+#### 1.2 Enable Public Access
+
+In Cloudflare Dashboard → R2 → qalam-data → Settings:
+
+1. Click "Public Access" → "Allow Access"
+2. Choose "R2.dev subdomain" (free, no custom domain needed)
+3. Copy the public URL: `https://pub-{bucket-id}.r2.dev`
+
+**Important:** Save this URL - you'll need it for the client configuration.
+
+Alternatively, via wrangler (if available):
+```bash
+# Enable public access
+npx wrangler r2 bucket update qalam-data --public
+```
+
+#### 1.3 Upload Data Files
 
 ```bash
 # Upload quran.json
@@ -161,7 +271,7 @@ for file in public/data/analysis/*.json; do
 done
 ```
 
-#### 1.3 Create Upload Script
+#### 1.4 Create Upload Script
 
 **File:** `scripts/upload-to-r2.ts`
 
@@ -202,9 +312,11 @@ console.log('\nDone!')
 
 ---
 
-### Phase 2: Update Worker
+### Phase 2: Simplify Worker (Assessment Only)
 
-#### 2.1 Add R2 Binding
+With public R2, the Worker becomes much simpler - it only handles assessment.
+
+#### 2.1 Simplify wrangler.toml
 
 **File:** `worker/wrangler.toml`
 
@@ -219,19 +331,17 @@ binding = "ASSESSMENT_CACHE"
 id = "221015cc0cd54b0b951396214433e4b8"
 preview_id = "051d05919a3240c2b23006ece503dcdb"
 
-# R2 Bucket for data files
-[[r2_buckets]]
-binding = "DATA_BUCKET"
-bucket_name = "qalam-data"
-preview_bucket_name = "qalam-data-preview"
+# No R2 binding needed - data is served directly from public R2
 
 [vars]
 ASSESSMENT_BACKEND = "together"
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 ALLOWED_ORIGINS = "https://versemadeeasy.com,https://www.versemadeeasy.com,https://qalam.pages.dev,http://localhost:3000"
+# Public R2 URL for fetching data (Worker still needs this for assessment context)
+R2_PUBLIC_URL = "https://pub-{your-bucket-id}.r2.dev"
 ```
 
-#### 2.2 Update Worker Types
+#### 2.2 Simplify Worker Types
 
 **File:** `worker/src/types.ts`
 
@@ -240,70 +350,21 @@ export interface Env {
   // KV for caching
   ASSESSMENT_CACHE: KVNamespace
 
-  // R2 for data storage
-  DATA_BUCKET: R2Bucket
-
   // Environment variables
   ASSESSMENT_BACKEND: string
   TOGETHER_API_KEY: string
   TOGETHER_MODEL: string
   ALLOWED_ORIGINS: string
+  R2_PUBLIC_URL: string  // Public R2 URL for fetching data
 }
 ```
 
-#### 2.3 Add Data Handler
-
-**File:** `worker/src/handlers/data.ts`
-
-```typescript
-import type { Env } from '../types'
-
-/**
- * Serve data files from R2
- */
-export async function handleData(
-  request: Request,
-  env: Env,
-  path: string
-): Promise<Response> {
-  // Remove leading slash
-  const key = path.startsWith('/') ? path.slice(1) : path
-
-  try {
-    const object = await env.DATA_BUCKET.get(key)
-
-    if (!object) {
-      return new Response(JSON.stringify({ error: 'Not found' }), {
-        status: 404,
-        headers: { 'Content-Type': 'application/json' },
-      })
-    }
-
-    // Return with appropriate caching headers
-    return new Response(object.body, {
-      headers: {
-        'Content-Type': 'application/json',
-        'Cache-Control': 'public, max-age=86400', // 24 hours
-        'ETag': object.etag,
-      },
-    })
-  } catch (error) {
-    console.error('R2 fetch error:', error)
-    return new Response(JSON.stringify({ error: 'Internal error' }), {
-      status: 500,
-      headers: { 'Content-Type': 'application/json' },
-    })
-  }
-}
-```
-
-#### 2.4 Update Worker Router
+#### 2.3 Simplify Worker Router
 
 **File:** `worker/src/index.ts`
 
 ```typescript
 import { handleAssessment } from './handlers/assess'
-import { handleData } from './handlers/data'
 import type { Env } from './types'
 
 export default {
@@ -321,16 +382,14 @@ export default {
 
     let response: Response
 
-    // Route requests
+    // Only two routes now
     if (path === '/assess' && request.method === 'POST') {
       response = await handleAssessment(request, env)
-    } else if (path.startsWith('/data/')) {
-      const dataPath = path.replace('/data/', '')
-      response = await handleData(request, env, dataPath)
     } else if (path === '/health') {
-      response = new Response(JSON.stringify({ status: 'ok' }), {
-        headers: { 'Content-Type': 'application/json' },
-      })
+      response = new Response(JSON.stringify({
+        status: 'ok',
+        timestamp: new Date().toISOString(),
+      }), { headers: { 'Content-Type': 'application/json' } })
     } else {
       response = new Response(JSON.stringify({ error: 'Not found' }), {
         status: 404,
@@ -364,19 +423,19 @@ function getCorsHeaders(request: Request, env: Env): Record<string, string> {
 }
 ```
 
-#### 2.5 Update Assessment Handler
+#### 2.4 Update Assessment Handler
 
-Modify `worker/src/handlers/assess.ts` to fetch data from R2 instead of external URL:
+Modify `worker/src/handlers/assess.ts` to fetch data from public R2:
 
 ```typescript
 async function getVerseAnalysis(verseId: string, env: Env): Promise<VerseAnalysis | null> {
   const fileName = verseId.replace(':', '-')
-  const key = `analysis/${fileName}.json`
+  const url = `${env.R2_PUBLIC_URL}/analysis/${fileName}.json`
 
   try {
-    const object = await env.DATA_BUCKET.get(key)
-    if (!object) return null
-    return await object.json()
+    const response = await fetch(url)
+    if (!response.ok) return null
+    return await response.json()
   } catch {
     return null
   }
@@ -386,10 +445,10 @@ async function getReferenceTranslation(verseId: string, env: Env): Promise<strin
   const [surahId, verseNum] = verseId.split(':').map(Number)
 
   try {
-    const object = await env.DATA_BUCKET.get('quran.json')
-    if (!object) return null
+    const response = await fetch(`${env.R2_PUBLIC_URL}/quran.json`)
+    if (!response.ok) return null
 
-    const quranData = await object.json()
+    const quranData = await response.json()
     const surah = quranData.surahs.find((s: any) => s.id === surahId)
     if (!surah) return null
 
@@ -401,6 +460,13 @@ async function getReferenceTranslation(verseId: string, env: Env): Promise<strin
     return null
   }
 }
+```
+
+#### 2.5 Remove Data Handler
+
+```bash
+# Delete the data handler - no longer needed
+rm worker/src/handlers/data.ts
 ```
 
 ---
@@ -441,15 +507,18 @@ rm -rf src/app/api/
 
 **File:** `src/lib/data.ts`
 
-Update to fetch from Worker API:
+Update to fetch data from public R2, assessment from Worker:
 
 ```typescript
-// API base URL - Worker in production, can be configured for local dev
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://qalam-api.foyzul.workers.dev'
+// Public R2 URL for data (no authentication needed)
+const R2_URL = process.env.NEXT_PUBLIC_R2_URL || 'https://pub-{bucket-id}.r2.dev'
+
+// Worker URL for assessment only
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://qalam-api.foyzul.workers.dev'
 
 export async function getQuranData(): Promise<QuranData | null> {
   try {
-    const response = await fetch(`${API_BASE_URL}/data/quran.json`)
+    const response = await fetch(`${R2_URL}/quran.json`)
     if (!response.ok) return null
     return await response.json()
   } catch {
@@ -460,7 +529,7 @@ export async function getQuranData(): Promise<QuranData | null> {
 export async function getVerseAnalysis(verseId: string): Promise<VerseAnalysis | null> {
   const fileName = verseId.replace(':', '-')
   try {
-    const response = await fetch(`${API_BASE_URL}/data/analysis/${fileName}.json`)
+    const response = await fetch(`${R2_URL}/analysis/${fileName}.json`)
     if (!response.ok) return null
     return await response.json()
   } catch {
@@ -468,7 +537,25 @@ export async function getVerseAnalysis(verseId: string): Promise<VerseAnalysis |
   }
 }
 
-// ... similar updates for other functions
+export async function getSurahs(): Promise<Surah[] | null> {
+  try {
+    const response = await fetch(`${R2_URL}/surahs.json`)
+    if (!response.ok) return null
+    return await response.json()
+  } catch {
+    return null
+  }
+}
+
+// Assessment still goes to Worker (needs LLM + KV cache)
+export async function assessTranslation(verseId: string, userTranslation: string) {
+  const response = await fetch(`${API_URL}/assess`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ verseId, userTranslation }),
+  })
+  return response.json()
+}
 ```
 
 #### 3.5 Update Client Component
@@ -476,7 +563,7 @@ export async function getVerseAnalysis(verseId: string): Promise<VerseAnalysis |
 **File:** `src/app/browse/surah/[id]/[verse]/VersePracticeClient.tsx`
 
 ```typescript
-// API URL for all requests
+// Worker URL for assessment only
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://qalam-api.foyzul.workers.dev'
 
 // In handleSubmit:
@@ -488,6 +575,25 @@ const response = await fetch(`${API_URL}/assess`, {
     userTranslation: userTranslation.trim(),
   }),
 })
+```
+
+#### 3.6 Update Environment Variables
+
+**File:** `.env.local` (for local development)
+
+```env
+# Public R2 URL (data)
+NEXT_PUBLIC_R2_URL=https://pub-{bucket-id}.r2.dev
+
+# Worker URL (assessment only)
+NEXT_PUBLIC_API_URL=https://qalam-api.foyzul.workers.dev
+```
+
+**File:** `.env.production`
+
+```env
+NEXT_PUBLIC_R2_URL=https://pub-{bucket-id}.r2.dev
+NEXT_PUBLIC_API_URL=https://qalam-api.foyzul.workers.dev
 ```
 
 ---
@@ -641,26 +747,38 @@ Add these to GitHub repository secrets:
 - [ ] Read and understand this plan
 - [ ] Ensure Cloudflare CLI (`wrangler`) is authenticated locally
 
-### Phase 1: R2 Setup
+### Phase 0: Next.js 16 Upgrade
+- [ ] Run `npx @next/codemod@canary upgrade latest`
+- [ ] Remove `@cloudflare/next-on-pages` and `vercel` dependencies
+- [ ] Remove `pages:build`, `pages:dev`, `pages:deploy` scripts
+- [ ] Verify `npm run dev` works
+- [ ] Verify `npm run build` works
+- [ ] Verify `npm run lint` passes
+
+### Phase 1: R2 Setup (Public)
 - [ ] Create R2 bucket `qalam-data`
+- [ ] Enable public access in Cloudflare Dashboard
+- [ ] Copy public URL (`https://pub-{id}.r2.dev`)
 - [ ] Create `scripts/upload-to-r2.ts`
 - [ ] Upload all data files to R2
-- [ ] Verify files are accessible via wrangler
+- [ ] Verify files are accessible via public URL
 
-### Phase 2: Worker Updates
-- [ ] Add R2 binding to `worker/wrangler.toml`
-- [ ] Update `worker/src/types.ts`
-- [ ] Create `worker/src/handlers/data.ts`
-- [ ] Update `worker/src/index.ts` router
-- [ ] Update assessment handler to use R2
+### Phase 2: Simplify Worker (Assessment Only)
+- [ ] Remove R2 binding from `worker/wrangler.toml`
+- [ ] Add `R2_PUBLIC_URL` to wrangler.toml vars
+- [ ] Simplify `worker/src/types.ts`
+- [ ] Remove `worker/src/handlers/data.ts`
+- [ ] Simplify `worker/src/index.ts` router
+- [ ] Update assessment handler to fetch from public R2
 - [ ] Test Worker locally with `npm run worker:dev`
 - [ ] Deploy Worker with `npm run worker:deploy`
 
 ### Phase 3: Next.js Static Export
 - [ ] Update `next.config.js` with `output: 'export'`
 - [ ] Delete `src/app/api/` directory
-- [ ] Update `src/lib/data.ts` to fetch from Worker
-- [ ] Update `VersePracticeClient.tsx` API calls
+- [ ] Update `src/lib/data.ts` to fetch from public R2
+- [ ] Update `VersePracticeClient.tsx` for assessment API
+- [ ] Add `.env.production` with R2 and API URLs
 - [ ] Test locally with `npm run build && npm run start`
 
 ### Phase 4: Deployment Config
@@ -910,6 +1028,162 @@ function main() {
 
 main()
 ```
+
+## Performance Optimizations
+
+### R2 Public Bucket Caching
+
+R2 public buckets include automatic CDN caching. For additional control:
+
+**Custom Cache Rules (Cloudflare Dashboard → R2 → Bucket → Settings → Cache):**
+
+| File Pattern | Cache TTL | Rationale |
+|--------------|-----------|-----------|
+| `quran.json` | 1 year | Immutable source data |
+| `surahs.json` | 1 year | Immutable metadata |
+| `analysis/*.json` | 24 hours | May be updated/corrected |
+
+**Browser-side caching** is handled automatically via Cache-Control headers from R2.
+
+### Hybrid Approach (Optional)
+
+Consider keeping `surahs.json` (~10KB) in the static bundle for the browse page:
+
+| File | Size | Location | Rationale |
+|------|------|----------|-----------|
+| `surahs.json` | ~10KB | Static bundle | Tiny, needed on browse page load |
+| `quran.json` | ~3MB | R2 | Large, loaded on-demand |
+| `analysis/*.json` | ~2KB each | R2 | Many files, loaded per-verse |
+
+This eliminates one network request for the browse page.
+
+### Monitoring
+
+**Worker `/health` endpoint:**
+```typescript
+if (path === '/health') {
+  return new Response(JSON.stringify({
+    status: 'ok',
+    timestamp: new Date().toISOString(),
+  }), { headers: { 'Content-Type': 'application/json' } })
+}
+```
+
+**Cloudflare Dashboard monitoring:**
+1. **R2 Analytics** - Request counts, bandwidth, cache hit rates
+2. **Worker Analytics** - Invocations, errors, CPU time
+3. **KV Analytics** - Read/write operations, cache effectiveness
+
+---
+
+## Local Development
+
+### Option 1: Use Public R2 Directly (Simplest)
+
+Since R2 is public, you can fetch data from it during local development:
+
+```bash
+# Just run Next.js - data comes from public R2
+npm run dev
+```
+
+Configure `.env.local`:
+```env
+# Use production R2 (it's public, no auth needed)
+NEXT_PUBLIC_R2_URL=https://pub-{bucket-id}.r2.dev
+
+# Worker for assessment (run locally or use production)
+NEXT_PUBLIC_API_URL=http://localhost:8787
+```
+
+### Option 2: Local Files Fallback (Offline Development)
+
+For offline development or faster iteration:
+
+```typescript
+// src/lib/data.ts
+const R2_URL = process.env.NEXT_PUBLIC_R2_URL
+
+export async function getQuranData(): Promise<QuranData | null> {
+  // If no R2 URL configured, use local files
+  if (!R2_URL) {
+    const response = await fetch('/data/quran.json')
+    return response.ok ? response.json() : null
+  }
+
+  // Use public R2
+  const response = await fetch(`${R2_URL}/quran.json`)
+  return response.ok ? response.json() : null
+}
+```
+
+### Option 3: Run Worker Locally (For Assessment Testing)
+
+```bash
+# Terminal 1: Next.js
+npm run dev
+
+# Terminal 2: Worker (only needed for /assess testing)
+npm run worker:dev
+```
+
+### Option 4: Mock Worker (For Tests)
+
+Use MSW (Mock Service Worker) for testing without real API:
+
+```typescript
+// tests/mocks/handlers.ts
+import { rest } from 'msw'
+
+export const handlers = [
+  rest.get('*/data/quran.json', (req, res, ctx) => {
+    return res(ctx.json(mockQuranData))
+  }),
+  rest.post('*/assess', (req, res, ctx) => {
+    return res(ctx.json({ success: true, data: mockFeedback }))
+  }),
+]
+```
+
+---
+
+## Rollback Strategy
+
+### Quick Rollback Scenarios
+
+| Issue | Rollback Action |
+|-------|-----------------|
+| **Worker broken** | Cloudflare Dashboard → Workers → qalam-api → Rollbacks → Select previous version |
+| **Pages broken** | Cloudflare Dashboard → Pages → qalam → Deployments → Rollback to previous |
+| **R2 data corrupt** | Re-upload from `public/data/` using `npm run upload:data` |
+| **Latency issues** | Switch to hybrid approach (see above) or revert to static bundle |
+
+### Emergency: Full Architecture Rollback
+
+If the new architecture causes significant issues:
+
+```bash
+# 1. Revert to pre-migration commit
+git revert HEAD~N  # N = number of migration commits
+
+# 2. Re-enable @cloudflare/next-on-pages
+npm install @cloudflare/next-on-pages vercel
+
+# 3. Restore old build scripts
+# Restore pages:build, pages:deploy scripts
+
+# 4. Deploy
+git push origin main
+```
+
+### Canary Deployment
+
+For safer rollout, consider:
+1. Deploy to staging environment first (`qalam-staging.pages.dev`)
+2. Test with subset of traffic
+3. Monitor for 24-48 hours before full rollout
+
+---
 
 ## Future Considerations
 
