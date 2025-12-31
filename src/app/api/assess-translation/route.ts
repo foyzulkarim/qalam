@@ -1,8 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { promises as fs } from 'fs'
-import path from 'path'
 import type { VerseAnalysis, AttemptFeedback } from '@/types'
 import { callLLM, buildAssessmentPrompt, type AssessmentResult } from '@/lib/llm'
+
+export const runtime = 'edge'
 
 interface AssessmentRequest {
   verseId: string
@@ -10,30 +10,33 @@ interface AssessmentRequest {
 }
 
 /**
- * Load verse analysis from static JSON file
+ * Load verse analysis from static JSON file (Edge-compatible)
  */
-async function getVerseAnalysisServer(verseId: string): Promise<VerseAnalysis | null> {
+async function getVerseAnalysisServer(verseId: string, baseUrl: string): Promise<VerseAnalysis | null> {
   const fileName = verseId.replace(':', '-')
-  const filePath = path.join(process.cwd(), 'public', 'data', 'analysis', `${fileName}.json`)
+  const url = `${baseUrl}/data/analysis/${fileName}.json`
 
   try {
-    const content = await fs.readFile(filePath, 'utf-8')
-    return JSON.parse(content)
+    const response = await fetch(url)
+    if (!response.ok) return null
+    return await response.json()
   } catch {
     return null
   }
 }
 
 /**
- * Load reference translation from quran.json
+ * Load reference translation from quran.json (Edge-compatible)
  */
-async function getReferenceTranslation(verseId: string): Promise<string | null> {
+async function getReferenceTranslation(verseId: string, baseUrl: string): Promise<string | null> {
   const [surahId, verseNum] = verseId.split(':').map(Number)
-  const filePath = path.join(process.cwd(), 'public', 'data', 'quran.json')
+  const url = `${baseUrl}/data/quran.json`
 
   try {
-    const content = await fs.readFile(filePath, 'utf-8')
-    const quranData = JSON.parse(content)
+    const response = await fetch(url)
+    if (!response.ok) return null
+    const quranData = await response.json()
+
     const surah = quranData.surahs.find((s: { id: number }) => s.id === surahId)
     if (!surah) return null
 
@@ -86,10 +89,13 @@ export async function POST(request: NextRequest) {
       )
     }
 
+    // Get base URL for fetching static files
+    const baseUrl = new URL(request.url).origin
+
     // Load verse data server-side
     const [analysis, referenceTranslation] = await Promise.all([
-      getVerseAnalysisServer(verseId),
-      getReferenceTranslation(verseId),
+      getVerseAnalysisServer(verseId, baseUrl),
+      getReferenceTranslation(verseId, baseUrl),
     ])
 
     if (!analysis) {
