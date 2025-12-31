@@ -8,6 +8,7 @@ import { cn } from '@/lib/utils'
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/browse', label: 'Browse' },
+  { href: '/history', label: 'History' },
 ]
 
 export function Navbar() {
