@@ -2,12 +2,14 @@
  * Qalam Assessment API - Cloudflare Worker
  *
  * Endpoints:
- *   POST /assess - Assess a user's translation
- *   GET  /health - Health check
+ *   POST /assess     - Assess a user's translation
+ *   GET  /data/*     - Serve data files from R2
+ *   GET  /health     - Health check
  */
 
 import type { Env } from './types'
 import { handleAssessment } from './handlers/assess'
+import { handleData } from './handlers/data'
 
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
@@ -25,6 +27,9 @@ export default {
       // Route requests
       if (path === '/assess' && request.method === 'POST') {
         response = await handleAssessment(request, env)
+      } else if (path.startsWith('/data/') && request.method === 'GET') {
+        const dataPath = path.replace('/data/', '')
+        response = await handleData(request, env, dataPath)
       } else if (path === '/health' && request.method === 'GET') {
         response = new Response(JSON.stringify({
           status: 'ok',

@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Removed 'output: export' to allow dynamic rendering on Cloudflare Pages
-  // This prevents hitting the 20k file limit for static exports
+  // Static export - data served from Worker/R2, not bundled with app
+  output: 'export',
   trailingSlash: true,
   images: {
     unoptimized: true,

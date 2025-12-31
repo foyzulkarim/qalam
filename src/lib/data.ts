@@ -2,10 +2,15 @@ import { Surah, Verse, VerseAnalysis, QuranData, QuranSurah, QuranVerse } from '
 
 /**
  * Data fetching utilities for Quran data
- * All data is served from static JSON files in /public/data
+ * Data is served from the Worker API (R2 bucket) in production,
+ * or from local /data in development
  */
 
-const DATA_BASE_URL = '/data'
+// API base URL - Worker in production, local in development
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
+
+// Data URL - use Worker API if available, otherwise local /data
+const DATA_BASE_URL = API_BASE_URL ? `${API_BASE_URL}/data` : '/data'
 
 // Analysis manifest type
 export interface AnalysisManifest {

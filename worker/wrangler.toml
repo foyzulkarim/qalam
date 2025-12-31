@@ -9,9 +9,14 @@ binding = "ASSESSMENT_CACHE"
 id = "221015cc0cd54b0b951396214433e4b8"
 preview_id = "051d05919a3240c2b23006ece503dcdb"
 
+# R2 Bucket for data files
+[[r2_buckets]]
+binding = "DATA_BUCKET"
+bucket_name = "qalam-data"
+preview_bucket_name = "qalam-data-preview"
+
 # Environment variables (secrets like TOGETHER_API_KEY set via wrangler secret)
 [vars]
 ASSESSMENT_BACKEND = "together"
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 ALLOWED_ORIGINS = "https://versemadeeasy.com,https://www.versemadeeasy.com,https://qalam.pages.dev,http://localhost:3000"
-DATA_BASE_URL = "https://versemadeeasy.com/data"
