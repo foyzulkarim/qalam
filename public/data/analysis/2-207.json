@@ -1,0 +1,212 @@
+{
+  "verseId": "2:207",
+  "verse": {
+    "arabic": "وَمِنَ النَّاسِ مَن يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ ۗ وَاللَّهُ رَءُوفٌ بِالْعِبَادِ",
+    "transliteration": "Wamina alnnasi man yashree nafsahu ibtighaa mardati Allahi waAllahu raoofun bialAAibadi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 207
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِنَ",
+      "transliteration": "wa-mina",
+      "meaning": "and of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-و",
+        "meaning": "to forget, to be lost; people (as they often 'forget' their obligations)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, obscured; to protect or shield"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَشْرِي",
+      "transliteration": "yašrī",
+      "meaning": "he sells",
+      "root": {
+        "letters": "ش-ر-ي",
+        "meaning": "to sell, to purchase, exchange"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, he (masculine singular)"
+        },
+        {
+          "arabic": "شْرِي",
+          "meaning": "to sell (form I verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَفْسَهُ",
+      "transliteration": "nafsa-hu",
+      "meaning": "his own self, his soul",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath, life"
+      },
+      "components": [
+        {
+          "arabic": "نَفْسَ",
+          "meaning": "self, soul (accusative case)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ابْتِغَاءَ",
+      "transliteration": "ibtighā’a",
+      "meaning": "seeking, in search of",
+      "root": {
+        "letters": "ب-غ-و",
+        "meaning": "to seek, to desire, to look for"
+      },
+      "components": [
+        {
+          "arabic": "ابْتِ",
+          "meaning": "prefix indicating seeking, initiating an action of searching or striving"
+        },
+        {
+          "arabic": "غَاءَ",
+          "meaning": "suffix indicating purpose or intention (masdar of seeking)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَرْضَاتِ",
+      "transliteration": "marḍāti",
+      "meaning": "approval, pleasure",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to accept willingly"
+      },
+      "components": [
+        {
+          "arabic": "مَرْضَا",
+          "meaning": "pleasing, desired"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "suffix denoting abstract noun, related to the idea of state or quality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "of him / belonging to him (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-Allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "أ-ل-ه",
+        "meaning": "to be worshipped; God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَءُوفٌ",
+      "transliteration": "ra’ūfun",
+      "meaning": "is kind, is compassionate",
+      "root": {
+        "letters": "ر-و-ف",
+        "meaning": "to return to goodness, to have mercy and compassion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِالْعِبَادِ",
+      "transliteration": "bi-l-‘ibādi",
+      "meaning": "to the servants, with the servants",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to be a slave or servant"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, to, by means of"
+        },
+        {
+          "arabic": "الْعِبَادِ",
+          "meaning": "the servants"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-of the people is who sells his-own-self seeking approval of-Allah and-Allah is kind to-the-servants"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

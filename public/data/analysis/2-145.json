@@ -1,0 +1,598 @@
+{
+  "verseId": "2:145",
+  "verse": {
+    "arabic": "وَلَئِنْ أَتَيْتَ الَّذِينَ أُوتُوا الْكِتَابَ بِكُلِّ آيَةٍ مَّا تَبِعُوا قِبْلَتَكَ ۚ وَمَا أَنتَ بِتَابِعٍ قِبْلَتَهُمْ ۚ وَمَا بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ ۚ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُم مِّن بَعْدِ مَا جَاءَكَ مِنَ الْعِلْمِ ۙ إِنَّكَ إِذًا لَّمِنَ الظَّالِمِينَ",
+    "transliteration": "Walain atayta allatheena ootoo alkitaba bikulli ayatin ma tabiAAoo qiblataka wama anta bitabiAAin qiblatahum wama baAAduhum bitabiAAin qiblata baAAdin walaini ittabaAAta ahwaahum min baAAdi ma jaaka mina alAAilmi innaka ithan lamina alththalimeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 145
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَئِنْ",
+      "transliteration": "wa-laʾin",
+      "meaning": "and indeed if",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "to return, to revert, to become"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "indeed, certainly"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتَيْتَ",
+      "transliteration": "ʾatayta",
+      "meaning": "you came with/brought",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to approach, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "أَتَ",
+          "meaning": "you (masculine singular)"
+        },
+        {
+          "arabic": "يْتَ",
+          "meaning": "came/brought (second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to refer, to indicate, to point out"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُوتُوا",
+      "transliteration": "ʾūtū",
+      "meaning": "were given",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker/prefix indicating 'were'"
+        },
+        {
+          "arabic": "وتُوا",
+          "meaning": "given (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Book/Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, scripture, writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِكُلِّ",
+      "transliteration": "bi-kulli",
+      "meaning": "with every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to be full, totality"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "كُلِّ",
+          "meaning": "every, whole (indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آيَةٍ",
+      "transliteration": "ʾāyatin",
+      "meaning": "sign",
+      "root": {
+        "letters": "أ-ي-و",
+        "meaning": "to return, to be clear, a sign"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "that/what (not)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (in a general sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَبِعُوا",
+      "transliteration": "tabiʿū",
+      "meaning": "they follow",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قِبْلَتَكَ",
+      "transliteration": "qiblata-ka",
+      "meaning": "your qiblah/direction of prayer",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to turn towards, to accept"
+      },
+      "components": [
+        {
+          "arabic": "قبل",
+          "meaning": "direction, front"
+        },
+        {
+          "arabic": "تكَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and nor/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also negation and questioning"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "nor/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَنتَ",
+      "transliteration": "ʾanta",
+      "meaning": "you",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence, presence. This root is primarily a pronoun marker and doesn't have extensive semantic development outside of pronominal forms."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِتَابِعٍ",
+      "transliteration": "bi-tābiʿin",
+      "meaning": "as a follower of",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "تَابِعٍ",
+          "meaning": "follower"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "قِبْلَتَهُمْ",
+      "transliteration": "qiblata-hum",
+      "meaning": "their qiblah/direction of prayer",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to turn towards; to accept"
+      },
+      "components": [
+        {
+          "arabic": "قبل",
+          "meaning": "qiblah (direction of prayer)"
+        },
+        {
+          "arabic": "تُهُمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and nor/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able (often implies negation when combined with other elements)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "nor/not; a negative particle often used with past tense verbs or nouns, indicating absence or negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بَعْضُهُم",
+      "transliteration": "baʿḍu-hum",
+      "meaning": "some of them",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, a portion"
+      },
+      "components": [
+        {
+          "arabic": "بَعْض",
+          "meaning": "a part, some"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they, them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "بِتَابِعٍ",
+      "transliteration": "bi-tābiʿin",
+      "meaning": "as a follower of",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "تَابِعٍ",
+          "meaning": "follower, one who follows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "قِبْلَةَ",
+      "transliteration": "qiblata",
+      "meaning": "the qiblah/direction of prayer of",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to turn towards, to accept, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بَعْضٍ",
+      "transliteration": "baʿḍin",
+      "meaning": "some/one another",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, to possess a part of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَلَئِنِ",
+      "transliteration": "wa-laʾini",
+      "meaning": "and indeed if",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "to return, to revert, weakness, softness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for, if (conditional particle)"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, if (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اتَّبَعْتَ",
+      "transliteration": "ittabaʿta",
+      "meaning": "you follow",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix, indicating strong or repeated action"
+        },
+        {
+          "arabic": "بَـعْتَ",
+          "meaning": "you followed (basic verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَهْوَاءَهُم",
+      "transliteration": "ahwāʾa-hum",
+      "meaning": "their desires",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to love, to desire; inclination, passion"
+      },
+      "components": [
+        {
+          "arabic": "أَهْوَاءَ",
+          "meaning": "desires (plural)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مِّن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later in time or place"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, subsequent to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, what/that which"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "جَاءَكَ",
+      "transliteration": "jāʾa-ka",
+      "meaning": "came to you",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَ",
+          "meaning": "he came"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "to you (suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be born of, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "الْعِلْمِ",
+      "transliteration": "al-ʿilmi",
+      "meaning": "the knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِلْم",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "ۙ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "إِنَّكَ",
+      "transliteration": "ʾinnaka",
+      "meaning": "indeed you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "إِذًا",
+      "transliteration": "ʾiḏan",
+      "meaning": "then/at that time",
+      "root": {
+        "letters": "أ-د-ن",
+        "meaning": "to incline, to approach; to settle, to abide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "لَّمِنَ",
+      "transliteration": "la-mina",
+      "meaning": "from among/indeed from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from/of a source or type"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, belonging to (preposition)"
+        },
+        {
+          "arabic": "مِنَ",
+          "meaning": "from among, indeed from (preposition)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "الظَّالِمِينَ",
+      "transliteration": "al-ẓālimīna",
+      "meaning": "the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "wrongdoers, oppressors (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed if you came-with to-those who were-given the-Book with-every sign that not they follow your-qiblah and-nor you as-a follower of their-qiblah and-nor some-of them as-a follower of the-qiblah of one-another and-indeed if you follow their-desires after what came-to you from the-knowledge indeed you then from-among the-wrongdoers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

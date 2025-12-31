@@ -1,0 +1,324 @@
+{
+  "verseId": "2:23",
+  "verse": {
+    "arabic": "وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ وَادْعُوا شُهَدَاءَكُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ",
+    "transliteration": "Wain kuntum fee raybin mimma nazzalna AAala AAabdina fatoo bisooratin min mithlihi waodAAoo shuhadaakum min dooni Allahi in kuntum sadiqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if",
+      "root": {
+        "letters": "ا-ن-ى",
+        "meaning": "to be, existence; also used for negation and condition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were/are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; becoming, state of being"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you be (imperative/jussive root form)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "pronoun suffix indicating 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَيْبٍ",
+      "transliteration": "raybin",
+      "meaning": "doubt",
+      "root": {
+        "letters": "ر-ي-ب",
+        "meaning": "confusion, disorder, defect, doubt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّمَّا",
+      "transliteration": "mim mā",
+      "meaning": "from what/of that which",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, prevent, or originate from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَزَّلْنَا",
+      "transliteration": "nazzalnā",
+      "meaning": "We sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "نَزَّ",
+          "meaning": "to send down, to lower gradually"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (first person plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend; elevation, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَبْدِنَا",
+      "transliteration": "ʿabdinā",
+      "meaning": "Our servant",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "عَبْد",
+          "meaning": "servant"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَأْتُوا",
+      "transliteration": "faʾtū",
+      "meaning": "then come/produce",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive, to approach"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَتُوا",
+          "meaning": "come/produce (imperative verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِسُورَةٍ",
+      "transliteration": "bisūratin",
+      "meaning": "with a surah/chapter",
+      "root": {
+        "letters": "س-و-ر",
+        "meaning": "to elevate, to rise; a story or narrative"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "سُورَةٍ",
+          "meaning": "a chapter (of the Quran); a narrative"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive, to be from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِّثْلِهِ",
+      "transliteration": "mithlihi",
+      "meaning": "like it/its like",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "similarity, example, equal"
+      },
+      "components": [
+        {
+          "arabic": "مِثْل",
+          "meaning": "like, similar to"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَادْعُوا",
+      "transliteration": "wa-dʿū",
+      "meaning": "and call/invoke",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ادْعُوا",
+          "meaning": "call/invoke (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شُهَدَاءَكُم",
+      "transliteration": "shuhadāʾakum",
+      "meaning": "your witnesses",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, presence"
+      },
+      "components": [
+        {
+          "arabic": "شُهَدَاءَ",
+          "meaning": "witnesses (plural)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "your (plural possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِّن دُونِ",
+      "transliteration": "min dūni",
+      "meaning": "other than/besides",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, humble; to refrain from, lack"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, other than"
+        },
+        {
+          "arabic": "دُونِ",
+          "meaning": "without, besides"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "إِن كُنتُمْ",
+      "transliteration": "ʾin kuntum",
+      "meaning": "if you were/are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "if"
+        },
+        {
+          "arabic": "كُنْتُمْ",
+          "meaning": "you were/are"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "صَادِقِينَ",
+      "transliteration": "ṣādiqīn",
+      "meaning": "truthful/honest",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to speak the truth; to be true, correct"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if you were in doubt from what We sent down upon Our servant then come with a surah from like-it and call your witnesses other than Allah if you were truthful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

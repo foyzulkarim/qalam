@@ -1,0 +1,261 @@
+{
+  "verseId": "2:94",
+  "verse": {
+    "arabic": "قُلْ إِن كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِندَ اللَّهِ خَالِصَةً مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ",
+    "transliteration": "Qul in kanat lakumu alddaru alakhiratu AAinda Allahi khalisatan min dooni alnnasi fatamannawoo almawta in kuntum sadiqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 94
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say (imperative)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command (through speech)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": {
+        "letters": "إ-ن-ع",
+        "meaning": "to confirm, to strengthen, to verify; also related to turning towards something with intention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَتْ",
+      "transliteration": "kānat",
+      "meaning": "was/were (feminine past)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "feminine pronoun suffix (she)"
+        },
+        {
+          "arabic": "انْتَ",
+          "meaning": "past tense marker, indicates completion of action/state"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular verb ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الدَّارُ",
+      "transliteration": "ad-dāru",
+      "meaning": "the home/abode",
+      "root": {
+        "letters": "د-و-ر",
+        "meaning": "to revolve, to circle; return repeatedly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْآخِرَةُ",
+      "transliteration": "al-ākhiratu",
+      "meaning": "the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to follow after, the end"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the last, the Hereafter (derived from root أ-خ-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "with/at (preposition)",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah (genitive)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "خَالِصَةً",
+      "transliteration": "khāliṣatan",
+      "meaning": "pure/exclusive (accusative)",
+      "root": {
+        "letters": "خ-ل-ص",
+        "meaning": "to be pure, to be free from mixture, to extract or purify something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from/of (preposition)",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, to be less than"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "دُونِ",
+      "transliteration": "dūni",
+      "meaning": "without/apart from (preposition)",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to diminish, to fall below"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people (genitive)",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be lost or strayed; people are 'forgotten' in the sense of passing generations"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَتَمَنَّوُا",
+      "transliteration": "fatamannaw",
+      "meaning": "then wish (imperative)",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to desire, to wish, to hope"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "تَمَنَّوُا",
+          "meaning": "they wished, they desired (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْمَوْتَ",
+      "transliteration": "al-mawta",
+      "meaning": "the death (accusative)",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death; weakness, helplessness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were/are (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were/are (singular)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "صَادِقِينَ",
+      "transliteration": "ṣādiqīn",
+      "meaning": "truthful (plural)",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to speak the truth, be truthful, to be right"
+      },
+      "components": [
+        {
+          "arabic": "صَادِق",
+          "meaning": "truthful (singular)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending for masculine human beings"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say-if-were-for-you-the-home-the-Hereafter-with-Allah-exclusive-from-without-the-people-then-wish-the-death-if-you-were-truthful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "verseId": "2:120",
+  "verse": {
+    "arabic": "وَلَن تَرْضَىٰ عَنكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۗ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُم بَعْدَ الَّذِي جَاءَكَ مِنَ الْعِلْمِ ۙ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ",
+    "transliteration": "Walan tarda AAanka alyahoodu wala alnnasara hatta tattabiAAa millatahum qul inna huda Allahi huwa alhuda walaini ittabaAAta ahwaahum baAAda allathee jaaka mina alAAilmi ma laka mina Allahi min waliyyin wala naseerin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 120
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَن",
+      "transliteration": "wa-lan",
+      "meaning": "and never",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "will not, never"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرْضَىٰ",
+      "transliteration": "tarḍā",
+      "meaning": "be pleased/approve",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be content, to approve, to accept willingly"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the present tense, active voice"
+        },
+        {
+          "arabic": "رَضِيَ",
+          "meaning": "to be pleased, to approve (verb root)"
+        },
+        {
+          "arabic": "ٰ",
+          "meaning": "tanwīn al-fatḥ, indicating indefinite noun/verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنكَ",
+      "transliteration": "ʿanka",
+      "meaning": "of you/with you",
+      "root": {
+        "letters": "ع-ن-ك",
+        "meaning": "protection, support, care; to be free from something or someone"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, from, concerning"
+        },
+        {
+          "arabic": "ـكَ",
+          "meaning": "you (masculine singular, genitive/accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْيَهُودُ",
+      "transliteration": "al-yahūd",
+      "meaning": "the Jews",
+      "root": {
+        "letters": "ه-و-د",
+        "meaning": "to wander, to stray; to return or revert (often negatively)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "nor/and not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "النَّصَارَىٰ",
+      "transliteration": "an-naṣārā",
+      "meaning": "the Christians",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to assist, to support"
+      },
+      "components": [
+        {
+          "arabic": "النَّصَارَىٰ",
+          "meaning": "the followers, adherents (plural form indicating a group of people)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَتَّبِعَ",
+      "transliteration": "tattabiʿa",
+      "meaning": "you follow",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine singular imperfect tense"
+        },
+        {
+          "arabic": "تَبِعَ",
+          "meaning": "to follow (basic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِلَّتَهُمْ",
+      "transliteration": "millatahum",
+      "meaning": "their religion/way of life",
+      "root": {
+        "letters": "م-ل-ت",
+        "meaning": "inclination, turning away from something, following a path"
+      },
+      "components": [
+        {
+          "arabic": "مِلَّة",
+          "meaning": "religion, way of life, creed"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "their (masculine plural possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۗ",
+      "transliteration": "saakina (pause)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed/Surely",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed/Surely (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "هُدَى",
+      "transliteration": "hudā",
+      "meaning": "guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah/Allah's",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, the God"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Allah's (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it/He",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence or substance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْهُدَىٰ",
+      "transliteration": "al-hudā",
+      "meaning": "the guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۗ",
+      "transliteration": "saakina (pause)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَلَئِنِ",
+      "transliteration": "wa-laʾin",
+      "meaning": "and if/and indeed if",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "to return, to revert, to be weak or pliable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "conditional particle; if/indeed"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if/indeed (introduces a conditional clause)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "اتَّبَعْتَ",
+      "transliteration": "ittabaʿta",
+      "meaning": "you follow",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix indicating thoroughness or repetition"
+        },
+        {
+          "arabic": "بَـ",
+          "meaning": "root letter 'ba', part of the verb stem"
+        },
+        {
+          "arabic": "ـعَـ",
+          "meaning": "root letters 'ayn' and 'ta', part of the verb stem, indicating second person masculine singular"
+        },
+        {
+          "arabic": "ـتَ",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَهْوَاءَهُم",
+      "transliteration": "ahwāʾahum",
+      "meaning": "their desires/inclinations",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to love, desire; inclination, passion"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هْوَاء",
+          "meaning": "desire, inclination"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بَعْدَ",
+      "transliteration": "baʿda",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness; to be far away"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "which/that which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "which/that which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "جَاءَكَ",
+      "transliteration": "jāʾaka",
+      "meaning": "came to you",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَ",
+          "meaning": "he came"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "to you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "الْعِلْمِ",
+      "transliteration": "al-ʿilm",
+      "meaning": "the knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, intelligence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "ۙ",
+      "transliteration": "faṣla (pause)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or something existing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "for you/to you",
+      "root": {
+        "letters": "ل-ك-و",
+        "meaning": "possession, ownership, belonging"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah/Allah's",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, god"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Allah (genitive case, indicating possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "[any] protector/ally",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to prevent, obstruct, withhold; protection through prevention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَلِيٍّ",
+      "transliteration": "waliyyin",
+      "meaning": "protector/ally/guardian",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be near, to manage, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "nor/and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "نَصِيرٍ",
+      "transliteration": "naṣīrin",
+      "meaning": "helper/supporter",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to support"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-never be-pleased-of-you the-Jews and-not the-Christians until you follow their-religion. Say! Indeed guidance-of-Allah it the-guidance. And-if you follow their-desires after that-which came-to-you from the-knowledge, what to-you from-Allah [any] protector and-not helper."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

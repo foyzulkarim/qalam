@@ -1,0 +1,257 @@
+{
+  "verseId": "2:104",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+    "transliteration": "Ya ayyuha allatheena amanoo la taqooloo raAAina waqooloo onthurna waismaAAoo walilkafireena AAathabun aleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 104
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, masculine plural)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to call, to invoke; attention"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O (general vocative)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "masculine plural marker; emphatic particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, or have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/future tense and plural subject"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb, 3rd person plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَقُولُوا",
+      "transliteration": "taqūlū",
+      "meaning": "you (plural) say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense (future/habitual)"
+        },
+        {
+          "arabic": "قُولُوا",
+          "meaning": "you (plural) say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَاعِنَا",
+      "transliteration": "rāʿinā",
+      "meaning": "attend to us / guide us",
+      "root": {
+        "letters": "ر-ع-ي",
+        "meaning": "to pasture, to care for, to tend"
+      },
+      "components": [
+        {
+          "arabic": "رَاعِ",
+          "meaning": "attending, caring for (verbal noun)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قُولُوا",
+      "transliteration": "qūlū",
+      "meaning": "you (plural) say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": [
+        {
+          "arabic": "قُول",
+          "meaning": "say (imperative, singular)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "you (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "انظُرْنَا",
+      "transliteration": "unẓurnā",
+      "meaning": "look at us / grant us respite",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look, to observe"
+      },
+      "components": [
+        {
+          "arabic": "انْظُر",
+          "meaning": "imperative of 'to look', 'see'"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "اسْمَعُوا",
+      "transliteration": "ismaʿū",
+      "meaning": "you (plural) hear / listen",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "اِسْ",
+          "meaning": "prefix indicating the imperative mood (command)"
+        },
+        {
+          "arabic": "مَعُوا",
+          "meaning": "you (plural) - second person plural pronoun suffix attached to the verb root"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلِلْكَافِرِينَ",
+      "transliteration": "wa lil-kāfirīna",
+      "meaning": "and for the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; disbelief, ingratitude"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الكَافِرِينَ",
+          "meaning": "the disbelievers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; suffering"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَلِيمٌ",
+      "transliteration": "alīmun",
+      "meaning": "painful / severe",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to be weak, infirm; to suffer pain or difficulty"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-vocative O-vocative-masculine-plural the-ones-who believed not you(pl)-say attend-to-us and you(pl)-say look-at-us and you(pl)-hear and for-the-disbelievers punishment painful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

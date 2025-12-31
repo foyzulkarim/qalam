@@ -1,0 +1,731 @@
+{
+  "verseId": "2:221",
+  "verse": {
+    "arabic": "وَلَا تَنكِحُوا الْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا الْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا ۚ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ ۗ أُولَـٰئِكَ يَدْعُونَ إِلَى النَّارِ ۖ وَاللَّهُ يَدْعُو إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ بِإِذْنِهِ ۖ وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+    "transliteration": "Wala tankihoo almushrikati hatta yuminna walaamatun muminatun khayrun min mushrikatin walaw aAAjabatkum wala tunkihoo almushrikeena hatta yuminoo walaAAabdun muminun khayrun min mushrikin walaw aAAjabakum olaika yadAAoona ila alnnari waAllahu yadAAoo ila aljannati waalmaghfirati biithnihi wayubayyinu ayatihi lilnnasi laAAallahum yatathakkaroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 221
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to deny, to refuse, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَنكِحُوا",
+      "transliteration": "tan-kiḥū",
+      "meaning": "you (plural) marry",
+      "root": {
+        "letters": "ن-ك-ح",
+        "meaning": "to contract marriage, to have sexual relations with"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperative mood (command)"
+        },
+        {
+          "arabic": "نَكِحُوا",
+          "meaning": "you (plural) marry"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُشْرِكَاتِ",
+      "transliteration": "al-mushrikāt",
+      "meaning": "the polytheistic women",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to associate (partners with God), share, or polytheism"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُشْرِكَاتٍ",
+          "meaning": "polytheistic women (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُؤْمِنَّ",
+      "transliteration": "yu'minna",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person (we)"
+        },
+        {
+          "arabic": "ؤْمِنْ",
+          "meaning": "to believe (verbal root form)"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "suffix indicating plural and emphasis (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلَأَمَةٌ",
+      "transliteration": "wa-la-'amah",
+      "meaning": "and indeed a slave woman",
+      "root": {
+        "letters": "ع-م-و",
+        "meaning": "to be a slave, to own, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "indeed, certainly (emphasizing the following noun)"
+        },
+        {
+          "arabic": "أَمَةٌ",
+          "meaning": "slave woman"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُّؤْمِنَةٌ",
+      "transliteration": "mu'minah",
+      "meaning": "believing (feminine)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be safe, to trust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "than",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, removal, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مُّشْرِكَةٍ",
+      "transliteration": "mushrikah",
+      "meaning": "a polytheist (feminine)",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to associate, share partnership; to ascribe partners to God (in divinity)"
+      },
+      "components": [
+        {
+          "arabic": "مُشْرِك",
+          "meaning": "one who associates partners (with God)"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَلَوْ",
+      "transliteration": "wa-law",
+      "meaning": "and if/even though",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire; or, possibility/conditional"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if/even though; conditional particle indicating unrealized conditions"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَعْجَبَتْكُمْ",
+      "transliteration": "a'jabatkum",
+      "meaning": "she pleased you (plural)",
+      "root": {
+        "letters": "ع-ج-ب",
+        "meaning": "to be wondrous, to please, to like"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past tense and active voice"
+        },
+        {
+          "arabic": "عَجَبَتْ",
+          "meaning": "she pleased/liked"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تُنكِحُوا",
+      "transliteration": "tun-kiḥū",
+      "meaning": "you (plural) marry [women]",
+      "root": {
+        "letters": "ن-ك-ح",
+        "meaning": "to contract marriage, to have sexual intercourse with"
+      },
+      "components": [
+        {
+          "arabic": "تُنْ",
+          "meaning": "you (plural, masculine) - prefix indicating the second-person plural masculine pronoun with a vowel"
+        },
+        {
+          "arabic": "كِحُوا",
+          "meaning": "marry (women) - verb form indicating action performed by the plural pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْمُشْرِكِينَ",
+      "transliteration": "al-mushrikīn",
+      "meaning": "the polytheists (masculine)",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to associate (partners with God), share, partake"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُشْرِكِينَ",
+          "meaning": "those who associate partners with God (polytheists - masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يُؤْمِنُوا",
+      "transliteration": "yu'minū",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, to be safe"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural subject (they)"
+        },
+        {
+          "arabic": "ؤْمِنُوا",
+          "meaning": "they believe (second person plural verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَلَعَبْدٌ",
+      "transliteration": "wa-la-'abdu",
+      "meaning": "and indeed a slave [man]",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve; slave, servant"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "عَبْدٌ",
+          "meaning": "slave, servant; worshiper"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مُّؤْمِنٌ",
+      "transliteration": "mu'minun",
+      "meaning": "believing (masculine)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trustworthiness, faith"
+      },
+      "components": [
+        {
+          "arabic": "مُ",
+          "meaning": "participial prefix indicating the active participle (one who does)"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "to believe, to have faith"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "tanwīn al-naṣb (masculine singular indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "than",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be separated from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مُّشْرِكٍ",
+      "transliteration": "mushrik",
+      "meaning": "a polytheist (masculine)",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (partners)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَلَوْ",
+      "transliteration": "wa-law",
+      "meaning": "and if/even though",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, or to want"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, even if, were"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَعْجَبَكُمْ",
+      "transliteration": "a'jaba-kum",
+      "meaning": "he pleased you (plural)",
+      "root": {
+        "letters": "ع-ج-ب",
+        "meaning": "to be admirable, to please"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past tense and active voice"
+        },
+        {
+          "arabic": "عَجَبَ",
+          "meaning": "he pleased"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ulā'ika",
+      "meaning": "those",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; the former"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "those (demonstrative pronoun prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating plural masculine or feminine, distant"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "يَدْعُونَ",
+      "transliteration": "yad'ūna",
+      "meaning": "they call/invite",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "يَدْ",
+          "meaning": "prefix indicating present/future tense and first-person plural subject (we)"
+        },
+        {
+          "arabic": "عُونَ",
+          "meaning": "suffix indicating plural active participle form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nār",
+      "meaning": "the Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat, intensity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, God"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "يَدْعُو",
+      "transliteration": "yad'ū",
+      "meaning": "He calls/invites",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense and third person masculine singular"
+        },
+        {
+          "arabic": "دُ",
+          "meaning": "part of the root indicating calling/invoking"
+        },
+        {
+          "arabic": "و",
+          "meaning": "vowel marking and part of the root indicating calling/invoking"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "الْجَنَّةِ",
+      "transliteration": "al-jannah",
+      "meaning": "the Paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also, garden or paradise due to its concealment from view"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "وَالْمَغْفِرَةِ",
+      "transliteration": "wa-l-maghfirah",
+      "meaning": "and the forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal; pardon"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَغْفِرَةِ",
+          "meaning": "the forgiveness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "بِإِذْنِهِ",
+      "transliteration": "bi-idhnihi",
+      "meaning": "by His permission",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen; to permit"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "إِذْنِهِ",
+          "meaning": "His permission"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "وَيُبَيِّنُ",
+      "transliteration": "wa-yubayyinu",
+      "meaning": "and He makes clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, to distinguish, to explain"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُبَيِّنُ",
+          "meaning": "He makes clear, He clarifies"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "آيَاتِهِ",
+      "transliteration": "āyātihi",
+      "meaning": "His verses",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, proof"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "verses (plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "li-n-nās",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "لَعَلَّهُمْ",
+      "transliteration": "la-'allahum",
+      "meaning": "perhaps they",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to return, to revert; hope, expectation"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, so that (purpose/result)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "hope, expectation (derived from the root ع-ل-ه)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "يَتَذَكَّرُونَ",
+      "transliteration": "yatadhakkarūna",
+      "meaning": "they may remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, they"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "indicates repetition or mutual action (form IV)"
+        },
+        {
+          "arabic": "ذَكَّرُ",
+          "meaning": "to remind, to call to mind"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine, they (do)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you-plural marry the-polytheistic-women until they believe and indeed a-slave-woman believing better than a-polytheist feminine even-though she pleased you (plural) and not you-plural marry the-polytheists until they believe and indeed a-slave man believing better than a-polytheist masculine even-though he pleased you (plural) those they call to the Fire and-Allah He calls to the Paradise and-the forgiveness by His permission and He makes clear His verses for the people perhaps they may remember"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

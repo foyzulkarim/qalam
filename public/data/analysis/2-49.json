@@ -1,0 +1,342 @@
+{
+  "verseId": "2:49",
+  "verse": {
+    "arabic": "وَإِذْ نَجَّيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ ۚ وَفِي ذَٰلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+    "transliteration": "Waith najjaynakum min ali firAAawna yasoomoonakum sooa alAAathabi yuthabbihoona abnaakum wayastahyoona nisaakum wafee thalikum balaon min rabbikum AAatheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 49
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when",
+      "root": {
+        "letters": "و-ذ-ه",
+        "meaning": "to perceive, to feel, to experience; also refers to time"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَجَّيْنَاكُم",
+      "transliteration": "najjaynākum",
+      "meaning": "We saved you (plural)",
+      "root": {
+        "letters": "ن-ج-و",
+        "meaning": "escape, rescue, save"
+      },
+      "components": [
+        {
+          "arabic": "نَجَّ",
+          "meaning": "We saved"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آلِ",
+      "transliteration": "ʾāli",
+      "meaning": "family of, people of",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to follow, to be chief or first"
+      },
+      "components": [
+        {
+          "arabic": "آل",
+          "meaning": "family of, people of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِرْعَوْنَ",
+      "transliteration": "firʿawn",
+      "meaning": "Pharaoh",
+      "root": {
+        "letters": "ف-ر-ع",
+        "meaning": "to branch, to divide; to overcome with force or power"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَسُومُونَكُمْ",
+      "transliteration": "yasūmūnukum",
+      "meaning": "they inflict upon you",
+      "root": {
+        "letters": "س-و-م",
+        "meaning": "to impose, to exact a price or toll; to afflict"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating they (masculine plural) are performing the action"
+        },
+        {
+          "arabic": "سُومُوا",
+          "meaning": "inflict, impose (verb form)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "upon you (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سُوءَ",
+      "transliteration": "sūʾa",
+      "meaning": "evil, badness",
+      "root": {
+        "letters": "س-وٴ-ء",
+        "meaning": "bad, evil, unpleasant"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْعَذَابِ",
+      "transliteration": "al-ʿadhābi",
+      "meaning": "the torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; bitterness"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابِ",
+          "meaning": "torment, punishment (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُذَبِّحُونَ",
+      "transliteration": "yudhabbihūna",
+      "meaning": "they slaughter",
+      "root": {
+        "letters": "ذ-ب-ح",
+        "meaning": "to slaughter, to kill (an animal as sacrifice)"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "ذَبِّح",
+          "meaning": "slaughter (verbal root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural pronoun suffix indicating present/future active)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَبْنَاءَكُمْ",
+      "transliteration": "ʾabnāʾakum",
+      "meaning": "your sons",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; offspring, sons"
+      },
+      "components": [
+        {
+          "arabic": "أَبْنَاءَ",
+          "meaning": "sons (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَيَسْتَحْيُونَ",
+      "transliteration": "wayastaḥyūna",
+      "meaning": "and they keep alive",
+      "root": {
+        "letters": "ح-ي-ي",
+        "meaning": "to be alive, to live; shyness, modesty (related semantic range)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْتَحْيُونَ",
+          "meaning": "they keep alive, they feel shy/modest (depending on context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نِسَاءَكُمْ",
+      "transliteration": "nisāʾakum",
+      "meaning": "your women",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to travel, to go about; women (as travelers or those who frequent the home)"
+      },
+      "components": [
+        {
+          "arabic": "نِسَاءُ",
+          "meaning": "women (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَفِي",
+      "transliteration": "wafī",
+      "meaning": "and in",
+      "root": {
+        "letters": "و-ف-ي",
+        "meaning": "to fulfill, to be sufficient, to return"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ذَٰلِكُم",
+      "transliteration": "dhālikum",
+      "meaning": "that (thing)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, being low; to be close or near"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "-كُم",
+          "meaning": "you (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "بَلَاءٌ",
+      "transliteration": "balāʾun",
+      "meaning": "a trial, a test",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be afflicted, to suffer a trial; to test, to prove"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be separate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "رَّبِّكُمْ",
+      "transliteration": "rabbikum",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَظِيمٌ",
+      "transliteration": "ʿaẓīmun",
+      "meaning": "great, immense",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be large, to be great, to possess magnitude"
+      },
+      "components": [
+        {
+          "arabic": "عظيم",
+          "meaning": "great, immense (adjective)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We-saved you from family-of Pharaoh they-inflict-upon-you evil-the torment they-slaughter your-sons and-they-keep-alive your-women and-in that thing a-trial from your-Lord great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

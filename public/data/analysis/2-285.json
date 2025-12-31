@@ -1,0 +1,492 @@
+{
+  "verseId": "2:285",
+  "verse": {
+    "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ",
+    "transliteration": "Amana alrrasoolu bima onzila ilayhi min rabbihi waalmuminoona kullun amana biAllahi wamalaikatihi wakutubihi warusulihi la nufarriqu bayna ahadin min rusulihi waqaloo samiAAna waataAAna ghufranaka rabbana wailayka almaseeru",
+    "surah": "Al-Baqarah",
+    "verseNumber": 285
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "آمَنَ",
+      "transliteration": "ʾāmāna",
+      "meaning": "He believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الرَّسُولُ",
+      "transliteration": "ar-rasūlu",
+      "meaning": "The messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to travel, to send as a messenger, communication"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "رَسُولُ",
+          "meaning": "messenger"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "In what / With that which",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُنزِلَ",
+      "transliteration": "ʾunzila",
+      "meaning": "Was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to (verbal noun prefix indicating purpose or intention)"
+        },
+        {
+          "arabic": "زِلَ",
+          "meaning": "passive voice form of the verb نزل (to descend)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ʾilayhi",
+      "meaning": "To him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "To approach, return to, or reach."
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "To, toward"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَّبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "His Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْمُؤْمِنُونَ",
+      "transliteration": "wal-muʾminūna",
+      "meaning": "And the believers",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمُؤْمِنُونَ",
+          "meaning": "the believers (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كُلٌّ",
+      "transliteration": "kullun",
+      "meaning": "All / Every one",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "Totality, wholeness; to be complete or sufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "آمَنَ",
+      "transliteration": "ʾāmāna",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "In Allah",
+      "root": {
+        "letters": "ل-ه-ا",
+        "meaning": "to worship, to praise, deity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَمَلَائِكَتِهِ",
+      "transliteration": "wa-malāʾikatihi",
+      "meaning": "And His angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَلَائِكَتِهِ",
+          "meaning": "His angels (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَكُتُبِهِ",
+      "transliteration": "wa-kutubihi",
+      "meaning": "And His books",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كُتُبِ",
+          "meaning": "books (plural of كتاب)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَرُسُلِهِ",
+      "transliteration": "wa-rusulihi",
+      "meaning": "And His messengers",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رُسُلِ",
+          "meaning": "messengers (plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not / No",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "نُفَرِّقُ",
+      "transliteration": "nufrriqu",
+      "meaning": "We make distinction",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to divide, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "فَرِّقُ",
+          "meaning": "to distinguish, to separate (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "Between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, interval"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَحَدٍ",
+      "transliteration": "ʾaḥadin",
+      "meaning": "Anyone / Any one",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Uniqueness, oneness, singularity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "رُّسُلِهِ",
+      "transliteration": "rusulihi",
+      "meaning": "His messengers",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "رُسُلِ",
+          "meaning": "messengers (plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَقَالُوا",
+      "transliteration": "wa-qālū",
+      "meaning": "And they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "سَمِعْنَا",
+      "transliteration": "samiʿnā",
+      "meaning": "We heard",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "سَمِعْ",
+          "meaning": "we heard (verb stem)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَأَطَعْنَا",
+      "transliteration": "wa-ʾaṭaʿnā",
+      "meaning": "And we obeyed",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to submit, to be meek"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَطَعْنَا",
+          "meaning": "we obeyed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "غُفْرَانَكَ",
+      "transliteration": "ghufrānaka",
+      "meaning": "Your forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to pardon"
+      },
+      "components": [
+        {
+          "arabic": "غُفْرَانَ",
+          "meaning": "forgiveness"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbana",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَإِلَيْكَ",
+      "transliteration": "wa-ʾilayka",
+      "meaning": "And to You",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to return, to resort to, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَيْكَ",
+          "meaning": "to you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْمَصِيرُ",
+      "transliteration": "al-maṣīru",
+      "meaning": "The destination",
+      "root": {
+        "letters": "ص-ي-ر",
+        "meaning": "to return, to go back, to become, to reach a destination"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَصِير",
+          "meaning": "destination, return point, final outcome"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Believed-the messenger in-what was-revealed to-him from Lord-his and-the believers. All believed in-Allah and-angels-his and-books-his and-messengers-his. Not we-make distinction between anyone from messengers-his. And they said, We heard and-we obeyed. Forgiveness-your Lord-our and-to You the destination."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

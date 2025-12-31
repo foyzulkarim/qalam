@@ -1,0 +1,1343 @@
+{
+  "verseId": "2:102",
+  "verse": {
+    "arabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَـٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+    "transliteration": "WaittabaAAoo ma tatloo alshshayateenu AAala mulki sulaymana wama kafara sulaymanu walakinna alshshayateena kafaroo yuAAallimoona alnnasa alssihra wama onzila AAala almalakayni bibabila haroota wamaroota wama yuAAallimani min ahadin hatta yaqoola innama nahnu fitnatun fala takfur fayataAAallamoona minhuma ma yufarriqoona bihi bayna almari wazawjihi wama hum bidarreena bihi min ahadin illa biithni Allahi wayataAAallamoona ma yadurruhum wala yanfaAAuhum walaqad AAalimoo lamani ishtarahu ma lahu fee alakhirati min khalaqin walabisa ma sharaw bihi anfusahum law kanoo yaAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 102
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اتَّبَعُوا",
+      "transliteration": "ittabaʿū",
+      "meaning": "they followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to adhere to"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix, indicating thoroughness or repetition of the action"
+        },
+        {
+          "arabic": "بَعُوا",
+          "meaning": "they followed (verb, 3rd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَتْلُو",
+      "transliteration": "tatlū",
+      "meaning": "recite/read",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to read after, to recite"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الشَّيَاطِينُ",
+      "transliteration": "ash-shayāṭīnu",
+      "meaning": "the devils/demons",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to deviate, to err, to go astray; also associated with heat and intensity (related to fire)"
+      },
+      "components": [
+        {
+          "arabic": "الشَّيْء",
+          "meaning": "the thing; a definite article ('al-') attached to the singular noun 'shay'"
+        },
+        {
+          "arabic": "طِينَ",
+          "meaning": "Plural ending indicating broken plural form."
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/during",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُلْكِ",
+      "transliteration": "mulki",
+      "meaning": "kingdom/reign of",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship"
+      },
+      "components": [
+        {
+          "arabic": "مُلْك",
+          "meaning": "kingdom, dominion"
+        },
+        {
+          "arabic": "-ِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "سُلَيْمَانَ",
+      "transliteration": "sulaymāna",
+      "meaning": "Solomon",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, flawlessness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَفَرَ",
+      "transliteration": "kafara",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; also, to be ungrateful, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "سُلَيْمَانُ",
+      "transliteration": "sulaymānu",
+      "meaning": "Solomon",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, flawlessness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَـٰكِنَّ",
+      "transliteration": "wa lākinn",
+      "meaning": "but indeed/however",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hiddenness, latency"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـٰكِنَّ",
+          "meaning": "but indeed, however (emphasizing negation of what precedes)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الشَّيَاطِينَ",
+      "transliteration": "ash-shayāṭīna",
+      "meaning": "the devils/demons",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to stray, to be lost; deviation from the right path"
+      },
+      "components": [
+        {
+          "arabic": "اَلشَّيْطَانِ",
+          "meaning": "the devil/demon (singular)"
+        },
+        {
+          "arabic": "-ِينَ",
+          "meaning": "dual/plural indefinite marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group of people (masculine plural)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they disbelieved (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُعَلِّمُونَ",
+      "transliteration": "yuʿallimūna",
+      "meaning": "they teach",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to learn"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun suffix indicating plural)"
+        },
+        {
+          "arabic": "عَلِّم",
+          "meaning": "to teach (form II verb)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural active present tense/subjunctive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "النَّاسَ",
+      "transliteration": "an-nāsa",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (related to being easily forgotten or lost in the vastness of creation)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "السِّحْرَ",
+      "transliteration": "as-siḥra",
+      "meaning": "the magic/sorcery",
+      "root": {
+        "letters": "س-ح-ر",
+        "meaning": "to be intense, to exert effort; to deviate from the normal course (in this context, influencing reality through abnormal means)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for; relative pronoun (what)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أُنزِلَ",
+      "transliteration": "unzila",
+      "meaning": "was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "passive marker, indicating the subject is acted upon"
+        },
+        {
+          "arabic": "زِلَ",
+          "meaning": "to descend, to come down (verb root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الْمَلَكَيْنِ",
+      "transliteration": "al-malakayni",
+      "meaning": "the two angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَكَيْنِ",
+          "meaning": "dual form of angel, two angels"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِبَابِلَ",
+      "transliteration": "bi-bābila",
+      "meaning": "in Babylon",
+      "root": {
+        "letters": "ب-و-ل",
+        "meaning": "to be high, elevated; to rise, ascend; abundance, great quantity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "بَابِلَ",
+          "meaning": "Babylon (the city)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "هَارُوتَ",
+      "transliteration": "hārūta",
+      "meaning": "Harut (name)",
+      "root": {
+        "letters": "ح-و-ط",
+        "meaning": "encompassing, surrounding; protecting"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَمَارُوتَ",
+      "transliteration": "wa mārūta",
+      "meaning": "and Marut (name)",
+      "root": {
+        "letters": "م-ر-و",
+        "meaning": "to be firm, strong; to strengthen; foundation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating stillness or quietude"
+        },
+        {
+          "arabic": "كَتَ",
+          "meaning": "root relating to silence or stopping"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "يُعَلِّمَانِ",
+      "transliteration": "yuʿallimāni",
+      "meaning": "they teach (dual)",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "يُعَلِّم",
+          "meaning": "they teach"
+        },
+        {
+          "arabic": "انِ",
+          "meaning": "dual pronoun suffix (they two)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from/to",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive, to be from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "أَحَدٍ",
+      "transliteration": "aḥadin",
+      "meaning": "anyone/someone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, single"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until/except for",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "يَقُولَا",
+      "transliteration": "yaqūlā",
+      "meaning": "they say (dual)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "dual pronoun prefix - they (masculine)"
+        },
+        {
+          "arabic": "قُولَا",
+          "meaning": "verb - they say (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "indeed/only",
+      "root": {
+        "letters": "ن-م-ا",
+        "meaning": "to negate except, to limit, restriction"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed/verily (emphasizing negation)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which (negated)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, to incline, or to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "فِتْنَةٌ",
+      "transliteration": "fitnatun",
+      "meaning": "a trial/temptation",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "to test, to try, to be tempted; deviation from truth/belief"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "so do not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to refuse, to reject, to deny"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, do not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "تَكْفُرْ",
+      "transliteration": "takfur",
+      "meaning": "disbelieve",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine singular present/future tense"
+        },
+        {
+          "arabic": "كُفْرْ",
+          "meaning": "disbelief, ingratitude"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "فَيَتَعَلَّمُونَ",
+      "transliteration": "fa-yataʿallamūna",
+      "meaning": "so they learn",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "يَتَـ",
+          "meaning": "they (prefix indicating present/future tense, 3rd person plural)"
+        },
+        {
+          "arabic": "عَلَّمَ",
+          "meaning": "to teach, to learn (root verb)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "they (suffix indicating plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "مِنْهُمَا",
+      "transliteration": "minhumā",
+      "meaning": "from them (dual)",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "they (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or pertaining to water (related to the idea of something being sought after)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "يُفَرِّقُونَ",
+      "transliteration": "yufarriqūna",
+      "meaning": "they separate",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to divide, to separate, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "فَرِّقُونَ",
+          "meaning": "separating (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "by it/with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, by means of"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to exist apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "الْمَرْءِ",
+      "transliteration": "al-marʾi",
+      "meaning": "the man",
+      "root": {
+        "letters": "م-ر-ء",
+        "meaning": "masculinity, manliness, being human"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "وَزَوْجِهِ",
+      "transliteration": "wa zawjihī",
+      "meaning": "and his wife",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to pair, to couple"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "زَوْجِ",
+          "meaning": "wife (genitive, possession)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or relating to water and moisture"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "هُم",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; also used for pronoun reference"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "بِضَارِّينَ",
+      "transliteration": "bi-ḍārrīna",
+      "meaning": "harming/causing harm",
+      "root": {
+        "letters": "ض-ر-ر",
+        "meaning": "to be tight, constricted; to harm, injure"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ضَارِّينَ",
+          "meaning": "harming, causing harm (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "by it/with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "it (masculine singular, genitive/accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from/to",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be separate from, a point of departure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "أَحَدٍ",
+      "transliteration": "aḥadin",
+      "meaning": "anyone/someone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, single, one"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to not exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "بِإِذْنِ",
+      "transliteration": "bi-ʾidhni",
+      "meaning": "by permission of",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to grant permission"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by (preposition)"
+        },
+        {
+          "arabic": "إِذْنِ",
+          "meaning": "permission, leave"
+        }
+      ]
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāh",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 57,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 58,
+      "arabic": "وَيَتَعَلَّمُونَ",
+      "transliteration": "wa yataʿallamūna",
+      "meaning": "and they learn",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَتَعَلَّمُونَ",
+          "meaning": "they learn"
+        }
+      ]
+    },
+    {
+      "wordNumber": 59,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 60,
+      "arabic": "يَضُرُّهُمْ",
+      "transliteration": "yaḍurruhum",
+      "meaning": "harms them",
+      "root": {
+        "letters": "ض-ر-ر",
+        "meaning": "to be afflicted with harm, to suffer injury or loss; weakness, need"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense/subjunctive mood"
+        },
+        {
+          "arabic": "ضُرُّ",
+          "meaning": "harm, affliction"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 61,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to deny, to refuse, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 62,
+      "arabic": "يَنفَعُهُمْ",
+      "transliteration": "yanfaʿuhum",
+      "meaning": "benefits them",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to be useful, to benefit"
+      },
+      "components": [
+        {
+          "arabic": "يَنْفَعُ",
+          "meaning": "benefits (verb, present tense)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 63,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating stillness or quiet, often used to create a pause"
+        },
+        {
+          "arabic": "كَت",
+          "meaning": "related to stopping or restraining speech (from the root س-ك-ت)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 64,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa laqad",
+      "meaning": "and indeed/certainly",
+      "root": {
+        "letters": "ق-د-ل",
+        "meaning": "to be able, to have power; to hold back or restrain (and thus establish certainty)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, certainly; emphasizes the truth of what follows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 65,
+      "arabic": "عَلِمُوا",
+      "transliteration": "ʿalimū",
+      "meaning": "they knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "عَلِ",
+          "meaning": "they knew (prefix indicating plural masculine pronoun)"
+        },
+        {
+          "arabic": "مُوا",
+          "meaning": "they (suffix indicating plural masculine pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 66,
+      "arabic": "لَمَنِ",
+      "transliteration": "lamanī",
+      "meaning": "for whoever/whoever",
+      "root": {
+        "letters": "ل-م-ن",
+        "meaning": "to desire, to wish for; or to incline towards something"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 67,
+      "arabic": "اشْتَرَاهُ",
+      "transliteration": "ishtarahū",
+      "meaning": "purchased it",
+      "root": {
+        "letters": "ش-ر-ي",
+        "meaning": "to buy, to purchase, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "اِشْتَ",
+          "meaning": "intensive prefix indicating strong or frequent action"
+        },
+        {
+          "arabic": "رَ",
+          "meaning": "middle radical, part of the root denoting purchase"
+        },
+        {
+          "arabic": "اهُ",
+          "meaning": "pronoun suffix: 'it' (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 68,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 69,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him/to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 70,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/on",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in/on, to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 71,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ʾākhirati",
+      "meaning": "the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to come after, to be later; end, finality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the finality, the afterlife; the Hereafter"
+        }
+      ]
+    },
+    {
+      "wordNumber": 72,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be separate from, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 73,
+      "arabic": "خَلَاقٍ",
+      "transliteration": "khalāqin",
+      "meaning": "share/benefit",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to produce, originate; disposition, nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 74,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "silence, stillness, to be quiet"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating lengthening or intensification"
+        },
+        {
+          "arabic": "كَتَ",
+          "meaning": "to write, to record (related to the root ك-ت-ب)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 75,
+      "arabic": "وَلَبِئْسَ",
+      "transliteration": "wa labiʾsa",
+      "meaning": "and wretched is/how terrible",
+      "root": {
+        "letters": "ب-ي-س",
+        "meaning": "suffering, evil, badness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَبِئْسَ",
+          "meaning": "wretched is/how terrible (emphatic negative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 76,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or relation/connection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 77,
+      "arabic": "شَرَوْا",
+      "transliteration": "sharaw",
+      "meaning": "they bought/purchased",
+      "root": {
+        "letters": "ش-ر-ي",
+        "meaning": "to buy, to purchase, to acquire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 78,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it/by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 79,
+      "arabic": "أَنفُسَهُمْ",
+      "transliteration": "anfusahum",
+      "meaning": "themselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "أنْفُسِ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "-هُمْ",
+          "meaning": "them, their (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 80,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 81,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if/would that",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, wishing, will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 82,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 83,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūn",
+      "meaning": "they knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and person (they)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (basic form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they followed what recite the devils upon kingdom of Solomon - and-what disbelieved Solomon but-indeed the devils disbelieved teaching the people magic and-what was revealed upon the two angels at Babylon Harut and Marut - and-what they teach from anyone until say \"indeed we trial so do not disbelieve\" - so they learn from them what separate by it between the man and his wife - and-what they harming by it from anyone except by permission of Allah - and they learn what harms them and not benefits them - and indeed knew for whoever purchased it what to him in the Hereafter from share - and wretched is what bought with it themselves if they only knew"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

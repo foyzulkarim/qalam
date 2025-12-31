@@ -1,0 +1,412 @@
+{
+  "verseId": "2:80",
+  "verse": {
+    "arabic": "وَقَالُوا لَن تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ اللَّهِ عَهْدًا فَلَن يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+    "transliteration": "Waqaloo lan tamassana alnnaru illa ayyaman maAAdoodatan qul attakhathtum AAinda Allahi AAahdan falan yukhlifa Allahu AAahdahu am taqooloona AAala Allahi ma la taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 80
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالُوا",
+      "transliteration": "wa-qālū",
+      "meaning": "and they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَن",
+      "transliteration": "lan",
+      "meaning": "never, not at all",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to refuse, to reject, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَمَسَّنَا",
+      "transliteration": "tamas-sanā",
+      "meaning": "touch us",
+      "root": {
+        "letters": "م-س-س",
+        "meaning": "to touch, to afflict with evil or hardship"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a past tense action, often with an implication of completion or experience."
+        },
+        {
+          "arabic": "مَسَّ",
+          "meaning": "to touch, to afflict, to test"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "first-person plural pronoun suffix (us)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّارُ",
+      "transliteration": "an-nāru",
+      "meaning": "the fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to negate; opposition or exception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَيَّامًا",
+      "transliteration": "ayyāman",
+      "meaning": "days",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَّعْدُودَةً",
+      "transliteration": "maʿdūdatan",
+      "meaning": "counted, numbered",
+      "root": {
+        "letters": "ع-دّ-د",
+        "meaning": "to count, to enumerate; number"
+      },
+      "components": [
+        {
+          "arabic": "مَـ",
+          "meaning": "prefix indicating passive voice or form II verb conjugation"
+        },
+        {
+          "arabic": "عَدُودَة",
+          "meaning": "counting, being counted (verbal noun)"
+        },
+        {
+          "arabic": "-ًة",
+          "meaning": "feminine indefinite accusative ending (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to pause"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَتَّخَذْتُمْ",
+      "transliteration": "a-ttakhaḏtum",
+      "meaning": "have you taken?",
+      "root": {
+        "letters": "خ-ذ-ي",
+        "meaning": "to take, to choose, to adopt"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "have (prefix)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "you (plural, masculine)"
+        },
+        {
+          "arabic": "خَذْتُمْ",
+          "meaning": "taken (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "with, at, near",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possess, have, find"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "with, at, near (denoting presence or possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allahī",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَهْدًا",
+      "transliteration": "ʿahdan",
+      "meaning": "a covenant, promise",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to hold, to grasp, to covenant"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَلَن",
+      "transliteration": "fa-lan",
+      "meaning": "then never, so not at all",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "will not, never"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يُخْلِفَ",
+      "transliteration": "yukhlifa",
+      "meaning": "break, fail to fulfill",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to leave behind, to succeed (someone), to change"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "indicates the verb is in the present/future tense, and specifies subject (he)"
+        },
+        {
+          "arabic": "خَلَفَ",
+          "meaning": "to leave behind, to fail to fulfill (related to the root meaning of changing or not succeeding as expected)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allahū",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَهْدَهُ",
+      "transliteration": "ʿahdahu",
+      "meaning": "His covenant",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to make a promise or covenant; to bind oneself; firmness, stability"
+      },
+      "components": [
+        {
+          "arabic": "عَهْدَ",
+          "meaning": "covenant, promise"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَمْ",
+      "transliteration": "am",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-م",
+        "meaning": "to desire, to wish; to intend, to purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "تَقُولُونَ",
+      "transliteration": "taqūlūna",
+      "meaning": "do you say?",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "قُولُـ",
+          "meaning": "verbal root indicating 'saying'"
+        },
+        {
+          "arabic": "~ونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, about",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allahī",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, of"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "flowing, existing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūna",
+      "meaning": "you know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person masculine plural present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-they said - never - touch-us - the-fire - except - days - counted - pause marker - Say! - have-you taken? - with - of-Allah - a-covenant - then-never - break - Allah - His-covenant - pause marker - or - do-you say? - upon - of-Allah - that which - not - you know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

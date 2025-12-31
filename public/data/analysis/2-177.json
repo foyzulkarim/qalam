@@ -1,0 +1,859 @@
+{
+  "verseId": "2:177",
+  "verse": {
+    "arabic": "لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَـٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا ۖ وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ ۗ أُولَـٰئِكَ الَّذِينَ صَدَقُوا ۖ وَأُولَـٰئِكَ هُمُ الْمُتَّقُونَ",
+    "transliteration": "Laysa albirra an tuwalloo wujoohakum qibala almashriqi waalmaghribi walakinna albirra man amana biAllahi waalyawmi alakhiri waalmalaikati waalkitabi waalnnabiyyeena waata almala AAala hubbihi thawee alqurba waalyatama waalmasakeena waibna alssabeeli waalssaileena wafee alrriqabi waaqama alssalata waata alzzakata waalmoofoona biAAahdihim itha AAahadoo waalssabireena fee albasai waalddarrai waheena albasi olaika allatheena sadaqoo waolaika humu almuttaqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 177
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّيْسَ",
+      "transliteration": "laysa",
+      "meaning": "is not",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be deficient, to lack, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْبِرَّ",
+      "transliteration": "al-birra",
+      "meaning": "the righteousness",
+      "root": {
+        "letters": "ب-ر-ي",
+        "meaning": "to be righteous, good, dutiful; to excel in goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be; existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُوَلُّوا",
+      "transliteration": "tuwallū",
+      "meaning": "you turn (faces)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to incline, to be responsible for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وُجُوهَكُمْ",
+      "transliteration": "wujūhakum",
+      "meaning": "your faces",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, to become visible; face, direction"
+      },
+      "components": [
+        {
+          "arabic": "وُجُوهَ",
+          "meaning": "faces (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قِبَلَ",
+      "transliteration": "qibala",
+      "meaning": "towards",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to receive, to turn towards"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَشْرِقِ",
+      "transliteration": "al-mashriqi",
+      "meaning": "the east",
+      "root": {
+        "letters": "ش-ر-ق",
+        "meaning": "to rise, to originate; east (as the place of rising)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَشْرِق",
+          "meaning": "rising place, east (derived from the root شَرَقَ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْمَغْرِبِ",
+      "transliteration": "wal-maghribi",
+      "meaning": "and the west",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to set (sun), to decline, west"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَغْرِبِ",
+          "meaning": "the west"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَلَـٰكِنَّ",
+      "transliteration": "wa-lākinna",
+      "meaning": "but indeed",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hiddenness, lateness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "for; emphasis"
+        },
+        {
+          "arabic": "كِنَّ",
+          "meaning": "but indeed; certainly (emphatic particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْبِرَّ",
+      "transliteration": "al-birra",
+      "meaning": "the righteousness",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be righteous, to do good, to excel (in virtue)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also related to questioning and inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "آمَنَ",
+      "transliteration": "āmana",
+      "meaning": "believes",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "in Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to be divine, to worship, godhood"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَالْيَوْمِ",
+      "transliteration": "wal-yawmi",
+      "meaning": "and the Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time, period"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْيَوْمِ",
+          "meaning": "the day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْآخِرِ",
+      "transliteration": "al-ākhiri",
+      "meaning": "the Last [one]",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to follow after; the end or finality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "آخِر",
+          "meaning": "last, final"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَالْمَلَائِكَةِ",
+      "transliteration": "wal-malāʾikati",
+      "meaning": "and the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَلَائِكَةِ",
+          "meaning": "the angels (plural of angel)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَالْكِتَابِ",
+      "transliteration": "wal-kitābi",
+      "meaning": "and the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording; to write"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْكِتَابِ",
+          "meaning": "the Book"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَالنَّبِيِّينَ",
+      "transliteration": "wan-nabiyyīna",
+      "meaning": "and the prophets",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to give news, to proclaim; associated with divine communication and prophecy"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "النَّبِيِّينَ",
+          "meaning": "the prophets (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَآتَى",
+      "transliteration": "wa-ātā",
+      "meaning": "and gives",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to approach; to give (as something coming toward the receiver)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آتَى",
+          "meaning": "gives, bestows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْمَالَ",
+      "transliteration": "al-māla",
+      "meaning": "the wealth",
+      "root": {
+        "letters": "م-ل-ء",
+        "meaning": "to fill, to possess, fullness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/despite",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "حُبِّهِ",
+      "transliteration": "ḥubbihi",
+      "meaning": "its love",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, affection, liking"
+      },
+      "components": [
+        {
+          "arabic": "حب",
+          "meaning": "love, affection"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his, its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ذَوِي",
+      "transliteration": "dhawī",
+      "meaning": "possessors of/to",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": [
+        {
+          "arabic": "ذَو",
+          "meaning": "possessor of, owner"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "plural marker (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "الْقُرْبَىٰ",
+      "transliteration": "al-qurbā",
+      "meaning": "the kinship",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَالْيَتَامَىٰ",
+      "transliteration": "wal-yatāmā",
+      "meaning": "and the orphans",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, helpless; to lack a parent"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْيَتَامَىٰ",
+          "meaning": "the orphans"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَالْمَسَاكِينَ",
+      "transliteration": "wal-masākīna",
+      "meaning": "and the poor",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to be weak, poor; to live in hardship or need"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَسَاكِينَ",
+          "meaning": "the poor (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَابْنَ",
+      "transliteration": "wabna",
+      "meaning": "and the son [of]",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; also used for lineage (son)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ابْن",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "السَّبِيلِ",
+      "transliteration": "as-sabīli",
+      "meaning": "the wayfarer",
+      "root": {
+        "letters": "س-ب-و",
+        "meaning": "to go, to follow a path; to take a route"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَالسَّائِلِينَ",
+      "transliteration": "was-sāʾilīna",
+      "meaning": "and the askers [for help]",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "السَّائِلِينَ",
+          "meaning": "the askers [for help]"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "وَفِي",
+      "transliteration": "wa-fī",
+      "meaning": "and in/for",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to return, to come back; sufficiency, abundance"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "in, for, within"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الرِّقَابِ",
+      "transliteration": "ar-riqābi",
+      "meaning": "the necks [slaves]",
+      "root": {
+        "letters": "ر-ق-ب",
+        "meaning": "to have a neck; to be restrained, held back; slavery"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رِّقَابِ",
+          "meaning": "necks (plural of رَقَبَة)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَأَقَامَ",
+      "transliteration": "wa-aqāma",
+      "meaning": "and establishes",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to establish, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَقَامَ",
+          "meaning": "he established, he maintained"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "الصَّلَاةَ",
+      "transliteration": "as-salāta",
+      "meaning": "the prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to turn towards (God)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "وَآتَى",
+      "transliteration": "wa-ātā",
+      "meaning": "and gives",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give, to bestow"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آتَى",
+          "meaning": "gives, bestows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "الزَّكَاةَ",
+      "transliteration": "az-zakāta",
+      "meaning": "the zakah",
+      "root": {
+        "letters": "ز-ك-و",
+        "meaning": "growth, increase, purity, blessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "وَالْمُوفُونَ",
+      "transliteration": "wal-mūfūna",
+      "meaning": "and the fulfillers [of]",
+      "root": {
+        "letters": "و-ف-ع",
+        "meaning": "to carry out, to fulfill, to complete"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُوفُونَ",
+          "meaning": "fulfillers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "بِعَهْدِهِمْ",
+      "transliteration": "bi-ʿahdihim",
+      "meaning": "their promise",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to covenant, promise, pledge"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عَهْدِهِمْ",
+          "meaning": "their promise, their covenant"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "إِذَا عَاهَدُوا",
+      "transliteration": "idhā ʿāhadū",
+      "meaning": "when they promise",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to covenant, to promise, to make an agreement"
+      },
+      "components": [
+        {
+          "arabic": "إِذَا",
+          "meaning": "when"
+        },
+        {
+          "arabic": "عَاهَدُوا",
+          "meaning": "they made a promise/covenant"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "ۖ",
+      "transliteration": " ",
+      "meaning": "[Pause mark]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "وَالصَّابِرِينَ",
+      "transliteration": "was-ṣābirīna",
+      "meaning": "and the patient [ones]",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to bear patiently, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الصَّابِرِينَ",
+          "meaning": "the patient ones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "فِي الْبَأْسَاءِ",
+      "transliteration": "fī al-baʾsāʾi",
+      "meaning": "in the adversity",
+      "root": {
+        "letters": "ب-أ-س",
+        "meaning": "difficulty, hardship, severity; to be harsh"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْبَأْسَاءِ",
+          "meaning": "the adversity, the hardship (state of being in difficulty)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "وَالضَّرَّاءِ",
+      "transliteration": "wad-ḍarrāʾi",
+      "meaning": "and the hardship",
+      "root": {
+        "letters": "ض-رّ-أ",
+        "meaning": "narrowness, constriction, hardship"
+      },
+      "components": [
+        {
+          "arabic": "الضَّر",
+          "meaning": "the hardship, adversity"
+        },
+        {
+          "arabic": "اءِ",
+          "meaning": "the indefinite accusative marker (tanwīn fath)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "وَحِينَ الْبَأْسِ",
+      "transliteration": "wa-ḥīna al-baʾsi",
+      "meaning": "and during the battle",
+      "root": {
+        "letters": "ب-أ-س",
+        "meaning": "severity, hardship, difficulty"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حِينَ",
+          "meaning": "when, during"
+        },
+        {
+          "arabic": "الْبَأْسِ",
+          "meaning": "the battle, the severity"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ulāʾika",
+      "meaning": "those [are]",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, initial, or foremost; to return"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "those (demonstrative pronoun, masculine plural)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating masculine plural, remote reference"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to have; relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "صَدَقُوا",
+      "transliteration": "ṣadaqū",
+      "meaning": "were true",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to be truthful, to speak the truth, to fulfill a promise"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "ۖ",
+      "transliteration": " ",
+      "meaning": "[Pause mark]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "وَأُولَـٰئِكَ",
+      "transliteration": "wa-ulāʾika",
+      "meaning": "and those [are]",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; foremost, initial"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "هُمُ",
+      "transliteration": "hum",
+      "meaning": "they [are]",
+      "root": {
+        "letters": "ه-م-و",
+        "meaning": "to possess, to have; also used for pronouns referring back to a group or people"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "الْمُتَّقُونَ",
+      "transliteration": "al-muttaqūna",
+      "meaning": "the righteous",
+      "root": {
+        "letters": "و-ق-ى",
+        "meaning": "to protect, to shield, to fear (in the sense of being wary)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُتَّقُونَ",
+          "meaning": "those who fear (Allah), the righteous, those with taqwa"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "is not - the righteousness - that - you turn - your faces - towards - the east - and the west - but indeed - the righteousness - who - believes - in - Allah - and the Day - the Last [one] - and the angels - and the Book - and the prophets - and gives - the wealth - upon - its love - to possessors of - the kinship - and the orphans - and the poor - and the son [of] - the wayfarer - and the askers [for help] - and for - the necks [slaves] - and establishes - the prayer - and gives - the zakah - and the fulfillers [of] - their promise - when they promise - and the patient [ones] - in - the adversity - and the hardship - and during - the battle - those [are] - who - were true - and those [are] - they [are] - the righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "verseId": "2:227",
+  "verse": {
+    "arabic": "وَإِنْ عَزَمُوا الطَّلَاقَ فَإِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+    "transliteration": "Wain AAazamoo alttalaqa fainna Allaha sameeAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 227
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنْ",
+      "transliteration": "waʾin",
+      "meaning": "and if",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence; also used to form conditional clauses"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَزَمُوا",
+      "transliteration": "ʿazamū",
+      "meaning": "they determined, they decided",
+      "root": {
+        "letters": "ع-ز-م",
+        "meaning": "to intend, to resolve, to be firm in purpose"
+      },
+      "components": [
+        {
+          "arabic": "عَ",
+          "meaning": "prefix indicating first-person plural imperfect active voice"
+        },
+        {
+          "arabic": "زَمُوا",
+          "meaning": "they determined (imperfect active verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الطَّلَاقَ",
+      "transliteration": "aṭ-ṭalāqa",
+      "meaning": "the divorce",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to release, to divorce"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed, so verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سَمِيعٌ",
+      "transliteration": "samīʿun",
+      "meaning": "Hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if they-determined the-divorce then-indeed Allah Hearing Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

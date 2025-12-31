@@ -1,0 +1,504 @@
+{
+  "verseId": "2:114",
+  "verse": {
+    "arabic": "وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَاجِدَ اللَّهِ أَن يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا ۚ أُولَـٰئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَا إِلَّا خَائِفِينَ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+    "transliteration": "Waman athlamu mimman manaAAa masajida Allahi an yuthkara feeha ismuhu wasaAAa fee kharabiha olaika ma kana lahum an yadkhulooha illa khaifeena lahum fee alddunya khizyun walahum fee alakhirati AAathabun AAatheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 114
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَنْ",
+      "transliteration": "wa man",
+      "meaning": "and who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also, inquiry, question"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَظْلَمُ",
+      "transliteration": "aẓlamu",
+      "meaning": "more unjust",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, darkness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more"
+        },
+        {
+          "arabic": "ظَلَمُ",
+          "meaning": "unjust, oppressive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِمَّن",
+      "transliteration": "mimman",
+      "meaning": "than who/from those who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, origin, source"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who/those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَّنَعَ",
+      "transliteration": "manaʿa",
+      "meaning": "prevented/hindered",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to obstruct, to withhold, to forbid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَسَاجِدَ",
+      "transliteration": "masājida",
+      "meaning": "mosques (plural)",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "prostration; to fall low in reverence or worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the deity, God"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Allah (possessive pronoun suffix, 'his')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to (purpose)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "existence, being, or to be"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُذْكَرَ",
+      "transliteration": "yudhkara",
+      "meaning": "be mentioned/remembered (passive)",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker / prefix indicating passive form"
+        },
+        {
+          "arabic": "ذُكِرَ",
+          "meaning": "passive form of the verb 'to remember/be mentioned'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in them/therein (referring to mosques)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to dwell within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "them, there (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اسْمُهُ",
+      "transliteration": "ismuhu",
+      "meaning": "His name",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, height; essence, substance; name (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "إِسْمُ",
+          "meaning": "name"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَسَعَىٰ",
+      "transliteration": "wa saʿā",
+      "meaning": "and strived/endeavored",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to endeavor, to strive, to make an effort"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَعَىٰ",
+          "meaning": "he strived/endeavored"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/towards",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, be present, enter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَرَابِهَا",
+      "transliteration": "kharābihā",
+      "meaning": "their destruction/ruin (of them)",
+      "root": {
+        "letters": "خ-ر-ب",
+        "meaning": "to be ruined, destroyed; to decay"
+      },
+      "components": [
+        {
+          "arabic": "خَرَابِ",
+          "meaning": "destruction, ruin"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "their, of them (feminine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۚ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ūlāʾika",
+      "meaning": "those (plural)",
+      "root": {
+        "letters": "د-ل-ي",
+        "meaning": "to point out, to indicate"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "those (demonstrative pronoun, plural)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating plural and gender (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "not/no",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be non-existent, to lack, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was/were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to (impossibility)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also indicates impossibility or negation of action"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "يَدْخُلُوهَا",
+      "transliteration": "yadkhulūhā",
+      "meaning": "they enter them/therein",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "يد",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "خُل",
+          "meaning": "enter (verbal noun/root)"
+        },
+        {
+          "arabic": "وهَا",
+          "meaning": "them/therein (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to refrain, to abstain, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "خَائِفِينَ",
+      "transliteration": "khāʾifīn",
+      "meaning": "fearful/afraid (plural)",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۚ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to belong to, possess, have"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/during",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go in, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world/life",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble; to become submissive or temporary"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "خِزْيٌ",
+      "transliteration": "khizyun",
+      "meaning": "disgrace/shame",
+      "root": {
+        "letters": "خ-ي-ش",
+        "meaning": "weakness, humiliation, shame"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "وَلَهُمْ",
+      "transliteration": "wa lahum",
+      "meaning": "and for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to have, to possess; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَهُمْ",
+          "meaning": "for them, to them; belonging to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/during",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in; abundance, overflowing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ākhirati",
+      "meaning": "the Hereafter/Afterlife",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to come after, to be late; the end, the last part"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the afterlife, the Hereafter"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "punishment/torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to suffer hardship, to be painful; to punish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "عَظِيمٌ",
+      "transliteration": "ʿaẓīmun",
+      "meaning": "great/severe",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be large, to be great; power, magnitude"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and who - more unjust - than from-those-who - prevented - mosques - of Allah - that - be mentioned - in them - His name - and strived - in - their destruction - . those (ones) - not - was/were - for them - that - they enter them - except - fearful. - for them - in - the world - disgrace - and for them - in - the Hereafter - punishment - great."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

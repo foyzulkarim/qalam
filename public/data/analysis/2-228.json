@@ -1,0 +1,765 @@
+{
+  "verseId": "2:228",
+  "verse": {
+    "arabic": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ اللَّهُ فِي أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَٰلِكَ إِنْ أَرَادُوا إِصْلَاحًا ۚ وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+    "transliteration": "Waalmutallaqatu yatarabbasna bianfusihinna thalathata qurooin wala yahillu lahunna an yaktumna ma khalaqa Allahu fee arhamihinna in kunna yuminna biAllahi waalyawmi alakhiri wabuAAoolatuhunna ahaqqu biraddihinna fee thalika in aradoo islahan walahunna mithlu allathee AAalayhinna bialmaAAroofi walilrrijali AAalayhinna darajatun waAllahu AAazeezun hakeemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 228
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْمُطَلَّقَاتُ",
+      "transliteration": "wa-al-muṭallaqāt",
+      "meaning": "and the divorced women",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to divorce, to release, to set free"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُطَلَّقَاتُ",
+          "meaning": "divorced women (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَتَرَبَّصْنَ",
+      "transliteration": "yatarabbaṣna",
+      "meaning": "they await/remain in waiting",
+      "root": {
+        "letters": "ر-ب-ص",
+        "meaning": "to wait, to lie in wait, to remain"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person plural (they)"
+        },
+        {
+          "arabic": "تَرَ",
+          "meaning": "indicates multiple actors or a group performing the action"
+        },
+        {
+          "arabic": "بَصْنَ",
+          "meaning": "the root verb 'to wait' conjugated for feminine plural (they await)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِأَنفُسِهِنَّ",
+      "transliteration": "bi-anfusihinna",
+      "meaning": "with themselves/regarding their state",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath, essence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَنفُسِهِنَّ",
+          "meaning": "their selves/souls (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ثَلَاثَةَ",
+      "transliteration": "thalāthata",
+      "meaning": "three",
+      "root": {
+        "letters": "ث-ل-ث",
+        "meaning": "to be three; to follow in sequence; triad"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قُرُوءٍ",
+      "transliteration": "qurūʾin",
+      "meaning": "periods/courses (menstrual)",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite; menstruation (related to the period's cyclical nature)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَحِلُّ",
+      "transliteration": "yaḥillu",
+      "meaning": "is lawful/permitted",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to loosen, untie, resolve; to be lawful"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present/future tense, and first-person singular when combined with other morphemes"
+        },
+        {
+          "arabic": "حِلُّ",
+          "meaning": "lawfulness, permissibility; verbal noun from the root ح-ل-ل"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَهُنَّ",
+      "transliteration": "lahunna",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-ن",
+        "meaning": "to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "they (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَكْتُمْنَ",
+      "transliteration": "yaktumna",
+      "meaning": "they conceal/hide",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to conceal, hide, keep secret"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates the imperfect tense, first person singular or plural (depending on context)"
+        },
+        {
+          "arabic": "كَتَمَ",
+          "meaning": "to conceal, hide (basic form)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "pronoun suffix, indicates 'they' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (in a general sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَرْحَامِهِنَّ",
+      "transliteration": "arḥāmihinna",
+      "meaning": "their wombs",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, mercy, the womb"
+      },
+      "components": [
+        {
+          "arabic": "أَرْحَامِ",
+          "meaning": "wombs (plural, genitive)"
+        },
+        {
+          "arabic": "هِنَّ",
+          "meaning": "their (feminine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if/indeed",
+      "root": {
+        "letters": "ا-ن-و",
+        "meaning": "to be, existence; also indicates affirmation or condition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "كُنَّ",
+      "transliteration": "kunna",
+      "meaning": "they are/you are (feminine plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you are (masculine plural imperative)"
+        },
+        {
+          "arabic": "ـنَّ",
+          "meaning": "feminine plural suffix indicating a group of females"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يُؤْمِنَّ",
+      "transliteration": "yuʾminna",
+      "meaning": "they believe/they are believers (feminine plural)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person (in some forms)"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "to believe/be secure (second person feminine plural)"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "emphatic particle, reinforcing the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-allāhi",
+      "meaning": "in Allah/by Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, the deity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, in, with"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَالْيَوْمِ",
+      "transliteration": "wa-al-yawmi",
+      "meaning": "and the Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time, occurrence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْيَوْمِ",
+          "meaning": "the Day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الْآخِرِ",
+      "transliteration": "al-ākhiri",
+      "meaning": "the Last (Day)",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to follow, the end/last part"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "آخِر",
+          "meaning": "last, final"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَبُعُولَتُهُنَّ",
+      "transliteration": "wa-buʿūlatahunna",
+      "meaning": "and their husbands",
+      "root": {
+        "letters": "ب-ع-ل",
+        "meaning": "to marry, possess, control; husband"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بُعُولَة",
+          "meaning": "husbands (plural)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "their (feminine plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَحَقُّ",
+      "transliteration": "aḥaqqu",
+      "meaning": "more worthy/have more right",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "true, right, worthy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "بِرَدِّهِنَّ",
+      "transliteration": "bi-raddihinna",
+      "meaning": "to return them/regarding their returning",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to revert, to repel"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in"
+        },
+        {
+          "arabic": "رَدِّ",
+          "meaning": "returning (masculine plural genitive)"
+        },
+        {
+          "arabic": "هِنَّ",
+          "meaning": "them (feminine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into, to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that/this (period)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of/having the quality of"
+        },
+        {
+          "arabic": "لِكَ",
+          "meaning": "to/for you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if/indeed",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "أَرَادُوا",
+      "transliteration": "arādū",
+      "meaning": "they want/desire",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to want, to desire, to seek"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating the active voice, first person singular or plural future tense"
+        },
+        {
+          "arabic": "رَادُوا",
+          "meaning": "they wanted/desired (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "إِصْلَاحًا",
+      "transliteration": "iṣlāḥan",
+      "meaning": "reconciliation/amendment",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be right, correct; to repair, amend; peace, reconciliation"
+      },
+      "components": [
+        {
+          "arabic": "إِصْ",
+          "meaning": "formative prefix indicating intention or purpose (related to doing the action)"
+        },
+        {
+          "arabic": "لَاح",
+          "meaning": "related to the root ص-ل-ح, indicating the process of making right/amending"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-naṣb (accusative case marker), indicating the noun is the direct object or circumstantial accusative"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "وَلَهُنَّ",
+      "transliteration": "wa-lahunna",
+      "meaning": "and for them/to them (feminine plural)",
+      "root": {
+        "letters": "ل-هـ-ن",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَهُنَّ",
+          "meaning": "for them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "مِثْلُ",
+      "transliteration": "mithlu",
+      "meaning": "like/similar to",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be similar"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "الَّذِي",
+      "transliteration": "alladhī",
+      "meaning": "that which/what",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having qualities"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "which/what (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "عَلَيْهِنَّ",
+      "transliteration": "ʿalayhinna",
+      "meaning": "upon them/against them (feminine plural)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to rise; to be over or above (in position)"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "they (feminine plural) – pronoun suffix referring to a feminine plural subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "بِالْمَعْرُوفِ",
+      "transliteration": "bi-al-maʿrūfi",
+      "meaning": "with kindness/in a reasonable manner",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, recognize; goodness, kindness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in"
+        },
+        {
+          "arabic": "الْمَعْرُوفِ",
+          "meaning": "the kindness, the good deed, the reasonable manner"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "وَلِلرِّجَالِ",
+      "transliteration": "wa-li-al-rijāli",
+      "meaning": "and for the men/to the men",
+      "root": {
+        "letters": "ر-ج-ل",
+        "meaning": "to return, to revert; firmness, strength (and by extension, a man as possessing these qualities)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الرِّجَالِ",
+          "meaning": "the men"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "عَلَيْهِنَّ",
+      "transliteration": "ʿalayhinna",
+      "meaning": "upon them/against them (feminine plural)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to rise above; over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "دَرَجَةٌ",
+      "transliteration": "darajatan",
+      "meaning": "a degree/level (of responsibility)",
+      "root": {
+        "letters": "د-ر-ج",
+        "meaning": "to descend, to step down; to follow in succession or order"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "ۗ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, the God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "عَزِيزٌ",
+      "transliteration": "ʿazīzun",
+      "meaning": "Exalted in Might/Powerful",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "حَكِيمٌ",
+      "transliteration": "ḥakīmun",
+      "meaning": "Wise",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to be wise"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the divorced-women they-await regarding-their-state three periods and not is-lawful for-them that they-hide what created Allah in wombs-their if they-are believe in-Allah and-the Day the-Last and-husbands-their more-worthy to-return-them in that if they-want reconciliation and-for-them like that which upon-them with kindness and-to-the men upon-them a-degree Allah Exalted-in-Might Wise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

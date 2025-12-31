@@ -1,0 +1,320 @@
+{
+  "verseId": "2:171",
+  "verse": {
+    "arabic": "وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً ۚ صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَعْقِلُونَ",
+    "transliteration": "Wamathalu allatheena kafaroo kamathali allathee yanAAiqu bima la yasmaAAu illa duAAaan wanidaan summun bukmun AAumyun fahum la yaAAqiloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 171
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَثَلُ",
+      "transliteration": "wa-mathalu",
+      "meaning": "and the example/likeness",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, be like; example, likeness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَثَلُ",
+          "meaning": "example, likeness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to own; to be or have a quality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved/were ungrateful",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; hence, to be ungrateful by concealing the truth or blessing"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group of people (plural)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they disbelieved/were ungrateful (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَمَثَلِ",
+      "transliteration": "ka-maṯali",
+      "meaning": "like the example/likeness of",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like; example, likeness"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "مَثَلِ",
+          "meaning": "example, likeness (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "the one who/that which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, belonging"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who/which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَنْعِقُ",
+      "transliteration": "yanʿiqu",
+      "meaning": "shouts/cries (like an animal)",
+      "root": {
+        "letters": "ن-ق-ع",
+        "meaning": "to strike, to peck, to cry out (of animals)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "at/with what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be abundant, to flow (generally related to water or waves)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, at, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَسْمَعُ",
+      "transliteration": "yasmaʿu",
+      "meaning": "hears",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (I hear)"
+        },
+        {
+          "arabic": "سْمَعَ",
+          "meaning": "to hear, to listen"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah - indicates present tense, active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "دُعَاءً",
+      "transliteration": "duʿāʾan",
+      "meaning": "a call/invocation",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, invoke, pray"
+      },
+      "components": [
+        {
+          "arabic": "دَعَ",
+          "meaning": "to call, invoke"
+        },
+        {
+          "arabic": "-اءً",
+          "meaning": "masculine indefinite noun marker (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَنِدَاءً",
+      "transliteration": "wa-nidāʾan",
+      "meaning": "and a cry/shout",
+      "root": {
+        "letters": "ن-د-و",
+        "meaning": "to call, to invoke, sound"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۚ",
+      "transliteration": "{pause}",
+      "meaning": "[separating particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "صُمٌّ",
+      "transliteration": "ṣummun",
+      "meaning": "deaf",
+      "root": {
+        "letters": "ص-م-م",
+        "meaning": "deafness, muteness, silence; to be deaf or dumb"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بُكْمٌ",
+      "transliteration": "bukmun",
+      "meaning": "dumb/mute",
+      "root": {
+        "letters": "ب-ك-م",
+        "meaning": "to be mute, speechless; to stammer or stutter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عُمْيٌ",
+      "transliteration": "ʿumyun",
+      "meaning": "blind",
+      "root": {
+        "letters": "ع-م-ي",
+        "meaning": "obscurity, blindness, inability to see"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فَهُمْ",
+      "transliteration": "fa-hum",
+      "meaning": "so they",
+      "root": {
+        "letters": "ه-م-ي",
+        "meaning": "to be, to exist; understanding, intention"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be absent, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَعْقِلُونَ",
+      "transliteration": "yaʿqilūna",
+      "meaning": "understand/comprehend",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to tie firmly, to bind; hence, to understand (by tying things together in the mind)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person (we)"
+        },
+        {
+          "arabic": "عَقِل",
+          "meaning": "to understand, comprehend"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine present/future tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the example of those who disbelieved like-the example of the one who shouts at what not hears except a call and a cry - deaf dumb blind so they not understand"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

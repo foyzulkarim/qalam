@@ -1,0 +1,394 @@
+{
+  "verseId": "2:158",
+  "verse": {
+    "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا ۚ وَمَن تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ",
+    "transliteration": "Inna alssafa waalmarwata min shaAAairi Allahi faman hajja albayta awi iAAtamara fala junaha AAalayhi an yattawwafa bihima waman tatawwaAAa khayran fainna Allaha shakirun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 158
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed; verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "truth, certainty, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "Indeed; verily - a particle emphasizing the following statement."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الصَّفَا",
+      "transliteration": "aṣ-ṣafāʾ",
+      "meaning": "The Safa (mountain)",
+      "root": {
+        "letters": "ص-ف-و",
+        "meaning": "to be pure, clear, elevated; to flow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَرْوَةَ",
+      "transliteration": "al-marwata",
+      "meaning": "The Marwah (mountain)",
+      "root": {
+        "letters": "م-ر-و",
+        "meaning": "To rub, to polish; firmness, hardness."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From; among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive from, a source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَعَائِرِ",
+      "transliteration": "shaʿāʾiri",
+      "meaning": "Symbols; rites",
+      "root": {
+        "letters": "ش-ع-ر",
+        "meaning": "to feel, to know, to perceive; also related to distinctiveness and prominence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The Deity; God"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Of Allah (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "Pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَمَنْ",
+      "transliteration": "famán",
+      "meaning": "So whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; questioning particle"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "whoever, whosoever (interrogative/conditional pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "حَجَّ",
+      "transliteration": "ḥajja",
+      "meaning": "Made Hajj (performed the pilgrimage)",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "To intend strongly, to resort to something for refuge or necessity; specifically referring to circumambulating the Kaaba."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْبَيْتَ",
+      "transliteration": "al-bayta",
+      "meaning": "The House (the Kaʿbah)",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to build, to construct; a place or dwelling"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَوِ",
+      "transliteration": "ʾawī",
+      "meaning": "Or",
+      "root": {
+        "letters": "و-ا-ي",
+        "meaning": "To be associated, to accompany; or signifying alternative/option."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اعْتَمَرَ",
+      "transliteration": "iʿtamara",
+      "meaning": "Performed ʿumrah (minor pilgrimage)",
+      "root": {
+        "letters": "ع-م-ر",
+        "meaning": "to build, to populate, to live long; in the context of pilgrimage it relates to visiting and dwelling at a sacred place"
+      },
+      "components": [
+        {
+          "arabic": "إِعْتَ",
+          "meaning": "intensive prefix indicating seeking or doing something repeatedly"
+        },
+        {
+          "arabic": "مَرَ",
+          "meaning": "to visit, to go to (related to the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "Then there is not; so no",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to be unable, to lack, not to exist"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لاَ",
+          "meaning": "not, no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "جُنَاحَ",
+      "transliteration": "junāḥa",
+      "meaning": "Blame; sin",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "To cover, to shield; side, wing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "Upon him",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to be high, to elevate; to bear responsibility or obligation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above; in relation to"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "[That; to]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; indicating negation or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَطَّوَّفَ",
+      "transliteration": "yaṭawwafā",
+      "meaning": "[He] Walk between; circumambulate",
+      "root": {
+        "letters": "ط-و-ف",
+        "meaning": "to go around, to encircle; to revolve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "بِهِمَا",
+      "transliteration": "bihimā",
+      "meaning": "With them (Safa and Marwah)",
+      "root": {
+        "letters": "هـ-م-و",
+        "meaning": "To have, possess; with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "Them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "Pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "And whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; or to have the quality of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "تَطَوَّعَ",
+      "transliteration": "taṭawwaʿa",
+      "meaning": "Volunteered; did extra (good deeds)",
+      "root": {
+        "letters": "ﻁ-و-ع",
+        "meaning": "To obey willingly; to be submissive or compliant."
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix indicating a causative or intensifying form (Form IV)."
+        },
+        {
+          "arabic": "طَوَّعَ",
+          "meaning": "To make willing or compliant; to enable (someone) to do something."
+        },
+        {
+          "arabic": "ـَ",
+          "meaning": "Indicates the past tense, third person singular masculine."
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "Goodness; a good deed",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "The best, goodness, welfare; to be good or excellent."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "Then indeed; verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation; to be true, indeedness"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "verily; indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "شَاكِرٌ",
+      "transliteration": "shākirun",
+      "meaning": "Appreciative; thankful",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to acknowledge a favor; to thank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing; aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the Safa and-the Marwah from-symbols of-Allah. So-whoever made Hajj to-the House or-performed ʿumrah then-there is not blame upon-him that-[he] walk between-them. And-whoever volunteered good then-indeed Allah appreciative knowing."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

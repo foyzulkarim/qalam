@@ -1,0 +1,347 @@
+{
+  "verseId": "2:149",
+  "verse": {
+    "arabic": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۖ وَإِنَّهُ لَلْحَقُّ مِن رَّبِّكَ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+    "transliteration": "Wamin haythu kharajta fawalli wajhaka shatra almasjidi alharami wainnahu lalhaqqu min rabbika wama Allahu bighafilin AAamma taAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 149
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِنْ",
+      "transliteration": "wa min",
+      "meaning": "and from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "wherever, from wherever",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist, location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَرَجْتَ",
+      "transliteration": "kharajta",
+      "meaning": "you went out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "خَرَجْ",
+          "meaning": "you went out (masculine singular)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "second person masculine singular pronoun suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَوَلِّ",
+      "transliteration": "fa walli",
+      "meaning": "so turn",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to entrust, to govern"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "وَلِّ",
+          "meaning": "turn away, retreat (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَجْهَكَ",
+      "transliteration": "wajhaka",
+      "meaning": "your face",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, to appear; face, direction"
+      },
+      "components": [
+        {
+          "arabic": "وجْه",
+          "meaning": "face, appearance"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَطْرَ",
+      "transliteration": "shaṭra",
+      "meaning": "toward, direction of",
+      "root": {
+        "letters": "ش-ط-ر",
+        "meaning": "to divide, to split; side, portion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَسْجِدِ",
+      "transliteration": "al-masjidi",
+      "meaning": "the mosque",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "prostration, bowing down in worship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسْجِدِ",
+          "meaning": "place of prostration, mosque (derived from the root س-ج-د)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "the forbidden [sanctuary]",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to forbid, to be sacred, inviolability"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "forbidden, sacred (sanctuary)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَإِنَّهُ",
+      "transliteration": "wa innahu",
+      "meaning": "and indeed it",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it, he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَلْحَقِّ",
+      "transliteration": "la-lḥaqqi",
+      "meaning": "is the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْحَقِّ",
+          "meaning": "the truth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; source or origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رَّبِّكَ",
+      "transliteration": "rabbika",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to lord over; master, owner"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, master, possessor"
+        },
+        {
+          "arabic": "ـك",
+          "meaning": "your (masculine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what, and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِغَافِلٍ",
+      "transliteration": "bi ghāfilin",
+      "meaning": "unaware, negligent",
+      "root": {
+        "letters": "غ-ف-ل",
+        "meaning": "to be heedless, neglectful, unaware"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَافِلٍ",
+          "meaning": "unaware, negligent (masculine singular indefinite noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "عَمَّا",
+      "transliteration": "ʿammā",
+      "meaning": "about what, regarding what",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "to conceal, to obscure, regarding"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, regarding"
+        },
+        {
+          "arabic": "ما",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to practice, to work"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person plural (you)"
+        },
+        {
+          "arabic": "عَمَلْ",
+          "meaning": "the root verb 'to do'"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person plural (you - masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and from - wherever you went out - so turn - your face - toward - the mosque - the forbidden [sanctuary] - and indeed it - is the truth - from - your Lord - and what - Allah - [is] unaware - about what - you do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

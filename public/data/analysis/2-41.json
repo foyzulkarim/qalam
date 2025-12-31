@@ -1,0 +1,363 @@
+{
+  "verseId": "2:41",
+  "verse": {
+    "arabic": "وَآمِنُوا بِمَا أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ ۖ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ",
+    "transliteration": "Waaminoo bima anzaltu musaddiqan lima maAAakum wala takoonoo awwala kafirin bihi wala tashtaroo biayatee thamanan qaleelan waiyyaya faittaqooni",
+    "surah": "Al-Baqarah",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَآمِنُوا",
+      "transliteration": "wa-ʾāminū",
+      "meaning": "and believe (imperative)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آمِنُوا",
+          "meaning": "believe (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "in what/with what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; destruction"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنزَلْتُ",
+      "transliteration": "ʾanzaltu",
+      "meaning": "I have sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "I have (the pronoun 'ana' with the indicative particle)"
+        },
+        {
+          "arabic": "زَلْتُ",
+          "meaning": "sent down, I have lowered"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُصَدِّقًا",
+      "transliteration": "muṣaddiqan",
+      "meaning": "confirming/witnessing",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truth, honesty, correctness"
+      },
+      "components": [
+        {
+          "arabic": "مُصَدِّق",
+          "meaning": "one who confirms/verifies"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "indefinite accusative singular masculine ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّمَا",
+      "transliteration": "li-mā",
+      "meaning": "for what/to what",
+      "root": {
+        "letters": "م-و-د",
+        "meaning": "to possess, to have control over"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَعَكُمْ",
+      "transliteration": "maʿakum",
+      "meaning": "with you",
+      "root": {
+        "letters": "م-ع-ي",
+        "meaning": "possession, being together, accompaniment"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَكُونُوا",
+      "transliteration": "takūnū",
+      "meaning": "you be (subjunctive)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating subjunctive mood or imperfect tense"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "you be (verbal noun form)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating second person plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَوَّلَ",
+      "transliteration": "ʾawwala",
+      "meaning": "first",
+      "root": {
+        "letters": "أ-وَّل-ا",
+        "meaning": "to begin, to come first, precedence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَافِرٍ",
+      "transliteration": "kāfirin",
+      "meaning": "disbeliever",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, reject faith"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "in it/with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have; pertaining to or associated with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to be desired, to wish for, negation/absence of something desired"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَشْتَرُوا",
+      "transliteration": "tashtarū",
+      "meaning": "you exchange",
+      "root": {
+        "letters": "ش-ر-ى",
+        "meaning": "to purchase, to exchange, to sell"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person plural (you)"
+        },
+        {
+          "arabic": "شْتَرُ",
+          "meaning": "form II verb stem related to the root ش-ر-ى (purchase/exchange)"
+        },
+        {
+          "arabic": "وْا",
+          "meaning": "suffix indicating second person plural masculine (you - group)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِآيَاتِي",
+      "transliteration": "bi-ʾāyātī",
+      "meaning": "with My signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, proof, verse"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "آيَاتِي",
+          "meaning": "My signs"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ثَمَنًا",
+      "transliteration": "thamanan",
+      "meaning": "a price",
+      "root": {
+        "letters": "ث-م-ن",
+        "meaning": "to be valuable; price"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "small/little",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to diminish, scarcity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَإِيَّايَ",
+      "transliteration": "wa-ʾiyyāy",
+      "meaning": "and Me (emphatic)",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "to return, to revert back; self, one's own being"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِيَّايَ",
+          "meaning": "Me (emphatic); to Me, unto Me"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فَاتَّقُونِ",
+      "transliteration": "fattaqūnī",
+      "meaning": "so fear Me (imperative)",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, shield, fear (as a result of protecting oneself)"
+      },
+      "components": [
+        {
+          "arabic": "فَتَ",
+          "meaning": "prefix indicating imperative mood and first-person inclusion (so)"
+        },
+        {
+          "arabic": "اتَّ",
+          "meaning": "intensive/emphatic prefix (reinforces the imperative)"
+        },
+        {
+          "arabic": "قُونِ",
+          "meaning": "second-person masculine plural imperative suffix (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-believe in what I have-sent-down confirming for-what with-you and-not you be first disbeliever in-it [pause] and-not you exchange with-My signs a price small and-Me so-fear Me"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

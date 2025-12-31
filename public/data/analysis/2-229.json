@@ -1,0 +1,889 @@
+{
+  "verseId": "2:229",
+  "verse": {
+    "arabic": "الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ ۗ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا مِمَّا آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَن يَخَافَا أَلَّا يُقِيمَا حُدُودَ اللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَن يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَـٰئِكَ هُمُ الظَّالِمُونَ",
+    "transliteration": "Alttalaqu marratani faimsakun bimaAAroofin aw tasreehun biihsanin wala yahillu lakum an takhuthoo mimma ataytumoohunna shayan illa an yakhafa alla yuqeema hudooda Allahi fain khiftum alla yuqeema hudooda Allahi fala junaha AAalayhima feema iftadat bihi tilka hudoodu Allahi fala taAAtadooha waman yataAAadda hudooda Allahi faolaika humu alththalimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 229
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الطَّلَاقُ",
+      "transliteration": "aṭ-ṭalāqu",
+      "meaning": "the divorce",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to release, to divorce, to untie"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَرَّتَانِ",
+      "transliteration": "marratāni",
+      "meaning": "two times",
+      "root": {
+        "letters": "م-ر-ر",
+        "meaning": "to pass by, to flow"
+      },
+      "components": [
+        {
+          "arabic": "مَرَّة",
+          "meaning": "one time, once"
+        },
+        {
+          "arabic": "تَانِ",
+          "meaning": "dual ending, two times"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَإِمْسَاكٌ",
+      "transliteration": "fa-ʾimsākun",
+      "meaning": "then retention/keeping",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to hold, to retain, to control"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِمْسَاكٌ",
+          "meaning": "retention, keeping"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَعْرُوفٍ",
+      "transliteration": "bi-maʿrūfin",
+      "meaning": "with kindness/acceptable manner",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to recognize; goodness, kindness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَعْرُوفٍ",
+          "meaning": "kindness, a good deed, something acceptable"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "to connect, conjunction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَسْرِيحٌ",
+      "transliteration": "tasrīḥun",
+      "meaning": "release/divorce (kindly)",
+      "root": {
+        "letters": "س-ر-ح",
+        "meaning": "to loosen, to set free, to release"
+      },
+      "components": [
+        {
+          "arabic": "تَسْرِيحٌ",
+          "meaning": "The act of releasing or divorcing kindly; a gentle separation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِإِحْسَانٍ",
+      "transliteration": "bi-ʾiḥsānin",
+      "meaning": "with good treatment/excellence",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, beautiful; to excel"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "إِحْسَانٍ",
+          "meaning": "goodness, excellence, perfection"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَحِلُّ",
+      "transliteration": "yaḥillu",
+      "meaning": "is lawful/permitted",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to loosen, untie, resolve; to be permissible/lawful"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and active voice (first person singular, or indefinite)"
+        },
+        {
+          "arabic": "حِلّ",
+          "meaning": "to be lawful/permitted; resolution, ease"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also related to wish or desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَأْخُذُوا",
+      "transliteration": "taʾkhuḏū",
+      "meaning": "you take (plural)",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to receive"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperative mood (form II)"
+        },
+        {
+          "arabic": "أَخْـ",
+          "meaning": "root of taking, seizing"
+        },
+        {
+          "arabic": "ـُذُوا",
+          "meaning": "suffix indicating plural, second person (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِمَّا",
+      "transliteration": "mimmā",
+      "meaning": "from what/of that which",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be of the nature of"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "آتَيْتُمُوهُنَّ",
+      "transliteration": "ʾātaytumūhunna",
+      "meaning": "you gave them (plural)",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, to come with, to reach"
+      },
+      "components": [
+        {
+          "arabic": "آتَيْتُمُ",
+          "meaning": "you gave (plural, masculine)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "something/anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be non-existent, to lack, thingness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to reject, to deny"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, toward"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَخَافَا",
+      "transliteration": "yakhāfā",
+      "meaning": "they fear (dual)",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating dual form and present tense"
+        },
+        {
+          "arabic": "خَافَا",
+          "meaning": "dual form of the verb 'to fear'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَلَّا",
+      "transliteration": "ʾallā",
+      "meaning": "that not/lest",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "particle of negation, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "يُقِيمَا",
+      "transliteration": "yuqīmā",
+      "meaning": "they establish (dual)",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to establish, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (dual)"
+        },
+        {
+          "arabic": "قِيمَا",
+          "meaning": "establish (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "حُدُودَ",
+      "transliteration": "ḥudūda",
+      "meaning": "limits/boundaries (plural)",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to limit, to restrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his/of him (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فَإِنْ",
+      "transliteration": "fa-ʾin",
+      "meaning": "then if/if indeed",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence, being"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "خِفْتُمْ",
+      "transliteration": "khiftum",
+      "meaning": "you feared (plural)",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "خِف",
+          "meaning": "fear (verbal noun/stem)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural, masculine) - suffix indicating the second person plural pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "أَلَّا",
+      "transliteration": "ʾallā",
+      "meaning": "that not/lest",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to desire, to wish, negation/prevention"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negation/not"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for/to, purpose (often indicates wish or prevention)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel, connecting particle/final vowel of purpose."
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "يُقِيمَا",
+      "transliteration": "yuqīmā",
+      "meaning": "they establish (dual)",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to establish, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (dual)"
+        },
+        {
+          "arabic": "قِيمَا",
+          "meaning": "establish (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "حُدُودَ",
+      "transliteration": "ḥudūda",
+      "meaning": "limits/boundaries (plural)",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to limit, to restrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, God"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "belonging to Allah (genitive possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then not/so no",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, deficient, exhausted; to fail or perish"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "جُنَاحَ",
+      "transliteration": "junāḥa",
+      "meaning": "blame/harm",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "wing, side, cover, protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "عَلَيْهِمَا",
+      "transliteration": "ʿalayhimā",
+      "meaning": "upon them (dual)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to be above; to protect, oversee"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "فِيمَا",
+      "transliteration": "fīmā",
+      "meaning": "in what/concerning that which",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to encompass, to include; to contain"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "افْتَدَتْ",
+      "transliteration": "iftadat",
+      "meaning": "she ransomed herself",
+      "root": {
+        "letters": "ف-د-ي",
+        "meaning": "to redeem, ransom, offer a substitute"
+      },
+      "components": [
+        {
+          "arabic": "اِفْتَ",
+          "meaning": "prefix indicating seeking or doing something for oneself"
+        },
+        {
+          "arabic": "دَتْ",
+          "meaning": "feminine singular past tense marker, she did"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "that/these (feminine)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to point, to indicate"
+      },
+      "components": [
+        {
+          "arabic": "تِلْ",
+          "meaning": "that (feminine, distant)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix pronoun, 'that' (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "حُدُودُ",
+      "transliteration": "ḥudūdu",
+      "meaning": "limits/boundaries (plural)",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to limit, to restrict"
+      },
+      "components": [
+        {
+          "arabic": "حُدّ",
+          "meaning": "limit, boundary (singular)"
+        },
+        {
+          "arabic": "-ُود",
+          "meaning": "plural ending indicating broken plural for masculine nouns"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then not/so no",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, exhausted; to fail or perish"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "تَعْتَدُوهَا",
+      "transliteration": "taʿtadūhā",
+      "meaning": "you transgress it (plural)",
+      "root": {
+        "letters": "ع-ت-د",
+        "meaning": "to count, to transgress limits, to exceed"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person plural present tense"
+        },
+        {
+          "arabic": "عَتَـ",
+          "meaning": "root relating to exceeding limits or transgressing"
+        },
+        {
+          "arabic": "ـدُوهَا",
+          "meaning": "you (plural) + it (feminine singular object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "وَمَن",
+      "transliteration": "wa-man",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to be, to exist; also related to designating or pointing out"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "يَتَعَدَّ",
+      "transliteration": "yataʿadda",
+      "meaning": "he transgresses/exceeds",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to transgress, to be hostile"
+      },
+      "components": [
+        {
+          "arabic": "يتـ",
+          "meaning": "indicates imperfect tense, 3rd person masculine singular"
+        },
+        {
+          "arabic": "تعد",
+          "meaning": "to transgress, to exceed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "حُدُودَ",
+      "transliteration": "ḥudūda",
+      "meaning": "limits/boundaries (plural)",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to limit, to set boundaries"
+      },
+      "components": [
+        {
+          "arabic": "حُد",
+          "meaning": "limit, boundary (singular)"
+        },
+        {
+          "arabic": "وَد",
+          "meaning": "plural marker (masculine, broken plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The god; deity; to be worshipped"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Possessive pronoun suffix, of Him/His/Allah's"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "fa-ʾūlāʾika",
+      "meaning": "then those/they are",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; the first of things"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "هُمُ",
+      "transliteration": "hum",
+      "meaning": "they are",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "الظَّالِمُونَ",
+      "transliteration": "aẓ-ẓālimūna",
+      "meaning": "the wrongdoers/oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, oppression; to be dark or shaded"
+      },
+      "components": [
+        {
+          "arabic": "الظَّالِم",
+          "meaning": "the wrongdoer/oppressor (singular)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-divorce two-times then-retention with-kindness or release with-good-treatment and-not is-lawful for-you that you take from-what you-gave-them something unless that they fear that not they establish limits of-Allah then-if you feared that not they establish limits of-Allah so-no blame upon-them in-what she ransomed herself with it that those they are they the-wrongdoers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

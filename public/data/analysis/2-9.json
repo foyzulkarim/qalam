@@ -1,0 +1,213 @@
+{
+  "verseId": "2:9",
+  "verse": {
+    "arabic": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+    "transliteration": "YukhadiAAoona Allaha waallatheena amanoo wama yakhdaAAoona illa anfusahum wama yashAAuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُخَادِعُونَ",
+      "transliteration": "yukhādiʿūna",
+      "meaning": "They deceive (present continuous, active voice)",
+      "root": {
+        "letters": "خ-د-ع",
+        "meaning": "To deceive, to trick, to mislead"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present continuous tense and first-person plural active voice."
+        },
+        {
+          "arabic": "خَادِع",
+          "meaning": "Active participle of the verb 'to deceive'."
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "Suffix indicating first-person plural (they)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-al-ladhīna",
+      "meaning": "And those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "Believed (past tense, active voice)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "To believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "Indicates a group of people (dual or plural)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "Believed (past tense, active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what / And not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, to possess (in a broad sense)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what / not (interrogative/negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَخْدَعُونَ",
+      "transliteration": "yakhdaʿūna",
+      "meaning": "They deceive (present continuous, active voice)",
+      "root": {
+        "letters": "خ-د-ع",
+        "meaning": "to deceive, to trick, to mislead"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and active voice (first person plural)"
+        },
+        {
+          "arabic": "خْدَعُ",
+          "meaning": "deceive (verbal noun/root with vowel)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating plural masculine pronoun (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "Except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "To refuse, to deny, or to be separate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَنفُسَهُمْ",
+      "transliteration": "anfusahum",
+      "meaning": "Their own selves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُس",
+          "meaning": "selves, souls"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what / And not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what / not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَشْعُرُونَ",
+      "transliteration": "yashʿurūna",
+      "meaning": "They perceive (present continuous, active voice)",
+      "root": {
+        "letters": "ش-ع-ر",
+        "meaning": "to feel, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present continuous tense, active voice (first person plural)"
+        },
+        {
+          "arabic": "شْعُر",
+          "meaning": "perception, feeling, awareness (verbal noun)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-[deceive]-Allah-and-those-who-[believed]-and-what-[they do not]-deceive-except-their-own-selves-and-what-[they do not]-perceive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

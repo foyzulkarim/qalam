@@ -1,0 +1,287 @@
+{
+  "verseId": "2:40",
+  "verse": {
+    "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ",
+    "transliteration": "Ya banee israeela othkuroo niAAmatiya allatee anAAamtu AAalaykum waawfoo biAAahdee oofi biAAahdikum waiyyaya fairhabooni",
+    "surah": "Al-Baqarah",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَنِي",
+      "transliteration": "banī",
+      "meaning": "children (plural of son)",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; also used for lineage and offspring"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِسْرَائِيلَ",
+      "transliteration": "ʾisrāʾīla",
+      "meaning": "Israel (name of Jacob)",
+      "root": {
+        "letters": "س-ر-ل",
+        "meaning": "to rule, govern; strength, intensity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اذْكُرُوا",
+      "transliteration": "ḏkurū",
+      "meaning": "remember (imperative, plural)",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall, to be mindful"
+      },
+      "components": [
+        {
+          "arabic": "اذْ",
+          "meaning": "imperative particle indicating command or exhortation"
+        },
+        {
+          "arabic": "كُرُوا",
+          "meaning": "second person plural suffix indicating 'you (all) remember'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نِعْمَتِيَ",
+      "transliteration": "niʿmatīya",
+      "meaning": "My favor (genitive pronoun suffix)",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "blessing, favor, goodness"
+      },
+      "components": [
+        {
+          "arabic": "نِعْمَة",
+          "meaning": "favor, blessing"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (genitive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "which (relative pronoun)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be near, to resort to"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "suffix indicating feminine singular relative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَنْعَمْتُ",
+      "transliteration": "ʾanʿamtu",
+      "meaning": "I have bestowed (first person perfect)",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, to bestow favor"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to have, I have"
+        },
+        {
+          "arabic": "عَمْتُ",
+          "meaning": "I bestowed, I favored (from the root ن-ع-م)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you (preposition + pronoun suffix)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and (conjunction)",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "union, connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَوْفُوا",
+      "transliteration": "ʾawfū",
+      "meaning": "fulfill (imperative, plural)",
+      "root": {
+        "letters": "و-ف-ي",
+        "meaning": "to be complete, to fulfill, to satisfy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِعَهْدِي",
+      "transliteration": "biʿhdī",
+      "meaning": "with My covenant (preposition + genitive pronoun suffix)",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to make a covenant, to promise, pact"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عَهْدِي",
+          "meaning": "My covenant"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أُوفِ",
+      "transliteration": "ʾūfī",
+      "meaning": "I will fulfill (first person future)",
+      "root": {
+        "letters": "و-ف-ي",
+        "meaning": "to fulfill, to pay back, to discharge a debt"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "prefix indicating first-person future tense"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "to fulfill, to pay back (verbal root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِعَهْدِكُمْ",
+      "transliteration": "biʿhdikum",
+      "meaning": "with your covenant (preposition + genitive pronoun suffix)",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to make a covenant, to promise, to pledge"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عَهْدِكُمْ",
+          "meaning": "your covenant, your pledge"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and (conjunction)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "إِيَّايَ",
+      "transliteration": "ʾiyyāya",
+      "meaning": "Me (accusative pronoun)",
+      "root": {
+        "letters": "أ-ي-و",
+        "meaning": "to return, to revert, to belong"
+      },
+      "components": [
+        {
+          "arabic": "إِي",
+          "meaning": "to me; a pronoun indicating the speaker's self"
+        },
+        {
+          "arabic": "يَ",
+          "meaning": "suffix indicating accusative case and emphasis"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَارْهَبُونِ",
+      "transliteration": "farhabūnī",
+      "meaning": "so fear Me (imperative, plural + pronoun suffix)",
+      "root": {
+        "letters": "ر-ه-ب",
+        "meaning": "to fear, to be afraid, to dread"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "imperative marker (for plural)"
+        },
+        {
+          "arabic": "ارْهَب",
+          "meaning": "fear (verb root form)"
+        },
+        {
+          "arabic": "و",
+          "meaning": "plural pronoun suffix (attached to the verb; 'you all')"
+        },
+        {
+          "arabic": "نِ",
+          "meaning": "pronoun suffix (attached to the verb; 'to Me')"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O - children of Israel – remember – My favor – which – I have bestowed – upon you – and – fulfill – with My covenant – I will fulfill – with your covenant – and – Me - so fear Me"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

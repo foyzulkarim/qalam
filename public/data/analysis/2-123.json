@@ -1,0 +1,305 @@
+{
+  "verseId": "2:123",
+  "verse": {
+    "arabic": "وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَاعَةٌ وَلَا هُمْ يُنصَرُونَ",
+    "transliteration": "Waittaqoo yawman la tajzee nafsun AAan nafsin shayan wala yuqbalu minha AAadlun wala tanfaAAuha shafaAAatun wala hum yunsaroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 123
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wa-ttaqū",
+      "meaning": "and fear, and be cautious of",
+      "root": {
+        "letters": "و-ق-ى",
+        "meaning": "to shield, protect, guard against"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear, be cautious of (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَجْزِي",
+      "transliteration": "tajzī",
+      "meaning": "suffices, compensates",
+      "root": {
+        "letters": "ج-ز-ي",
+        "meaning": "to recompense, to reward; to be sufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَفْسٌ",
+      "transliteration": "nafsun",
+      "meaning": "a soul, a person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, to expire; soul, life force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "for, on behalf of",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concerning, with respect to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَّفْسٍ",
+      "transliteration": "nafsin",
+      "meaning": "a soul, a person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence; to breathe, to desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "anything, something",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "thing, object; existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُقْبَلُ",
+      "transliteration": "yuqbalu",
+      "meaning": "is accepted",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to take, to receive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating passive voice or present tense"
+        },
+        {
+          "arabic": "قُبِلَ",
+          "meaning": "passive voice of the verb قَبُلَ (to accept)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case (present tense passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَدْلٌ",
+      "transliteration": "ʿadlun",
+      "meaning": "compensation, justice",
+      "root": {
+        "letters": "ع-د-ل",
+        "meaning": "to be just, to act equitably, fairness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-د",
+        "meaning": "to deny, to refuse, to negate"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَنفَعُهَا",
+      "transliteration": "tanfaʿuhā",
+      "meaning": "benefits it",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to benefit, to be useful"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a verb in the imperfect tense (future/present)"
+        },
+        {
+          "arabic": "نَفَعَ",
+          "meaning": "to benefit (verb root)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "feminine singular pronoun suffix (it)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شَفَاعَةٌ",
+      "transliteration": "shafāʿatun",
+      "meaning": "intercession",
+      "root": {
+        "letters": "ش-ف-ع",
+        "meaning": "to intercede, to plead for another, to recommend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يُنصَرُونَ",
+      "transliteration": "yunṣarūna",
+      "meaning": "are aided",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to assist, to support"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "passive voice prefix indicating 'are being'"
+        },
+        {
+          "arabic": "صَر",
+          "meaning": "root related to help/aid"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active/passive"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-fear a day not-suffices soul for soul anything and-not is-accepted from-it compensation and-not benefits-it intercession and-not they are-aided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

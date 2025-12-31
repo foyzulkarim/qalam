@@ -1,0 +1,328 @@
+{
+  "verseId": "2:188",
+  "verse": {
+    "arabic": "وَلَا تَأْكُلُوا أَمْوَالَكُم بَيْنَكُم بِالْبَاطِلِ وَتُدْلُوا بِهَا إِلَى الْحُكَّامِ لِتَأْكُلُوا فَرِيقًا مِّنْ أَمْوَالِ النَّاسِ بِالْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+    "transliteration": "Wala takuloo amwalakum baynakum bialbatili watudloo biha ila alhukkami litakuloo fareeqan min amwali alnnasi bialithmi waantum taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 188
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَأْكُلُوا",
+      "transliteration": "taʾkulū",
+      "meaning": "you (plural) consume",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense, 'you (plural) will'"
+        },
+        {
+          "arabic": "أَكُلـ",
+          "meaning": "root related to eating or consuming"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating the plural 'you'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَمْوَالَكُم",
+      "transliteration": "amwālakum",
+      "meaning": "your (plural) wealths/properties",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; wealth, property"
+      },
+      "components": [
+        {
+          "arabic": "أمْوالَ",
+          "meaning": "wealths/properties (plural)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "your (plural possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَيْنَكُم",
+      "transliteration": "baynakum",
+      "meaning": "among yourselves",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be in between, to separate, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "بَيْنَ",
+          "meaning": "among, between"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْبَاطِلِ",
+      "transliteration": "bi-l-bāṭili",
+      "meaning": "with falsehood/unjustly",
+      "root": {
+        "letters": "ب-ط-ل",
+        "meaning": "to perish, to become void, to be false"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "الْبَاطِلِ",
+          "meaning": "the falsehood/unjust thing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَتُدْلُوا",
+      "transliteration": "wa-tudlū",
+      "meaning": "and you (plural) present/offer",
+      "root": {
+        "letters": "د-ل-و",
+        "meaning": "to present, offer, or show forth; to guide (someone)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تُدْلُوا",
+          "meaning": "you (plural) present/offer"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِهَا",
+      "transliteration": "bihā",
+      "meaning": "with it (feminine)",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have; pertaining to something or someone"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْحُكَّامِ",
+      "transliteration": "al-ḥukkāmi",
+      "meaning": "the rulers/judges",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to arbitrate, to rule; judgment, decree"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حُكَّامِ",
+          "meaning": "rulers, judges (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِتَأْكُلُوا",
+      "transliteration": "li-taʾkulū",
+      "meaning": "so that you (plural) consume",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, so that"
+        },
+        {
+          "arabic": "تَأْكُلُوا",
+          "meaning": "you (plural) eat, you (plural) consume"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَرِيقًا",
+      "transliteration": "farīqan",
+      "meaning": "a portion/part",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to divide, to distinguish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, prevent; source or origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَمْوَالِ",
+      "transliteration": "amwāli",
+      "meaning": "wealths/properties (genitive)",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; return (as in property)"
+      },
+      "components": [
+        {
+          "arabic": "أَمْوَال",
+          "meaning": "wealths, properties (nominative/accusative)"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive marker (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; hence people (as they are prone to forgetting)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِالْإِثْمِ",
+      "transliteration": "bi-l-ʾithmi",
+      "meaning": "with sin/wrongdoing",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to conceal, to hide; sin, wrongdoing (as a hidden act)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْإِثْمِ",
+          "meaning": "the sin, the wrongdoing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa-antum",
+      "meaning": "and you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be (in a state of existence), to possess, you"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūna",
+      "meaning": "you (plural) know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person plural masculine present tense"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know (root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person plural masculine present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you(plural)-consume your(plural)-wealths among-yourselves with-falsehood and-you(plural)-present it to the-rulers so-that you(plural)-consume a-portion from wealths the-people with-sin and-you(plural)-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

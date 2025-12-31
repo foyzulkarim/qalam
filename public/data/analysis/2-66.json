@@ -1,0 +1,185 @@
+{
+  "verseId": "2:66",
+  "verse": {
+    "arabic": "فَجَعَلْنَاهَا نَكَالًا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِّلْمُتَّقِينَ",
+    "transliteration": "FajaAAalnaha nakalan lima bayna yadayha wama khalfaha wamawAAithatan lilmuttaqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 66
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَجَعَلْنَاهَا",
+      "transliteration": "fa-jaʿalnāhā",
+      "meaning": "so We made it",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made, We appointed (verb - imperfect)"
+        },
+        {
+          "arabic": "نَاهَا",
+          "meaning": "it (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَكَالًا",
+      "transliteration": "nakālan",
+      "meaning": "a deterrent, a punishment",
+      "root": {
+        "letters": "ن-ك-ل",
+        "meaning": "to bear, to carry a burden; to be weary of something; to dissuade"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِّمَا",
+      "transliteration": "li-mā",
+      "meaning": "for what, for those who",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, for the purpose of"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to exist apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَدَيْهَا",
+      "transliteration": "yadaihā",
+      "meaning": "her two hands, those who were present",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have, to hold; hand"
+      },
+      "components": [
+        {
+          "arabic": "يَدَي",
+          "meaning": "two hands (dual form)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what, and those who",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; what/that which"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which, those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خَلْفَهَا",
+      "transliteration": "khalfahā",
+      "meaning": "behind her, those who succeeded [them]",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to remain, to succeed, to come after"
+      },
+      "components": [
+        {
+          "arabic": "خَلْفَ",
+          "meaning": "behind, after"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her, it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَمَوْعِظَةً",
+      "transliteration": "wa-mawʿiẓatan",
+      "meaning": "and a lesson, and an admonition",
+      "root": {
+        "letters": "ع-و-ظ",
+        "meaning": "to advise, to warn, to remind"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَوْعِظَةً",
+          "meaning": "a lesson, an admonition (derived from the root ع-و-ظ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لِّلْمُتَّقِينَ",
+      "transliteration": "li-l-muttaqīn",
+      "meaning": "for the righteous, for those who fear Allah",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, fear (due to awareness of danger)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُتَّقِينَ",
+          "meaning": "the righteous, those who fear Allah"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-We-made-[it] a-deterrent for-what [those]-between her-two-hands and-what [those]-behind-[her] and-a-lesson for-the-righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

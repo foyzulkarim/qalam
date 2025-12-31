@@ -1,0 +1,424 @@
+{
+  "verseId": "2:191",
+  "verse": {
+    "arabic": "وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ ۚ وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ ۚ وَلَا تُقَاتِلُوهُمْ عِندَ الْمَسْجِدِ الْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ ۖ فَإِن قَاتَلُوكُمْ فَاقْتُلُوهُمْ ۗ كَذَٰلِكَ جَزَاءُ الْكَافِرِينَ",
+    "transliteration": "Waoqtuloohum haythu thaqiftumoohum waakhrijoohum min haythu akhrajookum waalfitnatu ashaddu mina alqatli wala tuqatiloohum AAinda almasjidi alharami hatta yuqatilookum feehi fain qatalookum faoqtuloohum kathalika jazao alkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 191
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاقْتُلُوهُمْ",
+      "transliteration": "wa-qutlūhum",
+      "meaning": "And kill them",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اقْتُلُوهُمْ",
+          "meaning": "kill them (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "Wherever",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be in a place, to exist, location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ثَقِفْتُمُوهُمْ",
+      "transliteration": "thaqiftumūhum",
+      "meaning": "You overtake them",
+      "root": {
+        "letters": "ث-ق-ف",
+        "meaning": "To penetrate, to pierce, to overtake"
+      },
+      "components": [
+        {
+          "arabic": "ثَقِف",
+          "meaning": "To overtake, to find (someone) in a vulnerable state"
+        },
+        {
+          "arabic": "تُمُوهُمْ",
+          "meaning": "You (plural) them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَأَخْرِجُوهُم",
+      "transliteration": "wa-akhrijūhum",
+      "meaning": "And expel them",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to expel"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَخْرِجُوهُم",
+          "meaning": "expel them (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "To hinder, obstruct, or be separate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "Wherever",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist in a place; location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَخْرَجُوكُمْ",
+      "transliteration": "akhrajūkum",
+      "meaning": "They expelled you",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to expel"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating the active voice or intention (here, active)"
+        },
+        {
+          "arabic": "خَرَجَ",
+          "meaning": "to exit, to go out"
+        },
+        {
+          "arabic": "ـُوكُمْ",
+          "meaning": "suffix indicating 'you' (plural) and the action being done to you."
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْفِتْنَةُ",
+      "transliteration": "wal-fitnatu",
+      "meaning": "And the fitnah (discord/trial)",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "To test, to try, to tempt; discord, trial, affliction"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "And"
+        },
+        {
+          "arabic": "الْفِتْنَةُ",
+          "meaning": "The fitnah (discord/trial)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَشَدُّ",
+      "transliteration": "ashaddu",
+      "meaning": "More severe/worse",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "intensity, severity, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "Than",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "origin, source, from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْقَتْلِ",
+      "transliteration": "al-qatl",
+      "meaning": "The killing",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy; death"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَلَا تُقَاتِلُوهُمْ",
+      "transliteration": "wa-lā tuqātilūhum",
+      "meaning": "And do not fight them",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, fighting, destruction"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تُقَاتِلُوهُمْ",
+          "meaning": "you fight them (verb, negative imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "At/Near",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "At/Near; with, in the presence of (denoting location or possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْمَسْجِدِ",
+      "transliteration": "al-masjidi",
+      "meaning": "The mosque",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "prostration, bowing down in worship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسْجِد",
+          "meaning": "place of prostration, mosque"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarām",
+      "meaning": "The sacred (mosque)",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to prohibit, forbid; sacredness"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "sacred, prohibited; the Sacred Mosque (al-Ka'bah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "Until",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "limitation, boundary, end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يُقَاتِلُوكُمْ",
+      "transliteration": "yuqātilūkum",
+      "meaning": "They fight you",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, fighting, destruction"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "قَاتِلُ",
+          "meaning": "fighter (active participle)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "Therein/In it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To be in, to contain, to exist"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "In, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "It (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فَإِن قَاتَلُوكُمْ",
+      "transliteration": "fa-in qātalūkum",
+      "meaning": "Then if they fight you",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to fight"
+      },
+      "components": [
+        {
+          "arabic": "فَإِن",
+          "meaning": "Then if/so"
+        },
+        {
+          "arabic": "قَاتَلُوكُمْ",
+          "meaning": "they fight you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فَاقْتُلُوهُمْ",
+      "transliteration": "fa-qutlūhum",
+      "meaning": "Then kill them",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "قُتِلُوا",
+          "meaning": "be killed (passive verb form)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kadhalika",
+      "meaning": "Thus/Like that",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to be like"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "Thus/Like"
+        },
+        {
+          "arabic": "ذَٰلِك",
+          "meaning": "That/This (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "جَزَاءُ",
+      "transliteration": "jazāʾu",
+      "meaning": "The recompense/reward",
+      "root": {
+        "letters": "ج-ز-ي",
+        "meaning": "to recompense, to reward; to benefit or help"
+      },
+      "components": [
+        {
+          "arabic": "جَزَاءُ",
+          "meaning": "The recompense/reward (entire word)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīn",
+      "meaning": "The disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-kill-them wherever you-overtake-them and-expel-them from wherever they-expelled-you and-the-fitnah is more-severe than the-killing and-not you-fight-them at/near the-mosque the-sacred until they-fight-you therein then if they-fight-you then-kill-them thus/like that recompense the-disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

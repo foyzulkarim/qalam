@@ -1,0 +1,500 @@
+{
+  "verseId": "2:222",
+  "verse": {
+    "arabic": "وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللَّهُ ۚ إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
+    "transliteration": "Wayasaloonaka AAani almaheedi qul huwa athan faiAAtaziloo alnnisaa fee almaheedi wala taqraboohunna hatta yathurna faitha tatahharna fatoohunna min haythu amarakumu Allahu inna Allaha yuhibbu alttawwabeena wayuhibbu almutatahhireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 222
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَسْأَلُونَكَ",
+      "transliteration": "wa-yasʾalūnaka",
+      "meaning": "And they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْأَلُونَكَ",
+          "meaning": "they ask you (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَنِ",
+      "transliteration": "ʿan",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concerning, with respect to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَحِيضِ",
+      "transliteration": "al-maḥīḍi",
+      "meaning": "the menstruation",
+      "root": {
+        "letters": "ح-ي-ض",
+        "meaning": "to flow, to menstruate; period of menstruation"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَحِيض",
+          "meaning": "menstruation (derived from root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "---",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; encompassing communication and expression."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "It is",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "To exist, to be; essence or being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَذًى",
+      "transliteration": "ʾaḏā",
+      "meaning": "harm",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to harm, to cause pain or injury"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَاعْتَزِلُوا",
+      "transliteration": "fa-ʿtazilū",
+      "meaning": "so keep away",
+      "root": {
+        "letters": "ع-ز-ل",
+        "meaning": "to separate, to withdraw, to isolate"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "اعْتَ",
+          "meaning": "intensive prefix indicating seeking or doing something thoroughly"
+        },
+        {
+          "arabic": "زِلُوا",
+          "meaning": "withdraw yourselves, separate yourselves (derived from the root ع-ز-ل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "النِّسَاءَ",
+      "transliteration": "an-nisāʾa",
+      "meaning": "the women",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to travel, to go forth; also relates to lineage and people (as in families)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, enter, be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْمَحِيضِ",
+      "transliteration": "al-maḥīḍi",
+      "meaning": "the menstruation",
+      "root": {
+        "letters": "ح-ي-ض",
+        "meaning": "to flow, to menstruate; excessive flowing of water"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "---",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, lack of possession or ability"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَقْرَبُوهُنَّ",
+      "transliteration": "taqrabūhunna",
+      "meaning": "approach them",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a verb in the present/future tense (form II)"
+        },
+        {
+          "arabic": "قَرَبَ",
+          "meaning": "to approach (root verb)"
+        },
+        {
+          "arabic": "ـُوهُنَّ",
+          "meaning": "them (feminine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يَطْهُرْنَ",
+      "transliteration": "yaṭhurna",
+      "meaning": "they become pure",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to be clean, to purify, clarity"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating they (feminine plural) and present/future tense"
+        },
+        {
+          "arabic": "طَهُرْنَ",
+          "meaning": "they become pure (verb, feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۖ",
+      "transliteration": "---",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَإِذَا",
+      "transliteration": "fa-ʾidhā",
+      "meaning": "Then when",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to come, to arrive; to experience, to encounter"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, at the time when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "تَطَهَّرْنَ",
+      "transliteration": "taṭahharana",
+      "meaning": "they have purified themselves",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to be pure, clean; to purify oneself"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a perfect tense form"
+        },
+        {
+          "arabic": "طَهَّرَ",
+          "meaning": "to purify (someone or something)"
+        },
+        {
+          "arabic": "ـنَ",
+          "meaning": "suffix indicating 'they' (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فَأْتُوهُنَّ",
+      "transliteration": "fa-ʾatūhunna",
+      "meaning": "then come to them",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to approach"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَتُـ",
+          "meaning": "come! (imperative prefix)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to derive, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "where",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist; place, location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "أَمَرَكُمُ",
+      "transliteration": "ʾamarākumu",
+      "meaning": "[Allah] ordered you",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair"
+      },
+      "components": [
+        {
+          "arabic": "أَمَرَ",
+          "meaning": "He commanded/ordered"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "components": [
+        {
+          "arabic": "الله",
+          "meaning": "The one and only God; Allah"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "ۚ",
+      "transliteration": "---",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily. A particle used for emphasis."
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to worship; deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "يُحِبُّ",
+      "transliteration": "yuḥibbu",
+      "meaning": "loves",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of, affection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, he/she does"
+        },
+        {
+          "arabic": "حَبَّ",
+          "meaning": "love, affection (verbal noun)"
+        },
+        {
+          "arabic": "بُ",
+          "meaning": "vowel marking (ḍammah) indicating the present tense ending for a verb with a preceding ي-"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "التَّوَّابِينَ",
+      "transliteration": "at-tawwābīna",
+      "meaning": "the repentant ones",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": [
+        {
+          "arabic": "التَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وَّابِينَ",
+          "meaning": "repentant ones (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "وَيُحِبُّ",
+      "transliteration": "wa-yuḥibbu",
+      "meaning": "And loves",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُحِبُّ",
+          "meaning": "he loves"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الْمُتَطَهِّرِينَ",
+      "transliteration": "al-mutaṭahhirīna",
+      "meaning": "the purified ones",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to be pure, clean; to purify"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُتَطَهِّرِينَ",
+          "meaning": "purified ones (plural masculine active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-they-ask-you about the-menstruation – Say! It-is harm so-keep-away from the-women in the-menstruation – And-do-not approach-them until they become-pure – Then when they-have-purified-themselves then come-to-them from where [Allah] ordered you – Indeed Allah loves the-repentant-ones and-loves the-purified-ones."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

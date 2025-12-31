@@ -1,0 +1,242 @@
+{
+  "verseId": "2:7",
+  "verse": {
+    "arabic": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+    "transliteration": "Khatama Allahu AAala quloobihim waAAala samAAihim waAAala absarihim ghishawatun walahum AAathabun AAatheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَتَمَ",
+      "transliteration": "khatama",
+      "meaning": "He sealed, He stamped",
+      "root": {
+        "letters": "خ-ت-م",
+        "meaning": "to finish, to seal, to stamp"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, The God",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "To be high, elevated; to rise above."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قُلُوبِهِمْ",
+      "transliteration": "qulūbihim",
+      "meaning": "Their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural of قلب)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَمْعِهِمْ",
+      "transliteration": "samʿihim",
+      "meaning": "Their hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "To hear, to listen, perception"
+      },
+      "components": [
+        {
+          "arabic": "سمع",
+          "meaning": "Hearing, the faculty of hearing"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "Their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[Pause particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "Pause particle, indicating a stop in recitation; often used to mark the end of verses."
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَبْصَارِهِمْ",
+      "transliteration": "abṣārihim",
+      "meaning": "Their sights/visions",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, vision"
+      },
+      "components": [
+        {
+          "arabic": "أَبْ",
+          "meaning": "Their (possessive pronoun)"
+        },
+        {
+          "arabic": "صَارِهِمْ",
+          "meaning": "sights/visions (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "غِشَاوَةٌ",
+      "transliteration": "ghishāwah",
+      "meaning": "A covering, a veil",
+      "root": {
+        "letters": "غ-ش-و",
+        "meaning": "to cover, to obscure, to overshadow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[Pause particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "Pause particle; indicates a stop in recitation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "A punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; hardship, bitterness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَظِيمٌ",
+      "transliteration": "ʿaẓīmun",
+      "meaning": "Great, severe",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be large, to be great, magnitude"
+      },
+      "components": [
+        {
+          "arabic": "عظيم",
+          "meaning": "great, immense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Sealed-it Allah – upon their hearts – and upon their hearing – and over their sights/visions – a covering – and for them – a punishment – great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

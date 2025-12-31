@@ -1,0 +1,446 @@
+{
+  "verseId": "2:167",
+  "verse": {
+    "arabic": "وَقَالَ الَّذِينَ اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ اللَّهُ أَعْمَالَهُمْ حَسَرَاتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَارِجِينَ مِنَ النَّارِ",
+    "transliteration": "Waqala allatheena ittabaAAoo law anna lana karratan fanatabarraa minhum kama tabarraoo minna kathalika yureehimu Allahu aAAmalahum hasaratin AAalayhim wama hum bikharijeena mina alnnari",
+    "surah": "Al-Baqarah",
+    "verseNumber": 167
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, or have"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun + suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اتَّبَعُوا",
+      "transliteration": "ittabaʿū",
+      "meaning": "followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix indicating strong following/adherence"
+        },
+        {
+          "arabic": "بَعُو",
+          "meaning": "they followed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if only",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, or to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "[that]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of emphasis/certainty"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "noun marker, indicating the subject of the statement"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "for us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَرَّةً",
+      "transliteration": "karrah",
+      "meaning": "a return, a turn back",
+      "root": {
+        "letters": "ك-ر-ر",
+        "meaning": "to return, to repeat, to turn back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَنَتَبَرَّأَ",
+      "transliteration": "fa-natabarraʾa",
+      "meaning": "so we disassociate ourselves",
+      "root": {
+        "letters": "ب-ر-أ",
+        "meaning": "to be free of, to disassociate oneself, to acquit"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "نَتَبَرَّأَ",
+          "meaning": "we disassociate ourselves"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to proceed from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as, like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; similarity, resemblance"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "resembling, like"
+        },
+        {
+          "arabic": "ـمَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَبَرَّءُوا",
+      "transliteration": "tabarraʾū",
+      "meaning": "they disassociated themselves",
+      "root": {
+        "letters": "ب-ر-أ",
+        "meaning": "to be free of, to clear oneself, to disassociate"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating past tense and third-person plural"
+        },
+        {
+          "arabic": "بَرَّءُوا",
+          "meaning": "they cleared themselves, they disassociated themselves (from sin/belief)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِنَّا",
+      "transliteration": "minnā",
+      "meaning": "from us",
+      "root": {
+        "letters": "م-ن-ا",
+        "meaning": "origin, source, from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۗ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kadhalika",
+      "meaning": "thus, like that",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to show, to indicate, to be like"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like this (demonstrative prefix)"
+        },
+        {
+          "arabic": "ذَٰلِك",
+          "meaning": "that (masculine demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُرِيهِمُ",
+      "transliteration": "yurīhimu",
+      "meaning": "He shows them",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "To see, to perceive, to show"
+      },
+      "components": [
+        {
+          "arabic": "يُرِ",
+          "meaning": "He shows"
+        },
+        {
+          "arabic": "هِمُ",
+          "meaning": "them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to be worshipped; divinity; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَعْمَالَهُمْ",
+      "transliteration": "aʿmālahum",
+      "meaning": "their deeds",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, action"
+      },
+      "components": [
+        {
+          "arabic": "أعْمَالِ",
+          "meaning": "deeds (plural, genitive case)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they / their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "حَسَرَاتٍ",
+      "transliteration": "ḥasarat",
+      "meaning": "regrets",
+      "root": {
+        "letters": "ح-س-ر",
+        "meaning": "to feel loss, grief, or regret; to be deprived"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "not, that which is not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "هُم",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; collective pronoun reference"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "بِخَارِجِينَ",
+      "transliteration": "bi-khārijīn",
+      "meaning": "to emerge, to come out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in"
+        },
+        {
+          "arabic": "خَارِجِينَ",
+          "meaning": "those who emerge, those who come out (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be endowed with, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "النَّارِ",
+      "transliteration": "al-nār",
+      "meaning": "the Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَار",
+          "meaning": "fire"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-said those-who followed if-only for-us a-return so-we disassociate-ourselves from-them as they disassociated-themselves from-us [pause] thus He-shows them their deeds regrets upon-them [pause] and not they to-emerge from the Fire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

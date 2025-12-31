@@ -1,0 +1,324 @@
+{
+  "verseId": "2:69",
+  "verse": {
+    "arabic": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ النَّاظِرِينَ",
+    "transliteration": "Qaloo odAAu lana rabbaka yubayyin lana ma lawnuha qala innahu yaqoolu innaha baqaratun safrao faqiAAun lawnuha tasurru alnnathireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 69
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ادْعُ",
+      "transliteration": "udʿu",
+      "meaning": "Call (you)",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "اد",
+          "meaning": "prefix indicating the imperative mood (command)"
+        },
+        {
+          "arabic": "عُ",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُبَيِّن",
+      "transliteration": "yubayyin",
+      "meaning": "He clarifies/shows clearly",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to become clear, to distinguish, to explain"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun prefix indicating present tense)"
+        },
+        {
+          "arabic": "بَيِّن",
+          "meaning": "clear, manifest, evident"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong to, to possess, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَوْنُهَا",
+      "transliteration": "lawnu-hā",
+      "meaning": "Her color",
+      "root": {
+        "letters": "ل-و-ن",
+        "meaning": "to have color, be colored; hue, shade"
+      },
+      "components": [
+        {
+          "arabic": "لَوْنُ",
+          "meaning": "color (nominative singular)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahū",
+      "meaning": "Indeed, He",
+      "root": {
+        "letters": "هـ-نْ-و",
+        "meaning": "Existence, being, presence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, it; pronoun referring to God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; to command"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense, first-person singular or third-person masculine singular"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "The root verb in the imperfect form, meaning 'saying'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِنَّهَا",
+      "transliteration": "innahā",
+      "meaning": "Indeed, it is (she)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بَقَرَةٌ",
+      "transliteration": "baqarahun",
+      "meaning": "A cow",
+      "root": {
+        "letters": "ب-ق-ر",
+        "meaning": "To split, to cleave; to be large or fat (related to the size of a cow)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "صَفْرَاءُ",
+      "transliteration": "ṣafrā'u",
+      "meaning": "Yellow",
+      "root": {
+        "letters": "ص-ف-ر",
+        "meaning": "to be yellow, to turn yellow, yellowness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَاقِعٌ",
+      "transliteration": "fāqiʿun",
+      "meaning": "Shining/bright",
+      "root": {
+        "letters": "ف-ق-ع",
+        "meaning": "to burst forth, to be abundant; to appear prominently"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَّوْنُهَا",
+      "transliteration": "lawnu-hā",
+      "meaning": "Her color",
+      "root": {
+        "letters": "ل-و-ن",
+        "meaning": "to be different in color, to change color; hue, shade"
+      },
+      "components": [
+        {
+          "arabic": "لَوْنُ",
+          "meaning": "color (nominative singular)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تَسُرُّ",
+      "transliteration": "tasurru",
+      "meaning": "It pleases/delights",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to be secret, to conceal, joy, pleasure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "النَّاظِرِينَ",
+      "transliteration": "an-nāẓirīna",
+      "meaning": "The observers",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to look, to observe, to contemplate"
+      },
+      "components": [
+        {
+          "arabic": "النَّ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "اظِرِينَ",
+          "meaning": "Observers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said Call-[you] for-us Lord-your He-clarifies for-us what her-color. [Pause] He-said Indeed-He He-says Indeed-it is a cow yellow bright her-color it-pleases the-observers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

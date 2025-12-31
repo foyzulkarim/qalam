@@ -1,0 +1,880 @@
+{
+  "verseId": "2:213",
+  "verse": {
+    "arabic": "كَانَ النَّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللَّهُ النَّبِيِّينَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُوا فِيهِ ۚ وَمَا اخْتَلَفَ فِيهِ إِلَّا الَّذِينَ أُوتُوهُ مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ بَغْيًا بَيْنَهُمْ ۖ فَهَدَى اللَّهُ الَّذِينَ آمَنُوا لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ ۗ وَاللَّهُ يَهْدِي مَن يَشَاءُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+    "transliteration": "Kana alnnasu ommatan wahidatan fabaAAatha Allahu alnnabiyyeena mubashshireena wamunthireena waanzala maAAahumu alkitaba bialhaqqi liyahkuma bayna alnnasi feema ikhtalafoo feehi wama ikhtalafa feehi illa allatheena ootoohu min baAAdi ma jaathumu albayyinatu baghyan baynahum fahada Allahu allatheena amanoo lima ikhtalafoo feehi mina alhaqqi biithnihi waAllahu yahdee man yashao ila siratin mustaqeemin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 213
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, to be (past tense)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people, mankind",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; also, to go away or depart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُمَّةً",
+      "transliteration": "ummatan",
+      "meaning": "a nation, community",
+      "root": {
+        "letters": "أ-م-ة",
+        "meaning": "foundation, basis; people, community"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَاحِدَةً",
+      "transliteration": "wāḥidatan",
+      "meaning": "one, single",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, to unite, oneness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَبَعَثَ",
+      "transliteration": "fa-baʿatha",
+      "meaning": "so He sent",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to dispatch, to raise up"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "بَعَثَ",
+          "meaning": "he sent, he dispatched"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah, the God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, divinity; the object of adoration"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "النَّبِيِّينَ",
+      "transliteration": "an-nabiyyīna",
+      "meaning": "the prophets",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to announce, to give news; intelligence, information"
+      },
+      "components": [
+        {
+          "arabic": "النَّبِيّ",
+          "meaning": "the prophet"
+        },
+        {
+          "arabic": "يْنَ",
+          "meaning": "dual suffix indicating plurality (two or more)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مُبَشِّرِينَ",
+      "transliteration": "mubashshirīna",
+      "meaning": "bringers of good tidings",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to give good news, to be joyful, maturity"
+      },
+      "components": [
+        {
+          "arabic": "مُبَشِّر",
+          "meaning": "one who brings good news (active participle)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending for masculine humans"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَمُنذِرِينَ",
+      "transliteration": "wa-mundhīrīna",
+      "meaning": "and warners",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to remind, to give notice"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مُنذِرِينَ",
+          "meaning": "warners (plural, active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَأَنزَلَ",
+      "transliteration": "wa-anzala",
+      "meaning": "and He sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنزَلَ",
+          "meaning": "He sent down"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَعَهُمُ",
+      "transliteration": "maʿahum",
+      "meaning": "with them",
+      "root": {
+        "letters": "م-ع-ه",
+        "meaning": "to be with, accompany"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Scripture, the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِالْحَقِّ",
+      "transliteration": "bil-ḥaqqi",
+      "meaning": "with truth, in truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, essence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in"
+        },
+        {
+          "arabic": "الْحَقِّ",
+          "meaning": "the truth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لِيَحْكُمَ",
+      "transliteration": "li-yaḥkuma",
+      "meaning": "that He may judge",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule, to arbitrate"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "يَحْكُمَ",
+          "meaning": "that He may judge"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to be distant, to distinguish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people, mankind",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be lost or unknown (core meaning relating to origin/creation)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فِيمَا",
+      "transliteration": "fīmā",
+      "meaning": "in what, concerning that which",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to contain, encompass, include; to be in or at"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, at, on"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اخْتَلَفُوا",
+      "transliteration": "ikhtalafū",
+      "meaning": "they differed",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to be left behind, to differ, to succeed (as in following after)"
+      },
+      "components": [
+        {
+          "arabic": "اِخْتَ",
+          "meaning": "prefix indicating seeking or attempting something (derived from the root خ-ي-ث)"
+        },
+        {
+          "arabic": "لَفُوا",
+          "meaning": "they left, they differed (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, concerning it",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, proof"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what, and no one",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, no one"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "اِخْتَلَفَ",
+      "transliteration": "ikhtalafa",
+      "meaning": "differed",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to leave behind, to differ, to be different"
+      },
+      "components": [
+        {
+          "arabic": "اِخْتَ",
+          "meaning": "intensive prefix indicating a thorough or complete action"
+        },
+        {
+          "arabic": "لَفَ",
+          "meaning": "to be different, to vary"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, concerning it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, him, her (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to refuse, to reject, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, existence; to possess qualities or characteristics"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "أُوتُوهُ",
+      "transliteration": "ūtūhu",
+      "meaning": "were given it (to them)",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "were given (passive voice prefix)"
+        },
+        {
+          "arabic": "تُوهُ",
+          "meaning": "to him/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مِن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "after, from after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, following"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will; relation to existence or non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "جَاءَتْهُمُ",
+      "transliteration": "jāʾathum",
+      "meaning": "came to them",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَتْ",
+          "meaning": "came (feminine singular)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "to them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "الْبَيِّنَاتُ",
+      "transliteration": "al-bayyinātu",
+      "meaning": "the clear proofs",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, manifest, evident"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَيِّنَاتُ",
+          "meaning": "clear proofs (plural of بَيِّنَةٌ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "بَغْيًا",
+      "transliteration": "baghyan",
+      "meaning": "out of injustice, transgression",
+      "root": {
+        "letters": "ب-غ-ي",
+        "meaning": "to desire something unjustly, to transgress or oppose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "بَيْنَهُمْ",
+      "transliteration": "baynahum",
+      "meaning": "among them, between themselves",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distinct, separate, or clear; to differentiate"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between, among"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "فَهَدَى",
+      "transliteration": "fa-hadā",
+      "meaning": "so He guided",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "هَدَى",
+          "meaning": "He guided"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah, the God",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to be worshipped, deity, godhood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to be, to exist; relative pronoun indicator"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating first person plural, indicative present tense"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "لِمَا",
+      "transliteration": "limā",
+      "meaning": "to what, for that which",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to seek, to desire, purpose or reason"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "اِخْتَلَفُوا",
+      "transliteration": "ikhtalafū",
+      "meaning": "they differed",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to be left behind, to differ, to succeed one another"
+      },
+      "components": [
+        {
+          "arabic": "اِخْتَ",
+          "meaning": "prefix indicating completion or intensity of the action"
+        },
+        {
+          "arabic": "لَفُوا",
+          "meaning": "they differed (verb, third person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, concerning it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "الْحَقِّ",
+      "transliteration": "al-ḥaqqi",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, firmness"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "بِإِذْنِهِ",
+      "transliteration": "bi-ʾiḏnihī",
+      "meaning": "by His permission",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to allow"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "إِذْنِ",
+          "meaning": "permission"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "ۗ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence, miracle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-Allāhu",
+      "meaning": "and Allah, and God",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be divine, god"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "يَهْدِي",
+      "transliteration": "yahdī",
+      "meaning": "He guides",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, to lead"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "هَدَى",
+          "meaning": "to guide"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be weak, frail; to ask; to desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to wish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, active voice, third person singular"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (past tense)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanwīn al-fatḥ, indicating indefinite noun (though not applicable here due to verb conjugation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, unto",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline towards, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "صِرَاطٍ",
+      "transliteration": "ṣirāṭin",
+      "meaning": "a path, a way",
+      "root": {
+        "letters": "ص-ر-ط",
+        "meaning": "to be straight, direct, or to follow a path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "مُّسْتَقِيمٍ",
+      "transliteration": "mustaqīmin",
+      "meaning": "straight, correct",
+      "root": {
+        "letters": "س-ق-م",
+        "meaning": "to go straight, to be upright"
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَ",
+          "meaning": "active participle prefix indicating 'one who does'"
+        },
+        {
+          "arabic": "قِيم",
+          "meaning": "related to the root س-ق-م, indicating uprightness or straightness"
+        },
+        {
+          "arabic": "ٍ",
+          "meaning": "tanwīn al-fatḥ for indefinite accusative singular masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "was-the-people [of]-one-nation so-sent-He the-prophets bringers-of-good-tidings and-warners and-sent-down with-them the-book in-truth that-He-may-judge between-the-people in-what they-differed in-it and-no-one differed in-it except those who were-given-it after what came-to-them the-clear-proofs out-of injustice between-them so-guided He those-who believed to-what they-differed in-it from the-truth by-His-permission and-Allah guides who He-wills to a-path straight"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

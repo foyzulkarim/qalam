@@ -1,0 +1,245 @@
+{
+  "verseId": "2:176",
+  "verse": {
+    "arabic": "ذَٰلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَابَ بِالْحَقِّ ۗ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِي الْكِتَابِ لَفِي شِقَاقٍ بَعِيدٍ",
+    "transliteration": "Thalika bianna Allaha nazzala alkitaba bialhaqqi wainna allatheena ikhtalafoo fee alkitabi lafee shiqaqin baAAeedin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 176
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, being low; to be submissive or helpless"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِأَنَّ",
+      "transliteration": "biʾanna",
+      "meaning": "because of the fact that, due to",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, the fact that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, the God",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to worship; deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَزَّلَ",
+      "transliteration": "nazzala",
+      "meaning": "sent down, revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down; to lower oneself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing; recording; to write"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book; scripture; writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِالْحَقِّ",
+      "transliteration": "bil-ḥaqqi",
+      "meaning": "with the truth, truthfully",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْحَقِّ",
+          "meaning": "the truth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَإِنَّ",
+      "transliteration": "waʾinna",
+      "meaning": "and indeed, verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, truth, reality"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to refer, to point out, to be directed towards"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "plural relative pronoun suffix, 'those'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اخْتَلَفُوا",
+      "transliteration": "ikhtalafū",
+      "meaning": "disagreed, differed",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to remain behind, to differ, to be left"
+      },
+      "components": [
+        {
+          "arabic": "اختل",
+          "meaning": "to be different, to vary"
+        },
+        {
+          "arabic": "فُوا",
+          "meaning": "they (masculine plural) - suffix indicating verb conjugation for the past tense, third person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, over",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; abundance, overflowing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording; to write"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَفِي",
+      "transliteration": "lafī",
+      "meaning": "[are] indeed in, surely are in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to remain, to abide"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, in order to"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "شِقَاقٍ",
+      "transliteration": "shiqāqin",
+      "meaning": "dissension, strife",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to tear apart, to be forceful or violent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بَعِيدٍ",
+      "transliteration": "baʿīdin",
+      "meaning": "distant, extreme",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "remoteness, distance"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "That - because of the fact that - Allah - sent down - the Book - with the truth - and indeed - those who - disagreed - in/over - the Book - [are] surely in - dissension - extreme."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
