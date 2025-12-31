@@ -1,0 +1,248 @@
+{
+  "verseId": "2:206",
+  "verse": {
+    "arabic": "وَإِذَا قِيلَ لَهُ اتَّقِ اللَّهَ أَخَذَتْهُ الْعِزَّةُ بِالْإِثْمِ ۚ فَحَسْبُهُ جَهَنَّمُ ۚ وَلَبِئْسَ الْمِهَادُ",
+    "transliteration": "Waitha qeela lahu ittaqi Allaha akhathathu alAAizzatu bialithmi fahasbuhu jahannamu walabisa almihadu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 206
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to turn aside from something; to avoid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قِيلَ",
+      "transliteration": "qīla",
+      "meaning": "it was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said (active voice)"
+        },
+        {
+          "arabic": "مَاضٍ",
+          "meaning": "past tense passive voice marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَهُ",
+      "transliteration": "lahū",
+      "meaning": "to him",
+      "root": {
+        "letters": "ل-هـ-و",
+        "meaning": "belonging to, for, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اتَّقِ",
+      "transliteration": "ittaqi",
+      "meaning": "fear/guard",
+      "root": {
+        "letters": "و-ق-ى",
+        "meaning": "to protect, shield, guard against harm"
+      },
+      "components": [
+        {
+          "arabic": "اتّـ",
+          "meaning": "Imperative prefix indicating 'Do!' or 'May you do!'"
+        },
+        {
+          "arabic": "ـقِ",
+          "meaning": "Second person singular masculine imperative form of the verb 'to fear/guard'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; deity; the God"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَخَذَتْهُ",
+      "transliteration": "akhadhat-hu",
+      "meaning": "it seized him/took hold of him",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "أَخَذَتْ",
+          "meaning": "she took/seized (feminine verb)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (masculine pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْعِزَّةُ",
+      "transliteration": "al-ʿizzatu",
+      "meaning": "the pride/arrogance",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness, honor"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِزَّة",
+          "meaning": "pride, arrogance, honor (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِالْإِثْمِ",
+      "transliteration": "bil-ithmi",
+      "meaning": "with the sin/in (because of) the sin",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to disobey, to be wicked; sin"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْإِثْمِ",
+          "meaning": "the sin"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, evidence, verse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَحَسْبُهُ",
+      "transliteration": "fa-ḥasbahu",
+      "meaning": "then sufficient for him",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to suffice, to be enough"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "حَسْبُـ",
+          "meaning": "sufficient, enough"
+        },
+        {
+          "arabic": "-هُ",
+          "meaning": "him, for him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "جَهَنَّمُ",
+      "transliteration": "jahannamu",
+      "meaning": "Hellfire",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "intense heat, aridity, and concealment; a place of extreme hardship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, proof, verse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَلَبِئْسَ",
+      "transliteration": "wa-labi’sa",
+      "meaning": "and how wretched is",
+      "root": {
+        "letters": "ب-ي-س",
+        "meaning": "suffering, evil, badness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَبِئْسَ",
+          "meaning": "how wretched, how evil (an exclamation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْمِهَادُ",
+      "transliteration": "al-mihādu",
+      "meaning": "the resting place/bed",
+      "root": {
+        "letters": "م-ه-د",
+        "meaning": "to lay down, to set, to guide (someone to rest)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when it-was-said to-him fear-Allah then-seized-it the-pride with-the-sin [pause] then-sufficient for-him Hellfire [pause] and-how-wretched the-resting-place"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

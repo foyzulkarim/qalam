@@ -1,0 +1,215 @@
+{
+  "verseId": "2:98",
+  "verse": {
+    "arabic": "مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِّلْكَافِرِينَ",
+    "transliteration": "Man kana AAaduwwan lillahi wamalaikatihi warusulihi wajibreela wameekala fainna Allaha AAaduwwun lilkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 98
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to be obscure, or pertaining to questioning/inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, is (imperfect form indicating state)",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "to be, to exist, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَدُوًّا",
+      "transliteration": "ʿaduwwan",
+      "meaning": "enemy",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "opposition, hostility, enmity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِّلَّهِ",
+      "transliteration": "lil-lahi",
+      "meaning": "for Allah, to Allah",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, glory, commendation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَمَلَائِكَتِهِ",
+      "transliteration": "wa malāʾikatihi",
+      "meaning": "and His angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "ownership, dominion; to possess"
+      },
+      "components": [
+        {
+          "arabic": "مَلَائِكَة",
+          "meaning": "angels"
+        },
+        {
+          "arabic": "-هِ",
+          "meaning": "His (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَرُسُلِهِ",
+      "transliteration": "wa rusulihi",
+      "meaning": "and His messengers",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to transmit; messenger"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رُسُلِ",
+          "meaning": "messengers (genitive plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَجِبْرِيلَ",
+      "transliteration": "wa jibraʾīla",
+      "meaning": "and Gabriel",
+      "root": {
+        "letters": "ج-ب-ر",
+        "meaning": "to mend, to restore, power, strength"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جِبْرِيلَ",
+          "meaning": "Gabriel (name of the angel)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَمِيكَالَ",
+      "transliteration": "wa mīkāla",
+      "meaning": "and Michael",
+      "root": {
+        "letters": "م-ك-ل",
+        "meaning": "to be strong, firm, to provide sustenance; entrustment"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِيكَالَ",
+          "meaning": "Michael (the angel's name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed, for surely",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, certainty, truth"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so, for"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "alla-ha",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَدُوٌّ",
+      "transliteration": "ʿaduwwun",
+      "meaning": "enemy",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, to oppose, to wage war"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لِّلْكَافِرِينَ",
+      "transliteration": "lil-kāfirīna",
+      "meaning": "for the disbelievers, to the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to be ungrateful, to disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الكَافِرِينَ",
+          "meaning": "the disbelievers"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Whoever-was enemy-for Allah and His angels and His messengers and Gabriel and Michael - then indeed, Allah-is enemy-for the disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

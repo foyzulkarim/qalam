@@ -1,0 +1,271 @@
+{
+  "verseId": "2:139",
+  "verse": {
+    "arabic": "قُلْ أَتُحَاجُّونَنَا فِي اللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ وَنَحْنُ لَهُ مُخْلِصُونَ",
+    "transliteration": "Qul atuhajjoonana fee Allahi wahuwa rabbuna warabbukum walana aAAmaluna walakum aAAmalukum wanahnu lahu mukhlisoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 139
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say (imperative)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; to command (in this context)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتُحَاجُّونَنَا",
+      "transliteration": "ʾatuḥājūnanā",
+      "meaning": "Do you argue with us?",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "To dispute, argue, contend; to present evidence or reasoning."
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "A questioning particle, indicating a rhetorical question or disbelief."
+        },
+        {
+          "arabic": "تُحَاجُّون",
+          "meaning": "You (plural) argue, dispute; passive/deponent form."
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us, we."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; inherent within something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be divine; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "And He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; to be"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبُّنَا",
+      "transliteration": "rab bunā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَرَبُّكُمْ",
+      "transliteration": "wa rab bukum",
+      "meaning": "And your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَلَنَا",
+      "transliteration": "wa lanā",
+      "meaning": "And for us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to wish, to hope for; belonging to us"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَنَا",
+          "meaning": "for us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَعْمَالُنَا",
+      "transliteration": "ʾaʿmālunā",
+      "meaning": "Our deeds",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, work"
+      },
+      "components": [
+        {
+          "arabic": "أعْمَالِ",
+          "meaning": "deeds (plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَلَكُمْ",
+      "transliteration": "wa lakum",
+      "meaning": "And for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَكُمْ",
+          "meaning": "for you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَعْمَالُكُمْ",
+      "transliteration": "ʾaʿmālukum",
+      "meaning": "Your deeds",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act; work, deed"
+      },
+      "components": [
+        {
+          "arabic": "أَعْمَالُ",
+          "meaning": "deeds (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَنَحْنُ",
+      "transliteration": "wa naḥnu",
+      "meaning": "And we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to go to, to tend towards; to be with, to accompany"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَحْنُ",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "To Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for, unto"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مُخْلِصُونَ",
+      "transliteration": "mukhl i ṣūna",
+      "meaning": "Sincere",
+      "root": {
+        "letters": "خ-ل-ص",
+        "meaning": "to be pure, free from mixture; to extract or purify something; to devote oneself completely"
+      },
+      "components": [
+        {
+          "arabic": "مُخْلِص",
+          "meaning": "sincere (masculine plural active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "masculine plural pronoun suffix indicating 'they are'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say – do you argue-with-us in – Allah – and He – is our Lord – and your Lord? – And for us – are our deeds – and for you – are your deeds. – And we – to Him – are sincere."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

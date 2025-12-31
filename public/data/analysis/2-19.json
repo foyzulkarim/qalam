@@ -1,0 +1,319 @@
+{
+  "verseId": "2:19",
+  "verse": {
+    "arabic": "أَوْ كَصَيِّبٍ مِّنَ السَّمَاءِ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ ۚ وَاللَّهُ مُحِيطٌ بِالْكَافِرِينَ",
+    "transliteration": "Aw kasayyibin mina alssamai feehi thulumatun waraAAdun wabarqun yajAAaloona asabiAAahum fee athanihim mina alssawaAAiqi hathara almawti waAllahu muheetun bialkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to desire, to wish; conjunction indicating alternatives"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَصَيِّبٍ",
+      "transliteration": "kaṣayyibin",
+      "meaning": "like a pouring rain/downpour"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be taken from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "height, elevation, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, to be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ظُلُمَاتٌ",
+      "transliteration": "ẓulumātun",
+      "meaning": "darknesses",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "ظُلُم",
+          "meaning": "darknesses (plural form base)"
+        },
+        {
+          "arabic": "اتٌ",
+          "meaning": "indefinite plural ending (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَرَعْدٌ",
+      "transliteration": "wa raʿdun",
+      "meaning": "and thunder",
+      "root": {
+        "letters": "ر-ع-د",
+        "meaning": "to thunder, to roar, powerful reverberation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَبَرْقٌ",
+      "transliteration": "wa barqun",
+      "meaning": "and lightning",
+      "root": {
+        "letters": "ب-ر-ق",
+        "meaning": "to shine, to gleam; lightning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَجْعَلُونَ",
+      "transliteration": "yajʿalūna",
+      "meaning": "they make/put",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first-person plural active present/future tense"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to put, to create"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating first-person plural active present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَصَابِعَهُمْ",
+      "transliteration": "aṣābiʿahum",
+      "meaning": "their fingers",
+      "root": {
+        "letters": "ص-ب-ع",
+        "meaning": "to follow, to reach; finger (as that which reaches)"
+      },
+      "components": [
+        {
+          "arabic": "أَصَابِعَ",
+          "meaning": "fingers (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "آذَانِهِم",
+      "transliteration": "ādhānihim",
+      "meaning": "their ears",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen; the ear itself"
+      },
+      "components": [
+        {
+          "arabic": "آذَانِ",
+          "meaning": "ears (dual form)"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "belonging to, origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الصَّوَاعِقِ",
+      "transliteration": "aṣ-ṣawāʿiqi",
+      "meaning": "the thunderclaps/lightning strikes",
+      "root": {
+        "letters": "ص-و-ع",
+        "meaning": "to make a loud noise, to thunder; to strike forcefully"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَوَاعِقِ",
+          "meaning": "thunderclaps/lightning strikes (plural of صَاعِقَة)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "حَذَرَ",
+      "transliteration": "ḥadhara",
+      "meaning": "fear/dread (of)",
+      "root": {
+        "letters": "ح-ذ-ر",
+        "meaning": "to be cautious, to fear, to beware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْمَوْتِ",
+      "transliteration": "al-mawti",
+      "meaning": "the death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, cessation of life"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "مَوْت",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be divine, to worship; God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مُحِيطٌ",
+      "transliteration": "muḥīṭun",
+      "meaning": "encompassing/surrounding",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to surround, encompass, go around"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِالْكَافِرِينَ",
+      "transliteration": "bi-l-kāfirīna",
+      "meaning": "with the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; disbelief, ingratitude"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْكَافِرِينَ",
+          "meaning": "the disbelievers (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or - like - a - downpour - from - the - sky - in - it - [are] - darknesses - and - thunder - and - lightning - they - make - their - fingers - in - their - ears - from - the - thunderclaps - [in] - fear - of - the - death - and - Allah - is - encompassing - with - the - disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "verseId": "2:116",
+  "verse": {
+    "arabic": "وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا ۗ سُبْحَانَهُ ۖ بَل لَّهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ لَّهُ قَانِتُونَ",
+    "transliteration": "Waqaloo itakhatha Allahu waladan subhanahu bal lahu ma fee alssamawati waalardi kullun lahu qanitoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 116
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالُوا",
+      "transliteration": "wa-qālū",
+      "meaning": "and they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اتَّخَذَ",
+      "transliteration": "ittakhadha",
+      "meaning": "he took, he chose",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to seize, to choose"
+      },
+      "components": [
+        {
+          "arabic": "اِتِّ",
+          "meaning": "prefix indicating attempt or completion (Form IV)"
+        },
+        {
+          "arabic": "تَخَذَ",
+          "meaning": "to take, to select (Form IV base)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَلَدًا",
+      "transliteration": "waladan",
+      "meaning": "a son",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to produce offspring"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سُبْحَانَهُ",
+      "transliteration": "subḥānahu",
+      "meaning": "Exalted is He!",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to flow; to praise, glorify"
+      },
+      "components": [
+        {
+          "arabic": "سُبْحَانَ",
+          "meaning": "Glory, praise; exalted is He!"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He (pronoun referring to God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بَل",
+      "transliteration": "bal",
+      "meaning": "rather, but",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to moisten; to reject, to refuse (figuratively)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَّهُ",
+      "transliteration": "lahu",
+      "meaning": "to Him, for Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, owning, being for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "whatever, what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, on",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "the heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation, loftiness"
+      },
+      "components": [
+        {
+          "arabic": "السَّمَاوَاتِ",
+          "meaning": "the heavens, skies.  Definite article 'al-' attached to the plural form of 'samā' (heaven)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالْأَرْضِ",
+      "transliteration": "wal-arḍi",
+      "meaning": "and the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "the earth, ground, land"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "كُلٌّ",
+      "transliteration": "kullun",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness, encompassing all"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَّهُ",
+      "transliteration": "lahu",
+      "meaning": "to Him, for Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "قَانِتُونَ",
+      "transliteration": "qānitūna",
+      "meaning": "devoutly obedient, submissive",
+      "root": {
+        "letters": "ق-ن-و",
+        "meaning": "to be humble, devout, obedient; to stand in prayer with submission"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-they-said took Allah a-son [pause] Exalted-is-He rather to-Him belongs what in the heavens and-the-earth [pause] all to-Him obediently-submissive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

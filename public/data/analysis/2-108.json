@@ -1,0 +1,320 @@
+{
+  "verseId": "2:108",
+  "verse": {
+    "arabic": "أَمْ تُرِيدُونَ أَن تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ ۗ وَمَن يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+    "transliteration": "Am tureedoona an tasaloo rasoolakum kama suila moosa min qablu waman yatabaddali alkufra bialeemani faqad dalla sawaa alssabeeli",
+    "surah": "Al-Baqarah",
+    "verseNumber": 108
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "To hope, to desire, or to be uncertain; also related to the idea of questioning/doubt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُرِيدُونَ",
+      "transliteration": "turīdūna",
+      "meaning": "Do you intend/desire?",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to intend, to desire, to want"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "رِيدُ",
+          "meaning": "desire, intention (verbal noun form)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating the second person masculine plural (you - active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "That/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist; affirmation, confirmation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَسْأَلُوا",
+      "transliteration": "tasʾalū",
+      "meaning": "You ask",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire, to request"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "سْـ",
+          "meaning": "part of the root, indicating asking/inquiry"
+        },
+        {
+          "arabic": "أَلُوا",
+          "meaning": "suffix indicating the second person masculine plural (you) - present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَسُولَكُمْ",
+      "transliteration": "rasūlakum",
+      "meaning": "Your Messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "رَسُولَ",
+          "meaning": "Messenger (indefinite accusative)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "Your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "As/like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance, similarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سُئِلَ",
+      "transliteration": "suʾila",
+      "meaning": "Was asked",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "passive prefix indicating the passive voice"
+        },
+        {
+          "arabic": "أُ",
+          "meaning": "vowel indicating past tense in passive voice"
+        },
+        {
+          "arabic": "ل",
+          "meaning": "root letter, part of the verb 'to ask'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "to draw water, to flow; weakness, fragility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن قَبْلُ",
+      "transliteration": "min qablu",
+      "meaning": "Before/previously",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept (often implies prior acceptance)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "قَبْلُ",
+          "meaning": "prior time, before"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۖ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "And whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, or existence/entity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَتَبَدَّلِ",
+      "transliteration": "yatabaddu",
+      "meaning": "Exchanges/substitutes",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to replace, substitute, exchange"
+      },
+      "components": [
+        {
+          "arabic": "يَتَ",
+          "meaning": "indicates present/future tense and is a prefix for the verb form"
+        },
+        {
+          "arabic": "بَدَّلَ",
+          "meaning": "to replace, substitute, exchange (verb form)"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "indicates the accusative case/masculine singular noun (form IV verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْكُفْرَ",
+      "transliteration": "al-kufr",
+      "meaning": "The disbelief",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; disbelief, ingratitude"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "كُفْر",
+          "meaning": "disbelief"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِالْإِيمَانِ",
+      "transliteration": "bil-ʾīmān",
+      "meaning": "For the faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, for"
+        },
+        {
+          "arabic": "الإِيمَانِ",
+          "meaning": "the faith, belief"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَقَدْ",
+      "transliteration": "faqad",
+      "meaning": "Then indeed/has certainly",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be able, to have power, to estimate/assess"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then/so"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed/certainly (indicates completion or certainty)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ضَلَّ",
+      "transliteration": "ḍalla",
+      "meaning": "Strayed/went astray",
+      "root": {
+        "letters": "د-ل-ل",
+        "meaning": "To err, to be lost, to deviate from the right path; weakness, feebleness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "سَوَاءَ",
+      "transliteration": "sawāʾa",
+      "meaning": "The straightness/soundness",
+      "root": {
+        "letters": "س-و-ا",
+        "meaning": "equality, evenness, straightness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "السَّبِيلِ",
+      "transliteration": "as-sabīl",
+      "meaning": "The way/path",
+      "root": {
+        "letters": "س-ب-ا",
+        "meaning": "to go, to take a path; smoothness, ease"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Or- do you intend/desire - that- you ask - your Messenger - as/like - was asked - Moses - before - [separator] - and whoever - exchanges/substitutes - the disbelief - for the faith - then indeed/has certainly - strayed/went astray - the straightness/soundness - the way/path"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

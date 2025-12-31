@@ -1,0 +1,205 @@
+{
+  "verseId": "2:50",
+  "verse": {
+    "arabic": "وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَأَنجَيْنَاكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ",
+    "transliteration": "Waith faraqna bikumu albahra faanjaynakum waaghraqna ala firAAawna waantum tanthuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when; and behold",
+      "root": {
+        "letters": "و-ذ-ع",
+        "meaning": "to perceive, to know, to experience"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when; at the time when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَرَقْنَا",
+      "transliteration": "faraqnā",
+      "meaning": "We parted; We separated",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to divide, to separate, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "فَرَقْ",
+          "meaning": "we separated (basic form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِكُمُ",
+      "transliteration": "bikumu",
+      "meaning": "with you; by means of you",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; pertaining to manner or state"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْبَحْرَ",
+      "transliteration": "al-baḥr",
+      "meaning": "the sea",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to swell, to overflow; vastness, depth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَأَنجَيْنَاكُمْ",
+      "transliteration": "faʾanjaynākum",
+      "meaning": "so We saved you",
+      "root": {
+        "letters": "ن-ج-و",
+        "meaning": "escape, be saved, rescue"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَنجَيْنَا",
+          "meaning": "We saved"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَأَغْرَقْنَا",
+      "transliteration": "waʾaghraqnā",
+      "meaning": "and We drowned",
+      "root": {
+        "letters": "غ-ر-ق",
+        "meaning": "to submerge, to drown, to overwhelm"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَغْرَقْنَا",
+          "meaning": "We drowned (past tense, active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آلَ",
+      "transliteration": "ʾāla",
+      "meaning": "family of; people of",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to begin, the first"
+      },
+      "components": [
+        {
+          "arabic": "آل",
+          "meaning": "family, tribe; people connected by lineage"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِرْعَوْنَ",
+      "transliteration": "firʿawn",
+      "meaning": "Pharaoh",
+      "root": {
+        "letters": "ف-ر-ع",
+        "meaning": "to divide, to branch off; to excel, to be high or elevated"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "waʾantum",
+      "meaning": "and you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنْتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَنظُرُونَ",
+      "transliteration": "tanzurūn",
+      "meaning": "you are looking; you see",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense (present/future)"
+        },
+        {
+          "arabic": "نَظَر",
+          "meaning": "to see, to look"
+        },
+        {
+          "arabic": "~ُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We parted with-you the-sea so-We saved-you and-We drowned family-of Pharaoh and-you you-are-looking"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

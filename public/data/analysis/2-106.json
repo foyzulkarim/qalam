@@ -1,0 +1,321 @@
+{
+  "verseId": "2:106",
+  "verse": {
+    "arabic": "مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Ma nansakh min ayatin aw nunsiha nati bikhayrin minha aw mithliha alam taAAlam anna Allaha AAala kulli shayin qadeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 106
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَنسَخْ",
+      "transliteration": "nanṣakh",
+      "meaning": "we abrogate, we repeal",
+      "root": {
+        "letters": "ن-س-خ",
+        "meaning": "to cancel, to alter, to copy (and by extension, to abrogate)"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (prefix pronoun)"
+        },
+        {
+          "arabic": "سَخَ",
+          "meaning": "to abrogate, to repeal (root verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to derive from, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آيَةٍ",
+      "transliteration": "āyatin",
+      "meaning": "a verse, a sign",
+      "root": {
+        "letters": "أ-ي-و",
+        "meaning": "to return, to come back; a clear sign or proof"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to desire, to wish; or, alternatively, an intensifier indicating a choice between two things"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "نُنسِهَا",
+      "transliteration": "nunsiha",
+      "meaning": "we cause it to be forgotten",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": [
+        {
+          "arabic": "نُـ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "نَسِـ",
+          "meaning": "to forget (verbal stem)"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "it (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَأْتِ",
+      "transliteration": "na'ti",
+      "meaning": "we bring, we come with",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to bring"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "أْتِ",
+          "meaning": "to come, to bring"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِخَيْرٍ",
+      "transliteration": "bikheirin",
+      "meaning": "with better [something]",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "خَيْرٍ",
+          "meaning": "better, goodness (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّنْهَا",
+      "transliteration": "minhā",
+      "meaning": "than it, from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate from, to be derived from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire; alternative conjunction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِثْلِهَا",
+      "transliteration": "mithlihā",
+      "meaning": "similar to it, like it",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like"
+      },
+      "components": [
+        {
+          "arabic": "مثل",
+          "meaning": "similar to, like"
+        },
+        {
+          "arabic": "ها",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَلَمْ",
+      "transliteration": "alam",
+      "meaning": "have you not?",
+      "root": {
+        "letters": "ا-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negation particle, have not (used with perfect verbs)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَعْلَمْ",
+      "transliteration": "taʿlam",
+      "meaning": "you know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (root verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the emphatic particle, used for emphasis or to introduce a noun clause"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "the particle 'na', functioning to make the preceding verb definite and emphatic."
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, the God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness; to be complete or full"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing, something",
+      "root": {
+        "letters": "ش-ي-ئ",
+        "meaning": "to be something, existence, a matter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadīr",
+      "meaning": "competent, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power, to measure"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "what-we abrogate -from a verse -or we cause-it to-be forgotten -we bring -with better -than it -or similar-to it? -have you not know -that indeed Allah -upon all thing -competent?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

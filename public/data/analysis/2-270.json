@@ -1,0 +1,264 @@
+{
+  "verseId": "2:270",
+  "verse": {
+    "arabic": "وَمَا أَنفَقْتُم مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍ فَإِنَّ اللَّهَ يَعْلَمُهُ ۗ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ",
+    "transliteration": "Wama anfaqtum min nafaqatin aw nathartum min nathrin fainna Allaha yaAAlamuhu wama lilththalimeena min ansarin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 270
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "whatever, what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنفَقْتُم",
+      "transliteration": "ʾanfaqtum",
+      "meaning": "you spent",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to run out (of something)"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "indicates past tense and is a particle of extension (تَكْثِير)"
+        },
+        {
+          "arabic": "فَعْتُم",
+          "meaning": "you (plural) spent - derived from the root ن-ف-ق with verbal form and pronoun suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَّفَقَةٍ",
+      "transliteration": "nafaqatin",
+      "meaning": "expenditure, spending",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to flow, to pass through, to spend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "To return, to revert, or a connective particle indicating alternatives."
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "A connective particle indicating alternatives."
+        },
+        {
+          "arabic": "و",
+          "meaning": "A connective particle indicating alternatives."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَذَرْتُم",
+      "transliteration": "naḏartum",
+      "meaning": "you vowed",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to vow, to dedicate, to offer"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "you (plural)"
+        },
+        {
+          "arabic": "ذَرْتُم",
+          "meaning": "vowed, dedicated (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; source, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نَّذْرٍ",
+      "transliteration": "naḏrin",
+      "meaning": "vow, offering",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to vow, to make an offering; to dedicate something specifically"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed, for surely",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, truth, existence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَعْلَمُهُ",
+      "transliteration": "yaʿlamuhu",
+      "meaning": "He knows it",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, active voice"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "pronoun suffix - it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what, and whatever",
+      "root": {
+        "letters": "م-و-ا",
+        "meaning": "to desire, to wish, to have"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لِلظَّالِمِينَ",
+      "transliteration": "liẓ-ẓālimīna",
+      "meaning": "for the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "to be unjust, to err, darkness/shadow (related conceptually)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "wrongdoers, oppressors, unjust people (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, lack, be deficient; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَنصَارٍ",
+      "transliteration": "ʾanṣārin",
+      "meaning": "helpers, supporters",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to support"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and what-you spent of expenditure or you vowed of vow - then indeed Allah knows it – and for the wrongdoers from helpers [there are none]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "verseId": "2:20",
+  "verse": {
+    "arabic": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ ۖ كُلَّمَا أَضَاءَ لَهُم مَّشَوْا فِيهِ وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا ۚ وَلَوْ شَاءَ اللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Yakadu albarqu yakhtafu absarahum kullama adaa lahum mashaw feehi waitha athlama AAalayhim qamoo walaw shaa Allahu lathahaba bisamAAihim waabsarihim inna Allaha AAala kulli shayin qadeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَكَادُ",
+      "transliteration": "yakādu",
+      "meaning": "almost, nearly",
+      "root": {
+        "letters": "ك-د-و",
+        "meaning": "to strive, to be able or capable with difficulty"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and performing actor."
+        },
+        {
+          "arabic": "كَادَ",
+          "meaning": "to be on the verge of, almost"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْبَرْقُ",
+      "transliteration": "al-barqu",
+      "meaning": "the lightning",
+      "root": {
+        "letters": "ب-ر-ق",
+        "meaning": "to shine, to gleam; flash"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَخْطَفُ",
+      "transliteration": "yakhtaafu",
+      "meaning": "snatch away, seize",
+      "root": {
+        "letters": "خ-ط-ف",
+        "meaning": "to seize quickly, to snatch away, to steal"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, active voice"
+        },
+        {
+          "arabic": "خَطَفَ",
+          "meaning": "to snatch, to seize quickly"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case and present tense ending (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَبْصَارَهُمْ",
+      "transliteration": "abṣārahum",
+      "meaning": "their sights, their eyes",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, vision"
+      },
+      "components": [
+        {
+          "arabic": "أَبْ",
+          "meaning": "their (dual or plural)"
+        },
+        {
+          "arabic": "صَارَهُمْ",
+          "meaning": "sights, their eyes (plural possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُلَّمَا",
+      "transliteration": "kullamā",
+      "meaning": "whenever, every time",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word, communication"
+      },
+      "components": [
+        {
+          "arabic": "كُلّ",
+          "meaning": "all, every"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whatever, anything"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَضَاءَ",
+      "transliteration": "aḍāʾa",
+      "meaning": "shone, illuminated",
+      "root": {
+        "letters": "ض-ي-أ",
+        "meaning": "to shine, to be bright, to illuminate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "belonging to, for, possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَشَوْا",
+      "transliteration": "mashaw",
+      "meaning": "they walked",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to go, to walk, to proceed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be contained, to exist in, to enter into"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, therein (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when, and whenever",
+      "root": {
+        "letters": "أ-و-د",
+        "meaning": "to come, to arrive; time"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَظْلَمَ",
+      "transliteration": "aẓlama",
+      "meaning": "became dark, darkened",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, wrongdoing, darkness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them, over them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon, concerning"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "قَامُوا",
+      "transliteration": "qāmū",
+      "meaning": "they stood, they remained standing",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to be upright"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَلَوْ",
+      "transliteration": "walaw",
+      "meaning": "and if, were it not for",
+      "root": {
+        "letters": "ل-و-ا",
+        "meaning": "wish, desire, want; or to happen, occur"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were it not for"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "willed, desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to will, to desire; to create from nothing (related to the power of divine intention)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَذَهَبَ",
+      "transliteration": "ladhahaba",
+      "meaning": "[He] would have taken away",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go away, to depart, to vanish"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "ذَهَبَ",
+          "meaning": "he went away, he departed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِسَمْعِهِمْ",
+      "transliteration": "bisamʿihim",
+      "meaning": "with their hearing, of their hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "سَمْعِهِمْ",
+          "meaning": "their hearing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَأَبْصَارِهِمْ",
+      "transliteration": "waʾabṣārihim",
+      "meaning": "and their sights, and their eyes",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, sight"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَبْصَارِهِمْ",
+          "meaning": "their sights, their eyes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "إ-ن-ن",
+        "meaning": "affirmation, confirmation, emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, surely (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing, something",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be non-existent, to lack, absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadīr",
+      "meaning": "competent, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power or ability; measure, estimate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "yakādu - the-lightning - snatch-away - their-sights - whenever - shone - for-them - they-walked - in-it - and-when - became-dark - upon-them - they-stood - and-if - willed - Allah - [He]-would-have-taken-away - with-their-hearing - and-their-sights - indeed - Allah - over - all - thing - competent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

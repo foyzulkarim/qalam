@@ -1,0 +1,190 @@
+{
+  "verseId": "2:138",
+  "verse": {
+    "arabic": "صِبْغَةَ اللَّهِ ۖ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً ۖ وَنَحْنُ لَهُ عَابِدُونَ",
+    "transliteration": "Sibghata Allahi waman ahsanu mina Allahi sibghatan wanahnu lahu AAabidoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 138
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "صِبْغَةَ",
+      "transliteration": "ṣibghata",
+      "meaning": "dye, coloring; religion, way of life",
+      "root": {
+        "letters": "ص-ب-غ",
+        "meaning": "to dye, to color; to immerse or saturate something in a substance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His / of Him (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَمَنْ",
+      "transliteration": "wa man",
+      "meaning": "and who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also signifies questioning or relativity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَحْسَنُ",
+      "transliteration": "aḥsanu",
+      "meaning": "better, more excellent",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "than",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come from, source/origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The deity; worship; to be worshipped"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "صِبْغَةً",
+      "transliteration": "ṣibghatan",
+      "meaning": "dye, coloring; religion, way of life",
+      "root": {
+        "letters": "ص-ب-غ",
+        "meaning": "to dye, to color, to immerse; to tinge with a certain quality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَنَحْنُ",
+      "transliteration": "wa naḥnu",
+      "meaning": "and we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to intend, to be (in a state)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَحْنُ",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for Him, to Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَابِدُونَ",
+      "transliteration": "ʿābidūna",
+      "meaning": "worshippers",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "عابد",
+          "meaning": "worshipper (singular)"
+        },
+        {
+          "arabic": "ون",
+          "meaning": "dual or plural suffix, masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "dye-of Allah – and who better than Allah dye? – and we to Him worshippers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

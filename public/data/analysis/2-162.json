@@ -1,0 +1,188 @@
+{
+  "verseId": "2:162",
+  "verse": {
+    "arabic": "خَالِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+    "transliteration": "Khalideena feeha la yukhaffafu AAanhumu alAAathabu wala hum yuntharoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 162
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَالِدِينَ",
+      "transliteration": "khālidīn",
+      "meaning": "abiding, remaining",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to be eternal, to remain forever"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, to be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُخَفَّفُ",
+      "transliteration": "yukhāffafu",
+      "meaning": "is lightened, is reduced",
+      "root": {
+        "letters": "خ-ف-ف",
+        "meaning": "to be light, easy; to lessen or diminish"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker (prefix)"
+        },
+        {
+          "arabic": "خَفَّ",
+          "meaning": "lightness, ease (form I verb base)"
+        },
+        {
+          "arabic": "فُ",
+          "meaning": "passive voice ending (suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَنْهُمُ",
+      "transliteration": "ʿanhum",
+      "meaning": "from them, concerning them",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to be away from, to depart, to deviate"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, concerning"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْعَذَابُ",
+      "transliteration": "al-ʿadhābu",
+      "meaning": "the punishment, the torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to torment; to be harsh or bitter"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابٌ",
+          "meaning": "punishment, torment (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-مْ-ي",
+        "meaning": "pronoun, to be (existence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُنظَرُونَ",
+      "transliteration": "yunẓarūn",
+      "meaning": "are given respite, are delayed",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look at, to wait, to consider"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "passive voice marker & present tense"
+        },
+        {
+          "arabic": "ظَر",
+          "meaning": "to see, to look at"
+        },
+        {
+          "arabic": "ُون",
+          "meaning": "plural masculine suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "abiding-eternally therein - not is-lightened from-them the-punishment - and nor they are-given respite"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

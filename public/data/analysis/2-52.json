@@ -1,0 +1,156 @@
+{
+  "verseId": "2:52",
+  "verse": {
+    "arabic": "ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+    "transliteration": "Thumma AAafawna AAankum min baAAdi thalika laAAallakum tashkuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 52
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to stay, to rest; also used for time sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَفَوْنَا",
+      "transliteration": "ʿafawnā",
+      "meaning": "We forgave",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to forgive, to pardon; remission of sin or fault"
+      },
+      "components": [
+        {
+          "arabic": "عَفْو",
+          "meaning": "forgiveness, pardon"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (first person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنكُم",
+      "transliteration": "ʿankum",
+      "meaning": "about you, from you",
+      "root": {
+        "letters": "ع-ن-ك",
+        "meaning": "to be away from, to distance oneself"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, from"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, after",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive, to be from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَعْدِ",
+      "transliteration": "baʿdi",
+      "meaning": "after, following",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālik",
+      "meaning": "that, the latter",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; pertaining to the self or one's own state"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰ",
+          "meaning": "the demonstrative pronoun, referring to something distant"
+        },
+        {
+          "arabic": "لِك",
+          "meaning": "the suffix indicating possession or belonging (to 'you', masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "perhaps you (plural)",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, possibility"
+      },
+      "components": [
+        {
+          "arabic": "لَعَ",
+          "meaning": "perhaps, hopefully"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَشْكُرُونَ",
+      "transliteration": "tashkurūn",
+      "meaning": "you (plural) be grateful",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to acknowledge a favor"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect/present tense"
+        },
+        {
+          "arabic": "شْكُر",
+          "meaning": "gratitude, thankfulness (verbal noun)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural, second person masculine suffix (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-We-forgave-about-you-from-after-that-perhaps-you(plural)-be grateful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "verseId": "2:244",
+  "verse": {
+    "arabic": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ وَاعْلَمُوا أَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+    "transliteration": "Waqatiloo fee sabeeli Allahi waiAAlamoo anna Allaha sameeAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 244
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَاتِلُوا",
+      "transliteration": "wa-qātilū",
+      "meaning": "and fight (you plural)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy, to fight"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَاتِلُوا",
+          "meaning": "fight (you plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "path/cause (of)",
+      "root": {
+        "letters": "س-ب-ا",
+        "meaning": "to go, to flow, to take a course"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah's/of Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "divinity, godhood; to be worshipped"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah (the one and only God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَاعْلَمُوا",
+      "transliteration": "wa-ʿlamū",
+      "meaning": "and know (you plural)",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know (you plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that (indeed)",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence; confirmation or emphasis"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that (indeed); a particle of emphasis introducing a noun clause."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah (accusative)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to be devoted to; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "سَمِيعٌ",
+      "transliteration": "samīʿun",
+      "meaning": "Hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "سَمِيع",
+          "meaning": "Hearing, The All-Hearer (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-fight in path/cause of Allah and-know that indeed Allah Hearing Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

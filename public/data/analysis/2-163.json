@@ -1,0 +1,154 @@
+{
+  "verseId": "2:163",
+  "verse": {
+    "arabic": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ ۖ لَّا إِلَـٰهَ إِلَّا هُوَ الرَّحْمَـٰنُ الرَّحِيمُ",
+    "transliteration": "Wailahukum ilahun wahidun la ilaha illa huwa alrrahmanu alrraheemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 163
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِلَـٰهُكُمْ",
+      "transliteration": "wa-ilāhukum",
+      "meaning": "and your god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, be divine, god"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَـٰ",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَـٰهٌ",
+      "transliteration": "ilāhun",
+      "meaning": "a god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; god"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَاحِدٌ",
+      "transliteration": "wāḥidun",
+      "meaning": "one",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, to be alone, oneness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ لَّا",
+      "transliteration": "lā",
+      "meaning": "no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَـٰهَ",
+      "transliteration": "ilāha",
+      "meaning": "a god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; godhood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to incline, to return, to be absent"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, toward"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to exist, to be; essence, personality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الرَّحْمَـٰنُ",
+      "transliteration": "ar-raḥmānu",
+      "meaning": "the Entirely Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰن",
+          "meaning": "The Merciful, possessing complete mercy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "ar-raḥīmu",
+      "meaning": "the Especially Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion; to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رَحِيمُ",
+          "meaning": "Merciful, Compassionate"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-god-[your] god-a one no-god except-He the-Merciful the-Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

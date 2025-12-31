@@ -1,0 +1,633 @@
+{
+  "verseId": "2:150",
+  "verse": {
+    "arabic": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِي وَلِأُتِمَّ نِعْمَتِي عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ",
+    "transliteration": "Wamin haythu kharajta fawalli wajhaka shatra almasjidi alharami wahaythu ma kuntum fawalloo wujoohakum shatrahu lialla yakoona lilnnasi AAalaykum hujjatun illa allatheena thalamoo minhum fala takhshawhum waikhshawnee waliotimma niAAmatee AAalaykum walaAAallakum tahtadoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 150
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِنْ",
+      "transliteration": "wa min",
+      "meaning": "and from, and concerning",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, to prevent, to withhold; source or origin"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "wherever, from wherever",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist; location, circumstance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَرَجْتَ",
+      "transliteration": "kharajta",
+      "meaning": "you exited, you went out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "خَرَج",
+          "meaning": "you exited, you went out (basic form)"
+        },
+        {
+          "arabic": "ـتَ",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَوَلِّ",
+      "transliteration": "fa walli",
+      "meaning": "then turn, so direct",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to entrust, to govern, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "وَلِّ",
+          "meaning": "turn, direct (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَجْهَكَ",
+      "transliteration": "wajhaka",
+      "meaning": "your face",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be prominent, manifest, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "وَجْه",
+          "meaning": "face"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَطْرَ",
+      "transliteration": "shatra",
+      "meaning": "toward, direction of",
+      "root": {
+        "letters": "ش-ط-ر",
+        "meaning": "to divide, part, share"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَسْجِدِ",
+      "transliteration": "al-masjidi",
+      "meaning": "the mosque, the place of prostration",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to bow down in humility"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسْجِدِ",
+          "meaning": "place of prostration, mosque (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "the forbidden, the sacred",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to prohibit, to forbid; sacredness, inviolability"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "forbidden, sacred (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "la taʿadd",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to exceed limits, to transgress"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "you (masculine plural)"
+        },
+        {
+          "arabic": "عَدَّ",
+          "meaning": "to count, to exceed limits, to transgress"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَحَيْثُ",
+      "transliteration": "wa ḥaythu",
+      "meaning": "and wherever, and from wherever",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist; place, location"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حَيْثُ",
+          "meaning": "wherever, from wherever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "whatever, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were, you exist (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were/are (root verb)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "pronoun suffix indicating plural 'you'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَوَلُّوا",
+      "transliteration": "fa wallū",
+      "meaning": "then turn, so direct (plural)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to incline, to retreat"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "وَلُّوا",
+          "meaning": "turn away, direct yourselves (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وُجُوهَكُمْ",
+      "transliteration": "wujūhukum",
+      "meaning": "your faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to find, to become apparent, face"
+      },
+      "components": [
+        {
+          "arabic": "وُجُوهَ",
+          "meaning": "faces (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شَطْرَهُ",
+      "transliteration": "shatrahu",
+      "meaning": "toward it, its direction",
+      "root": {
+        "letters": "ش-ط-ر",
+        "meaning": "to divide, portion, side"
+      },
+      "components": [
+        {
+          "arabic": "شَطْر",
+          "meaning": "half, portion, side"
+        },
+        {
+          "arabic": "-هُ",
+          "meaning": "toward it, its (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لِئَلَّا",
+      "transliteration": "li'alla",
+      "meaning": "in order that not, so that not",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to lack, to be deficient, to fail"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "أَلَّا",
+          "meaning": "that not, so that not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَكُونَ",
+      "transliteration": "yakūna",
+      "meaning": "it be, there be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person singular (when combined)"
+        },
+        {
+          "arabic": "كُونَ",
+          "meaning": "the infinitive form of 'to be',  state of being"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "for the people, to the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (derived from the idea of forgetting one's origin)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you, against you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate, to ascend; also possessing power and authority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "حُجَّةٌ",
+      "transliteration": "ḥujjahun",
+      "meaning": "argument, proof",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to argue, to present evidence, strength or firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who, whoever",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to point, to indicate, to refer"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "those (plural relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ظَلَمُوا",
+      "transliteration": "ẓalamū",
+      "meaning": "they wronged, they oppressed",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مِنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them, of them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فَلَا",
+      "transliteration": "fa lā",
+      "meaning": "then not, so do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "تَخْشَوْهُمْ",
+      "transliteration": "takhshawhum",
+      "meaning": "you fear them, you dread them",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to have reverence, fear, be afraid"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense (future/present)"
+        },
+        {
+          "arabic": "خَشَوْ",
+          "meaning": "you fear (masculine plural)"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَاخْشَوْنِي",
+      "transliteration": "wakha shawnī",
+      "meaning": "and fear Me, and dread Me",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to have fear, to be afraid, to dread"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اخْشَوْ",
+          "meaning": "fear (you plural)"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "Me (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "وَلِأُتِمَّ",
+      "transliteration": "wa li'utimma",
+      "meaning": "and to complete, and for completing",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to complete, to fulfill, to perfect"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to (purpose)"
+        },
+        {
+          "arabic": "أُتِمَّ",
+          "meaning": "completion, fulfilling (masculine singular verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "نِعْمَتِي",
+      "transliteration": "niʿmatī",
+      "meaning": "My favor, My blessing",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, to enjoy good fortune; favor, blessing"
+      },
+      "components": [
+        {
+          "arabic": "نِعْمَة",
+          "meaning": "favor, blessing"
+        },
+        {
+          "arabic": "-ي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you, for you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, superiority; also related to guardianship or responsibility"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "وَلَعَلَّكُمْ",
+      "transliteration": "wa laʿallakum",
+      "meaning": "and perhaps you, and maybe you",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to return, to revert, to become something"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for, to (particle of purpose)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "perhaps, maybe (derived from the root ع-ل-ل indicating hope or possibility of return to a desired state)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "تَهْتَدُونَ",
+      "transliteration": "tahtadūna",
+      "meaning": "you are guided, you find guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "هَدَـ",
+          "meaning": "the root of guidance"
+        },
+        {
+          "arabic": "-ون",
+          "meaning": "suffix indicating the second person masculine plural"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and from-wherever you-exited then-turn your-face toward the-mosque the-forbidden and from-wherever whatever you-were then-turn your-faces toward-it in-order-that not be to-the-people upon-you argument except the-ones who wronged from-them then-not you-fear them and-fear Me and for to-complete My-favor upon-you and perhaps-you you-are-guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

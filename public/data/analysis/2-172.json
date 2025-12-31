@@ -1,0 +1,283 @@
+{
+  "verseId": "2:172",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+    "transliteration": "Ya ayyuha allatheena amanoo kuloo min tayyibati ma razaqnakum waoshkuroo lillahi in kuntum iyyahu taAAbudoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 172
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, addressing a group)",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to call, to shout, to awaken"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O (vocative particle, general call)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "particle of address, attracting attention to the group being called"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have, to belong"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "particle indicating emphasis or future tense"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُلُوا",
+      "transliteration": "kulū",
+      "meaning": "eat!",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat, to take in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to lessen; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "طَيِّبَاتِ",
+      "transliteration": "ṭayyibāti",
+      "meaning": "good things, wholesome things",
+      "root": {
+        "letters": "ط-ي-ب",
+        "meaning": "goodness, purity, pleasantness"
+      },
+      "components": [
+        {
+          "arabic": "طَيِّب",
+          "meaning": "good, pleasant"
+        },
+        {
+          "arabic": "اتِ",
+          "meaning": "plural marker for feminine nouns"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَزَقْنَاكُمْ",
+      "transliteration": "razaqnākum",
+      "meaning": "We provided for you",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": [
+        {
+          "arabic": "رَزَقْ",
+          "meaning": "We provided"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "to us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "to you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اُشْكُرُوا",
+      "transliteration": "ushkurū",
+      "meaning": "be grateful!",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to thank, to be grateful, recognition of kindness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lil-lahi",
+      "meaning": "to Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence, truthfulness"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed; a conditional particle emphasizing truthfulness or certainty."
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were/are (root verb)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "pronoun suffix indicating 'you' (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "إِيَّاهُ",
+      "transliteration": "iyyāhu",
+      "meaning": "Him (referring to Allah)",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to turn, to direct oneself (towards)"
+      },
+      "components": [
+        {
+          "arabic": "إِيّ",
+          "meaning": "to Him, towards Him (emphasizing direction)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "He, Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تَعْبُدُونَ",
+      "transliteration": "taʿbudūna",
+      "meaning": "you worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "servitude, worship"
+      },
+      "components": [
+        {
+          "arabic": "تَ-",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَب-",
+          "meaning": "root denoting worship/servitude"
+        },
+        {
+          "arabic": "-دُونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-you O-ones-who believed eat!-from good-things what provided-for-you We and be grateful to-Allah if you-are indeed Him worship."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

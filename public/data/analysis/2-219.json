@@ -1,0 +1,490 @@
+{
+  "verseId": "2:219",
+  "verse": {
+    "arabic": "يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ ۖ قُلْ فِيهِمَا إِثْمٌ كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِن نَّفْعِهِمَا ۗ وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ الْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+    "transliteration": "Yasaloonaka AAani alkhamri waalmaysiri qul feehima ithmun kabeerun wamanafiAAu lilnnasi waithmuhuma akbaru min nafAAihima wayasaloonaka matha yunfiqoona quli alAAafwa kathalika yubayyinu Allahu lakumu alayati laAAallakum tatafakkaroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 219
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَسْأَلُونَكَ",
+      "transliteration": "yasʾalūnaka",
+      "meaning": "they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "يَسْأَلُون",
+          "meaning": "they ask (masculine plural)"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concerning"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "about, from, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْخَمْرِ",
+      "transliteration": "al-khumri",
+      "meaning": "the wine",
+      "root": {
+        "letters": "خ-م-ر",
+        "meaning": "to ferment, to intoxicate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالْمَيْسِرِ",
+      "transliteration": "wal-mayisiri",
+      "meaning": "and the gambling",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "ease, facility, or something made easy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or express verbally; generally relating to communication."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِيهِمَا",
+      "transliteration": "fīhimā",
+      "meaning": "in them (dual)",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to contain, to include, to be in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِثْمٌ",
+      "transliteration": "ʾithmun",
+      "meaning": "sin",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to conceal, to hide; evil, wrongdoing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كَبِيرٌ",
+      "transliteration": "kabīrun",
+      "meaning": "great",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَمَنَافِعُ",
+      "transliteration": "wamānāfiʿu",
+      "meaning": "and benefits",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to be useful, to profit, benefit"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَنَافِعُ",
+          "meaning": "benefits (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَإِثْمُهُمَا",
+      "transliteration": "waʾithmuhumā",
+      "meaning": "and their sin (dual)",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to sin, wrongdoing, evil"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِثْمُ",
+          "meaning": "sin, wrongdoing (singular)"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "they (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَكْبَرُ",
+      "transliteration": "ʾakbaru",
+      "meaning": "greater",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be great, to grow, to increase"
+      },
+      "components": [
+        {
+          "arabic": "أَكْبَرُ",
+          "meaning": "greater (superlative form of كبير)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِن نَّفْعِهِمَا",
+      "transliteration": "min nafʿihimā",
+      "meaning": "than their benefit (dual)",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to benefit, to be useful"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "نَفْعِهِمَا",
+          "meaning": "their benefit (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۗ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَيَسْأَلُونَكَ",
+      "transliteration": "wayasʾalūnaka",
+      "meaning": "and they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْأَلُونَ",
+          "meaning": "they ask (present/future)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مَاذَا",
+      "transliteration": "mādhā",
+      "meaning": "what",
+      "root": {
+        "letters": "ذ-هـ-أ",
+        "meaning": "to take, to seize, to possess; also astonishment or inquiry"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "interrogative particle, indicating a question about something unspecified"
+        },
+        {
+          "arabic": "ذَا",
+          "meaning": "this (pronoun), used to refer to something unspecified in a question"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يُنفِقُونَ",
+      "transliteration": "yunfiqūna",
+      "meaning": "they spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to exhaust; to flow out"
+      },
+      "components": [
+        {
+          "arabic": "يُنْ",
+          "meaning": "they (prefix indicating present/future tense, plural)"
+        },
+        {
+          "arabic": "فِق",
+          "meaning": "spend, expend (stem from root ن-ف-ق)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (suffix indicating plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "قُلِ",
+      "transliteration": "quli",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْعَفْوَ",
+      "transliteration": "al-ʿafwa",
+      "meaning": "the excess",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to forgive, to pardon, to remit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ۗ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲hālika",
+      "meaning": "Thus",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to be like"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Like, thus"
+        },
+        {
+          "arabic": "ذَٰلِك",
+          "meaning": "That, this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "يُبَيِّنُ",
+      "transliteration": "yubayyinu",
+      "meaning": "makes clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to become manifest, to be clear or evident"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense, active voice, 3rd person singular"
+        },
+        {
+          "arabic": "بَيَّنَ",
+          "meaning": "to make clear, to explain"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case (present tense verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakum",
+      "meaning": "to you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "الْآيَاتِ",
+      "transliteration": "al-ʾāyāti",
+      "meaning": "the verses",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, miracle"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "verses (plural of آية)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "that you might",
+      "root": {
+        "letters": "ع-ل-ك",
+        "meaning": "to hope, to expect, possibility"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, that (introducing a purpose or hope)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "hope, expectation, possibility (derived from the root ع-ل-ك)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "تَتَفَكَّرُونَ",
+      "transliteration": "tatafakkarūna",
+      "meaning": "you might give thought",
+      "root": {
+        "letters": "ف-ك-ر",
+        "meaning": "to think, to ponder, to reflect"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the present tense and/or a reflexive action (form IV)"
+        },
+        {
+          "arabic": "تَفَكَّر",
+          "meaning": "to think deeply, to reflect upon (form IV)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating a plural masculine pronoun (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-ask-you - about - the-wine - and-the-gambling - [pause] - Say! - in-them (dual) - sin - great - and-benefits - for-the-people - and-their-sin (dual) - greater - than-their-benefit (dual) - [pause] - and-they-ask-you - what - they-spend - Say! - the-excess - [pause] - Thus - makes-clear - Allah - to-you - the-verses - that-you-might - you-might-give-thought"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "verseId": "2:3",
+  "verse": {
+    "arabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+    "transliteration": "Allatheena yuminoona bialghaybi wayuqeemoona alssalata wamimma razaqnahum yunfiqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who, those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who, those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yu'minūna",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural (they)"
+        },
+        {
+          "arabic": "ؤُمِن",
+          "meaning": "the root verb in its passive form implying 'being believed'"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine form (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْغَيْبِ",
+      "transliteration": "bil-ghaybi",
+      "meaning": "in the unseen, with the unseen",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be hidden, to be absent, unseen"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْغَيْبِ",
+          "meaning": "the unseen, the hidden"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُقِيمُونَ",
+      "transliteration": "yuqīmūna",
+      "meaning": "they establish, they perform regularly",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to establish, to support"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "قِيمُ",
+          "meaning": "establishing, performing regularly (verbal root)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الصَّلَاةَ",
+      "transliteration": "aṣ-ṣalāta",
+      "meaning": "the prayer, the ritual prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to turn in devotion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِمَّا",
+      "transliteration": "mim mā",
+      "meaning": "from what, of that which",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, prevent, originate from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَزَقْنَاهُمْ",
+      "transliteration": "razaqnāhum",
+      "meaning": "We have provided for them, We gave sustenance to them",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": [
+        {
+          "arabic": "رَ",
+          "meaning": "prefix indicating first person plural (We)"
+        },
+        {
+          "arabic": "زَقْنَا",
+          "meaning": "provided, gave sustenance (verb form)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُنفِقُونَ",
+      "transliteration": "yunfiqūna",
+      "meaning": "they spend, they give away",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to give away (of wealth or resources)"
+      },
+      "components": [
+        {
+          "arabic": "يُنْفِق",
+          "meaning": "they spend (present tense, active voice)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who they-believe in-the-unseen and they-establish the-prayer and from-what We-provided-for-them they-spend"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

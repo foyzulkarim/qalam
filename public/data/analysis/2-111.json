@@ -1,0 +1,291 @@
+{
+  "verseId": "2:111",
+  "verse": {
+    "arabic": "وَقَالُوا لَن يَدْخُلَ الْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ",
+    "transliteration": "Waqaloo lan yadkhula aljannata illa man kana hoodan aw nasara tilka amaniyyuhum qul hatoo burhanakum in kuntum sadiqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 111
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالُوا",
+      "transliteration": "wa-qālū",
+      "meaning": "and they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَن",
+      "transliteration": "lan",
+      "meaning": "never / not",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to refuse, to decline, to be unwilling"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَدْخُلَ",
+      "transliteration": "yadkhula",
+      "meaning": "will enter",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "يد",
+          "meaning": "prefix indicating 'he will'"
+        },
+        {
+          "arabic": "خل",
+          "meaning": "the root related to entering or going in"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel marker & infinitive ending indicator"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْجَنَّةَ",
+      "transliteration": "al-jannata",
+      "meaning": "the Paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed (and by extension, a garden or paradise as a hidden/covered place)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to resort to, to turn towards; negation or exclusion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who / one who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure; belonging to, of the kind of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was / is",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "هُودًا",
+      "transliteration": "hūdan",
+      "meaning": "a Jew",
+      "root": {
+        "letters": "هـ-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to desire, to wish; alternative conjunction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "نَصَارَىٰ",
+      "transliteration": "naṣāran",
+      "meaning": "Christians",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to support"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "pause marker (sukun)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "that is / those are",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, or to point out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَمَانِيُّهُمْ",
+      "transliteration": "amāniyyuhum",
+      "meaning": "their wishes / their desires",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "أَمَانِي",
+          "meaning": "wishes, desires (plural form)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "pause marker (sukun)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "قُل",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, utter, relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "هَاتُوا",
+      "transliteration": "hātū",
+      "meaning": "bring forth / produce!",
+      "root": {
+        "letters": "ح-ي-ت",
+        "meaning": "life, existence; to come into being, to live"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بُرْهَانَكُمْ",
+      "transliteration": "burhānukum",
+      "meaning": "your proof / your evidence",
+      "root": {
+        "letters": "ب-ر-ه",
+        "meaning": "to be clear, evident, to shine; clarity, brightness, proof"
+      },
+      "components": [
+        {
+          "arabic": "بُرْهَانَ",
+          "meaning": "proof, evidence (accusative case)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if / indeed",
+      "root": {
+        "letters": "ا-ن-و",
+        "meaning": "existence, being, confirmation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were/are (root form)"
+        },
+        {
+          "arabic": "-تُم",
+          "meaning": "second-person masculine plural pronoun suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "صَادِقِينَ",
+      "transliteration": "ṣādiqīn",
+      "meaning": "truthful / honest",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to speak the truth, to be true"
+      },
+      "components": [
+        {
+          "arabic": "صَادِق",
+          "meaning": "truthful (masculine singular)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural marker for masculine humans"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they said never will-enter the-Paradise except who was a-Jew or Christians - that is their-wishes say! bring-forth your-proof if you are truthful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

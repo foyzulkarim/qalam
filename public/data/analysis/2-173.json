@@ -1,0 +1,428 @@
+{
+  "verseId": "2:173",
+  "verse": {
+    "arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ۖ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ ۚ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+    "transliteration": "Innama harrama AAalaykumu almaytata waalddama walahma alkhinzeeri wama ohilla bihi lighayri Allahi famani idturra ghayra baghin wala AAadin fala ithma AAalayhi inna Allaha ghafoorun raheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 173
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "only, indeed only",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict, to specify"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphasizer)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which (relative pronoun functioning as a limiter)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَرَّمَ",
+      "transliteration": "ḥarrama",
+      "meaning": "forbidden, prohibited",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to restrict, to prohibit, inviolability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْكُمُ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority; elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَيْتَةَ",
+      "transliteration": "al-maytah",
+      "meaning": "the dead animal, carcass",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَيْتَة",
+          "meaning": "dead animal, carcass (derived from موت)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الدَّمَ",
+      "transliteration": "ad-dam",
+      "meaning": "the blood",
+      "root": {
+        "letters": "د-م-و",
+        "meaning": "to flow, to gush forth, to coagulate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَحْمَ",
+      "transliteration": "wa-laḥma",
+      "meaning": "and the flesh of",
+      "root": {
+        "letters": "ل-ح-م",
+        "meaning": "to possess flesh, to be fleshy; meat itself"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَحْمَ",
+          "meaning": "the flesh, meat (accusative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْخِنزِيرِ",
+      "transliteration": "al-khinzīr",
+      "meaning": "the swine, the pig",
+      "root": {
+        "letters": "خ-ن-ز",
+        "meaning": "to be humble, to degrade; also related to dirtiness or uncleanliness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what, and whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أُهِلَّ",
+      "transliteration": "uhilla",
+      "meaning": "was dedicated, was consecrated",
+      "root": {
+        "letters": "ه-ل-ل",
+        "meaning": "to become devoted, to change state or condition (often towards religious dedication)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past passive voice and/or dedication."
+        },
+        {
+          "arabic": "هَلَّ",
+          "meaning": "to dedicate, consecrate; to change state significantly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "to it, upon it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "to it, upon it (pronoun suffix referring to a masculine singular noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لِغَيْرِ",
+      "transliteration": "li-ghayr",
+      "meaning": "for other than",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to be other than, to lack, deficiency"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "غَيْرِ",
+          "meaning": "other than, besides"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allah",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the deity itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَمَنِ",
+      "transliteration": "fa-man",
+      "meaning": "then whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, or origin"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَنِ",
+          "meaning": "whoever, whichever person"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اضْطُرَّ",
+      "transliteration": "iḍṭurra",
+      "meaning": "was forced, was compelled",
+      "root": {
+        "letters": "ض-رّ-ا",
+        "meaning": "to be narrow, constricted; to suffer need or harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "غَيْرَ",
+      "transliteration": "ghayra",
+      "meaning": "not, without",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "absence, lack, otherness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بَاغٍ",
+      "transliteration": "bāghin",
+      "meaning": "desiring, wanting",
+      "root": {
+        "letters": "ب-غ-ي",
+        "meaning": "to desire something illicitly, to transgress or exceed boundaries"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَادٍ",
+      "transliteration": "ʿādin",
+      "meaning": "transgressing, exceeding (the limit)",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "hostility, enmity; to deviate from the right path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then not, so there is no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be impossible"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "إِثْمَ",
+      "transliteration": "ithm",
+      "meaning": "sin, guilt",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to conceal, to hide; to do evil secretly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to be above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "a particle emphasizing the following statement; indeed, surely"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allah",
+      "meaning": "Allah (the God)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūr",
+      "meaning": "Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover up, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "رَّحِيمٌ",
+      "transliteration": "rahīm",
+      "meaning": "Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "To have compassion; to be kind and tender."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-only forbidden-upon-you the-dead-animal and-the-blood and-the-flesh-of the-swine and-what was-dedicated to-other-than Allah - then-whoever was-forced not-desiring and-not transgressing so-there-is-no sin upon-him – Indeed Allah Forgiving Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

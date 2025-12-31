@@ -1,0 +1,161 @@
+{
+  "verseId": "2:202",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ لَهُمْ نَصِيبٌ مِّمَّا كَسَبُوا ۚ وَاللَّهُ سَرِيعُ الْحِسَابِ",
+    "transliteration": "Olaika lahum naseebun mimma kasaboo waAllahu sareeAAu alhisabi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 202
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (masculine plural)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, to begin; the initial part of something"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (demonstrative pronoun prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Suffix indicating masculine plural 'those'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them (masculine plural possessive pronoun)",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to belong, to possess, to have"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَصِيبٌ",
+      "transliteration": "naṣībun",
+      "meaning": "A share, portion",
+      "root": {
+        "letters": "ن-ص-ب",
+        "meaning": "to share out, to apportion; inclination, effort"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّمَّا",
+      "transliteration": "mim mā",
+      "meaning": "From what",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "prohibition, prevention, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَسَبُوا",
+      "transliteration": "kasabū",
+      "meaning": "They earned, acquired",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to earn, to strive for"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "they (masculine plural prefix)"
+        },
+        {
+          "arabic": "سَبُوا",
+          "meaning": "acquired, earned (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "And Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The deity; to worship; the one God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَرِيعُ",
+      "transliteration": "sarīʿu",
+      "meaning": "Swift, quick",
+      "root": {
+        "letters": "س-ر-ع",
+        "meaning": "To hasten, to be quick"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْحِسَابِ",
+      "transliteration": "al-ḥisābi",
+      "meaning": "The account, reckoning",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to count, calculate, suffice"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حِسَابِ",
+          "meaning": "account, reckoning (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-for them-a share-from what-they earned-and Allah-swift-the account"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

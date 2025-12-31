@@ -1,0 +1,136 @@
+{
+  "verseId": "2:2",
+  "verse": {
+    "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+    "transliteration": "Thalika alkitabu la rayba feehi hudan lilmuttaqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (demonstrative pronoun)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, having"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْكِتَابُ",
+      "transliteration": "al-kitābu",
+      "meaning": "the book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording, composing"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "no, not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَيْبَ",
+      "transliteration": "rayba",
+      "meaning": "doubt, uncertainty",
+      "root": {
+        "letters": "ر-ي-ب",
+        "meaning": "to be doubtful, to have uncertainty; defect, flaw"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to reside"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هُدًى",
+      "transliteration": "hudan",
+      "meaning": "guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لِّلْمُتَّقِينَ",
+      "transliteration": "lil-muttaqīna",
+      "meaning": "for the righteous, for those conscious of Allah",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, to shield, to be cautious"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُتَّقِينَ",
+          "meaning": "the righteous, the cautious, those conscious of Allah"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "That-the book - no doubt - in it - guidance - for the righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

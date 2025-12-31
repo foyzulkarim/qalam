@@ -1,0 +1,219 @@
+{
+  "verseId": "2:6",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+    "transliteration": "Inna allatheena kafaroo sawaon AAalayhim aanthartahum am lam tunthirhum la yuminoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "to confirm, to establish truth"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "Disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, to conceal; ultimately relating to the rejection of gratitude or truth."
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Prefix indicating the passive voice or a state of being."
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "They disbelieved (verb, third person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَوَاءٌ",
+      "transliteration": "sawāʾun",
+      "meaning": "Equal, the same",
+      "root": {
+        "letters": "س-و-ا",
+        "meaning": "To be equal, to resemble, to be alike"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them, for them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, for"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَأَنذَرْتَهُمْ",
+      "transliteration": "ʾa-ʾandhartahum",
+      "meaning": "[Did] you warn them?",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle indicating a question"
+        },
+        {
+          "arabic": "أَن",
+          "meaning": "to warn (verbal noun form)"
+        },
+        {
+          "arabic": "ذَرْتَ",
+          "meaning": "you warned (second person masculine singular)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (third person masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-م",
+        "meaning": "to desire, to intend, or to doubt/hesitate (related to branching paths)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "To desire, to will; negation/absence of something desired."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تُنذِرْهُمْ",
+      "transliteration": "tunḏirhum",
+      "meaning": "[Did] you not warn them?",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "نْ",
+          "meaning": "particle of emphasis/repetition related to the verb"
+        },
+        {
+          "arabic": "ذِرْ",
+          "meaning": "the root verb in the present/future tense, relating to warning."
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yuʾminūn",
+      "meaning": "They believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, to be safe"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural subject"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "believe (second person plural)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine subject"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-those-who-disbelieved-equal-upon-them-[whether]-you-warned-them-or-not-they-do-not-believe"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

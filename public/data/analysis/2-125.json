@@ -1,0 +1,404 @@
+{
+  "verseId": "2:125",
+  "verse": {
+    "arabic": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ وَالرُّكَّعِ السُّجُودِ",
+    "transliteration": "Waith jaAAalna albayta mathabatan lilnnasi waamnan waittakhithoo min maqami ibraheema musallan waAAahidna ila ibraheema waismaAAeela an tahhira baytiya lilttaifeena waalAAakifeena waalrrukkaAAi alssujoodi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 125
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, behold",
+      "root": {
+        "letters": "أ-ذ-ح",
+        "meaning": "to perceive, to witness, to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَعَلْنَا",
+      "transliteration": "jaʿalnā",
+      "meaning": "We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made (verb base)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us, We (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْبَيْتَ",
+      "transliteration": "al-bayta",
+      "meaning": "the House",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to build, to reside; house, dwelling"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَثَابَةً",
+      "transliteration": "mathābah(an)",
+      "meaning": "a place of return, a resort",
+      "root": {
+        "letters": "ث-و-ب",
+        "meaning": "to return, to come back; to stand or dwell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِّلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be unaware; people (as those who may forget their Lord)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَمْنًا",
+      "transliteration": "amnan",
+      "meaning": "security, safety",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to trust, have faith"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اتَّخِذُوا",
+      "transliteration": "ittakhidhū",
+      "meaning": "take, adopt",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to seize, to choose, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix indicating repeated or thorough action"
+        },
+        {
+          "arabic": "خذ",
+          "meaning": "to take, seize"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating plural imperative (take!/adopt!)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, be less, originate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَّقَامِ",
+      "transliteration": "maqāmi",
+      "meaning": "the standing place, station",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise; a people, tribe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be firm, strong, powerful; to cultivate or improve; to explain clearly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مُصَلًّى",
+      "transliteration": "muṣallan",
+      "meaning": "a place of prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to perform ritual prayer; to connect or link (metaphorically)"
+      },
+      "components": [
+        {
+          "arabic": "مُصَلًّى",
+          "meaning": "a place designated or prepared for prayer; a mosque or prayer area. The passive participle indicates 'being prayed in' or 'having prayer performed upon it'."
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَعَهِدْنَا",
+      "transliteration": "waʿahidnā",
+      "meaning": "and We charged, and We made a covenant",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to make a covenant, to entrust, to promise"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَهِدْنَا",
+          "meaning": "We charged, We made a covenant"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, towards",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to incline, turn towards; to reach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be powerful, to be strong; to break or shatter (something hard)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَإِسْمَاعِيلَ",
+      "transliteration": "wa ismāʿīla",
+      "meaning": "and Ishmael",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْمَاعِيلَ",
+          "meaning": "Ishmael (name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "طَهِّرَا",
+      "transliteration": "ṭahhirā",
+      "meaning": "purify (you two)",
+      "root": {
+        "letters": "ﻁ-هـ-ر",
+        "meaning": "to be clean, to purify, purity"
+      },
+      "components": [
+        {
+          "arabic": "طَهِّر",
+          "meaning": "purify (imperative, singular masculine)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "dual pronoun suffix (you two)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "بَيْتِيَ",
+      "transliteration": "baytiya",
+      "meaning": "My House",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to build, structure, dwelling"
+      },
+      "components": [
+        {
+          "arabic": "بَيْتِي",
+          "meaning": "My house (possessive)"
+        },
+        {
+          "arabic": "ـيَ",
+          "meaning": "My (possessive suffix, first person singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "لِلطَّائِفِينَ",
+      "transliteration": "li-ṭ-ṭāʾifīna",
+      "meaning": "for those who perform Tawaf, circumambulators",
+      "root": {
+        "letters": "ط-و-ف",
+        "meaning": "to encircle, to go around repeatedly"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الطَّائِفِينَ",
+          "meaning": "those who circumambulate, the circumambulators"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَالْعَاكِفِينَ",
+      "transliteration": "wal-ʿākifīna",
+      "meaning": "and those who are staying [there] for worship, devotees",
+      "root": {
+        "letters": "ع-ك-ف",
+        "meaning": "to stay, to devote oneself, to concentrate (on something)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَاكِفِينَ",
+          "meaning": "those who are staying (for worship), devotees (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَالرُّكَّعِ",
+      "transliteration": "war-rukkaʿi",
+      "meaning": "and those who bow [in prayer]",
+      "root": {
+        "letters": "ر-ك-ع",
+        "meaning": "to bow, to incline, humility"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الرُّكَّعِ",
+          "meaning": "the bowers (those who bow in prayer)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "السُّجُودِ",
+      "transliteration": "as-sujudī",
+      "meaning": "the prostrators [in prayer]",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to lower oneself in humility"
+      },
+      "components": [
+        {
+          "arabic": "السِّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جُودِ",
+          "meaning": "prostrators (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-when We-made the House a-place-of-return for-the-people and security. And take from the standing-place of Abraham a place-of-prayer. And We-charged to Abraham and Ishmael that purify My House for those who perform Tawaf and those who are staying [there] for worship and those who bow and prostrators [in prayer]."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

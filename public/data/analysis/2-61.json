@@ -1,0 +1,1057 @@
+{
+  "verseId": "2:61",
+  "verse": {
+    "arabic": "وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنبِتُ الْأَرْضُ مِن بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ",
+    "transliteration": "Waith qultum ya moosa lan nasbira AAala taAAamin wahidin faodAAu lana rabbaka yukhrij lana mimma tunbitu alardu min baqliha waqiththaiha wafoomiha waAAadasiha wabasaliha qala atastabdiloona allathee huwa adna biallathee huwa khayrun ihbitoo misran fainna lakum ma saaltum waduribat AAalayhimu alththillatu waalmaskanatu wabaoo bighadabin mina Allahi thalika biannahum kanoo yakfuroona biayati Allahi wayaqtuloona alnnabiyyeena bighayri alhaqqi thalika bima AAasaw wakanoo yaAAtadoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 61
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when/and behold",
+      "root": {
+        "letters": "و-ذ-ح",
+        "meaning": "to perceive, to be aware, to witness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when/behold (particle of time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُلْتُمْ",
+      "transliteration": "qultum",
+      "meaning": "you said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قل",
+          "meaning": "say (command form)"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "you (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "to draw out water, to weaken, to perish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَن نَّصْبِرَ",
+      "transliteration": "lan naṣbir",
+      "meaning": "we will not endure/we cannot bear",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to be patient, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "لَن",
+          "meaning": "will not"
+        },
+        {
+          "arabic": "نَصْبِرَ",
+          "meaning": "we endure/bear (future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "طَعَامٍ",
+      "transliteration": "ṭaʿāmin",
+      "meaning": "food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, nourishment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَاحِدٍ",
+      "transliteration": "wāḥidin",
+      "meaning": "one/single",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, to unify, singularity"
+      },
+      "components": [
+        {
+          "arabic": "وَاحِد",
+          "meaning": "one, single (masculine)"
+        },
+        {
+          "arabic": "ـٍ",
+          "meaning": "tanween al-nakrah (indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَادْعُ",
+      "transliteration": "fādʿu",
+      "meaning": "so call/then invoke",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of exhortation)"
+        },
+        {
+          "arabic": "اِدْعُ",
+          "meaning": "call/invoke (imperative verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "for us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "رَبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يُخْرِجْ",
+      "transliteration": "yukhrij",
+      "meaning": "He brings forth/may He produce",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come forth, to produce"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present/future tense, and first person singular (with subjunctive mood)"
+        },
+        {
+          "arabic": "خْرِجْ",
+          "meaning": "to bring forth, to produce (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "for us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِمَّا",
+      "transliteration": "mimmā",
+      "meaning": "from what/of that which",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, prevent; to originate from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تُنْبِتُ",
+      "transliteration": "tunbitu",
+      "meaning": "it grows/which it produces",
+      "root": {
+        "letters": "ن-ب-ت",
+        "meaning": "to sprout, to grow, to produce"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بَقْلِهَا",
+      "transliteration": "baqlihā",
+      "meaning": "its herbs/greens",
+      "root": {
+        "letters": "ب-ق-ل",
+        "meaning": "to sprout, to be green; herb, vegetable"
+      },
+      "components": [
+        {
+          "arabic": "بَقْل",
+          "meaning": "herbs, greens"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَقِثَّائِهَا",
+      "transliteration": "waqiṯṭāʾihā",
+      "meaning": "and its cucumbers",
+      "root": {
+        "letters": "ق-ث-أ",
+        "meaning": "to be fresh, cool, or to grow rapidly; also related to the flesh of plants"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قِثَّائِهَا",
+          "meaning": "its cucumbers (referring to a type of gourd or melon)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَفُومِهَا",
+      "transliteration": "wafūmihā",
+      "meaning": "and its garlic",
+      "root": {
+        "letters": "ف-و-م",
+        "meaning": "mouth, opening; also related to smell and decay (due to association with breath)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "فُومِهَا",
+          "meaning": "its garlic (specifically the garlic from it/her)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَعَدَسِهَا",
+      "transliteration": "waʿadasihā",
+      "meaning": "and its lentils",
+      "root": {
+        "letters": "ع-د-س",
+        "meaning": "to be smooth, to cool, to lend (money); lentils"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَدَسِهَا",
+          "meaning": "her lentils"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَبَصَلِهَا",
+      "transliteration": "wabaṣalihā",
+      "meaning": "and its onions",
+      "root": {
+        "letters": "ب-ص-ل",
+        "meaning": "to be smooth, to be abundant; also related to vegetable growth and reaching maturity."
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "بَصَلِهَا",
+          "meaning": "its onions (specifically referring to the onions of Egypt)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَتَسْتَبْدِلُونَ",
+      "transliteration": "ʾatastabdilūna",
+      "meaning": "do you exchange/would you substitute",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to replace, substitute, exchange"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "interrogative particle indicating a question"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine plural (you)"
+        },
+        {
+          "arabic": "سْتَ",
+          "meaning": "indicates seeking or attempting (form II conjugation)"
+        },
+        {
+          "arabic": "بَدَلَ",
+          "meaning": "to replace, substitute"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person masculine plural (you - verb ending)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "that which/the one",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, having quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "possessing, owner of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it is/which is",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "أَدْنَىٰ",
+      "transliteration": "ʾadnaa",
+      "meaning": "lesser/inferior",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble, near; inferiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "بِالَّذِي",
+      "transliteration": "billaḏī",
+      "meaning": "for that which/with the one",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to be, existence; to go away, depart"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, for, by means of"
+        },
+        {
+          "arabic": "الَّذِي",
+          "meaning": "the one who, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it is/which is",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to be; existence, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better/good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "اهْبِطُوا",
+      "transliteration": "ihbiṭū",
+      "meaning": "go down/descend",
+      "root": {
+        "letters": "ه-ب-ط",
+        "meaning": "to descend, to go down"
+      },
+      "components": [
+        {
+          "arabic": "اهْبِ",
+          "meaning": "imperative prefix for 'you (plural)' + base of verb"
+        },
+        {
+          "arabic": "طُوا",
+          "meaning": "pronoun suffix indicating 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "مِصْرًا",
+      "transliteration": "miṣran",
+      "meaning": "Egypt",
+      "root": {
+        "letters": "م-ص-ر",
+        "meaning": "to constrain, to bind tightly; also, name of a country"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed/for surely",
+      "root": {
+        "letters": "إ-نَّ-ى",
+        "meaning": "affirmation, truthfulness, certainty"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "لَكُم",
+      "transliteration": "lakum",
+      "meaning": "for you/yours",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "سَأَلْتُمْ",
+      "transliteration": "saʾaltum",
+      "meaning": "you asked/requested",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire, to request"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating future tense (will)"
+        },
+        {
+          "arabic": "أَلْتُمْ",
+          "meaning": "you (plural) asked/requested"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "وَضُرِبَتْ",
+      "transliteration": "waḍuribat",
+      "meaning": "and was struck/imposed upon",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "to strike, to hit, to beat, to impose"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ضُرِبَتْ",
+          "meaning": "was struck/imposed upon (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "عَلَيْهِمُ",
+      "transliteration": "ʿalayhimu",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; to be over or upon something (in a position of power or responsibility)"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, on top of"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "الذِّلَّةُ",
+      "transliteration": "aḏ-ḏillatu",
+      "meaning": "the humiliation/abasement",
+      "root": {
+        "letters": "ذ-ل-ل",
+        "meaning": "to be humbled, to submit, weakness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِلَّة",
+          "meaning": "humiliation, abasement (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "وَالْمَسْكَنَةُ",
+      "transliteration": "wal-maskanatu",
+      "meaning": "and the poverty/destitution",
+      "root": {
+        "letters": "س-ك-ن",
+        "meaning": "to dwell, to reside; tranquility, stillness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسْكَنَة",
+          "meaning": "poverty, destitution, neediness (derived from the root indicating a state of dwelling in hardship)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "وَبَاءُوا",
+      "transliteration": "wabāʾū",
+      "meaning": "and they were afflicted/returned with",
+      "root": {
+        "letters": "ب-و-ء",
+        "meaning": "to return, to come back; to be afflicted with something undesirable"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "بِغَضَبٍ",
+      "transliteration": "bi-ghaḍabin",
+      "meaning": "with anger/by wrath",
+      "root": {
+        "letters": "غ-ض-ب",
+        "meaning": "to feel anger, to be wrathful, aversion"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَضَبٍ",
+          "meaning": "anger, wrath"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be possessed of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah/God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; divinity, godhood. The root conveys the concept of being worthy of adoration and submission."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "ḏālika",
+      "meaning": "that/this is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "suffix pronoun - 'you (masculine singular)' or emphatic suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "بِأَنَّهُمْ",
+      "transliteration": "biʾannahum",
+      "meaning": "because of them/due to their",
+      "root": {
+        "letters": "أ-ن-ه",
+        "meaning": "to be/existence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with/by/in (preposition)"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that/because"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were/used to be (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "يَكْفُرُونَ",
+      "transliteration": "yakfurūna",
+      "meaning": "they disbelieve/deny",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; thus, to be ungrateful or deny (by covering the truth)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, they (masculine plural)"
+        },
+        {
+          "arabic": "كُفُر",
+          "meaning": "disbelief, denial, ingratitude (verbal noun from the root ك-ف-ر)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating masculine plural active participle/verb form (they do)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "بِآيَاتِ",
+      "transliteration": "biʾāyāti",
+      "meaning": "in the signs/by the verses",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to be a sign, miracle"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, by means of"
+        },
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "signs, verses (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah/God",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, god"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "وَيَقْتُلُونَ",
+      "transliteration": "wayaqtulūna",
+      "meaning": "and they kill",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقْتُلُونَ",
+          "meaning": "they kill (present/future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "النَّبِيِّينَ",
+      "transliteration": "an-nabiyyīna",
+      "meaning": "the prophets",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to announce; knowledge, information"
+      },
+      "components": [
+        {
+          "arabic": "النَّبِيّ",
+          "meaning": "the prophet"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "dual indefinite marker; plural indefinite marker (depending on context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "بِغَيْرِ",
+      "transliteration": "bighayri",
+      "meaning": "without/except",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to be other than, to lack, deficiency"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "غَيْرِ",
+          "meaning": "other, lacking, without"
+        }
+      ]
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "الْحَقِّ",
+      "transliteration": "al-ḥaqqi",
+      "meaning": "the truth/right",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, real; to exist necessarily; to be right/just"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality, rightness"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "ḏālika",
+      "meaning": "that/this is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; to be low or humbled"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of/having the quality of"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to/for"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "because of what/due to that which",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in/due to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 57,
+      "arabic": "عَصَوا",
+      "transliteration": "ʿaṣaw",
+      "meaning": "they disobeyed/rebelled",
+      "root": {
+        "letters": "ع-ص-و",
+        "meaning": "to oppose, to rebel, to be disobedient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 58,
+      "arabic": "وَكَانُوا",
+      "transliteration": "wakānū",
+      "meaning": "and they were/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانُوا",
+          "meaning": "they were/used to be"
+        }
+      ]
+    },
+    {
+      "wordNumber": 59,
+      "arabic": "يَعْتَدُونَ",
+      "transliteration": "yaʿtadūna",
+      "meaning": "they transgress/overstep",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to transgress, to be hostile"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural (they)"
+        },
+        {
+          "arabic": "عَتَدُ",
+          "meaning": "to transgress, to overstep (verbal noun form)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating plural masculine active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-ʾidh - qultum - yā - mūsā - lan naṣbir - ʿalā - ṭaʿāmin - wāḥidin - fa-ʾadʿu - lanā - rabba-ka - yukhrij - lanā - mim mā - tunbitu - al-ʾarḍu - min - baqlihā - waqiṯṭāʾihā - wafūmihā - waʿadasihā - wabaṣalihā - qāla - ʾatastabdilūna - allaḏī - huwa - ʾadnaa - billaḏī - huwa - khayrun - ihbiṭū - miṣran - faʾinna - lakum - mā - saʾaltum - waḍuribat - ʿalayhimu - aḏ-ḏillatu - wal-maskanatu - wabāʾū - bi-ghaḍabin - mina - allāhi - ḏālika - biʾannahum - kānū - yakfurūna - biʾāyāti - allāhi - wayaqtulūna - an-nabiyyīna - bighayri - al-ḥaqqi - ḏālika - bimā - ʿaṣaw - wakānū - yaʿtadūna"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

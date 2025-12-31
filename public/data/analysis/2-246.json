@@ -1,0 +1,903 @@
+{
+  "verseId": "2:246",
+  "verse": {
+    "arabic": "أَلَمْ تَرَ إِلَى الْمَلَإِ مِن بَنِي إِسْرَائِيلَ مِن بَعْدِ مُوسَىٰ إِذْ قَالُوا لِنَبِيٍّ لَّهُمُ ابْعَثْ لَنَا مَلِكًا نُّقَاتِلْ فِي سَبِيلِ اللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ الْقِتَالُ أَلَّا تُقَاتِلُوا ۖ قَالُوا وَمَا لَنَا أَلَّا نُقَاتِلَ فِي سَبِيلِ اللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَارِنَا وَأَبْنَائِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ تَوَلَّوْا إِلَّا قَلِيلًا مِّنْهُمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+    "transliteration": "Alam tara ila almalai min banee israeela min baAAdi moosa ith qaloo linabiyyin lahumu ibAAath lana malikan nuqatil fee sabeeli Allahi qala hal AAasaytum in kutiba AAalaykumu alqitalu alla tuqatiloo qaloo wama lana alla nuqatila fee sabeeli Allahi waqad okhrijna min diyarina waabnaina falamma kutiba AAalayhimu alqitalu tawallaw illa qaleelan minhum waAllahu AAaleemun bialththalimeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 246
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Have not... (negative interrogative particle)",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to wish, to know"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle (not)"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past tense negative marker (have not)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَ",
+      "transliteration": "tara",
+      "meaning": "You see, you perceive",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "To, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to incline towards, to be near"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَلَإِ",
+      "transliteration": "al-malʾi",
+      "meaning": "The assembly, the elite group",
+      "root": {
+        "letters": "م-ل-أ",
+        "meaning": "to be full, to fill, to become complete or crowded"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَأ",
+          "meaning": "assembly, elite group, the full/crowded ones"
+        },
+        {
+          "arabic": "إِ",
+          "meaning": "genitive marker (indicating possession or relationship)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "origin, source, extraction; to decrease or diminish (related to removing something from a whole)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بَنِي",
+      "transliteration": "banī",
+      "meaning": "Children of, descendants of",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; also, to have sons"
+      },
+      "components": [
+        {
+          "arabic": "بِنِ",
+          "meaning": "relational possessive marker; 'of'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِسْرَائِيلَ",
+      "transliteration": "ʾisrāʾīla",
+      "meaning": "Israel (Jacob)",
+      "root": {
+        "letters": "س-ر-ع",
+        "meaning": "to hasten, to travel quickly; to go at night"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "After, following",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَعْدِ",
+      "transliteration": "baʿdi",
+      "meaning": "After (genitive case)",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "بَعْد",
+          "meaning": "after, following"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (possessive/prepositional)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "to draw water, to pull out; weakness, vulnerability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِذْ",
+      "transliteration": "ʾidh",
+      "meaning": "When, at the time when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to perceive, to be aware of, to feel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَال",
+          "meaning": "He said (past tense)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "They (masculine plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لِنَبِيٍّ",
+      "transliteration": "linabiyyin",
+      "meaning": "To a prophet",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to announce; related to knowledge and divine communication"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "نَبِيٍّ",
+          "meaning": "prophet"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَّهُمُ",
+      "transliteration": "lahum",
+      "meaning": "For them, of theirs",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ابْعَثْ",
+      "transliteration": "ibʿath",
+      "meaning": "Send forth, dispatch",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to originate, to send forth, to raise up"
+      },
+      "components": [
+        {
+          "arabic": "اِبْ",
+          "meaning": "prefix indicating imperative mood, often with a causative sense"
+        },
+        {
+          "arabic": "عَثْ",
+          "meaning": "to send forth, to dispatch (stem from the root ب-ع-ث)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong, to possess"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مَلِكًا",
+      "transliteration": "malikan",
+      "meaning": "A king",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, ownership; to have power or dominion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "نُقَاتِلْ",
+      "transliteration": "nuqātil",
+      "meaning": "We fight",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to fight"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun)"
+        },
+        {
+          "arabic": "قَاتِلْ",
+          "meaning": "fighter, one who fights (verbal noun/active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, on",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "The way, the path (of)",
+      "root": {
+        "letters": "س-ب-ا",
+        "meaning": "to flow, to go on a path; way, road"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Of Allah, belonging to Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, god"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "له",
+          "meaning": "To Him, belonging to Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to declare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "Is it...?, Perhaps...?",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عَسَيْتُمْ",
+      "transliteration": "ʿasaytum",
+      "meaning": "Do you fear, would you perhaps...",
+      "root": {
+        "letters": "ع-س-ي",
+        "meaning": "to hope, to expect, to fear (in a hopeful way)"
+      },
+      "components": [
+        {
+          "arabic": "عَسَى",
+          "meaning": "perhaps, hopefully"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "you (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "If, when",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also used to form conditional clauses"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "كُتِبَ",
+      "transliteration": "kutiba",
+      "meaning": "It was prescribed, it was written",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كُتِبَ",
+          "meaning": "was written, was prescribed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "عَلَيْكُمُ",
+      "transliteration": "ʿalaykum",
+      "meaning": "Upon you, for you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; to be over, upon, in relation to"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, for"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "الْقِتَالُ",
+      "transliteration": "al-qitālu",
+      "meaning": "The fighting",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "To kill, to destroy; encompassing conflict and exertion"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "قِتَالُ",
+          "meaning": "Fighting, combat (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "أَلَّا",
+      "transliteration": "ʾallā",
+      "meaning": "That... not",
+      "root": {
+        "letters": "ل-و-ا",
+        "meaning": "to desire, to will, to wish; negation or absence of something"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negation particle, not"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "particle of prohibition or negation; also indicates purpose with 'أنّ' as here, meaning 'that... not'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "تُقَاتِلُوا",
+      "transliteration": "tuqātilū",
+      "meaning": "You fight (not)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, fighting, destruction"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "Prefix indicating 'you (plural)'"
+        },
+        {
+          "arabic": "قَاتِلُوا",
+          "meaning": "fight (imperative plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "And what, why",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be the owner of; also questioning/interrogation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, why, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "To belong to, be ours; possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "For, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us, we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "أَلَّا",
+      "transliteration": "ʾallā",
+      "meaning": "That... not",
+      "root": {
+        "letters": "ل-و-ا",
+        "meaning": "to wish, to will, negation/absence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "particle introducing a clause, for emphasis or condition"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "نُقَاتِلَ",
+      "transliteration": "nuqātila",
+      "meaning": "We fight (not)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, fighting, destruction"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "قَاتَلَ",
+          "meaning": "to fight, to contend"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, on",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; abounding in something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "The way, the path (of)",
+      "root": {
+        "letters": "س-ب-ا",
+        "meaning": "to flow, to go, to take a path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Of Allah, belonging to Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God; Divine Being"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Allah (genitive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "وَقَدْ",
+      "transliteration": "wa qad",
+      "meaning": "And indeed, and already",
+      "root": {
+        "letters": "ق-د-ع",
+        "meaning": "to hold back, to restrain, to be able"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed, already; indicates completion or certainty"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "أُخْرِجْنَا",
+      "transliteration": "ʾukhrijnā",
+      "meaning": "We were driven out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "أُخْرِجْ",
+          "meaning": "command/imperative form of 'to take out'"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "دِيَارِنَا",
+      "transliteration": "diyārinā",
+      "meaning": "Our homes",
+      "root": {
+        "letters": "د-ي-ر",
+        "meaning": "to dwell, abide, live; a place of dwelling"
+      },
+      "components": [
+        {
+          "arabic": "ديار",
+          "meaning": "home, abode, dwelling place"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "وَأَبْنَائِنَا",
+      "transliteration": "wa ʾabnāʾinā",
+      "meaning": "And our children",
+      "root": {
+        "letters": "أ-ب-ن",
+        "meaning": "to have sons; progeny, children"
+      },
+      "components": [
+        {
+          "arabic": "أَبْنَاء",
+          "meaning": "children, sons"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "فَلَمَّا",
+      "transliteration": "falammā",
+      "meaning": "So when, and when",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to intend; to seek something"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "the particle 'la' indicating an oath or emphasizing the following verb"
+        },
+        {
+          "arabic": "مَـ",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "كُتِبَ",
+      "transliteration": "kutiba",
+      "meaning": "It was prescribed, it was written",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كُتِبَ",
+          "meaning": "was written, was prescribed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "عَلَيْهِمُ",
+      "transliteration": "ʿalayhimu",
+      "meaning": "Upon them, for them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; to be over or upon something in power/responsibility"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "الْقِتَالُ",
+      "transliteration": "al-qitālu",
+      "meaning": "The fighting",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "To kill, to destroy, to fight; exertion of effort (often involving destruction or overcoming)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The definite article"
+        },
+        {
+          "arabic": "قِتَالُ",
+          "meaning": "Fighting, combat (verbal noun derived from the root ق-ت-ل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "تَوَلَّوْا",
+      "transliteration": "tawallaw",
+      "meaning": "They turned away",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to neglect, to be responsible for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "Except, but",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, exception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "A little, few",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to diminish, to be few, to decrease"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "From them, of them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "And Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to be worshipped; the God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīm",
+      "meaning": "Knowing, aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "بِالظَّالِمِينَ",
+      "transliteration": "biẓ-ẓālimīna",
+      "meaning": "Of the wrongdoers, with the oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, oppression, darkness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in (preposition)"
+        },
+        {
+          "arabic": "الظَّالِمِينَ",
+          "meaning": "the wrongdoers, the oppressors (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-not you see to the assembly from children-of Israel from after Moses when they said to a prophet of theirs, \"Send to us a king and we fight in the way-of Allah?\" He said, \"Do you fear if it was prescribed upon you the fighting that not you fight?\" They said, \"And what for us that not we fight in the way-of Allah and already were driven-out from our homes and from our children?\" So when it was prescribed upon them the fighting they turned-away except little from them. And Allah Knowing of the wrongdoers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

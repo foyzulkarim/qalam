@@ -1,0 +1,196 @@
+{
+  "verseId": "2:156",
+  "verse": {
+    "arabic": "الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+    "transliteration": "Allatheena itha asabathum museebatun qaloo inna lillahi wainna ilayhi rajiAAoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 156
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess a quality or attribute"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to go away, to depart; to be aware of, to perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَصَابَتْهُم",
+      "transliteration": "aṣābat-hum",
+      "meaning": "struck them, befell them",
+      "root": {
+        "letters": "ص-و-ب",
+        "meaning": "to strike, to affect, to reach (something)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past tense and active voice"
+        },
+        {
+          "arabic": "صَابَ",
+          "meaning": "to strike, to affect"
+        },
+        {
+          "arabic": "-تْ",
+          "meaning": "feminine singular past tense marker"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُّصِيبَةٌ",
+      "transliteration": "muṣībah",
+      "meaning": "a disaster, calamity",
+      "root": {
+        "letters": "ص-و-ب",
+        "meaning": "to hit, strike; to direct towards a target; to befall"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "indeed we, surely we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lil-lahi",
+      "meaning": "to Allah, for Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, deity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَإِنَّا",
+      "transliteration": "wa-innā",
+      "meaning": "and indeed we, and surely we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates affirmation and emphasis"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّا",
+          "meaning": "indeed we, surely we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ilayhi",
+      "meaning": "to Him, unto Him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards, to incline"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, toward"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَاجِعُونَ",
+      "transliteration": "rājiʿūn",
+      "meaning": "returning, we will return",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back"
+      },
+      "components": [
+        {
+          "arabic": "رَاجِع",
+          "meaning": "returning (active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural pronoun suffix, indicating 'we')"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who when struck-them a-disaster they-said indeed-we to-Allah and-indeed-we to-Him returning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

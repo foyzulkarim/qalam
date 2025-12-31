@@ -1,0 +1,267 @@
+{
+  "verseId": "2:182",
+  "verse": {
+    "arabic": "فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَا إِثْمَ عَلَيْهِ ۚ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+    "transliteration": "Faman khafa min moosin janafan aw ithman faaslaha baynahum fala ithma AAalayhi inna Allaha ghafoorun raheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 182
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَنْ",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; also, weakness or frailty (in some derivatives)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "whoever, whosoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَافَ",
+      "transliteration": "khāfa",
+      "meaning": "feared",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid; shrinking or withdrawal from something perceived as dangerous"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be separate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُّوصٍ",
+      "transliteration": "mūṣin",
+      "meaning": "a testator/bequeather",
+      "root": {
+        "letters": "و-ص-ي",
+        "meaning": "to entrust, to commend, to bequeath"
+      },
+      "components": [
+        {
+          "arabic": "مُ",
+          "meaning": "passive participle marker"
+        },
+        {
+          "arabic": "وص",
+          "meaning": "to entrust, to bequeath (root)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "pronoun suffix indicating 'one who'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَنَفًا",
+      "transliteration": "janafan",
+      "meaning": "deviation/error",
+      "root": {
+        "letters": "ج-ن-و",
+        "meaning": "to stray, to deviate, to be crooked"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire; or (as a conjunction expressing alternatives)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِثْمًا",
+      "transliteration": "ithman",
+      "meaning": "sin/wrongdoing",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to conceal, to hide; also, evil, wrongdoing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَأَصْلَحَ",
+      "transliteration": "fa-aṣlaḥa",
+      "meaning": "so corrected/repaired",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be free from flaws or defects, to repair, improve, rectify; peace, correctness"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَصْلَحَ",
+          "meaning": "he corrected, he repaired (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَيْنَهُمْ",
+      "transliteration": "baynahum",
+      "meaning": "between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, interval"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between, in the midst of"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "so no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "no, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِثْمَ",
+      "transliteration": "ithma",
+      "meaning": "sin/wrongdoing",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to disobey, to be wicked; transgression"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to elevate; superiority, dependence"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed/verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed/verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūrun",
+      "meaning": "Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive; to cover, conceal; to grant respite"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رَّحِيمٌ",
+      "transliteration": "raḥīmun",
+      "meaning": "Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "To have compassion; to show mercy and kindness"
+      },
+      "components": [
+        {
+          "arabic": "رَحِيم",
+          "meaning": "Merciful, compassionate; possessing the quality of raḥmah (mercy)"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "Tanwīn al-fath (masculine indefinite)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-whoever feared from a-testator deviation or sin so-corrected between them so-no sin upon him indeed-Allah Forgiving Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

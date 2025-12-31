@@ -1,0 +1,226 @@
+{
+  "verseId": "2:10",
+  "verse": {
+    "arabic": "فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
+    "transliteration": "Fee quloobihim maradun fazadahumu Allahu maradan walahum AAathabun aleemun bima kanoo yakthiboona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُلُوبِهِم",
+      "transliteration": "qulūbihim",
+      "meaning": "their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change; heart (as the turner of emotions and states)"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural)"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّرَضٌ",
+      "transliteration": "maraḍun",
+      "meaning": "disease, sickness",
+      "root": {
+        "letters": "م-ر-ض",
+        "meaning": "to be sick, to weaken, infirmity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَزَادَهُمُ",
+      "transliteration": "fa-zādahum",
+      "meaning": "so He increased for them",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to grow"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "زَادَ",
+          "meaning": "he increased"
+        },
+        {
+          "arabic": "ـهُمُ",
+          "meaning": "for them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَرَضًا",
+      "transliteration": "maraḍan",
+      "meaning": "disease, sickness",
+      "root": {
+        "letters": "م-ض-ر",
+        "meaning": "to be weak, sick; to suffer harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَهُمْ",
+      "transliteration": "wa-lahum",
+      "meaning": "and for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to belong to, for"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَهُمْ",
+          "meaning": "for them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "punishment, torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to suffer, to be harsh or painful; to punish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَلِيمٌ",
+      "transliteration": "ʾalīmun",
+      "meaning": "painful, severe",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to be weary, to suffer, to feel pain"
+      },
+      "components": [
+        {
+          "arabic": "أَلْـ",
+          "meaning": "The definite article 'the'"
+        },
+        {
+          "arabic": "-ِيمٌ",
+          "meaning": "Active participle indicating possessing the quality of being painful or severe"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "because of what, with what",
+      "root": {
+        "letters": "م-و-د",
+        "meaning": "possession, property, having something"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were, they used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَكْذِبُونَ",
+      "transliteration": "yakdhibūna",
+      "meaning": "they lie, they used to lie",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, performative or habitual action"
+        },
+        {
+          "arabic": "كُ",
+          "meaning": "pronoun suffix indicating 'they'"
+        },
+        {
+          "arabic": "ذِبُ",
+          "meaning": "stem from the root ك-ذ-ب, relating to lying or falsehood"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "pronoun suffix indicating plural active voice ('they')"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-their hearts is-disease - so-He increased-for-them disease - and-for-them is-punishment painful - because-of what they were lie"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

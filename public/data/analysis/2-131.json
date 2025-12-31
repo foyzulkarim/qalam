@@ -1,0 +1,154 @@
+{
+  "verseId": "2:131",
+  "verse": {
+    "arabic": "إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ",
+    "transliteration": "Ith qala lahu rabbuhu aslim qala aslamtu lirabbi alAAalameena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 131
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذْ",
+      "transliteration": "ʾidh",
+      "meaning": "when, at the time of",
+      "root": {
+        "letters": "أ-ذ-ح",
+        "meaning": "to seize, to take possession of; a time or moment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, utterance; to relate, narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to him, for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, ownership"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبُّهُ",
+      "transliteration": "rabbu-hu",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَسْلِمْ",
+      "transliteration": "ʾaslim",
+      "meaning": "submit! (imperative)",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, surrender"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَسْلَمْتُ",
+      "transliteration": "ʾaslamtu",
+      "meaning": "I have submitted",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, submission"
+      },
+      "components": [
+        {
+          "arabic": "أَسْلَمَ",
+          "meaning": "submitted, surrendered"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لِرَبِّ",
+      "transliteration": "li-rabbi",
+      "meaning": "to the Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion; Lord"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "رَبِّ",
+          "meaning": "my Lord (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīn",
+      "meaning": "the worlds",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds (plural of world)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-said to-him his-Lord submit!-he said I-have-submitted to-the Lord of the-worlds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

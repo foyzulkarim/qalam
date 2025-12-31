@@ -1,0 +1,260 @@
+{
+  "verseId": "2:4",
+  "verse": {
+    "arabic": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+    "transliteration": "Waallatheena yuminoona bima onzila ilayka wama onzila min qablika wabialakhirati hum yooqinoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to have"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yu'minūna",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trust, belief"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (prefix indicating plural, present tense)"
+        },
+        {
+          "arabic": "أَمِنَ",
+          "meaning": "to believe, to trust"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (suffix indicating plural, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "in what/by what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to flow, to surge; pertaining to abundance or quantity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أُنزِلَ",
+      "transliteration": "unzila",
+      "meaning": "was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "passive marker/prefix indicating that the subject received the action"
+        },
+        {
+          "arabic": "زِلَ",
+          "meaning": "descended/revealed (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَيْكَ",
+      "transliteration": "ilayka",
+      "meaning": "to you",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to approach, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أُنزِلَ",
+      "transliteration": "unzila",
+      "meaning": "was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "passive marker/prefix indicating the passive voice (was acted upon)"
+        },
+        {
+          "arabic": "نَزَلَ",
+          "meaning": "to descend, to come down (verb in the aorist/present)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel marker (indicating aorist/present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِن قَبْلِكَ",
+      "transliteration": "min qablik(a)",
+      "meaning": "before you",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept; front, facing"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "قَبْلِكَ",
+          "meaning": "before you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِالْآخِرَةِ",
+      "transliteration": "bi-l-ʾākhirati",
+      "meaning": "in the Hereafter/by the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to come after; the end; the last part"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "الْآخِرَةِ",
+          "meaning": "the Hereafter; the last life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يُوقِنُونَ",
+      "transliteration": "yu'qinūna",
+      "meaning": "they are certain",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "to be certain, to have firm belief, to know with assurance"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense and first person plural (they)"
+        },
+        {
+          "arabic": "قِنَـ",
+          "meaning": "from the root ي-ق-ن, relating to certainty and firm belief"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating first person plural (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the ones who they believe in what was revealed to you and what was revealed before you and by the Hereafter they they are certain"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
