@@ -1,0 +1,445 @@
+{
+  "verseId": "2:90",
+  "verse": {
+    "arabic": "بِئْسَمَا اشْتَرَوْا بِهِ أَنفُسَهُمْ أَن يَكْفُرُوا بِمَا أَنزَلَ اللَّهُ بَغْيًا أَن يُنَزِّلَ اللَّهُ مِن فَضْلِهِ عَلَىٰ مَن يَشَاءُ مِنْ عِبَادِهِ ۖ فَبَاءُوا بِغَضَبٍ عَلَىٰ غَضَبٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُّهِينٌ",
+    "transliteration": "Bisama ishtaraw bihi anfusahum an yakfuroo bima anzala Allahu baghyan an yunazzila Allahu min fadlihi AAala man yashao min AAibadihi fabaoo bighadabin AAala ghadabin walilkafireena AAathabun muheenun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 90
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِئْسَمَا",
+      "transliteration": "biʾsamā",
+      "meaning": "How wretched is that (thing)",
+      "root": {
+        "letters": "س-و-ء",
+        "meaning": "badness, evil, ugliness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "preposition meaning 'with' or indicating emphasis/negation"
+        },
+        {
+          "arabic": "إِسْمَ",
+          "meaning": "name, thing named; accusative singular indefinite noun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اشْتَرَوْا",
+      "transliteration": "ishtaraw",
+      "meaning": "they bought/purchased",
+      "root": {
+        "letters": "ش-ر-ى",
+        "meaning": "to purchase, to buy, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "اِشْتَ",
+          "meaning": "intensive prefix indicating strong or repeated action"
+        },
+        {
+          "arabic": "رَو",
+          "meaning": "second person masculine plural pronoun (they)"
+        },
+        {
+          "arabic": "يَا",
+          "meaning": "past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it/by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with/by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنفُسَهُمْ",
+      "transliteration": "ʾanfusahum",
+      "meaning": "their selves/souls",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath, life"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسِ",
+          "meaning": "selves/souls (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also used to form verbal nouns and infinitives."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَكْفُرُوا",
+      "transliteration": "yakfurū",
+      "meaning": "they disbelieve/deny",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful; to deny or disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural conjugation"
+        },
+        {
+          "arabic": "كُفُرُوا",
+          "meaning": "they disbelieve/deny (derived from the root ك-ف-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "in what/by means of what",
+      "root": {
+        "letters": "م-و-د",
+        "meaning": "possession, ownership, affection, love"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَنزَلَ",
+      "transliteration": "ʾanzala",
+      "meaning": "He sent down/revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down, to lower"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "He (pronoun suffix)"
+        },
+        {
+          "arabic": "نَزَلَ",
+          "meaning": "to descend, to come down"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the object of devotion and adoration"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بَغْيًا",
+      "transliteration": "baghyan",
+      "meaning": "out of transgression/injustice",
+      "root": {
+        "letters": "ب-غ-ي",
+        "meaning": "to desire something unjustly, to covet or transgress"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يُنَزِّلَ",
+      "transliteration": "yunazzila",
+      "meaning": "He sends down/reveals",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down, to lower"
+      },
+      "components": [
+        {
+          "arabic": "يُنَ",
+          "meaning": "prefix indicating present/future tense, active voice (form IV)"
+        },
+        {
+          "arabic": "زَّلَ",
+          "meaning": "to send down, to descend (form IV root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَضْلِهِ",
+      "transliteration": "faḍlihi",
+      "meaning": "His favor/grace",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to be superior, to exceed, to grant generously"
+      },
+      "components": [
+        {
+          "arabic": "فَضْلِ",
+          "meaning": "favor, grace, bounty"
+        },
+        {
+          "arabic": "-هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who/whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be obscure, hidden; to protect or shield"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills/desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to will, to desire, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from among",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be born from, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عِبَادِهِ",
+      "transliteration": "ʿibādihi",
+      "meaning": "His servants",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, servitude, slavery"
+      },
+      "components": [
+        {
+          "arabic": "عِبَادِ",
+          "meaning": "servants (plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "فَبَاءُوا",
+      "transliteration": "fabāʾū",
+      "meaning": "So they returned/ended up",
+      "root": {
+        "letters": "ب-و-أ",
+        "meaning": "to return, to come back, to dwell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِغَضَبٍ",
+      "transliteration": "bi-ghaḍabin",
+      "meaning": "with wrath/anger",
+      "root": {
+        "letters": "غ-ض-ب",
+        "meaning": "to feel anger, to be wrathful; hostility"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَضَبٍ",
+          "meaning": "wrath, anger (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "غَضَبٍ",
+      "transliteration": "ghaḍabin",
+      "meaning": "wrath/anger",
+      "root": {
+        "letters": "غ-ض-ب",
+        "meaning": "to be angry, to feel wrath, aversion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَلِلْكَافِرِينَ",
+      "transliteration": "wa-lil-kāfirīna",
+      "meaning": "And for the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny (faith), be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الكَافِرِينَ",
+          "meaning": "the disbelievers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "punishment/torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to suffer, to be harsh or painful; to taste bitterness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مُّهِينٌ",
+      "transliteration": "muhīnun",
+      "meaning": "humiliating/degrading",
+      "root": {
+        "letters": "ه-و-ن",
+        "meaning": "weakness, lowness, inferiority; to be low or humiliated"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "How-wretched-[is that thing] they-bought-[with it] their-selves - that-they-disbelieve-[in] what He-sent-down Allah by-means-of injustice - that He-send-down Allah from His-favor upon whom He-wills from among His-servants. So-they-returned having-[earned] wrath upon wrath. And-for the disbelievers [is a] punishment humiliating."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

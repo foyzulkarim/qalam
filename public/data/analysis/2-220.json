@@ -1,0 +1,513 @@
+{
+  "verseId": "2:220",
+  "verse": {
+    "arabic": "فِي الدُّنْيَا وَالْآخِرَةِ ۗ وَيَسْأَلُونَكَ عَنِ الْيَتَامَىٰ ۖ قُلْ إِصْلَاحٌ لَّهُمْ خَيْرٌ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَانُكُمْ ۚ وَاللَّهُ يَعْلَمُ الْمُفْسِدَ مِنَ الْمُصْلِحِ ۚ وَلَوْ شَاءَ اللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+    "transliteration": "Fee alddunya waalakhirati wayasaloonaka AAani alyatama qul islahun lahum khayrun wain tukhalitoohum faikhwanukum waAllahu yaAAlamu almufsida mina almuslihi walaw shaa Allahu laaAAnatakum inna Allaha AAazeezun hakeemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 220
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "lowliness, baseness, humility; temporary existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ākhirah",
+      "meaning": "the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the last part of something"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the end, the last; the Hereafter (as an abstract concept)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۗ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَيَسْأَلُونَكَ",
+      "transliteration": "wa yasʾalūnaka",
+      "meaning": "and they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْأَلُونَكَ",
+          "meaning": "they ask you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concerning, with respect to"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "about, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْيَتَامَىٰ",
+      "transliteration": "al-yatāmā",
+      "meaning": "the orphans",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, deficient, orphaned; to lack a parent"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَتَامَىٰ",
+          "meaning": "orphans (plural of يَتِيم)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or command (generally relating to conveying information)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِصْلَاحٌ",
+      "transliteration": "iṣlāḥun",
+      "meaning": "improvement",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be sound, whole; to repair, amend, rectify"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَّهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَإِن",
+      "transliteration": "wa in",
+      "meaning": "and if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist; also implies doubt or condition"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تُخَالِطُوهُمْ",
+      "transliteration": "tukhāliṭūhum",
+      "meaning": "you mix with them",
+      "root": {
+        "letters": "خ-ل-ط",
+        "meaning": "to mix, to blend; to be confused or disordered"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating 'you (plural)' form II verb"
+        },
+        {
+          "arabic": "خَالِطُ",
+          "meaning": "active participle form II, meaning 'mixing'"
+        },
+        {
+          "arabic": "وهُمْ",
+          "meaning": "them (pronoun suffix attached to 'هُم')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فَإِخْوَانُكُمْ",
+      "transliteration": "faʾikhwānukum",
+      "meaning": "then they are your brothers",
+      "root": {
+        "letters": "أ-خ-و",
+        "meaning": "to have a brother; kinship, fraternity"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِخْوَانُ",
+          "meaning": "brothers"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (the one God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and the active voice (first person singular)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah indicating the present tense, first person singular pronoun (أنا)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "الْمُفْسِدَ",
+      "transliteration": "al-mufsida",
+      "meaning": "the corrupter",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "to be corrupt, ruined, defective; to spoil"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُفْسِدَ",
+          "meaning": "corrupter (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be born of, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْمُصْلِحِ",
+      "transliteration": "al-muṣliḥi",
+      "meaning": "the amender",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be correct, to repair, to reconcile"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُصْلِح",
+          "meaning": "one who amends, reformer"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَلَوْ",
+      "transliteration": "wa law",
+      "meaning": "and if",
+      "root": {
+        "letters": "ل-و-أ",
+        "meaning": "desire, will, possibility"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "He willed",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "لَأَعْنَتَكُمْ",
+      "transliteration": "laʾaʿnatakum",
+      "meaning": "He would have afflicted you",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be weak, frail; to suffer affliction or hardship"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "conditional particle indicating 'if...then'"
+        },
+        {
+          "arabic": "أَعْنَتَ",
+          "meaning": "to afflict, to cause hardship or trouble (form X verb)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "to you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "إِِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces an emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "عَزِيزٌ",
+      "transliteration": "ʿazīzun",
+      "meaning": "Exalted in Might",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness; to be strong and mighty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "حَكِيمٌ",
+      "transliteration": "ḥakīmun",
+      "meaning": "Wise",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to be wise, to rule with justice"
+      },
+      "components": [
+        {
+          "arabic": "حَكِيمٌ",
+          "meaning": "Wise, possessing sound judgment and understanding."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-the world and-the Hereafter -- and-they ask-you about-the orphans -- Say! improvement-for them is better -- and-if you mix-with-them then-they are your brothers -- and-Allah knows the corrupter from-the amender -- and-if He willed Allah would have afflicted-you -- Indeed Allah Exalted in Might Wise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

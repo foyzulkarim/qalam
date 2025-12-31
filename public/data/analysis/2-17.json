@@ -1,0 +1,265 @@
+{
+  "verseId": "2:17",
+  "verse": {
+    "arabic": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ ذَهَبَ اللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَاتٍ لَّا يُبْصِرُونَ",
+    "transliteration": "Mathaluhum kamathali allathee istawqada naran falamma adaat ma hawlahu thahaba Allahu binoorihim watarakahum fee thulumatin la yubsiroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَثَلُهُمْ",
+      "transliteration": "mathaluhum",
+      "meaning": "Their example",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like; example, likeness"
+      },
+      "components": [
+        {
+          "arabic": "مَثَل",
+          "meaning": "example, likeness, simile"
+        },
+        {
+          "arabic": "ـُهُمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَمَثَلِ",
+      "transliteration": "kamathili",
+      "meaning": "Like the example of"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "alladhī",
+      "meaning": "The one who",
+      "root": {
+        "letters": "ذ-ل-ي",
+        "meaning": "humility, submissiveness, weakness; to be humble or subject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اسْتَوْقَدَ",
+      "transliteration": "istawqada",
+      "meaning": "Kindled, ignited",
+      "root": {
+        "letters": "و-ق-د",
+        "meaning": "To ignite, to burn, to mature; inherent fire or potential for combustion."
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَـ",
+          "meaning": "Prefix indicating seeking or attempting something."
+        },
+        {
+          "arabic": "وَقَدَ",
+          "meaning": "To ignite, to kindle."
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَارًا",
+      "transliteration": "nāran",
+      "meaning": "A fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَلَمَّا",
+      "transliteration": "falamma",
+      "meaning": "And when, so when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend; to know, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence or consequence)"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, so when (conditional particle indicating time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَضَاءَتْ",
+      "transliteration": "aḍā’at",
+      "meaning": "It illuminated, it shone",
+      "root": {
+        "letters": "ض-ي-ء",
+        "meaning": "to shine, to illuminate, brightness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "حَوْلَهُ",
+      "transliteration": "ḥawlahu",
+      "meaning": "Around him",
+      "root": {
+        "letters": "ح-و-ل",
+        "meaning": "Change, transformation; to pass around something; proximity"
+      },
+      "components": [
+        {
+          "arabic": "حَوْلَ",
+          "meaning": "Around, about"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ذَهَبَ",
+      "transliteration": "dhahaba",
+      "meaning": "Went away, disappeared",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go away, to depart, to vanish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِنُورِهِمْ",
+      "transliteration": "binūrihim",
+      "meaning": "With their light",
+      "root": {
+        "letters": "ن-و-ر",
+        "meaning": "brightness, light, radiance"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "نُورِهِمْ",
+          "meaning": "their light"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَتَرَكَهُمْ",
+      "transliteration": "watarakahum",
+      "meaning": "And He left them",
+      "root": {
+        "letters": "ت-ر-ك",
+        "meaning": "to abandon, to leave behind, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَرَكَهُمْ",
+          "meaning": "He left them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; abundance, plenty."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ظُلُمَاتٍ",
+      "transliteration": "ẓulumāt",
+      "meaning": "Darknesses",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "Darkness, oppression, injustice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "Not, do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يُبْصِرُونَ",
+      "transliteration": "yubṣirūna",
+      "meaning": "They see",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "To see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "They (pronoun suffix, masculine plural)"
+        },
+        {
+          "arabic": "بَصَر",
+          "meaning": "Seeing, vision (verbal noun form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "Present tense marker, indicating ongoing action"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Their-example like-the-example of the-one who kindled a-fire and-when it illuminated what around-him went-away Allah with-their-light and-He-left-them in darknesses not they-see"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

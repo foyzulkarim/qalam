@@ -1,0 +1,345 @@
+{
+  "verseId": "2:148",
+  "verse": {
+    "arabic": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Walikullin wijhatun huwa muwalleeha faistabiqoo alkhayrati ayna ma takoonoo yati bikumu Allahu jameeAAan inna Allaha AAala kulli shayin qadeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 148
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلِكُلٍّ",
+      "transliteration": "wa-li-kullin",
+      "meaning": "and for each",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to finish; totality, entirety"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُلٍّ",
+          "meaning": "each, every one"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وِجْهَةٌ",
+      "transliteration": "wijhatun",
+      "meaning": "a direction, a face",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to turn, to face; appearance, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it, he (pronoun)",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُوَلِّيهَا",
+      "transliteration": "muwallīhā",
+      "meaning": "turning to it, facing it",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to return, to be responsible for"
+      },
+      "components": [
+        {
+          "arabic": "مُوَ",
+          "meaning": "passive participle prefix indicating 'being turned'"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَاسْتَبِقُوا",
+      "transliteration": "fastabiqū",
+      "meaning": "so hasten, race to",
+      "root": {
+        "letters": "س-ب-ق",
+        "meaning": "to precede, to go before; to outstrip, to be quick"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (introduces a command or encourages action)"
+        },
+        {
+          "arabic": "اسْتَ",
+          "meaning": "intensive prefix indicating seeking or trying to do something repeatedly/thoroughly"
+        },
+        {
+          "arabic": "بِقُوا",
+          "meaning": "hasten, race (verb form indicating plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْخَيْرَاتِ",
+      "transliteration": "al-khayrāt",
+      "meaning": "the good deeds, the goodnesses",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَيْرَات",
+          "meaning": "good deeds, goodnesses (plural of خَيْرَة)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَيْنَ",
+      "transliteration": "ayna",
+      "meaning": "wherever, wherever",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye, source, place"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "whatever, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَكُونُوا",
+      "transliteration": "takūnū",
+      "meaning": "you are, you become",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense, 'you' form"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "the root 'to be', in the form for 'you' (masculine plural)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating 'you' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَأْتِ",
+      "transliteration": "yaʾtī",
+      "meaning": "He brings, it comes",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to approach, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (masculine singular pronoun prefix)"
+        },
+        {
+          "arabic": "أَتِ",
+          "meaning": "comes, brings (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِكُمُ",
+      "transliteration": "bikumu",
+      "meaning": "with you, to you (plural)",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to possess, sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "جَمِيعًا",
+      "transliteration": "jamīʿan",
+      "meaning": "all together, completely",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather, completeness"
+      },
+      "components": [
+        {
+          "arabic": "جَمِيع",
+          "meaning": "all, whole, entire"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fathah, indicates indefiniteness and nominative case (in this context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely (emphasizing affirmation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, God (accusative)",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify, the act of devotion; also related to speech and clarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "every, all (genitive)",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness; to be complete or sufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing, matter (accusative)",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be, to exist; something that exists"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadīrun",
+      "meaning": "competent, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power; measure, estimate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-for-each - a-direction - it - turning-to-it - pause - so-hasten - the-goodnesses - pause - wherever - that-which - you-are - He-brings - with-you - Allah - all-together - pause - indeed - Allah - upon - every - thing - competent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

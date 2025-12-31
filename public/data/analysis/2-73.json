@@ -1,0 +1,238 @@
+{
+  "verseId": "2:73",
+  "verse": {
+    "arabic": "فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْيِي اللَّهُ الْمَوْتَىٰ وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+    "transliteration": "Faqulna idriboohu bibaAAdiha kathalika yuhyee Allahu almawta wayureekum ayatihi laAAallakum taAAqiloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 73
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَقُلْنَا",
+      "transliteration": "fa-qulnā",
+      "meaning": "So We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "قُلْنَا",
+          "meaning": "We said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اضْرِبُوهُ",
+      "transliteration": "iḍribūhu",
+      "meaning": "Strike him",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "to strike, to hit, to beat"
+      },
+      "components": [
+        {
+          "arabic": "اضْرِبُ",
+          "meaning": "Strike! (imperative)"
+        },
+        {
+          "arabic": "ـوهُ",
+          "meaning": "him (masculine, accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِبَعْضِهَا",
+      "transliteration": "bi-baʿḍihā",
+      "meaning": "With part of it",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to take a portion; to possess; to divide"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "بَعْضِهَا",
+          "meaning": "its part / some of it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kaḏālik",
+      "meaning": "Thus, like that",
+      "root": {
+        "letters": "ك-د-ل",
+        "meaning": "to be, to exist; similarly, like this"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "Thus, like"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "That, this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُحْيِي",
+      "transliteration": "yuḥyī",
+      "meaning": "He revives",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "حَيّ",
+          "meaning": "alive, living"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَوْتَىٰ",
+      "transliteration": "al-mawtā",
+      "meaning": "The dead ones",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَوْتَىٰ",
+          "meaning": "dead ones (plural of مَيِّت)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَيُرِيكُمْ",
+      "transliteration": "wa-yurīkum",
+      "meaning": "And He shows you",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to show"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُرِيكُمْ",
+          "meaning": "He shows you (verb - active voice, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آيَاتِهِ",
+      "transliteration": "āyātihī",
+      "meaning": "His signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, miracle, verse"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "signs (plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "That you might",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "To return, revert, or become something; expectation and hope."
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "Particle of hope or expectation."
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "From the root ع-ل-ل, indicating possibility or hope."
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "Suffix pronoun: you (plural)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَعْقِلُونَ",
+      "transliteration": "taʿqilūn",
+      "meaning": "You may understand/reason",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to reason, to comprehend"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the first person plural imperfect tense"
+        },
+        {
+          "arabic": "عَقِل",
+          "meaning": "to understand, to comprehend"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the first person plural present/future tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-We said - Strike-him - with-part-of-it - Thus-like-that - He-revives - Allah - the-dead-ones - and-He-shows-you - His-signs - that-you-might - you-may-understand/reason"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

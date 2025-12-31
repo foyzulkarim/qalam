@@ -1,0 +1,212 @@
+{
+  "verseId": "2:81",
+  "verse": {
+    "arabic": "بَلَىٰ مَن كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَـٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+    "transliteration": "Bala man kasaba sayyiatan waahatat bihi khateeatuhu faolaika ashabu alnnari hum feeha khalidoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 81
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلَىٰ",
+      "transliteration": "balā",
+      "meaning": "Yes, indeed, truly",
+      "root": {
+        "letters": "ب-ل-ي",
+        "meaning": "to be afflicted, to reach, to attain; also signifies affirmation and acceptance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "Who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "To diminish, to weaken, or abstraction; related to questioning and uncertainty."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَسَبَ",
+      "transliteration": "kasaba",
+      "meaning": "He earned, he acquired",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to strive, to seek something with effort; to gain or acquire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَيِّئَةً",
+      "transliteration": "sayyi'atan",
+      "meaning": "An evil deed, bad thing",
+      "root": {
+        "letters": "س-ي-ء",
+        "meaning": "bad, evil; deficient, faulty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَأَحَاطَتْ",
+      "transliteration": "wa aḥāṭat",
+      "meaning": "And encompassed, and surrounded",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to encompass, to surround, to go around"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَحَاطَتْ",
+          "meaning": "encompassed, surrounded (feminine singular past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "With him, around him",
+      "root": {
+        "letters": "ح-ي-أ",
+        "meaning": "life, existence, being alive"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him, his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خَطِيئَتُهُ",
+      "transliteration": "khaṭī'atuhu",
+      "meaning": "His sin, his error",
+      "root": {
+        "letters": "خ-ط-أ",
+        "meaning": "to err, to sin, mistake"
+      },
+      "components": [
+        {
+          "arabic": "خَطِيئَة",
+          "meaning": "sin, error"
+        },
+        {
+          "arabic": "-تُهُ",
+          "meaning": "his (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "fa'ulā'ika",
+      "meaning": "Then those, so these ones",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to come back; the first"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those ones, these individuals (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "aṣḥābu",
+      "meaning": "Companions, friends",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "To accompany, to befriend, to associate with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nāri",
+      "meaning": "The Fire, hellfire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "النَّارِ",
+          "meaning": "The Fire, hellfire (definite noun with genitive case ending)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They, they are",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "To be, to exist; belonging (to a group)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "In it, therein (referring to the Fire)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to exist within, to contain"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَالِدُونَ",
+      "transliteration": "khālidūna",
+      "meaning": "Abiding, eternal ones",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Yes-indeed whoever [one] earned evil-deed and encompassed-it with him his-sin then those are companions of the-Fire they in it abiding-eternally"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

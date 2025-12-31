@@ -1,0 +1,247 @@
+{
+  "verseId": "2:175",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ وَالْعَذَابَ بِالْمَغْفِرَةِ ۚ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ",
+    "transliteration": "Olaika allatheena ishtarawoo alddalalata bialhuda waalAAathaba bialmaghfirati fama asbarahum AAala alnnari",
+    "surah": "Al-Baqarah",
+    "verseNumber": 175
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; the initial group of something."
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "Those (demonstrative prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Referring to a plural masculine group (suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Who (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to be related to, possess"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اشْتَرَوُا",
+      "transliteration": "ishtarawū",
+      "meaning": "They bought, they purchased",
+      "root": {
+        "letters": "ش-ر-ي",
+        "meaning": "to purchase, to buy, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "اِشْتَ",
+          "meaning": "intensive prefix, indicating seeking or thoroughness"
+        },
+        {
+          "arabic": "رَ",
+          "meaning": "middle radical, part of the root"
+        },
+        {
+          "arabic": "وُ",
+          "meaning": "pronoun suffix, they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الضَّلَالَةَ",
+      "transliteration": "al-ḍalālah",
+      "meaning": "The error, the misguidance",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to err, to go astray, to be lost"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ضلالة",
+          "meaning": "error, misguidance (abstract noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْهُدَىٰ",
+      "transliteration": "bil-hudā",
+      "meaning": "With the guidance, for the guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, for"
+        },
+        {
+          "arabic": "الْهُدَىٰ",
+          "meaning": "the guidance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَالْعَذَابَ",
+      "transliteration": "wal-ʿadhāba",
+      "meaning": "And the punishment, and the torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to torment; suffering, hardship"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْعَذَابَ",
+          "meaning": "the punishment, the torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِالْمَغْفِرَةِ",
+      "transliteration": "bil-maghfirah",
+      "meaning": "With the forgiveness, for the forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْمَغْفِرَةِ",
+          "meaning": "the forgiveness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamū",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَعْلَمُ",
+          "meaning": "you know (present tense, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "Then how, so indeed",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will; to be able, to have power"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, how, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَصْبَرَهُمْ",
+      "transliteration": "ʾaṣbarahum",
+      "meaning": "Most patient of them, how patient they are",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to be patient, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the most (superlative prefix)"
+        },
+        {
+          "arabic": "صَبَر",
+          "meaning": "patient, enduring"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَلَى النَّارِ",
+      "transliteration": "ʿalā al-nār",
+      "meaning": "Upon the Fire, with respect to the Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, flame"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "النَّارِ",
+          "meaning": "the fire"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-who bought the-error with-the-guidance and-the-punishment with-the-forgiveness. Then-how most-patient-of-them upon the-Fire."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

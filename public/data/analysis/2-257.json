@@ -1,0 +1,402 @@
+{
+  "verseId": "2:257",
+  "verse": {
+    "arabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَـٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+    "transliteration": "Allahu waliyyu allatheena amanoo yukhrijuhum mina alththulumati ila alnnoori waallatheena kafaroo awliyaohumu alttaghootu yukhrijoonahum mina alnnoori ila alththulumati olaika ashabu alnnari hum feeha khalidoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 257
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَلِيُّ",
+      "transliteration": "waliyyu",
+      "meaning": "Ally, Protector",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be near, to protect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to own; relative pronoun indicating a group of people"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُخْرِجُهُم",
+      "transliteration": "yukhrījuhum",
+      "meaning": "He brings them out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to produce"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun suffix indicating 3rd person masculine singular)"
+        },
+        {
+          "arabic": "خْرِجُ",
+          "meaning": "to exit, to bring out (verb root)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them (pronoun suffix indicating 3rd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الظُّلُمَاتِ",
+      "transliteration": "aẓ-ẓulumāti",
+      "meaning": "The darknesses",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "الظُّلُمَاتِ",
+          "meaning": "The darknesses (plural definite form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "To",
+      "root": {
+        "letters": "ي-ل-أ",
+        "meaning": "tend towards, approach, reach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "النُّورِ",
+      "transliteration": "an-nūri",
+      "meaning": "The light",
+      "root": {
+        "letters": "ن-و-ر",
+        "meaning": "to shine, to illuminate; brightness, radiance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-allaḏīna",
+      "meaning": "And those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be, to vanish; possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "Disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Prefix indicating a group of people (masculine plural)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "They disbelieved (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَوْلِيَاؤُهُمُ",
+      "transliteration": "awliyā'uhum",
+      "meaning": "Their allies",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to be near, to protect, to ally oneself with"
+      },
+      "components": [
+        {
+          "arabic": "أَوْلِيَاءُ",
+          "meaning": "allies, patrons, friends (plural)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "they, their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الطَّاغُوتُ",
+      "transliteration": "aṭ-ṭāghūtu",
+      "meaning": "The Taghut (false god/idol)",
+      "root": {
+        "letters": "ط-غ-و",
+        "meaning": "to transgress, exceed limits, be arrogant; to deviate from the right path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يُخْرِجُونَهُم",
+      "transliteration": "yukhrījūnahum",
+      "meaning": "They take them out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to bring forth"
+      },
+      "components": [
+        {
+          "arabic": "يُخْرِج",
+          "meaning": "They take out (present tense, active voice)"
+        },
+        {
+          "arabic": "ونَهُم",
+          "meaning": "them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "النُّورِ",
+      "transliteration": "an-nūri",
+      "meaning": "The light",
+      "root": {
+        "letters": "ن-و-ر",
+        "meaning": "brightness, radiance, splendor"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "To",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, belong to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الظُّلُمَاتِ",
+      "transliteration": "aẓ-ẓulumāti",
+      "meaning": "The darknesses",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, shadow, injustice"
+      },
+      "components": [
+        {
+          "arabic": "الظُّلُم",
+          "meaning": "the darknesses (plural form)"
+        },
+        {
+          "arabic": "اتِ",
+          "meaning": "the definite noun ending (tanwīn al-fatḥ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۗ",
+      "transliteration": "—",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ūlā'ika",
+      "meaning": "Those are",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to precede"
+      },
+      "components": [
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "Those are (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "aṣḥābu",
+      "meaning": "Companions of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to associate with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nāri",
+      "meaning": "The Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَّارِ",
+          "meaning": "fire (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "To be, to exist; pronoun reference"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "In it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "خَالِدُونَ",
+      "transliteration": "khālidūna",
+      "meaning": "Abiding eternally",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Allah - the Ally - of - those who - believed. He-brings-them-out - from – the darknesses - to – the light. And - those who - disbelieved - their allies - the Taghut. They-take-them-out - from – the light - to – the darknesses. Those - are - companions of - the Fire. They - in it - abiding eternally."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "verseId": "2:135",
+  "verse": {
+    "arabic": "وَقَالُوا كُونُوا هُودًا أَوْ نَصَارَىٰ تَهْتَدُوا ۗ قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+    "transliteration": "Waqaloo koonoo hoodan aw nasara tahtadoo qul bal millata ibraheema haneefan wama kana mina almushrikeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 135
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالُوا",
+      "transliteration": "wa-qālū",
+      "meaning": "and they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُونُوا",
+      "transliteration": "kūnū",
+      "meaning": "be/become",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُون",
+          "meaning": "being, existence"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "dual/plural imperative suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُودًا",
+      "transliteration": "hūdān",
+      "meaning": "Jews (as followers of Hūd)",
+      "root": {
+        "letters": "هـ-د-ي",
+        "meaning": "guidance, showing the right way"
+      },
+      "components": [
+        {
+          "arabic": "هُودًا",
+          "meaning": "guidance (accusative singular indefinite, referring to the guidance followed by the people of Hūd)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, conjunction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَصَارَىٰ",
+      "transliteration": "naṣārā",
+      "meaning": "Christians (followers of Nasrā)",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, victory"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَهْتَدُوا",
+      "transliteration": "tahtadū",
+      "meaning": "you will be guided",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense or possibility"
+        },
+        {
+          "arabic": "هْتَدُوا",
+          "meaning": "you (plural) are guided/will be guided"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command (through speech)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "rather/no, but",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to refuse, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِلَّةَ",
+      "transliteration": "millata",
+      "meaning": "religion/way (of life)",
+      "root": {
+        "letters": "م-ل-ل",
+        "meaning": "inclination, desire, habit, way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be firm, strong, powerful; to cultivate or improve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "حَنِيفًا",
+      "transliteration": "ḥanīfan",
+      "meaning": "inclining toward truth/pure monotheist",
+      "root": {
+        "letters": "ح-ن-و",
+        "meaning": "to incline, to deviate from the straight path (in a negative sense); ultimately referring to returning to the correct path or pure belief"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what/and he was not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, non-existence/nothingness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/he was not/nothingness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْمُشْرِكِينَ",
+      "transliteration": "al-mushrikīna",
+      "meaning": "the polytheists/associators",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (partners), to join together"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُشْرِكِينَ",
+          "meaning": "polytheists, those who associate partners with God"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they said be Jews or Christians -you will be guided! say rather religion of Abraham inclining toward truth and-what was from the polytheists"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

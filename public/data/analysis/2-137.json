@@ -1,0 +1,373 @@
+{
+  "verseId": "2:137",
+  "verse": {
+    "arabic": "فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنتُم بِهِ فَقَدِ اهْتَدَوا ۖ وَّإِن تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ ۖ فَسَيَكْفِيكَهُمُ اللَّهُ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Fain amanoo bimithli ma amantum bihi faqadi ihtadaw wain tawallaw fainnama hum fee shiqaqin fasayakfeekahumu Allahu wahuwa alssameeAAu alAAaleemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 137
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِنْ",
+      "transliteration": "faʾin",
+      "meaning": "then if; so if",
+      "root": {
+        "letters": "إ-ن-ي",
+        "meaning": "to be; existence; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if; in case that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "they believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "particle indicating present/continuous tense (often with a group)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمِثْلِ",
+      "transliteration": "bi-mithli",
+      "meaning": "in the like of; with something similar to",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "similarity; likeness; example"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; in; by means of"
+        },
+        {
+          "arabic": "مِثْلِ",
+          "meaning": "like; similar to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what; that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun indicating negation or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آمَنتُم",
+      "transliteration": "ʾāmantum",
+      "meaning": "you believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be safe, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating 'you (plural)'"
+        },
+        {
+          "arabic": "مَنتُم",
+          "meaning": "believed (second person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِهِ",
+      "transliteration": "bi-hi",
+      "meaning": "in it; with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have; related to existence and being"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix referring to a masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَقَدِ",
+      "transliteration": "faqad",
+      "meaning": "then indeed; so surely",
+      "root": {
+        "letters": "ق-د-و",
+        "meaning": "to lose, to be lacking, to perish"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed; surely; has been"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اهْتَدَوا",
+      "transliteration": "ihtadaw",
+      "meaning": "they were guided; they found right guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide; to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "اِ",
+          "meaning": "prefix indicating perfect tense and active voice"
+        },
+        {
+          "arabic": "هْتَـ",
+          "meaning": "indicates seeking or intending the act of guidance"
+        },
+        {
+          "arabic": "دَ",
+          "meaning": "base of the root denoting guidance"
+        },
+        {
+          "arabic": "و",
+          "meaning": "pronoun suffix indicating 'they'"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix indicating masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَإِن",
+      "transliteration": "waʾin",
+      "meaning": "and if; and indeed if",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence; to be"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if; indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَوَلَّوْا",
+      "transliteration": "tawallaw",
+      "meaning": "they turned away; they backtracked",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away; to be responsible for; to take care of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَإِنَّمَا",
+      "transliteration": "faʾinnamā",
+      "meaning": "then indeed only; so surely only",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict, to single out"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed; verily"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "only; just; solely"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they (pronoun)",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "belonging to, being with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "شِقَاقٍ",
+      "transliteration": "shiqāqin",
+      "meaning": "dissension; strife; enmity",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to tear apart; to be divided"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَسَيَكْفِيكَهُمُ",
+      "transliteration": "fa-sayakfīkahum",
+      "meaning": "then He will suffice you with them; then Allah will be enough for you against them",
+      "root": {
+        "letters": "ك-ف-ي",
+        "meaning": "to be sufficient, to suffice, to fulfill a need"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "سَـ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "يَكْفِـ",
+          "meaning": "He will suffice, He will be enough"
+        },
+        {
+          "arabic": "ـكُمُ",
+          "meaning": "you (plural, genitive/accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "and He (is)",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to be, existence; essence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "السَّمِيعُ",
+      "transliteration": "as-samīʿu",
+      "meaning": "the Hearing; the All-Hearer",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear; to perceive sound"
+      },
+      "components": [
+        {
+          "arabic": "السَّمِيعُ",
+          "meaning": "The Hearing; The All-Hearer (active participle indicating constant and complete perception)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْعَلِيمُ",
+      "transliteration": "al-ʿalīmu",
+      "meaning": "the Knowing; the All-Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware of, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَلِيمُ",
+          "meaning": "Knowing; All-Knowing (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-if they-believed in-the-like-of what you-believed in-it then-indeed they-were-guided and-if they-turned-away then-indeed only they are in dissension then-He-will-suffice-you-with-them Allah and-He is the-Hearing the-Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

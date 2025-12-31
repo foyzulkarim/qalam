@@ -1,0 +1,307 @@
+{
+  "verseId": "2:59",
+  "verse": {
+    "arabic": "فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِّنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ",
+    "transliteration": "Fabaddala allatheena thalamoo qawlan ghayra allathee qeela lahum faanzalna AAala allatheena thalamoo rijzan mina alssamai bima kanoo yafsuqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 59
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبَدَّلَ",
+      "transliteration": "fa-baddala",
+      "meaning": "then He changed/substituted",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to exchange, substitute, replace"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "بَدَّلَ",
+          "meaning": "he changed, he substituted"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ظَلَمُوا",
+      "transliteration": "ẓalamū",
+      "meaning": "wronged/oppressed",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَوْلًا",
+      "transliteration": "qawlan",
+      "meaning": "a statement/word",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter, speech"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غَيْرَ",
+      "transliteration": "ghayra",
+      "meaning": "other than/different from",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to lack, to be without, otherness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "that which/the one which",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere, to be connected, to possess a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "which/the one which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قِيلَ",
+      "transliteration": "qīla",
+      "meaning": "was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَأَنزَلْنَا",
+      "transliteration": "fa-anzalnā",
+      "meaning": "then We sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَنزَلْنَا",
+          "meaning": "We sent down"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, or relative pronoun indicating a group"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ظَلَمُوا",
+      "transliteration": "ẓalamū",
+      "meaning": "wronged/oppressed",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رِجْزًا",
+      "transliteration": "rijzan",
+      "meaning": "a punishment/affliction",
+      "root": {
+        "letters": "ر-ج-ز",
+        "meaning": "to be agitated, to tremble; vehement attack or affliction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to originate from, to be separated from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, out of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "al-samāʾi",
+      "meaning": "the sky/heaven",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "because of/due to what",
+      "root": {
+        "letters": "م-و-د",
+        "meaning": "affection, love, inclination"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in/due to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "[they] were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَفْسُقُونَ",
+      "transliteration": "yafsūqūn",
+      "meaning": "were disobeying/acting rebelliously",
+      "root": {
+        "letters": "ف-س-ق",
+        "meaning": "to deviate, to be corrupt, to rebel"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix denoting present/future tense, and plurality"
+        },
+        {
+          "arabic": "فَسَقُوا",
+          "meaning": "they rebelled/disobeyed (verb)"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "suffix denoting plurality (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-He-changed those-who wronged a-statement other-than that-which was-said to-them, then-We-sent-down upon those-who wronged a-punishment from the-sky because-of what [they] were disobeying."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

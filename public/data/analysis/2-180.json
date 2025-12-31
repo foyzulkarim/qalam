@@ -1,0 +1,276 @@
+{
+  "verseId": "2:180",
+  "verse": {
+    "arabic": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِن تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُتَّقِينَ",
+    "transliteration": "Kutiba AAalaykum itha hadara ahadakumu almawtu in taraka khayran alwasiyyatu lilwalidayni waalaqrabeena bialmaAAroofi haqqan AAala almuttaqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 180
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كُتِبَ",
+      "transliteration": "kutiba",
+      "meaning": "was written, was prescribed",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "ك",
+          "meaning": "indicates passive voice and completion of action."
+        },
+        {
+          "arabic": "تِبَ",
+          "meaning": "related to writing or recording."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to be above; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ى",
+        "meaning": "to harm, to cause pain or trouble; aversion, dislike"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَضَرَ",
+      "transliteration": "ḥaḍara",
+      "meaning": "approached, came near",
+      "root": {
+        "letters": "ح-ض-ر",
+        "meaning": "to be present, to attend, to come forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَحَدُكُمُ",
+      "transliteration": "aḥadukum",
+      "meaning": "one of you, any one of you",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, single"
+      },
+      "components": [
+        {
+          "arabic": "أحد",
+          "meaning": "one, single"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمَوْتُ",
+      "transliteration": "al-mawt",
+      "meaning": "the death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, cessation of life"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَرَكَ",
+      "transliteration": "taraka",
+      "meaning": "left, abandoned",
+      "root": {
+        "letters": "ت-ر-ك",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "wealth, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْوَصِيَّةُ",
+      "transliteration": "al-waṣiyyah",
+      "meaning": "the bequest, the will",
+      "root": {
+        "letters": "و-ص-ي",
+        "meaning": "to entrust, to commend; guardianship, support"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لِلْوَالِدَيْنِ",
+      "transliteration": "lil-wālidayn",
+      "meaning": "for the parents",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to bring forth, to possess, to own"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "وَالِدَيْنِ",
+          "meaning": "the two parents"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالْأَقْرَبِينَ",
+      "transliteration": "wal-aqrabīn",
+      "meaning": "and the near relatives",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَقْرَبِينَ",
+          "meaning": "the near relatives (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِالْمَعْرُوفِ",
+      "transliteration": "bil-maʿrūf",
+      "meaning": "with kindness, according to what is acceptable",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to recognize; goodness, virtue"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْمَعْرُوفِ",
+          "meaning": "the kindness, the good deed, that which is known and approved"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "حَقًّا",
+      "transliteration": "ḥaqqan",
+      "meaning": "a duty, truly",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, essence"
+      },
+      "components": [
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, right, reality"
+        },
+        {
+          "arabic": "-ًا",
+          "meaning": "adverbial suffix indicating manner/state (truly, certainly)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, for",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْمُتَّقِينَ",
+      "transliteration": "al-muttaqīn",
+      "meaning": "the righteous, the God-fearing",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُتَّقِ",
+          "meaning": "one who fears, one who is righteous"
+        },
+        {
+          "arabic": "ـِينَ",
+          "meaning": "plural marker (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Was-written-upon-you when-approaches one-of-you the-death if-indeed leaves wealth [is]-that the-bequest for-the-parents and-the-near-relatives with-what-is-acceptable a-duty truly upon-the-righteous."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "verseId": "2:44",
+  "verse": {
+    "arabic": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ",
+    "transliteration": "Atamuroona alnnasa bialbirri watansawna anfusakum waantum tatloona alkitaba afala taAAqiloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَتَأْمُرُونَ",
+      "transliteration": "ʾataʾmurūna",
+      "meaning": "Do you command?",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, to issue a decree; matter, affair"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine plural (you)"
+        },
+        {
+          "arabic": "أُمُرُونَ",
+          "meaning": "command, order (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّاسَ",
+      "transliteration": "an-nāsa",
+      "meaning": "The people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (as they are often 'lost' in worldly affairs or forgotten)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْبِرِّ",
+      "transliteration": "bi-l-birri",
+      "meaning": "With/in righteousness",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be pious, righteous; to excel in goodness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "الْبِرِّ",
+          "meaning": "the righteousness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَتَنسَوْنَ",
+      "transliteration": "wa-tansawna",
+      "meaning": "And you forget",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَنسَوْنَ",
+          "meaning": "you (plural) forget"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَنفُسَكُمْ",
+      "transliteration": "ʾanfusakum",
+      "meaning": "Yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسَ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "yours"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa-ʾantum",
+      "meaning": "And you (pl.)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَتْلُونَ",
+      "transliteration": "tatlūna",
+      "meaning": "You recite",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "To follow, to recite, to narrate"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix indicating second person plural masculine present tense."
+        },
+        {
+          "arabic": "تُلُو",
+          "meaning": "Recitation, narration (verbal noun from root ت-ل-و)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Suffix indicating second person plural masculine."
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "The book/Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book; scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "lā qaf",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَفَلَا",
+      "transliteration": "ʾa-falā",
+      "meaning": "Then do you not?",
+      "root": {
+        "letters": "ف-ل-ي",
+        "meaning": "to lack, to be deficient, to fail"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating questioning or negation"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَعْقِلُونَ",
+      "transliteration": "taʿqilūna",
+      "meaning": "You understand/reason",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to grasp intellectually, to be wise"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural imperfect tense"
+        },
+        {
+          "arabic": "عَقِل",
+          "meaning": "to understand, to grasp"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person masculine plural imperfect tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Do-you-command the-people with-righteousness and-you-forget yourselves and-you recite the-book? Then-do-not-you-understand?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

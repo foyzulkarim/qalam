@@ -1,0 +1,490 @@
+{
+  "verseId": "2:109",
+  "verse": {
+    "arabic": "وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُم مِّن بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم مِّن بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ ۖ فَاعْفُوا وَاصْفَحُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Wadda katheerun min ahli alkitabi law yaruddoonakum min baAAdi eemanikum kuffaran hasadan min AAindi anfusihim min baAAdi ma tabayyana lahumu alhaqqu faoAAfoo waisfahoo hatta yatiya Allahu biamrihi inna Allaha AAala kulli shayin qadeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 109
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "دَّ",
+      "transliteration": "wadda",
+      "meaning": "desired, wished",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to leave, to abandon; affection, love (derived)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَثِيرٌ",
+      "transliteration": "kathīrun",
+      "meaning": "many",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be abundant, to be numerous"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or be separate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَهْلِ",
+      "transliteration": "ahli",
+      "meaning": "people of, family of",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to incline, to be fit for, to belong to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "the book, the People of the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if, wish (conditional particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَرُدُّونَكُم",
+      "transliteration": "yaruddūnakum",
+      "meaning": "they would turn you back",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to repel, to reject"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense/future possibility, and subject being 3rd person plural masculine"
+        },
+        {
+          "arabic": "رُدُّ",
+          "meaning": "verbal noun/active participle related to returning or repelling"
+        },
+        {
+          "arabic": "ونَكُم",
+          "meaning": "suffix indicating 'you' (plural) as the object of the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness; to be far away"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, following"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِيمَانِكُمْ",
+      "transliteration": "īmānikum",
+      "meaning": "your belief",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, safety"
+      },
+      "components": [
+        {
+          "arabic": "إِمَانِ",
+          "meaning": "belief, faith"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كُفَّارًا",
+      "transliteration": "kuffāran",
+      "meaning": "disbelievers, unbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny, reject (grace/truth)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "حَسَدًا",
+      "transliteration": "ḥasadan",
+      "meaning": "envy, jealousy",
+      "root": {
+        "letters": "ح-س-د",
+        "meaning": "to feel displeasure or antagonism towards another's good fortune; to resent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِّنْ عِندِ",
+      "transliteration": "min ʿindi",
+      "meaning": "from with, from near",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be near"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "عِندِ",
+          "meaning": "near, with"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَنفُسِهِم",
+      "transliteration": "anfusihim",
+      "meaning": "themselves, their own souls",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسِ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "-هِم",
+          "meaning": "their own"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِّن بَعْدِ مَا",
+      "transliteration": "min baʿdi mā",
+      "meaning": "after that, after what",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, after"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, subsequent to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تَبَيَّنَ",
+      "transliteration": "tabayyana",
+      "meaning": "became clear, was manifest",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to become apparent, to be distinct or evident; to differentiate"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating past tense and often intensifies the action"
+        },
+        {
+          "arabic": "بَيَّنَ",
+          "meaning": "to make clear, to explain; the root form of clarity and manifestation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَهُمُ",
+      "transliteration": "lahum",
+      "meaning": "to them, for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْحَقُّ",
+      "transliteration": "al-ḥaqqu",
+      "meaning": "the truth, the reality",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, to exist in reality; firmness, certainty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فَاعْفُوا",
+      "transliteration": "faʿfu",
+      "meaning": "so pardon, then forgive",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to forgive, to pardon, to overlook"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence and emphasis)"
+        },
+        {
+          "arabic": "اعْفُ",
+          "meaning": "forgive (imperative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَاصْفَحُوا",
+      "transliteration": "waṣfaḥū",
+      "meaning": "and overlook, and turn away",
+      "root": {
+        "letters": "ص-ف-ح",
+        "meaning": "to be clear, to forgive, to turn away"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اصْفَحُوا",
+          "meaning": "turn away, overlook (plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "limitation, boundary, end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَأْتِيَ",
+      "transliteration": "yaʾtiya",
+      "meaning": "it comes, it will come",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to approach"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person singular future tense (I will)"
+        },
+        {
+          "arabic": "أَتِيَ",
+          "meaning": "to come, passive form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ل-ه-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "بِأَمْرِهِ",
+      "transliteration": "bi-amrihi",
+      "meaning": "with His command, by His order",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, affair"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَمْرِ",
+          "meaning": "command, order (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, surely (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-لّ-ل",
+        "meaning": "totality, completeness; to be full or complete"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing, something",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be, to exist; something that is perceived or felt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadīrun",
+      "meaning": "competent, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to have power, to be able to do something"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-desired many from people of the book if they would turn you back after your belief disbelievers envy from with themselves from after what became clear to them the truth so pardon and overlook until it comes Allah with His command indeed Allah upon all thing competent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

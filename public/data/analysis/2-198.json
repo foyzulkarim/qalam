@@ -1,0 +1,440 @@
+{
+  "verseId": "2:198",
+  "verse": {
+    "arabic": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا فَضْلًا مِّن رَّبِّكُمْ ۚ فَإِذَا أَفَضْتُم مِّنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ ۖ وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِن كُنتُم مِّن قَبْلِهِ لَمِنَ الضَّالِّينَ",
+    "transliteration": "Laysa AAalaykum junahun an tabtaghoo fadlan min rabbikum faitha afadtum min AAarafatin faothkuroo Allaha AAinda almashAAari alharami waothkuroohu kama hadakum wain kuntum min qablihi lamina alddalleena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 198
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَيْسَ",
+      "transliteration": "laysa",
+      "meaning": "is not, there is no",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be weak, deficient, or non-existent; negation of existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جُنَاحٌ",
+      "transliteration": "junāḥun",
+      "meaning": "blame, fault, sin",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "to cover, to shield, to have wings; extension, side"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; to intend or desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَبْتَغُوا",
+      "transliteration": "tabtaghū",
+      "meaning": "you seek",
+      "root": {
+        "letters": "ب-غ-و",
+        "meaning": "to desire, to seek, to pursue"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense, 'you (plural) will'"
+        },
+        {
+          "arabic": "بَغَـ",
+          "meaning": "to seek, to desire"
+        },
+        {
+          "arabic": "~تُوا",
+          "meaning": "suffix indicating the second person plural masculine ('you all')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَضْلًا",
+      "transliteration": "faḍlan",
+      "meaning": "bounty, grace, favor",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to exceed, to be superior; abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَّبِّكُمْ",
+      "transliteration": "rabbi-kum",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to be powerful; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رب",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـكم",
+          "meaning": "your (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "separator mark, no lexical meaning",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَإِذَا",
+      "transliteration": "fa-idhā",
+      "meaning": "then when, so if",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; to be present"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَفَضْتُم",
+      "transliteration": "ʾafaḍtum",
+      "meaning": "you departed, you streamed forth",
+      "root": {
+        "letters": "ف-ض-ي",
+        "meaning": "to be excessive, to overflow, to pour forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَرَفَاتٍ",
+      "transliteration": "ʿarafāt",
+      "meaning": "Arafat (name of a location)",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "To know, to be aware of, to recognize"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَاذْكُرُوا",
+      "transliteration": "fa-dhkurū",
+      "meaning": "then remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "اذْكُرُوا",
+          "meaning": "remember (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to adore; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "at, near",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possessing, having, being with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْمَشْعَرِ",
+      "transliteration": "al-mashʿari",
+      "meaning": "the Mash'ar (a sacred site)",
+      "root": {
+        "letters": "ش-ع-ر",
+        "meaning": "to feel, to be aware; a sign or landmark"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "the forbidden, the sacred",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to prohibit, to forbid; sacredness, inviolability"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "forbidden, sacred (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "separator mark, no lexical meaning",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَاذْكُرُوهُ",
+      "transliteration": "wa-dhkurūhu",
+      "meaning": "and remember Him",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اذْكُرُوهُ",
+          "meaning": "remember Him (plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as, like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance, similarity"
+      },
+      "components": [
+        {
+          "arabic": "ك",
+          "meaning": "like, as (particle indicating comparison)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which (relative pronoun or indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "هَدَاكُمْ",
+      "transliteration": "hadākum",
+      "meaning": "He guided you",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "هَدَا",
+          "meaning": "He guided"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَإِن",
+      "transliteration": "wa-ʾin",
+      "meaning": "and indeed, and if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates confirmation or condition"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "indeed, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "كُنتُم",
+      "transliteration": "kuntum",
+      "meaning": "you were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you be (imperative, root form)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "you (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "مِّن قَبْلِهِ",
+      "transliteration": "min qabli-hi",
+      "meaning": "from before Him",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept, front"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "قَبْلِهِ",
+          "meaning": "before Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "لَمِنَ",
+      "transliteration": "la-mina",
+      "meaning": "from among, belonging to",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come from, to be of the kind or class of"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation, not"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الضَّالِّينَ",
+      "transliteration": "aḍ-ḍāllīn",
+      "meaning": "the astray, the misguided",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to be lost; error, wandering"
+      },
+      "components": [
+        {
+          "arabic": "الضَّ",
+          "meaning": "the (definite article) + stray, misguided (part of الضَّالّ)"
+        },
+        {
+          "arabic": "ـِينَ",
+          "meaning": "plural indefinite marker (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "is not-upon you - blame - that - you seek - bounty - from - your Lord – then when - you departed - from - Arafat – then remember-Allah – at - the Mash'ar - the sacred – and remember-Him – as - He guided you – and indeed - you were - from before Him - belonging to - the astray"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

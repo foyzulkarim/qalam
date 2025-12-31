@@ -1,0 +1,532 @@
+{
+  "verseId": "2:113",
+  "verse": {
+    "arabic": "وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ ۗ كَذَٰلِكَ قَالَ الَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+    "transliteration": "Waqalati alyahoodu laysati alnnasara AAala shayin waqalati alnnasara laysati alyahoodu AAala shayin wahum yatloona alkitaba kathalika qala allatheena la yaAAlamoona mithla qawlihim faAllahu yahkumu baynahum yawma alqiyamati feema kanoo feehi yakhtalifoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 113
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالَتِ",
+      "transliteration": "wa-qālatī",
+      "meaning": "and she said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالَتِ",
+          "meaning": "she said (feminine singular, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْيَهُودُ",
+      "transliteration": "al-yahūd",
+      "meaning": "the Jews",
+      "root": {
+        "letters": "ه-و-د",
+        "meaning": "to guide, to show the right way; conversion; direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَيْسَتِ",
+      "transliteration": "laysati",
+      "meaning": "is not/there is no",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be absent, to lack, non-existence"
+      },
+      "components": [
+        {
+          "arabic": "لَيْسَ",
+          "meaning": "is not, there is no (negative existential)"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "feminine singular ending, attached pronoun indicating 'it' (referring to a feminine noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّصَارَىٰ",
+      "transliteration": "al-naṣārā",
+      "meaning": "the Christians",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, victory"
+      },
+      "components": [
+        {
+          "arabic": "النَّصَارَىٰ",
+          "meaning": "the followers (plural form) of the religion derived from those who seek help/victory (Christians)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "something/anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be absent, to lack, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَقَالَتِ",
+      "transliteration": "wa-qālatī",
+      "meaning": "and she said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالَتِ",
+          "meaning": "she said (feminine singular, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "النَّصَارَىٰ",
+      "transliteration": "al-naṣārā",
+      "meaning": "the Christians",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to support"
+      },
+      "components": [
+        {
+          "arabic": "النَّصَارَىٰ",
+          "meaning": "followers of the Messiah, those who follow a path involving support/aid (of Jesus)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَيْسَتِ",
+      "transliteration": "laysati",
+      "meaning": "is not/there is no",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be absent, non-existence, or negation"
+      },
+      "components": [
+        {
+          "arabic": "لَيْسَ",
+          "meaning": "is not/there is no (negative verb)"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "feminine singular pronoun suffix (attached)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْيَهُودُ",
+      "transliteration": "al-yahūd",
+      "meaning": "the Jews",
+      "root": {
+        "letters": "ه-و-د",
+        "meaning": "to return, to revert; to guide (in a negative sense); also, wandering or straying"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "something/anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be non-existent, to lack, absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "هـ-م-و",
+        "meaning": "To have, possess; to be with, accompany. Also: intention, purpose."
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "They"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يَتْلُونَ",
+      "transliteration": "yatlūna",
+      "meaning": "they recite/read",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to read after, to recite"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "تَلُونَ",
+          "meaning": "recite/read (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāb",
+      "meaning": "the Book/Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording, correspondence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲hālika",
+      "meaning": "thus/like that",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "to be humble, to submit; or to follow, to resemble"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, similar to"
+        },
+        {
+          "arabic": "ذَٰلِك",
+          "meaning": "that (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-lad̲hīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَا يَعْلَمُونَ",
+      "transliteration": "lā yaʿlamūna",
+      "meaning": "do not know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "يَعْلَمُونَ",
+          "meaning": "they know (present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِثْلَ",
+      "transliteration": "mithla",
+      "meaning": "like/similar to",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "قَوْلِهِمْ",
+      "transliteration": "qawlihim",
+      "meaning": "their saying/speech",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter, speech"
+      },
+      "components": [
+        {
+          "arabic": "قول",
+          "meaning": "saying, speech"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "فَاللَّهُ",
+      "transliteration": "fa-llāhu",
+      "meaning": "so Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "اللهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "يَحْكُمُ",
+      "transliteration": "yaḥkumu",
+      "meaning": "He judges",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to arbitrate, to be firm or decisive."
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense, first person singular (often translated as 'he' or implying an ongoing action)"
+        },
+        {
+          "arabic": "حَكَمَ",
+          "meaning": "To judge, to pass judgment."
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "Dammah - indicates present tense conjugation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "بَيْنَهُمْ",
+      "transliteration": "baynahum",
+      "meaning": "between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distant, to separate, to differentiate"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between, midst of"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "on the Day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmah",
+      "meaning": "the Resurrection",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; resurrection as a standing before God"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "فِيمَا",
+      "transliteration": "fīmā",
+      "meaning": "in what/concerning that",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to encompass, to include, to be in/on something"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, on, at"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were/used to be (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it/about it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "يَخْتَلِفُونَ",
+      "transliteration": "yakhtalifūna",
+      "meaning": "they differ/disagree",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to differ, to vary, to succeed one another"
+      },
+      "components": [
+        {
+          "arabic": "يَخْتَلِفُ",
+          "meaning": "they differ/disagree (verb, present tense)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-said the Jews is-not the Christians upon something and-said the Christians is-not the Jews upon something and-they recite the Book thus said those who do-not know like their saying - so Allah judges between them Day of the Resurrection concerning that they were in it differ"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

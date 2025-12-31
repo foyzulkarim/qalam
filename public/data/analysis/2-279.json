@@ -1,0 +1,329 @@
+{
+  "verseId": "2:279",
+  "verse": {
+    "arabic": "فَإِن لَّمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ",
+    "transliteration": "Fain lam tafAAaloo fathanoo biharbin mina Allahi warasoolihi wain tubtum falakum ruoosu amwalikum la tathlimoona wala tuthlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 279
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِن",
+      "transliteration": "faʾinna",
+      "meaning": "so indeed, then surely",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, certainty, truth"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (connective particle indicating consequence)"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely (emphatic particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّمْ",
+      "transliteration": "lam",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَفْعَلُوا",
+      "transliteration": "tafʿalū",
+      "meaning": "you (plural) do not",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "negative prefix, not"
+        },
+        {
+          "arabic": "فَعَلْـ",
+          "meaning": "verb root, to do"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "plural you suffix, indicating second person plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأْذَنُوا",
+      "transliteration": "faʾḏunū",
+      "meaning": "then be informed, then know",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to become aware"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَذِنُوا",
+          "meaning": "they were informed, they knew"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِحَرْبٍ",
+      "transliteration": "biḥarbin",
+      "meaning": "with a war, by war",
+      "root": {
+        "letters": "ح-ب-ر",
+        "meaning": "to fight, to wage war; intensity, sharpness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "حَرْبٍ",
+          "meaning": "war, battle (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "origin, source, extraction; to decrease or diminish from something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The deity; to worship; the one God"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَرَسُولِهِ",
+      "transliteration": "wa rasūlihi",
+      "meaning": "and His Messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَسُولِهِ",
+          "meaning": "His Messenger"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَإِن",
+      "transliteration": "waʾin",
+      "meaning": "and if",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "to be, existence; affirmation or confirmation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if; indeed; in that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تُبْتُمْ",
+      "transliteration": "tubtum",
+      "meaning": "you (plural) repent",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَلَكُمْ",
+      "transliteration": "falakum",
+      "meaning": "then for you (plural)",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "possession, undertaking, speaking"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, therefore"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for, to (you)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رُءُوسُ",
+      "transliteration": "ruʾūsū",
+      "meaning": "principal(s)",
+      "root": {
+        "letters": "ر-أ-س",
+        "meaning": "head; chief; beginning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَمْوَالِكُمْ",
+      "transliteration": "amwālikum",
+      "meaning": "your (plural) wealth(s)",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to have ownership; wealth"
+      },
+      "components": [
+        {
+          "arabic": "أمْوالِ",
+          "meaning": "wealths, possessions"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تَظْلِمُونَ",
+      "transliteration": "taẓlimūna",
+      "meaning": "you (plural) do wrong",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person plural active voice"
+        },
+        {
+          "arabic": "ظَلَـ",
+          "meaning": "to be unjust, to wrong"
+        },
+        {
+          "arabic": "-مُون",
+          "meaning": "suffix indicating second person plural masculine active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, to negate"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تُظْلَمُونَ",
+      "transliteration": "tuẓlamūna",
+      "meaning": "you (plural) are wronged",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the passive voice or a form of declension/conjugation"
+        },
+        {
+          "arabic": "ظَلَمَ",
+          "meaning": "to wrong, to oppress, to be unjust"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural pronoun suffix: you (masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-indeed if not you(pl) do then be-informed of a war from Allah and His Messenger, and if repent you(pl) then for-you principal your wealth not you(pl) do wrong and not you(pl) are wronged"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

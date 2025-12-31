@@ -1,0 +1,197 @@
+{
+  "verseId": "2:209",
+  "verse": {
+    "arabic": "فَإِن زَلَلْتُم مِّن بَعْدِ مَا جَاءَتْكُمُ الْبَيِّنَاتُ فَاعْلَمُوا أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+    "transliteration": "Fain zalaltum min baAAdi ma jaatkumu albayyinatu faiAAlamoo anna Allaha AAazeezun hakeemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 209
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِن",
+      "transliteration": "faʾin",
+      "meaning": "then, so indeed; introducing a conditional clause",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to perish, to be lost; to cease to exist"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so; a connective particle indicating sequence or consequence"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "indeed, truly; an emphatic particle introducing a conditional clause or assertion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "زَلَلْتُم",
+      "transliteration": "zalaltum",
+      "meaning": "you deviated, you strayed",
+      "root": {
+        "letters": "ز-ل-ل",
+        "meaning": "to err, to deviate, to slip"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, after",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to withhold, to prevent, to restrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَعْدِ",
+      "transliteration": "baʿdi",
+      "meaning": "after; genitive case marker indicating following in time",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness; to be far away"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَاءَتْكُمُ",
+      "transliteration": "jāʾatkum",
+      "meaning": "came to you",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَتْ",
+          "meaning": "she came, it came (feminine)"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْبَيِّنَاتُ",
+      "transliteration": "al-bayyināt",
+      "meaning": "the clear proofs, the evidences",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, evident, manifest"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَيِّنَاتُ",
+          "meaning": "clear proofs, evidences (plural of بَيِّنَة)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَاعْلَمُوا",
+      "transliteration": "faʿlamū",
+      "meaning": "then know, so be aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence, state of being"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, the God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَزِيزٌ",
+      "transliteration": "ʿazīz",
+      "meaning": "Exalted in Might, Powerful",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "حَكِيمٌ",
+      "transliteration": "ḥakīm",
+      "meaning": "Wise, Judicious",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to be wise"
+      },
+      "components": [
+        {
+          "arabic": "حَكِيمٌ",
+          "meaning": "Wise, possessing sound judgment; an attribute of Allah."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-indeed if you deviated from after what came-to-you the clear-proofs then-know that indeed Allah Exalted-in-Might Wise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

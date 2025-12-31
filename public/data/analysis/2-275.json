@@ -1,0 +1,733 @@
+{
+  "verseId": "2:275",
+  "verse": {
+    "arabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَن جَاءَهُ مَوْعِظَةٌ مِّن رَّبِّهِ فَانتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَـٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+    "transliteration": "Allatheena yakuloona alrriba la yaqoomoona illa kama yaqoomu allathee yatakhabbatuhu alshshaytanu mina almassi thalika biannahum qaloo innama albayAAu mithlu alrriba waahalla Allahu albayAAa waharrama alrriba faman jaahu mawAAithatun min rabbihi faintaha falahu ma salafa waamruhu ila Allahi waman AAada faolaika ashabu alnnari hum feeha khalidoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 275
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have, or to belong to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "ones who (plural form derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَأْكُلُونَ",
+      "transliteration": "yaʾkulūna",
+      "meaning": "they eat/consume",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume; to devour, destroy"
+      },
+      "components": [
+        {
+          "arabic": "يَأْ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense/mood"
+        },
+        {
+          "arabic": "كُلُ",
+          "meaning": "eat/consume - verbal root relating to eating"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating masculine plural subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرِّبَا",
+      "transliteration": "al-ribā",
+      "meaning": "the interest/usury",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "to grow, to increase; to have excess, to swell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, absence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَقُومُونَ",
+      "transliteration": "yaqūmūna",
+      "meaning": "they stand",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to be erect"
+      },
+      "components": [
+        {
+          "arabic": "يَقُوم",
+          "meaning": "they stand (present/future tense)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "pronoun suffix indicating 'they' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to resort to, to return to; negation/exception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as/like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; likeness, similarity"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as (particle of similitude)"
+        },
+        {
+          "arabic": "ـمَا",
+          "meaning": "what, that which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَقُومُ",
+      "transliteration": "yaqūmu",
+      "meaning": "he stands",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up, to be upright"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, 3rd person singular masculine"
+        },
+        {
+          "arabic": "قُومَ",
+          "meaning": "to stand, to rise (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the one who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to adhere to, to belong to, to possess"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "one who, possessor of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَتَخَبَّطُهُ",
+      "transliteration": "yataḫabbaṭuhu",
+      "meaning": "it seizes him/afflicts him",
+      "root": {
+        "letters": "خ-ب-ط",
+        "meaning": "to shake, to stumble, to be confused"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix denoting present tense, indicative mood"
+        },
+        {
+          "arabic": "تَخَبَّطُ",
+          "meaning": "to shake violently, to be afflicted with madness or convulsions"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "pronoun suffix: him/it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الشَّيْطَانُ",
+      "transliteration": "al-shayṭānu",
+      "meaning": "the Satan/devil",
+      "root": {
+        "letters": "ش-ط-ن",
+        "meaning": "to be distant, stray, or deviate; to err from the right path; extreme wickedness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْمَسِّ",
+      "transliteration": "al-massi",
+      "meaning": "the touch/insanity",
+      "root": {
+        "letters": "م-سّ-س",
+        "meaning": "to touch, to suffer affliction; evil/harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that/this (masc. sing.)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, having the quality of"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِأَنَّهُمْ",
+      "transliteration": "biʾannahum",
+      "meaning": "because of them/due to their saying",
+      "root": {
+        "letters": "أ-ن-هـ",
+        "meaning": "to be, existence; to have a quality or state"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, due to"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, because"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "only/certainly",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict, to confine"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed/Verily"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْبَيْعُ",
+      "transliteration": "al-bayʿu",
+      "meaning": "the trade/selling",
+      "root": {
+        "letters": "ب-ي-ع",
+        "meaning": "to sell, trade, exchange; to finish or complete (a transaction)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِثْلُ",
+      "transliteration": "mithlu",
+      "meaning": "like/similar to",
+      "root": {
+        "letters": "ث-ل-و",
+        "meaning": "smoothness, abundance; to be similar or equal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الرِّبَا",
+      "transliteration": "al-ribā",
+      "meaning": "the interest/usury",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "to increase, to grow; excess, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَأَحَلَّ",
+      "transliteration": "waʾaḥalla",
+      "meaning": "and He permitted",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to loosen, untie, dissolve; to permit, allow"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَحَلَّ",
+          "meaning": "He permitted, He made lawful"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah/God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the god"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْبَيْعَ",
+      "transliteration": "al-bayʿa",
+      "meaning": "the trade/selling (acc.)",
+      "root": {
+        "letters": "ب-ي-ع",
+        "meaning": "to sell, trade, exchange; to purchase"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَيْعَ",
+          "meaning": "selling, trade (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَحَرَّمَ",
+      "transliteration": "waḥarrama",
+      "meaning": "and He forbade",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to prohibit, to make sacred, inviolability"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حَرَّمَ",
+          "meaning": "He forbade"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "الرِّبَا",
+      "transliteration": "al-ribā",
+      "meaning": "the interest/usury (acc.)",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "to increase, to grow; excess, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَمَن",
+      "transliteration": "famān",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also encompasses questioning or seeking information"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whichever person"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "جَاءَهُ",
+      "transliteration": "jāʾahu",
+      "meaning": "came to him",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاء",
+          "meaning": "he came"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "to him (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "مَوْعِظَةٌ",
+      "transliteration": "mawʿiẓatun",
+      "meaning": "an admonition/reminder",
+      "root": {
+        "letters": "ع-ظ-و",
+        "meaning": "to admonish, to warn, to give counsel"
+      },
+      "components": [
+        {
+          "arabic": "مَوْعِظَةٌ",
+          "meaning": "an admonition, a reminder; derived from the root 'عظ' indicating counsel or warning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِّن رَّبِّهِ",
+      "transliteration": "min rabbihī",
+      "meaning": "from his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّبِّهِ",
+          "meaning": "his Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "فَانتَهَىٰ",
+      "transliteration": "faʾntahā",
+      "meaning": "so he stopped/desisted",
+      "root": {
+        "letters": "ن-هـ-ي",
+        "meaning": "to cease, to stop, to refrain"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "انْتَهَىٰ",
+          "meaning": "he stopped, he reached the limit/end"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "فَلَهُ",
+      "transliteration": "falahu",
+      "meaning": "then for him",
+      "root": {
+        "letters": "ف-ل-ي",
+        "meaning": "to attain, to succeed, to obtain benefit"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "for him, to him, his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; that which is"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "سَلَفَ",
+      "transliteration": "salafa",
+      "meaning": "passed/preceded",
+      "root": {
+        "letters": "س-ل-ف",
+        "meaning": "to go before, to precede; past, remnant"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "وَأَمْرُهُ",
+      "transliteration": "waʾamruhu",
+      "meaning": "and his affair/matter",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair, matter"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَمْرُ",
+          "meaning": "affair, matter"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "إِلَى اللَّهِ",
+      "transliteration": "ilā allāhi",
+      "meaning": "to Allah/God",
+      "root": {
+        "letters": "أ-ل-ه",
+        "meaning": "to worship, to deify; god"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "وَمَنْ",
+      "transliteration": "waman",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also related to pointing/indicating"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "whoever, whoever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "عَادَ",
+      "transliteration": "ʿāda",
+      "meaning": "returned/recurred",
+      "root": {
+        "letters": "ع-ي-د",
+        "meaning": "to return, to come back, to recur; festive occasion (related to returning)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "faʾūlāʾika",
+      "meaning": "then those/they are",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; the first of something"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "aṣḥābu",
+      "meaning": "companions/followers of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow closely; friendship, closeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "النَّارِ",
+      "transliteration": "al-nāri",
+      "meaning": "the Fire/Hell",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَار",
+          "meaning": "fire, Hell"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; pronoun-related"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it/therein",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be contained in, to exist within, to reside"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "خَالِدُونَ",
+      "transliteration": "khālidūna",
+      "meaning": "abiding/eternal",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who they-eat the-interest not they-stand except as/like he-stands the-one-who it-seizes-him the-Satan from the-touch/insanity that/this because of them they-said only trade like the-interest and He-permitted Allah the-trade and He-forbade the-interest so whoever came-to-him an-admonition from his-Lord then he-stopped then for him what passed and his-affair to Allah/God and whoever returned then those companions of the-Fire they in it abiding/eternal"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

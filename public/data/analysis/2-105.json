@@ -1,0 +1,459 @@
+{
+  "verseId": "2:105",
+  "verse": {
+    "arabic": "مَّا يَوَدُّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ ۗ وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+    "transliteration": "Ma yawaddu allatheena kafaroo min ahli alkitabi wala almushrikeena an yunazzala AAalaykum min khayrin min rabbikum waAllahu yakhtassu birahmatihi man yashao waAllahu thoo alfadli alAAatheemi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 105
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what, not",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to exist, to be present; fluidity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوَدُّ",
+      "transliteration": "yawaddu",
+      "meaning": "desires, wishes",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, to feel affection, to wish well"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person singular (I)"
+        },
+        {
+          "arabic": "وَدُّ",
+          "meaning": "love, affection, desire (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, existence; to possess qualities or characteristics"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun, plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved, rejected faith",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, reject"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group of people (plural)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they rejected, they disbelieved (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be separate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَهْلِ",
+      "transliteration": "ahli",
+      "meaning": "people of, family of",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to be weak, to decline; family, household (derived from the sense of being reliant on each other)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "the scripture, the book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record; writing itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْمُشْرِكِينَ",
+      "transliteration": "al-mushrikīna",
+      "meaning": "the polytheists, those who associate partners with God",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, associate, partner"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُشْرِكِينَ",
+          "meaning": "polytheists, those who associate partners with God (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يُنَزَّلَ",
+      "transliteration": "yunazzala",
+      "meaning": "be sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "يُنَ",
+          "meaning": "passive voice prefix, indicates 'being acted upon'"
+        },
+        {
+          "arabic": "زَّلَ",
+          "meaning": "to descend, to come down (form II)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَيْكُم",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to rise; to oversee; to depend on"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, restrain, or be source of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "خَيْرٍ",
+      "transliteration": "khayrin",
+      "meaning": "good, benefit",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, goodness, benefit"
+      },
+      "components": [
+        {
+          "arabic": "خَيْر",
+          "meaning": "good, benefit"
+        },
+        {
+          "arabic": "ٍ",
+          "meaning": "genitive case ending (tanween)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be separated from, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رَّبِّكُمْ",
+      "transliteration": "rabbi-kum",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The god; deity; worshiped one."
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah; The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَخْتَصُّ",
+      "transliteration": "yakhtaṣṣu",
+      "meaning": "selects, chooses",
+      "root": {
+        "letters": "خ-ص-ص",
+        "meaning": "to be special, to select, to choose"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense and active voice"
+        },
+        {
+          "arabic": "خْتَصَّ",
+          "meaning": "to select, to choose (form II verb)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "tanwīn al-fatḥ indicating indefiniteness and present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِرَحْمَتِهِ",
+      "transliteration": "bi-raḥmatihi",
+      "meaning": "with His mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "رَحْمَتِهِ",
+          "meaning": "His mercy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed, or protected; also related to questioning and inquiry."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to wish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, third person masculine singular"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case and present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "ذُو",
+      "transliteration": "ḏū",
+      "meaning": "possessor of, owner of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "الْفَضْلِ",
+      "transliteration": "al-faḍli",
+      "meaning": "the bounty, the grace",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to exceed, to be superior; to bestow generously"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَضْل",
+          "meaning": "bounty, grace, favor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْ عَظِيمِ",
+      "transliteration": "al-ʿaẓīmi",
+      "meaning": "the great",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, to be large, power"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيم",
+          "meaning": "great, magnificent"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-desire [those who]-disbelieved from people-of the scripture and nor-the polytheists that be-sent-down upon-you from good from your-Lord. And-Allah selects with-His mercy who He-wills. And-Allah [is]-possessor-of the bounty the great."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

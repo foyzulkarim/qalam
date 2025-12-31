@@ -1,0 +1,40 @@
+{
+  "verseId": "2:1",
+  "verse": {
+    "arabic": "الم",
+    "transliteration": "Aliflammeem",
+    "surah": "Al-Baqarah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الم",
+      "transliteration": "ʾalif lām mīm",
+      "meaning": "The letter Alif, the letter Lam, the letter Meem",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ا",
+          "meaning": "The letter Alif"
+        },
+        {
+          "arabic": "ل",
+          "meaning": "The letter Lam"
+        },
+        {
+          "arabic": "م",
+          "meaning": "The letter Meem"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Alif - Lam - Meem"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

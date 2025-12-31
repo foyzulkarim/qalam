@@ -1,0 +1,260 @@
+{
+  "verseId": "2:181",
+  "verse": {
+    "arabic": "فَمَن بَدَّلَهُ بَعْدَ مَا سَمِعَهُ فَإِنَّمَا إِثْمُهُ عَلَى الَّذِينَ يُبَدِّلُونَهُ ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+    "transliteration": "Faman baddalahu baAAdama samiAAahu fainnama ithmuhu AAala allatheena yubaddiloonahu inna Allaha sameeAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 181
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin, source"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (connective particle)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, anyone who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَدَّلَهُ",
+      "transliteration": "baddalahu",
+      "meaning": "altered it",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to replace, exchange, substitute"
+      },
+      "components": [
+        {
+          "arabic": "بَدَّلَ",
+          "meaning": "he altered, he changed"
+        },
+        {
+          "arabic": "-هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَعْدَ",
+      "transliteration": "baʿda",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, opposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سَمِعَهُ",
+      "transliteration": "samiʿahu",
+      "meaning": "he heard it",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "سَمِعَ",
+          "meaning": "he heard"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَإِنَّمَا",
+      "transliteration": "fa-innamā",
+      "meaning": "then indeed only/verily only",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict, to confine"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "verily, indeed"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "only, exclusively"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِثْمُهُ",
+      "transliteration": "ithmuhu",
+      "meaning": "his sin",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to sin, wrongdoing, guilt"
+      },
+      "components": [
+        {
+          "arabic": "إِثْمُ",
+          "meaning": "sin, wrongdoing"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own, to have relation to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُبَدِّلُونَهُ",
+      "transliteration": "yubaddilūnahu",
+      "meaning": "they alter it",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to substitute, exchange, or alter"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "بَدَّلَ",
+          "meaning": "to alter, change, substitute"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed/verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence; affirmation, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed/verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deification; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "سَمِيعٌ",
+      "transliteration": "samīʿun",
+      "meaning": "Hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, intelligence"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-whoever altered-it after what he-heard-it then-indeed only his-sin is upon those-who they-alter-it indeed-Allah Hearing Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

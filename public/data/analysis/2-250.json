@@ -1,0 +1,282 @@
+{
+  "verseId": "2:250",
+  "verse": {
+    "arabic": "وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+    "transliteration": "Walamma barazoo lijaloota wajunoodihi qaloo rabbana afrigh AAalayna sabran wathabbit aqdamana waonsurna AAala alqawmi alkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 250
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَمَّا",
+      "transliteration": "wa-lammā",
+      "meaning": "and when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to wish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, after (conditional)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَرَزُوا",
+      "transliteration": "barazū",
+      "meaning": "they went forth, they emerged",
+      "root": {
+        "letters": "ب-ر-ز",
+        "meaning": "to be prominent, to emerge, to appear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِجَالُوتَ",
+      "transliteration": "li-jālūt",
+      "meaning": "to Goliath",
+      "root": {
+        "letters": "ج-ل-و",
+        "meaning": "to become prominent, to be powerful; to dominate or overwhelm"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, belonging to"
+        },
+        {
+          "arabic": "جَالُوتَ",
+          "meaning": "Goliath (proper noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَجُنُودِهِ",
+      "transliteration": "wa-junūdihi",
+      "meaning": "and his soldiers",
+      "root": {
+        "letters": "ج-ن-د",
+        "meaning": "to gather, to collect; army, force"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جُنُودِ",
+          "meaning": "soldiers (genitive plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbanā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; master, owner, Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَفْرِغْ",
+      "transliteration": "afrig",
+      "meaning": "pour forth, empty",
+      "root": {
+        "letters": "ف-ر-غ",
+        "meaning": "to be empty, to lack, to have leisure; also to finish or complete (something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "upon us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "صَبْرًا",
+      "transliteration": "ṣabran",
+      "meaning": "patience",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "endurance, steadfastness, to bear with something difficult"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَثَبِّتْ",
+      "transliteration": "wa-thabbit",
+      "meaning": "and make firm, and strengthen",
+      "root": {
+        "letters": "ث-ب-ت",
+        "meaning": "firmness, stability, to become fixed"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ثَبِّتْ",
+          "meaning": "make firm, strengthen (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَقْدَامَنَا",
+      "transliteration": "aqdāmanā",
+      "meaning": "our feet",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to step, to put forward; the foot"
+      },
+      "components": [
+        {
+          "arabic": "أَقْدَام",
+          "meaning": "feet (plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَانصُرْنَا",
+      "transliteration": "wanṣurnā",
+      "meaning": "and give us victory",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to give victory"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "انصُر",
+          "meaning": "give us victory (imperative)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْقَوْمِ",
+      "transliteration": "al-qawmi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; people, tribe"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قوم",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīn",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to be ungrateful, to deny (faith)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when they-went-forth to-Goliath and-his-soldiers they-said Our-Lord pour-forth upon-us patience and-make-firm our-feet and-give-victory to-us over the-people the-disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

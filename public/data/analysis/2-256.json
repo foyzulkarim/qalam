@@ -1,0 +1,451 @@
+{
+  "verseId": "2:256",
+  "verse": {
+    "arabic": "لَا إِكْرَاهَ فِي الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+    "transliteration": "La ikraha fee alddeeni qad tabayyana alrrushdu mina alghayyi faman yakfur bialttaghooti wayumin biAllahi faqadi istamsaka bialAAurwati alwuthqa la infisama laha waAllahu sameeAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 256
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "no, not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِكْرَاهَ",
+      "transliteration": "ʾikrāha",
+      "meaning": "compulsion, coercion",
+      "root": {
+        "letters": "ك-ر-ه",
+        "meaning": "to dislike, to hate, aversion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "the religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to judge, to reckon, establish order; indebtedness, obligation"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِين",
+          "meaning": "religion, faith, judgment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَد",
+      "transliteration": "qad",
+      "meaning": "certainly, indeed",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to come forward"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَّبَيَّنَ",
+      "transliteration": "tabayyana",
+      "meaning": "became clear, was made evident",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to become manifest, to be clear; distinction"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating passive voice or intensification"
+        },
+        {
+          "arabic": "بَيَّنَ",
+          "meaning": "to make clear, to explain"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الرُّشْدُ",
+      "transliteration": "al-rušdu",
+      "meaning": "the right guidance, maturity",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to be guided correctly, to mature; sound judgment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to originate from, source, part of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْغَيِّ",
+      "transliteration": "al-ghayyi",
+      "meaning": "the misguidance, error",
+      "root": {
+        "letters": "غ-ي-ي",
+        "meaning": "to deviate, to go astray, to be lost"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَمَن",
+      "transliteration": "famān",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يَكْفُرْ",
+      "transliteration": "yakfur",
+      "meaning": "disbelieves, denies",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, reject faith"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, active voice"
+        },
+        {
+          "arabic": "كُفْر",
+          "meaning": "disbelief, denial of grace"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِالطَّاغُوتِ",
+      "transliteration": "bi-l-ṭāghūti",
+      "meaning": "in Taghut (false deity/authority)",
+      "root": {
+        "letters": "ط-غ-و",
+        "meaning": "to exceed limits, to be arrogant; to stray from the right path"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "الطَّاغُوتِ",
+          "meaning": "the Taghut (false deity, evil authority)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُؤْمِن",
+      "transliteration": "yuʾminu",
+      "meaning": "believes",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense and active voice (first-person singular)"
+        },
+        {
+          "arabic": "أَمِنَ",
+          "meaning": "to believe, to have faith"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating the present/future tense ending for a verb (first-person singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "in Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to praise, deity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَقَدِ",
+      "transliteration": "faqad",
+      "meaning": "then indeed, certainly",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be able, to have power; measure, quantity; estimation, decree"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed, certainly; has already happened (perfective particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "اِسْتَمْسَكَ",
+      "transliteration": "istamsaka",
+      "meaning": "has grasped, held firmly to",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to hold, to grasp, to retain"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "indicates seeking, attempting or doing something repeatedly"
+        },
+        {
+          "arabic": "مَسَكَ",
+          "meaning": "to grasp, to hold firmly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِالْعُرْوَةِ",
+      "transliteration": "bi-l-ʿurwati",
+      "meaning": "by the handhold, strong handle",
+      "root": {
+        "letters": "ع-ر-و",
+        "meaning": "firmness, strength, stability"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "الْعُرْوَةِ",
+          "meaning": "the handhold, the strong handle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "الْوُثْقَىٰ",
+      "transliteration": "al-wuthqā",
+      "meaning": "the firm, trustworthy (handhold)",
+      "root": {
+        "letters": "و-ث-ق",
+        "meaning": "to be firm, strong, trustworthy; to rely upon"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وُثْقَىٰ",
+          "meaning": "firmness, trustworthiness (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "no, not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "اِنفِصَامَ",
+      "transliteration": "infiṣāma",
+      "meaning": "break, severance",
+      "root": {
+        "letters": "ش-ي-ع",
+        "meaning": "to split, divide, cleave; to separate, diverge"
+      },
+      "components": [
+        {
+          "arabic": "اِنْ",
+          "meaning": "indicates past tense and negation; 'not'"
+        },
+        {
+          "arabic": "فِصَامَ",
+          "meaning": "split, severed (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "لَهَا",
+      "transliteration": "lahā",
+      "meaning": "for it, to it",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "ۗ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "سَمِيعٌ",
+      "transliteration": "samīʿun",
+      "meaning": "Hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, perception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware, possess knowledge"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "no- compulsion -in- the- religion -pause marker- certainly -became clear -the- right- guidance -from -the- misguidance -pause marker- so- whoever -disbelieves -in- Taghut -and -believes -in- Allah -then indeed -has grasped -by- the- handhold -the- firm -no -break -for it -pause marker- and- Allah -Hearing -Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

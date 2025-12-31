@@ -1,0 +1,195 @@
+{
+  "verseId": "2:11",
+  "verse": {
+    "arabic": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ",
+    "transliteration": "Waitha qeela lahum la tufsidoo fee alardi qaloo innama nahnu muslihoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "wa-ʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; to perceive, to know"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قِيلَ",
+      "transliteration": "qīla",
+      "meaning": "it was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to have"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تُفْسِدُوا",
+      "transliteration": "tufsidū",
+      "meaning": "you corrupt",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "to be corrupt, to spoil, to ruin"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural present active voice"
+        },
+        {
+          "arabic": "فَسَدُوا",
+          "meaning": "they became corrupt/spoiled (root verb)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating second person plural (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِنَّمَا",
+      "transliteration": "ʾinnamā",
+      "meaning": "indeed only",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to incline, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مُصْلِحُونَ",
+      "transliteration": "muṣliḥūn",
+      "meaning": "reformers",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be right, correct, sound; to repair, amend, improve"
+      },
+      "components": [
+        {
+          "arabic": "مُصْلِح",
+          "meaning": "one who reforms, a reformer (active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural active participle ending, indicating 'they are'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when it-was-said to-them not you-corrupt in the-earth they-said indeed-only we reformers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "verseId": "2:95",
+  "verse": {
+    "arabic": "وَلَن يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+    "transliteration": "Walan yatamannawhu abadan bima qaddamat aydeehim waAllahu AAaleemun bialththalimeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 95
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَن",
+      "transliteration": "wa-lan",
+      "meaning": "and not/and will never",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "denial, refusal, impossibility"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "not, will not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَتَمَنَّوْهُ",
+      "transliteration": "yata-mannawhu",
+      "meaning": "they will desire it/wish for it",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to wish, to desire, to hope"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, they"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "indicates imperfect verb form"
+        },
+        {
+          "arabic": "مَنَّوْ",
+          "meaning": "they wished/desired (verb root)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun referring to the object of desire)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَبَدًا",
+      "transliteration": "abadan",
+      "meaning": "ever/permanently",
+      "root": {
+        "letters": "أ-ب-د",
+        "meaning": "to perish, to be destroyed; eternity (as a negation of perishing)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "because of what/with what",
+      "root": {
+        "letters": "م-و-د",
+        "meaning": "possession, ownership, having something"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in/for"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَدَّمَتْ",
+      "transliteration": "qaddamat",
+      "meaning": "presented/put forth",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to advance, to put forward, to step forth"
+      },
+      "components": [
+        {
+          "arabic": "قَدَّمَ",
+          "meaning": "to present, to put forth, to advance (basic form)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَيْدِيهِمْ",
+      "transliteration": "aydīhim",
+      "meaning": "their hands",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; also specifically relates to the hand as an instrument of power and action"
+      },
+      "components": [
+        {
+          "arabic": "أَيْدِي",
+          "meaning": "hands (plural)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (masculine plural possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to be worshipped, divinity, God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīm",
+      "meaning": "Knowing/All-Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "-ٌ",
+          "meaning": "indefinite nominative singular masculine ending (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِالظَّالِمِينَ",
+      "transliteration": "bi-ẓ-ẓālimīn",
+      "meaning": "of the wrongdoers/with the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, wrongfulness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "الظَّالِمِينَ",
+          "meaning": "the wrongdoers, the oppressors (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not they-will-desire it ever because-of what presented their-hands and-Allah Knowing of-the-wrongdoers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "verseId": "2:218",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ أُولَـٰئِكَ يَرْجُونَ رَحْمَتَ اللَّهِ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ",
+    "transliteration": "Inna allatheena amanoo waallatheena hajaroo wajahadoo fee sabeeli Allahi olaika yarjoona rahmata Allahi waAllahu ghafoorun raheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 218
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist; core meaning related to affirmation and existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces an emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to own, to have a characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هَاجَرُوا",
+      "transliteration": "hājaraū",
+      "meaning": "Emigrated",
+      "root": {
+        "letters": "ه-ج-ر",
+        "meaning": "to leave, to abandon, to migrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَاهَدُوا",
+      "transliteration": "jāhadū",
+      "meaning": "Strived, fought",
+      "root": {
+        "letters": "ج-ه-د",
+        "meaning": "To exert effort, strive, labor"
+      },
+      "components": [
+        {
+          "arabic": "جَاهَدُ",
+          "meaning": "They strived/fought (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "Path of, way of",
+      "root": {
+        "letters": "س-ب-أ",
+        "meaning": "to go, to follow a path; to take a course or way"
+      },
+      "components": [
+        {
+          "arabic": "سَب",
+          "meaning": "path, way"
+        },
+        {
+          "arabic": "ـِيل",
+          "meaning": "possessive ending (of the path)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah's, of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "The definite article, 'the'"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Possessive pronoun, 'His/of Him'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (ones)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, initial or foremost; to begin"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (demonstrative pronoun prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating plural and gender (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يَرْجُونَ",
+      "transliteration": "yarjūna",
+      "meaning": "Expect, hope for",
+      "root": {
+        "letters": "ر-ج-و",
+        "meaning": "To hope, to expect good, to desire"
+      },
+      "components": [
+        {
+          "arabic": "يَرْ",
+          "meaning": "Prefix indicating present tense, active voice, third-person plural."
+        },
+        {
+          "arabic": "جُونَ",
+          "meaning": "Suffix indicating third-person plural masculine."
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "رَحْمَتَ",
+      "transliteration": "raḥmata",
+      "meaning": "Mercy of",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "To have compassion, to be kind; encompassing mercy and tenderness."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah's, of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "His, belonging to Him (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[Pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-Allāhu",
+      "meaning": "And Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, god"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, the God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūrun",
+      "meaning": "Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "رَّحِيمٌ",
+      "transliteration": "raḥīmun",
+      "meaning": "Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to show kindness and mercy"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-ones-who believed-and-the-ones-who emigrated-and-fought in-path-of of-Allah - those-expect mercy-of Allah. And-Allah Forgiving Merciful."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "verseId": "2:166",
+  "verse": {
+    "arabic": "إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ",
+    "transliteration": "Ith tabarraa allatheena ittubiAAoo mina allatheena ittabaAAoo waraawoo alAAathaba wataqattaAAat bihimu alasbabu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 166
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, at the time of",
+      "root": {
+        "letters": "أ-ذْ-ي",
+        "meaning": "to perceive, to feel, to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَبَرَّأَ",
+      "transliteration": "tabarraʾa",
+      "meaning": "disassociated themselves, renounced",
+      "root": {
+        "letters": "ب-ر-أ",
+        "meaning": "to be free of, to clear oneself, to heal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to point, to indicate, to be"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اتُّبِعُوا",
+      "transliteration": "ittubaʿū",
+      "meaning": "were followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue"
+      },
+      "components": [
+        {
+          "arabic": "اِتِّ",
+          "meaning": "prefix indicating request or intention (form IV)"
+        },
+        {
+          "arabic": "تُبِعُوا",
+          "meaning": "passive voice, they were followed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to refer, to point out, to be"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اتَّبَعُوا",
+      "transliteration": "ittabaʿū",
+      "meaning": "followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to succeed (someone)"
+      },
+      "components": [
+        {
+          "arabic": "اِتِّ",
+          "meaning": "prefix indicating seeking/attempting (form IV)"
+        },
+        {
+          "arabic": "تَبَّعَ",
+          "meaning": "to follow closely, to trace"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating plural masculine active voice (present/future)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَرَأَوُا",
+      "transliteration": "waraʾū",
+      "meaning": "and they saw",
+      "root": {
+        "letters": "ر-ء-ى",
+        "meaning": "to see, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَأَوُا",
+          "meaning": "they saw"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْعَذَابَ",
+      "transliteration": "al-ʿadhāba",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be harsh or severe; pain"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "meaning": "punishment (accusative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَتَقَطَّعَتْ",
+      "transliteration": "wataqaṭṭaʿat",
+      "meaning": "and were cut off, and severed",
+      "root": {
+        "letters": "ق-ط-ع",
+        "meaning": "to cut, to sever, to interrupt"
+      },
+      "components": [
+        {
+          "arabic": "وتـ",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "تقطَّعَتْ",
+          "meaning": "were cut off, were severed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِهِمُ",
+      "transliteration": "bihim",
+      "meaning": "with them, from them",
+      "root": {
+        "letters": "ب-هـ-م",
+        "meaning": "to be with, to possess"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْأَسْبَابُ",
+      "transliteration": "al-ʾasbābu",
+      "meaning": "the ties [of relationship, means]",
+      "root": {
+        "letters": "س-ب-ب",
+        "meaning": "to follow, to extend, to cause"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-those who-were followed disassociated themselves from-those who-followed and-they saw the-punishment and-were cut off with-them the-ties"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

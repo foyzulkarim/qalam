@@ -1,0 +1,324 @@
+{
+  "verseId": "2:97",
+  "verse": {
+    "arabic": "قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+    "transliteration": "Qul man kana AAaduwwan lijibreela fainnahu nazzalahu AAala qalbika biithni Allahi musaddiqan lima bayna yadayhi wahudan wabushra lilmumineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 97
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; generally encompassing the act of communication through language."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "Who/Whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be distant, separate, or hidden; also, to possess qualities distinct from others"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was/Is (copula)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, exist, become; fundamental to creation and being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَدُوًّا",
+      "transliteration": "ʿaduwwan",
+      "meaning": "An enemy",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, to oppose, to war against"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّجِبْرِيلَ",
+      "transliteration": "li-jibrīla",
+      "meaning": "To Gabriel",
+      "root": {
+        "letters": "ج-ب-ر",
+        "meaning": "to mend, to restore, to strengthen; power, might"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "جِبْرِيلَ",
+          "meaning": "Gabriel (the angel)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَإِنَّهُ",
+      "transliteration": "fa-ʾinnahū",
+      "meaning": "Then indeed he/it is",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be, exist; to become"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَزَّلَهُ",
+      "transliteration": "nazzalahū",
+      "meaning": "He has brought it down/Descended it",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "نَزَّلَ",
+          "meaning": "He brought down/descended (verb)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon/On",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَلْبِكَ",
+      "transliteration": "qalbi-ka",
+      "meaning": "Your heart",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes"
+      },
+      "components": [
+        {
+          "arabic": "قلب",
+          "meaning": "heart"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِإِذْنِ",
+      "transliteration": "bi-ʾidhni",
+      "meaning": "By permission of",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to allow"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "إِذْنِ",
+          "meaning": "permission, leave"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the god; to worship; divine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مُصَدِّقًا",
+      "transliteration": "muṣaddiqan",
+      "meaning": "Confirming/Verifying",
+      "root": {
+        "letters": "ṣ-d-q",
+        "meaning": "truthfulness, sincerity, correctness"
+      },
+      "components": [
+        {
+          "arabic": "مُـ",
+          "meaning": "passive participle marker"
+        },
+        {
+          "arabic": "صَدِّق",
+          "meaning": "to verify, to confirm (from ṣaddaq)"
+        },
+        {
+          "arabic": "ـًا",
+          "meaning": "indefinite accusative ending (ḥālat al-naṣb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لِّمَا",
+      "transliteration": "limā",
+      "meaning": "For what/To that which",
+      "root": {
+        "letters": "ل-م-و",
+        "meaning": "to desire, to will, to incline towards"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "Between/Before",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to exist apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يَدَيْهِ",
+      "transliteration": "yadayhi",
+      "meaning": "His hands/That which is before him",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; to reach, to extend"
+      },
+      "components": [
+        {
+          "arabic": "يَدَي",
+          "meaning": "hands (dual)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَهُدًى",
+      "transliteration": "wa-hudan",
+      "meaning": "And guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُدًى",
+          "meaning": "guidance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَبُشْرَىٰ",
+      "transliteration": "wa-bushran",
+      "meaning": "And good tidings",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be glad, to give good news"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بُشْرَىٰ",
+          "meaning": "good tidings, good news"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لِلْمُؤْمِنِينَ",
+      "transliteration": "lil-muʾminīna",
+      "meaning": "For the believers",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُؤْمِنِينَ",
+          "meaning": "the believers"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say - who - was - an enemy - to-Gabriel - then-indeed-he/it - has-brought-it-down - upon - your-heart - by-permission-of - Allah - confirming - for-that-which - between/before - his-hands - and-guidance - and-good-tidings - for-the-believers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

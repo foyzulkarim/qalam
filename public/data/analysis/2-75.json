@@ -1,0 +1,337 @@
+{
+  "verseId": "2:75",
+  "verse": {
+    "arabic": "أَفَتَطْمَعُونَ أَن يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ",
+    "transliteration": "AfatatmaAAoona an yuminoo lakum waqad kana fareequn minhum yasmaAAoona kalama Allahi thumma yuharrifoonahu min baAAdi ma AAaqaloohu wahum yaAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 75
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَتَطْمَعُونَ",
+      "transliteration": "ʾafatamaʿūna",
+      "meaning": "Do you then hope?",
+      "root": {
+        "letters": "ط-م-ع",
+        "meaning": "to desire, to hope for something, to seek"
+      },
+      "components": [
+        {
+          "arabic": "أَفَـ",
+          "meaning": "a questioning particle indicating reproach or denial"
+        },
+        {
+          "arabic": "تَطْمَعُونَ",
+          "meaning": "you hope, you desire (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also indicates negation or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُؤْمِنُوا",
+      "transliteration": "yuʾminū",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, to be safe"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person (they)"
+        },
+        {
+          "arabic": "أَمِنُوا",
+          "meaning": "believe (root verb in the perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, possess, have sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَقَدْ",
+      "transliteration": "waqad",
+      "meaning": "and indeed/certainly",
+      "root": {
+        "letters": "ق-د-و",
+        "meaning": "to be firm, strong, established; to hold back or restrain (often implying completion)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed, certainly (particle indicating completion or certainty)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَرِيقٌ",
+      "transliteration": "farīqun",
+      "meaning": "a party/group",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, divide, break apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they/them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَسْمَعُونَ",
+      "transliteration": "yasmaʿūna",
+      "meaning": "they hear",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense and 1st person plural action (they)"
+        },
+        {
+          "arabic": "سَمِعَ",
+          "meaning": "to hear (verbal root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating 1st person plural (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَلَامَ",
+      "transliteration": "kalāma",
+      "meaning": "words/speech",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "to speak, to utter words; completeness and perfection (in speech)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship; the deity"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "belonging to Allah; of Allah (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then/afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to establish, to place, to set; also implies time sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يُحَرِّفُونَهُ",
+      "transliteration": "yuḥarrifūnahu",
+      "meaning": "they distort it",
+      "root": {
+        "letters": "ح-ر-ف",
+        "meaning": "to alter, change, distort; to turn aside"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural); prefix indicating verb tense and subject"
+        },
+        {
+          "arabic": "حَرَّفُوا",
+          "meaning": "they distorted, altered"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it; pronoun referring to the text being distorted"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, following"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to possess, to have"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَقَلُوهُ",
+      "transliteration": "ʿaqalūhu",
+      "meaning": "they understood it",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to comprehend, to tie firmly (physically or mentally)"
+      },
+      "components": [
+        {
+          "arabic": "عَقَلُـ",
+          "meaning": "they understood"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَهُمْ",
+      "transliteration": "wahum",
+      "meaning": "and they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to have, to possess; to be inclined towards"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun, nominative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (masculine plural pronoun)"
+        },
+        {
+          "arabic": "عَلِمُوا",
+          "meaning": "they knew (past tense)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "indicating plural masculine group"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Do-you then hope-that they believe-for you and indeed was-a party-from them they hear-words-of Allah then distort-it after-what they understood-and they know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

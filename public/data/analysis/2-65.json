@@ -1,0 +1,227 @@
+{
+  "verseId": "2:65",
+  "verse": {
+    "arabic": "وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ",
+    "transliteration": "Walaqad AAalimtumu allatheena iAAtadaw minkum fee alssabti faqulna lahum koonoo qiradatan khasieena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 65
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-laqad",
+      "meaning": "and indeed, and certainly",
+      "root": {
+        "letters": "ق-د-ل",
+        "meaning": "to be firm, strong, established; to have the power or ability to do something"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, certainly; emphasizes the truth of what follows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلِمْتُمُ",
+      "transliteration": "ʿalimtumū",
+      "meaning": "you knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "عَلِمْ",
+          "meaning": "you knew (perfect form)"
+        },
+        {
+          "arabic": "تُمُ",
+          "meaning": "second person masculine plural pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to own, to be with; relative pronoun implying possession or belonging"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اعْتَدَوْا",
+      "transliteration": "iʿtadaw",
+      "meaning": "transgressed, exceeded the limits",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to be unjust, to oppose"
+      },
+      "components": [
+        {
+          "arabic": "اِعْ",
+          "meaning": "prefix indicating an attempt or intention to perform the action"
+        },
+        {
+          "arabic": "تَدَ",
+          "meaning": "mutual or iterative action related to the root"
+        },
+        {
+          "arabic": "و",
+          "meaning": "pronoun suffix, they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, exist; concealment, hiddenness"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "السَّبْتِ",
+      "transliteration": "as-sabti",
+      "meaning": "the sabbath",
+      "root": {
+        "letters": "س-ب-ت",
+        "meaning": "to cease, to rest; interruption"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَقُلْنَا",
+      "transliteration": "faqulnā",
+      "meaning": "so We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, saying"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "قُلْنَا",
+          "meaning": "We said (verb - perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كُونُوا",
+      "transliteration": "kūnū",
+      "meaning": "be!",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, creation"
+      },
+      "components": [
+        {
+          "arabic": "كو",
+          "meaning": "indicates imperative form and plural address, 'be' (for you all)"
+        },
+        {
+          "arabic": "نوا",
+          "meaning": "pronoun suffix indicating second person plural (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "قِرَدَةً",
+      "transliteration": "qiradatan",
+      "meaning": "apes",
+      "root": {
+        "letters": "ق-ر-د",
+        "meaning": "to dig, to excavate; also to mock, to deride"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "خَاسِئِينَ",
+      "transliteration": "khāsiʾīn",
+      "meaning": "despised, humiliated",
+      "root": {
+        "letters": "خ-س-أ",
+        "meaning": "to be low, base, or humiliated"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed you-knew those-who transgressed from-among you in-the sabbath so-We said to-them be!-apes despised"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
