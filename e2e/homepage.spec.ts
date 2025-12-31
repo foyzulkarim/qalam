@@ -11,13 +11,9 @@ test.describe('Homepage', () => {
   })
 
   test('should have navigation links', async ({ page }) => {
-    // Use semantic selectors - avoid href attribute matching
-    await expect(page.locator('nav').getByRole('link', { name: 'Home' })).toBeVisible()
-    await expect(page.locator('nav').getByRole('link', { name: 'Browse' })).toBeVisible()
-  })
-
-  test('should have a Quick Practice button in navbar', async ({ page }) => {
-    await expect(page.locator('nav').getByRole('link', { name: 'Quick Practice' })).toBeVisible()
+    // Homepage has custom navigation with Browse Surahs and Start Practice buttons
+    await expect(page.locator('nav').getByRole('link', { name: 'Browse Surahs' })).toBeVisible()
+    await expect(page.locator('nav').getByRole('link', { name: 'Start Practice' })).toBeVisible()
   })
 
   test('should have GitHub link', async ({ page }) => {
@@ -26,7 +22,7 @@ test.describe('Homepage', () => {
   })
 
   test('should navigate to browse page', async ({ page }) => {
-    await page.locator('nav').getByRole('link', { name: 'Browse' }).click()
+    await page.locator('nav').getByRole('link', { name: 'Browse Surahs' }).click()
     await expect(page).toHaveURL(/\/browse/)
   })
 })

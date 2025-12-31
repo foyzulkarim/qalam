@@ -4,7 +4,8 @@ test.describe('Mobile Navigation', () => {
   test.use({ viewport: { width: 375, height: 667 } })
 
   test.beforeEach(async ({ page }) => {
-    await page.goto('/')
+    // Test on a page that uses the Navbar component (verse practice page)
+    await page.goto('/browse/surah/1/1/')
   })
 
   test('should show hamburger menu on mobile', async ({ page }) => {
@@ -38,7 +39,7 @@ test.describe('Tablet Navigation', () => {
   test.use({ viewport: { width: 768, height: 1024 } })
 
   test('should show desktop navigation on tablet', async ({ page }) => {
-    await page.goto('/')
+    await page.goto('/browse/surah/1/1/')
 
     // Desktop nav should be visible
     await expect(page.locator('nav').getByRole('link', { name: 'Browse' })).toBeVisible()
