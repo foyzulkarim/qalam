@@ -368,10 +368,12 @@ function extractJson(response: string): object {
  */
 function getTempPaths(surahId: number, verseNum: number) {
   const prefix = `${surahId}-${verseNum}`
+  const surahDir = path.join(ANALYSIS_DIR, surahId.toString())
   return {
     base: path.join(TEMP_DIR, `${prefix}.base.json`),
     word: (wordNum: number) => path.join(TEMP_DIR, `${prefix}.w${wordNum}.json`),
-    final: path.join(ANALYSIS_DIR, `${prefix}.json`),
+    final: path.join(surahDir, `${prefix}.json`),
+    surahDir,
   }
 }
 
@@ -470,18 +472,33 @@ function mergeAnalysis(base: BaseAnalysis, wordDetails: WordDetail[]): object {
 /**
  * Update manifest.json with list of available analyses
  * Called at the end of seeding to track which verses have analysis
+ * Scans surah directories for analysis files
  */
 function updateManifest(): void {
-  const files = fs.readdirSync(ANALYSIS_DIR)
-    .filter(f => /^\d+-\d+\.json$/.test(f))
-    .sort((a, b) => {
-      // Sort by surah then verse numerically
-      const [surahA, verseA] = a.replace('.json', '').split('-').map(Number)
-      const [surahB, verseB] = b.replace('.json', '').split('-').map(Number)
-      return surahA - surahB || verseA - verseB
-    })
+  const verses: string[] = []
 
-  const verses = files.map(f => f.replace('.json', '').replace('-', ':'))
+  const entries = fs.readdirSync(ANALYSIS_DIR, { withFileTypes: true })
+  for (const entry of entries) {
+    // Skip non-directories and special folders
+    if (!entry.isDirectory() || entry.name.startsWith('_')) continue
+    if (!/^\d+$/.test(entry.name)) continue
+
+    const surahId = entry.name
+    const surahDir = path.join(ANALYSIS_DIR, surahId)
+    const files = fs.readdirSync(surahDir)
+      .filter(f => /^\d+-\d+\.json$/.test(f))
+      .map(f => f.replace('.json', '').replace('-', ':'))
+
+    verses.push(...files)
+  }
+
+  // Sort by surah then verse numerically
+  verses.sort((a, b) => {
+    const [surahA, verseA] = a.split(':').map(Number)
+    const [surahB, verseB] = b.split(':').map(Number)
+    return surahA - surahB || verseA - verseB
+  })
+
   const manifest = {
     verses,
     generatedAt: new Date().toISOString(),
@@ -552,6 +569,12 @@ async function processVerse(surah: Surah, verseNum: number): Promise<{ success: 
   // Merge and save final
   console.log(`      Merging and saving final analysis...`)
   const final = mergeAnalysis(base, wordDetails)
+
+  // Ensure surah directory exists
+  if (!fs.existsSync(paths.surahDir)) {
+    fs.mkdirSync(paths.surahDir, { recursive: true })
+  }
+
   fs.writeFileSync(paths.final, JSON.stringify(final, null, 2))
 
   // Update manifest immediately (so CTRL+C won't lose progress)

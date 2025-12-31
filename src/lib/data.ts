@@ -222,12 +222,13 @@ export async function getVerseAnalysis(verseId: string): Promise<VerseAnalysis |
     return analysisPending.get(verseId)!
   }
 
-  // Convert "1:2" to "1-2" for file naming
-  const fileName = verseId.replace(':', '-')
+  // Convert "1:2" to path "1/1-2.json"
+  const [surah, verse] = verseId.split(':')
+  const fileName = `${surah}-${verse}`
 
   const fetchPromise = (async () => {
     try {
-      const response = await fetch(`${DATA_BASE_URL}/analysis/${fileName}.json`)
+      const response = await fetch(`${DATA_BASE_URL}/analysis/${surah}/${fileName}.json`)
       if (!response.ok) {
         if (typeof window !== 'undefined') {
           analysisCache.set(verseId, null)
