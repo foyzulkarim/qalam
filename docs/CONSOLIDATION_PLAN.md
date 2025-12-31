@@ -692,12 +692,237 @@ If issues arise:
 
 ---
 
+## Ongoing Data Generation
+
+### Current State
+- **6236 verses** total in the Quran
+- **~1000 analysis files** generated (~16%)
+- **~5236 remaining** to generate
+
+### Generation Workflow
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  1. GENERATE (Local)              2. SYNC (To R2)                    │
+│  ┌─────────────────────┐         ┌─────────────────────┐            │
+│  │ npm run seed:analysis│   ──▶   │ npm run sync:r2     │            │
+│  │                     │         │                     │            │
+│  │ - Uses Ollama (free)│         │ - Uploads new files │            │
+│  │ - Resume capable    │         │ - Delta sync only   │            │
+│  │ - Surah by surah    │         │ - Shows progress    │            │
+│  └─────────────────────┘         └─────────────────────┘            │
+│           │                               │                          │
+│           ▼                               ▼                          │
+│  public/data/analysis/           qalam-data/analysis/                │
+│  (local files)                   (R2 bucket)                         │
+│                                                                      │
+│  ✅ NO APP REDEPLOYMENT NEEDED - Data is live immediately!          │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+### Smart Sync Script
+
+**File:** `scripts/sync-to-r2.ts`
+
+```typescript
+/**
+ * Sync local analysis files to R2
+ * Only uploads new or changed files (delta sync)
+ *
+ * Usage: npm run sync:r2
+ */
+import { execSync } from 'child_process'
+import { readdirSync, statSync, readFileSync, writeFileSync, existsSync } from 'fs'
+import { join } from 'path'
+import { createHash } from 'crypto'
+
+const BUCKET = 'qalam-data'
+const LOCAL_DIR = 'public/data/analysis'
+const MANIFEST_FILE = 'public/data/analysis/.r2-manifest.json'
+
+interface Manifest {
+  files: Record<string, { hash: string; uploadedAt: string }>
+}
+
+function getFileHash(filepath: string): string {
+  const content = readFileSync(filepath)
+  return createHash('md5').update(content).digest('hex')
+}
+
+function loadManifest(): Manifest {
+  if (existsSync(MANIFEST_FILE)) {
+    return JSON.parse(readFileSync(MANIFEST_FILE, 'utf-8'))
+  }
+  return { files: {} }
+}
+
+function saveManifest(manifest: Manifest): void {
+  writeFileSync(MANIFEST_FILE, JSON.stringify(manifest, null, 2))
+}
+
+async function sync() {
+  const manifest = loadManifest()
+  const localFiles = readdirSync(LOCAL_DIR).filter(f => f.endsWith('.json') && !f.startsWith('.'))
+
+  let uploaded = 0
+  let skipped = 0
+
+  console.log(`Found ${localFiles.length} local analysis files`)
+  console.log(`Manifest has ${Object.keys(manifest.files).length} tracked files\n`)
+
+  for (const file of localFiles) {
+    const filepath = join(LOCAL_DIR, file)
+    const hash = getFileHash(filepath)
+
+    // Skip if file unchanged
+    if (manifest.files[file]?.hash === hash) {
+      skipped++
+      continue
+    }
+
+    // Upload to R2
+    console.log(`Uploading ${file}...`)
+    try {
+      execSync(`npx wrangler r2 object put "${BUCKET}/analysis/${file}" --file="${filepath}"`, {
+        stdio: 'pipe',
+      })
+
+      manifest.files[file] = {
+        hash,
+        uploadedAt: new Date().toISOString(),
+      }
+      uploaded++
+    } catch (error) {
+      console.error(`Failed to upload ${file}:`, error)
+    }
+  }
+
+  saveManifest(manifest)
+
+  console.log(`\n✅ Sync complete!`)
+  console.log(`   Uploaded: ${uploaded} files`)
+  console.log(`   Skipped:  ${skipped} files (unchanged)`)
+  console.log(`   Total in R2: ${Object.keys(manifest.files).length} files`)
+
+  // Progress report
+  const total = 6236
+  const done = Object.keys(manifest.files).length
+  const percent = ((done / total) * 100).toFixed(1)
+  console.log(`\n📊 Overall progress: ${done}/${total} verses (${percent}%)`)
+}
+
+sync().catch(console.error)
+```
+
+### Progress Tracking
+
+Add a manifest file to track what's been uploaded:
+
+```json
+// public/data/analysis/.r2-manifest.json
+{
+  "files": {
+    "1-1.json": { "hash": "abc123", "uploadedAt": "2024-01-15T10:00:00Z" },
+    "1-2.json": { "hash": "def456", "uploadedAt": "2024-01-15T10:00:01Z" }
+  }
+}
+```
+
+### Recommended Generation Schedule
+
+Generate in batches by surah (modify `START_SURAH`/`END_SURAH` in seed script):
+
+| Priority | Surahs | Verses | Description |
+|----------|--------|--------|-------------|
+| ✅ Done | 1 | 7 | Al-Fatiha |
+| ✅ Done | 78-114 | ~564 | Juz Amma (short surahs, commonly memorized) |
+| High | 2 | 286 | Al-Baqarah (longest, most referenced) |
+| High | 36 | 83 | Ya-Sin (commonly recited) |
+| Medium | 18 | 110 | Al-Kahf (Friday recitation) |
+| Medium | 67 | 30 | Al-Mulk (night recitation) |
+| Ongoing | 3-77 | ~4500 | Remaining surahs |
+
+### Updated package.json Scripts
+
+```json
+{
+  "scripts": {
+    "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts",
+    "sync:r2": "tsx scripts/sync-to-r2.ts",
+    "data:status": "tsx scripts/data-status.ts"
+  }
+}
+```
+
+### Data Status Script
+
+**File:** `scripts/data-status.ts`
+
+```typescript
+/**
+ * Show analysis generation progress
+ */
+import { readdirSync, existsSync, readFileSync } from 'fs'
+
+const ANALYSIS_DIR = 'public/data/analysis'
+const MANIFEST_FILE = `${ANALYSIS_DIR}/.r2-manifest.json`
+const TOTAL_VERSES = 6236
+
+// Count by surah (approximate verse counts)
+const SURAH_VERSES: Record<number, number> = {
+  1: 7, 2: 286, 3: 200, 4: 176, 5: 120, 6: 165, 7: 206, 8: 75, 9: 129, 10: 109,
+  // ... (full list in actual implementation)
+}
+
+function main() {
+  const localFiles = readdirSync(ANALYSIS_DIR).filter(f => f.endsWith('.json') && !f.startsWith('.'))
+
+  // Count by surah
+  const bySurah: Record<number, number> = {}
+  for (const file of localFiles) {
+    const surahId = parseInt(file.split('-')[0])
+    bySurah[surahId] = (bySurah[surahId] || 0) + 1
+  }
+
+  console.log('📊 Analysis Generation Status\n')
+  console.log(`Total: ${localFiles.length} / ${TOTAL_VERSES} (${((localFiles.length/TOTAL_VERSES)*100).toFixed(1)}%)\n`)
+
+  // Show surah breakdown
+  console.log('By Surah:')
+  const surahs = Object.keys(bySurah).map(Number).sort((a, b) => a - b)
+  for (const surah of surahs) {
+    const done = bySurah[surah]
+    console.log(`  Surah ${surah}: ${done} verses`)
+  }
+
+  // Check R2 sync status
+  if (existsSync(MANIFEST_FILE)) {
+    const manifest = JSON.parse(readFileSync(MANIFEST_FILE, 'utf-8'))
+    const inR2 = Object.keys(manifest.files).length
+    const pendingSync = localFiles.length - inR2
+    console.log(`\n☁️  R2 Status:`)
+    console.log(`   In R2: ${inR2}`)
+    console.log(`   Pending sync: ${pendingSync}`)
+  }
+}
+
+main()
+```
+
 ## Future Considerations
 
 ### Adding New Data
 With R2, adding new analysis files doesn't require redeployment:
 ```bash
-npx wrangler r2 object put qalam-data/analysis/NEW-FILE.json --file=path/to/file.json
+# Generate new files
+npm run seed:analysis
+
+# Sync to R2
+npm run sync:r2
+
+# Data is immediately available to users!
 ```
 
 ### Multiple Environments
