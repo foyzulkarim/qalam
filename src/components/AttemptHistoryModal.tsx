@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react'
-import { Modal, Button } from './ui'
+import { Modal } from './ui'
 import { FeedbackCard } from './FeedbackCard'
 import { cn } from '@/lib/utils'
 import { getScoreColor, formatDateCompact } from '@/lib/formatters'
