@@ -1,7 +1,5 @@
-# Qalam Static Site - Cloudflare Pages
+# Qalam - Cloudflare Pages (Next.js with @cloudflare/next-on-pages)
 # For the Assessment API Worker, see ./worker/wrangler.toml
 name = "qalam"
 compatibility_date = "2024-12-24"
-
-[assets]
-directory = "./out"
+pages_build_output_dir = ".vercel/output/static"
