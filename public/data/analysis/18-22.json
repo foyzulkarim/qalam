@@ -1,0 +1,619 @@
+{
+  "verseId": "18:22",
+  "verse": {
+    "arabic": "سَيَقُولُونَ ثَلَاثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّي أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً ظَاهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا",
+    "transliteration": "Sayaqooloona thalathatun rabiAAuhum kalbuhum wayaqooloona khamsatun sadisuhum kalbuhum rajman bialghaybi wayaqooloona sabAAatun wathaminuhum kalbuhum qul rabbee aAAlamu biAAiddatihim ma yaAAlamuhum illa qaleelun fala tumari feehim illa miraan thahiran wala tastafti feehim minhum ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَيَقُولُونَ",
+      "transliteration": "sayaqūlūn",
+      "meaning": "they will say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "سَـ",
+          "meaning": "future tense marker (prefix)"
+        },
+        {
+          "arabic": "يَقُولُونَ",
+          "meaning": "they say (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ثَلَاثَةٌ",
+      "transliteration": "thalāthatun",
+      "meaning": "three",
+      "root": {
+        "letters": "ث-ل-ث",
+        "meaning": "to be three; to count or enumerate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّابِعُهُمْ",
+      "transliteration": "rābiʿuhum",
+      "meaning": "their fourth",
+      "root": {
+        "letters": "ر-ب-ع",
+        "meaning": "to be square, to have four; to join or add (fourth)"
+      },
+      "components": [
+        {
+          "arabic": "رَابِعٌ",
+          "meaning": "fourth (masculine)"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَلْبُهُمْ",
+      "transliteration": "kalbuhum",
+      "meaning": "their dog",
+      "root": {
+        "letters": "ك-ل-ب",
+        "meaning": "to be weary, exhausted; dog (by extension, due to the association with fatigue from guarding)"
+      },
+      "components": [
+        {
+          "arabic": "كلب",
+          "meaning": "dog"
+        },
+        {
+          "arabic": "ـُهُمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَيَقُولُونَ",
+      "transliteration": "wayaqūlūn",
+      "meaning": "and they will say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقُولُونَ",
+          "meaning": "they say (present/future)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "خَمْسَةٌ",
+      "transliteration": "khamsatun",
+      "meaning": "five",
+      "root": {
+        "letters": "خ-م-س",
+        "meaning": "to count, to be five, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَادِسُهُمْ",
+      "transliteration": "sādisuhum",
+      "meaning": "their sixth",
+      "root": {
+        "letters": "س-د-س",
+        "meaning": "to be six, sixth"
+      },
+      "components": [
+        {
+          "arabic": "سادس",
+          "meaning": "sixth"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَلْبُهُمْ",
+      "transliteration": "kalbuhum",
+      "meaning": "their dog",
+      "root": {
+        "letters": "ك-ل-ب",
+        "meaning": "to be weary, tired; dog (by extension)"
+      },
+      "components": [
+        {
+          "arabic": "كلب",
+          "meaning": "dog"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَجْمًا",
+      "transliteration": "rajman",
+      "meaning": "guessing",
+      "root": {
+        "letters": "ر-ج-م",
+        "meaning": "to cast, throw, or hurl; to aim at something with stones or missiles"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِالْغَيْبِ",
+      "transliteration": "bil-ghaybi",
+      "meaning": "at the unseen",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be hidden, unseen; to abscond"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْغَيْبِ",
+          "meaning": "the unseen, the hidden"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَيَقُولُونَ",
+      "transliteration": "wayaqūlūn",
+      "meaning": "and they will say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقُولُونَ",
+          "meaning": "they say, they will say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "سَبْعَةٌ",
+      "transliteration": "sabʿatun",
+      "meaning": "seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "to go away, to separate, fullness (leading to the idea of 'seven' as a complete quantity)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَثَامِنُهُمْ",
+      "transliteration": "wa-thāminuhum",
+      "meaning": "and their eighth",
+      "root": {
+        "letters": "ث-م-ن",
+        "meaning": "to count, to estimate; value, price"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ثَامِنُهُمْ",
+          "meaning": "their eighth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "كَلْبُهُمْ",
+      "transliteration": "kalbuhum",
+      "meaning": "their dog",
+      "root": {
+        "letters": "ك-ل-ب",
+        "meaning": "to be tired, weary; dog (as a result of being exhausted)"
+      },
+      "components": [
+        {
+          "arabic": "كلب",
+          "meaning": "dog"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قُل",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, utter, narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "رَّبِّي",
+      "transliteration": "rabbī",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "aʿlamu",
+      "meaning": "is most knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "most (superlative)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ending vowel (ḍamma)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِعِدَّتِهِم",
+      "transliteration": "biʿiddatihim",
+      "meaning": "of their number",
+      "root": {
+        "letters": "ع-دّ-د",
+        "meaning": "to count, number"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "عِدَّة",
+          "meaning": "number, count, quantity"
+        },
+        {
+          "arabic": "ـهِم",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "that/what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "water, fluidity; also used as a relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَعْلَمُهُمْ",
+      "transliteration": "yaʿlamuhum",
+      "meaning": "knows them",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware of, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, active voice"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "أ-ل-و",
+        "meaning": "to turn away, to refuse, to not accept"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "قَلِيلٌ",
+      "transliteration": "qalīl",
+      "meaning": "a few",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, little, insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": {
+        "letters": null,
+        "meaning": null
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "so do not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "تُمَارِ",
+      "transliteration": "tumāri",
+      "meaning": "argue",
+      "root": {
+        "letters": "م-ر-ي",
+        "meaning": "to dispute, to be contrary, to deceive"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a verb in the imperfect tense (future/present)"
+        },
+        {
+          "arabic": "مَارِ",
+          "meaning": "active participle of the root مَرَا, related to arguing/disputing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "فِيهِمْ",
+      "transliteration": "fīhim",
+      "meaning": "about them",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to be in, to contain, to relate to"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (masculine plural, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except with",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to reject, to deny; negative connotation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "مِرَاءً",
+      "transliteration": "mirāʾan",
+      "meaning": "a blatant argument",
+      "root": {
+        "letters": "م-ر-أ",
+        "meaning": "to dispute, to quarrel, to contend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "ظَاهِرًا",
+      "transliteration": "ẓāhiran",
+      "meaning": "obvious",
+      "root": {
+        "letters": "ظ-هـ-ر",
+        "meaning": "to appear, to become visible, to manifest"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَلَا",
+      "transliteration": "walā",
+      "meaning": "and do not inquire",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to abstain from, or to be without something"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "تَسْتَفْتِ",
+      "transliteration": "tastifti",
+      "meaning": "inquire",
+      "root": {
+        "letters": "س-ف-ت",
+        "meaning": "to seek help, to ask (for a legal ruling)"
+      },
+      "components": [
+        {
+          "arabic": "تَسْتَ",
+          "meaning": "you (masculine singular) seek repeatedly"
+        },
+        {
+          "arabic": "فْتِ",
+          "meaning": "legal ruling, fatwa"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "فِيهِم",
+      "transliteration": "fīhim",
+      "meaning": "about them",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-هـ",
+        "meaning": "origin, source, from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "anyone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, single"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the indefinite article, indicating 'a' or 'one'"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "uniqueness, singularity (noun form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-will-say three their-fourth being their-dog and-they-will-say five their-sixth being their-dog guessing at the unseen [pause] and-they-will-say seven and-their-eighth being their-dog [pause] say my-Lord is most-knowing of their-number that knows them except a few [pause] so do not argue about them except with an obvious argument and do not inquire about them from them anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

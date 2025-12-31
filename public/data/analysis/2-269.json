@@ -1,0 +1,292 @@
+{
+  "verseId": "2:269",
+  "verse": {
+    "arabic": "يُؤْتِي الْحِكْمَةَ مَن يَشَاءُ ۚ وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا ۗ وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ",
+    "transliteration": "Yutee alhikmata man yashao waman yuta alhikmata faqad ootiya khayran katheeran wama yaththakkaru illa oloo alalbabi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 269
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُؤْتِي",
+      "transliteration": "yuʾtī",
+      "meaning": "He gives",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "To give, to bestow, come forth with"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (masculine singular pronoun prefix)"
+        },
+        {
+          "arabic": "أَتَى",
+          "meaning": "To come, to give (basic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْحِكْمَةَ",
+      "transliteration": "al-ḥikmah",
+      "meaning": "the wisdom",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule, to be wise"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to exist without being perceived; also connected to questioning or inquiring"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-ئ",
+        "meaning": "to wish, to desire, to will"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun suffix)"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۚ",
+      "transliteration": "lā sign",
+      "meaning": "Pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and who, and whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also related to questioning/interrogation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يُؤْتَ",
+      "transliteration": "yuʾta",
+      "meaning": "is given, be given (passive)",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to give; bestowal"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person singular present tense, passive voice (in this context)"
+        },
+        {
+          "arabic": "أُوتِ",
+          "meaning": "passive verb form derived from the root أ-ت-ي (to give)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْحِكْمَةَ",
+      "transliteration": "al-ḥikmah",
+      "meaning": "the wisdom",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to restrain, to be wise"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَقَدْ",
+      "transliteration": "faqad",
+      "meaning": "then indeed, certainly",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be able, to have power or ability; loss, deficiency"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed, certainly; has happened (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أُوتِيَ",
+      "transliteration": "ʾūtīya",
+      "meaning": "has been given (passive)",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to bestow, to grant, to give"
+      },
+      "components": [
+        {
+          "arabic": "أُوتِيَ",
+          "meaning": "has been given (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "good (accusative)",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, good (in quality or nature)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَثِيرًا",
+      "transliteration": "kathīran",
+      "meaning": "much, abundant",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be numerous, to abound, to multiply"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۗ",
+      "transliteration": "lā sign",
+      "meaning": "Pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what, and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also negation and questioning"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يَذَّكَّرُ",
+      "transliteration": "yadhakkuru",
+      "meaning": "remembers, is reminded",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person singular when combined with the root."
+        },
+        {
+          "arabic": "ذَكَّرَ",
+          "meaning": "to remind, to cause someone to remember"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating present tense, active voice, third person singular masculine."
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أُولُو",
+      "transliteration": "ʾulū",
+      "meaning": "possessors of, those having",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to be near, to resort to, to possess"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "possessors of (plural marker)"
+        },
+        {
+          "arabic": "لُ",
+          "meaning": "the thing possessed (genitive marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْأَلْبَابِ",
+      "transliteration": "al-ʾalbāb",
+      "meaning": "the understanding, the minds",
+      "root": {
+        "letters": "ل-ب-ب",
+        "meaning": "to reach, to attain; the heart, intellect"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-gives the-wisdom to-who He-wills - and who is-given the-wisdom then-indeed has-been-given good much - and what remembers except possessors-of the-understanding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

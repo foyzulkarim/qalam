@@ -1,0 +1,231 @@
+{
+  "verseId": "18:95",
+  "verse": {
+    "arabic": "قَالَ مَا مَكَّنِّي فِيهِ رَبِّي خَيْرٌ فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+    "transliteration": "Qala ma makkannee feehi rabbee khayrun faaAAeenoonee biquwwatin ajAAal baynakum wabaynahum radman",
+    "surah": "Al-Kahf",
+    "verseNumber": 95
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to exist, to be; also related to water and fluidity (in some dialects)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَكَّنِّي",
+      "transliteration": "makkannī",
+      "meaning": "He has established me, He empowered me",
+      "root": {
+        "letters": "م-ك-ن",
+        "meaning": "to establish, to empower, to be firm or strong"
+      },
+      "components": [
+        {
+          "arabic": "مَكَّن",
+          "meaning": "He established, He empowered (past tense)"
+        },
+        {
+          "arabic": "ـنِي",
+          "meaning": "me (suffix pronoun, accusative/genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to reside"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَأَعِينُونِي",
+      "transliteration": "fa-ʿīnūnī",
+      "meaning": "so assist me",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to help, to assist, to support, to take care of"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "أَـ",
+          "meaning": "to (prefix denoting imperative)"
+        },
+        {
+          "arabic": "عَـ",
+          "meaning": "related to the root 'to help'"
+        },
+        {
+          "arabic": "ـونُونِي",
+          "meaning": "us (object pronoun suffix), assist me."
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِقُوَّةٍ",
+      "transliteration": "bi-quwwatin",
+      "meaning": "with strength/power",
+      "root": {
+        "letters": "ق-و-ي",
+        "meaning": "to be strong, to have power; firmness, solidity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "قُوَّةٍ",
+          "meaning": "strength, power (genitive case indicating manner)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَجْعَلْ",
+      "transliteration": "ajʿal",
+      "meaning": "I will make",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I will (future tense prefix)"
+        },
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "to make, to create, to place (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بَيْنَكُمْ",
+      "transliteration": "baynakum",
+      "meaning": "between you (pl.)",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be in the middle, to separate, distinction"
+      },
+      "components": [
+        {
+          "arabic": "بَيْنَ",
+          "meaning": "between"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَبَيْنَهُمْ",
+      "transliteration": "wa-baynahum",
+      "meaning": "and between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distant, to separate, to differentiate"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَيْنَهُمْ",
+          "meaning": "between them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "رَدْمًا",
+      "transliteration": "radman",
+      "meaning": "a barrier, a dam",
+      "root": {
+        "letters": "ر-د-م",
+        "meaning": "to fill, to pile up, to restore"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said what my-Lord has-established me in-it better so-assist-me with-strength I-will-make between-you and-between-them a-barrier"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

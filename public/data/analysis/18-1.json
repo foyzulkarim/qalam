@@ -1,0 +1,224 @@
+{
+  "verseId": "18:1",
+  "verse": {
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَل لَّهُ عِوَجًا ۜ",
+    "transliteration": "Alhamdu lillahi allathee anzala AAala AAabdihi alkitaba walam yajAAal lahu AAiwajan",
+    "surah": "Al-Kahf",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْحَمْدُ",
+      "transliteration": "al-ḥamdu",
+      "meaning": "The praise, gratitude",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "Praise, extolling excellence; thanksgiving"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَمْدُ",
+          "meaning": "Praise, gratitude (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "To Allah, for Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "To, for"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "The One who, which (relative pronoun)",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, having qualities"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنزَلَ",
+      "transliteration": "anzala",
+      "meaning": "He sent down, He lowered",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down, to lower"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "sign of remote past tense (prefix)"
+        },
+        {
+          "arabic": "نَزَلَ",
+          "meaning": "to descend, to come down"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَبْدِهِ",
+      "transliteration": "ʿabdihi",
+      "meaning": "His Servant, His slave",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve, slavery"
+      },
+      "components": [
+        {
+          "arabic": "عَبْدِ",
+          "meaning": "Servant, slave (genitive form)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "The Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording; to write"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, writing; that which is written"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "Not (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَجْعَل",
+      "transliteration": "yajʿal",
+      "meaning": "He makes, He sets",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to bring into existence, to make something happen"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person singular (he)"
+        },
+        {
+          "arabic": "جَعَل",
+          "meaning": "to make, to set, to create"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَّهُ",
+      "transliteration": "lahu",
+      "meaning": "For him, to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عِوَجًا",
+      "transliteration": "ʿiwajan",
+      "meaning": "Deviance, crookedness",
+      "root": {
+        "letters": "ع-و-ج",
+        "meaning": "To be crooked, to deviate; bending, twisting"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۜ",
+      "transliteration": "sīnin (pause marker)",
+      "meaning": "[Pause Marker]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ۜ",
+          "meaning": "Pause Marker (indicating a short pause in recitation; no inherent lexical meaning)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-praise -to-Allah -the-One-who -He-sent-down -upon -His-Servant -the-Book -and -not -He-makes -for-him -deviance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

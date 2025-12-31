@@ -1,0 +1,254 @@
+{
+  "verseId": "2:205",
+  "verse": {
+    "arabic": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ ۗ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ",
+    "transliteration": "Waitha tawalla saAAa fee alardi liyufsida feeha wayuhlika alhartha waalnnasla waAllahu la yuhibbu alfasada",
+    "surah": "Al-Baqarah",
+    "verseNumber": 205
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to go, to depart; to come about, to happen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَوَلَّىٰ",
+      "transliteration": "tawallā",
+      "meaning": "he turned away, he went away",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to be responsible for, to entrust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَعَىٰ",
+      "transliteration": "saʿā",
+      "meaning": "he strove, he hurried",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to endeavor, to strive, to make an effort"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, throughout",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the land, the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لِيُفْسِدَ",
+      "transliteration": "li-yufsida",
+      "meaning": "in order to corrupt, so that he might corrupt",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "decay, corruption, ruin"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "يُفْسِدَ",
+          "meaning": "he corrupts (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "therein, in it (referring to the land)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to reside within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُهْلِكَ",
+      "transliteration": "yuhliku",
+      "meaning": "he destroys, he ruins",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be lost; to destroy"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the first person singular present tense (he)"
+        },
+        {
+          "arabic": "هَلَكَ",
+          "meaning": "to perish, to be destroyed (past tense root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْحَرْثَ",
+      "transliteration": "al-ḥarthi",
+      "meaning": "the crops, the cultivated land",
+      "root": {
+        "letters": "ح-ر-ث",
+        "meaning": "to cultivate, plow, sow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "النَّسْلَ",
+      "transliteration": "an-nasla",
+      "meaning": "the offspring, the animals/livestock",
+      "root": {
+        "letters": "ن-س-ل",
+        "meaning": "to be prolonged, to continue; offspring"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۗ",
+      "transliteration": "pause particle",
+      "meaning": "pause/separation marker (no direct semantic meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to be worshipped, God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, does not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يُحِبُّ",
+      "transliteration": "yuḥibbu",
+      "meaning": "he loves",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of, affection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, third person masculine singular"
+        },
+        {
+          "arabic": "حَبَّ",
+          "meaning": "love, affection (verbal noun)"
+        },
+        {
+          "arabic": "بُ",
+          "meaning": "vowel indicating present tense, third person masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْفَسَادَ",
+      "transliteration": "al-fasāda",
+      "meaning": "the corruption, the evil",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "to be decayed, ruined; to be corrupted; to spoil"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when he-turned-away he-stroved in the-land to-corrupt therein and he-destroys the-crops and and the-offspring and Allah not he-loves the-corruption"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

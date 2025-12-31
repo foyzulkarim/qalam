@@ -1,0 +1,98 @@
+{
+  "verseId": "55:38",
+  "verse": {
+    "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "transliteration": "Fabiayyi alai rabbikuma tukaththibani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبِأَيِّ",
+      "transliteration": "fa-bi-ʾayyi",
+      "meaning": "So, by which?",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "relative pronoun; questioning, inquiry"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "بِـ",
+          "meaning": "by, with (preposition)"
+        },
+        {
+          "arabic": "أَيٍّ",
+          "meaning": "which (relative pronoun in genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آلَاءِ",
+      "transliteration": "ʾālāʾi",
+      "meaning": "Favors (plural)",
+      "root": {
+        "letters": "أ-ل-و",
+        "meaning": "to return, to revert, to be high or exalted"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكُمَا",
+      "transliteration": "rabbi-kumaa",
+      "meaning": "Your Lord (dual)",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive singular)"
+        },
+        {
+          "arabic": "كُمَا",
+          "meaning": "dual possessive pronoun - 'your (two)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُكَذِّبَانِ",
+      "transliteration": "tukadhdhibāni",
+      "meaning": "Do you both deny?",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "Prefix indicating the second person dual masculine present tense (you both)"
+        },
+        {
+          "arabic": "كَذِّبـ",
+          "meaning": "Active participle form related to denial/lying, with the root ك-ذ-ب"
+        },
+        {
+          "arabic": "ـَانِ",
+          "meaning": "Dual masculine pronoun suffix (you both)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-by which - of the favors - of your Lord (dual) - you both deny?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

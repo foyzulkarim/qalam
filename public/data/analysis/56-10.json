@@ -1,0 +1,59 @@
+{
+  "verseId": "56:10",
+  "verse": {
+    "arabic": "وَالسَّابِقُونَ السَّابِقُونَ",
+    "transliteration": "Waalssabiqoona alssabiqoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالسَّابِقُونَ",
+      "transliteration": "wa-s-sābiqūna",
+      "meaning": "and the forerunners",
+      "root": {
+        "letters": "س-ب-ق",
+        "meaning": "to precede, to go before, to outstrip"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "السَّابِقُونَ",
+          "meaning": "the forerunners, the ones who preceded"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّابِقُونَ",
+      "transliteration": "as-sābiqūna",
+      "meaning": "the forerunners",
+      "root": {
+        "letters": "س-ب-ق",
+        "meaning": "to precede, to outstrip, to be early"
+      },
+      "components": [
+        {
+          "arabic": "السّابِق",
+          "meaning": "the one who precedes/outstrips"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix of plural masculine active participle"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the forerunners the forerunners"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

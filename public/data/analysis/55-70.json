@@ -1,0 +1,70 @@
+{
+  "verseId": "55:70",
+  "verse": {
+    "arabic": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ",
+    "transliteration": "Feehinna khayratun hisanun",
+    "surah": "Ar-Rahman",
+    "verseNumber": 70
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهِنَّ",
+      "transliteration": "fīhinna",
+      "meaning": "in them (feminine plural)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَيْرَاتٌ",
+      "transliteration": "khayrātun",
+      "meaning": "good things, good deeds, goodnesses",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": [
+        {
+          "arabic": "خَيْر",
+          "meaning": "goodness, good thing"
+        },
+        {
+          "arabic": "ات",
+          "meaning": "plural marker, indicating multiple good things/deeds"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حِسَانٌ",
+      "transliteration": "ḥisānun",
+      "meaning": "beautiful things, beauties",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "goodness, beauty"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-them [are] good-things beautiful-things"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "verseId": "18:16",
+  "verse": {
+    "arabic": "وَإِذِ اعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا اللَّهَ فَأْوُوا إِلَى الْكَهْفِ يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِ وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًا",
+    "transliteration": "Waithi iAAtazaltumoohum wama yaAAbudoona illa Allaha fawoo ila alkahfi yanshur lakum rabbukum min rahmatihi wayuhayyi lakum min amrikum mirfaqan",
+    "surah": "Al-Kahf",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذِ",
+      "transliteration": "ʾiḏī",
+      "meaning": "when, at the time when",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to pass away (of time)"
+      },
+      "components": [
+        {
+          "arabic": "إِذ",
+          "meaning": "when, at the time when (temporal particle derived from ذَهَب)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اعْتَزَلْتُمُوهُمْ",
+      "transliteration": "ʿa tazaltumūhum",
+      "meaning": "you withdrew yourselves from them",
+      "root": {
+        "letters": "ع-ز-ل",
+        "meaning": "to separate, to withdraw, to isolate"
+      },
+      "components": [
+        {
+          "arabic": "اِعْتَ",
+          "meaning": "intensive prefix indicating seeking or doing something repeatedly/thoroughly"
+        },
+        {
+          "arabic": "زَلْتُمُ",
+          "meaning": "you withdrew/separated yourselves (second person plural masculine)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for; relative pronoun implying questioning or uncertainty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَعْبُدُونَ",
+      "transliteration": "yaʿbudūna",
+      "meaning": "they worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship, slavery"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "عَبَدُوا",
+          "meaning": "worshipped (verb)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "plural suffix (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to deny, to refuse; negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the object of adoration"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَأْوُوا",
+      "transliteration": "faʾwū",
+      "meaning": "then seek refuge, retreat",
+      "root": {
+        "letters": "أ-و-ى",
+        "meaning": "to return, to seek refuge, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "to, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline towards, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْكَهْفِ",
+      "transliteration": "al-kahfi",
+      "meaning": "the cave",
+      "root": {
+        "letters": "ك-هـ-ف",
+        "meaning": "to conceal, to hide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَنشُرْ",
+      "transliteration": "yanšur",
+      "meaning": "He will spread out",
+      "root": {
+        "letters": "ش-ر-ن",
+        "meaning": "to spread, to expand, to unfold"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (masculine, present/future tense prefix)"
+        },
+        {
+          "arabic": "نَشُرْ",
+          "meaning": "spreading, expansion (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, possess, have sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رَبُّكُم",
+      "transliteration": "rabukum",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master, Possessor"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِّن رَّحْمَتِهِ",
+      "transliteration": "min raḥmatihi",
+      "meaning": "from His mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness, pity"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّحْمَتِهِ",
+          "meaning": "His mercy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَيُهَيِّئْ",
+      "transliteration": "wa yuhayyiʾ",
+      "meaning": "and He will prepare",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to prepare, to arrange, to equip; to make ready or suitable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُهَيِّئْ",
+          "meaning": "He prepares (verbal form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَكُم",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مِّنْ أَمْرِكُم",
+      "transliteration": "min ʾamrikum",
+      "meaning": "from your affair/matter",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair, matter"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "أَمْرِكُم",
+          "meaning": "your affair/matter"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مِّرْفَقًا",
+      "transliteration": "mirfaqan",
+      "meaning": "facility, ease",
+      "root": {
+        "letters": "ر-ف-ق",
+        "meaning": "gentleness, ease, leniency"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when you-withdrew yourselves-from them and-what they-worship except Allah then-retreat to the cave He-will spread-out for-you your-Lord from His-mercy and-He will prepare for-you from your-affair facility"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

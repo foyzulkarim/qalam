@@ -1,0 +1,58 @@
+{
+  "verseId": "56:42",
+  "verse": {
+    "arabic": "فِي سَمُومٍ وَحَمِيمٍ",
+    "transliteration": "Fee samoomin wahameemin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; abundance, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَمُومٍ",
+      "transliteration": "samūmin",
+      "meaning": "scorching wind, hot blast",
+      "root": {
+        "letters": "س-و-م",
+        "meaning": "intense heat, burning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَمِيمٍ",
+      "transliteration": "ḥamīmin",
+      "meaning": "scalding water, hot water",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "Praise, warmth, redness; to be warm or red."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in - scorching wind - and - scalding water"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

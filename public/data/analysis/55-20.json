@@ -1,0 +1,78 @@
+{
+  "verseId": "55:20",
+  "verse": {
+    "arabic": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+    "transliteration": "Baynahuma barzakhun la yabghiyani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَيْنَهُمَا",
+      "transliteration": "baynahumā",
+      "meaning": "between them (dual)",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distinct, separate, or in between"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between"
+        },
+        {
+          "arabic": "هُما",
+          "meaning": "they (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَرْزَخٌ",
+      "transliteration": "barzakhun",
+      "meaning": "a barrier, an obstruction",
+      "root": {
+        "letters": "ب-ر-ز",
+        "meaning": "to appear, to protrude, to elevate; also associated with clarity and distinction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, negation",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَبْغِيَانِ",
+      "transliteration": "yabghiyāni",
+      "meaning": "they transgress, they exceed (dual)",
+      "root": {
+        "letters": "ب-غ-ي",
+        "meaning": "to desire something wrongfully, to oppress, to exceed limits"
+      },
+      "components": [
+        {
+          "arabic": "يَبْ",
+          "meaning": "prefix indicating dual present tense (they)"
+        },
+        {
+          "arabic": "غِيَانِ",
+          "meaning": "dual form of the active participle indicating transgression or exceeding limits"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "between-them a-barrier not they-transgress"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

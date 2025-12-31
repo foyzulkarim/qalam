@@ -1,0 +1,257 @@
+{
+  "verseId": "18:74",
+  "verse": {
+    "arabic": "فَانطَلَقَا حَتَّىٰ إِذَا لَقِيَا غُلَامًا فَقَتَلَهُ قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا",
+    "transliteration": "Faintalaqa hatta itha laqiya ghulaman faqatalahu qala aqatalta nafsan zakiyyatan bighayri nafsin laqad jita shayan nukran",
+    "surah": "Al-Kahf",
+    "verseNumber": 74
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَانطَلَقَا",
+      "transliteration": "fa-nṭalaqā",
+      "meaning": "so they set out, then they departed",
+      "root": {
+        "letters": "ن-ط-ل",
+        "meaning": "to set forth, to depart, to proceed"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "انْـ",
+          "meaning": "indicates immediate action or emphasis"
+        },
+        {
+          "arabic": "طَلَقَا",
+          "meaning": "they departed, they set out (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "to limit, to confine, boundary"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to avoid, to shun"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَقِيَا",
+      "transliteration": "laqiyā",
+      "meaning": "they met, they encountered",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "to meet, to encounter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غُلَامًا",
+      "transliteration": "ghulāman",
+      "meaning": "a boy, a young male human",
+      "root": {
+        "letters": "غ-ل-م",
+        "meaning": "immaturity, lack of perfection, youthfulness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَقَتَلَهُ",
+      "transliteration": "fa-qatalahu",
+      "meaning": "so he killed him",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "قَتَلَ",
+          "meaning": "he killed"
+        },
+        {
+          "arabic": "~هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَقَتَلْتَ",
+      "transliteration": "a-qatalta",
+      "meaning": "did you kill?",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy, cessation of life"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of questioning, indicates a yes/no question"
+        },
+        {
+          "arabic": "قَتَلْتَ",
+          "meaning": "you killed (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نَفْسًا",
+      "transliteration": "nafsan",
+      "meaning": "a soul, a life, a person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, breath, essence, self"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "زَكِيَّةً",
+      "transliteration": "zakiyyah",
+      "meaning": "pure, innocent, virtuous",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean, righteous; to flourish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِغَيْرِ",
+      "transliteration": "bi-ghayri",
+      "meaning": "without, except for",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to lack, to be without, otherness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَيْرِ",
+          "meaning": "without, other than"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نَفْسٍ",
+      "transliteration": "nafsin",
+      "meaning": "a soul, a life, a person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, to desire, the essence of being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَّقَدْ",
+      "transliteration": "la-qad",
+      "meaning": "indeed, certainly",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power; fate, decree"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "particle emphasizing affirmation; indeed, surely"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "has occurred; indicates certainty or completion of an action."
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "جِئْتَ",
+      "transliteration": "jiʾta",
+      "meaning": "you have come with, you have done",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جِئ",
+          "meaning": "you come"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "something, a thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be, to exist; something that is"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "نُّكْرًا",
+      "transliteration": "nukran",
+      "meaning": "deplorable, abominable, evil",
+      "root": {
+        "letters": "ن-ك-ر",
+        "meaning": "to be unknown, to deny, to reject"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-set-out - until - when - they-met - a-boy - so-he-killed-him - he-said - did-you-kill - a-soul - pure - without - a-soul - indeed - you-have-come-with - something - deplorable"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

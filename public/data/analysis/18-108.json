@@ -1,0 +1,113 @@
+{
+  "verseId": "18:108",
+  "verse": {
+    "arabic": "خَالِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا",
+    "transliteration": "Khalideena feeha la yabghoona AAanha hiwalan",
+    "surah": "Al-Kahf",
+    "verseNumber": 108
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَالِدِينَ",
+      "transliteration": "khālidīn",
+      "meaning": "abiding, remaining eternally",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to be eternal, to remain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَبْغُونَ",
+      "transliteration": "yabghūna",
+      "meaning": "they desire, they seek",
+      "root": {
+        "letters": "ب-غ-ي",
+        "meaning": "to seek, to desire, to oppress"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person plural"
+        },
+        {
+          "arabic": "بَغَ",
+          "meaning": "the root فعل (verb) denoting seeking or desiring"
+        },
+        {
+          "arabic": "وْنَ",
+          "meaning": "suffix indicating first person plural pronoun (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَنْهَا",
+      "transliteration": "ʿanhā",
+      "meaning": "from it",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to deviate, to turn away, to abstain from"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حِوَلًا",
+      "transliteration": "ḥiwalan",
+      "meaning": "transfer, change, displacement",
+      "root": {
+        "letters": "ح-و-ل",
+        "meaning": "to change, to alter, to move around"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "abiding-eternally in-it not they-desire from-it transfer"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

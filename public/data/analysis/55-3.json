@@ -1,0 +1,41 @@
+{
+  "verseId": "55:3",
+  "verse": {
+    "arabic": "خَلَقَ الْإِنسَانَ",
+    "transliteration": "Khalaqa alinsana",
+    "surah": "Ar-Rahman",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "He created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to fashion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "the human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be weak, frail; to associate with others, adapt"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "created-He the-human-being"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

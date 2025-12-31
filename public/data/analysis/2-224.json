@@ -1,0 +1,272 @@
+{
+  "verseId": "2:224",
+  "verse": {
+    "arabic": "وَلَا تَجْعَلُوا اللَّهَ عُرْضَةً لِّأَيْمَانِكُمْ أَن تَبَرُّوا وَتَتَّقُوا وَتُصْلِحُوا بَيْنَ النَّاسِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+    "transliteration": "Wala tajAAaloo Allaha AAurdatan liaymanikum an tabarroo watattaqoo watuslihoo bayna alnnasi waAllahu sameeAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 224
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَجْعَلُوا",
+      "transliteration": "tajʿalū",
+      "meaning": "you make",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense, you (plural)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating the plural 'you'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عُرْضَةً",
+      "transliteration": "ʿurḍatan",
+      "meaning": "an obstacle, excuse",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to offer, width, expanse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِّأَيْمَانِكُمْ",
+      "transliteration": "liʾaymānikum",
+      "meaning": "for your oaths",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "right hand; oath; trustworthiness; strength"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَيْمَانِكُمْ",
+          "meaning": "your oaths"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to (infinitive marker)",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to extend, to prolong; a connection or relation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَبَرُّوا",
+      "transliteration": "tabarrū",
+      "meaning": "you do righteousness",
+      "root": {
+        "letters": "ب-ر-ع",
+        "meaning": "to be pious, righteous, to excel in goodness"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefixed 'ta-' for creating a verb form indicating intentional action or attempting to do something"
+        },
+        {
+          "arabic": "بَرّ",
+          "meaning": "righteousness, piety, goodness"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating 'you (plural)' masculine form in the imperfect/jussive active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَتَّقُوا",
+      "transliteration": "tattaqū",
+      "meaning": "you fear (Allah)",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to come down; to be affected by something (negatively)"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix indicating the imperative mood, 'you (plural) do'"
+        },
+        {
+          "arabic": "تَّقِ",
+          "meaning": "Source derived from the root و-ق-ع, meaning 'to fear, to be wary of'"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "Suffix indicating the plural 'you' (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَتُصْلِحُوا",
+      "transliteration": "wa tuṣliḥū",
+      "meaning": "and you make peace/repair",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be sound, correct, whole; to repair, amend, improve"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تُصْلِحُوا",
+          "meaning": "you repair/make peace (verb, 2nd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, interval"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost or strayed, also to seek help or information (from others)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent; to hold back speech"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "a negative particle indicating absence or negation"
+        },
+        {
+          "arabic": "كَتَ",
+          "meaning": "from the root س-ك-ت, implying holding back or silence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to be divine, to worship, deity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "سَمِيعٌ",
+      "transliteration": "samīʿun",
+      "meaning": "Hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware, possess knowledge"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - not - you make - Allah - an obstacle/excuse - for your oaths - that - you do righteousness - and - you fear (Allah) - and - you make peace/repair - between - the people - [pause] - and Allah - Hearing - Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

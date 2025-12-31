@@ -1,0 +1,743 @@
+{
+  "verseId": "2:26",
+  "verse": {
+    "arabic": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَـٰذَا مَثَلًا ۘ يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+    "transliteration": "Inna Allaha la yastahyee an yadriba mathalan ma baAAoodatan fama fawqaha faamma allatheena amanoo fayaAAlamoona annahu alhaqqu min rabbihim waamma allatheena kafaroo fayaqooloona matha arada Allahu bihatha mathalan yudillu bihi katheeran wayahdee bihi katheeran wama yudillu bihi illa alfasiqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, exist; confirmation, emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to adore; divine power and majesty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَسْتَحْيِي",
+      "transliteration": "yastahyiī",
+      "meaning": "He shames, He feels shy, He hesitates",
+      "root": {
+        "letters": "ح-ي-ي",
+        "meaning": "Life, existence, being alive; shyness stems from awareness of one's self and potential exposure."
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "Prefix indicating continuous/repetitive action, 'he continues to...'"
+        },
+        {
+          "arabic": "حْيِي",
+          "meaning": "To be shy, to feel bashful, to hesitate (Form IV verb derived from the root ح-ي-ي)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "That, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَضْرِبَ",
+      "transliteration": "yaḍriba",
+      "meaning": "He strikes, He presents (an example)",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "To strike, to hit, to beat; to set an example, to present"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense, subjunctive mood, or indefinite noun."
+        },
+        {
+          "arabic": "ضْرِبَ",
+          "meaning": "The root verb in the jussive/subjunctive form."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَثَلًا",
+      "transliteration": "mathalan",
+      "meaning": "An example, a simile",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to be similar, to resemble; a likeness or comparison"
+      },
+      "components": [
+        {
+          "arabic": "مَثَل",
+          "meaning": "example, simile"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanween (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَعُوضَةً",
+      "transliteration": "baʿūḍatan",
+      "meaning": "A mosquito",
+      "root": {
+        "letters": "ب-ع-ض",
+        "meaning": "to bite, to gnaw; smallness, insignificance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "So what, and whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then; a connective particle indicating consequence or transition."
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "What, whatever; an interrogative or relative pronoun indicating uncertainty or generality."
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَوْقَهَا",
+      "transliteration": "fawqahā",
+      "meaning": "Above it, greater than it",
+      "root": {
+        "letters": "ف-وْ-ق",
+        "meaning": "to excel, to be above, to surpass"
+      },
+      "components": [
+        {
+          "arabic": "فَوْقَ",
+          "meaning": "above"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "Then as for, so concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ي-ن",
+        "meaning": "possession, owner; relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "They believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/future tense and plurality"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb, third person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَيَعْلَمُونَ",
+      "transliteration": "fayaʿlamūna",
+      "meaning": "So they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "يَـ",
+          "meaning": "indicates present/future tense and is a prefix for the verb."
+        },
+        {
+          "arabic": "عَلِمُوا",
+          "meaning": "they know (verb, form I)"
+        },
+        {
+          "arabic": "-ُونَ",
+          "meaning": "suffix indicating plural masculine subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَنَّهُ",
+      "transliteration": "ʾannahū",
+      "meaning": "That it is, indeed it is",
+      "root": {
+        "letters": "ح-ن-ا",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْحَقُّ",
+      "transliteration": "al-ḥaqqu",
+      "meaning": "The truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, essential nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "رَّبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "Their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[Pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَأَمَّا",
+      "transliteration": "waʾammā",
+      "meaning": "And as for, but concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to undertake, to regard as"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ي-ن",
+        "meaning": "possession, owner, or having a characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "They disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; ultimately relating to the rejection of truth by covering it up or denying its existence"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating plurality and the second person masculine"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they disbelieved (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فَيَقُولُونَ",
+      "transliteration": "fayaqūlūna",
+      "meaning": "So they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "يَقُولُونَ",
+          "meaning": "They say (verb, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مَاذَا",
+      "transliteration": "māḏā",
+      "meaning": "What?",
+      "root": {
+        "letters": "ذ-هـ-أ",
+        "meaning": "to take, to seize, to grasp; also astonishment/inquiry"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "interrogative particle, often indicating 'what?' or 'how?'"
+        },
+        {
+          "arabic": "ذَا",
+          "meaning": "this (demonstrative pronoun, modified for interrogation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "أَرَادَ",
+      "transliteration": "ʾarāda",
+      "meaning": "He intended, He willed",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "To desire, to want, to seek"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Prefix indicating the imperfect tense, often conveying intention or beginning of action."
+        },
+        {
+          "arabic": "رَادَ",
+          "meaning": "To return, to come back; in this context related to desiring something."
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the act of devotion and submission"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "بِهَـٰذَا",
+      "transliteration": "bihāḏā",
+      "meaning": "With this, by this",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to indicate, to point out"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "هَـٰذَا",
+          "meaning": "this"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "مَثَلًا",
+      "transliteration": "mathalan",
+      "meaning": "An example, a simile",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like; parable, example"
+      },
+      "components": [
+        {
+          "arabic": "مَثَل",
+          "meaning": "example, simile"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwin (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "ۘ",
+      "transliteration": "sukun (pause)",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "يُضِلُّ",
+      "transliteration": "yuḍillu",
+      "meaning": "He misleads, He causes to go astray",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to be lost, to err"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun prefix indicating the third person)"
+        },
+        {
+          "arabic": "ضِلُّ",
+          "meaning": "misleading, causing to go astray (verbal noun/form II)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "With it, by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "To possess, to have; to be with something or someone."
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With, by means of."
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "It (masculine pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "كَثِيرًا",
+      "transliteration": "kathīran",
+      "meaning": "Many",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "To be abundant, to be numerous, to increase in quantity or number"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "وَيَهْدِي",
+      "transliteration": "wayahdī",
+      "meaning": "And He guides",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, to direct"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَهْدِي",
+          "meaning": "He guides"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "With it, by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, ownership, accompaniment"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "كَثِيرًا",
+      "transliteration": "kathīran",
+      "meaning": "Many",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "To be numerous, abundant, plentiful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[Pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what, nor what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; questioning particle"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, nor what; interrogative/relative particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "يُضِلُّ",
+      "transliteration": "yuḍillu",
+      "meaning": "He misleads, He causes to go astray",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to err, to deviate, to go astray"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the third person singular masculine present tense"
+        },
+        {
+          "arabic": "ضَلَّ",
+          "meaning": "past tense form of 'to err', 'to go astray'"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah, indicating the present tense vowel"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "With it, by it",
+      "root": {
+        "letters": "ب-ح-ي",
+        "meaning": "To be alive, to exist; to possess, have power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "It (masculine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "Except, only",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, exception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "الْفَاسِقِينَ",
+      "transliteration": "al-fāsiqīna",
+      "meaning": "The defiantly disobedient, the wicked ones",
+      "root": {
+        "letters": "ف-س-ق",
+        "meaning": "To be unsound, defective; to deviate from the proper way; to corrupt."
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "فَاسِقِينَ",
+          "meaning": "Plural of فَاسِق (one who is defiantly disobedient, wicked)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the God -not He shames -that to present -an example -what a mosquito -so what above it -Then as for-those who they believed -so they know -that it is-the truth -from Their Lord -And as for-those who they disbelieved -so they say -What? He intended -the God -by this an example -He misleads-with it many -and He guides-with it many -And what He misleads-with it except-the defiantly disobedient"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

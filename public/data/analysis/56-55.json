@@ -1,0 +1,61 @@
+{
+  "verseId": "56:55",
+  "verse": {
+    "arabic": "فَشَارِبُونَ شُرْبَ الْهِيمِ",
+    "transliteration": "Fashariboona shurba alheemi",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 55
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَشَارِبُونَ",
+      "transliteration": "fa-shāribūna",
+      "meaning": "Then drinkers (plural masculine)",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink; to absorb; to partake"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "شَارِبُونَ",
+          "meaning": "drinkers (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شُرْبَ",
+      "transliteration": "shurbā",
+      "meaning": "Drinking (accusative case)",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink; absorption"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْهِيمِ",
+      "transliteration": "al-haimi",
+      "meaning": "The thirsty camels (genitive case)",
+      "root": {
+        "letters": "ح-ي-م",
+        "meaning": "To be overcome with longing, to intensely desire; thirst (as a consequence of strong desire)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-drinkers drinking of-the thirsty-camels"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

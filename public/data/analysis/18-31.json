@@ -1,0 +1,405 @@
+{
+  "verseId": "18:31",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ لَهُمْ جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِّن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۚ نِعْمَ الثَّوَابُ وَحَسُنَتْ مُرْتَفَقًا",
+    "transliteration": "Olaika lahum jannatu AAadnin tajree min tahtihimu alanharu yuhallawna feeha min asawira min thahabin wayalbasoona thiyaban khudran min sundusin waistabraqin muttakieena feeha AAala alaraiki niAAma alththawabu wahasunat murtafaqan",
+    "surah": "Al-Kahf",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, to begin; the initial part."
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (demonstrative prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Relating to 'those', suffix indicating plurality and distance."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them / To them (possessive pronoun)"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَنَّاتُ",
+      "transliteration": "jannātu",
+      "meaning": "Gardens (plural)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also related to the idea of abundance and lushness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَدْنٍ",
+      "transliteration": "ʿadnin",
+      "meaning": "Perpetual residence / Eden",
+      "root": {
+        "letters": "ع-د-ن",
+        "meaning": "to settle, to reside; lowlands (where settlement is easier)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَجْرِي",
+      "transliteration": "tajrī",
+      "meaning": "Flows / Runs (verb)",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "to flow, to run, to proceed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِن تَحْتِهِمُ",
+      "transliteration": "min taḥtihim",
+      "meaning": "From beneath them / Under them",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "to be below, to lie under, lower part"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "تَحْتِهِمُ",
+          "meaning": "beneath them / under them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَنْهَارُ",
+      "transliteration": "al-ʾanhāru",
+      "meaning": "The rivers (plural)",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream; riverbed"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَنْهَارُ",
+          "meaning": "rivers (plural of نهر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُحَلَّوْنَ",
+      "transliteration": "yuḥallawna",
+      "meaning": "They are adorned / Decorated (passive verb)",
+      "root": {
+        "letters": "ح-ل-و",
+        "meaning": "sweetness, adornment, change to a pleasant state"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker / prefix indicating they are being acted upon"
+        },
+        {
+          "arabic": "حَلَّوْ",
+          "meaning": "adorned / decorated (verbal root)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "Therein / In them (prepositional pronoun)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "To be in, to exist within; containment or location."
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "In, within (preposition)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Them (feminine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From / Of (preposition)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَسَاوِرَ",
+      "transliteration": "ʾasāwira",
+      "meaning": "Bracelets (plural)",
+      "root": {
+        "letters": "س-و-ر",
+        "meaning": "To construct, build; a wall or fortification. By extension, to adorn or embellish."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن ذَهَبٍ",
+      "transliteration": "min dhahabin",
+      "meaning": "Of gold",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to melt, to go away, gold (as a material)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "ذَهَبٍ",
+          "meaning": "gold (genitive case indicating possession/origin)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَيَلْبَسُونَ",
+      "transliteration": "wa yalbasūna",
+      "meaning": "And they wear (verb)",
+      "root": {
+        "letters": "ل-ب-س",
+        "meaning": "to wear, to put on; to cover"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَلْبَسُونَ",
+          "meaning": "they wear"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ثِيَابًا",
+      "transliteration": "thiyāban",
+      "meaning": "Garments (plural)",
+      "root": {
+        "letters": "ث-ي-ب",
+        "meaning": "To return, to revert; to become strong or firm; to weave."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "خُضْرًا",
+      "transliteration": "ḫuḍran",
+      "meaning": "Green (adjective)",
+      "root": {
+        "letters": "خ-ض-ر",
+        "meaning": "to be green, to flourish, freshness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِّن سُندُسٍ",
+      "transliteration": "min sundusin",
+      "meaning": "Of fine silk",
+      "root": {
+        "letters": "س-ن-د",
+        "meaning": "to be smooth, fine, delicate; to stretch out or spread"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "سُندُسٍ",
+          "meaning": "fine silk, a type of delicate cloth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَإِسْتَبْرَقٍ",
+      "transliteration": "wa ʾistabraqin",
+      "meaning": "And brocade / Rich silk",
+      "root": {
+        "letters": "س-ب-ر",
+        "meaning": "to test, to try; to spin (thread)"
+      },
+      "components": [
+        {
+          "arabic": "إِسْتَ",
+          "meaning": "intensive prefix indicating seeking or obtaining something thoroughly"
+        },
+        {
+          "arabic": "بْرَقٍ",
+          "meaning": "brightness; splendor, from the root س-ب-ر related to fine weaving/silk"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مُّتَّكِئِينَ",
+      "transliteration": "muttakʾīna",
+      "meaning": "Reclining (participle)",
+      "root": {
+        "letters": "ك-ي-أ",
+        "meaning": "To support, to lean on; to be self-sufficient/reliant."
+      },
+      "components": [
+        {
+          "arabic": "مُتَـ",
+          "meaning": "Prefix indicating passive voice or a state resulting from an action."
+        },
+        {
+          "arabic": "ـكِئِينَ",
+          "meaning": "Participle form indicating plurality of masculine agents in the accusative case."
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "Therein / In them (prepositional pronoun)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within (preposition)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "therein, in them (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَلَى الْأَرَائِكِ",
+      "transliteration": "ʿalā al-ʾarāʾiki",
+      "meaning": "Upon the couches / Adorned seats",
+      "root": {
+        "letters": "أ-ر-ك",
+        "meaning": "to strengthen, fortify; to set upon something firmly or persistently"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on top of"
+        },
+        {
+          "arabic": "الْأَرَائِكِ",
+          "meaning": "the couches; the adorned seats (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "نِعْمَ",
+      "transliteration": "niʿma",
+      "meaning": "How good / Excellent (exclamation)",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "pleasantness, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الثَّوَابُ",
+      "transliteration": "ath-thawābu",
+      "meaning": "The reward",
+      "root": {
+        "letters": "ث-و-ب",
+        "meaning": "to return, to come back; recompense, reward"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَحَسُنَتْ",
+      "transliteration": "wa ḥusnat",
+      "meaning": "And good / And beautiful is (feminine verb)",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, to be beautiful; excellence, goodness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حَسُنَتْ",
+          "meaning": "it was good / beautiful (feminine singular, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مُرْتَفَقًا",
+      "transliteration": "murtafaqan",
+      "meaning": "A resting place / Place of return (adverbial accusative)",
+      "root": {
+        "letters": "ر-ف-ق",
+        "meaning": "gentleness, ease, company; to accompany or return with something"
+      },
+      "components": [
+        {
+          "arabic": "مُرتَفِق",
+          "meaning": "one who seeks companionship or a place of return, passive participial form"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fatha, indicating accusative case (adverbial)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those - for them - gardens - of perpetual residence - flows - from beneath them - the rivers - they are adorned - therein - from - bracelets - of gold - and they wear - garments - green - of fine silk - and brocade - reclining - therein - upon - the couches - how good - the reward - and good - is the resting place"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "verseId": "2:178",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى ۖ الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنثَىٰ بِالْأُنثَىٰ ۚ فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ فَاتِّبَاعٌ بِالْمَعْرُوفِ وَأَدَاءٌ إِلَيْهِ بِإِحْسَانٍ ۗ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ ۗ فَمَنِ اعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُ عَذَابٌ أَلِيمٌ",
+    "transliteration": "Ya ayyuha allatheena amanoo kutiba AAalaykumu alqisasu fee alqatla alhurru bialhurri waalAAabdu bialAAabdi waalontha bialontha faman AAufiya lahu min akheehi shayon faittibaAAun bialmaAAroofi waadaon ilayhi biihsanin thalika takhfeefun min rabbikum warahmatun famani iAAtada baAAda thalika falahu AAathabun aleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 178
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, addressing intelligent beings)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "Interjection attracting attention; O!"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Vocative particle; indicates direct address to intelligent beings."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, to exist; relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating the present/future tense and plurality"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb in the perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُتِبَ",
+      "transliteration": "kutiba",
+      "meaning": "was prescribed/written",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كُتِبَ",
+          "meaning": "was written, was prescribed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَيْكُمُ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْقِصَاصُ",
+      "transliteration": "al-qiṣāṣu",
+      "meaning": "the retribution/legal compensation",
+      "root": {
+        "letters": "ق-ص-ص",
+        "meaning": "to relate, to recount; to seek justice or revenge"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قِصَاص",
+          "meaning": "retribution, legal compensation; seeking justice through equivalent punishment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in/for",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to penetrate, to be within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْقَتْلَى",
+      "transliteration": "al-qatlā",
+      "meaning": "the murdered [ones]",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to die"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قتلَى",
+          "meaning": "murdered (ones), slain"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْحُرُّ",
+      "transliteration": "al-ḥurru",
+      "meaning": "the free (person)",
+      "root": {
+        "letters": "ح-ر-ر",
+        "meaning": "freedom, liberation; heat, intensity (related to the feeling of being unconstrained)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِالْحُرِّ",
+      "transliteration": "bil-ḥurri",
+      "meaning": "with/for the free (person)",
+      "root": {
+        "letters": "ح-ر-ر",
+        "meaning": "freedom, heat, burning; to be free"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, for, by means of"
+        },
+        {
+          "arabic": "الْحُرِّ",
+          "meaning": "the free (person)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالْعَبْدُ",
+      "transliteration": "wal-ʿabdu",
+      "meaning": "and the slave (person)",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve; servitude, slavery"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْعَبْدُ",
+          "meaning": "the slave (person)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِالْعَبْدِ",
+      "transliteration": "bil-ʿabdi",
+      "meaning": "with/for the slave (person)",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, servitude, slavery"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, for, by means of"
+        },
+        {
+          "arabic": "الْعَبْدِ",
+          "meaning": "the slave (person)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَالْأُنثَىٰ",
+      "transliteration": "wal-unthā",
+      "meaning": "and the female (person)",
+      "root": {
+        "letters": "أ-ن-ث",
+        "meaning": "to be female, femininity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِالْأُنثَىٰ",
+      "transliteration": "bil-unthā",
+      "meaning": "with/for the female (person)",
+      "root": {
+        "letters": "أ-ن-ث",
+        "meaning": "femininity, female"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "الْأُنثَىٰ",
+          "meaning": "the female (person)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَمَنْ",
+      "transliteration": "famān",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conditional particle)"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "whoever, whoever (interrogative/conditional pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عُفِيَ",
+      "transliteration": "ʿufiya",
+      "meaning": "was forgiven/overlooked",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to forgive, to pardon, to overlook"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be sourced from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَخِيهِ",
+      "transliteration": "akhīhi",
+      "meaning": "his brother",
+      "root": {
+        "letters": "أ-خ-و",
+        "meaning": "to be related, to have a kinship; brother"
+      },
+      "components": [
+        {
+          "arabic": "أَخِ",
+          "meaning": "brother (nominative)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "شَيْءٌ",
+      "transliteration": "shayʾun",
+      "meaning": "something/anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be absent, to lack, non-existence; also, a thing or matter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "فَاتِّبَاعٌ",
+      "transliteration": "fattibāʿun",
+      "meaning": "then a following/suitable follow-up",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "فَا",
+          "meaning": "then, so (conjunctive particle)"
+        },
+        {
+          "arabic": "تِّبَاعٌ",
+          "meaning": "following, pursuit (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِالْمَعْرُوفِ",
+      "transliteration": "bil-maʿrūfi",
+      "meaning": "with/by good conduct",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, recognize; kindness, goodness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْمَعْرُوفِ",
+          "meaning": "the good conduct, the recognized good"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَأَدَاءٌ",
+      "transliteration": "waʾadāʾun",
+      "meaning": "and a payment/fulfillment (of obligation)",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to return, to give back, to fulfill"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ʾilayhi",
+      "meaning": "to him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards, to reach"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "بِإِحْسَانٍ",
+      "transliteration": "biʾiḥsānin",
+      "meaning": "with/by good conduct/excellence",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness, excellence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "إِحْسَانٍ",
+          "meaning": "goodness, excellence, perfect conduct"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, meekness, submission; also refers to being low in status or near"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that, this (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix indicating masculine singular, 'that'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "تَخْفِيفٌ",
+      "transliteration": "takhfīfun",
+      "meaning": "an alleviation/reduction",
+      "root": {
+        "letters": "خ-ف-ف",
+        "meaning": "to be light, easy, or diminished"
+      },
+      "components": [
+        {
+          "arabic": "تَخْفِيف",
+          "meaning": "alleviation/reduction (masculine singular noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِّن رَّبِّكُمْ",
+      "transliteration": "min rabbikum",
+      "meaning": "from your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture/increase"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّبِّكُمْ",
+          "meaning": "your Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "وَرَحْمَةٌ",
+      "transliteration": "wa-raḥmatun",
+      "meaning": "and a mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness, kindness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَحْمَةٌ",
+          "meaning": "a mercy, compassion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "فَمَنِ",
+      "transliteration": "famani",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conditional particle)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, anyone who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "اعْتَدَىٰ",
+      "transliteration": "iʿtadā",
+      "meaning": "transgressed/exceeded (limits)",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to transgress, to be in excess"
+      },
+      "components": [
+        {
+          "arabic": "اِعْتَ",
+          "meaning": "intensive prefix indicating seeking or doing something repeatedly/thoroughly"
+        },
+        {
+          "arabic": "دَىٰ",
+          "meaning": "root relating to exceeding or transgressing limits"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "بَعْدَ",
+      "transliteration": "baʿda",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far away"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix indicating masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "فَلَهُ",
+      "transliteration": "falahu",
+      "meaning": "then for him",
+      "root": {
+        "letters": "ف-ل-ح",
+        "meaning": "to succeed, to prosper, to be good or beneficial"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "for him, to him, his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "a punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; bitterness, difficulty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "أَلِيمٌ",
+      "transliteration": "ʾalīmun",
+      "meaning": "painful/severe",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "pain, affliction, suffering"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O- you- who- [have]- believed,- was- prescribed- upon- you- the- retribution/legal- compensation- in- the- murdered [ones]- the- free- with/- for- the- free- and- the- slave- with/- for- the- slave- and- the- female- with/- for- the- female.- So- whoever- was- forgiven/overlooked- for- him- from- his- brother- something/anything,- then- a- following/suitable- follow-up- with/- by- good- conduct- and- a- payment/fulfillment (of obligation)- to- him- with/- by- good- conduct/excellence.- That- is- an- alleviation/reduction- from- your- Lord- and- a- mercy.- So- whoever- transgressed/exceeded (limits)- after- that,- then- for- him- a- punishment- painful/severe."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

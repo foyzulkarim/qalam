@@ -1,0 +1,72 @@
+{
+  "verseId": "55:26",
+  "verse": {
+    "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+    "transliteration": "Kullu man AAalayha fanin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كُلُّ",
+      "transliteration": "kullu",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-و-ل",
+        "meaning": "totality, completeness; to be complete or sufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be oneself, to exist, or pertaining to existence; also denotes questioning/inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon it (feminine)",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to rise, to ascend; to be high or elevated; to burden, to depend on"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَانٍ",
+      "transliteration": "fānin",
+      "meaning": "perishing, will perish",
+      "root": {
+        "letters": "ف-ن-ي",
+        "meaning": "to perish, to be lost, to die"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "all-who upon-it will-perish"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

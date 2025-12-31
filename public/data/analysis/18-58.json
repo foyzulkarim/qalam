@@ -1,0 +1,382 @@
+{
+  "verseId": "18:58",
+  "verse": {
+    "arabic": "وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ ۖ لَوْ يُؤَاخِذُهُم بِمَا كَسَبُوا لَعَجَّلَ لَهُمُ الْعَذَابَ ۚ بَل لَّهُم مَّوْعِدٌ لَّن يَجِدُوا مِن دُونِهِ مَوْئِلًا",
+    "transliteration": "Warabbuka alghafooru thoo alrrahmati law yuakhithuhum bima kasaboo laAAajjala lahumu alAAathaba bal lahum mawAAidun lan yajidoo min doonihi mawilan",
+    "surah": "Al-Kahf",
+    "verseNumber": 58
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْغَفُورُ",
+      "transliteration": "al-ghafūru",
+      "meaning": "the Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "غَفُورٌ",
+          "meaning": "Forgiving (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذُو",
+      "transliteration": "dhū",
+      "meaning": "possessor of, owner of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الرَّحْمَةِ",
+      "transliteration": "ar-raḥmati",
+      "meaning": "the mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be tender; mercy"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رَحْمَة",
+          "meaning": "mercy, compassion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "faṣla",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if, were",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, desire, wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُؤَاخِذُهُم",
+      "transliteration": "yu'ākhidhu-hum",
+      "meaning": "He were to take them to account",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to receive, to account for"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "آخِذُ",
+          "meaning": "taking, accounting for (verbal noun form)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what, for what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; cessation of life"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَسَبُوا",
+      "transliteration": "kasabū",
+      "meaning": "they earned",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to earn, to gain"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating the pronoun 'they'"
+        },
+        {
+          "arabic": "سَبُوا",
+          "meaning": "earned (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَعَجَّلَ",
+      "transliteration": "laʿajjala",
+      "meaning": "He would have hastened",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "to hasten, to be quick"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "عَجَّلَ",
+          "meaning": "he hastened, he expedited"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَهُمُ",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "they (masculine plural, accusative/genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْعَذَابَ",
+      "transliteration": "al-ʿadhāba",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be harsh or severe; suffering"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابًا",
+          "meaning": "punishment, torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۚ",
+      "transliteration": "faṣla",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, to distinguish, to decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بَل",
+      "transliteration": "bal",
+      "meaning": "rather, but",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to oppose; refusal, denial"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَّهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مَّوْعِدٌ",
+      "transliteration": "mawʿidun",
+      "meaning": "an appointment, a term",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to return something with certainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لَّن",
+      "transliteration": "lan",
+      "meaning": "[negative future particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ل",
+          "meaning": "particle of negation for the future"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "pronoun suffix indicating 'we'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَجِدُوا",
+      "transliteration": "yajidū",
+      "meaning": "they will find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to obtain, to find, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense or subjunctive mood/imperative"
+        },
+        {
+          "arabic": "جِدُوا",
+          "meaning": "they find (verbal root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِن دُونِهِ",
+      "transliteration": "min dūni-hi",
+      "meaning": "from other than Him",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be beneath, to lack"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "دُونِ",
+          "meaning": "other than, besides"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مَوْئِلًا",
+      "transliteration": "maw'ilan",
+      "meaning": "a refuge, a shelter",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to go back, to resort to"
+      },
+      "components": [
+        {
+          "arabic": "مَـ",
+          "meaning": "prefix denoting place or time related to the root action"
+        },
+        {
+          "arabic": "وَئِل",
+          "meaning": "to seek refuge, to resort"
+        },
+        {
+          "arabic": "ـًا",
+          "meaning": "indefinite nominative singular ending, indicating a place of refuge"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-your Lord the-Forgiving possessor-of the-mercy [pause]. if He-were-to take-them-to-account with-what they earned He-would-have hastened for-them the-punishment [pause]. rather for-them is an-appointment never they-will-find from other-than Him a-refuge."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

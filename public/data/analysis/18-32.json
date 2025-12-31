@@ -1,0 +1,259 @@
+{
+  "verseId": "18:32",
+  "verse": {
+    "arabic": "وَاضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَابٍ وَحَفَفْنَاهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا",
+    "transliteration": "Waidrib lahum mathalan rajulayni jaAAalna liahadihima jannatayni min aAAnabin wahafafnahuma binakhlin wajaAAalna baynahuma zarAAan",
+    "surah": "Al-Kahf",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاضْرِبْ",
+      "transliteration": "waḍrib",
+      "meaning": "and strike/present",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "to strike, to hit, to beat, to set an example"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اضْرِبْ",
+          "meaning": "strike/present (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّثَلًا",
+      "transliteration": "mathalan",
+      "meaning": "an example",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَّجُلَيْنِ",
+      "transliteration": "rajulayni",
+      "meaning": "two men",
+      "root": {
+        "letters": "ر-ج-ل",
+        "meaning": "to return, to revert; man (as one who returns to earth)"
+      },
+      "components": [
+        {
+          "arabic": "رَجُل",
+          "meaning": "man"
+        },
+        {
+          "arabic": "يْنِ",
+          "meaning": "dual ending, indicating two men"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَعَلْنَا",
+      "transliteration": "jaʿalnā",
+      "meaning": "We made/granted",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made/granted (basic verb form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us/We (first person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِأَحَدِهِمَا",
+      "transliteration": "li-aḥadihimā",
+      "meaning": "to one of them",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, single, one"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "أَحَدِهِمَا",
+          "meaning": "one of them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جَنَّتَيْنِ",
+      "transliteration": "jannatayni",
+      "meaning": "two gardens",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, abundance (related to vegetation)"
+      },
+      "components": [
+        {
+          "arabic": "جَنَّتَيْنِ",
+          "meaning": "dual form of garden, implying two gardens"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be separate from, absence/lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَعْنَابٍ",
+      "transliteration": "ʿinābin",
+      "meaning": "grape vines/grapes",
+      "root": {
+        "letters": "ع-ن-ب",
+        "meaning": "to be succulent, to have grapes; vine, grape"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَحَفَفْنَاهُمَا",
+      "transliteration": "wa-ḥafafnāhumā",
+      "meaning": "and We bordered them",
+      "root": {
+        "letters": "ح-ف-ف",
+        "meaning": "to surround, to border, to encompass"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حَفَفْنَاهُمَا",
+          "meaning": "We surrounded/bordered them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِنَخْلٍ",
+      "transliteration": "bi-nakhl",
+      "meaning": "with palm trees",
+      "root": {
+        "letters": "ن-خ-ل",
+        "meaning": "to grow, to be abundant; palm tree"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "نَخْلٍ",
+          "meaning": "palm trees (genitive plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَجَعَلْنَا",
+      "transliteration": "wa-jaʿalnā",
+      "meaning": "and We made/placed",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made/placed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَيْنَهُمَا",
+      "transliteration": "baynahumā",
+      "meaning": "between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to be in between"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "they two (dual pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "زَرْعًا",
+      "transliteration": "zarʿan",
+      "meaning": "crops/cultivation",
+      "root": {
+        "letters": "ز-ر-ع",
+        "meaning": "to sow, to cultivate, to grow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-strike for-them an-example two-men We-made to-one-of-them two-gardens of grapevines and-We-bordered them with palm-trees and-We made between-them crops"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "verseId": "56:66",
+  "verse": {
+    "arabic": "إِنَّا لَمُغْرَمُونَ",
+    "transliteration": "Inna lamughramoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 66
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed we; Verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, Verily (emphasizing particle)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We, Us (first-person plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمُغْرَمُونَ",
+      "transliteration": "lamughramūn",
+      "meaning": "are in debt; are overwhelmed with obligations",
+      "root": {
+        "letters": "غ-ر-م",
+        "meaning": "to incur debt; to become obligated"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "مُغْرَمُونَ",
+          "meaning": "those who are in debt; overwhelmed with obligations (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we are-[now]-in-debt."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

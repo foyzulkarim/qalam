@@ -1,0 +1,186 @@
+{
+  "verseId": "18:73",
+  "verse": {
+    "arabic": "قَالَ لَا تُؤَاخِذْنِي بِمَا نَسِيتُ وَلَا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا",
+    "transliteration": "Qala la tuakhithnee bima naseetu wala turhiqnee min amree AAusran",
+    "surah": "Al-Kahf",
+    "verseNumber": 73
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not/Do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "To negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُؤَاخِذْنِي",
+      "transliteration": "tuʾākhidhnī",
+      "meaning": "You take me to account/blame me",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to receive"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine singular future tense"
+        },
+        {
+          "arabic": "آخِذ",
+          "meaning": "taking, seizing (verbal noun)"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "pronoun suffix indicating 'me/I'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "With what/For what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَسِيتُ",
+      "transliteration": "nasītu",
+      "meaning": "I forgot",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be absent from the mind"
+      },
+      "components": [
+        {
+          "arabic": "نَسِيتُ",
+          "meaning": "I forgot"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not/Do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تُرْهِقْنِي",
+      "transliteration": "turhiqnī",
+      "meaning": "You burden me/cover me with difficulty",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "exhaust, weary, overburden"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "رْهِق",
+          "meaning": "to overburden, to exhaust"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "suffix indicating first person singular (me)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be sourced from, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَمْرِي",
+      "transliteration": "ʾamrī",
+      "meaning": "My matter/affair",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair"
+      },
+      "components": [
+        {
+          "arabic": "أمْر",
+          "meaning": "matter, affair, command"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عُسْرًا",
+      "transliteration": "ʿusran",
+      "meaning": "Difficulty/Hardship",
+      "root": {
+        "letters": "ع-س-ر",
+        "meaning": "To be tight, constricted, difficult"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said - Not - You-take-me-to-account - With-what - I-forgot - And - Not - You-burden-me - From - My-matter - Difficulty"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

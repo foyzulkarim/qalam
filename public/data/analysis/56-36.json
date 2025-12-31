@@ -1,0 +1,58 @@
+{
+  "verseId": "56:36",
+  "verse": {
+    "arabic": "فَجَعَلْنَاهُنَّ أَبْكَارًا",
+    "transliteration": "FajaAAalnahunna abkaran",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَجَعَلْنَاهُنَّ",
+      "transliteration": "fa-jaʿalnāhunna",
+      "meaning": "So We made them",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to cause to be"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made"
+        },
+        {
+          "arabic": "نَـ",
+          "meaning": "We (pronoun suffix)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَبْكَارًا",
+      "transliteration": "abkāran",
+      "meaning": "virgins",
+      "root": {
+        "letters": "ب-ك-ر",
+        "meaning": "to be early, to mature, to dawn; also refers to young camels or livestock"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then]-We-made-them virgins"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

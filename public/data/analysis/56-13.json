@@ -1,0 +1,61 @@
+{
+  "verseId": "56:13",
+  "verse": {
+    "arabic": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ",
+    "transliteration": "Thullatun mina alawwaleena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُلَّةٌ",
+      "transliteration": "thullatun",
+      "meaning": "a group, a company",
+      "root": {
+        "letters": "ث-ل-ث",
+        "meaning": "to be three; third, group (related to counting)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from (among)",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَوَّلِينَ",
+      "transliteration": "al-awwalīna",
+      "meaning": "the former ones, the first peoples",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin, precedence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَوَّلِينَ",
+          "meaning": "first ones, former peoples (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "group-of from the former-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

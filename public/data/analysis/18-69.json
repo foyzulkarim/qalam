@@ -1,0 +1,148 @@
+{
+  "verseId": "18:69",
+  "verse": {
+    "arabic": "قَالَ سَتَجِدُنِي إِن شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا",
+    "transliteration": "Qala satajidunee in shaa Allahu sabiran wala aAAsee laka amran",
+    "surah": "Al-Kahf",
+    "verseNumber": 69
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَتَجِدُنِي",
+      "transliteration": "satajidunī",
+      "meaning": "You will find me",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to find, to seek, effort"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "future particle (will)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "second person masculine singular prefix (you)"
+        },
+        {
+          "arabic": "جِدْ",
+          "meaning": "finding, seeking (verbal noun)"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "masculine singular pronoun suffix (me)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِن شَاءَ",
+      "transliteration": "in shāʾa",
+      "meaning": "If He wills"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "صَابِرًا",
+      "transliteration": "ṣābiran",
+      "meaning": "Patient",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "Endurance, patience, steadfastness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَعْصِي",
+      "transliteration": "ʾaʿṣī",
+      "meaning": "I disobey",
+      "root": {
+        "letters": "ع-ص-ي",
+        "meaning": "to rebel, to disobey, to be obstinate"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first person singular - I"
+        },
+        {
+          "arabic": "عَصَى",
+          "meaning": "to disobey"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "pronoun suffix indicating first person singular - I"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "To you",
+      "root": {
+        "letters": "ل-ك-أ",
+        "meaning": "Possession, ownership, relation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَمْرًا",
+      "transliteration": "amran",
+      "meaning": "Order",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said You-will-find-me If-He-wills Allah Patient And Not I-disobey To-you Order"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

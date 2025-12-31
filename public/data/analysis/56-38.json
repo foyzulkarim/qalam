@@ -1,0 +1,59 @@
+{
+  "verseId": "56:38",
+  "verse": {
+    "arabic": "لِّأَصْحَابِ الْيَمِينِ",
+    "transliteration": "Liashabi alyameeni",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّأَصْحَابِ",
+      "transliteration": "li-ʾaṣḥābi",
+      "meaning": "for the companions (of)",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to have companions"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَصْحَابِ",
+          "meaning": "the companions (of)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْيَمِينِ",
+      "transliteration": "al-yamīni",
+      "meaning": "the right (side)",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, strength, auspiciousness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَمِينِ",
+          "meaning": "right (side)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the companions of-the right"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "verseId": "18:84",
+  "verse": {
+    "arabic": "إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ وَآتَيْنَاهُ مِن كُلِّ شَيْءٍ سَبَبًا",
+    "transliteration": "Inna makkanna lahu fee alardi waataynahu min kulli shayin sababan",
+    "surah": "Al-Kahf",
+    "verseNumber": 84
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَكَّنَّا",
+      "transliteration": "makkannā",
+      "meaning": "We established, We empowered",
+      "root": {
+        "letters": "م-ك-ن",
+        "meaning": "to be firm, to establish, to empower"
+      },
+      "components": [
+        {
+          "arabic": "مَكَّ",
+          "meaning": "established, empowered (base form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix indicating first-person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُ",
+      "transliteration": "lahū",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-و",
+        "meaning": "belonging to, for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي الْأَرْضِ",
+      "transliteration": "fī al-ʾarḍi",
+      "meaning": "in the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "earth, land, ground"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَآتَيْنَاهُ",
+      "transliteration": "wa-ʾātaynāhu",
+      "meaning": "and We gave to him",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, bestow, present"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آتَيْنَاهُ",
+          "meaning": "We gave to him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِن كُلِّ",
+      "transliteration": "min kulli",
+      "meaning": "from every, of all",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to encompass entirely; totality"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُلِّ",
+          "meaning": "every, all (definite form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "سَبَبًا",
+      "transliteration": "sababan",
+      "meaning": "a way, a cause, a means",
+      "root": {
+        "letters": "س-ب-ب",
+        "meaning": "to follow a path, to establish a connection or reason"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we established-for-him in-the-earth and-We-gave-to-him from-every thing a-way"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

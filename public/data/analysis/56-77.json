@@ -1,0 +1,56 @@
+{
+  "verseId": "56:77",
+  "verse": {
+    "arabic": "إِنَّهُ لَقُرْآنٌ كَرِيمٌ",
+    "transliteration": "Innahu laquranun kareemun",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 77
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahū",
+      "meaning": "Indeed, it (masculine)",
+      "root": {
+        "letters": "ن-هـ-أ",
+        "meaning": "to be, to exist; inherent property or essence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle introducing a clause"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَقُرْآنٌ",
+      "transliteration": "laqurʾānun",
+      "meaning": "Indeed, it is a Qur'an"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَرِيمٌ",
+      "transliteration": "karīmun",
+      "meaning": "Noble, generous",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, to possess honor and prestige"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-it [is]-a Qur'an noble."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

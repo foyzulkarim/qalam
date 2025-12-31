@@ -1,0 +1,365 @@
+{
+  "verseId": "2:142",
+  "verse": {
+    "arabic": "سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَن قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا ۚ قُل لِّلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ يَهْدِي مَن يَشَاءُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+    "transliteration": "Sayaqoolu alssufahao mina alnnasi ma wallahum AAan qiblatihimu allatee kanoo AAalayha qul lillahi almashriqu waalmaghribu yahdee man yashao ila siratin mustaqeemin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 142
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَيَقُولُ",
+      "transliteration": "sayaqūlu",
+      "meaning": "He will say (future tense)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to say"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "Future particle indicating 'will'"
+        },
+        {
+          "arabic": "يَقُولُ",
+          "meaning": "He says (present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السُّفَهَاءُ",
+      "transliteration": "as-sufahāʾu",
+      "meaning": "the foolish ones",
+      "root": {
+        "letters": "س-ف-ه",
+        "meaning": "lack of intelligence, foolishness; lightness, emptiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from (among)",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be taken from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-ا-س",
+        "meaning": "to forget, to be lost; people (as those who are easily forgotten or lost)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what (interrogative)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; related to questioning and seeking information"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلَّاهُمْ",
+      "transliteration": "wallāhum",
+      "meaning": "turned them away",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to govern, to entrust"
+      },
+      "components": [
+        {
+          "arabic": "وَلَّى",
+          "meaning": "He turned away, He abandoned"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "from",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to be away from, to depart from, removal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قِبْلَتِهِمُ",
+      "transliteration": "qiblatihimu",
+      "meaning": "their qiblah (direction of prayer)",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to turn towards, to accept, direction"
+      },
+      "components": [
+        {
+          "arabic": "قبل",
+          "meaning": "qiblah (direction of prayer)"
+        },
+        {
+          "arabic": "ـتِ",
+          "meaning": "possessive suffix - their (masculine plural)"
+        },
+        {
+          "arabic": "ـهِمُ",
+          "meaning": "pronoun suffix - their (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "which (relative pronoun)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be attached to, to follow"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "relative suffix indicating feminine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "past imperfect indicative suffix (they used to)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon it (referring to qiblah)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause marker)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "ا-ي-ي",
+        "meaning": "sign, verse, proof"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "قُل",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or narrate.  Also includes the idea of authority and command regarding speech."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لِّلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "to Allah (belonging to)",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, glory, thankfulness"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, belonging to"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْمَشْرِقُ",
+      "transliteration": "al-mashriqu",
+      "meaning": "the east",
+      "root": {
+        "letters": "ش-ر-ق",
+        "meaning": "to rise, to appear (of the sun); east"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَالْمَغْرِبُ",
+      "transliteration": "wal-maghribu",
+      "meaning": "and the west",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to set (sun), to go down; west"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause marker)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, proof, verse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَهْدِي",
+      "transliteration": "yahdī",
+      "meaning": "He guides",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to show the right way, to guide, to lead"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who (anyone)",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be obscure, hidden; to abstain from (something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills (desires)",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to desire, to will, to want"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first-person singular or imperfective aspect"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (past tense)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case and short vowel marking"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to (towards)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "صِرَاطٍ",
+      "transliteration": "ṣirāṭin",
+      "meaning": "a path",
+      "root": {
+        "letters": "ص-ر-ط",
+        "meaning": "to be straight, to go on a right path, directness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مُّسْتَقِيمٍ",
+      "transliteration": "mustaqīmin",
+      "meaning": "straight",
+      "root": {
+        "letters": "س-ق-م",
+        "meaning": "to go straight, to be upright, to guide correctly"
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَ",
+          "meaning": "passive participle prefix indicating 'one who is'"
+        },
+        {
+          "arabic": "قِيم",
+          "meaning": "active participle stem from the root س-ق-م, relating to uprightness and correctness"
+        },
+        {
+          "arabic": "ٍ",
+          "meaning": "tanwīn indicating indefinite noun in the genitive case (possessive)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-will-say – the-foolish-ones – from – the-people – what - turned-them-away – from – their-qiblah – which – they-used-to-be – upon-it - [separator] – Say! – to-Allah – the-east – and-the-west - [separator] – He-guides – who – He-wills – to – a-path – straight."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

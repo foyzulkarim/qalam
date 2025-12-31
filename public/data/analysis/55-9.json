@@ -1,0 +1,129 @@
+{
+  "verseId": "55:9",
+  "verse": {
+    "arabic": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+    "transliteration": "Waaqeemoo alwazna bialqisti wala tukhsiroo almeezana",
+    "surah": "Ar-Rahman",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَقِيمُوا",
+      "transliteration": "aqīmū",
+      "meaning": "establish, set up, maintain",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to be upright; foundation of existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْوَزْنَ",
+      "transliteration": "al-wazna",
+      "meaning": "the weight",
+      "root": {
+        "letters": "و-ز-ن",
+        "meaning": "to weigh, measure; importance, value"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالْقِسْطِ",
+      "transliteration": "bi-l-qiṣṭi",
+      "meaning": "with justice, by fairness",
+      "root": {
+        "letters": "ق-س-ط",
+        "meaning": "to divide, to straighten, to be just"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْقِسْطِ",
+          "meaning": "the justice, the fairness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تُخْسِرُوا",
+      "transliteration": "tukhsirū",
+      "meaning": "you make deficient, you lose (value)",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to be deficient, to fail"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural active voice"
+        },
+        {
+          "arabic": "خْسِرُوا",
+          "meaning": "you lose, you are deficient"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمِيزَانَ",
+      "transliteration": "al-mīzāna",
+      "meaning": "the balance, the scale",
+      "root": {
+        "letters": "م-ي-ز",
+        "meaning": "to weigh, to measure, distinction"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مِيزَانَ",
+          "meaning": "balance, scale (masculine singular indefinite)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-establish the-weight with-the-justice and-not you-make-deficient the-balance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "verseId": "18:96",
+  "verse": {
+    "arabic": "آتُونِي زُبَرَ الْحَدِيدِ ۖ حَتَّىٰ إِذَا سَاوَىٰ بَيْنَ الصَّدَفَيْنِ قَالَ انفُخُوا ۖ حَتَّىٰ إِذَا جَعَلَهُ نَارًا قَالَ آتُونِي أُفْرِغْ عَلَيْهِ قِطْرًا",
+    "transliteration": "Atoonee zubara alhadeedi hatta itha sawa bayna alsadafayni qala onfukhoo hatta itha jaAAalahu naran qala atoonee ofrigh AAalayhi qitran",
+    "surah": "Al-Kahf",
+    "verseNumber": 96
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "آتُونِي",
+      "transliteration": "ātūnī",
+      "meaning": "Bring to me",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "آت",
+          "meaning": "coming, arriving (verbal noun)"
+        },
+        {
+          "arabic": "ـونِي",
+          "meaning": "imperative suffix indicating plural command, 'to me'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "زُبَرَ",
+      "transliteration": "zubara",
+      "meaning": "Sheets (of iron)",
+      "root": {
+        "letters": "ز-ب-ر",
+        "meaning": "to break, to split apart; also implies refinement or polishing (related to the shaping of metal)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْحَدِيدِ",
+      "transliteration": "al-ḥadīd",
+      "meaning": "The iron",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to be sharp, firmness; also relates to metal and strength"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَدِيد",
+          "meaning": "iron"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[Pause]",
+      "root": {
+        "letters": "—",
+        "meaning": "Indicates a significant pause or separation in recitation; no semantic root."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "Until",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, limit, boundary"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "When",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go, to depart; to perceive, to know; to be aware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَاوَىٰ",
+      "transliteration": "sāwā",
+      "meaning": "He leveled/made equal",
+      "root": {
+        "letters": "س-و-ى",
+        "meaning": "to be equal, to level, to balance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "Between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to exist apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الصَّدَفَيْنِ",
+      "transliteration": "aṣ-ṣadafayni",
+      "meaning": "The two mountains/sides",
+      "root": {
+        "letters": "ص-د-ف",
+        "meaning": "to be smooth, to repel, to turn away; also related to shellfish/pearls"
+      },
+      "components": [
+        {
+          "arabic": "اَلصَّدَفَيْنِ",
+          "meaning": "The two mountains/sides. Dual form indicating two 'ṣadaf' (mountains/sides)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اُنْفُخُوا",
+      "transliteration": "unfukhū",
+      "meaning": "Blow!",
+      "root": {
+        "letters": "ن-ف-خ",
+        "meaning": "to breathe, to exhale, to blow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[Pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "Until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "When",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go, to depart; to experience, to perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "جَعَلَهُ",
+      "transliteration": "jaʿalahu",
+      "meaning": "He made it/rendered it",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to render, to create"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "He made, He rendered"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "نَارًا",
+      "transliteration": "nāran",
+      "meaning": "[As] Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "Intense heat, burning, fire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "آتُونِي",
+      "transliteration": "ātūnī",
+      "meaning": "Bring to me",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "آتِ",
+          "meaning": "coming, present participle of 'to come'"
+        },
+        {
+          "arabic": "ـونِي",
+          "meaning": "suffix indicating plural imperative 'bring to me'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أُفْرِغْ",
+      "transliteration": "ufriġ",
+      "meaning": "Pour!",
+      "root": {
+        "letters": "ف-ر-غ",
+        "meaning": "emptiness, leisure; to empty, to pour out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "Upon it",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to be high, elevated; to bear responsibility; to depend on"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "قِطْرًا",
+      "transliteration": "qiṭran",
+      "meaning": "Molten copper/pitch",
+      "root": {
+        "letters": "ق-ط-ر",
+        "meaning": "To drip, flow, or pour forth; to rain down."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Bring-to-me sheets-of iron the-iron – until when he-leveled between the-two-mountains he-said blow! – until when he-made it [as] fire he-said bring-to-me that-I may-pour upon-it molten-copper."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "verseId": "55:33",
+  "verse": {
+    "arabic": "يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ",
+    "transliteration": "Ya maAAshara aljinni waalinsi ini istataAAtum an tanfuthoo min aqtari alssamawati waalardi faonfuthoo la tanfuthoona illa bisultanin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "يَا",
+          "meaning": "O (vocative particle calling attention)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَعْشَرَ",
+      "transliteration": "maʿshara",
+      "meaning": "company, gathering, group (of people)",
+      "root": {
+        "letters": "ع-ش-ر",
+        "meaning": "to associate, to mingle, ten; generally relating to numbers and groups"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْجِنِّ",
+      "transliteration": "al-jinn",
+      "meaning": "the jinn (spirits)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, be obscure; also related to madness or deviation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, to invite, relationship, affection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْإِنسِ",
+      "transliteration": "al-ʾins",
+      "meaning": "the mankind, human beings",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be gentle, mild; to adapt, become accustomed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِنِ",
+      "transliteration": "ʾini",
+      "meaning": "if (conditional particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed; conditional particle indicating affirmation or expectation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اسْتَطَعْتُمْ",
+      "transliteration": "istaṭaʿtum",
+      "meaning": "you are able (to)",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to be able, to have power or capability; willingness, obedience"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "prefix indicating seeking, attempting or ability (derived from the root س-ت-ع)"
+        },
+        {
+          "arabic": "طَعْتُمْ",
+          "meaning": "second person masculine plural form of the verb طاع (to be able)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "to (purpose marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَنفُذُوا",
+      "transliteration": "tanfudhū",
+      "meaning": "you penetrate, you pass through",
+      "root": {
+        "letters": "ن-ف-ذ",
+        "meaning": "to exhaust, to expend, to penetrate"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a causative/intensive form (Form IV)"
+        },
+        {
+          "arabic": "نَفَذُوا",
+          "meaning": "they penetrated, they passed through"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, be less; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَقْطَارِ",
+      "transliteration": "ʾaqṭāri",
+      "meaning": "regions, boundaries",
+      "root": {
+        "letters": "ق-ط-ر",
+        "meaning": "to cut, to sever; to rain (related sense of dividing/distributing)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "the heavens, skies",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth, land",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَانفُذُوا",
+      "transliteration": "fanfudhū",
+      "meaning": "then pass through, then penetrate",
+      "root": {
+        "letters": "ن-ف-ذ",
+        "meaning": "to expend, to pass through, to execute"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "انفُذُوا",
+          "meaning": "pass through, penetrate (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تَنفُذُونَ",
+      "transliteration": "tanfudhūna",
+      "meaning": "you penetrate, you pass through",
+      "root": {
+        "letters": "ن-ف-ذ",
+        "meaning": "to expend, to execute, to pass through"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a causative or iterative meaning (form IV)"
+        },
+        {
+          "arabic": "نَفَذْـ",
+          "meaning": "root related to passing through or penetrating"
+        },
+        {
+          "arabic": "~ُون",
+          "meaning": "suffix indicating second person plural masculine (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to reject, to deny; negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "بِسُلْطَانٍ",
+      "transliteration": "bisulṭānin",
+      "meaning": "with authority, by power [from Allah]",
+      "root": {
+        "letters": "س-ل-ط",
+        "meaning": "to dominate, to have power over; authority"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "سُلْطَانٍ",
+          "meaning": "authority, power"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O - company - of - the - jinn - and - mankind - if - you - are able - to - penetrate - from - regions - of - the - heavens - and - the - earth - then - penetrate - not - you - penetrate - except - by - authority"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "verseId": "55:15",
+  "verse": {
+    "arabic": "وَخَلَقَ الْجَانَّ مِن مَّارِجٍ مِّن نَّارٍ",
+    "transliteration": "Wakhalaqa aljanna min marijin min narin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَخَلَقَ",
+      "transliteration": "wa-khalaqa",
+      "meaning": "and He created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "خَلَقَ",
+          "meaning": "He created"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَانَّ",
+      "transliteration": "al-jānna",
+      "meaning": "the jinn (collective noun)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to be concealed; also, madness or insanity (due to being hidden from reason)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin/source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَّارِجٍ",
+      "transliteration": "mārijin",
+      "meaning": "a smokeless flame",
+      "root": {
+        "letters": "م-ر-ج",
+        "meaning": "to return, to flow back, to rise (like smoke)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّن نَّارٍ",
+      "transliteration": "min nārin",
+      "meaning": "from fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "نَّارٍ",
+          "meaning": "fire (genitive case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-He created -the jinn -from -a smokeless flame -from fire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

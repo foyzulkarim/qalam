@@ -1,0 +1,693 @@
+{
+  "verseId": "2:74",
+  "verse": {
+    "arabic": "ثُمَّ قَسَتْ قُلُوبُكُم مِّن بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+    "transliteration": "Thumma qasat quloobukum min baAAdi thalika fahiya kaalhijarati aw ashaddu qaswatan wainna mina alhijarati lama yatafajjaru minhu alanharu wainna minha lama yashshaqqaqu fayakhruju minhu almao wainna minha lama yahbitu min khashyati Allahi wama Allahu bighafilin AAamma taAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 74
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, furthermore",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to complete"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَسَتْ",
+      "transliteration": "qasat",
+      "meaning": "hardened, became severe",
+      "root": {
+        "letters": "ق-س-و",
+        "meaning": "to be firm, hard, severe; to resist or oppose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قُلُوبُكُم",
+      "transliteration": "qulūbukum",
+      "meaning": "your hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural)"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, after",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَعْدِ",
+      "transliteration": "baʿdi",
+      "meaning": "after (of)",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness"
+      },
+      "components": [
+        {
+          "arabic": "بَـ",
+          "meaning": "preposition indicating 'after'"
+        },
+        {
+          "arabic": "عُدّ",
+          "meaning": "to count, to pass; related to the idea of time passing"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "genitive marker ('of')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, weakness, submission; pertaining to the self or one's own state"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, having"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, belonging to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَهِيَ",
+      "transliteration": "fa-hiya",
+      "meaning": "so it (they) is/are",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to be, exist; she/it is"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "هِيَ",
+          "meaning": "she/it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَالْحِجَارَةِ",
+      "transliteration": "ka-l-ḥijārati",
+      "meaning": "like the stones",
+      "root": {
+        "letters": "ح-ج-ر",
+        "meaning": "to break, to be hard or rough; stone"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الْحِجَارَةِ",
+          "meaning": "the stones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to desire, to wish, or a connective particle indicating alternative options"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَشَدُّ",
+      "transliteration": "ashaddu",
+      "meaning": "more severe, harder",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "intensity, severity, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "قَسْوَةً",
+      "transliteration": "qaswatan",
+      "meaning": "hardness, severity",
+      "root": {
+        "letters": "ق-س-و",
+        "meaning": "to be firm, hard; to be severe or harsh"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-و",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَإِنَّ",
+      "transliteration": "wa-inna",
+      "meaning": "and indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْحِجَارَةِ",
+      "transliteration": "al-ḥijārati",
+      "meaning": "the stones",
+      "root": {
+        "letters": "ح-ج-ر",
+        "meaning": "to break, to crush; firmness, solidity"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حِجَارَةٍ",
+          "meaning": "stones (plural of حجر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَمَا",
+      "transliteration": "lamā",
+      "meaning": "there is/are (emphatic)",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to wish, to will; also related to report/information"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which; also used as a negative particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَتَفَجَّرُ",
+      "transliteration": "yatafajjaru",
+      "meaning": "bursts forth, gushes out",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to split open, to erupt, to dawn"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الْأَنْهَارُ",
+      "transliteration": "al-anhāru",
+      "meaning": "the rivers",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream; riverbed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَإِنَّ",
+      "transliteration": "wa-inna",
+      "meaning": "and indeed, verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truth, certainty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (introduces an emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it (them)",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from; pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "لَمَا",
+      "transliteration": "lamā",
+      "meaning": "there is/are (emphatic)",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to incline towards"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for/to (preposition)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "يَشَّقَّقُ",
+      "transliteration": "yashqaqqu",
+      "meaning": "splits open, cracks",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to tear apart, to crack"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and active voice"
+        },
+        {
+          "arabic": "شَقَّ",
+          "meaning": "to split open, to tear apart (root verb)"
+        },
+        {
+          "arabic": "قُ",
+          "meaning": "indicates imperfect form (present/future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فَيَخْرُجُ",
+      "transliteration": "fa-yakhruju",
+      "meaning": "so it comes out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to appear"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "يَخْرُجُ",
+          "meaning": "he comes out, it comes out (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to proceed from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْمَاءُ",
+      "transliteration": "al-māʾu",
+      "meaning": "the water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, moisture, existence; related to the concept of flowing or having substance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَإِنَّ",
+      "transliteration": "wa-inna",
+      "meaning": "and indeed, verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, truth, reality"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it (them)",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "لَمَا",
+      "transliteration": "lamā",
+      "meaning": "there is/are (emphatic)",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to intend; also, a negation particle when combined with past tense"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "particle indicating emphasis or negation (depending on context)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "particle indicating past tense or existence (depending on context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "يَهْبِطُ",
+      "transliteration": "yahbiṭu",
+      "meaning": "falls down, descends",
+      "root": {
+        "letters": "ه-ب-ط",
+        "meaning": "to descend, to come down; lowliness, humility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-د",
+        "meaning": "to originate from, to derive from, a source or point of departure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "خَشْيَةِ",
+      "transliteration": "khashyati",
+      "meaning": "fear (of)",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to fear, to be afraid, reverence"
+      },
+      "components": [
+        {
+          "arabic": "خَشْيَة",
+          "meaning": "fear, apprehension"
+        },
+        {
+          "arabic": "-ِ",
+          "meaning": "genitive marker (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to be worshipped; divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "ۗ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever; not (when negating)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "To be worshipped; the deity."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "بِغَافِلٍ",
+      "transliteration": "bi-ghāfilin",
+      "meaning": "[is] unaware",
+      "root": {
+        "letters": "غ-ف-ل",
+        "meaning": "to be heedless, negligent, unaware"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَافِلٍ",
+          "meaning": "unaware, heedless (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "عَمَّا",
+      "transliteration": "ʿammā",
+      "meaning": "of what",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "to conceal, to obscure, to be blind"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, concerning, from"
+        },
+        {
+          "arabic": "ما",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, to perform"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing, action, work"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then- hardened - hearts- your - from - after - that - so - it (they) is/are - like - the- stones - or - more severe - hardness - [separator] - And - indeed - from - the- stones - there is/are (emphatic) - bursts forth - from- it - the- rivers - [separator] - And - indeed - from- them - there is/are (emphatic) - splits open - so- it comes out - from- it - the- water - [separator] - And - indeed - from- them - there is/are (emphatic) - falls down - from - fear (of) - Allah - [separator] - And- what - Allah - [is] unaware - of- what - you do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

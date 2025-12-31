@@ -1,0 +1,74 @@
+{
+  "verseId": "56:6",
+  "verse": {
+    "arabic": "فَكَانَتْ هَبَاءً مُّنبَثًّا",
+    "transliteration": "Fakanat habaan munbaththan",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَكَانَتْ",
+      "transliteration": "fa-kānat",
+      "meaning": "so it became/and it was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "كَانَتْ",
+          "meaning": "she was/it became (feminine singular past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَبَاءً",
+      "transliteration": "habāʾan",
+      "meaning": "dust/powder",
+      "root": {
+        "letters": "ه-ب-أ",
+        "meaning": "to blow, to scatter; destruction, ruin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّنبَثًّا",
+      "transliteration": "munbaththan",
+      "meaning": "scattered/dispersed",
+      "root": {
+        "letters": "ب-ث-ث",
+        "meaning": "to spread out, to disperse, to scatter"
+      },
+      "components": [
+        {
+          "arabic": "مُنـ",
+          "meaning": "passive participle prefix indicating 'one who is acted upon'"
+        },
+        {
+          "arabic": "بَثَّ",
+          "meaning": "to spread, to scatter; the verb root"
+        },
+        {
+          "arabic": "ـًا",
+          "meaning": "masculine singular indefinite accusative ending (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-kānat - [it] became - habāʾan - munbaththan"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

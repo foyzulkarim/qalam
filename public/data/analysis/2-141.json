@@ -1,0 +1,299 @@
+{
+  "verseId": "2:141",
+  "verse": {
+    "arabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+    "transliteration": "Tilka ommatun qad khalat laha ma kasabat walakum ma kasabtum wala tusaloona AAamma kanoo yaAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 141
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "That (feminine demonstrative pronoun)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to point out, to show"
+      },
+      "components": [
+        {
+          "arabic": "تِلْ",
+          "meaning": "That (feminine, distant)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Suffix pronoun - you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُمَّةٌ",
+      "transliteration": "ummatun",
+      "meaning": "Nation, community",
+      "root": {
+        "letters": "أ-م-ت",
+        "meaning": "to die, to perish; the core idea involves a collective ending or completion (which evolves into 'nation')"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "Already, indeed (particle indicating completion)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَلَتْ",
+      "transliteration": "khalat",
+      "meaning": "Passed away, departed",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to depart, to remain without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "(pause particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَهَا",
+      "transliteration": "lahā",
+      "meaning": "For it, to it (feminine pronoun + preposition)",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession, for"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which (relative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "To desire, to wish for, or a thing itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَسَبَتْ",
+      "transliteration": "kasabat",
+      "meaning": "It earned, it acquired (feminine verb)",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to earn, to acquire, effort resulting in gain"
+      },
+      "components": [
+        {
+          "arabic": "كسب",
+          "meaning": "to earn, to acquire"
+        },
+        {
+          "arabic": "ت",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And (conjunction)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَكُم",
+      "transliteration": "lakum",
+      "meaning": "For you (pronoun + preposition)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "For, to (preposition)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "You (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "What, that which (relative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or the essence of something (related to questioning)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَسَبْتُمْ",
+      "transliteration": "kasabtum",
+      "meaning": "You earned, you acquired (masculine plural verb)",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to earn, to gain"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "you (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "سَبْتُمْ",
+          "meaning": "earned, acquired (second person masculine plural verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "(pause particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And (conjunction)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تُسْأَلُونَ",
+      "transliteration": "tus'alūna",
+      "meaning": "You are asked (masculine plural verb)",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "تُسْ",
+          "meaning": "passive voice prefix (form X)"
+        },
+        {
+          "arabic": "أَلْ",
+          "meaning": "root letters indicating the act of asking"
+        },
+        {
+          "arabic": "ُون",
+          "meaning": "masculine plural pronoun suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَمَّا",
+      "transliteration": "ʿammā",
+      "meaning": "About what (preposition + relative pronoun)",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "To intend, to aim at; obscurity, vagueness"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "About, concerning, from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "What, which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "They were (masculine plural verb)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist; becoming, happening"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "They (masculine plural pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "Were (past tense verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَعْمَلُونَ",
+      "transliteration": "yaʿmalūna",
+      "meaning": "They used to do (masculine plural verb)",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to practice, to perform"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and the first person plural (we) or third person masculine plural (they)"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "action, work, deed"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "masculine plural pronoun suffix (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "That - a nation - indeed - has passed away - for it - what - it earned - and - for you - what - you have earned - and - not - you are asked - about what - they were - they used to do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

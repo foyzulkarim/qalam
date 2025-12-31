@@ -1,0 +1,146 @@
+{
+  "verseId": "18:68",
+  "verse": {
+    "arabic": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا",
+    "transliteration": "Wakayfa tasbiru AAala ma lam tuhit bihi khubran",
+    "surah": "Al-Kahf",
+    "verseNumber": 68
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how?",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; condition, state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَصْبِرُ",
+      "transliteration": "taṣbiru",
+      "meaning": "you have patience, you endure",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to be patient, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine singular present tense"
+        },
+        {
+          "arabic": "صَبَـ",
+          "meaning": "root of patience/endurance"
+        },
+        {
+          "arabic": "ـرُ",
+          "meaning": "present tense ending for second person masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate, to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تُحِطْ",
+      "transliteration": "tuḥiṭ",
+      "meaning": "you encompass, you surround",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to go around, to encompass, to surround"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "you (masculine singular, prefix indicating second-person)"
+        },
+        {
+          "arabic": "حِطْ",
+          "meaning": "encompass, surround (verbal noun derived from root ح-ط-و)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, in it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, having in one's power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "خُبْرًا",
+      "transliteration": "khubran",
+      "meaning": "knowledge, information",
+      "root": {
+        "letters": "خ-ب-ر",
+        "meaning": "to know, to be aware; report, news"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-how? you-have-patience upon what not you-encompass with it knowledge"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

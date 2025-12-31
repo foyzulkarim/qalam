@@ -1,0 +1,433 @@
+{
+  "verseId": "18:110",
+  "verse": {
+    "arabic": "قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ ۖ فَمَن كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا",
+    "transliteration": "Qul innama ana basharun mithlukum yooha ilayya annama ilahukum ilahun wahidun faman kana yarjoo liqaa rabbihi falyaAAmal AAamalan salihan wala yushrik biAAibadati rabbihi ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 110
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; generally encompassing verbal communication."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "Only, indeed",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to be restricted, to limit"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizes the following)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which (relative pronoun functioning as a limiter)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَا",
+      "transliteration": "anā",
+      "meaning": "I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَشَرٌ",
+      "transliteration": "basharun",
+      "meaning": "A human being, man",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be human, to have skin; humanity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّثْلُكُمْ",
+      "transliteration": "mithlukum",
+      "meaning": "Like you",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "similarity, equal to"
+      },
+      "components": [
+        {
+          "arabic": "مثل",
+          "meaning": "like, similar to"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُوحَىٰ",
+      "transliteration": "yūḥā",
+      "meaning": "It is revealed, inspired",
+      "root": {
+        "letters": "و-ح-ي",
+        "meaning": "to inspire, to reveal, communication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَيَّ",
+      "transliteration": "ilayya",
+      "meaning": "To me",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "يَّ",
+          "meaning": "me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "Only, indeed",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to be characterized by, to possess a quality"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "What, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَـٰهُكُمْ",
+      "transliteration": "ilāhukum",
+      "meaning": "Your god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be a god, deity"
+      },
+      "components": [
+        {
+          "arabic": "إِلَـٰه",
+          "meaning": "god"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِلَـٰهٌ",
+      "transliteration": "ilāhun",
+      "meaning": "A god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; godhood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَاحِدٌ",
+      "transliteration": "wāḥidun",
+      "meaning": "One",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, solitary; oneness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[conjunction, then]",
+      "root": {
+        "letters": "ف-ا-ي",
+        "meaning": "to separate, to divide; result, consequence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "So whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, to have the quality of"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whichever person"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, is (to be)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يَرْجُو",
+      "transliteration": "yarjū",
+      "meaning": "He hopes, expects",
+      "root": {
+        "letters": "ر-ج-و",
+        "meaning": "To expect, to hope, to return"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense, first person singular or general active voice."
+        },
+        {
+          "arabic": "رَجُ",
+          "meaning": "The root of the verb, denoting hope or expectation."
+        },
+        {
+          "arabic": "و",
+          "meaning": "Pronoun suffix, indicating third person masculine singular (he)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لِقَاءَ",
+      "transliteration": "liqāʾa",
+      "meaning": "Meeting of, encounter with",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "To meet, encounter; to come together."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "His Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَلْيَعْمَلْ",
+      "transliteration": "fa-lyaʿmal",
+      "meaning": "Let him do, then he should work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to work, to perform an action"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to (purpose)"
+        },
+        {
+          "arabic": "يَعْمَلْ",
+          "meaning": "he works, he does (subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَمَلًا",
+      "transliteration": "ʿamalā",
+      "meaning": "A work, deed",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, labor"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "صَالِحًا",
+      "transliteration": "ṣāliḥan",
+      "meaning": "Righteous, good",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be upright, correct, suitable; to repair, improve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يُشْرِكْ",
+      "transliteration": "yushrik",
+      "meaning": "He associates, joins partners",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (in partnership), to have a partner"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates the present tense, active voice, 3rd person singular"
+        },
+        {
+          "arabic": "شْرِكْ",
+          "meaning": "association, partnership (derived from the root ش-ر-ك)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِعِبَادَةِ",
+      "transliteration": "bi-ʿibādati",
+      "meaning": "With worship of",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, worship; to be a slave or dependent"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عِبَادَةِ",
+          "meaning": "worship, servitude"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "His Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "Anyone, something",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Uniqueness, oneness, singularity"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Indefinite marker, negation (depending on context)"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "Limit, boundary; anything singular or one"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - Only - I - a human being - like you - it is revealed to me - only - your god - a god - one. - Then - whoever - was - he hopes - meeting of - his Lord - then let him do - a work - righteous. - And not - he associates - with worship of - his Lord - anyone."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

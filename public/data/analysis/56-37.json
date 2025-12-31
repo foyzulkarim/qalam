@@ -1,0 +1,41 @@
+{
+  "verseId": "56:37",
+  "verse": {
+    "arabic": "عُرُبًا أَتْرَابًا",
+    "transliteration": "AAuruban atraban",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عُرُبًا",
+      "transliteration": "ʿurūban",
+      "meaning": "devoted, affectionate, fond (feminine plural)",
+      "root": {
+        "letters": "ع-ر-ب",
+        "meaning": "to be Arab, to be eloquent; to be pure or clear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتْرَابًا",
+      "transliteration": "ʾatrāban",
+      "meaning": "equal in age, peers (masculine plural)",
+      "root": {
+        "letters": "ر-ت-ب",
+        "meaning": "to arrange, to order, to set in rank"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "devoted-[ones] equal-in-age"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

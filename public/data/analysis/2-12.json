@@ -1,0 +1,130 @@
+{
+  "verseId": "2:12",
+  "verse": {
+    "arabic": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
+    "transliteration": "Ala innahum humu almufsidoona walakin la yashAAuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَا",
+      "transliteration": "ʾalā",
+      "meaning": "Indeed, Behold, Surely",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "To desire, to wish, to long for; a particle expressing emphasis or incitement"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, Verily"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "To be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُفْسِدُونَ",
+      "transliteration": "al-mufsidūna",
+      "meaning": "The corrupters, The ones who cause corruption",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "to be corrupt, to spoil, to ruin"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُفْسِدُونَ",
+          "meaning": "corrupters, those who cause corruption (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَـٰكِن",
+      "transliteration": "lākin",
+      "meaning": "But, However",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "To be, existence, hiddenness"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "Negation, not"
+        },
+        {
+          "arabic": "كِن",
+          "meaning": "To be, to exist (imperfect form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "To refuse, to deny, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَشْعُرُونَ",
+      "transliteration": "yashʿurūna",
+      "meaning": "They perceive, They know, They realize",
+      "root": {
+        "letters": "ش-ع-ر",
+        "meaning": "to feel, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural"
+        },
+        {
+          "arabic": "شْعُر",
+          "meaning": "perception, feeling, awareness (verbal noun)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating first person plural (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed - Behold - Surely - They - The corrupters - And - But - Not - They perceive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

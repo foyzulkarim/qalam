@@ -1,0 +1,420 @@
+{
+  "verseId": "18:18",
+  "verse": {
+    "arabic": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ الْيَمِينِ وَذَاتَ الشِّمَالِ ۖ وَكَلْبُهُم بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ ۚ لَوِ اطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+    "transliteration": "Watahsabuhum ayqathan wahum ruqoodun wanuqallibuhum thata alyameeni wathata alshshimali wakalbuhum basitun thiraAAayhi bialwaseedi lawi ittalaAAta AAalayhim lawallayta minhum firaran walamulita minhum ruAAban",
+    "surah": "Al-Kahf",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَتَحْسَبُهُمْ",
+      "transliteration": "wa-taḥsabuhum",
+      "meaning": "and you think them",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to estimate"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَحْسَبُ",
+          "meaning": "you think/reckon (2nd person masculine singular)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيْقَاظًا",
+      "transliteration": "ʾayqāẓan",
+      "meaning": "awake",
+      "root": {
+        "letters": "ي-ق-ظ",
+        "meaning": "to be watchful, to guard, to awaken"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "هـ-م-و",
+        "meaning": "to have, possess; to be with"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رُقُودٌ",
+      "transliteration": "ruqūdun",
+      "meaning": "sleeping",
+      "root": {
+        "letters": "ر-ق-د",
+        "meaning": "to sleep, rest"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَنُقَلِّبُهُمْ",
+      "transliteration": "wa-nuqallibuhum",
+      "meaning": "and We turn them",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to reverse, to change"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نُقَلِّبُ",
+          "meaning": "we turn, we reverse, we change (first-person plural present)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ذَاتَ",
+      "transliteration": "dhāta",
+      "meaning": "side of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "possession, having, side"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْيَمِينِ",
+      "transliteration": "al-yamīni",
+      "meaning": "the right [side]",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "strength, rightness, good fortune"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَذَاتَ",
+      "transliteration": "wa-dhāta",
+      "meaning": "and side of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "possession, side, part"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ذَاتَ",
+          "meaning": "side of, belonging to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الشِّمَالِ",
+      "transliteration": "ash-shimāli",
+      "meaning": "the left [side]",
+      "root": {
+        "letters": "ش-م-ل",
+        "meaning": "to be on the left, weakness, awkwardness; encompassing or including (as in the left side encompasses things)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَكَلْبُهُم",
+      "transliteration": "wa-kalbuhum",
+      "meaning": "and their dog",
+      "root": {
+        "letters": "ك-ل-ب",
+        "meaning": "to be weary or exhausted; to tire, to weaken (generally related to animals)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كلب",
+          "meaning": "dog"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَاسِطٌ",
+      "transliteration": "bāsiṭun",
+      "meaning": "stretching",
+      "root": {
+        "letters": "ب-س-ط",
+        "meaning": "to expand, spread out, unfold"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ذِرَاعَيْهِ",
+      "transliteration": "dhirāʿayhi",
+      "meaning": "his forelegs",
+      "root": {
+        "letters": "ض-ر-ع",
+        "meaning": "to need, to seek help; foreleg (of an animal)"
+      },
+      "components": [
+        {
+          "arabic": "ذِرَاعَي",
+          "meaning": "forelegs (dual form)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِالْوَصِيدِ",
+      "transliteration": "bi-l-waṣīdi",
+      "meaning": "at the entrance",
+      "root": {
+        "letters": "و-ص-د",
+        "meaning": "to be narrow, constricted; to be tight or close"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْوَصِيدِ",
+          "meaning": "the entrance; a narrow opening or space"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَوِ",
+      "transliteration": "lawi",
+      "meaning": "[conditional particle, if]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لَو",
+          "meaning": "Conditional particle, if. Indicates a hypothetical situation or wish."
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اطَّلَعْتَ",
+      "transliteration": "iṭṭalaʿta",
+      "meaning": "you had looked",
+      "root": {
+        "letters": "ط-ل-ع",
+        "meaning": "to ascend, to rise, to seek knowledge"
+      },
+      "components": [
+        {
+          "arabic": "اِتَّ",
+          "meaning": "indicates seeking, attempting or completing an action"
+        },
+        {
+          "arabic": "طَلَعْتَ",
+          "meaning": "you sought, you looked, you ascended"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "at them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to be over or upon something; responsibility"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, at"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لَوَلَّيْتَ",
+      "transliteration": "lawallayta",
+      "meaning": "you would have turned away",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to flee, to abandon"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "conditional particle, 'if'"
+        },
+        {
+          "arabic": "وَلَّيْتَ",
+          "meaning": "you turned away (second person masculine singular, imperfect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مِنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "فِرَارًا",
+      "transliteration": "firāran",
+      "meaning": "in flight",
+      "root": {
+        "letters": "ف-ر-ر",
+        "meaning": "to flee, escape"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَلَمُلِئْتَ",
+      "transliteration": "wa-lumliʾta",
+      "meaning": "and you would have been filled",
+      "root": {
+        "letters": "م-ل-أ",
+        "meaning": "to be full, to fill"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لُم",
+          "meaning": "passive voice marker (form X)"
+        },
+        {
+          "arabic": "لِئْتَ",
+          "meaning": "you (masculine singular) would have been filled"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مِنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "رُعْبًا",
+      "transliteration": "ruʿban",
+      "meaning": "terror",
+      "root": {
+        "letters": "ر-ع-ب",
+        "meaning": "to fear, to be afraid; terror, dread"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you think-them awake and-they sleeping and-We turn-them side of the-right and-side of the-left and-their dog stretching his forelegs at-the entrance if you had looked at-them you would have turned away from-them in flight and-you would have been filled from-them terror"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "verseId": "2:254",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ",
+    "transliteration": "Ya ayyuha allatheena amanoo anfiqoo mimma razaqnakum min qabli an yatiya yawmun la bayAAun feehi wala khullatun wala shafaAAatun waalkafiroona humu alththalimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 254
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, used with a noun)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "A general call for attention; interjection indicating appeal or address."
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Vocative particle; marks the noun being addressed directly."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, or relative pronoun indicating a group"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/future tense, and plurality in this context"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (from root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَنفِقُوا",
+      "transliteration": "ʾanfiqū",
+      "meaning": "spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to exhaust"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to (verbal particle indicating purpose or command)"
+        },
+        {
+          "arabic": "فِقُوا",
+          "meaning": "spend (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِمَّا",
+      "transliteration": "min mā",
+      "meaning": "from that which",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "that which, what"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَزَقْنَاكُم",
+      "transliteration": "razaqnākum",
+      "meaning": "We have provided for you",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "provision, sustenance, livelihood"
+      },
+      "components": [
+        {
+          "arabic": "رَزَقْ",
+          "meaning": "We provided"
+        },
+        {
+          "arabic": "نَاكُم",
+          "meaning": "for you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّن قَبْلِ",
+      "transliteration": "min qabli",
+      "meaning": "before",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept, front"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "قَبْلِ",
+          "meaning": "before, preceding"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَن يَأْتِيَ",
+      "transliteration": "ʾan yaʾtiya",
+      "meaning": "that comes",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, arrive"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, in order that"
+        },
+        {
+          "arabic": "يَأْتِيَ",
+          "meaning": "he comes, to come (subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَوْمٌ",
+      "transliteration": "yawmun",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as a period of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "no, not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بَيْعٌ",
+      "transliteration": "bayʿun",
+      "meaning": "exchange, trade",
+      "root": {
+        "letters": "ب-ع-ي",
+        "meaning": "to sell, to exchange, commerce"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "خُلَّةٌ",
+      "transliteration": "khullatun",
+      "meaning": "friendship, intimacy",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to remain alone; to be free from something; to mix; to have intimacy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "شَفَاعَةٌ",
+      "transliteration": "shafāʿatun",
+      "meaning": "intercession",
+      "root": {
+        "letters": "ش-ف-ع",
+        "meaning": "to intercede, to plead for another, to mediate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "ۗ",
+      "transliteration": "pause particle",
+      "meaning": "pause particle",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْكَافِرُونَ",
+      "transliteration": "al-kāfirūna",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny (faith), be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرُونَ",
+          "meaning": "disbelievers, those who deny (faith)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "they are",
+      "root": {
+        "letters": "ه-م-و",
+        "meaning": "to be, to exist; belonging to (pronoun)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الظَّالِمُونَ",
+      "transliteration": "al-ẓālimūna",
+      "meaning": "the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, wrongdoing; to be unjust or oppressive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ظَالِمُونَ",
+          "meaning": "wrongdoers, oppressors (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-you who the-ones-who believed spend from that which We provided-for-you before that comes a day no exchange in it and no friendship and no intercession. And the-disbelievers they are the wrongdoers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

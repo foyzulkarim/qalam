@@ -1,0 +1,517 @@
+{
+  "verseId": "2:197",
+  "verse": {
+    "arabic": "الْحَجُّ أَشْهُرٌ مَّعْلُومَاتٌ ۚ فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ۗ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ ۗ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ ۚ وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ",
+    "transliteration": "Alhajju ashhurun maAAloomatun faman farada feehinna alhajja fala rafatha wala fusooqa wala jidala fee alhajji wama tafAAaloo min khayrin yaAAlamhu Allahu watazawwadoo fainna khayra alzzadi alttaqwa waittaqooni ya olee alalbabi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 197
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْحَجُّ",
+      "transliteration": "al-ḥajju",
+      "meaning": "the Hajj (pilgrimage)",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to intend something strongly, to resort to someone for help or protection, to circumambulate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَشْهُرٌ",
+      "transliteration": "ʾash-hurun",
+      "meaning": "months",
+      "root": {
+        "letters": "ش-ه-ر",
+        "meaning": "to be famous, to become known; month (as a time made well-known)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّعْلُومَاتٌ",
+      "transliteration": "maʿlūmātun",
+      "meaning": "well-known, specified",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "مَعْ",
+          "meaning": "with, possessing"
+        },
+        {
+          "arabic": "لُومَاتٌ",
+          "meaning": "things known, information (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۚ",
+      "transliteration": "lā jūda",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also indicates questioning or relative pronouns"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَرَضَ",
+      "transliteration": "faraḍa",
+      "meaning": "imposed, obligated",
+      "root": {
+        "letters": "ف-ر-ض",
+        "meaning": "to determine, to set, to decree"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِيهِنَّ",
+      "transliteration": "fīhinna",
+      "meaning": "in them (referring to the months)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to reside, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْحَجَّ",
+      "transliteration": "al-ḥajja",
+      "meaning": "the Hajj (pilgrimage)",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to intend strongly, to resort to something for essential need, to circumambulate with reverence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "so there is not",
+      "root": {
+        "letters": "ل-ي-د",
+        "meaning": "to refuse, to deny, nonexistence"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, there is no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَفَثَ",
+      "transliteration": "rafatha",
+      "meaning": "sexual relations (during ihram)",
+      "root": {
+        "letters": "ر-ف-ث",
+        "meaning": "roughness, harshness, coarse behavior"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فُسُوقَ",
+      "transliteration": "fusūqa",
+      "meaning": "disobedience, transgression",
+      "root": {
+        "letters": "ف-س-ق",
+        "meaning": "to deviate, to be wicked or corrupt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to belong to, to have connection with; negation/denial (when combined with other letters)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor; negation particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "جِدَالَ",
+      "transliteration": "jidāla",
+      "meaning": "disputing, arguing",
+      "root": {
+        "letters": "ج-د-ل",
+        "meaning": "striving, effort, contention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; abundance, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْحَجِّ",
+      "transliteration": "al-ḥajji",
+      "meaning": "the Hajj (pilgrimage)",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to intend something strongly, to visit a sacred place with reverence and determination; circumambulation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۗ",
+      "transliteration": "lā jūda",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "negative particle (not)"
+        },
+        {
+          "arabic": "جُود",
+          "meaning": "pause marker (no lexical meaning)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or what/that which"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "تَفْعَلُوا",
+      "transliteration": "tafʿalū",
+      "meaning": "you do",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to act"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person plural, future tense or subjunctive mood."
+        },
+        {
+          "arabic": "فَعَلـ",
+          "meaning": "root signifying doing or making."
+        },
+        {
+          "arabic": "~ُوا",
+          "meaning": "suffix indicating second person plural (masculine)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "خَيْرٍ",
+      "transliteration": "khayrin",
+      "meaning": "goodness, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, goodness, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَعْلَمْهُ",
+      "transliteration": "yaʿlamuhu",
+      "meaning": "[He] knows it",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَعْلَمْ",
+          "meaning": "He knows"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۗ",
+      "transliteration": "lā jūda",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَتَزَوَّدُوا",
+      "transliteration": "wa-tazawwadū",
+      "meaning": "and take provisions",
+      "root": {
+        "letters": "ز-و-د",
+        "meaning": "to supply, to provide; increase, abundance"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَزَوَّدُوا",
+          "meaning": "take provisions (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَإِنَّ",
+      "transliteration": "fa-ʾinna",
+      "meaning": "so indeed",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (introduces a result or consequence)"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphatic particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "خَيْرَ",
+      "transliteration": "khayra",
+      "meaning": "the best",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "الزَّادِ",
+      "transliteration": "az-zādi",
+      "meaning": "the provision",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to provide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "التَّقْوَىٰ",
+      "transliteration": "at-taqwā",
+      "meaning": "the piety, fear of Allah",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, be cautious"
+      },
+      "components": [
+        {
+          "arabic": "اَلْـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "تَقْوَىٰ",
+          "meaning": "piety, righteousness (derived from the root و-ق-ي)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "ۚ",
+      "transliteration": "lā jūda",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "وَاتَّقُونِ",
+      "transliteration": "wa-ttaqūni",
+      "meaning": "and fear Me",
+      "root": {
+        "letters": "و-ق-ى",
+        "meaning": "to shield, protect, fear (due to potential harm)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُونِ",
+          "meaning": "you fear Me (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "أُولِي",
+      "transliteration": "ʾūlī",
+      "meaning": "possessors of",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to be near, to protect, to govern, to possess"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "the prefix denoting possessors of (plural)"
+        },
+        {
+          "arabic": "لِي",
+          "meaning": "belonging to, possessing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "الْأَلْبَابِ",
+      "transliteration": "al-ʾalbābi",
+      "meaning": "understanding, intellect",
+      "root": {
+        "letters": "ل-بّ-ب",
+        "meaning": "to possess intellect, understanding; the core of the heart/mind"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-Hajj months well-known so-whoever imposed in-them the-Hajj so-not sexual-relations nor disobedience nor disputing in-the-Hajj and-whatever you-do from goodness [He] knows-it Allah and-take provisions so-indeed the-best the-provision the-piety fear-Me O possessors-of understanding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

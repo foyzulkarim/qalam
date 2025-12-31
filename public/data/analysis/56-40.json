@@ -1,0 +1,61 @@
+{
+  "verseId": "56:40",
+  "verse": {
+    "arabic": "وَثُلَّةٌ مِّنَ الْآخِرِينَ",
+    "transliteration": "Wathullatun mina alakhireena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَثُلَّةٌ",
+      "transliteration": "wa-thullatun",
+      "meaning": "and a company/group",
+      "root": {
+        "letters": "ث-ل-ل",
+        "meaning": "abundance, multitude, group"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to withhold, prevent, obstruct; origin of separation or source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْآخِرِينَ",
+      "transliteration": "al-ʾākhirīn",
+      "meaning": "the later ones/peoples",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after, the end/last"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرِينَ",
+          "meaning": "later ones, those who come after"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-a-company of-the-later-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

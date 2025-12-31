@@ -1,0 +1,569 @@
+{
+  "verseId": "18:28",
+  "verse": {
+    "arabic": "وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَن ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا",
+    "transliteration": "Waisbir nafsaka maAAa allatheena yadAAoona rabbahum bialghadati waalAAashiyyi yureedoona wajhahu wala taAAdu AAaynaka AAanhum tureedu zeenata alhayati alddunya wala tutiAA man aghfalna qalbahu AAan thikrina waittabaAAa hawahu wakana amruhu furutan",
+    "surah": "Al-Kahf",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاصْبِرْ",
+      "transliteration": "wa-ṣbir",
+      "meaning": "and be patient",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to persevere, patience"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اصْبِرْ",
+          "meaning": "be patient (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَفْسَكَ",
+      "transliteration": "nafsa-ka",
+      "meaning": "your soul/self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, spirit, breath; to desire or want"
+      },
+      "components": [
+        {
+          "arabic": "نَفْسَ",
+          "meaning": "soul, self (accusative case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, accusative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "with",
+      "root": {
+        "letters": "ع-م-و",
+        "meaning": "to accompany, to follow with, be together with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, to exist; relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَدْعُونَ",
+      "transliteration": "yadʿūna",
+      "meaning": "they call upon",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural"
+        },
+        {
+          "arabic": "دُ",
+          "meaning": "plural pronoun suffix indicating 'they'"
+        },
+        {
+          "arabic": "و",
+          "meaning": "vowel indicating present/future tense conjugation"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "first person plural pronoun suffix indicating 'we'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبَّهُم",
+      "transliteration": "rabba-hum",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative case)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِالْغَدَاةِ",
+      "transliteration": "bi-l-ghadāti",
+      "meaning": "in the morning",
+      "root": {
+        "letters": "غ-د-و",
+        "meaning": "to dawn, to become morning; early part of the day"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "الْغَدَاةِ",
+          "meaning": "the morning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْعَشِيِّ",
+      "transliteration": "wa-l-ʿašiyyi",
+      "meaning": "and the evening",
+      "root": {
+        "letters": "ع-ش-ي",
+        "meaning": "to become late, evening time"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْعَشِيِّ",
+          "meaning": "the evening"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُرِيدُونَ",
+      "transliteration": "yurīdūna",
+      "meaning": "they seek",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to will, to desire, to seek"
+      },
+      "components": [
+        {
+          "arabic": "يُرِيدُ",
+          "meaning": "they will/desire (verb, 3rd person masculine plural)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine subjects"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَجْهَهُ",
+      "transliteration": "wajha-hu",
+      "meaning": "His face/countenance",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, clear, apparent; face, direction"
+      },
+      "components": [
+        {
+          "arabic": "وَجْه",
+          "meaning": "face, countenance"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, do not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَعْدُ",
+      "transliteration": "taʿdu",
+      "meaning": "pass beyond/look away from",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, to oppose; to pass beyond/transgress"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَيْنَاكَ",
+      "transliteration": "ʿaynā-ka",
+      "meaning": "your eyes",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye, source, spring"
+      },
+      "components": [
+        {
+          "arabic": "عَيْنَا",
+          "meaning": "eyes (dual form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَنْهُمْ",
+      "transliteration": "ʿan-hum",
+      "meaning": "from them",
+      "root": {
+        "letters": "ع-ن-هـ",
+        "meaning": "to be away from, to turn back, to distance oneself"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, concerning"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تُرِيدُ",
+      "transliteration": "turīdu",
+      "meaning": "you desire",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to intend, to want, to desire"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "رِيدُ",
+          "meaning": "desire, wanting (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "زِينَةَ",
+      "transliteration": "zīnata",
+      "meaning": "adornment of/beauty of",
+      "root": {
+        "letters": "ز-ي-ن",
+        "meaning": "to be beautiful, to adorn"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْحَيَاةِ",
+      "transliteration": "al-ḥayāti",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live; life, vitality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاة",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world",
+      "root": {
+        "letters": "د-ن-ي",
+        "meaning": "lowliness, baseness, humility; temporary existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to wish, to desire, negation/denial"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "تُطِعْ",
+      "transliteration": "uṭiʿ",
+      "meaning": "obey",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to be meek, submissive; to obey willingly"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the imperative mood, second person masculine singular"
+        },
+        {
+          "arabic": "طِعْ",
+          "meaning": "source of obedience, derived from the root ط-و-ع"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who/one who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to conceal, or belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَغْفَلْنَا",
+      "transliteration": "aghfalnā",
+      "meaning": "We made heedless/forgetful",
+      "root": {
+        "letters": "غ-ف-ل",
+        "meaning": "to be heedless, to neglect, to forget"
+      },
+      "components": [
+        {
+          "arabic": "أَغْفَل",
+          "meaning": "We made heedless/forgotful (passive voice)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "قَلْبَهُ",
+      "transliteration": "qalba-hu",
+      "meaning": "his heart",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which changes/is turned"
+      },
+      "components": [
+        {
+          "arabic": "قلب",
+          "meaning": "heart"
+        },
+        {
+          "arabic": "ـه",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "عَن ذِكْرِنَا",
+      "transliteration": "ʿan dhikri-nā",
+      "meaning": "from Our remembrance",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "عَن",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "ذِكْرِنَا",
+          "meaning": "Our remembrance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَاتَّبَعَ",
+      "transliteration": "wa-ttabaʿa",
+      "meaning": "and he followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّبَعَ",
+          "meaning": "he followed (actively)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "هَوَاهُ",
+      "transliteration": "hawā-hu",
+      "meaning": "his desire/inclination",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to love, to desire, inclination"
+      },
+      "components": [
+        {
+          "arabic": "هَوَى",
+          "meaning": "desire, inclination"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَكَانَ",
+      "transliteration": "wa-kāna",
+      "meaning": "and was/and he was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "was/he was"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "أَمْرُهُ",
+      "transliteration": "amru-hu",
+      "meaning": "his affair/matter",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair/matter"
+      },
+      "components": [
+        {
+          "arabic": "أمر",
+          "meaning": "affair/matter/command"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "فُرُطًا",
+      "transliteration": "furūṭan",
+      "meaning": "excess/neglect",
+      "root": {
+        "letters": "ف-ر-ط",
+        "meaning": "to exceed, to go beyond limits; to be extravagant or negligent"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-be-patient your-soul with those who they-call upon their-Lord in the-morning and-the-evening they-seek His-face — and-do-not pass-beyond your-eyes from-them you-desire adornment of the-life the-world — and-do-not obey who We-made heedless his-heart from Our-remembrance and he-followed his-desire and-was his-affair excess"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

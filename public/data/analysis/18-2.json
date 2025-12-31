@@ -1,0 +1,262 @@
+{
+  "verseId": "18:2",
+  "verse": {
+    "arabic": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+    "transliteration": "Qayyiman liyunthira basan shadeedan min ladunhu wayubashshira almumineena allatheena yaAAmaloona alssalihati anna lahum ajran hasanan",
+    "surah": "Al-Kahf",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَيِّمًا",
+      "transliteration": "qayyiman",
+      "meaning": "straight, upright, just",
+      "root": {
+        "letters": "ق-ي-م",
+        "meaning": "to establish, to stand firm, to be upright"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّيُنذِرَ",
+      "transliteration": "li-yunḏira",
+      "meaning": "so that He may warn",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "so that, for the purpose of"
+        },
+        {
+          "arabic": "يُنذِّرَ",
+          "meaning": "he may warn"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَأْسًا",
+      "transliteration": "baʾsan",
+      "meaning": "severe punishment, hardship",
+      "root": {
+        "letters": "ب-أ-س",
+        "meaning": "strength, force, severity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "شَدِيدًا",
+      "transliteration": "shadīdan",
+      "meaning": "severe, intense, strong",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be firm, intense, strong"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّن لَّدُنْهُ",
+      "transliteration": "min ladunhu",
+      "meaning": "from Him, from His side",
+      "root": {
+        "letters": "ل-د-ن",
+        "meaning": "to yield, to bestow favor; closeness or proximity to a source of power/authority"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "لَّدُنْهُ",
+          "meaning": "His side/presence (from لَدُن + ـهُ [pronoun suffix])"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَيُبَشِّرَ",
+      "transliteration": "wa-yubashshira",
+      "meaning": "and He may give good tidings",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to give good tidings, to be joyful, maturity (of fruit)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُبَشِّرَ",
+          "meaning": "he gives good tidings (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمُؤْمِنِينَ",
+      "transliteration": "al-muʾminīn",
+      "meaning": "the believers",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, to be safe"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُؤْمِنِينَ",
+          "meaning": "believers (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "who, those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to point, to indicate, to be"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "relative pronoun, plural masculine form of 'who/those who'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَعْمَلُونَ",
+      "transliteration": "yaʿmalūna",
+      "meaning": "they do, they practice",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to practice, to perform"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "عَمَلُ",
+          "meaning": "doing, practice (verbal noun)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "they (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الصَّالِحَاتِ",
+      "transliteration": "aṣ-ṣāliḥāti",
+      "meaning": "the righteous deeds",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, or good; to repair or improve"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "The definite article 'the'"
+        },
+        {
+          "arabic": "صالِحات",
+          "meaning": "plural feminine of 'ṣāliḥ' - righteous (deeds)"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "tanwin - indefinite marker/case ending (nominative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "exaggeration particle, emphasis"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "nūn al-tawkid, emphatic suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them, they have",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَجْرًا",
+      "transliteration": "ajran",
+      "meaning": "reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward; effort, compensation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "حَسَنًا",
+      "transliteration": "ḥasanan",
+      "meaning": "good, beautiful",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness, excellence"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "[He has made it] straight - to warn- of punishment- severe - from Him - and to give good tidings- the believers - who- they do- righteous deeds - that - for them- reward- good"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

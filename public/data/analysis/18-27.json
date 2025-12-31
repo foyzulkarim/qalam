@@ -1,0 +1,287 @@
+{
+  "verseId": "18:27",
+  "verse": {
+    "arabic": "وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًا",
+    "transliteration": "Waotlu ma oohiya ilayka min kitabi rabbika la mubaddila likalimatihi walan tajida min doonihi multahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاتْلُ",
+      "transliteration": "wa-talū",
+      "meaning": "and recite",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite, to read after something"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَلُ",
+          "meaning": "recite (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُوحِيَ",
+      "transliteration": "ūḥiya",
+      "meaning": "was revealed",
+      "root": {
+        "letters": "و-ح-ي",
+        "meaning": "inspiration, revelation, divine communication"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker"
+        },
+        {
+          "arabic": "و-ح-ي",
+          "meaning": "revelation, inspiration"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَيْكَ",
+      "transliteration": "ilayka",
+      "meaning": "to you",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to approach, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كِتَابِ",
+      "transliteration": "kitābi",
+      "meaning": "Book of",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "To write; to record"
+      },
+      "components": [
+        {
+          "arabic": "كِتَاب",
+          "meaning": "Book"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "Genitive marker (of)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "faṣl",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "no/not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مُبَدِّلَ",
+      "transliteration": "mubaddila",
+      "meaning": "[one who] changes",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to substitute, exchange, or replace"
+      },
+      "components": [
+        {
+          "arabic": "مُبَدِّل",
+          "meaning": "one who changes or substitutes (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لِكَلِمَاتِهِ",
+      "transliteration": "li-kalimātihi",
+      "meaning": "for His words",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كَلِمَاتِهِ",
+          "meaning": "His words"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَلَن",
+      "transliteration": "wa-lan",
+      "meaning": "and never",
+      "root": {
+        "letters": "ل-م-ن",
+        "meaning": "to desire, to wish, to intend"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "never, will not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَجِدَ",
+      "transliteration": "tajida",
+      "meaning": "will you find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to seek, to find, to endeavor"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating future tense or commanding form (depending on context)"
+        },
+        {
+          "arabic": "جِدَ",
+          "meaning": "you find (second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to lessen; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "دُونِهِ",
+      "transliteration": "dūnihi",
+      "meaning": "other than Him",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, inferior; to lack; to be without"
+      },
+      "components": [
+        {
+          "arabic": "دُونِ",
+          "meaning": "other than, below, without"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مُلْتَحَدًا",
+      "transliteration": "multahadan",
+      "meaning": "[a] refuge/shelter",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "occurrence, novelty, appearance; to happen, come to pass"
+      },
+      "components": [
+        {
+          "arabic": "مُلتَ",
+          "meaning": "derived from the root, indicating a state or quality of happening/occurring"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "occurrence, event; place of occurrence (often implying refuge/shelter)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-recite what was-revealed to-you from Book-of your-Lord. no [one who] changes for-His words and-never will-you find from other-than-Him [a] refuge."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

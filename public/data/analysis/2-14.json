@@ -1,0 +1,287 @@
+{
+  "verseId": "2:14",
+  "verse": {
+    "arabic": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَىٰ شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ",
+    "transliteration": "Waitha laqoo allatheena amanoo qaloo amanna waitha khalaw ila shayateenihim qaloo inna maAAakum innama nahnu mustahzioona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to decline or weaken"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَقُوا",
+      "transliteration": "laqū",
+      "meaning": "they met",
+      "root": {
+        "letters": "ل-ق-و",
+        "meaning": "to meet, encounter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to possess, to have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating first person plural present/future tense (we)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (derived from the root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آمَنَّا",
+      "transliteration": "āmannā",
+      "meaning": "we believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "مَنَّا",
+          "meaning": "believe (verb, form I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to avoid, to shun"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "خَلَوْا",
+      "transliteration": "khalaw",
+      "meaning": "they remained alone, they were secluded",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to remain alone, to be secluded"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, with",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to turn towards, to incline, to follow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "شَيَاطِينِهِمْ",
+      "transliteration": "shayāṭīnihim",
+      "meaning": "their evil ones, their devils",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to be distant, strayed away; to err, deviate."
+      },
+      "components": [
+        {
+          "arabic": "شَيَاطِينَ",
+          "meaning": "devils, evil ones (plural)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "indeed we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مَعَكُمْ",
+      "transliteration": "maʿakum",
+      "meaning": "with you",
+      "root": {
+        "letters": "ع-م-د",
+        "meaning": "to stand, to be firm, to go with"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "only, indeed only",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to prohibit, to restrain, to limit"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn away, to incline, to be present (in a place)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مُسْتَهْزِئُونَ",
+      "transliteration": "mustahziʾūna",
+      "meaning": "mockers, deriders",
+      "root": {
+        "letters": "هـ-ز-ي",
+        "meaning": "to mock, to ridicule, to be contemptuous"
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَ",
+          "meaning": "passive participle prefix indicating 'one who is doing the action'"
+        },
+        {
+          "arabic": "هْزِئ",
+          "meaning": "mocking, ridiculing (form II verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine suffix indicating 'they are'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when they-met those-who believe they-said we-believe and-when they-were-alone to their-evil-ones they-said indeed-we with-you only we mockers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

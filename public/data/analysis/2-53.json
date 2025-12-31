@@ -1,0 +1,156 @@
+{
+  "verseId": "2:53",
+  "verse": {
+    "arabic": "وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ",
+    "transliteration": "Waith atayna moosa alkitaba waalfurqana laAAallakum tahtadoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 53
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, [at the time of]",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to pass away; time passing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آتَيْنَا",
+      "transliteration": "ʾātaynā",
+      "meaning": "We gave",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, to bestow, to come with (something)"
+      },
+      "components": [
+        {
+          "arabic": "آت",
+          "meaning": "to give, coming with (something)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُوسَى",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-و-س",
+        "meaning": "to name, to designate; to draw water"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the book, the scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْفُرْقَانَ",
+      "transliteration": "al-furqāna",
+      "meaning": "the criterion, the distinction",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, distinguish, differentiate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "perhaps you (plural)",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, contingency"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, in order that (purpose)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "perhaps, maybe (expressing hope or possibility)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَهْتَدُونَ",
+      "transliteration": "tahtadūna",
+      "meaning": "you are guided",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, to direct"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "هْتَدِـ",
+          "meaning": "base form of the verb 'to be guided'"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun ('you')"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - We gave - Moses - the book - and - the criterion - perhaps you (plural) - you are guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

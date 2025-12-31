@@ -1,0 +1,301 @@
+{
+  "verseId": "18:39",
+  "verse": {
+    "arabic": "وَلَوْلَا إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ ۚ إِن تَرَنِ أَنَا أَقَلَّ مِنكَ مَالًا وَوَلَدًا",
+    "transliteration": "Walawla ith dakhalta jannataka qulta ma shaa Allahu la quwwata illa biAllahi in tarani ana aqalla minka malan wawaladan",
+    "surah": "Al-Kahf",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَوْلَا",
+      "transliteration": "wa-lawlā",
+      "meaning": "and if not / and were it not for",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to want, to desire; to be inclined towards"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were it not for (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when / at the time of",
+      "root": {
+        "letters": "أ-ذْ-ح",
+        "meaning": "to perceive, to feel, to experience; time, occasion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "دَخَلْتَ",
+      "transliteration": "dakhalta",
+      "meaning": "you entered",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter; to go in"
+      },
+      "components": [
+        {
+          "arabic": "دَخَل",
+          "meaning": "you entered (past tense)"
+        },
+        {
+          "arabic": "-تَ",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَنَّتَكَ",
+      "transliteration": "jannatak(a)",
+      "meaning": "your garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also related to lush growth and abundance"
+      },
+      "components": [
+        {
+          "arabic": "جَنَّتَ",
+          "meaning": "garden, orchard"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "your (masculine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قُلْتَ",
+      "transliteration": "qulta",
+      "meaning": "you said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter, to command"
+      },
+      "components": [
+        {
+          "arabic": "قُل",
+          "meaning": "say!"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what / whatever",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be available, to exist; fluidity, waves"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "شَاءَ",
+      "transliteration": "shā’a",
+      "meaning": "willed / desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to wish, to will; to be the owner of something (implying power and control)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "no / not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قُوَّةَ",
+      "transliteration": "quwwata",
+      "meaning": "power / strength",
+      "root": {
+        "letters": "ق-و-ة",
+        "meaning": "to be strong, to have power; firmness, ability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except / unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to reject, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "billāhi",
+      "meaning": "with Allah / by Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to worship, to believe, divinity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "indeed / if",
+      "root": {
+        "letters": "ا-ن-و",
+        "meaning": "existence, being, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَرَنِ",
+      "transliteration": "tarani",
+      "meaning": "you see me",
+      "root": {
+        "letters": "ر-ي-ن",
+        "meaning": "to see, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "رَ",
+          "meaning": "base indicating seeing/perception"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "suffix indicating 'me'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَنَا",
+      "transliteration": "anā",
+      "meaning": "I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَقَلَّ",
+      "transliteration": "aqalla",
+      "meaning": "less / fewer",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to diminish, to be few or little, to reduce"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مِنكَ",
+      "transliteration": "minka",
+      "meaning": "than you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate, to come from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "ـكَ",
+          "meaning": "you (masculine singular, genitive/accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مَالًا",
+      "transliteration": "mālan",
+      "meaning": "wealth / property",
+      "root": {
+        "letters": "م-ل-ي",
+        "meaning": "possession, ownership, filling"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَوَلَدًا",
+      "transliteration": "wa-waladan",
+      "meaning": "and children / offspring",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to produce offspring, to bring forth"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "وَلَدًا",
+          "meaning": "child/offspring (indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if-not when you entered your garden you said what willed Allah no power except with Allah indeed you see I less than you wealth and children"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

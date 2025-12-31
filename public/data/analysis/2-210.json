@@ -1,0 +1,296 @@
+{
+  "verseId": "2:210",
+  "verse": {
+    "arabic": "هَلْ يَنظُرُونَ إِلَّا أَن يَأْتِيَهُمُ اللَّهُ فِي ظُلَلٍ مِّنَ الْغَمَامِ وَالْمَلَائِكَةُ وَقُضِيَ الْأَمْرُ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+    "transliteration": "Hal yanthuroona illa an yatiyahumu Allahu fee thulalin mina alghamami waalmalaikatu waqudiya alamru waila Allahi turjaAAu alomooru",
+    "surah": "Al-Baqarah",
+    "verseNumber": 210
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "interrogative particle; whether, is there?",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَنظُرُونَ",
+      "transliteration": "yanẓurūna",
+      "meaning": "they await, they expect",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to look at; by extension: to await, to expect"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural (we)"
+        },
+        {
+          "arabic": "نْظُر",
+          "meaning": "root relating to sight, observation, or looking"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine, present/future tense"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but only",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to incline, to turn away from, to deny; negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that, to (introduce a noun clause)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَأْتِيَهُمُ",
+      "transliteration": "yaʾtiyahumu",
+      "meaning": "He comes to them",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to approach"
+      },
+      "components": [
+        {
+          "arabic": "يَأْتِي",
+          "meaning": "He comes"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship; divine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be contained"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ظُلَلٍ",
+      "transliteration": "ẓulal",
+      "meaning": "covers, shades, shadows (plural)",
+      "root": {
+        "letters": "ظ-ل-ل",
+        "meaning": "shade, shadow, darkness; to provide shade or cover"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْغَمَامِ",
+      "transliteration": "al-ghamāmi",
+      "meaning": "the clouds",
+      "root": {
+        "letters": "غ-م-م",
+        "meaning": "to cover, to obscure, to veil"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "غَمَامِ",
+          "meaning": "clouds (genitive singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَالْمَلَائِكَةُ",
+      "transliteration": "wa-l-malāʾikatu",
+      "meaning": "and the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "ownership, dominion; to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَائِكَةُ",
+          "meaning": "angels (plural of مَلَك)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَقُضِيَ",
+      "transliteration": "wa-quḍiya",
+      "meaning": "and it was decided, and the matter was finished",
+      "root": {
+        "letters": "ق-ض-ي",
+        "meaning": "to judge, to decide, to finish, to accomplish"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قُضِيَ",
+          "meaning": "it was decided, it was finished (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْأَمْرُ",
+      "transliteration": "al-ʾamru",
+      "meaning": "the matter, the affair",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۚ",
+      "transliteration": "{}",
+      "meaning": "pause marker (la signfiication lexical)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَإِلَى",
+      "transliteration": "wa-ʾilā",
+      "meaning": "and to, and towards",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تُرْجَعُ",
+      "transliteration": "turjaʿu",
+      "meaning": "it is returned, are returned (passive)",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, reversion"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix denoting passive voice or reflexive form (form X)"
+        },
+        {
+          "arabic": "رُجِعَ",
+          "meaning": "passive voice of the verb 'to return'"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating the verb is in the present tense and third person feminine singular (or plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْأُمُورُ",
+      "transliteration": "al-ʾumūru",
+      "meaning": "the matters, the affairs (plural)",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair, matter"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أُمُور",
+          "meaning": "matters, affairs (plural of أَمْر)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Whether-do they await except that-comes to them Allah in-covers of from-the clouds and-the angels and-was decided the matter? And to Allah it is returned the matters."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

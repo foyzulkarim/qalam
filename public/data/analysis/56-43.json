@@ -1,0 +1,60 @@
+{
+  "verseId": "56:43",
+  "verse": {
+    "arabic": "وَظِلٍّ مِّن يَحْمُومٍ",
+    "transliteration": "Wathillin min yahmoomin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ظِلٍّ",
+      "transliteration": "ẓillin",
+      "meaning": "shade",
+      "root": {
+        "letters": "ظ-ل-ل",
+        "meaning": "darkness, shade, coolness; to provide shade or protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَحْمُومٍ",
+      "transliteration": "yaḥmūmin",
+      "meaning": "black smoke; intense heat",
+      "root": {
+        "letters": "ح-م-و",
+        "meaning": "to become red, heated; to glow intensely"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - shade - from - [the] black smoke"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

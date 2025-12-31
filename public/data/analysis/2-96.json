@@ -1,0 +1,476 @@
+{
+  "verseId": "2:96",
+  "verse": {
+    "arabic": "وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَىٰ حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ ۗ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+    "transliteration": "Walatajidannahum ahrasa alnnasi AAala hayatin wamina allatheena ashrakoo yawaddu ahaduhum law yuAAammaru alfa sanatin wama huwa bimuzahzihihi mina alAAathabi an yuAAammara waAllahu baseerun bima yaAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 96
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَتَجِدَنَّهُمْ",
+      "transliteration": "wa-latajidannahum",
+      "meaning": "and indeed you will find them",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to find, to seek, to endeavor"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "indeed, surely (emphatic particle)"
+        },
+        {
+          "arabic": "تَجِدَنَّ",
+          "meaning": "you will find (verb, future tense, emphatic)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَحْرَصَ",
+      "transliteration": "ʾaḥraṣa",
+      "meaning": "more eager/greedy",
+      "root": {
+        "letters": "ح-ر-ص",
+        "meaning": "to be careful, diligent, or eager; to guard/protect something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost or strayed; also, people (derived from the idea of forgetting one’s origin/ancestors)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/for",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate; superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَيَاةٍ",
+      "transliteration": "ḥayātin",
+      "meaning": "life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, life, vitality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَمِنَ",
+      "transliteration": "wa-mina",
+      "meaning": "and from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَشْرَكُوا",
+      "transliteration": "ʾašrakū",
+      "meaning": "associated [partners with Allah]",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate, to partner"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating negative connotation or emphasis, often negation (not)"
+        },
+        {
+          "arabic": "شَرَّكُوا",
+          "meaning": "they associated (partners)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamu [pause marker]",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware of, perceive"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "تَعْلَمُ",
+          "meaning": "you know (masculine singular, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَوَدُّ",
+      "transliteration": "yawaddu",
+      "meaning": "he wishes/desires",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, to feel affection, to wish well"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person singular (he)"
+        },
+        {
+          "arabic": "وَدَّ",
+          "meaning": "love, affection, wishing well (verbal noun)"
+        },
+        {
+          "arabic": "دُ",
+          "meaning": "indicates the vowel pattern and person."
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَحَدُهُمْ",
+      "transliteration": "ʾaḥaduhum",
+      "meaning": "one of them",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "unique, single, one"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَدُ",
+          "meaning": "singleness, uniqueness"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if/that",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, desire; to regret"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يُعَمَّرُ",
+      "transliteration": "yuʿammaru",
+      "meaning": "[he] be granted long life",
+      "root": {
+        "letters": "ع-م-ر",
+        "meaning": "to build, to populate; long life"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third-person masculine singular"
+        },
+        {
+          "arabic": "عَمَّرَ",
+          "meaning": "to grant long life, to cause something to last a long time"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "passive voice marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَلْفَ",
+      "transliteration": "ʾalfa",
+      "meaning": "a thousand",
+      "root": {
+        "letters": "أ-ل-ف",
+        "meaning": "to be first, to begin; also relates to order and arrangement (and thus counting)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "سَنَةٍ",
+      "transliteration": "sanatin",
+      "meaning": "year",
+      "root": {
+        "letters": "س-ن-و",
+        "meaning": "to shine, to be bright; year (as a shining period of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what/nor",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or related to something"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/nor (interrogative or conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it/he",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; to fall into a state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِمُزَحْزِحِهِ",
+      "transliteration": "bi-muzaḥziḥihi",
+      "meaning": "by removing it/him",
+      "root": {
+        "letters": "ح-ز-ح",
+        "meaning": "to move something away, to remove, to displace"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مُزَحْزِحِهِ",
+          "meaning": "removing it/him (verbal noun in the genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْعَذَابِ",
+      "transliteration": "al-ʿaḏābi",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; bitterness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَاب",
+          "meaning": "punishment, torment, suffering"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (possessive/attribution)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "[that/to]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also implies intention or purpose."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يُعَمَّرَ",
+      "transliteration": "yuʿammaru",
+      "meaning": "[he] be granted long life",
+      "root": {
+        "letters": "ع-م-ر",
+        "meaning": "to build, to populate, to live long"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense or subjunctive mood"
+        },
+        {
+          "arabic": "عَمَّرَ",
+          "meaning": "to grant long life, to cause someone to live a long time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۗ",
+      "transliteration": "[pause marker]",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "بَصِيرٌ",
+      "transliteration": "baṣīrun",
+      "meaning": "Seeing/Aware",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to be aware, to perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what/of what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to flow, to surge, to be abundant"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "يَعْمَلُونَ",
+      "transliteration": "yaʿmalūna",
+      "meaning": "they do",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to practice, to work"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing, work (verbal noun/present tense stem)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "present tense plural suffix (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed you-will-find-them more-eager the-people upon life and-from those who associated [partners with Allah] -[pause marker]- he-wishes one-of-them if be-granted long-life a-thousand year and-what he it by-removing-it from the punishment that be-granted long life -[pause marker]- and-Allah Seeing of-what they do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

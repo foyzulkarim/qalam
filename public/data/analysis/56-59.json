@@ -1,0 +1,101 @@
+{
+  "verseId": "56:59",
+  "verse": {
+    "arabic": "أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ",
+    "transliteration": "Aantum takhluqoonahu am nahnu alkhaliqoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 59
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَأَنتُمْ",
+      "transliteration": "ʾaʾantum",
+      "meaning": "Are you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence (related to pronouns of self)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle (denotes question)"
+        },
+        {
+          "arabic": "أَنْتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَخْلُقُونَهُ",
+      "transliteration": "takhlūqūnahu",
+      "meaning": "You create it (plural)",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to form, to originate"
+      },
+      "components": [
+        {
+          "arabic": "تَخْلُقُونَ",
+          "meaning": "You (plural) create"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-م",
+        "meaning": "to desire, to wish, to intend; also, negation and doubt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "We",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn, incline, or bend towards; association, togetherness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْخَالِقُونَ",
+      "transliteration": "al-khāliqūn",
+      "meaning": "The creators",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothingness"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "خَالِقُونَ",
+          "meaning": "Creators (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Are-you (plural) create-it (plural) or We the-creators?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

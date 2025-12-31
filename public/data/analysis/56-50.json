@@ -1,0 +1,92 @@
+{
+  "verseId": "56:50",
+  "verse": {
+    "arabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَّعْلُومٍ",
+    "transliteration": "LamajmooAAoona ila meeqati yawmin maAAloomin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَمَجْمُوعُونَ",
+      "transliteration": "lamajmūʿūn",
+      "meaning": "surely/indeed gathered (ones)",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, gather"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to, indeed (emphasizer)"
+        },
+        {
+          "arabic": "مَجْمُوعُونَ",
+          "meaning": "gathered (ones), collected (people)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to/towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to be connected with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِيقَاتِ",
+      "transliteration": "mīqāti",
+      "meaning": "appointment/fixed time",
+      "root": {
+        "letters": "و-ق-ت",
+        "meaning": "to measure time, to apportion, to fix a time"
+      },
+      "components": [
+        {
+          "arabic": "مِـ",
+          "meaning": "prefix indicating place or time of something"
+        },
+        {
+          "arabic": "قَاتِ",
+          "meaning": "related to time/appointment; active participle form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمٍ",
+      "transliteration": "yawmin",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّعْلُومٍ",
+      "transliteration": "maʿlūmin",
+      "meaning": "known/specified",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "surely-gathered-ones to appointment of day known"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

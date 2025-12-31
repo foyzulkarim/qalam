@@ -1,0 +1,151 @@
+{
+  "verseId": "55:39",
+  "verse": {
+    "arabic": "فَيَوْمَئِذٍ لَّا يُسْأَلُ عَن ذَنبِهِ إِنسٌ وَلَا جَانٌّ",
+    "transliteration": "Fayawmaithin la yusalu AAan thanbihi insun wala jannun",
+    "surah": "Ar-Rahman",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَيَوْمَئِذٍ",
+      "transliteration": "fa-yawmaʾidhin",
+      "meaning": "So on that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "Not, never",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُسْأَلُ",
+      "transliteration": "yusʾalu",
+      "meaning": "Will be asked",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, question"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "passive voice marker/prefix indicating 'is being'"
+        },
+        {
+          "arabic": "سْأَلَ",
+          "meaning": "to ask, inquire, question (verb in the past tense)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah (vowel indicating passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "About",
+      "root": {
+        "letters": "ع-ن-ن",
+        "meaning": "to be free from, to depart from; related to separation or removal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ذَنبِهِ",
+      "transliteration": "dhanbihī",
+      "meaning": "His sin",
+      "root": {
+        "letters": "ذ-ن-ب",
+        "meaning": "to sin; wrongdoing; vice"
+      },
+      "components": [
+        {
+          "arabic": "ذنِب",
+          "meaning": "sin; crime; fault"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِنسٌ",
+      "transliteration": "ʾinsun",
+      "meaning": "A human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly; also, to adapt or become accustomed to something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor (negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَانٌّ",
+      "transliteration": "jānnun",
+      "meaning": "A jinn, demon",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to veil, obscurity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-on-that-Day not will-be-asked about his-sin human being and-not jinn"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

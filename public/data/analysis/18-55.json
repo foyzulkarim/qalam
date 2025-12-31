@@ -1,0 +1,310 @@
+{
+  "verseId": "18:55",
+  "verse": {
+    "arabic": "وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَىٰ وَيَسْتَغْفِرُوا رَبَّهُمْ إِلَّا أَن تَأْتِيَهُمْ سُنَّةُ الْأَوَّلِينَ أَوْ يَأْتِيَهُمُ الْعَذَابُ قُبُلًا",
+    "transliteration": "Wama manaAAa alnnasa an yuminoo ith jaahumu alhuda wayastaghfiroo rabbahum illa an tatiyahum sunnatu alawwaleena aw yatiyahumu alAAathabu qubulan",
+    "surah": "Al-Kahf",
+    "verseNumber": 55
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and nothing",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also related to negation and non-existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/nothing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنَعَ",
+      "transliteration": "manaʿa",
+      "meaning": "prevented/hindered",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to obstruct, to withhold, to be powerful against"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسَ",
+      "transliteration": "an-nāsa",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to err, or to be lost; also related to descendants/people"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to (infinitive marker)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; indicating potentiality or possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُؤْمِنُوا",
+      "transliteration": "yuʾminū",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural subject"
+        },
+        {
+          "arabic": "ؤْمِنُوا",
+          "meaning": "they believe (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِذْ",
+      "transliteration": "ʾidh",
+      "meaning": "when/at the time when",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to perceive, to feel, to experience; time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جَاءَهُمُ",
+      "transliteration": "jāʾahum",
+      "meaning": "came to them",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاء",
+          "meaning": "he came"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْهُدَىٰ",
+      "transliteration": "al-hudá",
+      "meaning": "the guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَيَسْتَغْفِرُوا",
+      "transliteration": "wa yastaġfirū",
+      "meaning": "and they seek forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive; to seek forgiveness; to cover up (a fault)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْتَغْفِرُوا",
+          "meaning": "they seek forgiveness (verb in subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَبَّهُمْ",
+      "transliteration": "rabba-hum",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, possessor, master"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to negate"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, were it not for"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to (infinitive marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَأْتِيَهُمْ",
+      "transliteration": "taʾtiyahum",
+      "meaning": "come to them",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to approach"
+      },
+      "components": [
+        {
+          "arabic": "تَأْ",
+          "meaning": "prefix indicating 'they' (masculine plural)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "second person masculine plural pronoun suffix (to them)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "سُنَّةُ",
+      "transliteration": "sunnatu",
+      "meaning": "the precedent/the way",
+      "root": {
+        "letters": "س-ن-ن",
+        "meaning": "established manner, custom, way of life"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْأَوَّلِينَ",
+      "transliteration": "al-ʾawwalīn",
+      "meaning": "the former ones/the previous peoples",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; precedence, priority"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَوَّلِينَ",
+          "meaning": "first ones, previous peoples (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَأْتِيَهُمُ",
+      "transliteration": "yaʾtiyahum",
+      "meaning": "come to them",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to approach"
+      },
+      "components": [
+        {
+          "arabic": "يَأْتِ",
+          "meaning": "he comes, he approaches (verb form)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْعَذَابُ",
+      "transliteration": "al-ʿadhābu",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; bitterness, hardship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "قُبُلًا",
+      "transliteration": "qubula",
+      "meaning": "directly/immediately",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to receive, to face (something)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-nothing prevented the-people to-believe when came-to-them the-guidance and-they-seek-forgiveness their-Lord except that come-to-them the-precedent of-the-former-ones or come-to-them the-punishment directly"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

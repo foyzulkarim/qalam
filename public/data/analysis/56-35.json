@@ -1,0 +1,75 @@
+{
+  "verseId": "56:35",
+  "verse": {
+    "arabic": "إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً",
+    "transliteration": "Inna anshanahunna inshaan",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily; the emphatic particle 'inna' with the first-person pronoun suffix",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (first-person pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنشَأْنَاهُنَّ",
+      "transliteration": "ʾanshaʾnāhunna",
+      "meaning": "We have created them; from the root 'nashʾa' (to originate, create) with a pronoun suffix indicating feminine plural",
+      "root": {
+        "letters": "ن-ش-أ",
+        "meaning": "to originate, create; to grow up, emerge"
+      },
+      "components": [
+        {
+          "arabic": "أَنشَأْ",
+          "meaning": "We have created (verb form)"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "them (feminine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِنشَاءً",
+      "transliteration": "ʾinshāʾan",
+      "meaning": "A creation; a new/special way of creating, from the root 'nashʾa' (to originate, create) in accusative case indicating manner",
+      "root": {
+        "letters": "ن-ش-أ",
+        "meaning": "to originate, to create; to grow up, come into being"
+      },
+      "components": [
+        {
+          "arabic": "إنشَاءً",
+          "meaning": "A creation; a new/special way of creating, in accusative case indicating manner"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-We [have] created-them a creation-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

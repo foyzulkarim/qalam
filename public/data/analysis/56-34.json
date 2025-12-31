@@ -1,0 +1,41 @@
+{
+  "verseId": "56:34",
+  "verse": {
+    "arabic": "وَفُرُشٍ مَّرْفُوعَةٍ",
+    "transliteration": "Wafurushin marfooAAatin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَفُرُشٍ",
+      "transliteration": "wa-furushin",
+      "meaning": "and beds/cushions (plural)",
+      "root": {
+        "letters": "ف-ر-ش",
+        "meaning": "to spread out, to lay down; spreading, extension"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّرْفُوعَةٍ",
+      "transliteration": "marfūʿatin",
+      "meaning": "raised/elevated (feminine singular)",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to raise, to promote"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-beds/cushions - raised/elevated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

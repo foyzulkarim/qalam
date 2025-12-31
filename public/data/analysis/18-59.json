@@ -1,0 +1,172 @@
+{
+  "verseId": "18:59",
+  "verse": {
+    "arabic": "وَتِلْكَ الْقُرَىٰ أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًا",
+    "transliteration": "Watilka alqura ahlaknahum lamma thalamoo wajaAAalna limahlikihim mawAAidan",
+    "surah": "Al-Kahf",
+    "verseNumber": 59
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "those (feminine)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقُرَىٰ",
+      "transliteration": "al-qurā",
+      "meaning": "the cities",
+      "root": {
+        "letters": "ق-و-ر",
+        "meaning": "to gather, to collect, to resort"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُرَىٰ",
+          "meaning": "cities, towns (plural of قرية)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَهْلَكْنَاهُمْ",
+      "transliteration": "ahlaknāhum",
+      "meaning": "We destroyed them",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first-person plural (We)"
+        },
+        {
+          "arabic": "هَلَكْنَا",
+          "meaning": "we destroyed (perfect tense)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَمَّا",
+      "transliteration": "lammā",
+      "meaning": "when/as",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ظَلَمُوا",
+      "transliteration": "ẓalamū",
+      "meaning": "they wronged/oppressed",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": [
+        {
+          "arabic": "ظَلَم",
+          "meaning": "to wrong, to oppress"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَعَلْنَا",
+      "transliteration": "jaʿalnā",
+      "meaning": "We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made (verbal base)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لِمَهْلِكِهِم",
+      "transliteration": "limahlikihim",
+      "meaning": "for their destruction",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَهْلِكِهِم",
+          "meaning": "their destruction"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَّوْعِدًا",
+      "transliteration": "mawʿidan",
+      "meaning": "an appointed time",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to fulfill a commitment"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-those the-cities We-destroyed-them when they-wronged and-We made for-their-destruction an-appointed-time"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

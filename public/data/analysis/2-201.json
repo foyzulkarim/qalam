@@ -1,0 +1,267 @@
+{
+  "verseId": "2:201",
+  "verse": {
+    "arabic": "وَمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Waminhum man yaqoolu rabbana atina fee alddunya hasanatan wafee alakhirati hasanatan waqina AAathaba alnnari",
+    "surah": "Al-Baqarah",
+    "verseNumber": 201
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِنْهُم",
+      "transliteration": "wa minhum",
+      "meaning": "and from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to be from, to originate from"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّن",
+      "transliteration": "man",
+      "meaning": "who, someone",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, origin, type"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "he says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, he/she/it"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "verbal noun/source of the verb 'to say'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbana",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case, indicating possession)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آتِنَا",
+      "transliteration": "atina",
+      "meaning": "give us",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give (as something arriving)"
+      },
+      "components": [
+        {
+          "arabic": "آتِ",
+          "meaning": "one who gives; giver (verbal noun form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "al-dunya",
+      "meaning": "the world, the present life",
+      "root": {
+        "letters": "د-ن-ي",
+        "meaning": "lowliness, humility, baseness; temporary existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "حَسَنَةً",
+      "transliteration": "ḥasanatan",
+      "meaning": "goodness, a good thing",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness, excellence"
+      },
+      "components": [
+        {
+          "arabic": "حَسَن",
+          "meaning": "good, beautiful"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite accusative marker (tanween)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَفِي",
+      "transliteration": "wa fī",
+      "meaning": "and in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be contained within"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ākhirati",
+      "meaning": "the Hereafter, the afterlife",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the end or last part"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "last, final; the afterlife"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "حَسَنَةً",
+      "transliteration": "ḥasanatan",
+      "meaning": "goodness, a good thing",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness, excellence"
+      },
+      "components": [
+        {
+          "arabic": "حَسَن",
+          "meaning": "good"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite accusative ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَقِنَا",
+      "transliteration": "wa qina",
+      "meaning": "and protect us",
+      "root": {
+        "letters": "ق-ن-و",
+        "meaning": "to protect, to shield, to ward off"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قِنَا",
+          "meaning": "protect us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَذَابَ",
+      "transliteration": "ʿadhāba",
+      "meaning": "punishment, torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to suffer hardship, to be in pain; to punish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "النَّارِ",
+      "transliteration": "al-nāri",
+      "meaning": "the Fire (Hellfire)",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَارِ",
+          "meaning": "fire (genitive case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - from - them - who - he says - Our Lord - give - us - in - the world - goodness - and - in - the Hereafter - goodness - and - protect - us - punishment - the Fire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

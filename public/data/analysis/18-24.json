@@ -1,0 +1,280 @@
+{
+  "verseId": "18:24",
+  "verse": {
+    "arabic": "إِلَّا أَن يَشَاءَ اللَّهُ ۚ وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰ أَن يَهْدِيَنِ رَبِّي لِأَقْرَبَ مِنْ هَـٰذَا رَشَدًا",
+    "transliteration": "Illa an yashaa Allahu waothkur rabbaka itha naseeta waqul AAasa an yahdiyani rabbee liaqraba min hatha rashadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to decline, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; source of 'an"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَشَاءَ",
+      "transliteration": "yashāʾa",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to will, to desire"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, third-person masculine singular"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اذْكُر",
+      "transliteration": "udhkur",
+      "meaning": "remember!",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَّبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative singular)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart, to flee; time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نَسِيتَ",
+      "transliteration": "nasīta",
+      "meaning": "you forget",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": [
+        {
+          "arabic": "نَسِ",
+          "meaning": "the root of forgetting; obliteration"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "second person masculine singular suffix indicating 'you'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَسَىٰ",
+      "transliteration": "ʿasā",
+      "meaning": "perhaps, hopefully",
+      "root": {
+        "letters": "ع-س-ي",
+        "meaning": "to desire, to wish, to hope"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also related to desire and intention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يَهْدِيَنِ",
+      "transliteration": "yahdiyani",
+      "meaning": "He guides me",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (masculine singular pronoun)"
+        },
+        {
+          "arabic": "هْدِي",
+          "meaning": "guidance (verbal noun)"
+        },
+        {
+          "arabic": "نِ",
+          "meaning": "me (direct object marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbi",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لِأَقْرَبَ",
+      "transliteration": "li-ʾaqraba",
+      "meaning": "to what is nearer, for something closer",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to approach, to be near"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "أَقْرَبَ",
+          "meaning": "the nearest, closer"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "than, from",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to decrease, to diminish, lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "رَشَدًا",
+      "transliteration": "rashadan",
+      "meaning": "right conduct, guidance",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to guide, to be rightly guided, maturity, sound judgment"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-to-He-wills-Allah - and-remember!-your-Lord - when-you-forget - and-say! - perhaps-to-He-guides-me - my-Lord - to-what-is-nearer - than-this - right-conduct"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

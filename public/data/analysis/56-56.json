@@ -1,0 +1,81 @@
+{
+  "verseId": "56:56",
+  "verse": {
+    "arabic": "هَـٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+    "transliteration": "Hatha nuzuluhum yawma alddeeni",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 56
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, demonstration"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُزُلُهُمْ",
+      "transliteration": "nuzuluhum",
+      "meaning": "their accommodation/lodging",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down; lodging, accommodation"
+      },
+      "components": [
+        {
+          "arabic": "نُزُل",
+          "meaning": "accommodation, lodging"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "on the day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "the recompense/judgement",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be in debt, to subjugate, recompense"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِين",
+          "meaning": "recompense, judgement, religion"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "this - their-accommodation - on the day of - the-recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

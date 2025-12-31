@@ -1,0 +1,125 @@
+{
+  "verseId": "55:37",
+  "verse": {
+    "arabic": "فَإِذَا انشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+    "transliteration": "Faitha inshaqqati alssamao fakanat wardatan kaalddihani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "then, so when; consequently",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so; connective particle indicating sequence or consequence"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if; conditional particle indicating time or circumstance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "انشَقَّتِ",
+      "transliteration": "inshaqqatī",
+      "meaning": "split open, cleaved apart (feminine singular past)",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to cleave, to tear apart"
+      },
+      "components": [
+        {
+          "arabic": "انشَقَّ",
+          "meaning": "split open, cleaved apart (masculine singular past)"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the heaven, the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; loftiness, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَكَانَتْ",
+      "transliteration": "fakānat",
+      "meaning": "so it became, thus it was (feminine singular past)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, thus (particle indicating consequence)"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "to be (past tense, masculine singular)"
+        },
+        {
+          "arabic": "ـتْ",
+          "meaning": "feminine singular past tense suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَرْدَةً",
+      "transliteration": "wardatan",
+      "meaning": "rose-colored, reddish (indefinite accusative)",
+      "root": {
+        "letters": "و-ر-د",
+        "meaning": "to return, to come back; to desire or seek something (water)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَالدِّهَانِ",
+      "transliteration": "ka-ad-dihāni",
+      "meaning": "like oil, as the oil (simile)",
+      "root": {
+        "letters": "د-ه-ن",
+        "meaning": "to smear, to rub; oiliness, fatness"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الدِّهَانِ",
+          "meaning": "the oil, the fat (substantive)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-when split-open the-heaven thus-it-became rose-colored like-the-oil"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

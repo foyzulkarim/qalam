@@ -1,0 +1,263 @@
+{
+  "verseId": "2:127",
+  "verse": {
+    "arabic": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Waith yarfaAAu ibraheemu alqawaAAida mina albayti waismaAAeelu rabbana taqabbal minna innaka anta alssameeAAu alAAaleemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 127
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when/and [remember]",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when; a particle of time invoking recollection"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَرْفَعُ",
+      "transliteration": "yarfaʿu",
+      "meaning": "he raises/is raising",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to lift up, to increase (in status or quantity)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular or third person masculine singular."
+        },
+        {
+          "arabic": "رَفَعَ",
+          "meaning": "to raise, to elevate"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating present tense conjugation for the third person masculine singular."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِبْرَاهِيمُ",
+      "transliteration": "ʾibrāhīmu",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be strong, powerful, to excel; to break or shatter (something stubborn)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْقَوَاعِدَ",
+      "transliteration": "al-qawāʿida",
+      "meaning": "the foundations",
+      "root": {
+        "letters": "ق-و-د",
+        "meaning": "to establish, to set up; to have power or strength"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْبَيْتِ",
+      "transliteration": "al-bayti",
+      "meaning": "the House/the Kaʿbah",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to build, to construct; house, dwelling"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَيْتِ",
+          "meaning": "house, abode; specifically the Kaʿbah (in this context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَإِسْمَاعِيلُ",
+      "transliteration": "waʾismāʿīlu",
+      "meaning": "and Ishmael",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْمَاعِيلُ",
+          "meaning": "Ishmael (name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbanā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَقَبَّلْ",
+      "transliteration": "taqabbal",
+      "meaning": "accept!",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to receive willingly"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating imperative mood (command)"
+        },
+        {
+          "arabic": "قَبِلَ",
+          "meaning": "to accept, to receive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِنَّا",
+      "transliteration": "minnā",
+      "meaning": "from us",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "origin, source, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِنَّكَ",
+      "transliteration": "ʾinnaka",
+      "meaning": "Indeed You",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; essence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَنتَ",
+      "transliteration": "ʾanta",
+      "meaning": "You",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence (in a personal pronoun form)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "السَّمِيعُ",
+      "transliteration": "as-samīʿu",
+      "meaning": "the Hearing/All-Hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "السَّمِيعُ",
+          "meaning": "The Hearing/All-Hearing (active participle indicating continuous action)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْعَلِيمُ",
+      "transliteration": "al-ʿalīmu",
+      "meaning": "the Knowing/All-Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَلِيمُ",
+          "meaning": "Knowing/All-Knowing (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-when he-raises Abraham the-foundations from the-House and Ishmael Our-Lord accept! from-us Indeed-You You the-Hearing the-Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

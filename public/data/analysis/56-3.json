@@ -1,0 +1,41 @@
+{
+  "verseId": "56:3",
+  "verse": {
+    "arabic": "خَافِضَةٌ رَّافِعَةٌ",
+    "transliteration": "Khafidatun rafiAAatun",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَافِضَةٌ",
+      "transliteration": "khāfiḍah",
+      "meaning": "lowering, reducing",
+      "root": {
+        "letters": "خ-ف-ض",
+        "meaning": "to lower, to be humble, to decrease"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَّافِعَةٌ",
+      "transliteration": "rāfiʿah",
+      "meaning": "raising, elevating",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to raise up, to be high"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "lowering - raising"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

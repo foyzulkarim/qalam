@@ -1,0 +1,496 @@
+{
+  "verseId": "2:30",
+  "verse": {
+    "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ",
+    "transliteration": "Waith qala rabbuka lilmalaikati innee jaAAilun fee alardi khaleefatan qaloo atajAAalu feeha man yufsidu feeha wayasfiku alddimaa wanahnu nusabbihu bihamdika wanuqaddisu laka qala innee aAAlamu ma la taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "wa’idh",
+      "meaning": "and when, and recall",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to remember, to recall, to be mindful"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when, recall"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِلْمَلَائِكَةِ",
+      "transliteration": "lil-malā’ikati",
+      "meaning": "to the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْمَلَائِكَةِ",
+          "meaning": "the angels"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنِّي",
+      "transliteration": "innī",
+      "meaning": "Indeed, I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "Indeed, verily; emphasizes the following statement"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَاعِلٌ",
+      "transliteration": "jāʿilun",
+      "meaning": "making, I will make",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جاعل",
+          "meaning": "maker, one who creates or appoints"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي الْأَرْضِ",
+      "transliteration": "fī al-ʾarḍi",
+      "meaning": "in the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "the earth, land, ground; to be wide or extensive"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خَلِيفَةً",
+      "transliteration": "khalīfatan",
+      "meaning": "a successive authority, deputy",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to succeed, to follow after, to be left behind"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَتَجْعَلُ",
+      "transliteration": "ʾatajʿalu",
+      "meaning": "Will You make?",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to cause to be"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of questioning/conditional"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating 'you (masculine singular)'"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to encompass, be in/within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "one who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be safe, protected; to be from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يُفْسِدُ",
+      "transliteration": "yufsidu",
+      "meaning": "causes corruption",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "decay, ruin, be invalid or spoiled"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present tense, active voice (prefix)"
+        },
+        {
+          "arabic": "فَسَدَ",
+          "meaning": "to be corrupt, to spoil"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah - indicates present tense, active voice ending for verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to dwell"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَيَسْفِكُ",
+      "transliteration": "wa-yasfiku",
+      "meaning": "and sheds",
+      "root": {
+        "letters": "س-ف-ك",
+        "meaning": "to spill, pour forth, shed (liquid or blood)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْفِكُ",
+          "meaning": "he sheds, he pours forth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الدِّمَاءَ",
+      "transliteration": "ad-dimāʾa",
+      "meaning": "the bloods",
+      "root": {
+        "letters": "د-م-أ",
+        "meaning": "to flow, to gush forth (especially of blood or fluids)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِمَاءَ",
+          "meaning": "bloods (plural of دَم, blood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَنَحْنُ",
+      "transliteration": "wa-naḥnu",
+      "meaning": "and we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to incline, to be with"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَحْنُ",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "نُسَبِّحُ",
+      "transliteration": "nusabbiḥu",
+      "meaning": "we declare praise",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim; to move quickly; to praise, glorify"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "سَبِّحُ",
+          "meaning": "to praise, glorify (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِحَمْدِكَ",
+      "transliteration": "bi-ḥamdi-ka",
+      "meaning": "with Your praise",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, thankfulness; to be praised, to thank"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "حَمْدِكَ",
+          "meaning": "Your praise"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَنُقَدِّسُ",
+      "transliteration": "wa-nuqaddisu",
+      "meaning": "and we sanctify",
+      "root": {
+        "letters": "ق-د-س",
+        "meaning": "to be pure, holy, sacred; to sanctify, consecrate"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نُقَدِّسُ",
+          "meaning": "we sanctify, we consecrate"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "for You",
+      "root": {
+        "letters": "ل-ك-ي",
+        "meaning": "possession, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "said [He]",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, utter, or narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِنِّي",
+      "transliteration": "innī",
+      "meaning": "Indeed, I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also used as an emphatic particle"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "Indeed, verily; emphatic particle introducing a clause"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "aʿlamu",
+      "meaning": "I know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun suffix)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "belonging to, possessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "لَا تَعْلَمُونَ",
+      "transliteration": "lā taʿlamūna",
+      "meaning": "you do not know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you know (present tense, masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And – when – said – your Lord – to – the angels – Indeed – I – making – in – the earth – a successive authority - [pause marker] – they said – Will – You make – in it – one who – causes corruption – in it – and sheds – the bloods – and we – we declare praise – with Your praise – and we sanctify – for You - [pause marker] – said [He] – Indeed – I – know – that which – you do not know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

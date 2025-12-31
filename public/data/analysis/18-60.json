@@ -1,0 +1,186 @@
+{
+  "verseId": "18:60",
+  "verse": {
+    "arabic": "وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا",
+    "transliteration": "Waith qala moosa lifatahu la abrahu hatta ablugha majmaAAa albahrayni aw amdiya huquban",
+    "surah": "Al-Kahf",
+    "verseNumber": 60
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "wa-idh",
+      "meaning": "and when",
+      "root": {
+        "letters": "و-ذ-ه",
+        "meaning": "to perceive, to experience, to be aware of"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "utterance, speech, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "weakness, fragility, helplessness; to draw water or extract (something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِفَتَاهُ",
+      "transliteration": "li-fatāhi",
+      "meaning": "to his servant",
+      "root": {
+        "letters": "ف-ت-ي",
+        "meaning": "youth, young man, servant"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "فَتَاهُ",
+          "meaning": "his servant, his young man"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَبْرَحُ",
+      "transliteration": "abraḥu",
+      "meaning": "I will cease/depart",
+      "root": {
+        "letters": "ب-ر-ح",
+        "meaning": "to depart, to go away, to leave"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَبْلُغَ",
+      "transliteration": "ablugha",
+      "meaning": "I reach",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, communicate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَجْمَعَ",
+      "transliteration": "majmaʿa",
+      "meaning": "junction/confluence",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to gather, to collect, to unite"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْبَحْرَيْنِ",
+      "transliteration": "al-baḥrayni",
+      "meaning": "the two seas",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to swim, ocean, sea"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَحْرَيْنِ",
+          "meaning": "two seas (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to be in a state of choice, alternative; to wish or desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَمْضِيَ",
+      "transliteration": "amḍiya",
+      "meaning": "I continue/spend",
+      "root": {
+        "letters": "م-ض-ي",
+        "meaning": "to pass, to go away, to expire; strength, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "حُقُبًا",
+      "transliteration": "ḥuqūban",
+      "meaning": "long periods/ages",
+      "root": {
+        "letters": "ح-ق-ب",
+        "meaning": "to revolve, to encompass a long period of time; to mature or age"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when he-said Moses to-his servant not I-cease until I-reach junction the two-seas or I-continue long-periods"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

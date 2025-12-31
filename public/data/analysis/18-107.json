@@ -1,0 +1,192 @@
+{
+  "verseId": "18:107",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ الْفِرْدَوْسِ نُزُلًا",
+    "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati kanat lahum jannatu alfirdawsi nuzulan",
+    "surah": "Al-Kahf",
+    "verseNumber": 107
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist; confirmed existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, to exist; relative pronoun indicating people"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "particle indicating the present/future tense and emphasizing continuity"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَعَمِلُوا",
+      "transliteration": "waʿamilū",
+      "meaning": "And did/performed",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, to perform"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَمِلُوا",
+          "meaning": "they did/performed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّالِحَاتِ",
+      "transliteration": "aṣ-ṣāliḥāti",
+      "meaning": "The righteous deeds",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, sound; to repair, improve"
+      },
+      "components": [
+        {
+          "arabic": "الصّالِحَ",
+          "meaning": "The righteous (masculine singular, nominative)"
+        },
+        {
+          "arabic": "اتِ",
+          "meaning": "feminine plural, indefinite, accusative/genitive.  Indicates multiple righteous deeds."
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَانَتْ",
+      "transliteration": "kānat",
+      "meaning": "Were/Had",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, existence, becoming"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "The past tense marker for feminine singular verbs."
+        },
+        {
+          "arabic": "انْت",
+          "meaning": "A suffix indicating the verb is in the past tense, feminine singular."
+        },
+        {
+          "arabic": "ت",
+          "meaning": "Feminine ending."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَنَّاتُ",
+      "transliteration": "jannātu",
+      "meaning": "Gardens",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to become concealed; also related to the idea of abundance and flourishing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْفِرْدَوْسِ",
+      "transliteration": "al-firdausi",
+      "meaning": "Paradise (highest level)",
+      "root": {
+        "letters": "ف-ر-د",
+        "meaning": "to be unique, to split apart, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "نُزُلًا",
+      "transliteration": "nuzulan",
+      "meaning": "As a lodging/accommodation",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down; to alight, settle"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-those-who believed and-did/performed the-righteous-deeds were for-them gardens of-Paradise Paradise as-a lodging"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

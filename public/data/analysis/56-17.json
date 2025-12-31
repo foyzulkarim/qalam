@@ -1,0 +1,81 @@
+{
+  "verseId": "56:17",
+  "verse": {
+    "arabic": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ",
+    "transliteration": "Yatoofu AAalayhim wildanun mukhalladoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَطُوفُ",
+      "transliteration": "yaṭūfu",
+      "meaning": "to circulate, to go around",
+      "root": {
+        "letters": "ط-و-ف",
+        "meaning": "to encompass, to surround, to go around repeatedly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them, around them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وِلْدَانٌ",
+      "transliteration": "wildānun",
+      "meaning": "young boys, lads",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to bring forth offspring; birth, progeny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُّخَلَّدُونَ",
+      "transliteration": "mukhalladūn",
+      "meaning": "made eternal, immortalized",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": [
+        {
+          "arabic": "مُخَلَّد",
+          "meaning": "made eternal, immortalized (passive participle)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix denoting plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-circulate - upon-them - young-boys - made-eternal"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "verseId": "56:85",
+  "verse": {
+    "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+    "transliteration": "Wanahnu aqrabu ilayhi minkum walakin la tubsiroona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 85
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, affection, friendship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to incline, to turn towards, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَقْرَبُ",
+      "transliteration": "aqrabu",
+      "meaning": "nearer, closer",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach, proximity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ilayhi",
+      "meaning": "to him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to proceed towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "than you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَـٰكِن",
+      "transliteration": "lākin",
+      "meaning": "but, however",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, existence; concealed or hidden; also implies opposition or negation"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation, not"
+        },
+        {
+          "arabic": "كن",
+          "meaning": "to be, to exist; in this context serving as a conditional particle indicating 'if'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تُبْصِرُونَ",
+      "transliteration": "tubṣirūna",
+      "meaning": "you see",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "بَصُرُ",
+          "meaning": "to see, sight"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person masculine plural present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - we - nearer - to him - than you - and - but - not - you see"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

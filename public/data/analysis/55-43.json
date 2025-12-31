@@ -1,0 +1,130 @@
+{
+  "verseId": "55:43",
+  "verse": {
+    "arabic": "هَـٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+    "transliteration": "Hathihi jahannamu allatee yukaththibu biha almujrimoona",
+    "surah": "Ar-Rahman",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَـٰذِهِ",
+      "transliteration": "hāḏihi",
+      "meaning": "This (feminine)",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰذِ",
+          "meaning": "this (base form, demonstrative)"
+        },
+        {
+          "arabic": "-هِ",
+          "meaning": "feminine singular suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَهَنَّمُ",
+      "transliteration": "jahannam(u)",
+      "meaning": "Hell",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "intense heat, aridity; a place of intense burning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "Which (feminine)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be connected with, to follow"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "Relative pronoun suffix (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُكَذِّبُ",
+      "transliteration": "yukadhdhib(u)",
+      "meaning": "They deny/disbelieve",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to falsely attribute, to contradict truth"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix denoting present/future tense and active voice (first person singular)"
+        },
+        {
+          "arabic": "كَذِّبُ",
+          "meaning": "to deny, to disbelieve (derived from the root ك-ذ-ب)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِهَا",
+      "transliteration": "bihā",
+      "meaning": "With it (feminine)",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, by means of"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمُجْرِمُونَ",
+      "transliteration": "al-mujrimūna",
+      "meaning": "The criminals",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "commit a crime; be disobedient or wrongdoer"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُجْرِمُونَ",
+          "meaning": "Criminals (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "This-is Hell which-with it they-deny the-criminals"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

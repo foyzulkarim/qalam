@@ -1,0 +1,147 @@
+{
+  "verseId": "55:41",
+  "verse": {
+    "arabic": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+    "transliteration": "YuAArafu almujrimoona biseemahum fayukhathu bialnnawasee waalaqdami",
+    "surah": "Ar-Rahman",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُعْرَفُ",
+      "transliteration": "yuʿrafu",
+      "meaning": "They will be known; He knows them.",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "To know, to recognize, to be aware of"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense and third person singular."
+        },
+        {
+          "arabic": "عَرِفَ",
+          "meaning": "To know, to recognize"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "Dammah: indicates the vowel and nominative case."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمُجْرِمُونَ",
+      "transliteration": "al-mujrimūna",
+      "meaning": "The criminals, the wrongdoers.",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "To commit a crime, to do wrong; transgression"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُجْرِمُونَ",
+          "meaning": "Criminals, wrongdoers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِسِيمَاهُمْ",
+      "transliteration": "bisīmāhum",
+      "meaning": "By their mark, with their sign.",
+      "root": {
+        "letters": "س-ي-م",
+        "meaning": "to mark, distinguish, recognize"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "سِيمَاهُمْ",
+          "meaning": "their mark, their sign"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَيُؤْخَذُ",
+      "transliteration": "fayūʾkhadhu",
+      "meaning": "Then they will be seized; so they are taken.",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to capture"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "يُؤْخَذُ",
+          "meaning": "they will be taken, it will be seized (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالنَّوَاصِي",
+      "transliteration": "bin-nawāṣī",
+      "meaning": "By the forelocks, with the front parts of the heads.",
+      "root": {
+        "letters": "ن-و-ص",
+        "meaning": "to pluck, to pull out; extremity, tip (of something)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "النَّوَاصِي",
+          "meaning": "the forelocks, the front parts of heads"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَالْأَقْدَامِ",
+      "transliteration": "wal-ʾaqdām",
+      "meaning": "And the feet.",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to step, to advance, the foot"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَقْدَام",
+          "meaning": "feet (plural of قَدَم)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-will-be-known - the-criminals - by-their-mark - then-they-will-be-seized - with-the-forelocks - and-the-feet."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

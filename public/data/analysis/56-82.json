@@ -1,0 +1,115 @@
+{
+  "verseId": "56:82",
+  "verse": {
+    "arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+    "transliteration": "WatajAAaloona rizqakum annakum tukaththiboona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 82
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَجْعَلُونَ",
+      "transliteration": "tajʿalūna",
+      "meaning": "you make, you render",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense (future/habitual)"
+        },
+        {
+          "arabic": "جَعَل",
+          "meaning": "to make, to render"
+        },
+        {
+          "arabic": "ُون",
+          "meaning": "suffix indicating second person masculine plural (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رِزْقَكُمْ",
+      "transliteration": "rizqa-kum",
+      "meaning": "your provision, your sustenance",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": [
+        {
+          "arabic": "رِزْقَ",
+          "meaning": "provision, sustenance (accusative case)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنَّكُمْ",
+      "transliteration": "anna-kum",
+      "meaning": "that you, indeed you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تُكَذِّبُونَ",
+      "transliteration": "tukadhdhibūna",
+      "meaning": "you deny, you reject",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny the truth"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural present/future active voice"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "to deny, to reject (verbal stem)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you-make your-provision that-indeed-you you-deny"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

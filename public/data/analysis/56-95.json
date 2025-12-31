@@ -1,0 +1,88 @@
+{
+  "verseId": "56:95",
+  "verse": {
+    "arabic": "إِنَّ هَـٰذَا لَهُوَ حَقُّ الْيَقِينِ",
+    "transliteration": "Inna hatha lahuwa haqqu alyaqeeni",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 95
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; indicating emphasis or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "This",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُوَ",
+      "transliteration": "lahū",
+      "meaning": "It is surely (emphatic)",
+      "root": {
+        "letters": "ل-ه-و",
+        "meaning": "belonging to him, for him, his possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he, it (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَقُّ",
+      "transliteration": "ḥaqqu",
+      "meaning": "Truth, reality",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "To be true, to exist, reality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْيَقِينِ",
+      "transliteration": "al-yaqīni",
+      "meaning": "The certainty, assuredness",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "To be firm, resolute; to know with certainty"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-this-it-is-surely-truth-the-certainty"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

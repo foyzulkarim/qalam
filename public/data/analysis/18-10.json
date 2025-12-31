@@ -1,0 +1,258 @@
+{
+  "verseId": "18:10",
+  "verse": {
+    "arabic": "إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "transliteration": "Ith awa alfityatu ila alkahfi faqaloo rabbana atina min ladunka rahmatan wahayyi lana min amrina rashadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, at the time of",
+      "root": {
+        "letters": "أ-ذْ-ح",
+        "meaning": "to perceive, to feel, to be aware; to originate from something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَوَى",
+      "transliteration": "ʾawā",
+      "meaning": "took refuge, sheltered, retreated",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to resort, to seek protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْفِتْيَةُ",
+      "transliteration": "al-fityatu",
+      "meaning": "the youths, the young men",
+      "root": {
+        "letters": "ف-ت-ي",
+        "meaning": "to be young, to grow, youthfulness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فِتْيَة",
+          "meaning": "youths, young men (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "to, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline towards, to be associated with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكَهْفِ",
+      "transliteration": "al-kahfi",
+      "meaning": "the cave",
+      "root": {
+        "letters": "ك-هـ-ف",
+        "meaning": "to conceal, to protect, to shroud"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَقَالُوا",
+      "transliteration": "faqālū",
+      "meaning": "so they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said (verb, 3rd person plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbanā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "آتِنَا",
+      "transliteration": "ʾātinā",
+      "meaning": "grant us",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to grant (when used as a verb in requesting something)"
+      },
+      "components": [
+        {
+          "arabic": "آتِ",
+          "meaning": "imperative form of the verb 'to come/grant'"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَّدُنكَ",
+      "transliteration": "ladunka",
+      "meaning": "from Yourself, with You",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be near, to incline towards, intimacy"
+      },
+      "components": [
+        {
+          "arabic": "لَدَى",
+          "meaning": "nearness, possession (with)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "رَحْمَةً",
+      "transliteration": "raḥmatan",
+      "meaning": "mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness; to have mercy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَهَيِّئْ",
+      "transliteration": "wahayyʾiʾ",
+      "meaning": "and prepare",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to be ready, to prepare, to arrange"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "for us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, be less; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَمْرِنَا",
+      "transliteration": "ʾamrinā",
+      "meaning": "our affair, our matter",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, matter, affair"
+      },
+      "components": [
+        {
+          "arabic": "أمر",
+          "meaning": "affair, matter, command"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رَشَدًا",
+      "transliteration": "rashadan",
+      "meaning": "right guidance, uprightness",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to guide, to be rightly directed; maturity, soundness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "When-at the time of retreated the-youths to the-cave so they said Our Lord grant us from Yourself mercy and prepare for us from our affair right guidance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

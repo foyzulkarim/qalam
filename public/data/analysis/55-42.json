@@ -1,0 +1,98 @@
+{
+  "verseId": "55:42",
+  "verse": {
+    "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "transliteration": "Fabiayyi alai rabbikuma tukaththibani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبِأَيِّ",
+      "transliteration": "fa-bi-ʾayyi",
+      "meaning": "So with which?",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "to return, to come back; relating to something or someone"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of emphasis)"
+        },
+        {
+          "arabic": "بِـ",
+          "meaning": "With, by means of (preposition)"
+        },
+        {
+          "arabic": "أَيٍّ",
+          "meaning": "Which (interrogative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آلَاءِ",
+      "transliteration": "ʾālāʾi",
+      "meaning": "Favors (plural)",
+      "root": {
+        "letters": "أ-ل-و",
+        "meaning": "to return, to revert, to bestow (as a favor)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكُمَا",
+      "transliteration": "rabbi-kuma",
+      "meaning": "Your Lord (dual)",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive singular)"
+        },
+        {
+          "arabic": "كُمَا",
+          "meaning": "you two (dual, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُكَذِّبَانِ",
+      "transliteration": "tukaḏḏibāni",
+      "meaning": "Do you deny (dual)",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person dual present tense"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "to deny, to falsify"
+        },
+        {
+          "arabic": "َانِ",
+          "meaning": "dual pronoun suffix, 'you two'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-with which - of-the favors - of-your Lord-[dual] - do you deny-[dual]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

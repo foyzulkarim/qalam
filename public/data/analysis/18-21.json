@@ -1,0 +1,639 @@
+{
+  "verseId": "18:21",
+  "verse": {
+    "arabic": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوا أَنَّ وَعْدَ اللَّهِ حَقٌّ وَأَنَّ السَّاعَةَ لَا رَيْبَ فِيهَا إِذْ يَتَنَازَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا ابْنُوا عَلَيْهِم بُنْيَانًا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ الَّذِينَ غَلَبُوا عَلَىٰ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًا",
+    "transliteration": "Wakathalika aAAtharna AAalayhim liyaAAlamoo anna waAAda Allahi haqqun waanna alsaAAata la rayba feeha ith yatanazaAAoona baynahum amrahum faqaloo ibnoo AAalayhim bunyanan rabbuhum aAAlamu bihim qala allatheena ghalaboo AAala amrihim lanattakhithanna AAalayhim masjidan",
+    "surah": "Al-Kahf",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲hālika",
+      "meaning": "thus, similarly",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to point out"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like that"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that, this (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَعْثَرْنَا",
+      "transliteration": "aʿtharnā",
+      "meaning": "We caused to stumble upon, We found (for them)",
+      "root": {
+        "letters": "ع-ث-ر",
+        "meaning": "to stumble, to fall, to err"
+      },
+      "components": [
+        {
+          "arabic": "أَعْ",
+          "meaning": "We caused, We made (prefix indicating first person plural active)"
+        },
+        {
+          "arabic": "ثَرْنَا",
+          "meaning": "to stumble upon, to find (derived from the root عثر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; to be over or upon something in the sense of power or guardianship"
+      },
+      "components": [
+        {
+          "arabic": "عَلىٰ",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِيَعْلَمُوا",
+      "transliteration": "li-yaʿlamū",
+      "meaning": "so that they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, so that"
+        },
+        {
+          "arabic": "يَعْلَمُوا",
+          "meaning": "they know (subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates affirmation or certainty"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle of emphasis/affirmation"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "nūn tawīd with shaddah, reinforcing the affirmation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَعْدَ",
+      "transliteration": "waʿda",
+      "meaning": "promise (of)",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to pledge, to threaten (depending on context)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The deity; to worship; divine power"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "حَقٌّ",
+      "transliteration": "ḥaqq",
+      "meaning": "truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, what necessarily exists"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "السَّاعَةَ",
+      "transliteration": "as-sāʿata",
+      "meaning": "the Hour (Day of Judgment)",
+      "root": {
+        "letters": "س-ع-ت",
+        "meaning": "to hasten, to strive, to make haste"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "denial, negation, absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "رَيْبَ",
+      "transliteration": "rayba",
+      "meaning": "doubt",
+      "root": {
+        "letters": "ر-ي-ب",
+        "meaning": "to be confused, to doubt, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it (the Hour)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, as",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to depart; to flow (of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَتَنَازَعُونَ",
+      "transliteration": "yatanāzaʿūna",
+      "meaning": "they dispute",
+      "root": {
+        "letters": "ن-ز-ع",
+        "meaning": "to remove, to pull out; to separate, to divide (among themselves)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present/future tense and active voice (prefix)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "indicates multiple actors (prefix)"
+        },
+        {
+          "arabic": "نَازَعُ",
+          "meaning": "disputing, contending, striving (verbal noun derived from the root)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "plural suffix indicating 'they' (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بَيْنَهُمْ",
+      "transliteration": "baynahum",
+      "meaning": "among them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distant, to separate, division"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between, among"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَمْرَهُمْ",
+      "transliteration": "amrahum",
+      "meaning": "their affair, their matter",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair, matter"
+      },
+      "components": [
+        {
+          "arabic": "أمر",
+          "meaning": "affair, matter, command"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to speak the truth, to be true, to fulfill a promise"
+      },
+      "components": [
+        {
+          "arabic": "صَدَّقَ",
+          "meaning": "to confirm, to believe, to verify"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَقَالُوا",
+      "transliteration": "fa-qālū",
+      "meaning": "so they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of connection)"
+        },
+        {
+          "arabic": "قَالُوا",
+          "meaning": "they said (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ابْنُوا",
+      "transliteration": "ibnū",
+      "meaning": "build!",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; origin, foundation"
+      },
+      "components": [
+        {
+          "arabic": "ابْنُ",
+          "meaning": "sons, builders (nominal form)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "imperative suffix, indicating command (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "over them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority, over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "over, upon"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "بُنْيَانًا",
+      "transliteration": "bunyānan",
+      "meaning": "a building, a structure",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "height, elevation; sublimity; excellence"
+      },
+      "components": [
+        {
+          "arabic": "سَمَا",
+          "meaning": "to rise; to be high, elevated"
+        },
+        {
+          "arabic": "و",
+          "meaning": "and"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "رَّبُّهُمْ",
+      "transliteration": "rabbuhum",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رب",
+          "meaning": "Lord, Master, Possessor"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "aʿlamu",
+      "meaning": "more knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "بِهِمْ",
+      "transliteration": "bihim",
+      "meaning": "about them",
+      "root": {
+        "letters": "ب-هـ-م",
+        "meaning": "to be with, to possess, about"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "To hear, to listen; understanding."
+      },
+      "components": [
+        {
+          "arabic": "بِسْمِ",
+          "meaning": "In the name of."
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "The God (Allah)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alla<u>dh</u>īna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, to exist; reference, indication"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "those (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "غَلَبُوا",
+      "transliteration": "ghalabū",
+      "meaning": "prevailed, overcame",
+      "root": {
+        "letters": "غ-ل-ب",
+        "meaning": "to overcome, to prevail, to be superior"
+      },
+      "components": [
+        {
+          "arabic": "غَلَبَ",
+          "meaning": "to overcome, to defeat"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural) - suffix indicating the actors"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "أَمْرِهِمْ",
+      "transliteration": "amrihim",
+      "meaning": "their affair, their matter",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair, matter"
+      },
+      "components": [
+        {
+          "arabic": "أمْر",
+          "meaning": "affair, matter, command"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "لَنَتَّخِذَنَّ",
+      "transliteration": "lana-ttakhid̲h</u>anna",
+      "meaning": "we will surely take, we will certainly build",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to seize, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to (preposition indicating purpose/beneficiary)"
+        },
+        {
+          "arabic": "نَـ",
+          "meaning": "we (first person plural pronoun)"
+        },
+        {
+          "arabic": "تَتَّخِذَنَّ",
+          "meaning": "we will surely take/build (verb form indicating future tense and emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "over them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "over, upon, on"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "مَّسْجِدًا",
+      "transliteration": "masjidan",
+      "meaning": "a mosque, a place of worship",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "prostration, bowing down in humility"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - similarly - We caused to stumble upon them - for that they know - that - promise of - Allah - truth - and - that - the Hour - not - doubt - in it - when - they dispute - among them - their affair - then - they said - build! - over them - a building - Their Lord - more knowing - about them - said - those who - prevailed - over - their affair - we will surely take - over them - a mosque"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

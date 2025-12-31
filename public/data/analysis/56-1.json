@@ -1,0 +1,79 @@
+{
+  "verseId": "56:1",
+  "verse": {
+    "arabic": "إِذَا وَقَعَتِ الْوَاقِعَةُ",
+    "transliteration": "Itha waqaAAati alwaqiAAatu",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, if",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to come, to arrive; time, occasion"
+      },
+      "components": [
+        {
+          "arabic": "إِذْ",
+          "meaning": "particle indicating time; when, if"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix; indicates masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَقَعَتِ",
+      "transliteration": "waqaʿati",
+      "meaning": "occurred, fell upon",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to happen, to occur"
+      },
+      "components": [
+        {
+          "arabic": "وق",
+          "meaning": "to fall, to happen (stem)"
+        },
+        {
+          "arabic": "عَاتِ",
+          "meaning": "feminine singular active participle ending indicating occurrence/falling upon"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْوَاقِعَةُ",
+      "transliteration": "al-wāqiʿah",
+      "meaning": "the Occurrence, the inevitable event",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to happen, to occur"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وَاقِعَة",
+          "meaning": "the Occurrence, the inevitable event (derived from root و-ق-ع)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-if occurred the-Occurrence"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

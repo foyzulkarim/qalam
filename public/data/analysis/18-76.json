@@ -1,0 +1,225 @@
+{
+  "verseId": "18:76",
+  "verse": {
+    "arabic": "قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا",
+    "transliteration": "Qala in saaltuka AAan shayin baAAdaha fala tusahibnee qad balaghta min ladunnee AAuthran",
+    "surah": "Al-Kahf",
+    "verseNumber": 76
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "If, indeed",
+      "root": {
+        "letters": "ا-ن-و",
+        "meaning": "existence, being"
+      },
+      "components": [
+        {
+          "arabic": "اِنْ",
+          "meaning": "Conditional particle indicating 'if', 'indeed'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَأَلْتُكَ",
+      "transliteration": "saʾaltuka",
+      "meaning": "I ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire"
+      },
+      "components": [
+        {
+          "arabic": "سَأَ",
+          "meaning": "I will (future tense marker)"
+        },
+        {
+          "arabic": "أَلْتُ",
+          "meaning": "I asked (verbal ending)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "About",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be away from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "A thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, existence; a thing in general"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بَعْدَهَا",
+      "transliteration": "baʿdahā",
+      "meaning": "After it",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "بعد",
+          "meaning": "after, subsequent to"
+        },
+        {
+          "arabic": "ها",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "Then not",
+      "root": {
+        "letters": "ل-ي-د",
+        "meaning": "to refuse, to reject, to deny; negation"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تُصَاحِبْنِي",
+      "transliteration": "tuṣāḥibnī",
+      "meaning": "You accompany me",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "To accompany, to befriend, to have companionship"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "Prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "صَاحِبْـ",
+          "meaning": "Companion, friend (verbal noun derived from the root)"
+        },
+        {
+          "arabic": "ـنِي",
+          "meaning": "Suffix indicating the second person masculine singular (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "Indeed, surely",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "To advance, to step forward; to establish, to put forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بَلَغْتَ",
+      "transliteration": "balaġta",
+      "meaning": "You have reached",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, communicate"
+      },
+      "components": [
+        {
+          "arabic": "بَلَغْتَ",
+          "meaning": "You have reached (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, be less, originate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَّدُنِّي",
+      "transliteration": "ladunnī",
+      "meaning": "From me",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to invite, to call close; intimacy, closeness"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, from"
+        },
+        {
+          "arabic": "دُنِّي",
+          "meaning": "my closeness, my intimacy; from me (possessive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عُذْرًا",
+      "transliteration": "ʿudhran",
+      "meaning": "An excuse",
+      "root": {
+        "letters": "ع-ذ-ر",
+        "meaning": "to find fault, to blame; deficiency, imperfection"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said – If – I-ask-you – about – a-thing – after-it – then-not – you-accompany-me – indeed – you-have-reached – from – from-me – an-excuse"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

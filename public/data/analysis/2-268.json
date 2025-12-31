@@ -1,0 +1,289 @@
+{
+  "verseId": "2:268",
+  "verse": {
+    "arabic": "الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُم بِالْفَحْشَاءِ ۖ وَاللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+    "transliteration": "Alshshaytanu yaAAidukumu alfaqra wayamurukum bialfahshai waAllahu yaAAidukum maghfiratan minhu wafadlan waAllahu wasiAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 268
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الشَّيْطَانُ",
+      "transliteration": "ash-shayṭānu",
+      "meaning": "the devil/satan",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to be distant, strayed away; to burn or scorch"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "شَّيْطَان",
+          "meaning": "devil, satan; anything straying from the right path."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَعِدُكُمُ",
+      "transliteration": "yaʿidukum",
+      "meaning": "He promises you",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to offer, to threaten"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun suffix indicating 3rd person masculine singular)"
+        },
+        {
+          "arabic": "عِدُ",
+          "meaning": "promise (verbal noun/active participle)"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (pronoun suffix indicating plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْفَقْرَ",
+      "transliteration": "al-faqra",
+      "meaning": "the poverty",
+      "root": {
+        "letters": "ف-ق-ر",
+        "meaning": "to be in need, to lack, deficiency"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَقْر",
+          "meaning": "poverty, neediness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيَأْمُرُكُم",
+      "transliteration": "wa-yaʾmurukum",
+      "meaning": "and He orders you",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, to decree"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَأْمُرُ",
+          "meaning": "He orders, He commands"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْفَحْشَاءِ",
+      "transliteration": "bil-faḥshāʾi",
+      "meaning": "with the immorality/indecency",
+      "root": {
+        "letters": "ف-ح-ش",
+        "meaning": "excess, ugliness, evil; to be indecent or immoral"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْفَحْشَاءِ",
+          "meaning": "the immorality, the indecency"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God; deity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah – The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَعِدُكُم",
+      "transliteration": "yaʿidukum",
+      "meaning": "He promises you",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to offer, to threaten"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (masculine singular pronoun prefix)"
+        },
+        {
+          "arabic": "عِدُ",
+          "meaning": "promise, offering (verbal noun)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَّغْفِرَةً",
+      "transliteration": "maghfiratiŋ",
+      "meaning": "forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِّنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from Him",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَفَضْلًا",
+      "transliteration": "wa-faḍlan",
+      "meaning": "and bounty/grace",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to exceed, to be superior, to overflow; abundance, excellence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فَضْلًا",
+          "meaning": "bounty, grace, favor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۗ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship; the deity, God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah, God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَاسِعٌ",
+      "transliteration": "wāsiʿun",
+      "meaning": "is all-Encompassing/generous",
+      "root": {
+        "letters": "و-س-ع",
+        "meaning": "to be wide, spacious; to suffice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "is Knowing/Aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware, possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "عَلِ",
+          "meaning": "possessing the quality of"
+        },
+        {
+          "arabic": "مٌ",
+          "meaning": "masculine active participle ending, indicating a state or quality"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-devil promises-you the-poverty and-He orders-you with the-immorality [separator] and-Allah promises-you forgiveness from-Him and-bounty [separator] and-Allah is all-Encompassing Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "verseId": "56:2",
+  "verse": {
+    "arabic": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+    "transliteration": "Laysa liwaqAAatiha kathibatun",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَيْسَ",
+      "transliteration": "laysa",
+      "meaning": "is not, there is no",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be absent, to not exist, negation of existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِوَقْعَتِهَا",
+      "transliteration": "li-waqʿatihā",
+      "meaning": "for its occurrence, to its happening",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to happen, to occur"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "وَقْعَتِهَا",
+          "meaning": "its occurrence, its happening"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَاذِبَةٌ",
+      "transliteration": "kādhibah",
+      "meaning": "denial, falsehood, liar"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "is-not - for-its-occurrence - denial"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

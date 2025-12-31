@@ -1,0 +1,503 @@
+{
+  "verseId": "18:29",
+  "verse": {
+    "arabic": "وَقُلِ الْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَاءَ فَلْيُؤْمِن وَمَن شَاءَ فَلْيَكْفُرْ ۚ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ ۚ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا",
+    "transliteration": "Waquli alhaqqu min rabbikum faman shaa falyumin waman shaa falyakfur inna aAAtadna lilththalimeena naran ahata bihim suradiquha wain yastagheethoo yughathoo bimain kaalmuhli yashwee alwujooha bisa alshsharabu wasaat murtafaqan",
+    "surah": "Al-Kahf",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقُلِ",
+      "transliteration": "wa-qul",
+      "meaning": "and say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قُل",
+          "meaning": "say!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْحَقُّ",
+      "transliteration": "al-ḥaqq",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن رَّبِّكُمْ",
+      "transliteration": "min rabbikum",
+      "meaning": "from your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّبِّكُمْ",
+          "meaning": "your Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "willed/desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to will, to desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَلْيُؤْمِن",
+      "transliteration": "fa-liyuʾmin",
+      "meaning": "let him believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order that (particle indicating purpose)"
+        },
+        {
+          "arabic": "يُؤْمِن",
+          "meaning": "he believes (verb in subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَمَن",
+      "transliteration": "wa-man",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; also signifies questioning or relative pronouns"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "willed/desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to will, to desire; to create from nothing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَلْيَكْفُرْ",
+      "transliteration": "fa-liyakfur",
+      "meaning": "let him disbelieve",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, let"
+        },
+        {
+          "arabic": "يَكْفُرْ",
+          "meaning": "he disbelieve"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِنَّا",
+      "transliteration": "innā",
+      "meaning": "Indeed, We",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَعْتَدْنَا",
+      "transliteration": "aʿtadnā",
+      "meaning": "We have prepared",
+      "root": {
+        "letters": "ع-ت-د",
+        "meaning": "to prepare, to arrange, to count as sufficient"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating perfect tense and emphasis"
+        },
+        {
+          "arabic": "عَتَد",
+          "meaning": "past tense form relating to preparation/arrangement"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "first person plural pronoun suffix ('we')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لِلظَّالِمِينَ",
+      "transliteration": "liẓ-ẓālimīn",
+      "meaning": "for the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "wrongdoers, unjust ones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "نَارًا",
+      "transliteration": "nāran",
+      "meaning": "a fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَحَاطَ",
+      "transliteration": "aḥāṭa",
+      "meaning": "surrounded/encompassed",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to encompass, to surround, to go around"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِهِمْ",
+      "transliteration": "bihim",
+      "meaning": "them",
+      "root": {
+        "letters": "ب-هـ-م",
+        "meaning": "to be with, to possess"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "سُرَادِقُهَا",
+      "transliteration": "surādiqihā",
+      "meaning": "its walls/tents",
+      "root": {
+        "letters": "س-ر-د",
+        "meaning": "to proceed, to go on; to extend, stretch out (like a covering)"
+      },
+      "components": [
+        {
+          "arabic": "سُرَادِقُ",
+          "meaning": "tents, pavilions, walls (plural form)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَإِن",
+      "transliteration": "wa-in",
+      "meaning": "and if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also implies condition or state"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَسْتَغِيثُوا",
+      "transliteration": "yastaghīthū",
+      "meaning": "they seek help/relief",
+      "root": {
+        "letters": "غ-ث-ا",
+        "meaning": "to seek aid, to cry for help; distress"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "they repeatedly/habitually seek"
+        },
+        {
+          "arabic": "غِيث",
+          "meaning": "help, relief, aid"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يُغَاثُوا",
+      "transliteration": "yughāthū",
+      "meaning": "they will be helped/relieved",
+      "root": {
+        "letters": "غ-ث-ا",
+        "meaning": "to seek help, to aid, to relieve distress"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "passive voice marker/prefix indicating 'they will be'"
+        },
+        {
+          "arabic": "غَاثُوا",
+          "meaning": "helped/relieved (verb, passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِمَاءٍ",
+      "transliteration": "bi-māʾin",
+      "meaning": "with water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "water; fluidity; source of life"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "مَاءٍ",
+          "meaning": "water (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَالْمُهْلِ",
+      "transliteration": "ka-l-muhl",
+      "meaning": "like murky oil/bitumen",
+      "root": {
+        "letters": "هـ-م-ل",
+        "meaning": "darkness, obscuring, covering; to be dark or obscure"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُهْل",
+          "meaning": "murky oil/bitumen; dark, thick liquid"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَشْوِي",
+      "transliteration": "yashwī",
+      "meaning": "it scorches/burns",
+      "root": {
+        "letters": "ش-و-ي",
+        "meaning": "to roast, burn, scorch; to be dark or gloomy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْوُجُوهَ",
+      "transliteration": "al-wujūh",
+      "meaning": "the faces",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to find, to become apparent, prominence, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "بِئْسَ",
+      "transliteration": "biʾsa",
+      "meaning": "wretched is",
+      "root": {
+        "letters": "ب-ي-س",
+        "meaning": "badness, deficiency, worthlessness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "preposition indicating a negative appraisal or emphasis"
+        },
+        {
+          "arabic": "ئْسَ",
+          "meaning": "a form indicating extreme badness or misfortune (derived from يَئِسَ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "الشَّرَابُ",
+      "transliteration": "ash-sharāb",
+      "meaning": "the drink",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, to absorb; liquid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَسَاءَتْ",
+      "transliteration": "wa-sāʾat",
+      "meaning": "and evil is",
+      "root": {
+        "letters": "س-و-ء",
+        "meaning": "badness, evil"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَاءَتْ",
+          "meaning": "it was evil/bad"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مُرْتَفَقًا",
+      "transliteration": "murtafaqan",
+      "meaning": "the resting place/return",
+      "root": {
+        "letters": "ر-ف-ق",
+        "meaning": "gentleness, ease, companionship"
+      },
+      "components": [
+        {
+          "arabic": "مُرْتَفِق",
+          "meaning": "a place of rest, a resting place (verbal noun)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "indefinite accusative marker (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-say the-truth from Lord-of-yours so-whoever willed -let-him-believe and-whoever willed -let-him-disbelieve Indeed-We have-prepared for the-wrongdoers a-fire surrounded with-them its-walls and-if they seek-help they-will-be-helped with water like the-murky-oil scorches the-faces Wretched is the-drink and-evil is the-resting-place"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

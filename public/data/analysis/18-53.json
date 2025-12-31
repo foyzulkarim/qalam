@@ -1,0 +1,202 @@
+{
+  "verseId": "18:53",
+  "verse": {
+    "arabic": "وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا",
+    "transliteration": "Waraa almujrimoona alnnara fathannoo annahum muwaqiAAooha walam yajidoo AAanha masrifan",
+    "surah": "Al-Kahf",
+    "verseNumber": 53
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَأَى",
+      "transliteration": "raʾā",
+      "meaning": "saw, perceived",
+      "root": {
+        "letters": "ر-ي-أ",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُجْرِمُونَ",
+      "transliteration": "al-mujrimūn(a)",
+      "meaning": "the criminals, the guilty ones",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "to commit a crime, to be guilty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُجْرِمُونَ",
+          "meaning": "criminals, guilty ones (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّارَ",
+      "transliteration": "an-nāra",
+      "meaning": "the fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "then, so",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, result, consequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ظَنُّوا",
+      "transliteration": "ẓannū",
+      "meaning": "they thought, they supposed",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to conjecture"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَنَّهُم",
+      "transliteration": "annahum",
+      "meaning": "that they, indeed they",
+      "root": {
+        "letters": "هـ-م-ن",
+        "meaning": "to intend, to desire; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مُّوَاقِعُوهَا",
+      "transliteration": "muwāqiʿūhā",
+      "meaning": "those who are to fall therein, its destined-ones",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to happen, to occur"
+      },
+      "components": [
+        {
+          "arabic": "مُوَ",
+          "meaning": "participial prefix indicating the active participle in the passive form (form IV)"
+        },
+        {
+          "arabic": "اقِع",
+          "meaning": "active participle form IV, relating to falling/occurring"
+        },
+        {
+          "arabic": "ـُوهَا",
+          "meaning": "pronoun suffix 'them', referring back to the subject (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not, did not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَجِدُوا",
+      "transliteration": "yajidū",
+      "meaning": "they find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to obtain, to find, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third person"
+        },
+        {
+          "arabic": "جِدُوا",
+          "meaning": "they find (verb, third person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَنْهَا",
+      "transliteration": "ʿanhā",
+      "meaning": "from it, away from it",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to deviate, to turn away from, to distance oneself"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, away from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَصْرِفًا",
+      "transliteration": "maṣrifan",
+      "meaning": "a way out, an escape",
+      "root": {
+        "letters": "ص-ر-ف",
+        "meaning": "to expend, to turn away, to change"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-saw the-criminals the-fire so-thought that-they they-are-to-fall-therein and-not they-found from-it a-way-out"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

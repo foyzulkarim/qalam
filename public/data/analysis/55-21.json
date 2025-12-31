@@ -1,0 +1,98 @@
+{
+  "verseId": "55:21",
+  "verse": {
+    "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "transliteration": "Fabiayyi alai rabbikuma tukaththibani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبِأَيِّ",
+      "transliteration": "fa-bi-ʾayyi",
+      "meaning": "So, with which?",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "relationship, connection, belonging"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of sequence)"
+        },
+        {
+          "arabic": "بِـ",
+          "meaning": "with, by means of (preposition)"
+        },
+        {
+          "arabic": "أَيٍّ",
+          "meaning": "which (interrogative pronoun, indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آلَاءِ",
+      "transliteration": "ʾālāʾi",
+      "meaning": "favors (plural)",
+      "root": {
+        "letters": "أ-ل-و",
+        "meaning": "to return, to come back; favor, blessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكُمَا",
+      "transliteration": "rabbi-kumaa",
+      "meaning": "Lord of you two",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كُمَا",
+          "meaning": "of you two (dual pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُكَذِّبَانِ",
+      "transliteration": "tukadhdhibāni",
+      "meaning": "do you two deny?",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "prefix indicating the second person dual present active voice"
+        },
+        {
+          "arabic": "كَذِّبـ",
+          "meaning": "to deny, to disbelieve (from the root كذب)"
+        },
+        {
+          "arabic": "ـَانِ",
+          "meaning": "dual suffix for the second person (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-with-which – of-favors – of-Lord-of-you-two – do-you-two-deny?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

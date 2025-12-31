@@ -1,0 +1,151 @@
+{
+  "verseId": "55:35",
+  "verse": {
+    "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+    "transliteration": "Yursalu AAalaykuma shuwathun min narin wanuhasun fala tantasirani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُرْسَلُ",
+      "transliteration": "yursalu",
+      "meaning": "is sent, will be sent (passive)",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, dispatch; message, messenger"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and passive voice"
+        },
+        {
+          "arabic": "رُسِلَ",
+          "meaning": "passive voice form of the verb 'to send'"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case for the verb."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْكُمَا",
+      "transliteration": "ʿalaykumā",
+      "meaning": "upon you two",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "كُمَا",
+          "meaning": "you two (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شُوَاظٌ",
+      "transliteration": "shuwāẓun",
+      "meaning": "flame, blazing fire, intense heat",
+      "root": {
+        "letters": "ش-و-ظ",
+        "meaning": "darkness, blackness; intensity (related to color and heat)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَّارٍ",
+      "transliteration": "nārin",
+      "meaning": "fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, intensity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَنُحَاسٌ",
+      "transliteration": "wa-nuḥāsun",
+      "meaning": "and smoke, and molten brass (often used metaphorically for intense heat or fire)",
+      "root": {
+        "letters": "ن-ح-س",
+        "meaning": "to be unlucky, misfortune; to burn or scorch, to melt (metal)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "so not, therefore not",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be exhausted, to weaken, to fail"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, therefore"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَنتَصِرَانِ",
+      "transliteration": "tantasirāni",
+      "meaning": "you two will defend yourselves, you two will not be victorious",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to assist, to overcome"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating future tense and/or active voice"
+        },
+        {
+          "arabic": "نَصَرَ",
+          "meaning": "to help, to overcome (root verb)"
+        },
+        {
+          "arabic": "انِ",
+          "meaning": "dual pronoun suffix, 'you two'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "is-sent upon-you-two flame from fire and smoke so-not you-two will-defend yourselves"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

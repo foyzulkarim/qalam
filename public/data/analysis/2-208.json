@@ -1,0 +1,290 @@
+{
+  "verseId": "2:208",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ",
+    "transliteration": "Ya ayyuha allatheena amanoo odkhuloo fee alssilmi kaffatan wala tattabiAAoo khutuwati alshshaytani innahu lakum AAaduwwun mubeenun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 208
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, addressing intelligent beings)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O (interjection calling attention)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "vocative particle (indicating direct address)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "The ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess; to be with something or someone as an attribute"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to feel secure, to trust, to believe"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "Indicates a group of people (suffix indicating plurality)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "They believed (verb in the past tense, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ادْخُلُوا",
+      "transliteration": "udkhulū",
+      "meaning": "Enter (imperative)",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter; to go in"
+      },
+      "components": [
+        {
+          "arabic": "ادْ",
+          "meaning": "Imperfect tense prefix indicating command/imperative form."
+        },
+        {
+          "arabic": "خُلُوا",
+          "meaning": "Enter (plural imperative). Derived from the root د-خ-ل."
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; to be contained within."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "السِّلْمِ",
+      "transliteration": "as-silmi",
+      "meaning": "The peace/Islam",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, sound, peaceful; to surrender (in Islam)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَافَّةً",
+      "transliteration": "kāffatan",
+      "meaning": "Completely/entirely",
+      "root": {
+        "letters": "ك-ف-ف",
+        "meaning": "sufficiency, completeness, encompassing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, do not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَتَّبِعُوا",
+      "transliteration": "tattabiʿū",
+      "meaning": "You follow (imperative negative)",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "تَبِعَ",
+          "meaning": "to follow (basic form)"
+        },
+        {
+          "arabic": "-ُوا",
+          "meaning": "Suffix indicating the second person masculine plural (you, imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "خُطُوَاتِ",
+      "transliteration": "khuṭuwāti",
+      "meaning": "Footsteps/paths (of)",
+      "root": {
+        "letters": "خ-ط-و",
+        "meaning": "To step, to walk; pace, measure"
+      },
+      "components": [
+        {
+          "arabic": "خُطُو",
+          "meaning": "Footsteps, paces (plural form)"
+        },
+        {
+          "arabic": "اتِ",
+          "meaning": "The possessive suffix indicating 'of'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الشَّيْطَانِ",
+      "transliteration": "ash-shayṭāni",
+      "meaning": "The Satan/devil",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to be wide, to err, to deviate; generally associated with being distant from guidance or goodness"
+      },
+      "components": [
+        {
+          "arabic": "اَلشَّيْطَانِ",
+          "meaning": "The Satan/devil. The definite article 'al-' prefixed to the noun 'shayṭān', indicating specificity."
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause marker)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahū",
+      "meaning": "Indeed he",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be, existence; also to return, revert"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, it; pronoun referring to the subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "To you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for; preposition indicating beneficiary"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural); pronoun suffix indicating second-person plural possessive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَدُوٌّ",
+      "transliteration": "ʿaduwwun",
+      "meaning": "Enemy",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, to oppose, to act against"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مُّبِينٌ",
+      "transliteration": "mubīnun",
+      "meaning": "Clear/evident",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "To be manifest, evident, or clear. Also to explain or show."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-you-the-ones-who believed enter-in the-peace/Islam completely and do-not you-follow footsteps-of the-Satan indeed-he to-you enemy clear"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

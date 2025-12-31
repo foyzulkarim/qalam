@@ -1,0 +1,550 @@
+{
+  "verseId": "2:136",
+  "verse": {
+    "arabic": "قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَا أُوتِيَ النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ",
+    "transliteration": "Qooloo amanna biAllahi wama onzila ilayna wama onzila ila ibraheema waismaAAeela waishaqa wayaAAqooba waalasbati wama ootiya moosa waAAeesa wama ootiya alnnabiyyoona min rabbihim la nufarriqu bayna ahadin minhum wanahnu lahu muslimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 136
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُولُوا",
+      "transliteration": "qūlū",
+      "meaning": "Say (plural imperative)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say, to utter"
+      },
+      "components": [
+        {
+          "arabic": "قُول",
+          "meaning": "Say (verbal noun/source)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "Plural imperative suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آمَنَّا",
+      "transliteration": "āmannā",
+      "meaning": "We have believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to believe, have faith"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating first-person plural (we)"
+        },
+        {
+          "arabic": "مَنَّا",
+          "meaning": "from the root أ-م-ن, meaning 'we believed'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "In Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, to deify; divinity itself"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أُنزِلَ",
+      "transliteration": "unzila",
+      "meaning": "Was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "the passive marker, indicates the subject receives the action"
+        },
+        {
+          "arabic": "زِلَ",
+          "meaning": "past tense form from the root ن-ز-ل, to descend/reveal (passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَيْنَا",
+      "transliteration": "ilaynā",
+      "meaning": "To us",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "To return, to go towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "To, towards"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أُنزِلَ",
+      "transliteration": "unzila",
+      "meaning": "Was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "the passive marker (indicating the subject receives the action)"
+        },
+        {
+          "arabic": "زِلَ",
+          "meaning": "to descend, to come down (from the root ن-ز-ل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "To",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to incline, tend towards, reach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, eminent; to cultivate, improve; to understand"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَإِسْمَاعِيلَ",
+      "transliteration": "wa-ismāʿīla",
+      "meaning": "And Ishmael",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْمَاعِيلَ",
+          "meaning": "Ishmael (name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَإِسْحَاقَ",
+      "transliteration": "wa-ishāqa",
+      "meaning": "And Isaac",
+      "root": {
+        "letters": "س-ح-ق",
+        "meaning": "to crush, to weaken; to test or try severely"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْحَاقَ",
+          "meaning": "Isaac (name of a prophet)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَيَعْقُوبَ",
+      "transliteration": "wa-yaʿqūba",
+      "meaning": "And Jacob",
+      "root": {
+        "letters": "ي-ق-و",
+        "meaning": "to follow, to pursue, to be steadfast; also related to strength and ability"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَعْقُوبَ",
+          "meaning": "Jacob (proper name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَالْأَسْبَاطِ",
+      "transliteration": "wa-l-ʾasbāṭi",
+      "meaning": "And the Descendants/Tribes",
+      "root": {
+        "letters": "س-ب-ط",
+        "meaning": "to spread, extend; lineage, progeny"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَسْبَاطِ",
+          "meaning": "the descendants/tribes (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or relative pronoun (what)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أُوتِيَ",
+      "transliteration": "ūtiya",
+      "meaning": "Was given",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to bestow, to grant, to give as a gift"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "passive voice marker & first person pronoun (implying 'to me')"
+        },
+        {
+          "arabic": "تِيَ",
+          "meaning": "derived from root أ-و-ت, indicates the act of being given"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "weakness, feebleness; to draw water; to pull out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَعِيسَىٰ",
+      "transliteration": "wa-ʿīsā",
+      "meaning": "And Jesus",
+      "root": {
+        "letters": "ع-ي-س",
+        "meaning": "to live, to be alive; to sustain life; to nourish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عِيسَىٰ",
+          "meaning": "Jesus (name of the prophet)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أُوتِيَ",
+      "transliteration": "ūtiya",
+      "meaning": "Was given",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to bestow, to grant"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "passive prefix indicating 'was given to'"
+        },
+        {
+          "arabic": "تِيَ",
+          "meaning": "from root وَتىَ, indicating receipt or acceptance of a gift."
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "النَّبِيُّونَ",
+      "transliteration": "an-nabiyyūna",
+      "meaning": "The Prophets",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to announce; intelligence, news"
+      },
+      "components": [
+        {
+          "arabic": "النَّبِيُّونَ",
+          "meaning": "The Prophets (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مِن رَّبِّهِمْ",
+      "transliteration": "min rabbihim",
+      "meaning": "From their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّبِّهِمْ",
+          "meaning": "their Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "لَا نُفَرِّقُ",
+      "transliteration": "lā nufarriqu",
+      "meaning": "We do not make distinction",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to divide, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, do not"
+        },
+        {
+          "arabic": "نُفَرِّقُ",
+          "meaning": "we make distinction, we separate"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "Between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to stand between"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَحَدٍ",
+      "transliteration": "aḥadin",
+      "meaning": "Anyone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Unique, One, Alone"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Indefinite negative particle (often signifies 'not')"
+        },
+        {
+          "arabic": "حَدٍ",
+          "meaning": "One, individual (derived from the root أ-ح-د)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "From them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "origin, source, part of a whole"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَنَحْنُ",
+      "transliteration": "wa-naḥnu",
+      "meaning": "And we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to go to, to turn towards; inclination, desire"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَحْنُ",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "To Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مُسْلِمُونَ",
+      "transliteration": "muslimūna",
+      "meaning": "Are Muslims/Submitters",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, sound, peaceful; to submit or surrender"
+      },
+      "components": [
+        {
+          "arabic": "مُسْلِم",
+          "meaning": "one who submits (active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say-we have believed-in Allah-and what-was revealed-to us-and what-was revealed-to Abraham-and Ishmael-and Isaac-and Jacob-and the Descendants-and what-was given-Moses-and Jesus-and what-was given-the Prophets-from their Lord-we do not make distinction-between anyone-from them-and we-to Him-are Muslims/Submitters"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

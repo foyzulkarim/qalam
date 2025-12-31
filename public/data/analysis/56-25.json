@@ -1,0 +1,121 @@
+{
+  "verseId": "56:25",
+  "verse": {
+    "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+    "transliteration": "La yasmaAAoona feeha laghwan wala tatheeman",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَسْمَعُونَ",
+      "transliteration": "yasmaʿūna",
+      "meaning": "they hear",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural subject (they)"
+        },
+        {
+          "arabic": "سْمَعُوا",
+          "meaning": "they heard (past tense)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating first person plural subject (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, to be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَغْوًا",
+      "transliteration": "laghwan",
+      "meaning": "ill speech, futility, nonsense",
+      "root": {
+        "letters": "ل-غ-و",
+        "meaning": "to be empty, vain, or frivolous"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-لا",
+        "meaning": "night, darkness, absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَأْثِيمًا",
+      "transliteration": "taʾthīman",
+      "meaning": "commission of sin, blame, reproach",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to sin, to disobey God"
+      },
+      "components": [
+        {
+          "arabic": "تَأْ",
+          "meaning": "prefix indicating making something happen, or emphasis"
+        },
+        {
+          "arabic": "ثِيمًا",
+          "meaning": "related to sin or blame; verbal noun derived from the root أ-ث-م"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-they hear therein ill-speech and not they hear commission-of-sin"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

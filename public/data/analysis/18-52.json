@@ -1,0 +1,260 @@
+{
+  "verseId": "18:52",
+  "verse": {
+    "arabic": "وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًا",
+    "transliteration": "Wayawma yaqoolu nadoo shurakaiya allatheena zaAAamtum fadaAAawhum falam yastajeeboo lahum wajaAAalna baynahum mawbiqan",
+    "surah": "Al-Kahf",
+    "verseNumber": 52
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as that which passes or exists"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say, to utter"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (masculine singular pronoun prefix)"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "Saying, utterance (verbal noun from the root ق-و-ل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَادُوا",
+      "transliteration": "nādū",
+      "meaning": "call!",
+      "root": {
+        "letters": "ن-د-ع",
+        "meaning": "to call, invoke, pray"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شُرَكَائِيَ",
+      "transliteration": "shurakā’īya",
+      "meaning": "My partners",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (in partnership)"
+      },
+      "components": [
+        {
+          "arabic": "شُرَكَاء",
+          "meaning": "partners"
+        },
+        {
+          "arabic": "-ئِيَ",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who/whom",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to point, to indicate, to refer"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "those (plural relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "زَعَمْتُمْ",
+      "transliteration": "zaʿamtum",
+      "meaning": "you claimed",
+      "root": {
+        "letters": "ظ-ع-م",
+        "meaning": "to think, to suppose, to claim falsely"
+      },
+      "components": [
+        {
+          "arabic": "زعَم",
+          "meaning": "he claimed"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural) - suffix indicating second person plural, masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَدَعَوْهُمْ",
+      "transliteration": "fa-daʿawhum",
+      "meaning": "then invoke them",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "دَعَوْهُمْ",
+          "meaning": "they invoked them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَلَمْ",
+      "transliteration": "fa-lam",
+      "meaning": "then not",
+      "root": {
+        "letters": "ل-م-د",
+        "meaning": "to will, to desire, to be unwilling; negation/absence of something"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so; connective particle indicating sequence or result"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not, did not; negating particle for past tense verbs"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَسْتَجِيبُوا",
+      "transliteration": "yastajībū",
+      "meaning": "they respond",
+      "root": {
+        "letters": "ج-و-ب",
+        "meaning": "to answer, to respond"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "they seek/attempt (prefix indicating iterative action)"
+        },
+        {
+          "arabic": "جِيبُوا",
+          "meaning": "to respond, to answer (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَجَعَلْنَا",
+      "transliteration": "wa-jaʿalnā",
+      "meaning": "and We made/put",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made/put"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَيْنَهُم",
+      "transliteration": "baynahum",
+      "meaning": "between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distinct, to separate, interval"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between"
+        },
+        {
+          "arabic": "ـهُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مَّوْبِقًا",
+      "transliteration": "mūbiqan",
+      "meaning": "destruction/valley of destruction",
+      "root": {
+        "letters": "ب-ق-ع",
+        "meaning": "to remain, to stay; to cleave (to something); destruction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and day He-says call! My-partners whom you claimed then-invoke them then-not they respond to them and We made between them destruction"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

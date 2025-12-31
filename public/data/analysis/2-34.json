@@ -1,0 +1,246 @@
+{
+  "verseId": "2:34",
+  "verse": {
+    "arabic": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
+    "transliteration": "Waith qulna lilmalaikati osjudoo liadama fasajadoo illa ibleesa aba waistakbara wakana mina alkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, behold",
+      "root": {
+        "letters": "أ-ذْ-ح",
+        "meaning": "to perceive, to be aware of, to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قُلْنَا",
+      "transliteration": "qulnā",
+      "meaning": "We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قل",
+          "meaning": "say (you)"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِلْمَلَائِكَةِ",
+      "transliteration": "lil-malāʾikati",
+      "meaning": "to the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْمَلَائِكَةِ",
+          "meaning": "the angels"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اسْجُدُوا",
+      "transliteration": "usjudū",
+      "meaning": "prostrate yourselves!",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to bow down in submission"
+      },
+      "components": [
+        {
+          "arabic": "اسْـ",
+          "meaning": "Imperative prefix indicating command form"
+        },
+        {
+          "arabic": "جُدُوا",
+          "meaning": "Prostrate (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِآدَمَ",
+      "transliteration": "li-ʾādama",
+      "meaning": "to Adam",
+      "root": {
+        "letters": "أ-د-م",
+        "meaning": "to establish, to make; also refers to the earth/clay from which Adam was created."
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "آدَمَ",
+          "meaning": "Adam (the proper noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَسَجَدُوا",
+      "transliteration": "fasajadū",
+      "meaning": "so they prostrated",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate; to bow down in reverence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "سَجَدُوا",
+          "meaning": "they prostrated"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِبْلِيسَ",
+      "transliteration": "iblīsa",
+      "meaning": "Iblees",
+      "root": {
+        "letters": "ب-ل-س",
+        "meaning": "smoothness, cleanness; to be polished, refined (and by extension implying resistance to divine command)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَبَىٰ",
+      "transliteration": "ʾabā",
+      "meaning": "he refused",
+      "root": {
+        "letters": "أ-ب-ي",
+        "meaning": "to refuse, to resist, to reject, stubbornness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَاسْتَكْبَرَ",
+      "transliteration": "wastakbara",
+      "meaning": "and he was arrogant",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be great, to increase; also used for pride and arrogance when coupled with the prefix س"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "intensive prefix denoting seeking or doing something thoroughly/fully (often implies exaggeration)"
+        },
+        {
+          "arabic": "كَبَّرَ",
+          "meaning": "to magnify; to boast, be arrogant (derived from ك-ب-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَكَانَ",
+      "transliteration": "wakāna",
+      "meaning": "and he was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "he was"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be part of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīna",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We-said to-the angels prostrate yourselves!-to Adam so-they prostrated except Iblees he-refused and-he was arrogant and-he was from among the disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "verseId": "2:169",
+  "verse": {
+    "arabic": "إِنَّمَا يَأْمُرُكُم بِالسُّوءِ وَالْفَحْشَاءِ وَأَن تَقُولُوا عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+    "transliteration": "Innama yamurukum bialssooi waalfahshai waan taqooloo AAala Allahi ma la taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 169
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "only, exclusively",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَأْمُرُكُم",
+      "transliteration": "yaʾmurukum",
+      "meaning": "He orders you",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, order; matter, affair"
+      },
+      "components": [
+        {
+          "arabic": "يَأْمُرُ",
+          "meaning": "He orders"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالسُّوءِ",
+      "transliteration": "bi-s-sūʾi",
+      "meaning": "with the evil, in/regarding evil",
+      "root": {
+        "letters": "س-و-ء",
+        "meaning": "badness, ugliness, evil"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "السُّوءِ",
+          "meaning": "the evil, the badness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالْفَحْشَاءِ",
+      "transliteration": "wa-l-faḥshāʾi",
+      "meaning": "and the immorality, and the lewdness",
+      "root": {
+        "letters": "ف-ح-ش",
+        "meaning": "to be ugly, shameful; to be evil or immoral"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَحْشَاء",
+          "meaning": "immorality, lewdness (abstract noun of evil)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَأَن",
+      "transliteration": "wa-ʾan",
+      "meaning": "and that, and to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; related to affirmation and indication"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَن",
+          "meaning": "that, to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَقُولُوا",
+      "transliteration": "taqūlū",
+      "meaning": "you say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural imperfect tense (you)"
+        },
+        {
+          "arabic": "قُولُوا",
+          "meaning": "say (imperative/jussive form, you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَى اللَّهِ",
+      "transliteration": "ʿala-l-llāhi",
+      "meaning": "upon Allah, about Allah",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to ascend, to be high; to rely on, depend upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, about"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (in a broad sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَا تَعْلَمُونَ",
+      "transliteration": "lā taʿlamūna",
+      "meaning": "you do not know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you know (masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "only-He orders-you with-the evil and-the immorality and-to you say upon-Allah what not-you know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

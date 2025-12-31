@@ -1,0 +1,780 @@
+{
+  "verseId": "2:247",
+  "verse": {
+    "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ اللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا ۚ قَالُوا أَنَّىٰ يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ الْمَالِ ۚ قَالَ إِنَّ اللَّهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ وَالْجِسْمِ ۖ وَاللَّهُ يُؤْتِي مُلْكَهُ مَن يَشَاءُ ۚ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+    "transliteration": "Waqala lahum nabiyyuhum inna Allaha qad baAAatha lakum taloota malikan qaloo anna yakoonu lahu almulku AAalayna wanahnu ahaqqu bialmulki minhu walam yuta saAAatan mina almali qala inna Allaha istafahu AAalaykum wazadahu bastatan fee alAAilmi waaljismi waAllahu yutee mulkahu man yashao waAllahu wasiAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 247
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالَ",
+      "transliteration": "wa-qāla",
+      "meaning": "and he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to have, belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَبِيُّهُمْ",
+      "transliteration": "nabiyyahum",
+      "meaning": "their prophet",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to announce; prophet, messenger"
+      },
+      "components": [
+        {
+          "arabic": "نَبِيّ",
+          "meaning": "prophet"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship; deity; the Divine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "has already, certainly",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to precede"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بَعَثَ",
+      "transliteration": "baʿatha",
+      "meaning": "sent",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to originate, to send forth, to resurrect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "to you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "طَالُوتَ",
+      "transliteration": "ṭālūt",
+      "meaning": "Saul",
+      "root": {
+        "letters": "ط-و-ل",
+        "meaning": "lengthening, extending, height, prominence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَلِكًا",
+      "transliteration": "malikan",
+      "meaning": "a king",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, ownership; to have power or control"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَنَّىٰ",
+      "transliteration": "annā",
+      "meaning": "how, in what manner",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; related to being and existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يَكُونُ",
+      "transliteration": "yakūnu",
+      "meaning": "can be, will be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person singular"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "verbal noun derived from the root ك-و-ن, signifying being or existence"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanwīn al-fatḥ, indicating indefiniteness and nominative case"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْمُلْكُ",
+      "transliteration": "al-mulku",
+      "meaning": "the kingship",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُلْك",
+          "meaning": "kingship, dominion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "over us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, to be above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "on, over, above"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "نَحْنُ",
+      "transliteration": "naḥnu",
+      "meaning": "we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to turn towards, to incline, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَحَقُّ",
+      "transliteration": "aḥaqqu",
+      "meaning": "more worthy, more deserving",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, right, worthy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بِالْمُلْكِ",
+      "transliteration": "bil-mulki",
+      "meaning": "with the kingship, in kingship",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in"
+        },
+        {
+          "arabic": "الْمُلْكِ",
+          "meaning": "the kingship"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "than him",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَلَمْ",
+      "transliteration": "wa-lam",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to want, to wish; negation, absence of something desired"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not; a negative particle indicating past tense negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "يُؤْتَ",
+      "transliteration": "yuʾta",
+      "meaning": "is given, has been given",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to give, to bestow"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future passive voice"
+        },
+        {
+          "arabic": "أُتِ",
+          "meaning": "passive voice form of the verb, derived from أَتَى (to come)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "سَعَةً",
+      "transliteration": "saʿatan",
+      "meaning": "abundance, measure",
+      "root": {
+        "letters": "س-ع-ع",
+        "meaning": "to be wide, spacious; ease, plenty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "of",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "deprivation, prevention, source; to originate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْمَالِ",
+      "transliteration": "al-māli",
+      "meaning": "the wealth",
+      "root": {
+        "letters": "م-ل-ي",
+        "meaning": "to possess, to own; fullness, abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating sound/intensity"
+        },
+        {
+          "arabic": "كَتَ",
+          "meaning": "to be silent, to stop speaking (root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "To worship, deity; the one God."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "اصْطَفَاهُ",
+      "transliteration": "iṣṭafāhu",
+      "meaning": "has chosen him",
+      "root": {
+        "letters": "ص-ف-و",
+        "meaning": "to select, to choose, to purify"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "intensive/augmentative prefix indicating seeking or attempting something repeatedly"
+        },
+        {
+          "arabic": "فَاهُ",
+          "meaning": "root related to choosing/selecting with the pronoun 'hu' (him)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "over you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "on, over, upon"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "وَزَادَهُ",
+      "transliteration": "wa-zādahu",
+      "meaning": "and increased him",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to surpass"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "زَادَ",
+          "meaning": "he increased"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "بَسْطَةً",
+      "transliteration": "basṭatan",
+      "meaning": "abundance, extension",
+      "root": {
+        "letters": "ب-س-ط",
+        "meaning": "to spread, to extend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "الْعِلْمِ",
+      "transliteration": "al-ʿilmi",
+      "meaning": "the knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِلْم",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "وَالْجِسْمِ",
+      "transliteration": "wal-jismi",
+      "meaning": "and the body/stature",
+      "root": {
+        "letters": "ج-ث-م",
+        "meaning": "substantiality, solidity; body as a substantial entity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِسْمِ",
+          "meaning": "body, stature; physical form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, deity, God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "يُؤْتِي",
+      "transliteration": "yuʾtī",
+      "meaning": "gives",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to give, to come with"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, 1st person singular"
+        },
+        {
+          "arabic": "أَتَى",
+          "meaning": "to come, to give"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "مُلْكَهُ",
+      "transliteration": "mulkahū",
+      "meaning": "His kingship",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "مُلْك",
+          "meaning": "kingship, dominion"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "whoever, whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, origin, type"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to desire, to will, to wish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present/future tense and first person singular (He)"
+        },
+        {
+          "arabic": "شَاءُ",
+          "meaning": "to will, to desire; the root of the verb itself"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "س",
+          "meaning": "The letter 'seen', often indicating stillness or quiet."
+        },
+        {
+          "arabic": "ك",
+          "meaning": "The letter 'kaf', often related to containment or holding back."
+        },
+        {
+          "arabic": "ت",
+          "meaning": "The letter 'ta', often indicating completion or finality."
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "وَاسِعٌ",
+      "transliteration": "wāsiʿun",
+      "meaning": "all-Encompassing, vast",
+      "root": {
+        "letters": "و-س-ع",
+        "meaning": "to be wide, spacious, ample"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he said to-them their prophet indeed Allah has-already sent to-you Saul a king. they-said how can-be for-him the kingship over-us and we more worthy with-the kingship than him and not is-given abundance of the wealth. he said indeed Allah has chosen-him over-you and increased-him abundantly in the knowledge and the body. and Allah gives His kingship whom He wills. and Allah all-Encompassing Knowing."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

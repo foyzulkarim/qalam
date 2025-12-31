@@ -1,0 +1,79 @@
+{
+  "verseId": "56:16",
+  "verse": {
+    "arabic": "مُّتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ",
+    "transliteration": "Muttakieena AAalayha mutaqabileena",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مُّتَّكِئِينَ",
+      "transliteration": "mutta'kīʾīn",
+      "meaning": "reclining, leaning",
+      "root": {
+        "letters": "ك-ي-أ",
+        "meaning": "to be/become, to settle, to rest"
+      },
+      "components": [
+        {
+          "arabic": "مُتَّ",
+          "meaning": "participial prefix indicating passive or reciprocal voice and continuous action"
+        },
+        {
+          "arabic": "كِئِينَ",
+          "meaning": "infinitival suffix indicating plural masculine active participants"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon them, on it (feminine)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "the feminine singular pronoun (on it/them)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُتَقَابِلِينَ",
+      "transliteration": "mutaqābilīn",
+      "meaning": "facing each other, confronting",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to receive, to accept, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "مُتَـ",
+          "meaning": "passive participle prefix"
+        },
+        {
+          "arabic": "ـقَابِلِينَ",
+          "meaning": "active participle of 'to face, to meet'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "reclining-upon-them facing-each-other"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

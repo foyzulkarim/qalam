@@ -1,0 +1,79 @@
+{
+  "verseId": "55:12",
+  "verse": {
+    "arabic": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
+    "transliteration": "Waalhabbu thoo alAAasfi waalrrayhani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْحَبُّ",
+      "transliteration": "al-ḥabbu",
+      "meaning": "the grain/seed",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to contain, to collect, or to be full of; also relates to love and affection (due to the concentration of feeling)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذُو",
+      "transliteration": "dhū",
+      "meaning": "possessing/having",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, ownership, relation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَصْفِ",
+      "transliteration": "al-ʿaṣfi",
+      "meaning": "the husks/chaff (of grain)",
+      "root": {
+        "letters": "ع-ص-ف",
+        "meaning": "to blow, to strip off, to remove"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الرَّيْحَانُ",
+      "transliteration": "ar-rayḥānu",
+      "meaning": "the scented plants/basil",
+      "root": {
+        "letters": "ر-ي-ح",
+        "meaning": "fragrance, scent; to smell good"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the grain possessing-the husks and-the scented-plants"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

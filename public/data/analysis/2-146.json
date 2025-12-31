@@ -1,0 +1,310 @@
+{
+  "verseId": "2:146",
+  "verse": {
+    "arabic": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ ۖ وَإِنَّ فَرِيقًا مِّنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ",
+    "transliteration": "Allatheena ataynahumu alkitaba yaAArifoonahu kama yaAArifoona abnaahum wainna fareeqan minhum layaktumoona alhaqqa wahum yaAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 146
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, or have"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آتَيْنَاهُمُ",
+      "transliteration": "ātaynāhumu",
+      "meaning": "We gave them",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, to come with"
+      },
+      "components": [
+        {
+          "arabic": "آتَ",
+          "meaning": "We gave"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us/we (pronoun suffix)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the book/scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَعْرِفُونَهُ",
+      "transliteration": "yaʿrifūnahu",
+      "meaning": "they know him/it",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to be aware of, to recognize"
+      },
+      "components": [
+        {
+          "arabic": "يَعْرِفُون",
+          "meaning": "they know"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as/like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance, similarity"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "~مَا",
+          "meaning": "what (relative pronoun/particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَعْرِفُونَ",
+      "transliteration": "yaʿrifūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to be aware of, to recognize"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "عَرِفُ",
+          "meaning": "knowing, knowledge (verbal noun)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "plural masculine suffix, they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَبْنَاءَهُمْ",
+      "transliteration": "abnāʾahum",
+      "meaning": "their sons",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; son (as being 'built' from the father)"
+      },
+      "components": [
+        {
+          "arabic": "أَبْنَاءَ",
+          "meaning": "sons (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "silent letter (waṣl)",
+      "meaning": "[conjunction]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَإِنَّ",
+      "transliteration": "waʾinna",
+      "meaning": "and indeed/verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truth, certainty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَرِيقًا",
+      "transliteration": "farīqan",
+      "meaning": "a party/group",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, divide, distinguish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from; pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَيَكْتُمُونَ",
+      "transliteration": "layaktumūna",
+      "meaning": "they conceal/hide",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to conceal, hide, cover up"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يَكْتُمُونَ",
+          "meaning": "they conceal/hide (present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْحَقَّ",
+      "transliteration": "al-ḥaqqa",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَهُمْ",
+      "transliteration": "wahum",
+      "meaning": "and they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; possess, have (in a psychological sense)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, and first person plural subject (they)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb in the imperfect form)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the first person plural (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "those-who We-gave-them the-book/scripture they-know-him as they-know their-sons and-indeed a-party from-them they-conceal the-truth and-they they-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

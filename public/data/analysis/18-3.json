@@ -1,0 +1,61 @@
+{
+  "verseId": "18:3",
+  "verse": {
+    "arabic": "مَّاكِثِينَ فِيهِ أَبَدًا",
+    "transliteration": "Makitheena feehi abadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّاكِثِينَ",
+      "transliteration": "mākithīn",
+      "meaning": "remaining, dwelling",
+      "root": {
+        "letters": "م-ك-ث",
+        "meaning": "to stay, to reside, to dwell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَبَدًا",
+      "transliteration": "abadan",
+      "meaning": "forever, eternally",
+      "root": {
+        "letters": "أ-ب-د",
+        "meaning": "to perish, to be lost; destruction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "remaining-dwelling - in it - forever"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

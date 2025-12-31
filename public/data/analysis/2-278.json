@@ -1,0 +1,241 @@
+{
+  "verseId": "2:278",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ",
+    "transliteration": "Ya ayyuha allatheena amanoo ittaqoo Allaha watharoo ma baqiya mina alrriba in kuntum mumineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 278
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, addressing intelligent beings)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيُّ",
+          "meaning": "O (interjection)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "vocative particle, calling attention"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ي-ن",
+        "meaning": "possession, owner, having quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be safe, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/continuous tense (form I verb)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (from root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اتَّقُوا",
+      "transliteration": "ittaqū",
+      "meaning": "fear, guard against",
+      "root": {
+        "letters": "و-ق-ى",
+        "meaning": "to protect, shield, guard against"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix indicating thoroughness or repeated action"
+        },
+        {
+          "arabic": "تق",
+          "meaning": "you (masculine plural) - the second person pronoun suffix with reflexive meaning in this context"
+        },
+        {
+          "arabic": "وا",
+          "meaning": "vowel connecting the root letters and pronoun suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the name of God."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ذَرُوا",
+      "transliteration": "ḏarū",
+      "meaning": "leave, abandon",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to scatter, to leave behind, to forsake"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بَقِيَ",
+      "transliteration": "baqiya",
+      "meaning": "remained, stayed behind",
+      "root": {
+        "letters": "ب-ق-ي",
+        "meaning": "to remain, to stay behind, to survive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الرِّبَا",
+      "transliteration": "ar-ribā",
+      "meaning": "the interest, usury",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "to increase, to grow; excess, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "إ-ن-ي",
+        "meaning": "affirmation, truthfulness, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily; emphatic particle introducing a clause"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "كُنتُم",
+      "transliteration": "kuntum",
+      "meaning": "you are (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were/are (masculine plural)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "pronoun suffix indicating second person masculine plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مُّؤْمِنِينَ",
+      "transliteration": "mu'minīn",
+      "meaning": "believers (plural)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, security"
+      },
+      "components": [
+        {
+          "arabic": "مُؤْمِن",
+          "meaning": "believer (singular, active participle)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending for masculine human beings"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-you-who-believed fear-against Allah and abandon what remained from the interest if you are believers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

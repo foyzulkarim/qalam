@@ -1,0 +1,246 @@
+{
+  "verseId": "18:40",
+  "verse": {
+    "arabic": "فَعَسَىٰ رَبِّي أَن يُؤْتِيَنِ خَيْرًا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِّنَ السَّمَاءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+    "transliteration": "FaAAasa rabbee an yutiyani khayran min jannatika wayursila AAalayha husbanan mina alssamai fatusbiha saAAeedan zalaqan",
+    "surah": "Al-Kahf",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَعَسَىٰ",
+      "transliteration": "faʿasā",
+      "meaning": "so perhaps, then maybe",
+      "root": {
+        "letters": "ع-س-ي",
+        "meaning": "to hope, to expect, to be possible"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "عَسَىٰ",
+          "meaning": "to hope, perhaps, maybe"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُؤْتِيَنِ",
+      "transliteration": "yuʾtini",
+      "meaning": "He gives me",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to give"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular)"
+        },
+        {
+          "arabic": "أَتَى",
+          "meaning": "to give (verb root)"
+        },
+        {
+          "arabic": "نِ",
+          "meaning": "me (direct object marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "goodness, better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّن جَنَّتِكَ",
+      "transliteration": "min jannatika",
+      "meaning": "than your garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover; garden (as a hidden/covered place)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "جَنَّتِكَ",
+          "meaning": "your garden"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَيُرْسِلَ",
+      "transliteration": "wa yursila",
+      "meaning": "and He sends",
+      "root": {
+        "letters": "أ-ر-س",
+        "meaning": "to send, dispatch, transmit"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُرْسِلَ",
+          "meaning": "He sends (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon it",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to ascend, to be high; to be upon something"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "حُسْبَانًا",
+      "transliteration": "ḥusbānan",
+      "meaning": "a calamity, a rainstorm",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to suffice, to calculate, to reckon"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِّنَ السَّمَاءِ",
+      "transliteration": "min as-samāʾi",
+      "meaning": "from the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be elevated; height, loftiness"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "السَّمَاءِ",
+          "meaning": "the sky"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَتُصْبِحَ",
+      "transliteration": "fa-tuṣbiḥa",
+      "meaning": "so it becomes",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to awaken, to become light, to be bright"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "تُـ",
+          "meaning": "you (masculine singular) - prefix for imperfect verb"
+        },
+        {
+          "arabic": "صبح",
+          "meaning": "(to) become morning, to awaken, to be light"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "indicates imperfect verb, subjunctive mood"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "صَعِيدًا",
+      "transliteration": "ṣaʿīdan",
+      "meaning": "smooth ground",
+      "root": {
+        "letters": "ص-ع-د",
+        "meaning": "to ascend, to go up; to rise or elevate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "زَلَقًا",
+      "transliteration": "zalaqan",
+      "meaning": "slippery, dusty",
+      "root": {
+        "letters": "ز-ل-ق",
+        "meaning": "to slip, to slide; to be smooth or polished"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-perhaps my-Lord that He-gives me goodness than your-garden and He-sends upon it calamity from the-sky so it-becomes smooth-ground slippery"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "verseId": "18:101",
+  "verse": {
+    "arabic": "الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَن ذِكْرِي وَكَانُوا لَا يَسْتَطِيعُونَ سَمْعًا",
+    "transliteration": "Allatheena kanat aAAyunuhum fee ghitain AAan thikree wakanoo la yastateeAAoona samAAan",
+    "surah": "Al-Kahf",
+    "verseNumber": 101
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "The ones who",
+      "root": {
+        "letters": "ل-ذ-ی",
+        "meaning": "to possess, to own, to be endowed with a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "ones who (plural masculine relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَتْ",
+      "transliteration": "kānat",
+      "meaning": "Was/were (feminine)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "The letter kāf, indicating feminine singular past tense."
+        },
+        {
+          "arabic": "انْتَ",
+          "meaning": "Suffix indicating the second person singular feminine (she)."
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "Past tense marker."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَعْيُنُهُمْ",
+      "transliteration": "aʿyunuhum",
+      "meaning": "Their eyes",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to perceive, to see, eye"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating intensification or the active participle"
+        },
+        {
+          "arabic": "عُيُن",
+          "meaning": "eyes (plural of عَيْن)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to be within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غِطَاءٍ",
+      "transliteration": "ghiṭāʾin",
+      "meaning": "A cover, veil",
+      "root": {
+        "letters": "غ-ط-و",
+        "meaning": "to cover, to conceal, to overshadow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "From, about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert; to be away from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ذِكْرِي",
+      "transliteration": "dhikrī",
+      "meaning": "My remembrance, My mention",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْر",
+          "meaning": "remembrance, mention"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَكَانُوا",
+      "transliteration": "wa-kānū",
+      "meaning": "And they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانُوا",
+          "meaning": "they were"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَسْتَطِيعُونَ",
+      "transliteration": "yastaṭīʿūna",
+      "meaning": "They are able (to)",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be able (willingly)"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "They seek, they try (to)"
+        },
+        {
+          "arabic": "طِيعُ",
+          "meaning": "ability, capability"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "سَمْعًا",
+      "transliteration": "samʿan",
+      "meaning": "Hearing",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "To hear, to listen, perception"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-ones-who was their-eyes in a-cover from My-remembrance and they were not able to hearing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

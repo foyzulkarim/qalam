@@ -1,0 +1,116 @@
+{
+  "verseId": "56:70",
+  "verse": {
+    "arabic": "لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+    "transliteration": "Law nashao jaAAalnahu ojajan falawla tashkuroona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 70
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "If",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, or wishing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَشَاءُ",
+      "transliteration": "nashāʾu",
+      "meaning": "We willed; we desired",
+      "root": {
+        "letters": "ن-ش-أ",
+        "meaning": "to originate, to grow, to arise; to intend or will something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَعَلْنَاهُ",
+      "transliteration": "jaʿalnāhu",
+      "meaning": "We made it; We turned it into",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "We made; We turned into"
+        },
+        {
+          "arabic": "نَاهُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُجَاجًا",
+      "transliteration": "ʾujājān",
+      "meaning": "bitter; saline; brackish",
+      "root": {
+        "letters": "ع-ج-ج",
+        "meaning": "to be bitter; to be saline; to experience hardship or pain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَلَوْلَا",
+      "transliteration": "falawlā",
+      "meaning": "Then why not; but if not...",
+      "root": {
+        "letters": "ل-و-ل",
+        "meaning": "lack, absence, non-existence; to desire something not present"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for; to; in order that"
+        },
+        {
+          "arabic": "وَلَا",
+          "meaning": "and not; but if not; or"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَشْكُرُونَ",
+      "transliteration": "tashkurūna",
+      "meaning": "Do you express gratitude; are you thankful?",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to thank, to be grateful"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "شْكُر",
+          "meaning": "gratitude, thankfulness (verbal noun from the root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "If-We-willed-We-made-it bitter-then-why-not-you-express gratitude?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

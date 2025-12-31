@@ -1,0 +1,297 @@
+{
+  "verseId": "2:70",
+  "verse": {
+    "arabic": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّا إِن شَاءَ اللَّهُ لَمُهْتَدُونَ",
+    "transliteration": "Qaloo odAAu lana rabbaka yubayyin lana ma hiya inna albaqara tashabaha AAalayna wainna in shaa Allahu lamuhtadoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 70
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ادْعُ",
+      "transliteration": "udʿu",
+      "meaning": "Call!",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, invoke, pray"
+      },
+      "components": [
+        {
+          "arabic": "اِد",
+          "meaning": "prefix indicating the imperative mood (form I)"
+        },
+        {
+          "arabic": "عُ",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        },
+        {
+          "arabic": "و",
+          "meaning": "vowel marking the end of the verbal form (form I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُبَيِّن",
+      "transliteration": "yubayyin",
+      "meaning": "He makes clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to become clear, to be manifest; to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun prefix indicating present tense)"
+        },
+        {
+          "arabic": "بَيِّن",
+          "meaning": "clear, evident; to make clear (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَّنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong, to possess, for/to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire, relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "It (feminine)",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْبَقَرَ",
+      "transliteration": "al-baqara",
+      "meaning": "The cow(s)",
+      "root": {
+        "letters": "ب-ق-ر",
+        "meaning": "to split, to cleave, to break open; also refers to cattle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَشَابَهَ",
+      "transliteration": "tashābahat",
+      "meaning": "Look alike/are confused",
+      "root": {
+        "letters": "ش-ب-ه",
+        "meaning": "resemblance, likeness; to be similar"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating passive voice or mutual action"
+        },
+        {
+          "arabic": "شَابَهَ",
+          "meaning": "to resemble, to be like"
+        },
+        {
+          "arabic": "ـَ",
+          "meaning": "tanween indicating non-definiteness and plural form (in this context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "To us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to ascend; to overcome"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "on, over, to, upon"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَإِنَّا",
+      "transliteration": "wa-innā",
+      "meaning": "And indeed we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّا",
+          "meaning": "indeed we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "If",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "He wills",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَمُهْتَدُونَ",
+      "transliteration": "lamuhtadūn",
+      "meaning": "We will be guided",
+      "root": {
+        "letters": "هـ-د-ي",
+        "meaning": "to guide, show the right way"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for; in order to"
+        },
+        {
+          "arabic": "مُهْتَدُونَ",
+          "meaning": "those who are guided; being guided (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said Call! For-us Your-Lord He-makes-clear For-us What It (feminine) Indeed The-cow(s) Look-alike/are-confused To-us And-indeed we If He-wills Allah We-will-be-guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "verseId": "18:56",
+  "verse": {
+    "arabic": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۚ وَيُجَادِلُ الَّذِينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ ۖ وَاتَّخَذُوا آيَاتِي وَمَا أُنذِرُوا هُزُوًا",
+    "transliteration": "Wama nursilu almursaleena illa mubashshireena wamunthireena wayujadilu allatheena kafaroo bialbatili liyudhidoo bihi alhaqqa waittakhathoo ayatee wama onthiroo huzuwan",
+    "surah": "Al-Kahf",
+    "verseNumber": 56
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what/nor",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or pertaining to water/existence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/nor (interrogative or conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُرْسِلُ",
+      "transliteration": "nursilu",
+      "meaning": "we send",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; messenger"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (first person plural pronoun)"
+        },
+        {
+          "arabic": "رَسَلْ",
+          "meaning": "to send (verb root)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah (vowel indicating present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُرْسَلِينَ",
+      "transliteration": "al-mursalīn",
+      "meaning": "the messengers (plural)",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, dispatch; to flow (water)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُرْسَلِينَ",
+          "meaning": "messengers (plural, active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, or negation in general"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مُبَشِّرِينَ",
+      "transliteration": "mubashshirīn",
+      "meaning": "bringers of good tidings (plural)",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to give good news, to be joyful"
+      },
+      "components": [
+        {
+          "arabic": "مُبَشِّر",
+          "meaning": "one who brings good tidings (active participle)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَمُنذِرِينَ",
+      "transliteration": "wa-mundhirīn",
+      "meaning": "and warners (plural)",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مُنذِرِينَ",
+          "meaning": "warners (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَيُجَادِلُ",
+      "transliteration": "wa-yujādilu",
+      "meaning": "and dispute/argue",
+      "root": {
+        "letters": "ج-د-ل",
+        "meaning": "to contend, dispute, argue; effort, striving"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُجَادِلُ",
+          "meaning": "he disputes/argues (present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to have"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved/rejected faith",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to be ungrateful, to deny"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group or plural"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they rejected/disbelieved (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِالْبَاطِلِ",
+      "transliteration": "bi-l-bāṭil",
+      "meaning": "with falsehood/untruth",
+      "root": {
+        "letters": "ب-ط-ل",
+        "meaning": "to be void, vain, false"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْبَاطِلِ",
+          "meaning": "the falsehood, the untruth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لِيُدْحِضُوا",
+      "transliteration": "li-yudḥiḍū",
+      "meaning": "to invalidate/disprove",
+      "root": {
+        "letters": "ض-ح-د",
+        "meaning": "to break, to crush, to destroy; to refute, invalidate"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يُدْحِضُوا",
+          "meaning": "they invalidate/disprove (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِهِ",
+      "transliteration": "bi-hi",
+      "meaning": "with it/thereby",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, through, by means of"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, him/her (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْحَقَّ",
+      "transliteration": "al-ḥaqq",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَاتَّخَذُوا",
+      "transliteration": "wa-ittakhadhū",
+      "meaning": "and they took/adopted",
+      "root": {
+        "letters": "خ-ذ-أ",
+        "meaning": "to take, to acquire, to choose"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّخَذُوا",
+          "meaning": "they took, they adopted (from khadhā)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "آيَاتِي",
+      "transliteration": "āyātī",
+      "meaning": "My verses (plural)",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, miracle"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "verses (plural)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what/nor",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or relative pronoun 'what'"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أُنذِرُوا",
+      "transliteration": "undhirū",
+      "meaning": "they were warned (passive)",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to inform of danger"
+      },
+      "components": [
+        {
+          "arabic": "أُن",
+          "meaning": "passive voice marker (prefix)"
+        },
+        {
+          "arabic": "ذِرُوا",
+          "meaning": "they were warned (verb stem)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "هُزُوًا",
+      "transliteration": "huzū'an",
+      "meaning": "ridicule/mockery",
+      "root": {
+        "letters": "ح-ز-و",
+        "meaning": "to shake, to move vigorously; to break or destroy (something fragile); also implies derision"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what we-send the-messengers except bringers-of-good-tidings and-warners and-dispute those-who disbelieved with-falsehood to-invalidate with-it the-truth and-they-took My-verses and-what they-were-warned ridicule"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

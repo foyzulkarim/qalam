@@ -1,0 +1,232 @@
+{
+  "verseId": "2:122",
+  "verse": {
+    "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
+    "transliteration": "Ya banee israeela othkuroo niAAmatiya allatee anAAamtu AAalaykum waannee faddaltukum AAala alAAalameena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 122
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَنِي",
+      "transliteration": "banī",
+      "meaning": "children of, offspring of",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; also, to have sons"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِسْرَائِيلَ",
+      "transliteration": "ʾisrāʾīla",
+      "meaning": "Israel (name of Jacob)",
+      "root": {
+        "letters": "س-ر-ل",
+        "meaning": "to struggle, to persevere; control, mastery"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اذْكُرُوا",
+      "transliteration": "dhkurū",
+      "meaning": "remember (imperative, plural)",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "اذْ",
+          "meaning": "command/imperative marker (often with a vowel change)"
+        },
+        {
+          "arabic": "كُرُوا",
+          "meaning": "you (plural) - remember/recall"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نِعْمَتِيَ",
+      "transliteration": "niʿmatīya",
+      "meaning": "My favor, My blessing (possessive pronoun suffix)",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, agreeable; favor, blessing"
+      },
+      "components": [
+        {
+          "arabic": "نِعْمَة",
+          "meaning": "favor, blessing"
+        },
+        {
+          "arabic": "-يَ",
+          "meaning": "my (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "which, that (relative pronoun)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to resort to, to be responsible for"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "feminine singular relative marker, part of the pronoun structure"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَنْعَمْتُ",
+      "transliteration": "ʾanʿamtu",
+      "meaning": "I bestowed, I granted (first person perfect)",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, to bestow favor or kindness"
+      },
+      "components": [
+        {
+          "arabic": "أَنۡ",
+          "meaning": "I (first person pronoun)"
+        },
+        {
+          "arabic": "عَمۡتُ",
+          "meaning": "bestowed, granted (perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you (preposition + pronoun)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and (conjunction)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَنِّي",
+      "transliteration": "ʾannī",
+      "meaning": "that I, indeed I (nasba + pronoun)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; to exist, happen"
+      },
+      "components": [
+        {
+          "arabic": "أَنّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "first person singular pronoun (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَضَّلْتُكُمْ",
+      "transliteration": "faḍḍaltukum",
+      "meaning": "I preferred you (first person perfect + pronoun suffix)",
+      "root": {
+        "letters": "ض-ل-ف",
+        "meaning": "to exceed, to prefer, to be superior"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating first person singular perfect tense (أَفْعَلْتُ)"
+        },
+        {
+          "arabic": "ضَّلْتُ",
+          "meaning": "perfect tense verb meaning 'I preferred'"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "pronoun suffix indicating 'you (plural)' as the object of preference"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon (preposition)",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīn",
+      "meaning": "the worlds, the humankind (definite plural)",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds, humankind (plural of عَالِم)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-children-of Israel, remember-you My-favor which I-bestowed upon-you and that indeed-I preferred-you over the-worlds."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

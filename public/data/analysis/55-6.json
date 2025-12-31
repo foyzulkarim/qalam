@@ -1,0 +1,80 @@
+{
+  "verseId": "55:6",
+  "verse": {
+    "arabic": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+    "transliteration": "Waalnnajmu waalshshajaru yasjudani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّجْمُ",
+      "transliteration": "an-najmu",
+      "meaning": "the star",
+      "root": {
+        "letters": "ن-ج-م",
+        "meaning": "to shine, to be bright; star"
+      },
+      "components": [
+        {
+          "arabic": "النَّجْمُ",
+          "meaning": "the star (definite noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الشَّجَرُ",
+      "transliteration": "ash-shajaru",
+      "meaning": "the tree",
+      "root": {
+        "letters": "ش-ج-ر",
+        "meaning": "to spread, to grow, to extend; generally related to things that expand or have branches"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَسْجُدَانِ",
+      "transliteration": "yasjudāni",
+      "meaning": "they prostrate (dual)",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to bow down in worship"
+      },
+      "components": [
+        {
+          "arabic": "يَسْجُد",
+          "meaning": "they prostrate (present tense)"
+        },
+        {
+          "arabic": "انِ",
+          "meaning": "dual pronoun suffix (they - dual)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the star - and - the tree - they-prostrate(dual)"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

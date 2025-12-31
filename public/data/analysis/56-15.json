@@ -1,0 +1,52 @@
+{
+  "verseId": "56:15",
+  "verse": {
+    "arabic": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+    "transliteration": "AAala sururin mawdoonatin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on top of",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سُرُرٍ",
+      "transliteration": "sururin",
+      "meaning": "thrones, couches (plural)",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to be joyful, pleased; to delight in something; elevation, high rank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّوْضُونَةٍ",
+      "transliteration": "mawḍūnah",
+      "meaning": "woven, decorated, embellished",
+      "root": {
+        "letters": "ض-و-د",
+        "meaning": "to weave, to construct, to arrange"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "upon - thrones - woven"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

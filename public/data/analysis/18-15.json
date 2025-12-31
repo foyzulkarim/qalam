@@ -1,0 +1,332 @@
+{
+  "verseId": "18:15",
+  "verse": {
+    "arabic": "هَـٰؤُلَاءِ قَوْمُنَا اتَّخَذُوا مِن دُونِهِ آلِهَةً ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَانٍ بَيِّنٍ ۖ فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا",
+    "transliteration": "Haolai qawmuna ittakhathoo min doonihi alihatan lawla yatoona AAalayhim bisultanin bayyinin faman athlamu mimmani iftara AAala Allahi kathiban",
+    "surah": "Al-Kahf",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَـٰؤُلَاءِ",
+      "transliteration": "hā’ulā’i",
+      "meaning": "These (demonstrative pronoun)",
+      "root": {
+        "letters": "هـ-ل-و",
+        "meaning": "to turn, to go around; concerning these things"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰأ",
+          "meaning": "Demonstrative particle, pointing to near objects"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "Definite article, 'the'"
+        },
+        {
+          "arabic": "ـٰؤُلَاءِ",
+          "meaning": "Plural pronoun suffix, 'these'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَوْمُنَا",
+      "transliteration": "qawmunā",
+      "meaning": "Our people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "To rise, to stand up; a people, tribe or nation"
+      },
+      "components": [
+        {
+          "arabic": "قوم",
+          "meaning": "People, tribe, nation"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "Our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اتَّخَذُوا",
+      "transliteration": "ittakhadhū",
+      "meaning": "They took (as)",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "اِتِّ",
+          "meaning": "indicates repetition or completion of the action, prefix for Form I verbs"
+        },
+        {
+          "arabic": "تَخَذُوا",
+          "meaning": "they took, they chose (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِن دُونِهِ",
+      "transliteration": "min dūnihī",
+      "meaning": "Besides Him",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, humble; to lack; to go below"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, besides"
+        },
+        {
+          "arabic": "دُونِهِ",
+          "meaning": "below Him, without Him, other than Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آلِهَةً",
+      "transliteration": "ālihatan",
+      "meaning": "Deities",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be divine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "laa",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّوْلَا",
+      "transliteration": "lawlā",
+      "meaning": "Why not / If only",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to wish, desire, regret"
+      },
+      "components": [
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were it not for"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَأْتُونَ",
+      "transliteration": "ya’tūna",
+      "meaning": "They bring",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to approach, to bring"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and plurality of actors (they)"
+        },
+        {
+          "arabic": "أْتُ",
+          "meaning": "base form related to bringing/coming"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating plurality of actors (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَلَيْهِم",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them / For them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate, to ascend; relating to height or superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِسُلْطَانٍ",
+      "transliteration": "bisulṭānin",
+      "meaning": "With an authority / evidence",
+      "root": {
+        "letters": "س-ل-ط",
+        "meaning": "dominion, power, authority"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "سُلْطَانٍ",
+          "meaning": "authority, evidence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بَيِّنٍ",
+      "transliteration": "bayyinin",
+      "meaning": "Clear / Obvious",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "To be manifest, evident, or clear; to distinguish."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[conjunction]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "Then; So; For"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَمَنْ",
+      "transliteration": "famān",
+      "meaning": "Then who / So whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَظْلَمُ",
+      "transliteration": "aẓlamu",
+      "meaning": "More unjust / More wrongdoer",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "darkness, injustice, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more (superlative prefix)"
+        },
+        {
+          "arabic": "ظَلَمُ",
+          "meaning": "injustice, wrongdoing (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِمَّنِ",
+      "transliteration": "mimman",
+      "meaning": "Than him who / Than the one who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, the one who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "افْتَرَىٰ",
+      "transliteration": "iftarā",
+      "meaning": "He invented / He fabricated",
+      "root": {
+        "letters": "ف-ت-ر",
+        "meaning": "to be weak, slacken; to split or cleave; to originate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَلَى اللَّهِ",
+      "transliteration": "ʿala-l-llāhi",
+      "meaning": "Upon Allah / Against Allah",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to ascend, to be high; to rely upon, to depend on"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, against"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "كَذِبًا",
+      "transliteration": "kadhiban",
+      "meaning": "A lie / Falsehood",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "To lie, to be false, untruthfulness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "These - our-people - took-as - besides-Him - deities - [pause] - why-not - they-bring - upon-them - with-authority - clear - [conjunction] - then-who - more-unjust - than-him-who - invented - upon-Allah - a-lie"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

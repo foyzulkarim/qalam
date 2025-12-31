@@ -1,0 +1,287 @@
+{
+  "verseId": "2:195",
+  "verse": {
+    "arabic": "وَأَنفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ ۛ وَأَحْسِنُوا ۛ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "transliteration": "Waanfiqoo fee sabeeli Allahi wala tulqoo biaydeekum ila alttahlukati waahsinoo inna Allaha yuhibbu almuhsineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 195
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنفِقُوا",
+      "transliteration": "anfaqū",
+      "meaning": "spend (imperative)",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to exhaust"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to, in order to (introduces a purpose or command)"
+        },
+        {
+          "arabic": "فِقُوا",
+          "meaning": "spend (you all, imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be present in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "way of, path of",
+      "root": {
+        "letters": "س-ب-و",
+        "meaning": "to flow, to go along a path; way, road"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah's, of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Of Allah, belonging to Allah (genitive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تُلْقُوا",
+      "transliteration": "tulqū",
+      "meaning": "do not throw (imperative)",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "to meet, to encounter; to throw (derived)"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "Imperative prefix (masculine plural)"
+        },
+        {
+          "arabic": "لْقُوا",
+          "meaning": "throw (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِأَيْدِيكُمْ",
+      "transliteration": "bi’aydīkum",
+      "meaning": "with your hands",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; hand"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "أَيْدِيكُمْ",
+          "meaning": "your hands"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "to, into",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "التَّهْلُكَةِ",
+      "transliteration": "at-tahlukati",
+      "meaning": "the destruction",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed"
+      },
+      "components": [
+        {
+          "arabic": "التَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هَلُكَة",
+          "meaning": "destruction, ruin"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۛ",
+      "transliteration": null,
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَأَحْسِنُوا",
+      "transliteration": "wa aḥsinū",
+      "meaning": "and do good (imperative)",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness, perfection"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَحْسِنُوا",
+          "meaning": "do good, act well (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۛ",
+      "transliteration": null,
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, surely (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُحِبُّ",
+      "transliteration": "yuḥibbu",
+      "meaning": "He loves",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of, affection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "حَبَّ",
+          "meaning": "love (verbal noun)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah (vowel marking)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْمُحْسِنِينَ",
+      "transliteration": "al-muḥsinīna",
+      "meaning": "the doers of good",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "excellence, beauty, goodness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُحْسِنِينَ",
+          "meaning": "doers of good, those who excel in goodness (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-spend in way-of Allah and-not do-you throw with-your hands to the-destruction and-do good indeed Allah loves the-doers-of-good"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "verseId": "55:74",
+  "verse": {
+    "arabic": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+    "transliteration": "Lam yatmithhunna insun qablahum wala jannun",
+    "surah": "Ar-Rahman",
+    "verseNumber": 74
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "Not, did not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To desire, to will, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَطْمِثْهُنَّ",
+      "transliteration": "yaṭmiṯhunna",
+      "meaning": "Touch, defile, pollute (them)",
+      "root": {
+        "letters": "م-ث-ث",
+        "meaning": "to defile, to pollute, to touch with impurity"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the first person singular present tense (I touch/defile)"
+        },
+        {
+          "arabic": "طْمِثْ",
+          "meaning": "the verb stem related to defilement or touching with impurity"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِنسٌ",
+      "transliteration": "ʾinsun",
+      "meaning": "Human, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly; also, weakness or vulnerability (derived from sociability/dependence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَبْلَهُمْ",
+      "transliteration": "qablahum",
+      "meaning": "Before them",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "To precede, to accept (often implying direction towards)"
+      },
+      "components": [
+        {
+          "arabic": "قبل",
+          "meaning": "Before, in front of"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "Them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse; belong (negatively)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَانٌّ",
+      "transliteration": "jānnun",
+      "meaning": "Jinni, demon",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to be concealed; madness, obscurity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Not-touched-them human before-them and-not jinni"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

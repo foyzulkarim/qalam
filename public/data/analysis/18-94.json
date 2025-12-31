@@ -1,0 +1,316 @@
+{
+  "verseId": "18:94",
+  "verse": {
+    "arabic": "قَالُوا يَا ذَا الْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِي الْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّا",
+    "transliteration": "Qaloo ya tha alqarnayni inna yajooja wamajooja mufsidoona fee alardi fahal najAAalu laka kharjan AAala an tajAAala baynana wabaynahum saddan",
+    "surah": "Al-Kahf",
+    "verseNumber": 94
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time; to exist or be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَا",
+      "transliteration": "dhā",
+      "meaning": "owner of, possessor of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, ownership, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْقَرْنَيْنِ",
+      "transliteration": "al-qarnayn",
+      "meaning": "the two horns",
+      "root": {
+        "letters": "ق-ر-ن",
+        "meaning": "to join, combine, or be related; horn (of an animal)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "قَرْنَيْنِ",
+          "meaning": "dual form of horn, 'two horns'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also to turn towards or return"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces an emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَأْجُوجَ",
+      "transliteration": "yāʾjūja",
+      "meaning": "Gog (name of a people)",
+      "root": {
+        "letters": "أ-ج-ج",
+        "meaning": "to come, to rush forth; tumultuousness, upheaval"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَمَأْجُوجَ",
+      "transliteration": "wa-māʾjūja",
+      "meaning": "and Magog (name of a people)",
+      "root": {
+        "letters": "م-ج-ج",
+        "meaning": "to swell, overflow; to crowd together, be numerous"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَأْجُوجَ",
+          "meaning": "Magog (name of a people)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مُفْسِدُونَ",
+      "transliteration": "mufsidūna",
+      "meaning": "corrupters, spoilers",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "to be corrupt, to spoil, to ruin"
+      },
+      "components": [
+        {
+          "arabic": "مُفْسِد",
+          "meaning": "one who corrupts, a corrupter (active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine ending, indicating 'they are'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍ",
+      "meaning": "the land, the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth as that which is spread out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَهَلْ",
+      "transliteration": "fa-hal",
+      "meaning": "so, may we...",
+      "root": {
+        "letters": "ه-ل-ي",
+        "meaning": "to ask, inquiry; conditional particle implying possibility or doubt"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then; connective particle introducing a result or consequence"
+        },
+        {
+          "arabic": "هَلْ",
+          "meaning": "conditional particle indicating a question about possibility or request"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نَجْعَلُ",
+      "transliteration": "najʿalu",
+      "meaning": "we make, we assign",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to create, to make something happen (in various ways)"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (first person plural pronoun prefix)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create, to assign"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "for you",
+      "root": {
+        "letters": "ل-ك-أ",
+        "meaning": "possession, ownership, relation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "خَرْجًا",
+      "transliteration": "kharjan",
+      "meaning": "expenditure, payment",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out; emergence, production"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on condition that",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate, ascendancy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[that], in order that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist; also to intend or desire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تَجْعَلَ",
+      "transliteration": "tajʿala",
+      "meaning": "you make",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular (you)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create, to place"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بَيْنَنَا",
+      "transliteration": "baynanā",
+      "meaning": "between us",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to exist between"
+      },
+      "components": [
+        {
+          "arabic": "بَيْنَ",
+          "meaning": "between"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَبَيْنَهُمْ",
+      "transliteration": "wa-baynahum",
+      "meaning": "and between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distinct, to separate, to become clear"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَيْنَهُمْ",
+          "meaning": "between them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "سَدًّا",
+      "transliteration": "saddan",
+      "meaning": "barrier, wall",
+      "root": {
+        "letters": "س-د-د",
+        "meaning": "to obstruct, to block, to prevent"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said O owner-of the-two-horns indeed Gog and Magog are corrupters in the-land so may-we assign for-you expenditure upon that you make between-us and-between-them barrier"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

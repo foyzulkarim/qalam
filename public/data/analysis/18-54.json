@@ -1,0 +1,218 @@
+{
+  "verseId": "18:54",
+  "verse": {
+    "arabic": "وَلَقَدْ صَرَّفْنَا فِي هَـٰذَا الْقُرْآنِ لِلنَّاسِ مِن كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلًا",
+    "transliteration": "Walaqad sarrafna fee hatha alqurani lilnnasi min kulli mathalin wakana alinsanu akthara shayin jadalan",
+    "surah": "Al-Kahf",
+    "verseNumber": 54
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-laqad",
+      "meaning": "and indeed, and surely",
+      "root": {
+        "letters": "ل-ق-د",
+        "meaning": "to take an oath, to be firm and resolute"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, surely (oath formula)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَرَّفْنَا",
+      "transliteration": "ṣarrafnā",
+      "meaning": "We diversified, We turned over (things)",
+      "root": {
+        "letters": "ص-ر-ف",
+        "meaning": "to turn, to diversify, to expend"
+      },
+      "components": [
+        {
+          "arabic": "صَرَّ",
+          "meaning": "we turned, we diverted"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in; to be present within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "ه-ذ-ا",
+        "meaning": "to point, to indicate, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْقُرْآنِ",
+      "transliteration": "al-qurʾāni",
+      "meaning": "the Qur'an",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite; the reading itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُرْآن",
+          "meaning": "the recitation, the Qur'an (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (as they 'forget' their Lord)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "every, all of",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَثَلٍ",
+      "transliteration": "mathalin",
+      "meaning": "example, parable",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like; to make an example or comparison"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَكَانَ",
+      "transliteration": "wa-kāna",
+      "meaning": "and was, and indeed is",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "was, is (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be weak, frail; to forget, be lonely"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَكْثَرَ",
+      "transliteration": "ʾakthara",
+      "meaning": "more, most",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "abundance, multiplicity, increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing, something",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to be, to exist; something that exists"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "جَدَلًا",
+      "transliteration": "jadalan",
+      "meaning": "dispute, argument",
+      "root": {
+        "letters": "ج-د-ل",
+        "meaning": "to contend, dispute, argue; to strive, effort"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed We diversified in-this the-Qur'an for-the-people from every example and was the-human being more thing dispute"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

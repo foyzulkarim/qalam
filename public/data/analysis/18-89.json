@@ -1,0 +1,52 @@
+{
+  "verseId": "18:89",
+  "verse": {
+    "arabic": "ثُمَّ أَتْبَعَ سَبَبًا",
+    "transliteration": "Thumma atbaAAa sababan",
+    "surah": "Al-Kahf",
+    "verseNumber": 89
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish; also implies time and sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتْبَعَ",
+      "transliteration": "attabaʿa",
+      "meaning": "he followed, he pursued",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue; to remain after, to come after"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَبَبًا",
+      "transliteration": "sababan",
+      "meaning": "a way, a path, a reason",
+      "root": {
+        "letters": "س-ب-ب",
+        "meaning": "to follow a path, to cause something, to provide means"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - he-followed - a-way"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

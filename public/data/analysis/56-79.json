@@ -1,0 +1,89 @@
+{
+  "verseId": "56:79",
+  "verse": {
+    "arabic": "لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+    "transliteration": "La yamassuhu illa almutahharoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 79
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, none",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَمَسُّهُ",
+      "transliteration": "yamassu-hu",
+      "meaning": "touches it",
+      "root": {
+        "letters": "م-س-س",
+        "meaning": "to touch, to affect, to try"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "indicates present tense and active voice"
+        },
+        {
+          "arabic": "مَسَّ",
+          "meaning": "to touch"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him/it (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but only",
+      "root": {
+        "letters": "ل-و-ا",
+        "meaning": "to be absent, to lack, negation, except"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُطَهَّرُونَ",
+      "transliteration": "al-muṭahharūna",
+      "meaning": "the purified ones",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to be pure, clean, or free from imperfection"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُطَهَّر",
+          "meaning": "purified (passive participle)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural masculine ending"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-touches-it except the-purified-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

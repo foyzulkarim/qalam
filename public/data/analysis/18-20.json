@@ -1,0 +1,248 @@
+{
+  "verseId": "18:20",
+  "verse": {
+    "arabic": "إِنَّهُمْ إِن يَظْهَرُوا عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِي مِلَّتِهِمْ وَلَن تُفْلِحُوا إِذًا أَبَدًا",
+    "transliteration": "Innahum in yathharoo AAalaykum yarjumookum aw yuAAeedookum fee millatihim walan tuflihoo ithan abadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "ʾinnahum",
+      "meaning": "Indeed they",
+      "root": {
+        "letters": "ه-م-ي",
+        "meaning": "to be, to exist; intention, desire"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "They (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "If",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَظْهَرُوا",
+      "transliteration": "yaẓharū",
+      "meaning": "They become aware/discover",
+      "root": {
+        "letters": "ظ-هـ-ر",
+        "meaning": "to appear, to become visible, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and the subject being plural"
+        },
+        {
+          "arabic": "ظَهرُوا",
+          "meaning": "they appeared/became visible"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "Upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَرْجُمُوكُمْ",
+      "transliteration": "yarjumūkum",
+      "meaning": "They will stone you",
+      "root": {
+        "letters": "ر-ج-م",
+        "meaning": "to throw, to cast; also specifically to stone or pelt"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, active voice (3rd person)"
+        },
+        {
+          "arabic": "رَجَمُ",
+          "meaning": "to stone, to pelt with stones"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "pronoun suffix: 'you' (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to revert; or (as a connective)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يُعِيدُوكُمْ",
+      "transliteration": "yuʿīdūkum",
+      "meaning": "They will return you",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "to return, to go back"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "they (masculine plural)"
+        },
+        {
+          "arabic": "عِيدُ",
+          "meaning": "returning (verbal noun)"
+        },
+        {
+          "arabic": "ـكُم",
+          "meaning": "to you (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In/to",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter into, to be present in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِلَّتِهِمْ",
+      "transliteration": "millatihim",
+      "meaning": "Their religion/community",
+      "root": {
+        "letters": "م-ل-ت",
+        "meaning": "inclination, way, religion"
+      },
+      "components": [
+        {
+          "arabic": "مِلَّةِ",
+          "meaning": "religion, way of life"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَلَن",
+      "transliteration": "wa-lan",
+      "meaning": "And never/and not",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to desire, to will, to refuse/deny (negative form)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "never, not (future negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تُفْلِحُوا",
+      "transliteration": "tufliḥū",
+      "meaning": "You will succeed",
+      "root": {
+        "letters": "ف-ل-ح",
+        "meaning": "to succeed, to be victorious; to cultivate or improve"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "Prefix indicating 'you (plural) will'"
+        },
+        {
+          "arabic": "فْلِحُوا",
+          "meaning": "You succeed (verb in the present/future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِذًا",
+      "transliteration": "ʾiḏan",
+      "meaning": "Then/at that time",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go, to depart; to melt (figuratively: to vanish)"
+      },
+      "components": [
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when"
+        },
+        {
+          "arabic": "-ًا",
+          "meaning": "then, at that time (temporal particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَبَدًا",
+      "transliteration": "ʾabadan",
+      "meaning": "Ever/at all",
+      "root": {
+        "letters": "أ-ب-د",
+        "meaning": "to remain, to endure; permanence, eternity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-they if-they become aware-upon you they will stone-you or they will return-you in/to their religion and never-you will succeed then ever"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "verseId": "56:31",
+  "verse": {
+    "arabic": "وَمَاءٍ مَّسْكُوبٍ",
+    "transliteration": "Wamain maskoobin",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَاءٍ",
+      "transliteration": "wa-māʾin",
+      "meaning": "and water (indefinite)",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, water, fluidity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَاءٍ",
+          "meaning": "water (indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّسْكُوبٍ",
+      "transliteration": "maskūbin",
+      "meaning": "poured out (passive participle)",
+      "root": {
+        "letters": "س-ك-ب",
+        "meaning": "to pour, to flow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-water poured-out"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

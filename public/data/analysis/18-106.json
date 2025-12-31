@@ -1,0 +1,181 @@
+{
+  "verseId": "18:106",
+  "verse": {
+    "arabic": "ذَٰلِكَ جَزَاؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُوا آيَاتِي وَرُسُلِي هُزُوًا",
+    "transliteration": "Thalika jazaohum jahannamu bima kafaroo waittakhathoo ayatee warusulee huzuwan",
+    "surah": "Al-Kahf",
+    "verseNumber": 106
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "That is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base; that (demonstrative)"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "That (demonstrative pronoun - base form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Suffix pronoun - 'that'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَزَاؤُهُمْ",
+      "transliteration": "jazā’uhum",
+      "meaning": "Their recompense",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to be due, deserved"
+      },
+      "components": [
+        {
+          "arabic": "جَزَاءٌ",
+          "meaning": "recompense, reward"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَهَنَّمُ",
+      "transliteration": "jahannam",
+      "meaning": "Hell",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "to be hidden, concealed; intense heat or darkness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "Because of what / For what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; perishing"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, for"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "They denied / They disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny, to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group (they)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "from the root كفر, indicating past tense and plurality (they denied)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَاتَّخَذُوا",
+      "transliteration": "wattaḫadhū",
+      "meaning": "And they took / And they chose",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to select"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّخَذُوا",
+          "meaning": "they took, they chose (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آيَاتِي",
+      "transliteration": "āyātī",
+      "meaning": "My signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, miracle, verse"
+      },
+      "components": [
+        {
+          "arabic": "آيَات",
+          "meaning": "signs (plural)"
+        },
+        {
+          "arabic": "ِي",
+          "meaning": "my (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَرُسُلِي",
+      "transliteration": "warusulī",
+      "meaning": "And My messengers",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رُسُلِي",
+          "meaning": "My messengers (plural, genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "هُزُوًا",
+      "transliteration": "huzū’an",
+      "meaning": "In ridicule / As mockery",
+      "root": {
+        "letters": "ح-ز-ي",
+        "meaning": "to be weak, feeble; to ridicule, mock"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "That-is their recompense - Hell - because-of what they denied and they took My signs and My messengers in ridicule."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

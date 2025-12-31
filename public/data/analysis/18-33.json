@@ -1,0 +1,225 @@
+{
+  "verseId": "18:33",
+  "verse": {
+    "arabic": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْئًا ۚ وَفَجَّرْنَا خِلَالَهُمَا نَهَرًا",
+    "transliteration": "Kilta aljannatayni atat okulaha walam tathlim minhu shayan wafajjarna khilalahuma naharan",
+    "surah": "Al-Kahf",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كِلْتَا",
+      "transliteration": "kiltā",
+      "meaning": "both of (the two)",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to incline, to be sufficient, to exhaust"
+      },
+      "components": [
+        {
+          "arabic": "كِل",
+          "meaning": "sufficiency, completeness"
+        },
+        {
+          "arabic": "تَا",
+          "meaning": "dual marker, indicating 'both'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَنَّتَيْنِ",
+      "transliteration": "al-jannatayni",
+      "meaning": "the two gardens (dual form)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover; garden (as a hidden/secluded place)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَنَّتَيْنِ",
+          "meaning": "two gardens (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آتَتْ",
+      "transliteration": "ʾātāt",
+      "meaning": "it produced, it came with",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating third person feminine singular"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "suffix indicating past tense, feminine singular"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "base of the verb relating to coming/arriving"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُكُلَهَا",
+      "transliteration": "ʾukulahā",
+      "meaning": "its fruit",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "أُكُل",
+          "meaning": "fruit, something eaten"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَمْ",
+      "transliteration": "wa lam",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-م-د",
+        "meaning": "to desire, to will, to refuse"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not (past tense negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَظْلِم",
+      "transliteration": "taẓlim",
+      "meaning": "it falls short, it does injustice (to)",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, darkness, injustice"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a verb in Form I (tafʿil)"
+        },
+        {
+          "arabic": "ظَلِم",
+          "meaning": "to do injustice, to wrong, to oppress"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "anything, a thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, existence, thinghood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَفَجَّرْنَا",
+      "transliteration": "wa fajjarnā",
+      "meaning": "and We caused to gush forth",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to burst forth, to erupt, to split open; also to excavate a well"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فَجَّرْنَا",
+          "meaning": "We caused to gush forth (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "خِلَالَهُمَا",
+      "transliteration": "khilālahumā",
+      "meaning": "within them (dual form)",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to lack, to leave behind; also to intermingle or penetrate"
+      },
+      "components": [
+        {
+          "arabic": "خِلَال",
+          "meaning": "interiors, within, insides"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "they (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "نَهَرًا",
+      "transliteration": "naharan",
+      "meaning": "a river",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream forth; water"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "both-of the two gardens produced its fruit and not it-falls-short from it anything and We-caused-to-gush-forth within them a river"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "verseId": "55:17",
+  "verse": {
+    "arabic": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+    "transliteration": "Rabbu almashriqayni warabbu almaghribayni",
+    "surah": "Ar-Rahman",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَبُّ",
+      "transliteration": "rabbu",
+      "meaning": "Lord, Master, Possessor",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to increase, to grow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَشْرِقَيْنِ",
+      "transliteration": "al-mashriqayn",
+      "meaning": "the two sunrises, the two easts",
+      "root": {
+        "letters": "ش-ر-ق",
+        "meaning": "to rise (sun), east"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَشْرِقَيْنِ",
+          "meaning": "dual of 'mashriq' - sunrise, east. Indicates two places where the sun rises."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبُّ",
+      "transliteration": "rabbu",
+      "meaning": "Lord, Master, Possessor",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "To have dominion over, to possess, to increase, to grow."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمَغْرِبَيْنِ",
+      "transliteration": "al-maghribayn",
+      "meaning": "the two sunsets, the two wests",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to set (sun), to go down; west"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَغْرِبَيْنِ",
+          "meaning": "two sunsets/wests (dual form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Lord - of - the - two - sunrises - and - Lord - of - the - two - sunsets"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

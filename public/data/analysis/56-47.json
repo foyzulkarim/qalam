@@ -1,0 +1,190 @@
+{
+  "verseId": "56:47",
+  "verse": {
+    "arabic": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+    "transliteration": "Wakanoo yaqooloona aitha mitna wakunna turaban waAAithaman ainna lamabAAoothoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 47
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَكَانُوا",
+      "transliteration": "wa-kānū",
+      "meaning": "and they were/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانُوا",
+          "meaning": "they were/used to be (verb, masculine plural past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَقُولُونَ",
+      "transliteration": "yaqūlūn",
+      "meaning": "they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "قُولُونَ",
+          "meaning": "say (verb, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَئِذَا",
+      "transliteration": "ʾa-ʾidhā",
+      "meaning": "or when/whenever?",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to do, to act; to be capable of"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of interrogation/conditional; or, whenever"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِتْنَا",
+      "transliteration": "mitnā",
+      "meaning": "we die/died",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, to die"
+      },
+      "components": [
+        {
+          "arabic": "مِتْ",
+          "meaning": "die/died (root form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَكُنَّا",
+      "transliteration": "wa-kunna",
+      "meaning": "and we were/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كُنَّا",
+          "meaning": "we were/used to be"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تُرَابًا",
+      "transliteration": "turāban",
+      "meaning": "dust",
+      "root": {
+        "letters": "ت-ر-ب",
+        "meaning": "softness, fragility, earth, to be soft or fine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَعِظَامًا",
+      "transliteration": "wa-ʿiẓāman",
+      "meaning": "and bones",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be strong, to have power; bone (as a structure signifying strength)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عِظَامًا",
+          "meaning": "bones (plural of عظم)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَإِنَّا",
+      "transliteration": "ʾa-ʾinnā",
+      "meaning": "or indeed we?",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "indeed; surely; a particle emphasizing the question"
+        },
+        {
+          "arabic": "إِنَّا",
+          "meaning": "we; us (inclusive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَمَبْعُوثُونَ",
+      "transliteration": "la-mabʿūthūn",
+      "meaning": "are we resurrected?",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to raise up, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "مَبْعُوثُونَ",
+          "meaning": "passive participle, those who are resurrected (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-were saying or-when we-die and-we-were dust and-bones or-indeed we [are] resurrected?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

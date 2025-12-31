@@ -1,0 +1,90 @@
+{
+  "verseId": "56:21",
+  "verse": {
+    "arabic": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+    "transliteration": "Walahmi tayrin mimma yashtahoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَحْمِ",
+      "transliteration": "wa-laḥmi",
+      "meaning": "and [the] meat of",
+      "root": {
+        "letters": "ل-ح-م",
+        "meaning": "to possess flesh, to be fleshy; meat itself"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَحْمِ",
+          "meaning": "the meat of (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَيْرٍ",
+      "transliteration": "ṭayrin",
+      "meaning": "fowl, birds",
+      "root": {
+        "letters": "ط-ي-ر",
+        "meaning": "to fly, to soar; bird"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّمَّا",
+      "transliteration": "mim mā",
+      "meaning": "from what, of that which",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or originate from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَشْتَهُونَ",
+      "transliteration": "yashtahūnūna",
+      "meaning": "they desire, they crave",
+      "root": {
+        "letters": "ش-ه-و",
+        "meaning": "to desire, to wish for, to long for"
+      },
+      "components": [
+        {
+          "arabic": "يَشْتَ",
+          "meaning": "they desire (prefix + root)"
+        },
+        {
+          "arabic": "هُونَ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-[the] meat-of fowl from what they desire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

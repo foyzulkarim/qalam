@@ -1,0 +1,159 @@
+{
+  "verseId": "2:242",
+  "verse": {
+    "arabic": "كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+    "transliteration": "Kathalika yubayyinu Allahu lakum ayatihi laAAallakum taAAqiloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 242
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲hālika",
+      "meaning": "thus, like that",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to be like"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like"
+        },
+        {
+          "arabic": "ذَٰلِك",
+          "meaning": "that, this (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُبَيِّنُ",
+      "transliteration": "yubayyin̲u",
+      "meaning": "He makes clear, He explains",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to become clear, to be manifest; to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun prefix indicating present tense)"
+        },
+        {
+          "arabic": "بَيِّنَ",
+          "meaning": "clear, manifest (verbal noun from the root ب-ي-ن)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "present tense marker (ḍamma)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "to you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آيَاتِهِ",
+      "transliteration": "āyātihi",
+      "meaning": "His verses, His signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, miracle"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "verses, signs (plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "that you might, perhaps you",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, to be able to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, that (introducing a purpose or wish)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "you might, perhaps"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَعْقِلُونَ",
+      "transliteration": "taʿqilūna",
+      "meaning": "you understand, you reason",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to grasp intellectually, to be wise or prudent"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense (present/future)"
+        },
+        {
+          "arabic": "عَقِل",
+          "meaning": "to understand, to comprehend"
+        },
+        {
+          "arabic": "~ُونَ",
+          "meaning": "suffix indicating second person masculine plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "thus-like He-makes-clear Allah to-you His-verses that-you-might you-understand"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

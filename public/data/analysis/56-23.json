@@ -1,0 +1,70 @@
+{
+  "verseId": "56:23",
+  "verse": {
+    "arabic": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+    "transliteration": "Kaamthali allului almaknooni",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَأَمْثَالِ",
+      "transliteration": "kaʾamthāli",
+      "meaning": "like the likenesses of",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, to be like"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "أَمْثَالِ",
+          "meaning": "likenesses, examples (plural of مَثَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللُّؤْلُؤِ",
+      "transliteration": "al-luʾluʾi",
+      "meaning": "the pearls",
+      "root": {
+        "letters": "ل-ؤ-ل",
+        "meaning": "to shine, luster; smoothness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَكْنُونِ",
+      "transliteration": "al-maknūni",
+      "meaning": "the well-protected / hidden / concealed",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to conceal, to protect, to hide"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَكْنُون",
+          "meaning": "concealed, hidden, protected (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "like-the-likenesses-of the pearls the well-protected"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

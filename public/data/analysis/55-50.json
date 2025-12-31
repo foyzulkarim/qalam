@@ -1,0 +1,83 @@
+{
+  "verseId": "55:50",
+  "verse": {
+    "arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+    "transliteration": "Feehima AAaynani tajriyani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 50
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهِمَا",
+      "transliteration": "fīhimā",
+      "meaning": "in them (dual)",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to contain, to include; within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَيْنَانِ",
+      "transliteration": "ʿaynāni",
+      "meaning": "two springs (dual)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye, source, spring"
+      },
+      "components": [
+        {
+          "arabic": "عَيْن",
+          "meaning": "spring, eye, source"
+        },
+        {
+          "arabic": "انِ",
+          "meaning": "dual ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَجْرِيَانِ",
+      "transliteration": "tajriyāni",
+      "meaning": "they flow (dual)",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "to flow, to run, to pass"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating present/future tense and active voice"
+        },
+        {
+          "arabic": "جْرِي",
+          "meaning": "flowing, running (verbal noun form)"
+        },
+        {
+          "arabic": "َانِ",
+          "meaning": "dual suffix, indicating two subjects"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-them (dual) - two-springs (dual) - they-flow (dual)"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

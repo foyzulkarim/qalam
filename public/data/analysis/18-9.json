@@ -1,0 +1,174 @@
+{
+  "verseId": "18:9",
+  "verse": {
+    "arabic": "أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا",
+    "transliteration": "Am hasibta anna ashaba alkahfi waalrraqeemi kanoo min ayatina AAajaban",
+    "surah": "Al-Kahf",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, but",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to wish, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَسِبْتَ",
+      "transliteration": "ḥasibta",
+      "meaning": "you thought, you reckoned",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "حَسِبَ",
+          "meaning": "he reckoned, he thought"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, exist; affirmation or certainty"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed; introduces a nominal clause or serves as an emphatic particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَصْحَابَ",
+      "transliteration": "ʾaṣḥāba",
+      "meaning": "companions, followers",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to associate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكَهْفِ",
+      "transliteration": "al-kahfi",
+      "meaning": "the cave",
+      "root": {
+        "letters": "ك-هـ-ف",
+        "meaning": "to conceal, to hide, to protect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَالرَّقِيمِ",
+      "transliteration": "wa-al-raqīmi",
+      "meaning": "and the inscription",
+      "root": {
+        "letters": "ر-ق-م",
+        "meaning": "to write, to inscribe, to mark"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رَقِيم",
+          "meaning": "inscription, writing (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be possessed of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آيَاتِنَا",
+      "transliteration": "ʾāyātinā",
+      "meaning": "Our signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, miracle, verse"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "signs (plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَجَبًا",
+      "transliteration": "ʿajaban",
+      "meaning": "a wonder, a marvel",
+      "root": {
+        "letters": "ع-ج-ب",
+        "meaning": "to be amazed, to wonder; strangeness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or - you-thought - that - companions-of - the-cave - and-the-inscription - they-were - from - Our-signs - a-wonder"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

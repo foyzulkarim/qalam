@@ -1,0 +1,50 @@
+{
+  "verseId": "55:4",
+  "verse": {
+    "arabic": "عَلَّمَهُ الْبَيَانَ",
+    "transliteration": "AAallamahu albayana",
+    "surah": "Ar-Rahman",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَّمَهُ",
+      "transliteration": "ʿallamahu",
+      "meaning": "He taught him",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "عَلَّمَ",
+          "meaning": "He taught"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْبَيَانَ",
+      "transliteration": "al-bayān(a)",
+      "meaning": "the eloquence/clarity",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, to manifest, to explain"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-taught-[to]-him the-eloquence"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

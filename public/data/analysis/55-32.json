@@ -1,0 +1,98 @@
+{
+  "verseId": "55:32",
+  "verse": {
+    "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "transliteration": "Fabiayyi alai rabbikuma tukaththibani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبِأَيِّ",
+      "transliteration": "fa-bi-ʾayyi",
+      "meaning": "So with which?",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "relativity, questioning; pertaining to which"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of (preposition)"
+        },
+        {
+          "arabic": "أَيّ",
+          "meaning": "which (interrogative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آلَاءِ",
+      "transliteration": "ʾālāʾi",
+      "meaning": "favors/blessings (plural)",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to return, to come back; favor, blessing (derived meaning)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكُمَا",
+      "transliteration": "rabbi-kuma",
+      "meaning": "your Lord (dual)",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "-كُمَا",
+          "meaning": "your (dual possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُكَذِّبَانِ",
+      "transliteration": "tukadhdhibāni",
+      "meaning": "you both deny?",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person dual present tense"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "to deny, to reject (verbal root)"
+        },
+        {
+          "arabic": "َانِ",
+          "meaning": "dual suffix for second person (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-with which - of-the favors - your Lord-(dual) - you-both deny?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

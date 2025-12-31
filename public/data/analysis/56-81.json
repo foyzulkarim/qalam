@@ -1,0 +1,89 @@
+{
+  "verseId": "56:81",
+  "verse": {
+    "arabic": "أَفَبِهَـٰذَا الْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+    "transliteration": "Afabihatha alhadeethi antum mudhinoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 81
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَبِهَـٰذَا",
+      "transliteration": "ʾafabi-hādhā",
+      "meaning": "So, is it with this?",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate; this (demonstrative pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "أَفَـ",
+          "meaning": "particle of questioning, expressing doubt or challenge"
+        },
+        {
+          "arabic": "بِـ",
+          "meaning": "preposition meaning 'with', 'by means of'"
+        },
+        {
+          "arabic": "هَـٰذَا",
+          "meaning": "this (demonstrative pronoun, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْحَدِيثِ",
+      "transliteration": "al-ḥadīthi",
+      "meaning": "the statement/narrative",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to occur, happen; to report, narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنتُم",
+      "transliteration": "ʾantum",
+      "meaning": "you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; also refers to personhood and self"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُّدْهِنُونَ",
+      "transliteration": "mudh’inūna",
+      "meaning": "being complacent/indifferent",
+      "root": {
+        "letters": "د-ه-ن",
+        "meaning": "to smear, to cover; to be soft or compliant in disposition"
+      },
+      "components": [
+        {
+          "arabic": "مُدْ",
+          "meaning": "the passive participle prefix indicating 'being acted upon'"
+        },
+        {
+          "arabic": "هِن",
+          "meaning": "related to softness, compliance or indulgence"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine ending indicating 'they are'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-is-it with-this the-statement you are being complacent?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

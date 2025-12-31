@@ -1,0 +1,66 @@
+{
+  "verseId": "56:12",
+  "verse": {
+    "arabic": "فِي جَنَّاتِ النَّعِيمِ",
+    "transliteration": "Fee jannati alnnaAAeemi",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to be contained in, to exist within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَنَّاتِ",
+      "transliteration": "jannāti",
+      "meaning": "gardens (plural)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also, to possess or enjoy (as in a garden)"
+      },
+      "components": [
+        {
+          "arabic": "جَنَّ",
+          "meaning": "gardens (singular جَنَّة)"
+        },
+        {
+          "arabic": "-اتِ",
+          "meaning": "plural marker with possessive suffix (i)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّعِيمِ",
+      "transliteration": "an-naʿīmi",
+      "meaning": "the pleasure, the bliss",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "enjoyment, comfort, pleasantness"
+      },
+      "components": [
+        {
+          "arabic": "النَّعِيمِ",
+          "meaning": "the pleasure, the bliss (definite form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in - gardens-of - the-pleasure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

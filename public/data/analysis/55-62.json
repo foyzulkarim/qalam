@@ -1,0 +1,79 @@
+{
+  "verseId": "55:62",
+  "verse": {
+    "arabic": "وَمِن دُونِهِمَا جَنَّتَانِ",
+    "transliteration": "Wamin doonihima jannatani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 62
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِن",
+      "transliteration": "wa min",
+      "meaning": "and from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or be separate from"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "دُونِهِمَا",
+      "transliteration": "dūnihimā",
+      "meaning": "below them (dual)",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to humble, to abase"
+      },
+      "components": [
+        {
+          "arabic": "دو",
+          "meaning": "below, lower part"
+        },
+        {
+          "arabic": "نِ",
+          "meaning": "dual marker (indicates two)"
+        },
+        {
+          "arabic": "هما",
+          "meaning": "them (dual pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَنَّتَانِ",
+      "transliteration": "jannatāni",
+      "meaning": "two gardens",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be secluded; also refers to the essence of something"
+      },
+      "components": [
+        {
+          "arabic": "جَنَّتَانِ",
+          "meaning": "two gardens - dual form of garden with indefinite marker."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and from below-them-dual two gardens"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

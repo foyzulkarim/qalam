@@ -1,0 +1,389 @@
+{
+  "verseId": "2:170",
+  "verse": {
+    "arabic": "وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا ۗ أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ",
+    "transliteration": "Waitha qeela lahumu ittabiAAoo ma anzala Allahu qaloo bal nattabiAAu ma alfayna AAalayhi abaana awalaw kana abaohum la yaAAqiloona shayan wala yahtadoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 170
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; time, occasion"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قِيلَ",
+      "transliteration": "qīla",
+      "meaning": "was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُمُ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "they (masculine plural, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اتَّبِعُوا",
+      "transliteration": "ittabiʿū",
+      "meaning": "follow (you all)",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "اِتّـ",
+          "meaning": "prefix indicating seeking/attempting an action (form II)"
+        },
+        {
+          "arabic": "تبِع",
+          "meaning": "to follow (root form)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating plural 'you' (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun marker (introducing a nominal clause)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنزَلَ",
+      "transliteration": "ʾanzala",
+      "meaning": "was sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to (infinitive marker)"
+        },
+        {
+          "arabic": "زَلَ",
+          "meaning": "to descend, to come down"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "rather",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to reach, attain, or be contrary to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "نَتَّبِعُ",
+      "transliteration": "nattabiʿu",
+      "meaning": "we follow",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "تَتَّبِعُ",
+          "meaning": "follow, pursue (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will, relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَلْفَيْنَا",
+      "transliteration": "ʾalfaynā",
+      "meaning": "we found",
+      "root": {
+        "letters": "أ-ل-ف",
+        "meaning": "to be smooth, to join, to come together; also to count or enumerate"
+      },
+      "components": [
+        {
+          "arabic": "أَلْفَ",
+          "meaning": "a thousand"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "we (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon it (fathers)",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to be high, elevated; to bear responsibility or obligation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "آبَاءَنَا",
+      "transliteration": "ʾābāʾunā",
+      "meaning": "our fathers",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "to return, to revert; father (derived)"
+      },
+      "components": [
+        {
+          "arabic": "آبَاء",
+          "meaning": "fathers (plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۗ",
+      "transliteration": ".",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَوَلَوْ",
+      "transliteration": "ʾawlaw",
+      "meaning": "even if",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to return, to resort to, to be responsible for"
+      },
+      "components": [
+        {
+          "arabic": "أَو",
+          "meaning": "or, even"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if, were"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "آبَاؤُهُمْ",
+      "transliteration": "ʾābāʾuhum",
+      "meaning": "their fathers",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "father, ancestor"
+      },
+      "components": [
+        {
+          "arabic": "آبَاء",
+          "meaning": "fathers"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "يَعْقِلُونَ",
+      "transliteration": "yaʿqilūna",
+      "meaning": "they understand (not)",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to comprehend, intellect"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person plural or indefinite"
+        },
+        {
+          "arabic": "عَقِلُ",
+          "meaning": "to understand, to comprehend"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating masculine plural, present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "anything",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to be something, existence; thing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَلَا",
+      "transliteration": "walā",
+      "meaning": "nor",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to be averse to, to protect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "يَهْتَدُونَ",
+      "transliteration": "yah'dūna",
+      "meaning": "they are guided (not)",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense and first-person plural conjugation"
+        },
+        {
+          "arabic": "هْتَدِـ",
+          "meaning": "stem related to guidance and direction"
+        },
+        {
+          "arabic": "~ُونَ",
+          "meaning": "suffix indicating plural masculine subject (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-when was-said to-them follow what was-sent-down Allah they-said rather we-follow what we-found upon-it our-fathers. Even-if was their-fathers not they-understand anything nor they-are-guided?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

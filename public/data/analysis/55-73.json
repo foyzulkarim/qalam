@@ -1,0 +1,98 @@
+{
+  "verseId": "55:73",
+  "verse": {
+    "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "transliteration": "Fabiayyi alai rabbikuma tukaththibani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 73
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبِأَيِّ",
+      "transliteration": "fa-bi-ʾayy",
+      "meaning": "So, with which?",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "to return, to revert; questioning/interrogation"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "بِـ",
+          "meaning": "With (preposition)"
+        },
+        {
+          "arabic": "أَيٍّ",
+          "meaning": "Which? (interrogative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آلَاءِ",
+      "transliteration": "ʾālāʾi",
+      "meaning": "Favors (plural)",
+      "root": {
+        "letters": "أ-ل-و",
+        "meaning": "to return, to revert, to be high or elevated; also encompasses blessing and favor"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكُمَا",
+      "transliteration": "rabbi-kumā",
+      "meaning": "Your Lord (dual)",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كُمَا",
+          "meaning": "Your (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُكَذِّبَانِ",
+      "transliteration": "tukadhdhibāni",
+      "meaning": "Do you deny (dual)",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "Prefix indicating the second person dual present tense (feminine)"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "To deny, to falsely assert"
+        },
+        {
+          "arabic": "َانِ",
+          "meaning": "Dual pronoun suffix (you two)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-with which - of the favors - of your Lord (dual) - do you deny (dual)?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

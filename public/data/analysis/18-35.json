@@ -1,0 +1,204 @@
+{
+  "verseId": "18:35",
+  "verse": {
+    "arabic": "وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌ لِّنَفْسِهِ قَالَ مَا أَظُنُّ أَن تَبِيدَ هَـٰذِهِ أَبَدًا",
+    "transliteration": "Wadakhala jannatahu wahuwa thalimun linafsihi qala ma athunnu an tabeeda hathihi abadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "دَخَلَ",
+      "transliteration": "dakhalā",
+      "meaning": "he entered",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَنَّتَهُ",
+      "transliteration": "jannatahu",
+      "meaning": "his garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to shield; also related to the idea of lush growth and abundance due to being hidden from view"
+      },
+      "components": [
+        {
+          "arabic": "جَنَّتَ",
+          "meaning": "garden, orchard"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and he",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he, it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ظَالِمٌ",
+      "transliteration": "ẓālimun",
+      "meaning": "unjust/wrongdoer",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, darkness; to be unjust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لِّنَفْسِهِ",
+      "transliteration": "li-nafsihi",
+      "meaning": "to himself",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "نَفْسِهِ",
+          "meaning": "himself, his own self"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "utterance, speech, to speak"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "not/that",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be non-existent, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَظُنُّ",
+      "transliteration": "aẓunnu",
+      "meaning": "I think/believe",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe, to expect"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating the first person singular (I)"
+        },
+        {
+          "arabic": "ظُنُّ",
+          "meaning": "the base form of the verb 'to think/believe'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَبِيدَ",
+      "transliteration": "tabīda",
+      "meaning": "it will perish",
+      "root": {
+        "letters": "ب-ي-د",
+        "meaning": "to be destroyed, to perish, to waste away"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "هَـٰذِهِ",
+      "transliteration": "hāḏihi",
+      "meaning": "this (feminine)",
+      "root": {
+        "letters": "هـ-ذ-أ",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰذِ",
+          "meaning": "this (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "-هِ",
+          "meaning": "feminine singular suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَبَدًا",
+      "transliteration": "abadan",
+      "meaning": "ever/forever",
+      "root": {
+        "letters": "أ-ب-د",
+        "meaning": "to perish, to be destroyed; lastingness, eternity (as a negation of perishing)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he entered his garden and he while-being unjust to-himself He said not I-think that perish this ever"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

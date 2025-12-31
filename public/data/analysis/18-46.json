@@ -1,0 +1,238 @@
+{
+  "verseId": "18:46",
+  "verse": {
+    "arabic": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+    "transliteration": "Almalu waalbanoona zeenatu alhayati alddunya waalbaqiyatu alssalihatu khayrun AAinda rabbika thawaban wakhayrun amalan",
+    "surah": "Al-Kahf",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْمَالُ",
+      "transliteration": "al-māl",
+      "meaning": "wealth",
+      "root": {
+        "letters": "م-ل-ي",
+        "meaning": "possession, ownership, fullness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْبَنُونَ",
+      "transliteration": "al-bunūnu",
+      "meaning": "the sons",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to have sons"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "زِينَةُ",
+      "transliteration": "zīnatuhu",
+      "meaning": "adornment of it (masculine)",
+      "root": {
+        "letters": "ز-ي-ن",
+        "meaning": "beauty, grace, adornment"
+      },
+      "components": [
+        {
+          "arabic": "زِينَةٌ",
+          "meaning": "adornment, embellishment"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْحَيَاةِ",
+      "transliteration": "al-ḥayāti",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive, vitality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاة",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the worldly (life)",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble; to overpower, subjugate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause/separator marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْبَاقِيَاتُ",
+      "transliteration": "al-bāqiyātuhu",
+      "meaning": "the remaining ones of it (masculine)",
+      "root": {
+        "letters": "ب-ق-ي",
+        "meaning": "to remain, to endure"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَاقِيَاتُ",
+          "meaning": "remaining ones (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الصَّالِحَاتُ",
+      "transliteration": "aṣ-ṣāliḥātuhu",
+      "meaning": "the good ones of it (masculine)",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, good; to repair, mend"
+      },
+      "components": [
+        {
+          "arabic": "الصَّالِحَاتُ",
+          "meaning": "The good ones (feminine plural), the righteous deeds."
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "at/with",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to be near, to find"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbika",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, master (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ثَوَابًا",
+      "transliteration": "thawāban",
+      "meaning": "as reward",
+      "root": {
+        "letters": "ث-و-ب",
+        "meaning": "to return, to come back; to give generously or abundantly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَمَلًا",
+      "transliteration": "amalan",
+      "meaning": "as hope",
+      "root": {
+        "letters": "أ-م-ل",
+        "meaning": "desire, wish, hope"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-wealth - and - the-sons - adornment-of-it - the-life - the-worldly - pause/separator marker - and - the-remaining-ones-of-it - the-good-ones-of-it - better - at/with - your-Lord - as-reward - and - better - as-hope"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

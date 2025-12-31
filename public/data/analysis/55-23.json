@@ -1,0 +1,89 @@
+{
+  "verseId": "55:23",
+  "verse": {
+    "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "transliteration": "Fabiayyi alai rabbikuma tukaththibani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبِأَيِّ",
+      "transliteration": "fa-bi-ʾayyi",
+      "meaning": "So with which?",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "belonging to, with respect to, concerning"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "بِـ",
+          "meaning": "With, by means of (preposition)"
+        },
+        {
+          "arabic": "أَيٍّ",
+          "meaning": "Which? (interrogative pronoun, indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آلَاءِ",
+      "transliteration": "ʾālāʾi",
+      "meaning": "Favors/Blessings (plural of niʿmah)",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, agreeable; blessing, favor"
+      },
+      "components": [
+        {
+          "arabic": "آلَاء",
+          "meaning": "Favors/Blessings (plural of niʿmah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكُمَا",
+      "transliteration": "rabbi-kumā",
+      "meaning": "Your Lord (dual)"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُكَذِّبَانِ",
+      "transliteration": "tukadhdhibāni",
+      "meaning": "Do you both deny?",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "Prefix indicating the second person dual present active voice (feminine)"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "To deny, to disprove"
+        },
+        {
+          "arabic": "َانِ",
+          "meaning": "Dual pronoun suffix, 'both of you (feminine)'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-with which - of-the favors/blessings - of-your Lord-[dual] - do you both deny?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

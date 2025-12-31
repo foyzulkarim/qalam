@@ -1,0 +1,172 @@
+{
+  "verseId": "18:81",
+  "verse": {
+    "arabic": "فَأَرَدْنَا أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِّنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا",
+    "transliteration": "Faaradna an yubdilahuma rabbuhuma khayran minhu zakatan waaqraba ruhman",
+    "surah": "Al-Kahf",
+    "verseNumber": 81
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَرَدْنَا",
+      "transliteration": "fa-ʾaradnā",
+      "meaning": "So we intended/wished",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to intend, to wish, to will, to desire"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "أَرَدْنَا",
+          "meaning": "we intended/wished (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also implies intention or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُبْدِلَهُمَا",
+      "transliteration": "yubaddilahumā",
+      "meaning": "He should substitute for them",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to replace, substitute, exchange"
+      },
+      "components": [
+        {
+          "arabic": "يُبَدِّل",
+          "meaning": "He substitutes/replaces (verb form)"
+        },
+        {
+          "arabic": "هُما",
+          "meaning": "them (dual pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبُّهُمَا",
+      "transliteration": "rabbu-humā",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "ـهُمَا",
+          "meaning": "their (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "better (something)",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّنْهُ",
+      "transliteration": "min-hu",
+      "meaning": "than him/from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from, pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "زَكَاةً",
+      "transliteration": "zakātan",
+      "meaning": "purity/righteousness",
+      "root": {
+        "letters": "ز-ك-و",
+        "meaning": "growth, increase, flourishing; purity, goodness"
+      },
+      "components": [
+        {
+          "arabic": "زَكَا",
+          "meaning": "to grow, to flourish; to purify, to become righteous"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker, or noun-forming suffix indicating abstraction (to transform the verb into a concept/quality)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَأَقْرَبَ",
+      "transliteration": "wa-ʾaqraba",
+      "meaning": "and nearer/closer",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to draw close, proximity"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَقْرَبَ",
+          "meaning": "nearer, closer (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رُحْمًا",
+      "transliteration": "ruḥman",
+      "meaning": "mercy/compassion",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion; to be kind and tender"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-we intended that He should substitute-for-them their Lord better than him purity and nearer mercy."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

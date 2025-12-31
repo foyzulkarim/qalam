@@ -1,0 +1,116 @@
+{
+  "verseId": "18:67",
+  "verse": {
+    "arabic": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا",
+    "transliteration": "Qala innaka lan tastateeAAa maAAiya sabran",
+    "surah": "Al-Kahf",
+    "verseNumber": 67
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter; generally relating to conveying something through language."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّكَ",
+      "transliteration": "innaka",
+      "meaning": "Indeed you",
+      "root": {
+        "letters": "ك-ن-و",
+        "meaning": "To be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَن",
+      "transliteration": "lan",
+      "meaning": "Never",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "To refuse, to deny, to be unwilling or unable"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَسْتَطِيعَ",
+      "transliteration": "tastaṭīʿa",
+      "meaning": "You will be able to",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be able, willingness"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix denoting 'you (masculine singular)'"
+        },
+        {
+          "arabic": "سْتَ",
+          "meaning": "indicates capability or potential"
+        },
+        {
+          "arabic": "طِيعَ",
+          "meaning": "derived from the root ط-و-ع, meaning ability or willingness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَعِيَ",
+      "transliteration": "maʿiya",
+      "meaning": "With me",
+      "root": {
+        "letters": "ع-ي-ي",
+        "meaning": "Possession, company, being present with"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "With"
+        },
+        {
+          "arabic": "يَ",
+          "meaning": "Me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "صَبْرًا",
+      "transliteration": "ṣabran",
+      "meaning": "Patience/Endurance",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "To endure, to bear with fortitude, patience."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said - Indeed-you - Never - You-will-be-able-to - With-me - Patience."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

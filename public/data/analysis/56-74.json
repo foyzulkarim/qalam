@@ -1,0 +1,90 @@
+{
+  "verseId": "56:74",
+  "verse": {
+    "arabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+    "transliteration": "Fasabbih biismi rabbika alAAatheemi",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 74
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَبِّحْ",
+      "transliteration": "fasabbiḥ",
+      "meaning": "So exalt, therefore glorify",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, flow; to praise, glorify"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِاسْمِ",
+      "transliteration": "bismī",
+      "meaning": "with the name of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, height; reputation, high status"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "اسْمِ",
+          "meaning": "the name (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَظِيمِ",
+      "transliteration": "al-ʿaẓīm",
+      "meaning": "the Great, the Most Great",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, to be large, to be mighty"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيم",
+          "meaning": "great, mighty"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-glorify with-the-name-of your-Lord the-Great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

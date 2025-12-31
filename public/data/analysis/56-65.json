@@ -1,0 +1,116 @@
+{
+  "verseId": "56:65",
+  "verse": {
+    "arabic": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+    "transliteration": "Law nashao lajaAAalnahu hutaman fathaltum tafakkahoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 65
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if, were it not for",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, will, wanting"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَشَاءُ",
+      "transliteration": "nashāʾu",
+      "meaning": "We willed, We desire",
+      "root": {
+        "letters": "ن-ش-أ",
+        "meaning": "to originate, to grow, to arise; to intend, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَجَعَلْنَاهُ",
+      "transliteration": "la-jaʿalnāhu",
+      "meaning": "We would certainly make it",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to make, to create, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "conditional particle, 'if', 'were'"
+        },
+        {
+          "arabic": "جَعَلْنَاهُ",
+          "meaning": "We would make it (verb + pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حُطَامًا",
+      "transliteration": "ḥuṭāman",
+      "meaning": "debris, straw, dust",
+      "root": {
+        "letters": "ح-ط-م",
+        "meaning": "to break, to shatter, to destroy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَظَلْتُمْ",
+      "transliteration": "fa-ẓalltum",
+      "meaning": "then you would remain",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to be lost; to remain (in a state)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "ـظَلْتُمْ",
+          "meaning": "you remained (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَفَكَّهُونَ",
+      "transliteration": "tafakkarūna",
+      "meaning": "wondering, reflecting, pondering",
+      "root": {
+        "letters": "ف-ك-ر",
+        "meaning": "to think, to reflect, to ponder"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a causative or iterative sense"
+        },
+        {
+          "arabic": "فَكَّـ",
+          "meaning": "reflect, ponder (based on the root ف-ك-ر)"
+        },
+        {
+          "arabic": "ـونَ",
+          "meaning": "suffix indicating a plural active participle (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "If-We willed-[then]-We would certainly make it debris-and you-would remain wondering"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

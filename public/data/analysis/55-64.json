@@ -1,0 +1,30 @@
+{
+  "verseId": "55:64",
+  "verse": {
+    "arabic": "مُدْهَامَّتَانِ",
+    "transliteration": "Mudhammatani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 64
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مُدْهَامَّتَانِ",
+      "transliteration": "mudhāmmatānī",
+      "meaning": "dark green (dual form)",
+      "root": {
+        "letters": "د-ه-م",
+        "meaning": "darkness, obscurity; to be dark or gloomy"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "dark-green-dual"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

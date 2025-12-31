@@ -1,0 +1,232 @@
+{
+  "verseId": "18:36",
+  "verse": {
+    "arabic": "وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّي لَأَجِدَنَّ خَيْرًا مِّنْهَا مُنقَلَبًا",
+    "transliteration": "Wama athunnu alssaAAata qaimatan walain rudidtu ila rabbee laajidanna khayran minha munqalaban",
+    "surah": "Al-Kahf",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, related to water (in some dialects)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "not, what (depending on context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَظُنُّ",
+      "transliteration": "ʾaẓunnu",
+      "meaning": "I think, I assume",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first-person singular present tense"
+        },
+        {
+          "arabic": "ظُنُّ",
+          "meaning": "source form of thinking/believing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّاعَةَ",
+      "transliteration": "as-sāʿata",
+      "meaning": "the Hour, the Day of Judgement",
+      "root": {
+        "letters": "س-ع-ت",
+        "meaning": "to hasten, to strive, to make an effort; also, to burn or scorch"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَائِمَةً",
+      "transliteration": "qāʾimatan",
+      "meaning": "standing, occurring, about to happen",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand, to be erect"
+      },
+      "components": [
+        {
+          "arabic": "قَائِم",
+          "meaning": "standing, active participle"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite accusative marker, indicates state or manner"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَئِن",
+      "transliteration": "wa laʾin",
+      "meaning": "and indeed if, and even if",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "to yield, to soften, to be pliant; also associated with conditions and oaths"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "particle emphasizing the condition or oath, similar to 'indeed'"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رُدِدتُّ",
+      "transliteration": "rudidtu",
+      "meaning": "I am returned, I be brought back",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to revert, to repel"
+      },
+      "components": [
+        {
+          "arabic": "رُدِدتُ",
+          "meaning": "I was returned, I have been brought back (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, belong to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbi",
+      "meaning": "my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَأَجِدَنَّ",
+      "transliteration": "laʾajidanna",
+      "meaning": "I will surely find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to seek, to find, to strive for"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "particle of emphasis, surely"
+        },
+        {
+          "arabic": "أَجِدَنَّ",
+          "meaning": "I will find (future tense, emphatic)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "better, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِّنْهَا",
+      "transliteration": "minhā",
+      "meaning": "than it, from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, than"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مُنْقَلَبًا",
+      "transliteration": "munqalaban",
+      "meaning": "as a return, returned (state)",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change, to revert"
+      },
+      "components": [
+        {
+          "arabic": "مُنْ",
+          "meaning": "passive participle prefix indicating 'being acted upon'"
+        },
+        {
+          "arabic": "قَلَبًا",
+          "meaning": "turning, reverting, returning (noun form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not I-think the-Hour occurring and-indeed if I-be-returned to-my Lord surely-I-find better than-it as-a-return"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "verseId": "18:42",
+  "verse": {
+    "arabic": "وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَا أَنفَقَ فِيهَا وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَا لَيْتَنِي لَمْ أُشْرِكْ بِرَبِّي أَحَدًا",
+    "transliteration": "Waoheeta bithamarihi faasbaha yuqallibu kaffayhi AAala ma anfaqa feeha wahiya khawiyatun AAala AAurooshiha wayaqoolu ya laytanee lam oshrik birabbee ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأُحِيطَ",
+      "transliteration": "waʾuḥīṭa",
+      "meaning": "and it was encompassed/surrounded",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to surround, encompass, go around"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُحِيطَ",
+          "meaning": "it was surrounded/encompassed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِثَمَرِهِ",
+      "transliteration": "bi-thimarihi",
+      "meaning": "with his fruit",
+      "root": {
+        "letters": "ث-م-ر",
+        "meaning": "to bear fruit, to produce"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ثَمَرِهِ",
+          "meaning": "his fruit (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَأَصْبَحَ",
+      "transliteration": "faʾaṣbaḥa",
+      "meaning": "so he became/and he awoke",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to become, to awaken, morning"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَصْبَحَ",
+          "meaning": "he became/awoke (verb in past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُقَلِّبُ",
+      "transliteration": "yuqallibu",
+      "meaning": "he turns/flips",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change, to reverse"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense, active voice (first person singular or third person masculine)"
+        },
+        {
+          "arabic": "قَلَّبَ",
+          "meaning": "to turn, to flip, to reverse (basic verb form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah, indicating vowelization and grammatical function within the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَفَّيْهِ",
+      "transliteration": "kaffayhi",
+      "meaning": "his two hands",
+      "root": {
+        "letters": "ك-ف-ف",
+        "meaning": "to restrain, to suffice, to be enough"
+      },
+      "components": [
+        {
+          "arabic": "كَفَّ",
+          "meaning": "his two hands (genitive)"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَىٰ مَا أَنفَقَ",
+      "transliteration": "ʿalā mā ʾanfaqa",
+      "meaning": "upon what he spent",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, spend, or use up (resources)"
+      },
+      "components": [
+        {
+          "arabic": "عَلَىٰ",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        },
+        {
+          "arabic": "أَنفَقَ",
+          "meaning": "he spent, he expended"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it/thereon",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَهِيَ",
+      "transliteration": "wa-hiya",
+      "meaning": "and it was/while it was",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to be, exist"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هِيَ",
+          "meaning": "it is/she is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "خَاوِيَةٌ",
+      "transliteration": "khāwiyahٌ",
+      "meaning": "empty/ruined",
+      "root": {
+        "letters": "خ-و-ي",
+        "meaning": "to be empty, to lack, to fall into ruin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَىٰ عُرُوشِهَا",
+      "transliteration": "ʿalā ʿurūshihā",
+      "meaning": "upon its trellises/supports",
+      "root": {
+        "letters": "ع-ر-ش",
+        "meaning": "throne, dominion, stability; to establish firmly"
+      },
+      "components": [
+        {
+          "arabic": "عَلَىٰ",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "عُرُوشِهَا",
+          "meaning": "its trellises, its supports; possessive suffix indicating 'its'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَيَقُولُ",
+      "transliteration": "wa-yaqūlu",
+      "meaning": "and he says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقُولُ",
+          "meaning": "he says"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَا لَيْتَنِي",
+      "transliteration": "yā laytanī",
+      "meaning": "Oh, I wish that I",
+      "root": {
+        "letters": "ل-ي-ت",
+        "meaning": "softening, weakening; wishing for something unattainable"
+      },
+      "components": [
+        {
+          "arabic": "يَا",
+          "meaning": "Oh (vocative particle)"
+        },
+        {
+          "arabic": "لَيْتَنِي",
+          "meaning": "I wish that I"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَمْ أُشْرِكْ",
+      "transliteration": "lam ʾushrika",
+      "meaning": "did not associate/join (partners)",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (in partnership), to ascribe partners (to God)"
+      },
+      "components": [
+        {
+          "arabic": "لَمْ",
+          "meaning": "did not (negation particle)"
+        },
+        {
+          "arabic": "أُشْرِكْ",
+          "meaning": "I associate/join (partners)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِرَبِّي",
+      "transliteration": "bi-rabbī",
+      "meaning": "with my Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "رَبِّي",
+          "meaning": "my Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَحَدًا",
+      "transliteration": "ʾaḥadan",
+      "meaning": "anyone/one",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "unique, one, solitary"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the definite article 'the'"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "one, unity"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-it-was-encompassed with-his-fruit so-he-became he-turns his-two-hands upon what he spent in-it and-it was empty upon its-trellises and-he-says Oh-I-wish that-I not-associated with-my-Lord anyone."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

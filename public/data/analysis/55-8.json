@@ -1,0 +1,85 @@
+{
+  "verseId": "55:8",
+  "verse": {
+    "arabic": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+    "transliteration": "Alla tatghaw fee almeezani",
+    "surah": "Ar-Rahman",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَّا",
+      "transliteration": "ʾallā",
+      "meaning": "That not",
+      "root": {
+        "letters": "ل-و-ا",
+        "meaning": "to will, desire, or refuse"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "particle of negation or prohibition"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَطْغَوْا",
+      "transliteration": "taṭghawā",
+      "meaning": "You (plural) transgress/exceed",
+      "root": {
+        "letters": "ط-غ-ي",
+        "meaning": "To exceed, to transgress, to overflow; arrogance, insolence."
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix indicating the second person plural masculine active voice."
+        },
+        {
+          "arabic": "طَغَـ",
+          "meaning": "Root of the verb meaning to exceed or transgress."
+        },
+        {
+          "arabic": "ـوَا",
+          "meaning": "Suffix indicating the second person plural masculine."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go within, to be contained in."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمِيزَانِ",
+      "transliteration": "al-mīzān",
+      "meaning": "The balance",
+      "root": {
+        "letters": "م-ي-ز",
+        "meaning": "to weigh, to balance; justice"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "That-not you-plural transgress in the-balance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "verseId": "55:24",
+  "verse": {
+    "arabic": "وَلَهُ الْجَوَارِ الْمُنشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ",
+    "transliteration": "Walahu aljawari almunshaatu fee albahri kaalaAAlami",
+    "surah": "Ar-Rahman",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَهُ",
+      "transliteration": "wa-lahu",
+      "meaning": "and to Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "to Him, for Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَوَارِ",
+      "transliteration": "al-jawāri",
+      "meaning": "the ships",
+      "root": {
+        "letters": "ج-و-ر",
+        "meaning": "to surround, to protect, to be near"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُنشَآتُ",
+      "transliteration": "al-munshaʾātu",
+      "meaning": "the elevated ones / the ships with sails",
+      "root": {
+        "letters": "ش-ي-ع",
+        "meaning": "to rise, to ascend, to establish"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُنْشَآتُ",
+          "meaning": "elevated things, structures raised up; ships with sails (passive participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْبَحْرِ",
+      "transliteration": "al-baḥri",
+      "meaning": "the sea",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to swell, to overflow; the sea (as a large body of water)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَحْرٍ",
+          "meaning": "sea (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَالْأَعْلَامِ",
+      "transliteration": "ka-l-aʿlāmi",
+      "meaning": "like the mountains / as mountains",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware; mark, sign, landmark"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الأَعْلَامِ",
+          "meaning": "the mountains / the landmarks (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-to Him the-ships the-elevated-ones in the-sea like-the-mountains"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "verseId": "55:68",
+  "verse": {
+    "arabic": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+    "transliteration": "Feehima fakihatun wanakhlun warummanun",
+    "surah": "Ar-Rahman",
+    "verseNumber": 68
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهِمَا",
+      "transliteration": "fīhimā",
+      "meaning": "in them (dual)",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to be in, to contain, to possess"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَاكِهَةٌ",
+      "transliteration": "fākihatun",
+      "meaning": "fruit",
+      "root": {
+        "letters": "ف-ك-ه",
+        "meaning": "to be sweet, to ripen; abundance, ease"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَنَخْلٌ",
+      "transliteration": "wanakhlun",
+      "meaning": "and palm trees",
+      "root": {
+        "letters": "ن-خ-ل",
+        "meaning": "to be soft, tender; to grow; palm tree"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَخْلٌ",
+          "meaning": "palm trees"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَرُمَّانٌ",
+      "transliteration": "warummānun",
+      "meaning": "and pomegranates",
+      "root": {
+        "letters": "ر-م-ن",
+        "meaning": "to flourish, to be rich, abundance; also related to redness and softness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-them fruit and palm-trees and pomegranates"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

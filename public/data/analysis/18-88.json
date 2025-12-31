@@ -1,0 +1,241 @@
+{
+  "verseId": "18:88",
+  "verse": {
+    "arabic": "وَأَمَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا فَلَهُ جَزَاءً الْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْرًا",
+    "transliteration": "Waamma man amana waAAamila salihan falahu jazaan alhusna wasanaqoolu lahu min amrina yusran",
+    "surah": "Al-Kahf",
+    "verseNumber": 88
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "as for, but concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to will, to take aim at"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure; also indicates questioning or uncertainty."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنَ",
+      "transliteration": "ʾāmāna",
+      "meaning": "believed, faith (verb)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trustworthiness, protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَعَمِلَ",
+      "transliteration": "waʿamila",
+      "meaning": "and he worked, and did",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, to work"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَمِلَ",
+          "meaning": "he worked, he did"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "صَالِحًا",
+      "transliteration": "ṣāliḥan",
+      "meaning": "righteousness, good deed (accusative)",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, sound, well"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَلَهُ",
+      "transliteration": "falahu",
+      "meaning": "then for him, so to him",
+      "root": {
+        "letters": "ف-ل-ي",
+        "meaning": "to obtain, to succeed, good fortune"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "for him, to him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَزَاءً",
+      "transliteration": "jazāʾan",
+      "meaning": "reward, recompense (accusative)",
+      "root": {
+        "letters": "ج-ز-ي",
+        "meaning": "to recompense, to reward; to benefit or favor"
+      },
+      "components": [
+        {
+          "arabic": "جَزَاءً",
+          "meaning": "reward, recompense (accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْحُسْنَىٰ",
+      "transliteration": "al-ḥusnā",
+      "meaning": "the best, the goodness (definite)",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حُسْنَىٰ",
+          "meaning": "goodness, excellence (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۖ",
+      "transliteration": "[pause marker]",
+      "meaning": "[no lexical meaning]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَسَنَقُولُ",
+      "transliteration": "wa-sanuqūlu",
+      "meaning": "and we will say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَ",
+          "meaning": "future particle (prefix indicating future tense)"
+        },
+        {
+          "arabic": "نَقُولُ",
+          "meaning": "we will say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to him, for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَمْرِنَا",
+      "transliteration": "amrinā",
+      "meaning": "our command, our affair (genitive)",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, affair, matter"
+      },
+      "components": [
+        {
+          "arabic": "أمر",
+          "meaning": "command, affair"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يُسْرًا",
+      "transliteration": "yusran",
+      "meaning": "ease, facility (accusative)",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, facility, looseness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-but concerning who-believed and-he worked righteousness then-for him reward the-best and-we will say to-him from command-our ease"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

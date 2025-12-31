@@ -1,0 +1,195 @@
+{
+  "verseId": "18:93",
+  "verse": {
+    "arabic": "حَتَّىٰ إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
+    "transliteration": "Hatta itha balagha bayna alssaddayni wajada min doonihima qawman la yakadoona yafqahoona qawlan",
+    "surah": "Al-Kahf",
+    "verseNumber": 93
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to decline or weaken"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَلَغَ",
+      "transliteration": "balagha",
+      "meaning": "he reached, he attained",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to reach, to attain, to become full"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be distinct, separate; to exist; middle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "السَّدَّيْنِ",
+      "transliteration": "as-saddayni",
+      "meaning": "the two mountains, the two barriers",
+      "root": {
+        "letters": "س-د-ي",
+        "meaning": "to obstruct, to prevent, to block; firmness, strength"
+      },
+      "components": [
+        {
+          "arabic": "السَّدّ",
+          "meaning": "the barrier, the obstruction, the mountain"
+        },
+        {
+          "arabic": "يْنِ",
+          "meaning": "dual ending; indicates two of something"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَجَدَ",
+      "transliteration": "wajada",
+      "meaning": "he found",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to obtain, to come upon, to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِن دُونِهِمَا",
+      "transliteration": "min dūnihimā",
+      "meaning": "beside them, near them",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to be humble; beneath, below"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, beside"
+        },
+        {
+          "arabic": "دُونِهِمَا",
+          "meaning": "beside them, near them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قَوْمًا",
+      "transliteration": "qawman",
+      "meaning": "a people, a nation",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; a people, tribe, nation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَكَادُونَ",
+      "transliteration": "yakādūna",
+      "meaning": "they hardly, they are close to not",
+      "root": {
+        "letters": "ك-د-و",
+        "meaning": "to strive, to be close to doing something"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and a non-first person subject"
+        },
+        {
+          "arabic": "كَادَ",
+          "meaning": "to be close to, almost"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix denoting plural masculine subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَفْقَهُونَ",
+      "transliteration": "yafqahūna",
+      "meaning": "they understand",
+      "root": {
+        "letters": "ف-ق-ه",
+        "meaning": "to understand, to be knowledgeable"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "فَقَهُ",
+          "meaning": "understanding, knowledge"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "dual or plural suffix (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَوْلًا",
+      "transliteration": "qawlan",
+      "meaning": "speech, a saying",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter; speech"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "until-when he-reached between the-two-mountains he-found from beside-them a-people not they-hardly understand speech"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

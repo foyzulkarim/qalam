@@ -1,0 +1,124 @@
+{
+  "verseId": "56:90",
+  "verse": {
+    "arabic": "وَأَمَّا إِن كَانَ مِنْ أَصْحَابِ الْيَمِينِ",
+    "transliteration": "Waamma in kana min ashabi alyameeni",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 90
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, linking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but, as for",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to take aim at"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "اِنْ",
+          "meaning": "conditional particle, introducing a condition or affirmation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَصْحَابِ",
+      "transliteration": "aṣḥābi",
+      "meaning": "companions of (genitive plural)",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to associate with"
+      },
+      "components": [
+        {
+          "arabic": "أَصْحَابِ",
+          "meaning": "companions (possessive, genitive plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْيَمِينِ",
+      "transliteration": "al-yamīni",
+      "meaning": "the right (side)",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, power, blessing; to strengthen"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَمِينِ",
+          "meaning": "right (side)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - but as for - if - was - from - companions of - the right"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

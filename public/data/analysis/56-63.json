@@ -1,0 +1,78 @@
+{
+  "verseId": "56:63",
+  "verse": {
+    "arabic": "أَفَرَأَيْتُم مَّا تَحْرُثُونَ",
+    "transliteration": "Afaraaytum ma tahruthoona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 63
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَرَأَيْتُم",
+      "transliteration": "ʾafaraʾaytumu",
+      "meaning": "Have you seen? / Did you perceive?",
+      "root": {
+        "letters": "ر-أ-ى",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "فَرَ",
+          "meaning": "conjunction, often used to emphasize the question or introduce a new idea related to the previous one"
+        },
+        {
+          "arabic": "أَيْتُم",
+          "meaning": "you (plural) have seen/perceived"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "That which / What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will, relation/connection (often used as a relative pronoun marker)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَحْرُثُونَ",
+      "transliteration": "taḥruthūna",
+      "meaning": "You sow / You cultivate",
+      "root": {
+        "letters": "ح-ر-ث",
+        "meaning": "to cultivate, to plow, to sow"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating 'you' (masculine plural)"
+        },
+        {
+          "arabic": "حَرَّث",
+          "meaning": "to cultivate, to plow"
+        },
+        {
+          "arabic": "~تُونَ",
+          "meaning": "suffix indicating 'you' (masculine plural) - present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-seen what you-sow?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

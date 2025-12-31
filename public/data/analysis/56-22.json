@@ -1,0 +1,41 @@
+{
+  "verseId": "56:22",
+  "verse": {
+    "arabic": "وَحُورٌ عِينٌ",
+    "transliteration": "Wahoorun AAeenun",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَحُورٌ",
+      "transliteration": "wa ḥūrun",
+      "meaning": "and fair women (plural)",
+      "root": {
+        "letters": "ح-و-ر",
+        "meaning": "to be white, beautiful; fairness, whiteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عِينٌ",
+      "transliteration": "ʿaynun",
+      "meaning": "large-eyed (feminine singular)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye, source, spring"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - fair women - large-eyed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

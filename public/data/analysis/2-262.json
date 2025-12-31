@@ -1,0 +1,418 @@
+{
+  "verseId": "2:262",
+  "verse": {
+    "arabic": "الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ ثُمَّ لَا يُتْبِعُونَ مَا أَنفَقُوا مَنًّا وَلَا أَذًى ۙ لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "transliteration": "Allatheena yunfiqoona amwalahum fee sabeeli Allahi thumma la yutbiAAoona ma anfaqoo mannan wala athan lahum ajruhum AAinda rabbihim wala khawfun AAalayhim wala hum yahzanoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 262
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "The ones who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to have, to own; relative pronoun indicating a group of people"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُنفِقُونَ",
+      "transliteration": "yunfiqūna",
+      "meaning": "They spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "To expend, to spend, to exhaust"
+      },
+      "components": [
+        {
+          "arabic": "يُنـ",
+          "meaning": "They (masculine plural) - prefix indicating present/future tense and subject pronoun"
+        },
+        {
+          "arabic": "فِق",
+          "meaning": "Spend, expend - root relating to spending"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "They (masculine plural) - suffix indicating present/future tense and subject pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَمْوَالَهُمْ",
+      "transliteration": "amwālahum",
+      "meaning": "Their wealths",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; wealth"
+      },
+      "components": [
+        {
+          "arabic": "أمْوَال",
+          "meaning": "wealths (plural of مَال)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix indicating possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "The way of",
+      "root": {
+        "letters": "س-ب-و",
+        "meaning": "to flow, to go on a path; way, road, course"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to be worshipped, divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "Then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; continuation, sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُتْبِعُونَ",
+      "transliteration": "yutbiʿūna",
+      "meaning": "They follow up",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, active voice, and third-person plural"
+        },
+        {
+          "arabic": "تَبِع",
+          "meaning": "to follow, to pursue"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the third-person plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (in a general sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنفَقُوا",
+      "transliteration": "anfaqū",
+      "meaning": "They spent",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to exhaust"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to/in order to"
+        },
+        {
+          "arabic": "فَقُوا",
+          "meaning": "they spent (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَنًّا",
+      "transliteration": "mannan",
+      "meaning": "A favor/boasting",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to bestow, grant, or be gracious; also to count or reckon (as in favors)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَذًى",
+      "transliteration": "adhan",
+      "meaning": "Harm/Injury",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "To harm, injure; to suffer pain or distress."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۙ",
+      "transliteration": "",
+      "meaning": "Pause mark",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَّهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "to possess, to have; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَجْرُهُمْ",
+      "transliteration": "ajruhum",
+      "meaning": "Their reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward; the recompense itself"
+      },
+      "components": [
+        {
+          "arabic": "أَجْرُ",
+          "meaning": "reward, compensation"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "Near/With",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "Possession, location, time"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "Near, with, at the place of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbihem",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "خَوْفٌ",
+      "transliteration": "khawfun",
+      "meaning": "Fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "To fear, to be afraid; apprehension, dread."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "To be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "يَحْزَنُونَ",
+      "transliteration": "yahzanūna",
+      "meaning": "They grieve",
+      "root": {
+        "letters": "ح-ز-ن",
+        "meaning": "sadness, grief, distress"
+      },
+      "components": [
+        {
+          "arabic": "يَحْزُنُ",
+          "meaning": "he grieves"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-ones-who spend wealths-of-them in way-of Allah then not they-follow-up what they-spent favor and nor harm - for them reward-of-them near Lord-of-them and nor fear upon them and nor they grieve."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

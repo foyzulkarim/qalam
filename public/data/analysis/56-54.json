@@ -1,0 +1,81 @@
+{
+  "verseId": "56:54",
+  "verse": {
+    "arabic": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
+    "transliteration": "Fashariboona AAalayhi mina alhameemi",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 54
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَشَارِبُونَ",
+      "transliteration": "fa-shāribūna",
+      "meaning": "So, drinkers",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorb"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "شَارِبُونَ",
+          "meaning": "Drinkers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "Upon it / over it",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate, to ascend; superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From (of)",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَمِيمِ",
+      "transliteration": "al-ḥamīmi",
+      "meaning": "The scalding water / the hot water",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "Praise, warmth, redness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-drinkers -upon it -from the -scalding water"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

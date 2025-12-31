@@ -1,0 +1,130 @@
+{
+  "verseId": "18:91",
+  "verse": {
+    "arabic": "كَذَٰلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
+    "transliteration": "Kathalika waqad ahatna bima ladayhi khubran",
+    "surah": "Al-Kahf",
+    "verseNumber": 91
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲hālika",
+      "meaning": "thus, in such a manner",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to guide"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like that"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that one, that thing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَقَدْ",
+      "transliteration": "wa qad",
+      "meaning": "and indeed, and already",
+      "root": {
+        "letters": "ق-د-ع",
+        "meaning": "to be able, to have power, to fulfill (a need)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed, already"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَحَطْنَا",
+      "transliteration": "aḥaṭnā",
+      "meaning": "We encompassed, We surrounded",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to surround, encompass, contain"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating first person plural (we)"
+        },
+        {
+          "arabic": "حَطَنَا",
+          "meaning": "we surrounded (derived from the root ح-ط-و)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَا",
+      "transliteration": "bi mā",
+      "meaning": "with what, by that which",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be, to exist; what is (relative pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَدَيْهِ",
+      "transliteration": "ladayhi",
+      "meaning": "with him, near him, at his disposal",
+      "root": {
+        "letters": "د-ي-و",
+        "meaning": "to possess, to have, to keep"
+      },
+      "components": [
+        {
+          "arabic": "لَدَى",
+          "meaning": "near, at, with"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "خُبْرًا",
+      "transliteration": "khubran",
+      "meaning": "knowledge, information, awareness",
+      "root": {
+        "letters": "خ-ب-ر",
+        "meaning": "to know, to be aware, to report"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "thus - and indeed - We encompassed - with what - near him - knowledge"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

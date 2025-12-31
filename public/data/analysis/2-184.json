@@ -1,0 +1,609 @@
+{
+  "verseId": "2:184",
+  "verse": {
+    "arabic": "أَيَّامًا مَّعْدُودَاتٍ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ۖ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُ ۚ وَأَن تَصُومُوا خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+    "transliteration": "Ayyaman maAAdoodatin faman kana minkum mareedan aw AAala safarin faAAiddatun min ayyamin okhara waAAala allatheena yuteeqoonahu fidyatun taAAamu miskeenin faman tatawwaAAa khayran fahuwa khayrun lahu waan tasoomoo khayrun lakum in kuntum taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 184
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَيَّامًا",
+      "transliteration": "ʾayyāman",
+      "meaning": "days",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, to pass of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّعْدُودَاتٍ",
+      "transliteration": "maʿdūdāt",
+      "meaning": "counted, numbered",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to enumerate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamu mā hī",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation particle"
+        },
+        {
+          "arabic": "تعلمون",
+          "meaning": "you do not know"
+        },
+        {
+          "arabic": "ما",
+          "meaning": "what/that which"
+        },
+        {
+          "arabic": "هي",
+          "meaning": "it/she (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whosoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, is (copula)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِنكُم",
+      "transliteration": "minkum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate from, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَّرِيضًا",
+      "transliteration": "marīḍan",
+      "meaning": "sick, ill",
+      "root": {
+        "letters": "م-ض-د",
+        "meaning": "to be weak, to suffer hardship, to need help"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining; also implies opposition or alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "سَفَرٍ",
+      "transliteration": "safarin",
+      "meaning": "journey",
+      "root": {
+        "letters": "س-ف-ر",
+        "meaning": "to travel, to journey"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَعِدَّةٌ",
+      "transliteration": "fa-ʿiddatun",
+      "meaning": "so a number/compensation",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, number"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "عِدَّةٌ",
+          "meaning": "a number, a period (of waiting)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, restrain, or be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَيَّامٍ",
+      "transliteration": "ʾayyāmin",
+      "meaning": "days",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أُخَرَ",
+      "transliteration": "ʾukhrā",
+      "meaning": "other, later",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after, the end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamu mā hī",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَعَلَى",
+      "transliteration": "wa-ʿalā",
+      "meaning": "and upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate, to ascend"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ي-ن",
+        "meaning": "possession, owner, having quality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يُطِيقُونَهُ",
+      "transliteration": "yuṭīqūnahu",
+      "meaning": "are able to do it, can bear it",
+      "root": {
+        "letters": "ط-ي-ق",
+        "meaning": "to be able, to suffice, to bear"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "طِيق",
+          "meaning": "ability, capacity (from the root ط-ي-ق)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural) - suffix indicating subject and number"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it - pronoun referring to the action or object"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فِدْيَةٌ",
+      "transliteration": "fidyatun",
+      "meaning": "ransom, compensation",
+      "root": {
+        "letters": "ف-د-ي",
+        "meaning": "to redeem, to substitute, to give as compensation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "طَعَامُ",
+      "transliteration": "ṭaʿāmu",
+      "meaning": "food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, nourishment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مِسْكِينٍ",
+      "transliteration": "miskīnin",
+      "meaning": "poor person, needy one",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "weakness, poverty; to be in need or distress"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ۖ",
+      "transliteration": "lā taʿlamu mā hī",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "negation particle"
+        },
+        {
+          "arabic": "تَعْلَمُ",
+          "meaning": "you know (present tense, masculine singular)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        },
+        {
+          "arabic": "هِيَ",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "تَطَوَّعَ",
+      "transliteration": "taṭawwaʿa",
+      "meaning": "volunteered, did extra willingly",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be pliable, to submit willingly"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a causative or intensifying form (Form IV)"
+        },
+        {
+          "arabic": "طَوَّعَ",
+          "meaning": "to make pliable, to enable or allow something willingly"
+        },
+        {
+          "arabic": "عَ",
+          "meaning": "pronoun suffix indicating 'self' (first person singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "goodness, a good deed",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَهُوَ",
+      "transliteration": "fa-huwa",
+      "meaning": "then it is he",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to return, to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he, it is he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, excellence, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "لَّهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamu mā hī",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "وَأَن",
+      "transliteration": "wa-ʾan",
+      "meaning": "and that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَن",
+          "meaning": "that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "تَصُومُوا",
+      "transliteration": "taṣūmū",
+      "meaning": "you fast",
+      "root": {
+        "letters": "ص-و-م",
+        "meaning": "abstinence, to fast"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the 'you' (masculine plural) form of the verb"
+        },
+        {
+          "arabic": "صُوم",
+          "meaning": "fasting (verbal noun)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating the 'you' (masculine plural) form of the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "best, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, perfect; to possess"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "ۖ",
+      "transliteration": "lā taʿlamu mā hī",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        },
+        {
+          "arabic": "هِي",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if, indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, became"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "to be"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūna",
+      "meaning": "you know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know, to be aware (root)"
+        },
+        {
+          "arabic": "ُون",
+          "meaning": "suffix indicating the second person masculine plural (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "days - counted - so-whoever - from-among-you - sick/ill - or - upon - journey - then - a-number/compensation - from - days - other - and-upon - those-who - are-able-to-do-it - ransom/compensation - food - poor-person - so-whoever - volunteered - goodness - then-it-is-he - better - for-him - and-that - you-fast - better - for-you - if - you-are - you-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

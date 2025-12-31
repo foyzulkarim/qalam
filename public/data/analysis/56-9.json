@@ -1,0 +1,97 @@
+{
+  "verseId": "56:9",
+  "verse": {
+    "arabic": "وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ",
+    "transliteration": "Waashabu almashamati ma ashabu almashamati",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "ʾaṣḥābu",
+      "meaning": "companions, followers",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَشْأَمَةِ",
+      "transliteration": "al-mashʾamati",
+      "meaning": "the left side, the unfortunate ones",
+      "root": {
+        "letters": "ش-أ-م",
+        "meaning": "to be on the left; inclination, misfortune"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "مَشْأَمَةٍ",
+          "meaning": "left side, unfortunate ones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, interrogative particle",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "ʾaṣḥābu",
+      "meaning": "companions, followers",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمَشْأَمَةِ",
+      "transliteration": "al-mashʾamati",
+      "meaning": "the left side, the unfortunate ones",
+      "root": {
+        "letters": "ش-أ-م",
+        "meaning": "to be on the left, to incline towards something (often negative)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "مَشْأَمَة",
+          "meaning": "left side, unlucky ones; derived from the root and indicating something associated with misfortune or ill omen"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - companions-of the left side - what - companions-of the left side"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

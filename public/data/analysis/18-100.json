@@ -1,0 +1,109 @@
+{
+  "verseId": "18:100",
+  "verse": {
+    "arabic": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِّلْكَافِرِينَ عَرْضًا",
+    "transliteration": "WaAAaradna jahannama yawmaithin lilkafireena AAardan",
+    "surah": "Al-Kahf",
+    "verseNumber": 100
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَرَضْنَا",
+      "transliteration": "ʿaraḍnā",
+      "meaning": "We presented/displayed",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to display, to offer"
+      },
+      "components": [
+        {
+          "arabic": "عَر",
+          "meaning": "presentation, offering"
+        },
+        {
+          "arabic": "ضنَا",
+          "meaning": "we offered/presented (first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَهَنَّمَ",
+      "transliteration": "jahan-nama",
+      "meaning": "Hell",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "hidden, concealed; intensity, severity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma-ʾidhīn",
+      "meaning": "that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time), then"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّلْكَافِرِينَ",
+      "transliteration": "lil-kāfirīna",
+      "meaning": "for the disbelievers/unbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny or disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "لْكَافِرِينَ",
+          "meaning": "the disbelievers/unbelievers (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَرْضًا",
+      "transliteration": "ʿarḍan",
+      "meaning": "display/presentation",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to show, to offer"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - We-presented - Hell - that-Day - for-the-disbelievers - display"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

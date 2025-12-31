@@ -1,0 +1,403 @@
+{
+  "verseId": "2:271",
+  "verse": {
+    "arabic": "إِن تُبْدُوا الصَّدَقَاتِ فَنِعِمَّا هِيَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَاءَ فَهُوَ خَيْرٌ لَّكُمْ ۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّئَاتِكُمْ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+    "transliteration": "In tubdoo alssadaqati faniAAimma hiya wain tukhfooha watutooha alfuqaraa fahuwa khayrun lakum wayukaffiru AAankum min sayyiatikum waAllahu bima taAAmaloona khabeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 271
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "Indeed; if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle of emphasis/strengthening; often indicating affirmation or condition"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "particle of affirmation/conjunction; often used to introduce conditions or oaths"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُبْدُوا",
+      "transliteration": "tubdū",
+      "meaning": "You reveal; you disclose",
+      "root": {
+        "letters": "ب-د-و",
+        "meaning": "to become apparent, to manifest, to be visible"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person masculine plural present tense"
+        },
+        {
+          "arabic": "بْدُ",
+          "meaning": "the root itself, indicating revealing or disclosing"
+        },
+        {
+          "arabic": "و",
+          "meaning": "vowel marking the present tense and connecting the verb to its subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الصَّدَقَاتِ",
+      "transliteration": "aṣ-ṣadaqāti",
+      "meaning": "The charitable deeds; the alms",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truthfulness, sincerity, correctness; to speak truthfully"
+      },
+      "components": [
+        {
+          "arabic": "اَلصَّدَ",
+          "meaning": "the truthfulness/sincerity"
+        },
+        {
+          "arabic": " -اتِ",
+          "meaning": "plural marker, indicating multiple charitable deeds/alms"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَنِعِمَّا",
+      "transliteration": "faniʿammā",
+      "meaning": "Then how excellent; indeed it is good",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be agreeable, pleasant, good; blessing"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "نِعْمَ",
+          "meaning": "how excellent!, indeed it is good!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "It (referring to the preceding charitable deeds)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence; she"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَإِن",
+      "transliteration": "waʾin",
+      "meaning": "And if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also used for negation and condition"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تُخْفُوهَا",
+      "transliteration": "tukhfūhā",
+      "meaning": "You conceal it; you hide them",
+      "root": {
+        "letters": "خ-ف-أ",
+        "meaning": "to hide, to conceal, to be obscure"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "You (masculine plural) - prefix indicating the second person masculine plural."
+        },
+        {
+          "arabic": "خْفُ",
+          "meaning": "Conceal / Hide - derived from the root خ-ف-أ."
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "It / Them - pronoun referring to the object being concealed/hidden. Feminine singular or plural depending on context."
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَتُؤْتُوهَا",
+      "transliteration": "watūʾtūhā",
+      "meaning": "And you give it; and you bestow them",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تُؤْتُوهَا",
+          "meaning": "you give it/them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْفُقَرَاءَ",
+      "transliteration": "al-fuqarāʾa",
+      "meaning": "The poor; the needy people",
+      "root": {
+        "letters": "ف-ق-ر",
+        "meaning": "to be poor; to lack; need"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "فُقَرَاءَ",
+          "meaning": "poor people (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَهُوَ",
+      "transliteration": "fahuwa",
+      "meaning": "Then it is He; indeed it is",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to fall, to descend; also existence, being."
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "Then; So"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He; it is He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "Better; more good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "Goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "For you; to you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "completion, perfection; possessing"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَيُكَفِّرُ",
+      "transliteration": "wayukaffiru",
+      "meaning": "And He expiates; and He covers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal, to expiate"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun)"
+        },
+        {
+          "arabic": "كَفَّرَ",
+          "meaning": "to expiate, to cover (sins)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "damma (indicates present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَنكُم",
+      "transliteration": "ʿankum",
+      "meaning": "From you; about you",
+      "root": {
+        "letters": "ع-ن-ك",
+        "meaning": "protection, shielding; to be safe from something or someone"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From; of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "decrease, diminution, extraction; to be from or have origin in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "سَيِّئَاتِكُمْ",
+      "transliteration": "sayyiʾātikum",
+      "meaning": "Your evil deeds; your misdeeds",
+      "root": {
+        "letters": "س-ي-ء",
+        "meaning": "bad, evil, ugly"
+      },
+      "components": [
+        {
+          "arabic": "سَيِّئَاتٍ",
+          "meaning": "evil deeds, bad actions (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "And Allah; and God",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship; the deity; God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah; The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "With what; by which",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death; dying; destruction"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what; that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "You do; you perform",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do; to perform; to work"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing; performing; work"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "خَبِيرٌ",
+      "transliteration": "khabīrun",
+      "meaning": "Acquainted; Aware",
+      "root": {
+        "letters": "خ-ب-ر",
+        "meaning": "To know, to be aware, to possess information"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-if you reveal-the charitable deeds then-how excellent it-is; and-if you conceal them-and you give them-to the poor then-it is He-better for-you; and He expiates-from you-of your misdeeds; and Allah-with what you do-[is] Acquainted."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

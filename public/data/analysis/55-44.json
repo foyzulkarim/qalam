@@ -1,0 +1,105 @@
+{
+  "verseId": "55:44",
+  "verse": {
+    "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
+    "transliteration": "Yatoofoona baynaha wabayna hameemin anin",
+    "surah": "Ar-Rahman",
+    "verseNumber": 44
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَطُوفُونَ",
+      "transliteration": "yaṭūfūn",
+      "meaning": "They circumambulate, they go around",
+      "root": {
+        "letters": "ﻁ-و-ف",
+        "meaning": "To go around, to encircle, to revolve"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense and first person plural (they)"
+        },
+        {
+          "arabic": "طُوف",
+          "meaning": "Circumambulation, going around (verbal noun/root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "Suffix indicating first person plural (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَيْنَهَا",
+      "transliteration": "baynahā",
+      "meaning": "Between it (feminine)",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "To be distant, to separate, to differentiate"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "Between, in the middle of"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "It (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَبَيْنَ",
+      "transliteration": "wa bayna",
+      "meaning": "And between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be in the middle, to separate, distinction"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَيْنَ",
+          "meaning": "between"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَمِيمٍ",
+      "transliteration": "ḥamīm",
+      "meaning": "Scalding water, hot water",
+      "root": {
+        "letters": "ح-م-و",
+        "meaning": "To be hot, warm; vehement heat or intensity."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آنٍ",
+      "transliteration": "ān",
+      "meaning": "Heated [to the utmost degree], intensely hot, burning",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be hot, to burn; heat, burning"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-circumambulate - between-it - and-between - scalding-water - heated-[to the utmost degree]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

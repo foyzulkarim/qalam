@@ -1,0 +1,262 @@
+{
+  "verseId": "18:37",
+  "verse": {
+    "arabic": "قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ سَوَّاكَ رَجُلًا",
+    "transliteration": "Qala lahu sahibuhu wahuwa yuhawiruhu akafarta biallathee khalaqaka min turabin thumma min nutfatin thumma sawwaka rajulan",
+    "surah": "Al-Kahf",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "صَاحِبُهُ",
+      "transliteration": "ṣāḥibuhu",
+      "meaning": "his companion",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to possess"
+      },
+      "components": [
+        {
+          "arabic": "صَاحِبُ",
+          "meaning": "companion, friend"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and he",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he, it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُحَاوِرُهُ",
+      "transliteration": "yuḥāwiruhu",
+      "meaning": "he was conversing with him",
+      "root": {
+        "letters": "ح-و-ر",
+        "meaning": "to converse, to speak back and forth; to argue"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "he (masculine singular pronoun prefix indicating present/future tense)"
+        },
+        {
+          "arabic": "حَاَوَرَ",
+          "meaning": "to converse, to engage in dialogue"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَكَفَرْتَ",
+      "transliteration": "ʾakafarta",
+      "meaning": "Have you disbelieved?",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicating a question"
+        },
+        {
+          "arabic": "كَفَرْتَ",
+          "meaning": "you disbelieved (second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِالَّذِي",
+      "transliteration": "bi-alladhī",
+      "meaning": "in the One who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to be, to exist; the essence of being"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "الَّذِي",
+          "meaning": "the One who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خَلَقَكَ",
+      "transliteration": "khalaqaka",
+      "meaning": "He created you",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to make"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقَ",
+          "meaning": "He created"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to lessen; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تُرَابٍ",
+      "transliteration": "turābin",
+      "meaning": "dust",
+      "root": {
+        "letters": "ت-ر-ب",
+        "meaning": "soft earth; to be soft or fine; dust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to abide; a sense of sequence or continuation after pausing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to lessen, origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "نُّطْفَةٍ",
+      "transliteration": "nuṭfatin",
+      "meaning": "a sperm-drop",
+      "root": {
+        "letters": "ن-ط-ف",
+        "meaning": "to drip, to fall in drops; small quantity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "سَوَّاكَ",
+      "transliteration": "sawwāka",
+      "meaning": "He proportioned you",
+      "root": {
+        "letters": "س-و-ك",
+        "meaning": "to make straight, to proportion, to fashion evenly"
+      },
+      "components": [
+        {
+          "arabic": "سَوَّى",
+          "meaning": "He proportioned, He made straight"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رَجُلًا",
+      "transliteration": "rajulan",
+      "meaning": "a man",
+      "root": {
+        "letters": "ر-ج-ل",
+        "meaning": "to return to the original state, firmness, masculinity; also related to hope and expectation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said to-him his-companion and-he he-was conversing with-him Have-you disbelieved in-the-One who He-created you from dust then from a-sperm-drop then He-proportioned you [as] a man"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

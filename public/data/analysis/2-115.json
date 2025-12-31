@@ -1,0 +1,222 @@
+{
+  "verseId": "2:115",
+  "verse": {
+    "arabic": "وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ۚ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ",
+    "transliteration": "Walillahi almashriqu waalmaghribu faaynama tuwalloo fathamma wajhu Allahi inna Allaha wasiAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 115
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلِلَّهِ",
+      "transliteration": "wa-lil-lahi",
+      "meaning": "and to Allah",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, glory, commendation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, belonging to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "The God (Allah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَشْرِقُ",
+      "transliteration": "al-mashriqu",
+      "meaning": "the east",
+      "root": {
+        "letters": "ش-ر-ق",
+        "meaning": "to rise, to originate, to become visible"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالْمَغْرِبُ",
+      "transliteration": "wa-l-maghribu",
+      "meaning": "and the west",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to set (sun), to go down; west"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَغْرِبُ",
+          "meaning": "the west"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۚ",
+      "transliteration": "fa-ʾaynama",
+      "meaning": "then wherever",
+      "root": {
+        "letters": "أ-ي-ن",
+        "meaning": "to be, to exist; location, place"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَيْنَ",
+          "meaning": "wherever, wherever"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَأَيْنَمَا",
+      "transliteration": "tuwallū",
+      "meaning": "you turn (plural)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to go in a direction other than towards something/someone; to be inclined"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "particle indicating consequence or result"
+        },
+        {
+          "arabic": "أَيْنَمَا",
+          "meaning": "wherever, wherever you turn; conditional particle + pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تُوَلُّوا",
+      "transliteration": "fa-thamma",
+      "meaning": "then there is",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to go back, to retreat"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating past tense and third person"
+        },
+        {
+          "arabic": "وَلَّ",
+          "meaning": "to turn away, to retreat"
+        },
+        {
+          "arabic": "وا",
+          "meaning": "pronoun suffix, indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَثَمَّ",
+      "transliteration": "wajhu-llahi",
+      "meaning": "the Face of Allah",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "permanence, steadfastness, then/thereafter"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then/thereafter (particle)"
+        },
+        {
+          "arabic": "ثَمَّ",
+          "meaning": "then/thereafter (particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَجْهُ",
+      "transliteration": "inna-llaha",
+      "meaning": "indeed, Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِنَّ",
+      "transliteration": "wāsiʿun",
+      "meaning": "all-Encompassing",
+      "root": {
+        "letters": "و-س-ع",
+        "meaning": "to be wide, spacious, ample"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَاسِعٌ",
+      "transliteration": "",
+      "meaning": "",
+      "root": {
+        "letters": "و-س-ع",
+        "meaning": "to be ample, wide, spacious"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "",
+      "meaning": "",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware, possess knowledge"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-to Allah the-east and-the west then wherever you-plural turn then there is the-Face of Allah indeed Allah all-Encompassing Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

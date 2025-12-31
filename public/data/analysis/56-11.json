@@ -1,0 +1,59 @@
+{
+  "verseId": "56:11",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ الْمُقَرَّبُونَ",
+    "transliteration": "Olaika almuqarraboona",
+    "surah": "Al-Waqi'ah",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, initial, or foremost; to begin."
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (masculine plural demonstrative prefix)"
+        },
+        {
+          "arabic": "لَٰئِكَ",
+          "meaning": "Relating to 'those' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمُقَرَّبُونَ",
+      "transliteration": "al-muqarrabūna",
+      "meaning": "The ones brought near",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to come near, approach"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُقَرَّبُونَ",
+          "meaning": "Those who are brought near, close ones"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-ones the-brought-near-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

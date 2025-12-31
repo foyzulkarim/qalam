@@ -1,0 +1,628 @@
+{
+  "verseId": "18:82",
+  "verse": {
+    "arabic": "وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُ عَنْ أَمْرِي ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+    "transliteration": "Waamma aljidaru fakana lighulamayni yateemayni fee almadeenati wakana tahtahu kanzun lahuma wakana aboohuma salihan faarada rabbuka an yablugha ashuddahuma wayastakhrija kanzahuma rahmatan min rabbika wama faAAaltuhu AAan amree thalika taweelu ma lam tastiAA AAalayhi sabran",
+    "surah": "Al-Kahf",
+    "verseNumber": 82
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "as for, concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to desire, or to take in charge/responsibility"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "to intend, to desire"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْجِدَارُ",
+      "transliteration": "al-jidāru",
+      "meaning": "the wall",
+      "root": {
+        "letters": "ج-د-ر",
+        "meaning": "to be smooth, even; to build, construct"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَكَانَ",
+      "transliteration": "fakāna",
+      "meaning": "then it was, and it was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; becoming, being"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "he was, it was"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِغُلَامَيْنِ",
+      "transliteration": "ligulāmayni",
+      "meaning": "for two boys",
+      "root": {
+        "letters": "غ-ل-م",
+        "meaning": "youth, immaturity, rawness; to be immature or inexperienced"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "غُلَامَيْنِ",
+          "meaning": "two boys (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَتِيمَيْنِ",
+      "transliteration": "yatīmayni",
+      "meaning": "orphans (dual)",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be lacking, deficient, orphaned"
+      },
+      "components": [
+        {
+          "arabic": "يَتِيم",
+          "meaning": "orphan"
+        },
+        {
+          "arabic": "يْنِ",
+          "meaning": "dual ending (tanwīn al-ḍamm)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْمَدِينَةِ",
+      "transliteration": "al-madīnati",
+      "meaning": "the city",
+      "root": {
+        "letters": "م-د-ن",
+        "meaning": "to settle, to establish a city; civilization"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَكَانَ",
+      "transliteration": "wakāna",
+      "meaning": "and it was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "it was"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَحْتَهُ",
+      "transliteration": "taḥtahu",
+      "meaning": "beneath it",
+      "root": {
+        "letters": "ح-ت-و",
+        "meaning": "to be below, to lie under; lower part, bottom"
+      },
+      "components": [
+        {
+          "arabic": "تحت",
+          "meaning": "beneath, under"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَنزٌ",
+      "transliteration": "kanzun",
+      "meaning": "treasure",
+      "root": {
+        "letters": "ك-ن-ز",
+        "meaning": "to hide, to conceal, to store up"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَّهُمَا",
+      "transliteration": "lahumā",
+      "meaning": "for them (dual)",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to have, to possess; for (someone)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "they (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَكَانَ",
+      "transliteration": "wakāna",
+      "meaning": "and it was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "it was, he/she/it was"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَبُوهُمَا",
+      "transliteration": "abūhumā",
+      "meaning": "their father",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "father, head, origin"
+      },
+      "components": [
+        {
+          "arabic": "أَب",
+          "meaning": "father"
+        },
+        {
+          "arabic": "ـُهُمَا",
+          "meaning": "their (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "صَالِحًا",
+      "transliteration": "ṣāliḥan",
+      "meaning": "righteous",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be right, correct, suitable; goodness, integrity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَأَرَادَ",
+      "transliteration": "faʾarāda",
+      "meaning": "so He intended",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to intend, to will, to desire"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَرَادَ",
+          "meaning": "intended, willed, desired (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also related to confirmation and assertion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَبْلُغَا",
+      "transliteration": "yablughā",
+      "meaning": "they reach, they attain",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, arrive at"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present/future tense and first person (we)"
+        },
+        {
+          "arabic": "بَلُغَ",
+          "meaning": "to reach, to attain (root verb)"
+        },
+        {
+          "arabic": "ـَا",
+          "meaning": "suffix pronoun: they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَشُدَّهُمَا",
+      "transliteration": "ʾashuddahumā",
+      "meaning": "their maturity (dual)",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be strong, intense; firmness, severity"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "intensifier prefix (strengthening the root)"
+        },
+        {
+          "arabic": "شُدَّ",
+          "meaning": "strength, intensity (verbal noun form)"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "their dual pronoun suffix (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَيَسْتَخْرِجَا",
+      "transliteration": "wayastaḫrija",
+      "meaning": "and they extract",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to come out, to extract, to bring forth"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْتَخْرِجَا",
+          "meaning": "they extract (continuously/repeatedly)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "كَنزَهُمَا",
+      "transliteration": "kanzahumā",
+      "meaning": "their treasure (dual)",
+      "root": {
+        "letters": "ك-ن-ز",
+        "meaning": "to hide, to store up; treasure"
+      },
+      "components": [
+        {
+          "arabic": "كنز",
+          "meaning": "treasure, riches"
+        },
+        {
+          "arabic": "هما",
+          "meaning": "dual pronoun suffix: their (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "رَحْمَةً",
+      "transliteration": "raḥmatan",
+      "meaning": "as a mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness; covering, enveloping"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "رَّبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what, and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "فَعَلْتُهُ",
+      "transliteration": "faʿaltuhu",
+      "meaning": "I did it",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make"
+      },
+      "components": [
+        {
+          "arabic": "فَعَلْتُ",
+          "meaning": "I did"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "عَنْ",
+      "transliteration": "ʿan",
+      "meaning": "from, of",
+      "root": {
+        "letters": "ع-ن-ن",
+        "meaning": "to be free from, to depart from, to return from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "أَمْرِي",
+      "transliteration": "'amrī",
+      "meaning": "my own accord, my command",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair"
+      },
+      "components": [
+        {
+          "arabic": "أَمْر",
+          "meaning": "command, affair"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; pertaining to the self or one's own state"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun, masculine singular)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix pronoun - 'that' (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "تَأْوِيلُ",
+      "transliteration": "taʾwīlu",
+      "meaning": "the interpretation (of)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to go back to; to explain, to interpret"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating nominalization or making something into an infinitive/verbal noun (tāʾ)"
+        },
+        {
+          "arabic": "أَوِ",
+          "meaning": "returning, interpreting (derived from the root أ-و-ل)"
+        },
+        {
+          "arabic": "ـلُ",
+          "meaning": "indefinite accusative singular noun ending (tanwīn al-fatḥ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "[that which]",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, relative pronoun"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "[not]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "تَسْطِع",
+      "transliteration": "tasṭiʿ",
+      "meaning": "[you could]",
+      "root": {
+        "letters": "ض-ي-ع",
+        "meaning": "to lose, to be lost; to go astray"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperative mood, or a form I verb prefix"
+        },
+        {
+          "arabic": "سْطِع",
+          "meaning": "to shine, to be bright; derived from the root ضيع with implications of radiating light (related to losing darkness)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "عَّلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "[upon it]",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to be high, elevated; to bear responsibility or burden"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "صَبْرًا",
+      "transliteration": "ṣabran",
+      "meaning": "[patience]",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to bear with fortitude, to restrain oneself"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-as for the wall then-it was for two boys orphans in the city and-it was beneath it treasure for them and-it was their father righteous so He intended your Lord that they reach maturity and extract their treasure as a mercy from your Lord and what-I did it not of my own accord that is the interpretation of [that which] [not] you could upon it patience"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

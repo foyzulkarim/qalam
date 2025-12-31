@@ -1,0 +1,103 @@
+{
+  "verseId": "2:192",
+  "verse": {
+    "arabic": "فَإِنِ انتَهَوْا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+    "transliteration": "Faini intahaw fainna Allaha ghafoorun raheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 192
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِنِ",
+      "transliteration": "faʾin(i)",
+      "meaning": "then indeed; so if",
+      "root": {
+        "letters": "ف-إِنّ-ي",
+        "meaning": "affirmation; emphasis; indeed"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "إِنِّ",
+          "meaning": "indeed; verily; surely (emphasized)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "انتَهَوْا",
+      "transliteration": "intahaw",
+      "meaning": "they cease; they stop; they desist",
+      "root": {
+        "letters": "ن-هـ-ي",
+        "meaning": "to end, to cease, to refrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed; surely",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, emphasis, certainty"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so; connective particle indicating sequence or result"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely; emphatic particle introducing a statement of fact or certainty"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah; the God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship; deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūr(un)",
+      "meaning": "Forgiving; Pardoning",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive; to cover; to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَّحِيمٌ",
+      "transliteration": "raḥīm(un)",
+      "meaning": "Merciful; Compassionate",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "To have compassion; to be kind and tender"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-indeed if they-cease then-indeed Allah Forgiving-is Merciful-is"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

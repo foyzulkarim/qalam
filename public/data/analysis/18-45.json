@@ -1,0 +1,394 @@
+{
+  "verseId": "18:45",
+  "verse": {
+    "arabic": "وَاضْرِبْ لَهُم مَّثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُّقْتَدِرًا",
+    "transliteration": "Waidrib lahum mathala alhayati alddunya kamain anzalnahu mina alssamai faikhtalata bihi nabatu alardi faasbaha hasheeman tathroohu alrriyahu wakana Allahu AAala kulli shayin muqtadiran",
+    "surah": "Al-Kahf",
+    "verseNumber": 45
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاضْرِبْ",
+      "transliteration": "waḍrib",
+      "meaning": "and strike, and present (as an example)",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "to strike, to hit, to beat, to present an example"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اضْرِبْ",
+          "meaning": "strike! (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "to have, to possess; for/belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for/to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّثَلَ",
+      "transliteration": "mathala",
+      "meaning": "example, likeness",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "smoothness, ease; to be similar, to resemble"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَيَاةِ",
+      "transliteration": "al-ḥayāti",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاة",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world, the present life",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble; to subdue or control"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَمَاءٍ",
+      "transliteration": "kamāʾin",
+      "meaning": "like water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "water, fluidity, being liquid"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "ماءٍ",
+          "meaning": "water (indefinite, genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَنزَلْنَاهُ",
+      "transliteration": "anzalnāhu",
+      "meaning": "We sent it down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "We"
+        },
+        {
+          "arabic": "زَل",
+          "meaning": "descended/sent down (from root ن-ز-ل)"
+        },
+        {
+          "arabic": "نَاهُ",
+          "meaning": "it (masculine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be related to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَاخْتَلَطَ",
+      "transliteration": "fakhtalaṭa",
+      "meaning": "so it mixed, and it mingled",
+      "root": {
+        "letters": "خ-ل-ط",
+        "meaning": "to mix, to blend, to be confused"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "اخْتَ",
+          "meaning": "a prefix indicating completion or intensity of the action (related to root خ-ل-ط)"
+        },
+        {
+          "arabic": "لَط",
+          "meaning": "related to the root خ-ل-ط (mixing/blending)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix, third person masculine singular (he/it)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, association, through"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نَبَاتُ",
+      "transliteration": "nabātu",
+      "meaning": "the vegetation, the plants",
+      "root": {
+        "letters": "ن-ب-ت",
+        "meaning": "to grow, sprout, emerge; vegetation"
+      },
+      "components": [
+        {
+          "arabic": "نَبَاتُ",
+          "meaning": "the vegetation, the plants (definite form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَأَصْبَحَ",
+      "transliteration": "faʾaṣbaḥa",
+      "meaning": "so it became, and it turned into",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to become, to dawn, to wake up"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "أَصْبَحَ",
+          "meaning": "it became, it turned into (past tense verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "هَشِيمًا",
+      "transliteration": "hashīman",
+      "meaning": "dry remnants, broken fragments",
+      "root": {
+        "letters": "ح-ش-م",
+        "meaning": "to break, to crush, to pulverize"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تَذْرُوهُ",
+      "transliteration": "tadhruhū",
+      "meaning": "scattered by it, they scatter it",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to scatter, to spread, to fling"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a verb in the present/future tense, often with iterative or habitual nuance"
+        },
+        {
+          "arabic": "ذْرُ",
+          "meaning": "root form related to scattering or flinging"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "pronoun suffix referring to 'it' (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الرِّيَاحُ",
+      "transliteration": "ar-riyāḥu",
+      "meaning": "the winds",
+      "root": {
+        "letters": "ر-ي-ح",
+        "meaning": "to move air, to smell (due to the movement of air carrying scent)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَكَانَ",
+      "transliteration": "wakāna",
+      "meaning": "and was, and is",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "was, is (past tense of 'to be')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "every, all",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness, allness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, existence, a matter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مُّقْتَدِرًا",
+      "transliteration": "muqtadiran",
+      "meaning": "Perfect in Ability, Powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "To hold power, to be able (to do something)"
+      },
+      "components": [
+        {
+          "arabic": "مُقْتَدِرًا",
+          "meaning": "Perfectly capable, powerful. The 'mu-' prefix indicates intensification and the '-an' suffix denotes the active participle."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-strike [for]-them example the-life the-world like-water We-sent-down-it from the-sky so-mixed with-it vegetation the-earth so-became dry-remnants scattered-by-them the-winds and-was Allah over every thing Perfect-in-Ability"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

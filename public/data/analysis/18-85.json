@@ -1,0 +1,50 @@
+{
+  "verseId": "18:85",
+  "verse": {
+    "arabic": "فَأَتْبَعَ سَبَبًا",
+    "transliteration": "FaatbaAAa sababan",
+    "surah": "Al-Kahf",
+    "verseNumber": 85
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَتْبَعَ",
+      "transliteration": "fa-ʾatbaʿa",
+      "meaning": "So he followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "أَتْبَعَ",
+          "meaning": "he followed, he pursued"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَبَبًا",
+      "transliteration": "sababan",
+      "meaning": "a way, a path",
+      "root": {
+        "letters": "س-ب-ب",
+        "meaning": "to follow, to cause, to proceed"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-followed a-way"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "verseId": "18:8",
+  "verse": {
+    "arabic": "وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا",
+    "transliteration": "Wainna lajaAAiloona ma AAalayha saAAeedan juruzan",
+    "surah": "Al-Kahf",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّا",
+      "transliteration": "inna",
+      "meaning": "indeed, verily We",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "to be, existence, truth"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We (inclusive first person pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَجَاعِلُونَ",
+      "transliteration": "la-jāʿilūna",
+      "meaning": "certainly making",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "جَاعِلُونَ",
+          "meaning": "makers, creators (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be/exist, flow (water)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon it",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to overcome"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "صَعِيدًا",
+      "transliteration": "ṣaʿīdan",
+      "meaning": "barren ground, smooth earth",
+      "root": {
+        "letters": "ص-ع-د",
+        "meaning": "to ascend, to go up; also related to smoothness and evenness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جُرُزًا",
+      "transliteration": "jurzan",
+      "meaning": "dust, pulverized earth",
+      "root": {
+        "letters": "ج-ذ-ر",
+        "meaning": "to dig, to extract; root (of a tree)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-indeed We-certainly making that which upon it barren-ground dust"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

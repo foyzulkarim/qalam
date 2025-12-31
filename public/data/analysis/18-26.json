@@ -1,0 +1,413 @@
+{
+  "verseId": "18:26",
+  "verse": {
+    "arabic": "قُلِ اللَّهُ أَعْلَمُ بِمَا لَبِثُوا ۖ لَهُ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۖ أَبْصِرْ بِهِ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِ مِن وَلِيٍّ وَلَا يُشْرِكُ فِي حُكْمِهِ أَحَدًا",
+    "transliteration": "Quli Allahu aAAlamu bima labithoo lahu ghaybu alssamawati waalardi absir bihi waasmiAA ma lahum min doonihi min waliyyin wala yushriku fee hukmihi ahadan",
+    "surah": "Al-Kahf",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلِ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "aʿlamu",
+      "meaning": "Most Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "most (superlative marker)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "With what/of how",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَبِثُوا",
+      "transliteration": "labithū",
+      "meaning": "They remained",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to stay, to remain, to tarry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "For Him/To Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "غَيْبُ",
+      "transliteration": "ghaybu",
+      "meaning": "Unseen [aspect]",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be absent, unseen, hidden"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "The heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be elevated; height, loftiness"
+      },
+      "components": [
+        {
+          "arabic": "السَّمَاوَاتِ",
+          "meaning": "The heavens (plural, definite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَالْأَرْضِ",
+      "transliteration": "wal-arḍi",
+      "meaning": "And the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "earth, land, ground; to be wide or spacious"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَبْصِرْ",
+      "transliteration": "abṣir",
+      "meaning": "See!",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, insight"
+      },
+      "components": [
+        {
+          "arabic": "أَبْ",
+          "meaning": "prefix indicating command/imperative; 'do!' or 'let...'"
+        },
+        {
+          "arabic": "صِرْ",
+          "meaning": "to see, to perceive (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "With it/By it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, inherent quality, association"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by, in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَأَسْمِعْ",
+      "transliteration": "wasmaʿ",
+      "meaning": "And Hear!",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "To hear, to listen, to obey"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "And"
+        },
+        {
+          "arabic": "أَسْمِعْ",
+          "meaning": "Hear! (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What/That which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun indicating negation or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَهُم",
+      "transliteration": "lahum",
+      "meaning": "For them/To them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "to have, to possess; for/belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From/Of",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to decrease, to be less, origin or source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "دُونِهِ",
+      "transliteration": "dūnihi",
+      "meaning": "Besides Him/Without Him",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to diminish, to lack"
+      },
+      "components": [
+        {
+          "arabic": "دُون",
+          "meaning": "besides, without"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From/Of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to lessen; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَلِيٍّ",
+      "transliteration": "waliyyin",
+      "meaning": "Protector",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to be near, to govern, to protect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَلَا",
+      "transliteration": "walā",
+      "meaning": "And not",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to abandon, to be averse to"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "يُشْرِكُ",
+      "transliteration": "yushriku",
+      "meaning": "He associates/shares",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, to associate (partnership), to have partners or associates"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present tense, 3rd person singular masculine (prefix)"
+        },
+        {
+          "arabic": "شْرِكُ",
+          "meaning": "sharing, association (verbal noun derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In/With",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; abundance, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "حُكْمِهِ",
+      "transliteration": "ḥukmihi",
+      "meaning": "His legislation/judgement",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to arbitrate; wisdom"
+      },
+      "components": [
+        {
+          "arabic": "حُكْمِ",
+          "meaning": "Judgement, ruling, legislation (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "أَحَدًا",
+      "transliteration": "aḥadan",
+      "meaning": "Anyone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Unique, One, Singular"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Indefinite marker (tanwīn)"
+        },
+        {
+          "arabic": "حَدًا",
+          "meaning": "One, Unique (masculine accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say - Allah - Most Knowing - with what/of how - they remained - [pause] - For Him - unseen [aspect] - the heavens - and the earth - [pause] - See! - with it/by it - And Hear! - [pause] - What - for them - from - besides Him - from - protector - and not - He associates/shares - in - His legislation/judgement - Anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

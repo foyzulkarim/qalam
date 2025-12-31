@@ -1,0 +1,180 @@
+{
+  "verseId": "18:83",
+  "verse": {
+    "arabic": "وَيَسْأَلُونَكَ عَن ذِي الْقَرْنَيْنِ ۖ قُلْ سَأَتْلُو عَلَيْكُم مِّنْهُ ذِكْرًا",
+    "transliteration": "Wayasaloonaka AAan thee alqarnayni qul saatloo AAalaykum minhu thikran",
+    "surah": "Al-Kahf",
+    "verseNumber": 83
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَسْأَلُونَكَ",
+      "transliteration": "wa-yasʾalūnaka",
+      "meaning": "and they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْأَلُونَ",
+          "meaning": "they ask"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concerning, about"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذِي",
+      "transliteration": "dhī",
+      "meaning": "owner of, possessor of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْقَرْنَيْنِ",
+      "transliteration": "al-qarnayn",
+      "meaning": "the two horns",
+      "root": {
+        "letters": "ق-ر-ن",
+        "meaning": "to join, to combine; a horn (of an animal), a period of time"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَرْنَيْنِ",
+          "meaning": "dual form of 'qarn', meaning two horns or two periods"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "سَأَتْلُو",
+      "transliteration": "sa-ʾatlū",
+      "meaning": "I will recite",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to pursue; to recite (specifically)"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "أَتْلُو",
+          "meaning": "I recite"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْكُم",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you, to you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, to"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from him",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he/him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ذِكْرًا",
+      "transliteration": "dhikran",
+      "meaning": "a mention, a report",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْرًا",
+          "meaning": "a mention, a report (accusative case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they ask-you about the-owner-of the-two-horns — say! I-will recite to-you from-him a-mention"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "verseId": "2:84",
+  "verse": {
+    "arabic": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ",
+    "transliteration": "Waith akhathna meethaqakum la tasfikoona dimaakum wala tukhrijoona anfusakum min diyarikum thumma aqrartum waantum tashhadoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 84
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when",
+      "root": {
+        "letters": "و-ذ-ه",
+        "meaning": "to perceive, to experience, to witness; also refers to time"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَخَذْنَا",
+      "transliteration": "ʾakhadhnā",
+      "meaning": "We took",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to grasp, to seize"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "we (first person plural prefix)"
+        },
+        {
+          "arabic": "خَذْنَا",
+          "meaning": "took (perfect tense, first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِيثَاقَكُمْ",
+      "transliteration": "mīthāqakum",
+      "meaning": "your covenant",
+      "root": {
+        "letters": "م-ث-ق",
+        "meaning": "firmness, strength, reliability; to establish a pact or agreement"
+      },
+      "components": [
+        {
+          "arabic": "مِيثَاقَ",
+          "meaning": "covenant, pact, agreement"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَسْفِكُونَ",
+      "transliteration": "tasfikūna",
+      "meaning": "you shed",
+      "root": {
+        "letters": "س-ف-ك",
+        "meaning": "to pour out, to spill, to shed (blood)"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "سْفِـ",
+          "meaning": "stem from the root س-ف-ك, related to shedding/spilling"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you) - active voice, present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "دِمَاءَكُمْ",
+      "transliteration": "dimāʾakum",
+      "meaning": "your bloods",
+      "root": {
+        "letters": "د-م-أ",
+        "meaning": "to flow, to bleed; blood"
+      },
+      "components": [
+        {
+          "arabic": "دِمَاءَ",
+          "meaning": "bloods (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَا",
+      "transliteration": "walā",
+      "meaning": "nor",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to abandon, to reject"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not, negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تُخْرِجُونَ",
+      "transliteration": "tukhrijūna",
+      "meaning": "you evict",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to produce"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural (you)"
+        },
+        {
+          "arabic": "خْرِج",
+          "meaning": "the root relating to exiting or producing"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person plural active present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَنفُسَكُم",
+      "transliteration": "ʾanfusakum",
+      "meaning": "your selves/lives",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, life; to breathe, expire"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسَ",
+          "meaning": "selves, souls"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِّن دِيَارِكُمْ",
+      "transliteration": "min diyārikum",
+      "meaning": "from your homes",
+      "root": {
+        "letters": "د-ي-ر",
+        "meaning": "to dwell, reside; a home or abode"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "دِيَارِكُمْ",
+          "meaning": "your homes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; continuity and sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَقْرَرْتُمْ",
+      "transliteration": "ʾaqrartum",
+      "meaning": "you acknowledged",
+      "root": {
+        "letters": "ق-ر-ر",
+        "meaning": "to admit, to acknowledge, to confess"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating affirmation or emphasis"
+        },
+        {
+          "arabic": "قَرَرْتُم",
+          "meaning": "you acknowledged (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "waʾantum",
+      "meaning": "and you",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; used to form pronouns referring to 'you'"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَشْهَدُونَ",
+      "transliteration": "tashhadūna",
+      "meaning": "you were witnessing",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, to be present"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense, 'you (plural) will'"
+        },
+        {
+          "arabic": "شَـهَدْ",
+          "meaning": "witnessing, testifying (verbal root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the plural 'you' masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We-took covenant-your not you-shed bloods-your nor you-evict selves-your from homes-your then you-acknowledged and-you you-were witnessing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
