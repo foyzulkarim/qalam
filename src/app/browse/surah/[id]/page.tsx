@@ -1,11 +1,8 @@
 import SurahDetailClient from './SurahDetailClient'
 
-export function generateStaticParams() {
-  // Generate paths for all 114 surahs
-  return Array.from({ length: 114 }, (_, i) => ({
-    id: String(i + 1),
-  }))
-}
+// Use dynamic rendering to avoid Cloudflare's 20k file limit on static generation
+// Pages are rendered on-demand instead of being pre-generated at build time
+export const dynamic = 'force-dynamic'
 
 export default function SurahDetailPage({ params }: { params: Promise<{ id: string }> }) {
   return <SurahDetailClient params={params} />
