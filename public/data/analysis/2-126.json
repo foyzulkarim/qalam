@@ -1,0 +1,517 @@
+{
+  "verseId": "2:126",
+  "verse": {
+    "arabic": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَـٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُم بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُ قَلِيلًا ثُمَّ أَضْطَرُّهُ إِلَىٰ عَذَابِ النَّارِ ۖ وَبِئْسَ الْمَصِيرُ",
+    "transliteration": "Waith qala ibraheemu rabbi ijAAal hatha baladan aminan waorzuq ahlahu mina alththamarati man amana minhum biAllahi waalyawmi alakhiri qala waman kafara faomattiAAuhu qaleelan thumma adtarruhu ila AAathabi alnnari wabisa almaseeru",
+    "surah": "Al-Baqarah",
+    "verseNumber": 126
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when/and behold",
+      "root": {
+        "letters": "و-ذ-أ",
+        "meaning": "to perceive, to experience, to become aware of"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when/behold (temporal particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, utterance, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِبْرَاهِيمُ",
+      "transliteration": "ʾibrāhīmu",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, to be important; greatness, importance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّ",
+      "transliteration": "rabbi",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "possessive suffix (my)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اجْعَلْ",
+      "transliteration": "ijʿal",
+      "meaning": "make",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "اِج",
+          "meaning": "imperative prefix for the second person masculine singular (you)"
+        },
+        {
+          "arabic": "عَل",
+          "meaning": "on, over; or the root ج-ع-ل itself modified for conjugation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "ه-ذ-أ",
+        "meaning": "to point, to indicate, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بَلَدًا",
+      "transliteration": "baladan",
+      "meaning": "a city/land",
+      "root": {
+        "letters": "ب-ل-د",
+        "meaning": "to reach maturity, to become full-grown; a place or territory"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "آمِنًا",
+      "transliteration": "ʾāminan",
+      "meaning": "secure/safe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to trust, believe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَارْزُقْ",
+      "transliteration": "warzuq",
+      "meaning": "and provide/grant sustenance to",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance, to bestow"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ارْزُقْ",
+          "meaning": "provide/grant sustenance (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَهْلَهُ",
+      "transliteration": "ʾahlahu",
+      "meaning": "its people",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to befriend, to belong to, to accept; family, household"
+      },
+      "components": [
+        {
+          "arabic": "أَهْل",
+          "meaning": "people, family, household"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his/its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be endowed with, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الثَّمَرَاتِ",
+      "transliteration": "ath-thamarāti",
+      "meaning": "the fruits",
+      "root": {
+        "letters": "ث-م-ر",
+        "meaning": "to bear fruit, to produce"
+      },
+      "components": [
+        {
+          "arabic": "الثَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَرَاتِ",
+          "meaning": "fruits (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "whoever/who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; belonging or relating to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "آمَنَ",
+      "transliteration": "ʾāmana",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trust, faith"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِنْهُم",
+      "transliteration": "minhum",
+      "meaning": "of them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "in Allah/by Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to praise, divinity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, in, with"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَالْيَوْمِ",
+      "transliteration": "wal-yawmi",
+      "meaning": "and the Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time, period"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْيَوْمِ",
+          "meaning": "the day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْآخِرِ",
+      "transliteration": "al-ʾākhiri",
+      "meaning": "the Last (Day)",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to delay; the end, finality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرِ",
+          "meaning": "Last (Day), final"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَمَن",
+      "transliteration": "waman",
+      "meaning": "and whoever/and who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; also indicates a quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَفَرَ",
+      "transliteration": "kafara",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, deny a blessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "فَأُمَتِّعُهُ",
+      "transliteration": "faʾumattiʿuhu",
+      "meaning": "then I will grant him enjoyment/I will give respite to him",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "to enjoy, to benefit, to grant respite"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so (particle of sequence)"
+        },
+        {
+          "arabic": "أُمَتِّعُـ",
+          "meaning": "I will grant enjoyment/respite (from the root م-ت-ع)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "a little/briefly",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to diminish, to be few, to lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then/afterward",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; also implies time or sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَضْطَرُّهُ",
+      "transliteration": "ʾaḍṭarruhu",
+      "meaning": "I will force him/I will drive him",
+      "root": {
+        "letters": "ض-ر-ر",
+        "meaning": "necessity, hardship, coercion"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix signifying future tense and active voice"
+        },
+        {
+          "arabic": "ضْطَرَّ",
+          "meaning": "to be compelled, forced by necessity"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to tend to, incline towards, or reach a destination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "عَذَابِ",
+      "transliteration": "ʿadhābi",
+      "meaning": "the punishment/torment of",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; hardship"
+      },
+      "components": [
+        {
+          "arabic": "عَذَابٍ",
+          "meaning": "punishment, torment (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nāri",
+      "meaning": "the Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, intensity"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَّارِ",
+          "meaning": "fire (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "silence, stillness, quietude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "وَبِئْسَ",
+      "transliteration": "wabiʾsa",
+      "meaning": "and wretched/how bad is",
+      "root": {
+        "letters": "ب-ي-س",
+        "meaning": "insufficiency, badness, evil"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بِئْسَ",
+          "meaning": "how wretched/bad (nom. singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الْمَصِيرُ",
+      "transliteration": "al-maṣīru",
+      "meaning": "the destination/return",
+      "root": {
+        "letters": "ص-ي-ر",
+        "meaning": "to return, to come back; to become or transform into something"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَصِير",
+          "meaning": "return, destination; that to which one returns"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And -when- said Abraham, 'My Lord,- make this a city secure and provide its people from the fruits - whoever- of them- believed in Allah and the Day -the Last.' –He said.- And whoever disbelieved, then- I will grant him enjoyment a little; then I will force him to the punishment of the Fire, and wretched -is- the destination."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

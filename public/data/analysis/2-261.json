@@ -1,0 +1,390 @@
+{
+  "verseId": "2:261",
+  "verse": {
+    "arabic": "مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+    "transliteration": "Mathalu allatheena yunfiqoona amwalahum fee sabeeli Allahi kamathali habbatin anbatat sabAAa sanabila fee kulli sunbulatin miatu habbatin waAllahu yudaAAifu liman yashao waAllahu wasiAAun AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 261
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّثَلُ",
+      "transliteration": "mathalu",
+      "meaning": "example, likeness",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to be similar, to resemble; weakness, defect (related to the idea of something being less than complete)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ي-ن",
+        "meaning": "possession, owner, having quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُنفِقُونَ",
+      "transliteration": "yunfiqūna",
+      "meaning": "they spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to exhaust"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "they (masculine plural) - prefix indicating present/future tense and subject"
+        },
+        {
+          "arabic": "فِق",
+          "meaning": "spend/expend (stem from root ن-ف-ق)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural) - suffix indicating present/future tense and subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَمْوَالَهُمْ",
+      "transliteration": "amwālahum",
+      "meaning": "their wealths",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; wealth"
+      },
+      "components": [
+        {
+          "arabic": "أموال",
+          "meaning": "wealths, possessions"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "way of, path of",
+      "root": {
+        "letters": "س-ب-و",
+        "meaning": "to flow, to go, to have a way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship; divinity; godhead"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَمَثَلِ",
+      "transliteration": "kamathali",
+      "meaning": "like the example of",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "example, likeness, similarity"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "مَثَلِ",
+          "meaning": "example, likeness (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "حَبَّةٍ",
+      "transliteration": "ḥabbatin",
+      "meaning": "a grain, a seed",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to possess, to contain, or abundance (related to seeds as they 'contain' potential growth)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَنبَتَتْ",
+      "transliteration": "anbatat",
+      "meaning": "it grew, it produced",
+      "root": {
+        "letters": "ن-ب-ت",
+        "meaning": "to grow, to sprout, to produce"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to make, prefix indicating verbal noun or past tense with a sense of completion/intention"
+        },
+        {
+          "arabic": "بَتَ",
+          "meaning": "grew, sprouted (past tense verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "سَبْعَ",
+      "transliteration": "sabʿa",
+      "meaning": "seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "fullness, abundance; to go or extend (related to the idea of completeness)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "سَنَابِلَ",
+      "transliteration": "sanābila",
+      "meaning": "spikes (of grain)",
+      "root": {
+        "letters": "س-ن-ب",
+        "meaning": "to rise up, to elevate; to grow tall (particularly of plants or grain)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "every, each",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, all, entirety"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "سُنبُلَةٍ",
+      "transliteration": "sunbulatin",
+      "meaning": "a spike (of grain)",
+      "root": {
+        "letters": "س-ن-ب",
+        "meaning": "to rise up, to elevate; to have ears of grain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِّائَةُ",
+      "transliteration": "miʾatu",
+      "meaning": "one hundred",
+      "root": {
+        "letters": "م-أ-و",
+        "meaning": "to wish, to desire; abundance, plenty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "حَبَّةٍ",
+      "transliteration": "ḥabbatin",
+      "meaning": "a grain, a seed",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to possess, to hold, to collect; also refers to love and affection due to the closeness implied in holding something dear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be divine, to worship; the Divine Being"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يُضَاعِفُ",
+      "transliteration": "yuḍāʿifu",
+      "meaning": "He multiplies, He increases",
+      "root": {
+        "letters": "ض-ع-ف",
+        "meaning": "to increase, to double, weakness (as a result of doubling)"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix indicating 3rd person singular masculine)"
+        },
+        {
+          "arabic": "ضَاعِفَ",
+          "meaning": "to multiply, to increase (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لِمَن",
+      "transliteration": "liman",
+      "meaning": "for whom",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to prevent, to withhold, to belong (in the sense of possession)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to wish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person singular (He)"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (past tense)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case and present tense conjugation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَاسِعٌ",
+      "transliteration": "wāsiʿun",
+      "meaning": "all-Encompassing, vast",
+      "root": {
+        "letters": "و-س-ع",
+        "meaning": "to be wide, spacious, ample"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing, All-Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": [
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "-ٌ",
+          "meaning": "masculine singular indefinite nominative ending"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "example-of those-who spend their-wealths in way-of Allah like the-example-of a-grain it-grew seven spikes in each spike one-hundred grains and-Allah He-multiplies for whom He-wills and-Allah all-Encompassing Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

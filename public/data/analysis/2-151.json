@@ -1,0 +1,353 @@
+{
+  "verseId": "2:151",
+  "verse": {
+    "arabic": "كَمَا أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا تَعْلَمُونَ",
+    "transliteration": "Kama arsalna feekum rasoolan minkum yatloo AAalaykum ayatina wayuzakkeekum wayuAAallimukumu alkitaba waalhikmata wayuAAallimukum ma lam takoonoo taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 151
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as, like, just as",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance, similarity"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "resemblance, like"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرْسَلْنَا",
+      "transliteration": "ʾarsalnā",
+      "meaning": "We have sent",
+      "root": {
+        "letters": "أ-ر-س",
+        "meaning": "to send, dispatch"
+      },
+      "components": [
+        {
+          "arabic": "أَرْ",
+          "meaning": "prefix denoting 'we'"
+        },
+        {
+          "arabic": "سَلْنَا",
+          "meaning": "sent (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيكُمْ",
+      "transliteration": "fīkum",
+      "meaning": "among you, in you",
+      "root": {
+        "letters": "ف-ي-ك",
+        "meaning": "to be within, to contain, to exist in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَسُولًا",
+      "transliteration": "rasūlan",
+      "meaning": "a messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to travel; a message or communication (derived)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from you, of yourselves",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "origin, source, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَتْلُو",
+      "transliteration": "yatlu",
+      "meaning": "he recites, reciting",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to read after, to recite"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person singular, or active participle"
+        },
+        {
+          "arabic": "تْلُو",
+          "meaning": "recitation, reading aloud (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you, to you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; above; over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "آيَاتِنَا",
+      "transliteration": "ʾāyātinā",
+      "meaning": "Our verses, Our signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, miracle"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "verses, signs (plural)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَيُزَكِّيكُمْ",
+      "transliteration": "wa yuzakkīkum",
+      "meaning": "and He purifies you, and purifying you",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean; to purify, cleanse; to increase in goodness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun suffix indicating 3rd person masculine singular)"
+        },
+        {
+          "arabic": "زَكَّى",
+          "meaning": "to purify, cleanse; to make pure"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (pronoun suffix indicating plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَيُعَلِّمُكُمُ",
+      "transliteration": "wa yuʿallimukum",
+      "meaning": "and He teaches you, and teaching you",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُعَلِّمُ",
+          "meaning": "He teaches"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالْحِكْمَةَ",
+      "transliteration": "wa-l-ḥikmata",
+      "meaning": "and the wisdom",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule; wisdom, discernment"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حِكْمَة",
+          "meaning": "wisdom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَيُعَلِّمُكُم",
+      "transliteration": "wa yuʿallimukum",
+      "meaning": "and He teaches you, and teaching you",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُعَلِّمُكُم",
+          "meaning": "He teaches you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "[negative particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تَكُونُوا",
+      "transliteration": "takūnū",
+      "meaning": "you were, you used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating future tense or potentiality"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "being, existence (verbal noun)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating plural 'you' (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "you know, you did not know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the present tense or a habitual action"
+        },
+        {
+          "arabic": "عَلِمْـ",
+          "meaning": "root of knowing, awareness"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person masculine plural (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "as-We-have-sent among-you a-messenger from-yourselves reciting to-you Our-verses and-[He]-purifies-you and-[He]-teaches-you the-Book and-the-wisdom and-[He]-teaches-you that which not-you were knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

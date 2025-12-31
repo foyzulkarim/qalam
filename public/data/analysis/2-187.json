@@ -1,0 +1,1152 @@
+{
+  "verseId": "2:187",
+  "verse": {
+    "arabic": "أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَىٰ نِسَائِكُمْ ۚ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ ۗ عَلِمَ اللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَالْآنَ بَاشِرُوهُنَّ وَابْتَغُوا مَا كَتَبَ اللَّهُ لَكُمْ ۚ وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ۚ وَلَا تُبَاشِرُوهُنَّ وَأَنتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+    "transliteration": "Ohilla lakum laylata alssiyami alrrafathu ila nisaikum hunna libasun lakum waantum libasun lahunna AAalima Allahu annakum kuntum takhtanoona anfusakum fataba AAalaykum waAAafa AAankum faalana bashiroohunna waibtaghoo ma kataba Allahu lakum wakuloo waishraboo hatta yatabayyana lakumu alkhaytu alabyadu mina alkhayti alaswadi mina alfajri thumma atimmoo alssiyama ila allayli wala tubashiroohunna waantum AAakifoona fee almasajidi tilka hudoodu Allahi fala taqrabooha kathalika yubayyinu Allahu ayatihi lilnnasi laAAallahum yattaqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 187
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُحِلَّ",
+      "transliteration": "ʾuḥilla",
+      "meaning": "It was made permissible",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to untie, to loosen, to resolve; to permit, to make lawful"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker"
+        },
+        {
+          "arabic": "حِلَّ",
+          "meaning": "permissibility, lawful"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَيْلَةَ",
+      "transliteration": "laylata",
+      "meaning": "the night of",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصِّيَامِ",
+      "transliteration": "aṣ-ṣiyāmi",
+      "meaning": "the fasting",
+      "root": {
+        "letters": "ص-ي-م",
+        "meaning": "to abstain, to fast"
+      },
+      "components": [
+        {
+          "arabic": "اَلصِّيَامِ",
+          "meaning": "the fasting"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الرَّفَثُ",
+      "transliteration": "ar-rafathu",
+      "meaning": "the sexual intercourse",
+      "root": {
+        "letters": "ر-ف-ث",
+        "meaning": "roughness, violence; coarseness (in speech or action)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, with respect to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to resort to, connection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نِسَائِكُمْ",
+      "transliteration": "nisāʾikum",
+      "meaning": "your wives",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "women, female human being"
+      },
+      "components": [
+        {
+          "arabic": "نِسَاء",
+          "meaning": "women, wives"
+        },
+        {
+          "arabic": "-كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "هُنَّ",
+      "transliteration": "hunna",
+      "meaning": "they (feminine plural)",
+      "root": {
+        "letters": "هـ-ن-و",
+        "meaning": "to be, existence; also refers to femininity and pluralization"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لِبَاسٌ",
+      "transliteration": "libāsun",
+      "meaning": "clothing, garment",
+      "root": {
+        "letters": "ل-ب-س",
+        "meaning": "to wear, to cover, to put on"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa-ʾantum",
+      "meaning": "and you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لِبَاسٌ",
+      "transliteration": "libāsun",
+      "meaning": "clothing, garment",
+      "root": {
+        "letters": "ل-ب-س",
+        "meaning": "to wear, to cover, to be clothed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَّهُنَّ",
+      "transliteration": "lahunna",
+      "meaning": "for them (feminine plural)",
+      "root": {
+        "letters": "ل-هـ-ن",
+        "meaning": "to belong, to possess; for/to (indicating possession)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to (preposition indicating indirect possession)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "they (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَلِمَ",
+      "transliteration": "ʿalima",
+      "meaning": "knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَنَّكُمْ",
+      "transliteration": "ʾannakum",
+      "meaning": "that you (plural)",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hidden or concealed"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "to be, to exist"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "suffix indicating second person plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تَخْتَانُونَ",
+      "transliteration": "takhtānūna",
+      "meaning": "you were deceiving",
+      "root": {
+        "letters": "خ-د-ع",
+        "meaning": "to deceive, to trick, to mislead"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect/present tense, and often used for a continuous or habitual action"
+        },
+        {
+          "arabic": "خَتَان",
+          "meaning": "deceit, treachery (related to the root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating 'you' (masculine plural) in the present/imperfect tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَنفُسَكُمْ",
+      "transliteration": "ʾanfusakum",
+      "meaning": "yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسَ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فَتَابَ",
+      "transliteration": "fatāba",
+      "meaning": "so He accepted repentance",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail; related to elevation and superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, on top of"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَعَفَا",
+      "transliteration": "wa-ʿafā",
+      "meaning": "and He forgave",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to forgive, to pardon, to erase"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَفَا",
+          "meaning": "He forgave"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عَنكُمْ",
+      "transliteration": "ʿankum",
+      "meaning": "from you",
+      "root": {
+        "letters": "ع-ن-ك",
+        "meaning": "removal, distance, protection"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, away from"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "فَالْآنَ",
+      "transliteration": "fal-ʾāna",
+      "meaning": "so now",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be present, to come, time"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آنَ",
+          "meaning": "now, at this moment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "بَاشِرُوهُنَّ",
+      "transliteration": "bāshirūhunna",
+      "meaning": "have relations with them",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to give glad tidings; to be human; to have sexual relations"
+      },
+      "components": [
+        {
+          "arabic": "بَاشِرُ",
+          "meaning": "one who engages in sexual relations; to have direct contact with"
+        },
+        {
+          "arabic": "وهُنَّ",
+          "meaning": "with them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَابْتَغُوا",
+      "transliteration": "wabtaghū",
+      "meaning": "and seek",
+      "root": {
+        "letters": "ب-غ-ي",
+        "meaning": "to seek, to desire, to pursue"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ابْتَغُوا",
+          "meaning": "seek (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; non-existence, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "كَتَبَ",
+      "transliteration": "kataba",
+      "meaning": "wrote, decreed",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record; generally related to forming letters and conveying information through writing or decree"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to be worshipped, divinity; concealed power or essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "completion, perfection; possession (derived)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "وَكُلُوا",
+      "transliteration": "wakulū",
+      "meaning": "and eat",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat, to devour"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كُلُوا",
+          "meaning": "eat (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَاشْرَبُوا",
+      "transliteration": "washrabū",
+      "meaning": "and drink",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorb"
+      },
+      "components": [
+        {
+          "arabic": "وا",
+          "meaning": "and"
+        },
+        {
+          "arabic": "شْرَبُوا",
+          "meaning": "they drank"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "يَتَبَيَّنَ",
+      "transliteration": "yatabayyana",
+      "meaning": "becomes clear, is distinguished",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, to become clear, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "يَتَـ",
+          "meaning": "indicates imperfect/present tense and third-person singular (he)"
+        },
+        {
+          "arabic": "بَيَّنَ",
+          "meaning": "to make clear, to distinguish"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakum",
+      "meaning": "to you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "الْخَيْطُ",
+      "transliteration": "al-khayṭu",
+      "meaning": "the thread",
+      "root": {
+        "letters": "خ-ي-ط",
+        "meaning": "to weave, to spin, to be thin or subtle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "الْأَبْيَضُ",
+      "transliteration": "al-ʾabyaḍu",
+      "meaning": "the white",
+      "root": {
+        "letters": "ب-ي-ض",
+        "meaning": "to be white, whiteness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَبْيَضُ",
+          "meaning": "white (adjective)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "الْخَيْطِ",
+      "transliteration": "al-khayṭi",
+      "meaning": "the thread",
+      "root": {
+        "letters": "خ-ي-ط",
+        "meaning": "to weave, to spin; thread, line"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَيْط",
+          "meaning": "thread, string, fiber"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "الْأَسْوَدِ",
+      "transliteration": "al-ʾaswadi",
+      "meaning": "the black",
+      "root": {
+        "letters": "س-و-د",
+        "meaning": "darkness, blackness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَسْوَدِ",
+          "meaning": "black (adjective, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be related to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "الْفَجْرِ",
+      "transliteration": "al-fajri",
+      "meaning": "the dawn",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to break, to split open; to emerge or appear (often used for dawn)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَجْر",
+          "meaning": "dawn, daybreak"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to establish after something else; subsequent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "أَتِمُّوا",
+      "transliteration": "ʾatimmū",
+      "meaning": "complete, fulfill",
+      "root": {
+        "letters": "م-مّ-ل",
+        "meaning": "fullness, completion"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "prefix indicating command/imperative"
+        },
+        {
+          "arabic": "تِمُّوا",
+          "meaning": "complete, fulfill (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "الصِّيَامَ",
+      "transliteration": "aṣ-ṣiyāma",
+      "meaning": "the fasting",
+      "root": {
+        "letters": "ص-ي-م",
+        "meaning": "to abstain, to fast; self-restraint"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "to, until",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, or be connected with something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "اللَّيْلِ",
+      "transliteration": "al-layli",
+      "meaning": "the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to conceal or cover"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "وَلاَ",
+      "transliteration": "wa-lā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to desire, to wish, negation/impossibility"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لاَ",
+          "meaning": "not, do not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "تُبَاشِرُوهُنَّ",
+      "transliteration": "tubāshirūhunna",
+      "meaning": "have relations with them",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be human, to give good news, to interact with kindness"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "prefix indicating second person masculine plural present tense"
+        },
+        {
+          "arabic": "بَاشِرُ",
+          "meaning": "to interact with, to touch intimately"
+        },
+        {
+          "arabic": "ـوُ",
+          "meaning": "pronoun suffix indicating second person masculine plural (you all)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa-ʾantum",
+      "meaning": "and you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "عَاكِفُونَ",
+      "transliteration": "ʿākiūna",
+      "meaning": "staying for worship, devoted",
+      "root": {
+        "letters": "ع-ك-ف",
+        "meaning": "to adhere, to stay close, to concentrate on something"
+      },
+      "components": [
+        {
+          "arabic": "عَاكِف",
+          "meaning": "one who stays, a resident (for worship)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine ending, indicating a group of those who stay/reside"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; abundance, return"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "الْمَسَاجِدِ",
+      "transliteration": "al-masājidi",
+      "meaning": "the mosques",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to bow down in worship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسَاجِدِ",
+          "meaning": "mosques (plural of مَسْجِد)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "that (feminine singular)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to point out"
+      },
+      "components": [
+        {
+          "arabic": "تِلْ",
+          "meaning": "that (distant, feminine)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix indicating feminine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "حُدُودُ",
+      "transliteration": "ḥudūdu",
+      "meaning": "limits, boundaries",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to limit, to restrict"
+      },
+      "components": [
+        {
+          "arabic": "حَدّ",
+          "meaning": "limit, boundary (singular)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanwīn al-nasb (plural indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the deity; to worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 57,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "so do not",
+      "root": {
+        "letters": "ن-هـ-ي",
+        "meaning": "to forbid, to prevent, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 58,
+      "arabic": "تَقْرَبُوهَا",
+      "transliteration": "taqrabūhā",
+      "meaning": "approach them",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the present tense, or a causative form"
+        },
+        {
+          "arabic": "قَرَّبَ",
+          "meaning": "to bring near, to approach (root verb)"
+        },
+        {
+          "arabic": "ـُوهَا",
+          "meaning": "pronoun suffix indicating 'them' (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 59,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kadhalika",
+      "meaning": "thus, in this way",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to be like"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "thus, like this (demonstrative)"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that, this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 60,
+      "arabic": "يُبَيِّنُ",
+      "transliteration": "yubayyinu",
+      "meaning": "Allah makes clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to become clear, to distinguish, to explain"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating the present tense, active voice, 3rd person singular masculine"
+        },
+        {
+          "arabic": "بَيِّنَ",
+          "meaning": "clear, evident, manifest (from the root ب-ي-ن)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating the present tense form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 61,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the object of devotion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 62,
+      "arabic": "آيَاتِهِ",
+      "transliteration": "āyātihi",
+      "meaning": "His signs, His ordinances",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, miracle, verse"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "signs, verses"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His"
+        }
+      ]
+    },
+    {
+      "wordNumber": 63,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "lin-nāsi",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-و-س",
+        "meaning": "to be human; people"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 64,
+      "arabic": "لَعَلَّهُمْ",
+      "transliteration": "laʿallahum",
+      "meaning": "that they might, perhaps",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to incline, to be hopeful, uncertainty"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, perhaps (particle of hope)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "to hope, to expect"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 65,
+      "arabic": "يَتَّقُونَ",
+      "transliteration": "yattaqūna",
+      "meaning": "they may become righteous, they may fear Allah",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, preserve; to be cautious of danger"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "reflexive/intensive marker, indicating reciprocal or self-directed action"
+        },
+        {
+          "arabic": "قَـ",
+          "meaning": "root indicating protection, fear or piety"
+        },
+        {
+          "arabic": "و",
+          "meaning": "vowel indicating present/future tense"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating first person plural pronoun (we/us)"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "tanwīn al-fatḥ, indefinite marker for nouns"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "It-was-made-permissible-for-you-the-night-of-fasting-sexual-intercourse-to-with-respect-to-your-wives.-They-are-clothing-for-you-and-you-are-clothing-for-them.-Allah-knew-that-you-(plural)-were-deceiving-yourselves.-So-He-accepted-repentance-upon-you-and-He-forgave-from-you.-So-now-have-relations-with-them-and-seek-that-which-Allah-decreed-for-you.-And-eat-and-drink-until-becomes-clear-to-you-the-thread-white-from-the-thread-black-from-the-dawn.-Then-complete-the-fasting-until-the-night.-And-do-not-have-relations-with-them-and-you-(plural)-staying-for-worship-in-the-mosques.-That-is-limits-of-Allah.-So-do-not-approach-them.-Thus-does-Allah-make-clear-His-ordinances-to-the-people-that-they-might-fear-Allah."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

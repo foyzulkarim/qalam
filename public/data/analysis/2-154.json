@@ -1,0 +1,237 @@
+{
+  "verseId": "2:154",
+  "verse": {
+    "arabic": "وَلَا تَقُولُوا لِمَن يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ ۚ بَلْ أَحْيَاءٌ وَلَـٰكِن لَّا تَشْعُرُونَ",
+    "transliteration": "Wala taqooloo liman yuqtalu fee sabeeli Allahi amwatun bal ahyaon walakin la tashAAuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 154
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-لا",
+        "meaning": "night, darkness, absence (of something)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَقُولُوا",
+      "transliteration": "taqūlū",
+      "meaning": "you (plural) say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the future tense or subjunctive mood"
+        },
+        {
+          "arabic": "قُولُوا",
+          "meaning": "you (plural) say, verbal root form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِمَن",
+      "transliteration": "li-man",
+      "meaning": "to who/for whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to belong to, to be of/from"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُقْتَلُ",
+      "transliteration": "yuqtal",
+      "meaning": "is killed (passive)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "passive voice marker/prefix"
+        },
+        {
+          "arabic": "قُتِلَ",
+          "meaning": "passive form of 'to kill'"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "damma ending (indicating nominative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīl",
+      "meaning": "way/path",
+      "root": {
+        "letters": "س-ب-و",
+        "meaning": "to flow, to extend, to have a way or path (generally relating to ease of access)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāh",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَمْوَاتٌ",
+      "transliteration": "amwāt",
+      "meaning": "dead (plural)",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "rather/no, but",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be averse, to refuse, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَحْيَاءٌ",
+      "transliteration": "aḥyā’",
+      "meaning": "alive (plural)",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "أَحْيَاءٌ",
+          "meaning": "alive (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَـٰكِن",
+      "transliteration": "lākin",
+      "meaning": "but/however",
+      "root": {
+        "letters": "ك-ن-ل",
+        "meaning": "to be, to exist; hiddenness/concealment (as a negation of visibility)"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation"
+        },
+        {
+          "arabic": "كِن",
+          "meaning": "to be, to exist (with implication of hiddenness); but/however (as a result of negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَشْعُرُونَ",
+      "transliteration": "tashʿurūn",
+      "meaning": "you (plural) perceive/know",
+      "root": {
+        "letters": "ش-ع-ر",
+        "meaning": "to feel, to perceive, to be aware of"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person plural active voice imperfect tense"
+        },
+        {
+          "arabic": "شَعَرَ",
+          "meaning": "to perceive, to feel"
+        },
+        {
+          "arabic": "~ُونَ",
+          "meaning": "suffix indicating the second person plural masculine active voice imperfect tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you(plural) say to-who is-killed in way of Allah dead rather alive and but not you(plural) perceive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

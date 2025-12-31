@@ -1,0 +1,414 @@
+{
+  "verseId": "2:133",
+  "verse": {
+    "arabic": "أَمْ كُنتُمْ شُهَدَاءَ إِذْ حَضَرَ يَعْقُوبَ الْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِن بَعْدِي قَالُوا نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ آبَائِكَ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ إِلَـٰهًا وَاحِدًا وَنَحْنُ لَهُ مُسْلِمُونَ",
+    "transliteration": "Am kuntum shuhadaa ith hadara yaAAqooba almawtu ith qala libaneehi ma taAAbudoona min baAAdee qaloo naAAbudu ilahaka wailaha abaika ibraheema waismaAAeela waishaqa ilahan wahidan wanahnu lahu muslimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 133
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or; but",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were (past tense base)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "second person plural pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شُهَدَاءَ",
+      "transliteration": "shuhadāʾa",
+      "meaning": "witnesses",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to bear witness, to testify, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِذْ",
+      "transliteration": "ʾidh",
+      "meaning": "when; as",
+      "root": {
+        "letters": "أ-ذْ-ح",
+        "meaning": "to take, to seize, to go away; time passing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَضَرَ",
+      "transliteration": "ḥaḍara",
+      "meaning": "approached; came near",
+      "root": {
+        "letters": "ح-ض-ر",
+        "meaning": "to be present; to attend; to come forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَعْقُوبَ",
+      "transliteration": "yaʿqūba",
+      "meaning": "Jacob",
+      "root": {
+        "letters": "ي-ق-ب",
+        "meaning": "to follow closely, to encompass; to grasp, hold tightly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَوْتُ",
+      "transliteration": "al-mawt",
+      "meaning": "the death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, to perish, weakness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِذْ",
+      "transliteration": "ʾidh",
+      "meaning": "when; as",
+      "root": {
+        "letters": "أ-ذ-ح",
+        "meaning": "to seize, to take hold of, to restrain; also, time itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِبَنِيهِ",
+      "transliteration": "libaniyhi",
+      "meaning": "to his sons",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; related to offspring (sons)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "بَنِيهِ",
+          "meaning": "his sons"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or related to existence/being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَعْبُدُونَ",
+      "transliteration": "taʿbudūna",
+      "meaning": "you worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَبَـ",
+          "meaning": "root denoting worship/service"
+        },
+        {
+          "arabic": "ـدُونَ",
+          "meaning": "suffix indicating the second person masculine plural present tense, active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِن بَعْدِي",
+      "transliteration": "min baʿdī",
+      "meaning": "after me",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, after"
+        },
+        {
+          "arabic": "بَعْدِي",
+          "meaning": "my aftermath, after me (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, saying"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "نَعْبُدُ",
+      "transliteration": "naʿbudu",
+      "meaning": "we worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship, slavery; devotion"
+      },
+      "components": [
+        {
+          "arabic": "نَـ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "عَبُدْ",
+          "meaning": "servitude, worship (verb root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِلَـٰهَكَ",
+      "transliteration": "ʾilāhaka",
+      "meaning": "your God",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be a god, deity"
+      },
+      "components": [
+        {
+          "arabic": "إِلَـٰه",
+          "meaning": "god, deity"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَإِلَـٰهَ",
+      "transliteration": "waʾilāha",
+      "meaning": "and the God of",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be a god, divinity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَـٰه",
+          "meaning": "a god, deity"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "آبَائِكَ",
+      "transliteration": "ʾābāʾika",
+      "meaning": "your fathers",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "to return, to revert; father (as one who returns lineage)"
+      },
+      "components": [
+        {
+          "arabic": "آبَاء",
+          "meaning": "fathers (plural)"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "your (masculine singular possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ʾibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, to be powerful; to explain clearly; to cultivate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَإِسْمَاعِيلَ",
+      "transliteration": "waʾismāʿīla",
+      "meaning": "and Ishmael",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen; reputation, name"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْمَاعِيلَ",
+          "meaning": "Ishmael (name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَإِسْحَاقَ",
+      "transliteration": "waʾisḥāqa",
+      "meaning": "and Isaac",
+      "root": {
+        "letters": "س-ح-ق",
+        "meaning": "to consume, to wear away; to forgive (related sense)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْحَاقَ",
+          "meaning": "Isaac (name of the prophet)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "إِلَـٰهًا",
+      "transliteration": "ʾilāhan",
+      "meaning": "a God",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to adore; god"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَاحِدًا",
+      "transliteration": "wāḥidan",
+      "meaning": "one",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, to unite, oneness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَنَحْنُ",
+      "transliteration": "wanaḥnu",
+      "meaning": "and we",
+      "root": {
+        "letters": "ن-ح-و",
+        "meaning": "to be, to exist; inclination towards something"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَحْنُ",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for, unto"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مُسْلِمُونَ",
+      "transliteration": "muslimūna",
+      "meaning": "submitters; Muslims",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, sound; to surrender, submit"
+      },
+      "components": [
+        {
+          "arabic": "مُسْلِم",
+          "meaning": "one who submits; a submitter"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Or – you were – witnesses – when – approached – Jacob – the death – when – he said – to his sons – what – you worship – after me? – They said – we worship – your God – and the God of – your fathers – Abraham – and Ishmael – and Isaac – a God – one – and we – to Him – submitters."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

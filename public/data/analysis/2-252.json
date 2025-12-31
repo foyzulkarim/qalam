@@ -1,0 +1,194 @@
+{
+  "verseId": "2:252",
+  "verse": {
+    "arabic": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ ۚ وَإِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+    "transliteration": "Tilka ayatu Allahi natlooha AAalayka bialhaqqi wainnaka lamina almursaleena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 252
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "that (feminine)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to point, to indicate"
+      },
+      "components": [
+        {
+          "arabic": "تِلْ",
+          "meaning": "the (demonstrative pronoun, feminine singular)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix indicating feminine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آيَاتُ",
+      "transliteration": "āyātū",
+      "meaning": "verses",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, miracle, proof, verse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "of Him/His (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَتْلُوهَا",
+      "transliteration": "natlūhā",
+      "meaning": "We recite it",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite, to read after one another"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "تَلُوهَا",
+          "meaning": "We recite it (verb with pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَيْكَ",
+      "transliteration": "ʿalayka",
+      "meaning": "to you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail; related to elevation and superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, to, over"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِالْحَقِّ",
+      "transliteration": "bil-ḥaqqī",
+      "meaning": "with the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْحَقِّ",
+          "meaning": "the truth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَإِنَّكَ",
+      "transliteration": "wa-inna-ka",
+      "meaning": "and indeed you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَمِنَ",
+      "transliteration": "lamina",
+      "meaning": "indeed from among",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to prevent, to withhold, to originate from"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, belonging to"
+        },
+        {
+          "arabic": "مِنَ",
+          "meaning": "from among, of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْمُرْسَلِينَ",
+      "transliteration": "al-mursalīna",
+      "meaning": "the messengers",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, dispatch; a messenger"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُرْسَلِينَ",
+          "meaning": "messengers (plural of مُرْسَل)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "that-feminine verses of-Allah We-recite it to-you with-the truth and-indeed you indeed from-among the-messengers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

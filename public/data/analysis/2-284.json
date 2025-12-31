@@ -1,0 +1,510 @@
+{
+  "verseId": "2:284",
+  "verse": {
+    "arabic": "لِّلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ ۖ فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Lillahi ma fee alssamawati wama fee alardi wain tubdoo ma fee anfusikum aw tukhfoohu yuhasibkum bihi Allahu fayaghfiru liman yashao wayuAAaththibu man yashao waAllahu AAala kulli shayin qadeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 284
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّلَّهِ",
+      "transliteration": "lil-lahi",
+      "meaning": "to Allah, for Allah",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, glory, commendation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to be within, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "the heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, whatever",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to be, to exist; non-existence, nothingness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be contained within, to exist in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending (iʿrab)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "(pause)",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَإِن",
+      "transliteration": "wa-ʾin",
+      "meaning": "and if, and indeed",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence, being true"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تُبْدُوا",
+      "transliteration": "tubdū",
+      "meaning": "you reveal, you make apparent",
+      "root": {
+        "letters": "ب-د-و",
+        "meaning": "to appear, to become visible; to emerge"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "بْدُ",
+          "meaning": "derived from the root ب-د-و, indicating appearance or revelation"
+        },
+        {
+          "arabic": "ـوا",
+          "meaning": "suffix indicating second person masculine plural (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَنفُسِكُمْ",
+      "transliteration": "ʾanfusikum",
+      "meaning": "your selves, yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath; to exhale or breathe"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسِ",
+          "meaning": "selves, souls (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-أ-و",
+        "meaning": "Union, connection, joining; also implying opposition or alternative."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تُخْفُوهُ",
+      "transliteration": "tukhfūhu",
+      "meaning": "you conceal it, you hide it",
+      "root": {
+        "letters": "خ-ف-أ",
+        "meaning": "to hide, to conceal, to be obscure"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "you (masculine plural) - prefix indicating the second person masculine plural pronoun in the present tense"
+        },
+        {
+          "arabic": "خْفُ",
+          "meaning": "hide, conceal (verbal root)"
+        },
+        {
+          "arabic": "وهُ",
+          "meaning": "it - pronoun referring to the object being concealed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يُحَاسِبْكُم",
+      "transliteration": "yuḥāsibkum",
+      "meaning": "He will hold you accountable, He will question you",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to reckon, to calculate, to compute"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun suffix indicating third person masculine singular)"
+        },
+        {
+          "arabic": "حَاسَبَ",
+          "meaning": "to hold accountable, to question"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "it (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "To be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "(pause)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَيَغْفِرُ",
+      "transliteration": "fayaġfir",
+      "meaning": "then He will forgive",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "يَغْفِرُ",
+          "meaning": "He will forgive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "لِمَن",
+      "transliteration": "liman",
+      "meaning": "to whom, for whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to belong to, to be associated with, origin or source"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to wish, to want, to desire, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "يُعَذِّبُ",
+      "transliteration": "yuʿaḏḏibu",
+      "meaning": "He will punish",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; bitterness, hardship"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix indicating 3rd person masculine singular, present/future tense)"
+        },
+        {
+          "arabic": "عَذِّبُ",
+          "meaning": "to punish (verb, active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be distant, remote; to lack, absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to desire, to will"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present/future tense and first person singular when combined with suffixes; here it indicates third person masculine singular"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (basic verb form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case and the imperfective mood"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "(pause)",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "silence, stillness, quiet"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-Allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, wholeness, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing, matter",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, to exist; essence, substance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadīr",
+      "meaning": "competent, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power; measure, estimate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-Allah what in the-heavens and what in the-earth . and if you reveal what in your selves or you conceal it He will hold-you-accountable for-it Allah . then He will forgive to-whom He wills and He will punish whom He wills , and Allah over all thing competent."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

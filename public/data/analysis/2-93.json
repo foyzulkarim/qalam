@@ -1,0 +1,485 @@
+{
+  "verseId": "2:93",
+  "verse": {
+    "arabic": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِ إِيمَانُكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+    "transliteration": "Waith akhathna meethaqakum warafaAAna fawqakumu alttoora khuthoo ma ataynakum biquwwatin waismaAAoo qaloo samiAAna waAAasayna waoshriboo fee quloobihimu alAAijla bikufrihim qul bisama yamurukum bihi eemanukum in kuntum mumineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 93
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʼidh",
+      "meaning": "and when; and [at the time] of...",
+      "root": {
+        "letters": "و-ذ-ع",
+        "meaning": "to recall, to remember; to experience"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when; at the time of..."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَخَذْنَا",
+      "transliteration": "ʼakhadhnā",
+      "meaning": "We took; We seized",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to receive"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first person plural (we)"
+        },
+        {
+          "arabic": "خَذْنَا",
+          "meaning": "took; seized (from the root أَخَذ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِيثَاقَكُمْ",
+      "transliteration": "mīthāqakum",
+      "meaning": "your covenant; your pledge",
+      "root": {
+        "letters": "و-ث-ق",
+        "meaning": "to trust, to be firm; to pledge"
+      },
+      "components": [
+        {
+          "arabic": "مِيثَاقَ",
+          "meaning": "covenant, pact"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَرَفَعْنَا",
+      "transliteration": "warafaʿnā",
+      "meaning": "and We raised; and We elevated",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to raise up; to be high or exalted"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَفَعْنَا",
+          "meaning": "We raised, We elevated"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَوْقَكُمُ",
+      "transliteration": "fawqaakum",
+      "meaning": "over you; above you",
+      "root": {
+        "letters": "ف-و-ق",
+        "meaning": "to be above; to exceed; superiority"
+      },
+      "components": [
+        {
+          "arabic": "فَوْقَ",
+          "meaning": "over; above"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الطُّورَ",
+      "transliteration": "aṭ-ṭūra",
+      "meaning": "the mount; the mountain",
+      "root": {
+        "letters": "ط-و-ر",
+        "meaning": "to rise; to ascend; to be high; to appear prominently"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خُذُوا",
+      "transliteration": "khuḍū",
+      "meaning": "take; seize",
+      "root": {
+        "letters": "خ-ذ-و",
+        "meaning": "to take; to seize; possession"
+      },
+      "components": [
+        {
+          "arabic": "خُذ",
+          "meaning": "take (imperative)"
+        },
+        {
+          "arabic": "وا",
+          "meaning": "you (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what; that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آتَيْنَاكُم",
+      "transliteration": "ʼātaynākum",
+      "meaning": "We gave you; We bestowed upon you",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to give"
+      },
+      "components": [
+        {
+          "arabic": "آتَ",
+          "meaning": "We gave"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِقُوَّةٍ",
+      "transliteration": "bi-quwwatin",
+      "meaning": "with determination; with strength",
+      "root": {
+        "letters": "ق-و-ي",
+        "meaning": "to be strong, to have power; firmness, solidity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "قُوَّةٍ",
+          "meaning": "strength, power, determination"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَاسْمَعُوا",
+      "transliteration": "wasmaʿū",
+      "meaning": "and listen; and hear",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen; understanding through hearing"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اِسْمَعُوا",
+          "meaning": "listen/hear (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said; they responded",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "سَمِعْنَا",
+      "transliteration": "samiʿnā",
+      "meaning": "we heard; we listened",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear; to understand"
+      },
+      "components": [
+        {
+          "arabic": "سَمِع",
+          "meaning": "to hear; the verbal root"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (first person plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَعَصَيْنَا",
+      "transliteration": "waʿaṣaynā",
+      "meaning": "and we disobeyed; and we rebelled",
+      "root": {
+        "letters": "ع-ص-ي",
+        "meaning": "to disobey, to rebel, to obstruct"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَصَيْنَا",
+          "meaning": "we disobeyed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَأُشْرِبُوا",
+      "transliteration": "waʼushriba",
+      "meaning": "and they were made to drink; and their hearts absorbed",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink; to absorb, imbibe"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُشْرِبُوا",
+          "meaning": "they were made to drink; their hearts absorbed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in; within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return; encompass; enter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قُلُوبِهِمُ",
+      "transliteration": "qulūbihim",
+      "meaning": "their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change; heart (as that which turns)"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "their (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْعِجْلَ",
+      "transliteration": "al-ʿijla",
+      "meaning": "the calf; the young cow",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "haste, speed; to hasten, to proceed quickly; calf (as resulting from quick growth)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "بِكُفْرِهِمْ",
+      "transliteration": "bi-kufrihim",
+      "meaning": "with their disbelief; because of their denial",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover; to conceal; disbelief, denial"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; by means of"
+        },
+        {
+          "arabic": "كُفْرِهِمْ",
+          "meaning": "their disbelief; their denial"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say; declare",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak; to utter; to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بِئْسَمَا",
+      "transliteration": "biʼsamā",
+      "meaning": "how wretched is; how evil is",
+      "root": {
+        "letters": "س-و-ء",
+        "meaning": "badness, evil"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "preposition of manner/condition: with, by means of"
+        },
+        {
+          "arabic": "سَمَا",
+          "meaning": "name; reputation, but here used as a verbal noun/source for the adjective 'evil'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَأْمُرُكُم",
+      "transliteration": "yaʼmurukum",
+      "meaning": "it orders you; it commands you",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, matter, affair"
+      },
+      "components": [
+        {
+          "arabic": "يَأْمُرُ",
+          "meaning": "he commands/orders"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "with it; by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, means"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "إِيمَانُكُمْ",
+      "transliteration": "ʼīmānukum",
+      "meaning": "your faith; your belief",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, security"
+      },
+      "components": [
+        {
+          "arabic": "إِيْمَانُ",
+          "meaning": "faith, belief"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِن كُنتُم",
+      "transliteration": "ʼin kuntum",
+      "meaning": "if you are; should you be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be; to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "if; indeed"
+        },
+        {
+          "arabic": "كُنتُم",
+          "meaning": "you are (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مُّؤْمِنِينَ",
+      "transliteration": "muʼminīn",
+      "meaning": "believers; faithful ones",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be safe, to trust"
+      },
+      "components": [
+        {
+          "arabic": "مُؤْمِن",
+          "meaning": "one who believes, a believer (masculine singular)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "dual suffix, indicating two believers"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We took covenant-your and We raised over-you the-mount, take what We gave-you with-determination and listen. They said we hear and disobey. And their hearts absorbed in-them the-calf with-their disbelief. Say how wretched is that which orders-you it faith-your if you are believers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

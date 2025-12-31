@@ -1,0 +1,178 @@
+{
+  "verseId": "2:42",
+  "verse": {
+    "arabic": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنتُمْ تَعْلَمُونَ",
+    "transliteration": "Wala talbisoo alhaqqa bialbatili wataktumoo alhaqqa waantum taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَلْبِسُوا",
+      "transliteration": "talbisū",
+      "meaning": "you mix/confuse",
+      "root": {
+        "letters": "ل-ب-س",
+        "meaning": "obscure, be hidden, to veil or cover"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural imperfective tense"
+        },
+        {
+          "arabic": "لَبِسَ",
+          "meaning": "to mix, to confuse, to be veiled in error"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating the second person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْحَقَّ",
+      "transliteration": "al-ḥaqqa",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالْبَاطِلِ",
+      "transliteration": "bi-l-bāṭili",
+      "meaning": "with the falsehood",
+      "root": {
+        "letters": "ب-ط-ل",
+        "meaning": "to perish, to be invalid or false"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْبَاطِلِ",
+          "meaning": "the falsehood, the invalidity"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَتَكْتُمُوا",
+      "transliteration": "wa-takhtumū",
+      "meaning": "and you conceal",
+      "root": {
+        "letters": "خ-ت-م",
+        "meaning": "to seal, to conceal, to hide"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَكْتُمُوا",
+          "meaning": "you conceal (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْحَقَّ",
+      "transliteration": "al-ḥaqqa",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, essential nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa-antum",
+      "meaning": "and you (pl.)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūna",
+      "meaning": "you know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know, understand"
+        },
+        {
+          "arabic": "ُون",
+          "meaning": "suffix indicating the second person masculine plural"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you-mix the-truth with-the-falsehood and-you-conceal the-truth and-you you-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

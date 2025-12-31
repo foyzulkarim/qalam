@@ -1,0 +1,320 @@
+{
+  "verseId": "2:27",
+  "verse": {
+    "arabic": "الَّذِينَ يَنقُضُونَ عَهْدَ اللَّهِ مِن بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۚ أُولَـٰئِكَ هُمُ الْخَاسِرُونَ",
+    "transliteration": "Allatheena yanqudoona AAahda Allahi min baAAdi meethaqihi wayaqtaAAoona ma amara Allahu bihi an yoosala wayufsidoona fee alardi olaika humu alkhasiroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, have"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَنقُضُونَ",
+      "transliteration": "yanquḍūna",
+      "meaning": "they break, they invalidate",
+      "root": {
+        "letters": "ن-ق-ض",
+        "meaning": "to demolish, to break down, to invalidate"
+      },
+      "components": [
+        {
+          "arabic": "يَنْ",
+          "meaning": "prefix indicating present/future tense, they"
+        },
+        {
+          "arabic": "قُض",
+          "meaning": "the root relating to breaking, invalidating"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating masculine plural, they (do it)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَهْدَ",
+      "transliteration": "ʿahda",
+      "meaning": "covenant, pledge",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to grasp, to hold fast, to make a firm commitment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to worship, deity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "of, belonging to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far away"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, following"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِيثَاقِهِ",
+      "transliteration": "mīthāqihi",
+      "meaning": "his covenant, its agreement",
+      "root": {
+        "letters": "م-ث-ق",
+        "meaning": "firmness, strength, reliability"
+      },
+      "components": [
+        {
+          "arabic": "مِيثَاق",
+          "meaning": "covenant, pact, agreement"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَيَقْطَعُونَ",
+      "transliteration": "wa yaqṭaʿūna",
+      "meaning": "and they sever, and they cut off",
+      "root": {
+        "letters": "ق-ط-ع",
+        "meaning": "to cut, to sever, to divide"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَقْطَعُونَ",
+          "meaning": "they cut, they sever (verb - present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire, to possess (in the sense of 'what one possesses')"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَمَرَ",
+      "transliteration": "amara",
+      "meaning": "He commanded",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "with it, by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, dependence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by, in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, him, her (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَن يُوصَلَ",
+      "transliteration": "an yūṣala",
+      "meaning": "[that] it be joined, [that] it be connected",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to connect, to join, to relate"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, in order that"
+        },
+        {
+          "arabic": "يُوصَلَ",
+          "meaning": "be connected, be joined (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَيُفْسِدُونَ",
+      "transliteration": "wa yufsidūna",
+      "meaning": "and they corrupt, and they cause spoilage",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "decay, corruption, spoiling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُفْسِدُونَ",
+          "meaning": "they corrupt, they cause spoilage (present indefinite active verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فِي الْأَرْضِ",
+      "transliteration": "fī al-arḍi",
+      "meaning": "in the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "the earth, land, ground"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ulāʾika",
+      "meaning": "those, these ones",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; foremost"
+      },
+      "components": [
+        {
+          "arabic": "أُولَ",
+          "meaning": "those, these (masculine plural demonstrative pronoun base)"
+        },
+        {
+          "arabic": "ـٰئِكَ",
+          "meaning": "pronoun suffix indicating masculine plural pointing away from both speaker and listener."
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "they are",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "هُم",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْخَاسِرُونَ",
+      "transliteration": "al-khāsirūna",
+      "meaning": "the losers, the ones who are ruined",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to be defeated, to suffer loss"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَاسِرُونَ",
+          "meaning": "losers, ruined ones (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who they-break covenant of-Allah after his-covenant and-they-sever what He-commanded with-it [that] it-be-joined and-they-corrupt in the-earth those they-are the-losers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "verseId": "2:67",
+  "verse": {
+    "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا بَقَرَةً ۖ قَالُوا أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ",
+    "transliteration": "Waith qala moosa liqawmihi inna Allaha yamurukum an tathbahoo baqaratan qaloo atattakhithuna huzuwan qala aAAoothu biAllahi an akoona mina aljahileena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 67
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "wa’idh",
+      "meaning": "and [when/and recall]",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to remember, to recall, to experience"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "to flow, to weaken, to perish; also associated with life-giving water and guidance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِقَوْمِهِ",
+      "transliteration": "liqawmihi",
+      "meaning": "to his people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to establish, to rise, people, tribe"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "قَوْمِهِ",
+          "meaning": "his people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed/verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "A particle indicating emphasis, affirmation, or certainty; roughly equivalent to 'indeed', 'verily', or 'surely'."
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَأْمُرُكُمْ",
+      "transliteration": "ya’murukum",
+      "meaning": "He commands you",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, to give instructions"
+      },
+      "components": [
+        {
+          "arabic": "يَأْ",
+          "meaning": "He (prefix indicating the third person singular masculine)"
+        },
+        {
+          "arabic": "مُرُ",
+          "meaning": "command (verbal noun/source)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَذْبَحُوا",
+      "transliteration": "tadhbaḥū",
+      "meaning": "you slaughter",
+      "root": {
+        "letters": "ذ-ب-ح",
+        "meaning": "to sacrifice, to slaughter; to kill an animal (especially as a religious offering)"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "ذَبَحْـ",
+          "meaning": "The root verb meaning 'to slaughter'"
+        },
+        {
+          "arabic": "~ُوا",
+          "meaning": "Suffix indicating the second person masculine plural (you - active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بَقَرَةً",
+      "transliteration": "baqarah",
+      "meaning": "a cow",
+      "root": {
+        "letters": "ب-ق-ر",
+        "meaning": "to split, to cleave, to break; specifically relating to cattle (due to the splitting of their hooves)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to be truthful, to speak the truth, righteousness"
+      },
+      "components": [
+        {
+          "arabic": "ۖ",
+          "meaning": "pause; a silent interval in recitation, indicating separation between verses or significant clauses"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَتَتَّخِذُنَا",
+      "transliteration": "atattakhiḍhunā",
+      "meaning": "Do you take us?",
+      "root": {
+        "letters": "خ-ذ-أ",
+        "meaning": "to take, to choose, to select"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle indicating a question"
+        },
+        {
+          "arabic": "تَتَّ",
+          "meaning": "you (plural) take repeatedly or attempt to"
+        },
+        {
+          "arabic": "خِذ",
+          "meaning": "to take, to select"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "هُزُوًا",
+      "transliteration": "huzū’an",
+      "meaning": "in ridicule/mockery",
+      "root": {
+        "letters": "ح-ز-و",
+        "meaning": "to shake, to move violently; to be weak or feeble (and thus vulnerable to ridicule)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۖ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَعُوذُ",
+      "transliteration": "aʿūdhū",
+      "meaning": "I seek refuge",
+      "root": {
+        "letters": "ع-و-ذ",
+        "meaning": "to seek protection, to resort to safety"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of emphasis/initiation (often indicating seeking)"
+        },
+        {
+          "arabic": "عَوُذْ",
+          "meaning": "seeking refuge/protection (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "billāhi",
+      "meaning": "in Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "divinity, godhood; to worship"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَنْ",
+      "transliteration": "an",
+      "meaning": "that/from",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also to desire or intend (related to the idea of something being 'from' a source)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَكُونَ",
+      "transliteration": "akūna",
+      "meaning": "I be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating future tense or subjunctive mood"
+        },
+        {
+          "arabic": "كُنْ",
+          "meaning": "be! (imperative form of the root ك-و-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "among/from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from or among"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الْجَاهِلِينَ",
+      "transliteration": "al-jāhilīna",
+      "meaning": "the ignorant ones",
+      "root": {
+        "letters": "ج-ه-ل",
+        "meaning": "to be ignorant, to lack knowledge; foolishness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَاهِلِينَ",
+          "meaning": "ignorant ones (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when he-said Moses to-his-people indeed Allah commands-you that you-slaughter a-cow - they-said do-you-take-us in-ridicule? he-said I-seek refuge in-Allah from that I-be among the-ignorant-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

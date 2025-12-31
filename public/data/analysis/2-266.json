@@ -1,0 +1,611 @@
+{
+  "verseId": "2:266",
+  "verse": {
+    "arabic": "أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُ جَنَّةٌ مِّن نَّخِيلٍ وَأَعْنَابٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ لَهُ فِيهَا مِن كُلِّ الثَّمَرَاتِ وَأَصَابَهُ الْكِبَرُ وَلَهُ ذُرِّيَّةٌ ضُعَفَاءُ فَأَصَابَهَا إِعْصَارٌ فِيهِ نَارٌ فَاحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+    "transliteration": "Ayawaddu ahadukum an takoona lahu jannatun min nakheelin waaAAnabin tajree min tahtiha alanharu lahu feeha min kulli alththamarati waasabahu alkibaru walahu thurriyyatun duAAafao faasabaha iAAsarun feehi narun faihtaraqat kathalika yubayyinu Allahu lakumu alayati laAAallakum tatafakkaroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 266
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَيَوَدُّ",
+      "transliteration": "ʾayawaddu",
+      "meaning": "Would anyone desire?",
+      "root": {
+        "letters": "و-د-د",
+        "meaning": "to love, to be friendly, to desire"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of questioning/would"
+        },
+        {
+          "arabic": "يَوَدُّ",
+          "meaning": "he desires/wishes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَحَدُكُمْ",
+      "transliteration": "ʾaḥadukum",
+      "meaning": "One of you",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, solitary, one"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "one (indefinite pronoun prefix)"
+        },
+        {
+          "arabic": "حَدُ",
+          "meaning": "singularity, uniqueness"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "[That]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates affirmation or negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَكُونَ",
+      "transliteration": "takūna",
+      "meaning": "Be/Exist",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix indicating the imperfect tense, specifically second person masculine singular."
+        },
+        {
+          "arabic": "ك",
+          "meaning": "Root letter representing the concept of being."
+        },
+        {
+          "arabic": "و",
+          "meaning": "Root letter contributing to the concept of existence and state."
+        },
+        {
+          "arabic": "ن",
+          "meaning": "Root letter contributing to the concept of completion and manifestation."
+        },
+        {
+          "arabic": "ا",
+          "meaning": "Pronoun suffix indicating second person masculine singular (you)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "For him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَنَّةٌ",
+      "transliteration": "jannatun",
+      "meaning": "A garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to shield; also lush vegetation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "Of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be taken from, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نَّخِيلٍ",
+      "transliteration": "nakhīlin",
+      "meaning": "Palm trees",
+      "root": {
+        "letters": "ن-خ-ل",
+        "meaning": "To grow, to flourish (specifically plants); palm tree"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَأَعْنَابٍ",
+      "transliteration": "wa-ʾaʿnābin",
+      "meaning": "And grapevines",
+      "root": {
+        "letters": "ع-ن-ب",
+        "meaning": "to be succulent, to have vines; grapes"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَعْنَابٍ",
+          "meaning": "grapevines (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَجْرِي",
+      "transliteration": "tajrī",
+      "meaning": "Flowing",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "to flow, to run, to move along a path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, to have a share in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَحْتِهَا",
+      "transliteration": "taḥtihā",
+      "meaning": "Beneath it",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "To be below, underneath; low position"
+      },
+      "components": [
+        {
+          "arabic": "تحت",
+          "meaning": "Beneath, under"
+        },
+        {
+          "arabic": "ها",
+          "meaning": "It (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْأَنْهَارُ",
+      "transliteration": "al-ʾanhāru",
+      "meaning": "The rivers",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream; a river"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "For him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "In it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "Of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "All/Every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "Totality, completeness; to be complete or sufficient."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الثَّمَرَاتِ",
+      "transliteration": "ath-thamārāti",
+      "meaning": "The fruits",
+      "root": {
+        "letters": "ث-م-ر",
+        "meaning": "to bear fruit, to ripen"
+      },
+      "components": [
+        {
+          "arabic": "الثَّ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مَرَاتِ",
+          "meaning": "Fruits (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَأَصَابَهُ",
+      "transliteration": "wa-ʾaṣābahū",
+      "meaning": "And afflicted him",
+      "root": {
+        "letters": "ص-ب-ا",
+        "meaning": "to strike, to affect, to reach; generally related to something impacting someone or some thing"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَصَابَ",
+          "meaning": "to strike, to afflict, to reach (him)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْكِبَرُ",
+      "transliteration": "al-kibaru",
+      "meaning": "Old age",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase; also aging or old age"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَلَهُ",
+      "transliteration": "wa-lahu",
+      "meaning": "And for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "for him, his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ذُرِّيَّةٌ",
+      "transliteration": "dhurriyyatun",
+      "meaning": "Offspring",
+      "root": {
+        "letters": "ذ-ر-ي",
+        "meaning": "To multiply, to produce offspring; seed, progeny."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ضُعَفَاءُ",
+      "transliteration": "ḍuʿafāʾu",
+      "meaning": "Weak ones",
+      "root": {
+        "letters": "ض-ع-ف",
+        "meaning": "Weakness, feebleness, inability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "فَأَصَابَهَا",
+      "transliteration": "fa-ʾaṣābahā",
+      "meaning": "Then it afflicted it",
+      "root": {
+        "letters": "ص-و-ب",
+        "meaning": "to strike, to reach, to afflict, to befall"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَصَابَ",
+          "meaning": "it struck, it afflicted"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِعْصَارٌ",
+      "transliteration": "ʾiʿṣārun",
+      "meaning": "A whirlwind",
+      "root": {
+        "letters": "ع-ص-ر",
+        "meaning": "to squeeze, to wring out, to press hard"
+      },
+      "components": [
+        {
+          "arabic": "إِعْ",
+          "meaning": "intensive prefix indicating strong or repeated action"
+        },
+        {
+          "arabic": "صَارٌ",
+          "meaning": "a thing that happens, something occurring; active participle form related to the root meaning of 'to happen' or 'to occur'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "In it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "In"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "It (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "نَارٌ",
+      "transliteration": "nārun",
+      "meaning": "A fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "فَاحْتَرَقَتْ",
+      "transliteration": "fa-iḥtaraqat",
+      "meaning": "So it burned",
+      "root": {
+        "letters": "ح-ر-ق",
+        "meaning": "to burn, to scorch, to incinerate"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "اِحْتَرَقَتْ",
+          "meaning": "it burned (feminine singular, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kadhalika",
+      "meaning": "Thusly/Like that",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "to be like, to resemble; that which is similar"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "Thusly/Like (demonstrative particle)"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "That; this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "يُبَيِّنُ",
+      "transliteration": "yubayyinu",
+      "meaning": "He makes clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, to become clear, to explain"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "بَيِّنَ",
+          "meaning": "clear, evident (verbal root)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "Damma (indicates present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakumu",
+      "meaning": "For you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "Possession, completion, perfection"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "For, to"
+        },
+        {
+          "arabic": "ـكُمُ",
+          "meaning": "You (plural, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "الْآيَاتِ",
+      "transliteration": "al-ʾāyāti",
+      "meaning": "The verses/signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, proof"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آيَات",
+          "meaning": "verses/signs (plural of آية)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "[That] you all",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect; to be able to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, in order that; a particle indicating purpose or hope"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "hope, expectation; potentiality"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you all, yourselves (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "تَتَفَكَّرُونَ",
+      "transliteration": "tatafakkarūna",
+      "meaning": "You might give thought",
+      "root": {
+        "letters": "ف-ك-ر",
+        "meaning": "to think, to reflect, to consider"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person plural present tense (you all)"
+        },
+        {
+          "arabic": "تَفَكَّر",
+          "meaning": "to reflect, to give thought (root-based form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Would-anyone desire? -one of you? -that -be/exist -for him -a garden -of -palm trees -and grapevines? -flowing -from -beneath it -the rivers -for him -in it -of -all/every -the fruits? -and afflicted him -old age -and for him -offspring -weak ones? -then it afflicted it -a whirlwind -in it -a fire? -so it burned. -thusly/like that -he makes clear -Allah -for you -the verses? -[that] you all -you might give thought."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

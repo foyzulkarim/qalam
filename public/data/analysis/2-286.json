@@ -1,0 +1,906 @@
+{
+  "verseId": "2:286",
+  "verse": {
+    "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+    "transliteration": "La yukallifu Allahu nafsan illa wusAAaha laha ma kasabat waAAalayha ma iktasabat rabbana la tuakhithna in naseena aw akhtana rabbana wala tahmil AAalayna isran kama hamaltahu AAala allatheena min qablina rabbana wala tuhammilna ma la taqata lana bihi waoAAfu AAanna waighfir lana wairhamna anta mawlana faonsurna AAala alqawmi alkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 286
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُكَلِّفُ",
+      "transliteration": "yukallifu",
+      "meaning": "He imposes a task/burden",
+      "root": {
+        "letters": "ك-ل-ف",
+        "meaning": "to be burdened, to exert effort"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "كَلِّفَ",
+          "meaning": "to impose a task/burden (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَفْسًا",
+      "transliteration": "nafsaan",
+      "meaning": "a soul/person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, vital force, person"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to resort to, return to; negation or exclusion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وُسْعَهَا",
+      "transliteration": "wusʿahā",
+      "meaning": "its capacity/ability",
+      "root": {
+        "letters": "و-س-ع",
+        "meaning": "to be wide, spacious; to suffice, accommodate"
+      },
+      "components": [
+        {
+          "arabic": "وُسْع",
+          "meaning": "capacity, ability, ease"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her/its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker/separator",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَهَا",
+      "transliteration": "lahā",
+      "meaning": "for it/to it",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (in a broad sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَسَبَتْ",
+      "transliteration": "kasabat",
+      "meaning": "it has gained/earned (good)",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to earn, to strive for"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Prefix indicating the feminine singular pronoun 'she'"
+        },
+        {
+          "arabic": "سَبَتْ",
+          "meaning": "The verb 'to earn/gain' in the perfect tense, feminine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon it/to its account",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to overcome; relating to height or superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/her (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; that which is wished for or desired"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اكْتَسَبَتْ",
+      "transliteration": "iktasabat",
+      "meaning": "it has earned (evil)",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to earn, to seek"
+      },
+      "components": [
+        {
+          "arabic": "اِكْتَ",
+          "meaning": "intensive prefix indicating thoroughness or effort"
+        },
+        {
+          "arabic": "سَبَتْ",
+          "meaning": "acquired, earned (feminine singular past)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۗ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker/separator",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabb-anā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تُؤَاخِذْنَا",
+      "transliteration": "tuʾākhidhnā",
+      "meaning": "You take us to task/blame us",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to grasp, to seize"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating 'you (plural)' future tense"
+        },
+        {
+          "arabic": "آخِذ",
+          "meaning": "taking, seizing (verbal noun form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "نَّسِينَا",
+      "transliteration": "nasīnā",
+      "meaning": "we have forgotten",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (first person plural pronoun prefix)"
+        },
+        {
+          "arabic": "سِينَا",
+          "meaning": "have forgotten (second person plural verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-أ-و",
+        "meaning": "to connect, to join; alternation or choice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "أَخْطَأْنَا",
+      "transliteration": "akhṭaʾnā",
+      "meaning": "we have erred/made a mistake",
+      "root": {
+        "letters": "خ-ط-أ",
+        "meaning": "to err, to make a mistake, to sin"
+      },
+      "components": [
+        {
+          "arabic": "أَخْطَأ",
+          "meaning": "we erred/made a mistake (verb)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker/separator",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabb-anā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, union, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "تَحْمِلْ",
+      "transliteration": "taḥmil",
+      "meaning": "You impose/carry",
+      "root": {
+        "letters": "ح-م-ل",
+        "meaning": "to carry, to bear, to impose"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "حَمَلْ",
+          "meaning": "to carry, to bear (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "upon us",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to ascend, rise above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "إِصْرًا",
+      "transliteration": "iṣran",
+      "meaning": "a burden/difficulty",
+      "root": {
+        "letters": "ص-ر-ع",
+        "meaning": "to be afflicted with difficulty, to overcome, to seize"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as/like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "حَمَلْتَهُ",
+      "transliteration": "ḥamaltahu",
+      "meaning": "You carried it/imposed it",
+      "root": {
+        "letters": "ح-م-ل",
+        "meaning": "to bear, carry, undertake; to be strong"
+      },
+      "components": [
+        {
+          "arabic": "حَمَل",
+          "meaning": "You carried, you undertook"
+        },
+        {
+          "arabic": "تَهُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have, pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, source or origin (denotes separation and specification)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "قَبْلِنَا",
+      "transliteration": "qablanā",
+      "meaning": "before us",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to be anterior"
+      },
+      "components": [
+        {
+          "arabic": "قبل",
+          "meaning": "before"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker/separator",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabb-anā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture, to grow"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master, Possessor"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "our, us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining, reaching"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "تُحَمِّلْنَا",
+      "transliteration": "tuḥammilnā",
+      "meaning": "You burden us/impose on us",
+      "root": {
+        "letters": "ح-م-ل",
+        "meaning": "to carry, to bear, to undertake"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "You (masculine plural) - prefix indicating the subject and tense/mood"
+        },
+        {
+          "arabic": "حَمَّلْـ",
+          "meaning": "to burden/impose (stem from root ح-م-ل)"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "us - suffix indicating the object pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "طَاقَةَ",
+      "transliteration": "ṭāqata",
+      "meaning": "ability/capacity",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be pliable/flexible, to submit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "for us/to us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us/we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it/by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, by means of"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker/separator",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "وَاعْفُ",
+      "transliteration": "wa-ʿfu",
+      "meaning": "and pardon/forgive",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to forgive, to pardon, to erase"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْفُ",
+          "meaning": "forgive/pardon (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "عَنَّا",
+      "transliteration": "ʿannā",
+      "meaning": "from us/about us",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be distant, to turn away, to refrain from"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "وَاغْفِرْ",
+      "transliteration": "wa-ghfir",
+      "meaning": "and forgive",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اغْفِرْ",
+          "meaning": "forgive (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "for us/to us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "وَارْحَمْنَا",
+      "transliteration": "wa-raḥmanā",
+      "meaning": "and have mercy upon us",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to show mercy"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ارْحَمْنَا",
+          "meaning": "have mercy upon us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker/separator",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "You",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; personal pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "مَوْلَانَا",
+      "transliteration": "mawlānā",
+      "meaning": "Our protector/Lord",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to take care of, protect, be responsible for; to turn to or seek refuge with"
+      },
+      "components": [
+        {
+          "arabic": "مَوۡلَى",
+          "meaning": "protector, lord, guardian"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "فَانصُرْنَا",
+      "transliteration": "fa-nṣurnā",
+      "meaning": "So give us victory/help us",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to give victory"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle of entreaty)"
+        },
+        {
+          "arabic": "انْصُرْ",
+          "meaning": "Help!/Give victory! (imperative verb)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "over/upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 57,
+      "arabic": "الْقَوْمِ",
+      "transliteration": "al-qawmi",
+      "meaning": "the people/nation",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; people, tribe, nation"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَوْم",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 58,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīna",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-imposes task/burden Allah a soul except its capacity. For it what it has gained and upon it what it has earned. Our Lord not-take us to task if we have forgotten or we have erred. Our Lord and not-impose upon us a burden like that which You imposed it upon those who from before us. Our Lord and not-burden us with that which not ability for us to it. And pardon from us and forgive for us and have mercy upon us. You are Our protector so give us victory over the people disbelievers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

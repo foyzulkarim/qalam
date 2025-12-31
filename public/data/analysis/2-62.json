@@ -1,0 +1,463 @@
+{
+  "verseId": "2:62",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "transliteration": "Inna allatheena amanoo waallatheena hadoo waalnnasara waalssabieena man amana biAllahi waalyawmi alakhiri waAAamila salihan falahum ajruhum AAinda rabbihim wala khawfun AAalayhim wala hum yahzanoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 62
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness; to believe, have faith"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "particle indicating present/continuous tense, or intensification"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to belong to, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هَادُوا",
+      "transliteration": "hādu",
+      "meaning": "Were Jews (past tense)",
+      "root": {
+        "letters": "هـ-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": [
+        {
+          "arabic": "هَادُوا",
+          "meaning": "they were Jews; they followed Judaism (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "النَّصَارَىٰ",
+      "transliteration": "an-naṣārā",
+      "meaning": "The Christians",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to support"
+      },
+      "components": [
+        {
+          "arabic": "النَّصَارَىٰ",
+          "meaning": "The followers, adherents (plural form indicating people)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الصَّابِئِينَ",
+      "transliteration": "aṣ-ṣābiʾīna",
+      "meaning": "The Sabeans",
+      "root": {
+        "letters": "ص-ب-أ",
+        "meaning": "to pour, to flow; to turn away from the true religion (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "اَلصَّابِئِينَ",
+          "meaning": "The Sabeans (plural definite form; people who practiced a religion involving star worship and ritual purification)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "Whoever, those who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; to originate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "آمَنَ",
+      "transliteration": "ʾāmana",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trustworthiness, faith"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "In Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, to be divine, godhood"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the one and only God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْيَوْمِ",
+      "transliteration": "al-yawmi",
+      "meaning": "The Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, to pass; existence or passing of time"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "يَوْم",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْآخِرِ",
+      "transliteration": "al-ʾākhiri",
+      "meaning": "The Last (Day)",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, final, last"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "آخِرِ",
+          "meaning": "Last (Day), final"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "عَمِلَ",
+      "transliteration": "ʿamila",
+      "meaning": "Worked, did",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to exert effort"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "صَالِحًا",
+      "transliteration": "ṣāliḥan",
+      "meaning": "Righteousness, good deeds",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be right, correct, suitable; to repair, amend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فَلَهُمْ",
+      "transliteration": "fa-lahum",
+      "meaning": "Then for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "belonging to, for, possession"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَهُمْ",
+          "meaning": "for them, to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أَجْرُهُمْ",
+      "transliteration": "ʾajruhum",
+      "meaning": "Their reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to reward, compensation"
+      },
+      "components": [
+        {
+          "arabic": "أَجْرُ",
+          "meaning": "reward, wages"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "With, at",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "Possession, presence, location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "Their (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "No",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "To refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "خَوْفٌ",
+      "transliteration": "khawfun",
+      "meaning": "Fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "To fear, to be afraid; aversion, dread."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Nor",
+      "components": [
+        {
+          "arabic": "ل",
+          "meaning": "Particle of negation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "يَحْزَنُونَ",
+      "transliteration": "yaḥzanūna",
+      "meaning": "They will grieve",
+      "root": {
+        "letters": "ح-ز-ن",
+        "meaning": "sorrow, sadness, grief"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "حْزَن",
+          "meaning": "sorrow, grief (noun form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "dual or plural active present tense marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-those-who-believed-and-the-those-who-Judaized-and-the-Christians-and-the-Sabeans-[from]-whoever-believed-in-Allah-and-the-Day-the-Last-and-did-righteousness-[then]-for-them-their-reward-with-Their-Lord-and-no-fear-upon-them-and-nor-they-will-grieve"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

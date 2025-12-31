@@ -1,0 +1,299 @@
+{
+  "verseId": "2:128",
+  "verse": {
+    "arabic": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ",
+    "transliteration": "Rabbana waijAAalna muslimayni laka wamin thurriyyatina ommatan muslimatan laka waarina manasikana watub AAalayna innaka anta alttawwabu alrraheemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 128
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbanā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَاجْعَلْنَا",
+      "transliteration": "wa-ajʿalnā",
+      "meaning": "And make us",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اجْعَلْ",
+          "meaning": "make (imperative)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُسْلِمَيْنِ",
+      "transliteration": "muslimayni",
+      "meaning": "Muslims (dual)",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, to surrender (to God)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "to You",
+      "root": {
+        "letters": "ل-ك-أ",
+        "meaning": "possession, ownership; to have something belong to someone"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَمِن ذُرِّيَّتِنَا",
+      "transliteration": "wa-min dhurriyyatinā",
+      "meaning": "And from our descendants",
+      "root": {
+        "letters": "ذ-ر-ي",
+        "meaning": "to procreate, offspring, lineage"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "ذُرِّيَّة",
+          "meaning": "descendants, offspring"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أُمَّةً",
+      "transliteration": "ummatan",
+      "meaning": "a nation",
+      "root": {
+        "letters": "ا-م-ة",
+        "meaning": "intention, desire, purpose; a people united by such"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُّسْلِمَةً",
+      "transliteration": "muslimatan",
+      "meaning": "Muslim (feminine singular, acting as an attribute)",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, to surrender (to God), peaceful submission"
+      },
+      "components": [
+        {
+          "arabic": "مسلم",
+          "meaning": "Muslim (masculine singular)"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine ending (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "to You",
+      "root": {
+        "letters": "ل-ك-أ",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَأَرِنَا",
+      "transliteration": "wa-ʾarinā",
+      "meaning": "And show us",
+      "root": {
+        "letters": "ر-ي-أ",
+        "meaning": "to see, to witness, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَرِنَا",
+          "meaning": "show us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَنَاسِكَنَا",
+      "transliteration": "manāsikanā",
+      "meaning": "our rites (of worship)",
+      "root": {
+        "letters": "ن-س-ك",
+        "meaning": "to consecrate, to devote oneself (to worship)"
+      },
+      "components": [
+        {
+          "arabic": "مناسك",
+          "meaning": "rites, places of worship"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَتُبْ عَلَيْنَا",
+      "transliteration": "wa-tub ʿalaynā",
+      "meaning": "And accept our repentance",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تُبْ",
+          "meaning": "repent (imperative)"
+        },
+        {
+          "arabic": "عَلَيْنَا",
+          "meaning": "upon us, to us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِنَّكَ",
+      "transliteration": "innaka",
+      "meaning": "Indeed, You",
+      "root": {
+        "letters": "ك-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "You (emphatic)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also associated with being distant or separate (hence the emphatic 'you')"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "التَّوَّابُ",
+      "transliteration": "at-tawwābu",
+      "meaning": "the Accepting of repentance",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تَّوَّابُ",
+          "meaning": "one who repeatedly accepts repentance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "ar-raḥīmu",
+      "meaning": "the Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to show mercy"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رَّحِيمُ",
+          "meaning": "Merciful, possessing mercy"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Our-Lord -and-make-us -Muslims-to-You -and-from-our-descendants -a-nation -Muslim-to-You -and-show-us -our-rites -and-accept-our-repentance -Indeed-You -You -the-Accepting-of-Repentance -the-Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

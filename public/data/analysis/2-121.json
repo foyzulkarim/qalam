@@ -1,0 +1,304 @@
+{
+  "verseId": "2:121",
+  "verse": {
+    "arabic": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَـٰئِكَ يُؤْمِنُونَ بِهِ ۗ وَمَن يَكْفُرْ بِهِ فَأُولَـٰئِكَ هُمُ الْخَاسِرُونَ",
+    "transliteration": "Allatheena ataynahumu alkitaba yatloonahu haqqa tilawatihi olaika yuminoona bihi waman yakfur bihi faolaika humu alkhasiroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 121
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to own, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آتَيْنَاهُمُ",
+      "transliteration": "ātaynāhumu",
+      "meaning": "We gave to them",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, to come with"
+      },
+      "components": [
+        {
+          "arabic": "آتَي",
+          "meaning": "We gave (verb root)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We (pronoun suffix)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "to them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording; to write"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, writing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَتْلُونَهُ",
+      "transliteration": "yatlūnahu",
+      "meaning": "they recite it",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite, to read after one another"
+      },
+      "components": [
+        {
+          "arabic": "يَت",
+          "meaning": "they (masculine plural) - prefix indicating the verb's subject and tense"
+        },
+        {
+          "arabic": "لُو",
+          "meaning": "it - pronoun referring to the thing being recited (Quran)"
+        },
+        {
+          "arabic": "نَهُ",
+          "meaning": "them - suffix indicating the verb's person and number (3rd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَقَّ",
+      "transliteration": "ḥaqqa",
+      "meaning": "truly/with truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تِلَاوَتِهِ",
+      "transliteration": "tilāwatihi",
+      "meaning": "its recital",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite"
+      },
+      "components": [
+        {
+          "arabic": "تِلَاوَة",
+          "meaning": "recital, reading aloud"
+        },
+        {
+          "arabic": "-هِ",
+          "meaning": "his/its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ūlā'ika",
+      "meaning": "those [ones]",
+      "root": {
+        "letters": "د-ل-ي",
+        "meaning": "to point out, to indicate"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "those (demonstrative pronoun prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating plural masculine human beings"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yu'minūna",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "to believe (stem from the root أ-م-ن)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating first person plural masculine (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to have, to possess; to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "in it, to it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and who/whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; also indicates questioning or relative pronouns"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who/whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَكْفُرْ",
+      "transliteration": "yakfuru",
+      "meaning": "disbelieves",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny, to be ungrateful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "pronoun suffix - it/him/her"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "fa-ūlā'ika",
+      "meaning": "then those [ones]",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to precede; the beginning"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "they [are]",
+      "root": {
+        "letters": "ه-م-و",
+        "meaning": "to be, to exist; pronoun referring to masculine plural"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْخَاسِرُونَ",
+      "transliteration": "al-khāsirūna",
+      "meaning": "the losers",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to suffer loss, to be defeated"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَاسِرُونَ",
+          "meaning": "losers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-those-who We-gave-to-them the-Book they-recite-it with-truth its-recital those [ones] they-believe in-it and who disbelieves in-it then-those [ones] they [are] the-losers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

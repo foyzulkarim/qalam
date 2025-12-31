@@ -1,0 +1,444 @@
+{
+  "verseId": "2:33",
+  "verse": {
+    "arabic": "قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ ۖ فَلَمَّا أَنبَأَهُم بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ",
+    "transliteration": "Qala ya adamu anbihum biasmaihim falamma anbaahum biasmaihim qala alam aqul lakum innee aAAlamu ghayba alssamawati waalardi waaAAlamu ma tubdoona wama kuntum taktumoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time; to exist, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آدَمُ",
+      "transliteration": "ʾādamu",
+      "meaning": "Adam",
+      "root": {
+        "letters": "أ-د-م",
+        "meaning": "to establish, to create, to form; earth or clay (related to the material Adam was created from)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنبِئْهُم",
+      "transliteration": "ʾanbiʾhum",
+      "meaning": "Inform them",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "To report, to inform, to announce; news itself."
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "To inform, that (introducing a noun clause)"
+        },
+        {
+          "arabic": "بِ",
+          "meaning": "To, with, for (preposition)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "They (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِأَسْمَائِهِمْ",
+      "transliteration": "biʾasmāʾihim",
+      "meaning": "With their names",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to elevate, to rise; excellence, high status, or prestige.  Also related to names and fame."
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَسْمَائِهِمْ",
+          "meaning": "their names"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": " (pause)",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَلَمَّا",
+      "transliteration": "falammā",
+      "meaning": "And when/So when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will; inclination, purpose"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "the particle fa, indicating sequence or result"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "the particle la, introducing a conditional clause"
+        },
+        {
+          "arabic": "مَّا",
+          "meaning": "the particle mā, relative pronoun (when)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَنبَأَهُم",
+      "transliteration": "ʾanbaʾahum",
+      "meaning": "He informed them",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to inform, to give news"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to"
+        },
+        {
+          "arabic": "بَأ",
+          "meaning": "informed (past tense)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِأَسْمَائِهِمْ",
+      "transliteration": "biʾasmāʾihim",
+      "meaning": "With their names",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to elevate, to be high; reputation, name"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "أَسْمَائِهِمْ",
+          "meaning": "their names"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did not?",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to wish, to know"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negative particle, did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَقُل",
+      "transliteration": "ʾaqul",
+      "meaning": "I tell/say?",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to speak, to command"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle indicating interrogative mood (question)"
+        },
+        {
+          "arabic": "قُل",
+          "meaning": "say, tell (imperative form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "To you (pl.)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "To, for (preposition)"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "You (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِنِّي",
+      "transliteration": "ʾinnī",
+      "meaning": "Indeed I",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to be, to exist; also used for emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "I (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "ʾaʿlamu",
+      "meaning": "I know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, intelligence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun prefix)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah indicating first-person singular present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "غَيْبَ",
+      "transliteration": "ghayba",
+      "meaning": "The unseen/hidden [aspects]",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be absent, to disappear, to go away; hiddenness, unseen nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "The heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَالْأَرْضِ",
+      "transliteration": "wal-ʾarḍi",
+      "meaning": "And the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَأَعْلَمُ",
+      "transliteration": "waʾaʿlamu",
+      "meaning": "And I know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware, perceive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَعْلَمُ",
+          "meaning": "I know; I am more knowing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "تُبْدُونَ",
+      "transliteration": "tubdūna",
+      "meaning": "You reveal/uncover",
+      "root": {
+        "letters": "ب-د-و",
+        "meaning": "to become apparent, to appear, to manifest"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural present tense"
+        },
+        {
+          "arabic": "بْدُونَ",
+          "meaning": "revealing, uncovering (verbal noun/form II)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "And what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for; to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "You were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "You were (basic form)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "Suffix indicating second person plural (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "تَكْتُمُونَ",
+      "transliteration": "taktumūna",
+      "meaning": "You conceal/hide",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to conceal, to hide, to keep secret"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix indicating the first person plural active voice (we)"
+        },
+        {
+          "arabic": "ـكْتُمُـ",
+          "meaning": "Active voice stem related to concealing/hiding"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "Suffix indicating the first person plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He said - O Adam - Inform them - with their names - [pause] - And when - He informed them - with their names - He said - Did not I tell - to you (pl.) - Indeed I - I know - the unseen [aspects] - the heavens - and the earth - And I know - what - you reveal/uncover - and what - you were - you conceal/hide"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

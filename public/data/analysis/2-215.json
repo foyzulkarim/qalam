@@ -1,0 +1,392 @@
+{
+  "verseId": "2:215",
+  "verse": {
+    "arabic": "يَسْأَلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَا أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَالِدَيْنِ وَالْأَقْرَبِينَ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ ۗ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ",
+    "transliteration": "Yasaloonaka matha yunfiqoona qul ma anfaqtum min khayrin falilwalidayni waalaqrabeena waalyatama waalmasakeeni waibni alssabeeli wama tafAAaloo min khayrin fainna Allaha bihi AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 215
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَسْأَلُونَكَ",
+      "transliteration": "yasʾalūna-ka",
+      "meaning": "They ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "يَسْأَلُونَ",
+          "meaning": "They ask (present tense, active)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَاذَا",
+      "transliteration": "mādhā",
+      "meaning": "What?",
+      "root": {
+        "letters": "ذ-هـ-و",
+        "meaning": "to go, to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "interrogative particle; what"
+        },
+        {
+          "arabic": "ذَا",
+          "meaning": "this, pronoun referring to something unspecified"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُنفِقُونَ",
+      "transliteration": "yunfiqūna",
+      "meaning": "They spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "To expend; to spend (money, time, effort)"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "They (masculine plural) - Prefix indicating present/future tense and subject pronoun"
+        },
+        {
+          "arabic": "فِق",
+          "meaning": "Expend; spend (from the root ن-ف-ق)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "They (masculine plural) - Suffix indicating present/future tense and subject pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; to command (through speech)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "Whatever",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, perishability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنفَقْتُم",
+      "transliteration": "ʾanfaqtum",
+      "meaning": "You have spent",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "To expend, spend, or flow out"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "Indicative particle, implying past tense or completion"
+        },
+        {
+          "arabic": "فَعْتُم",
+          "meaning": "You (plural) have spent - verb form indicating action performed by a group of people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "To prevent, to withhold, to origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خَيْرٍ",
+      "transliteration": "khayrin",
+      "meaning": "Good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَلِلْوَالِدَيْنِ",
+      "transliteration": "fa-lil-wālidayni",
+      "meaning": "Then for the parents",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to bear, to be born; to produce offspring"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْوَالِدَيْنِ",
+          "meaning": "the two parents"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَالْأَقْرَبِينَ",
+      "transliteration": "wa-al-ʾaqrabīna",
+      "meaning": "And the relatives",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَقْرَبِينَ",
+          "meaning": "relatives (plural masculine, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَالْيَتَامَىٰ",
+      "transliteration": "wa-al-yatāmā",
+      "meaning": "And the orphans",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, orphaned; deficiency, need"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَتَامَىٰ",
+          "meaning": "orphans (plural of يَتِيم)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالْمَسَاكِينِ",
+      "transliteration": "wa-al-masākīni",
+      "meaning": "And the needy",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to be poor, to lack; poverty, neediness"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسَاكِينِ",
+          "meaning": "needy, poor (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَابْنِ السَّبِيلِ",
+      "transliteration": "wa-ibna al-sabīli",
+      "meaning": "And the wayfarer",
+      "root": {
+        "letters": "س-ب-ل",
+        "meaning": "to go on a way, path; to provide water (as for travelers)"
+      },
+      "components": [
+        {
+          "arabic": "ابْنِ",
+          "meaning": "build, construct (imperative form)"
+        },
+        {
+          "arabic": "السَّبِيلِ",
+          "meaning": "the way, the path; the traveler (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[Pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also, water (related to the idea of having something essential)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تَفْعَلُوا",
+      "transliteration": "tafʿalū",
+      "meaning": "You do",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperative mood (you)"
+        },
+        {
+          "arabic": "ـفْعَلُـ",
+          "meaning": "verb stem meaning 'to do'"
+        },
+        {
+          "arabic": "~وا",
+          "meaning": "suffix indicating a plural 'you' (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "To hinder, obstruct, or be absent; related to source and origin."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "خَيْرٍ",
+      "transliteration": "khayrin",
+      "meaning": "Good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "Goodness, benefit, welfare; the best"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فَإِنَّ",
+      "transliteration": "fa-ʾinna",
+      "meaning": "Then indeed",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بِهِ",
+      "transliteration": "bi-hi",
+      "meaning": "Of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of, pertaining to"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "of it, belonging to him/her/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīm",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "To know, to be aware, possess knowledge"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-ask-you what? - They-spend. Say! Whatever-you-spend from good – then for the parents and relatives and the orphans and the needy and the wayfarer. And whatever you-do from good – then indeed Allah of it Knowing."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

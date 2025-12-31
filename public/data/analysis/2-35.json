@@ -1,0 +1,345 @@
+{
+  "verseId": "2:35",
+  "verse": {
+    "arabic": "وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ",
+    "transliteration": "Waqulna ya adamu oskun anta wazawjuka aljannata wakula minha raghadan haythu shituma wala taqraba hathihi alshshajarata fatakoona mina alththalimeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُلْنَا",
+      "transliteration": "qulnā",
+      "meaning": "We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قُلْ",
+          "meaning": "Say (imperative)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": {
+        "letters": "ي-و-د",
+        "meaning": "to call, to invoke"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آدَمُ",
+      "transliteration": "ʾādamu",
+      "meaning": "Adam",
+      "root": {
+        "letters": "أ-د-م",
+        "meaning": "to fashion, to mold, to create; earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اِسْكُنْ",
+      "transliteration": "iskun",
+      "meaning": "dwell!",
+      "root": {
+        "letters": "س-ك-ن",
+        "meaning": "to reside, to dwell, to settle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "you",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; you (masculine singular)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "زَوْجُكَ",
+      "transliteration": "zawjuka",
+      "meaning": "your wife",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to couple, to pair"
+      },
+      "components": [
+        {
+          "arabic": "زوج",
+          "meaning": "wife, spouse"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْجَنَّةَ",
+      "transliteration": "al-jannata",
+      "meaning": "the Paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كُلَا",
+      "transliteration": "kulā",
+      "meaning": "eat!",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from, pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رَغَدًا",
+      "transliteration": "raḡadan",
+      "meaning": "abundance, ease",
+      "root": {
+        "letters": "ر-غ-د",
+        "meaning": "to live comfortably, to be soft or tender"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "wherever",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist in a place; location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شِئْتُمَا",
+      "transliteration": "shiʾtumā",
+      "meaning": "you both will/desire",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to want, to wish, to desire; thing (as an object of desire)"
+      },
+      "components": [
+        {
+          "arabic": "شِئْتُمَا",
+          "meaning": "you both desired/willed (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَلَا",
+      "transliteration": "walā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to abstain from, to be independent of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تَقْرَبَا",
+      "transliteration": "taqrabā",
+      "meaning": "you both approach",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person dual present tense"
+        },
+        {
+          "arabic": "قَرُبَـ",
+          "meaning": "to approach (root verb)"
+        },
+        {
+          "arabic": "ـَا",
+          "meaning": "dual pronoun suffix (you both)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "هَـٰذِهِ",
+      "transliteration": "hāḏihi",
+      "meaning": "this [tree]",
+      "root": {
+        "letters": "ه-ذ-أ",
+        "meaning": "to point, to indicate, to be this"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰ",
+          "meaning": "the demonstrative particle"
+        },
+        {
+          "arabic": "ذِهِ",
+          "meaning": "this (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الشَّجَرَةَ",
+      "transliteration": "ash-shajarata",
+      "meaning": "the tree",
+      "root": {
+        "letters": "ش-ج-ر",
+        "meaning": "to split, to divide; growth; plant"
+      },
+      "components": [
+        {
+          "arabic": "الشَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَرَة",
+          "meaning": "tree (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فَتَكُونَا",
+      "transliteration": "fatakūnā",
+      "meaning": "[so] you both be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (introduces a result)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person dual (you both)"
+        },
+        {
+          "arabic": "كُونَا",
+          "meaning": "be (second person dual, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الظَّالِمِينَ",
+      "transliteration": "aẓ-ẓālimīna",
+      "meaning": "the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, oppression"
+      },
+      "components": [
+        {
+          "arabic": "الظَّالِمِينَ",
+          "meaning": "the wrongdoers (plural, masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-We said O-Adam dwell you and-your wife the-Paradise and-eat from-it abundance wherever-you both-will and-do not you both approach this the-tree so-[then] you both be from among the-wrongdoers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

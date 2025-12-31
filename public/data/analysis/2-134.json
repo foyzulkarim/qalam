@@ -1,0 +1,295 @@
+{
+  "verseId": "2:134",
+  "verse": {
+    "arabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+    "transliteration": "Tilka ommatun qad khalat laha ma kasabat walakum ma kasabtum wala tusaloona AAamma kano yaAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 134
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "That (feminine demonstrative pronoun)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to point out, to indicate"
+      },
+      "components": [
+        {
+          "arabic": "تِلْ",
+          "meaning": "That (feminine, remote)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Suffix pronoun - you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُمَّةٌ",
+      "transliteration": "ummatun",
+      "meaning": "Nation, community",
+      "root": {
+        "letters": "أ-م-ة",
+        "meaning": "foundation, base; the core of a people or thing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "Indeed, already (particle of emphasis)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَلَتْ",
+      "transliteration": "khalat",
+      "meaning": "Passed away, departed",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to depart, to remain behind"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "Pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَهَا",
+      "transliteration": "lahā",
+      "meaning": "For it, to it (feminine pronoun + preposition)",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for, to it (feminine)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which (relative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "What, that which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَسَبَتْ",
+      "transliteration": "kasabat",
+      "meaning": "It earned, it acquired (feminine)",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to strive, to earn, to acquire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And (conjunction)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَكُم",
+      "transliteration": "lakum",
+      "meaning": "For you (plural pronoun + preposition)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession (derived)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "What, that which (relative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; also related to water and source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَسَبْتُمْ",
+      "transliteration": "kasabtum",
+      "meaning": "You earned, you acquired (plural)",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to strive, to acquire through effort"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "prefix indicating 'you (plural)'"
+        },
+        {
+          "arabic": "سَبْتُمْ",
+          "meaning": "you earned/acquired (second person plural perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "Pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And (conjunction)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تُسْأَلُونَ",
+      "transliteration": "tusʾalūna",
+      "meaning": "You will be asked (plural passive)",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "prefix indicating passive voice and future tense (or habitual action)"
+        },
+        {
+          "arabic": "سْأَ",
+          "meaning": "root related to asking/inquiring"
+        },
+        {
+          "arabic": "ـَلُونَ",
+          "meaning": "suffix indicating plural masculine form, present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَمَّا",
+      "transliteration": "ʿammā",
+      "meaning": "About what (preposition + relative pronoun)",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "to obscure, to be blind, general"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "about, concerning, from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "They were (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be; existence, becoming"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "They (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "Were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَعْمَلُونَ",
+      "transliteration": "yaʿmalūna",
+      "meaning": "They used to do, they were doing (plural)",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to practice"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and the first person plural (they)"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing, action, work (verbal noun form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "That - a nation - indeed - it has passed away - for it - what - it earned - and - for you - what - you have earned - and - not - you will be asked - about what - they were - doing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

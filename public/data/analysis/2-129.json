@@ -1,0 +1,325 @@
+{
+  "verseId": "2:129",
+  "verse": {
+    "arabic": "رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ",
+    "transliteration": "Rabbana waibAAath feehim rasoolan minhum yatloo AAalayhim ayatika wayuAAallimuhumu alkitaba waalhikmata wayuzakkeehim innaka anta alAAazeezu alhakeemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 129
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbanā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "us, our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَابْعَثْ",
+      "transliteration": "wabʿathْ",
+      "meaning": "and send",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to raise up, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ابْعَثْ",
+          "meaning": "send (you - masculine singular imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهِمْ",
+      "transliteration": "fīhim",
+      "meaning": "among them",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, among"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (masculine plural, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَسُولًا",
+      "transliteration": "rasūlan",
+      "meaning": "a messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a message or communication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from themselves",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate from, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَتْلُو",
+      "transliteration": "yatlū",
+      "meaning": "who recites",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite, to read after"
+      },
+      "components": [
+        {
+          "arabic": "يَتْ",
+          "meaning": "prefix indicating present/future tense and first person singular or third person masculine singular"
+        },
+        {
+          "arabic": "لُو",
+          "meaning": "second person singular masculine pronoun suffix (attached to the verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "to them",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to rise, to be above, to assume responsibility for"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "آيَاتِكَ",
+      "transliteration": "āyātika",
+      "meaning": "Your verses",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, miracle"
+      },
+      "components": [
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "verses (plural)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَيُعَلِّمُهُمُ",
+      "transliteration": "wayuʿallimuhum",
+      "meaning": "and teaches them",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُعَلِّمُ",
+          "meaning": "he teaches"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording; to write"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, writing; derived from the root ك-ت-ب"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَالْحِكْمَةَ",
+      "transliteration": "wal-ḥikmata",
+      "meaning": "and wisdom",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule, to restrain; wisdom, judgment"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْحِكْمَةَ",
+          "meaning": "the wisdom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَيُزَكِّيهِمْ",
+      "transliteration": "wayuzakkīhim",
+      "meaning": "and purifies them",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean; to improve, make better, increase in goodness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُزَكِّيهِمْ",
+          "meaning": "He purifies them (verb, active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِنَّكَ",
+      "transliteration": "innaka",
+      "meaning": "Indeed, You",
+      "root": {
+        "letters": "ك-ن-و",
+        "meaning": "To be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular, suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "You (are)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْعَزِيزُ",
+      "transliteration": "al-ʿazīzu",
+      "meaning": "the Exalted in Might",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness, dignity"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَزِيز",
+          "meaning": "mighty, powerful, exalted"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْحَكِيمُ",
+      "transliteration": "al-ḥakīmu",
+      "meaning": "the Wise",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule, to be wise"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَكِيمُ",
+          "meaning": "wise, judicious"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Our-Lord - and-send - among-them - a-messenger - from-themselves - who-recites - to-them - Your-verses - and-teaches-them - the-Book - and-wisdom - and-purifies-them - Indeed-You - You(are) - the-Exalted-in-Might - the-Wise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

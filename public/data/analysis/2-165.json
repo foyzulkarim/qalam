@@ -1,0 +1,540 @@
+{
+  "verseId": "2:165",
+  "verse": {
+    "arabic": "وَمِنَ النَّاسِ مَن يَتَّخِذُ مِن دُونِ اللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ اللَّهِ ۖ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ",
+    "transliteration": "Wamina alnnasi man yattakhithu min dooni Allahi andadan yuhibboonahum kahubbi Allahi waallatheena amanoo ashaddu hubban lillahi walaw yara allatheena thalamoo ith yarawna alAAathaba anna alquwwata lillahi jameeAAan waanna Allaha shadeedu alAAathabi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 165
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِنَ",
+      "transliteration": "wa-mina",
+      "meaning": "and from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be related to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-ا-س",
+        "meaning": "to forget, to be lost; people (collective)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to weaken, or to be obscure; related to questioning and inquiry."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَتَّخِذُ",
+      "transliteration": "yattakhidhu",
+      "meaning": "he takes, he chooses",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to acquire, to choose"
+      },
+      "components": [
+        {
+          "arabic": "يَتَـ",
+          "meaning": "indicates present tense, 3rd person masculine singular prefix"
+        },
+        {
+          "arabic": "تَخِذُ",
+          "meaning": "takes, chooses (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "دُونِ",
+      "transliteration": "dūni",
+      "meaning": "besides, other than",
+      "root": {
+        "letters": "د-و-ن",
+        "meaning": "to be low, to humble oneself; inferiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ʔ-l-h",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَندَادًا",
+      "transliteration": "ʾandādan",
+      "meaning": "equals, peers",
+      "root": {
+        "letters": "ن-د-و",
+        "meaning": "to call, to invite; mutual desire or need"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُحِبُّونَهُمْ",
+      "transliteration": "yuḥibbūnahum",
+      "meaning": "they love them",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "they (prefix indicating subject and tense)"
+        },
+        {
+          "arabic": "حِبُّون",
+          "meaning": "love (verbal noun form)"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them (object pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَحُبِّ",
+      "transliteration": "ka-ḥubbi",
+      "meaning": "like the love of",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, affection, fondness"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "حُبِّ",
+          "meaning": "love (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "To worship, deity. The core meaning relates to the object of devotion and adoration."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-alladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be; possessor of quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "they believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness; to believe"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/future tense and plurality"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَشَدُّ",
+      "transliteration": "ʾashaddu",
+      "meaning": "more intense, stronger",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "intensity, strength, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "حُبًّا",
+      "transliteration": "ḥubban",
+      "meaning": "love",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, affection, fondness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لِّلَّهِ",
+      "transliteration": "li-Allāhi",
+      "meaning": "for Allah",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "Praise, glorification"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَ لَوْ",
+      "transliteration": "wa law",
+      "meaning": "and if only",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to wish, to want, regret, desire"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if only, were that..., may Allah grant..."
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَرَى",
+      "transliteration": "yarā",
+      "meaning": "he sees",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, first person singular (he)"
+        },
+        {
+          "arabic": "رَى",
+          "meaning": "to see, to perceive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to indicate, to point out; relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ظَلَمُوا",
+      "transliteration": "ẓalamū",
+      "meaning": "they wronged",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, wrongdoing, injustice; to be dark or shaded"
+      },
+      "components": [
+        {
+          "arabic": "ظَلَم",
+          "meaning": "they wronged (past tense, 3rd person masculine plural)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "pronoun suffix indicating 'they' (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, as",
+      "root": {
+        "letters": "أ-ذْ-ه",
+        "meaning": "to go away, to depart; to perceive, to be aware of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَرَوْنَ",
+      "transliteration": "yarawna",
+      "meaning": "they see",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (masculine plural pronoun)"
+        },
+        {
+          "arabic": "رَوْنَ",
+          "meaning": "seeing, perceiving (verbal noun from root ر-ي-ا)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْعَذَابَ",
+      "transliteration": "al-ʿadhāba",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; bitterness"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "meaning": "punishment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "الْقُوَّةَ",
+      "transliteration": "al-quwwata",
+      "meaning": "the power",
+      "root": {
+        "letters": "ق-و-ي",
+        "meaning": "to be strong, to have power; firmness, stability"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُوَّة",
+          "meaning": "power, strength"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "لِلَّهِ",
+      "transliteration": "li-Allāhi",
+      "meaning": "for Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "جَمِيعًا",
+      "transliteration": "jamīʿan",
+      "meaning": "all together, completely",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather, completeness"
+      },
+      "components": [
+        {
+          "arabic": "جَمِيع",
+          "meaning": "all, entirety"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-fatḥ, indicates indefiniteness and generality in this context"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "وَأَنَّ",
+      "transliteration": "wa-ʾanna",
+      "meaning": "and that, and indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; knowledge, perception"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the object of devotion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "شَدِيدُ",
+      "transliteration": "shadīdu",
+      "meaning": "severe, strong",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "intensity, firmness, strength"
+      },
+      "components": [
+        {
+          "arabic": "شَدّ",
+          "meaning": "to be firm, to strengthen"
+        },
+        {
+          "arabic": "يدُ",
+          "meaning": "possession, quality (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الْعَذَابِ",
+      "transliteration": "al-ʿadhābi",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; hardship"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابِ",
+          "meaning": "punishment (noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-from the-people who takes from other-than Allah equals they-love-them like-the-love-of Allah and-those-who believed more-intense love for-Allah and-if only they-see those-who wronged when they-see the-punishment that the-power for-Allah all-together and-that Allah severe the-punishment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

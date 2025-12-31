@@ -1,0 +1,306 @@
+{
+  "verseId": "2:13",
+  "verse": {
+    "arabic": "وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ ۗ أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ وَلَـٰكِن لَّا يَعْلَمُونَ",
+    "transliteration": "Waitha qeela lahum aminoo kama amana alnnasu qaloo anuminu kama amana alssufahao ala innahum humu alssufahao walakin la yaAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to turn away from something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قِيلَ",
+      "transliteration": "qīla",
+      "meaning": "it was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آمِنُوا",
+      "transliteration": "āmīnū",
+      "meaning": "believe (imperative)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as, like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resemblance, similarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آمَنَ",
+      "transliteration": "āmāna",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be lost or unknown; also related to lineage and descendants (people)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَنُؤْمِنُ",
+      "transliteration": "anu'minu",
+      "meaning": "should we believe?",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to believe, have trust"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle indicating a question, often with implication of doubt or denial"
+        },
+        {
+          "arabic": "نُ",
+          "meaning": "we (pronoun suffix)"
+        },
+        {
+          "arabic": "ؤُمِنُ",
+          "meaning": "to believe (verb, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as, like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; resembling or similar in quality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "آمَنَ",
+      "transliteration": "āmāna",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "السُّفَهَاءُ",
+      "transliteration": "as-sufahā’u",
+      "meaning": "the foolish ones",
+      "root": {
+        "letters": "س-ف-ه",
+        "meaning": "to be foolish, to lack understanding or good judgment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۗ",
+      "transliteration": "pause particle",
+      "meaning": "pause",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَلَا",
+      "transliteration": "alā",
+      "meaning": "alas, indeed",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to yearn, to desire, or an exclamation showing emphasis"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "innahum",
+      "meaning": "indeed they (are)",
+      "root": {
+        "letters": "ه-م-ي",
+        "meaning": "to be, to exist; presence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "they (are)",
+      "root": {
+        "letters": "ه-م-و",
+        "meaning": "to have, possess; to be"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "السُّفَهَاءُ",
+      "transliteration": "as-sufahā’u",
+      "meaning": "the foolish ones",
+      "root": {
+        "letters": "س-ف-ه",
+        "meaning": "to be foolish, to lack intelligence or sound judgment"
+      },
+      "components": [
+        {
+          "arabic": "السّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فُهَاءُ",
+          "meaning": "foolish ones (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَلَـٰكِن",
+      "transliteration": "wa lākina",
+      "meaning": "but, however",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hidden, latent"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـٰكِن",
+          "meaning": "but, however (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense and first person plural (they)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine pronoun (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when it-was-said to-them believe as believed the-people they-said should-we-believe as believed the-foolish ones? alas indeed-they they the-foolish ones but however not they-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

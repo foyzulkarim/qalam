@@ -1,0 +1,854 @@
+{
+  "verseId": "2:85",
+  "verse": {
+    "arabic": "ثُمَّ أَنتُمْ هَـٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِم بِالْإِثْمِ وَالْعُدْوَانِ وَإِن يَأْتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَاءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+    "transliteration": "Thumma antum haolai taqtuloona anfusakum watukhrijoona fareeqan minkum min diyarihim tathaharoona AAalayhim bialithmi waalAAudwani wain yatookum osara tufadoohum wahuwa muharramun AAalaykum ikhrajuhum afatuminoona bibaAAdi alkitabi watakfuroona bibaAAdin fama jazao man yafAAalu thalika minkum illa khizyun fee alhayati alddunya wayawma alqiyamati yuraddoona ila ashaddi alAAathabi wama Allahu bighafilin AAamma taAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 85
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to establish, to be firm (in a place or state)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنتُمْ",
+      "transliteration": "antum",
+      "meaning": "you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; also used as a pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هَـٰؤُلَاءِ",
+      "transliteration": "hāʾulāʾi",
+      "meaning": "these (ones)",
+      "root": {
+        "letters": "هـ-و-ل",
+        "meaning": "to decline, to weaken, to be low or depressed; also referring to astonishment or exclamation"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰأ",
+          "meaning": "demonstrative pronoun particle for near objects"
+        },
+        {
+          "arabic": "ـٰؤُلَاءِ",
+          "meaning": "plural masculine demonstrative suffix indicating 'these ones'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَقْتُلُونَ",
+      "transliteration": "taqtulūna",
+      "meaning": "you kill",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "قُتُلـ",
+          "meaning": "passive participle stem related to killing"
+        },
+        {
+          "arabic": "~ُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَنفُسَكُمْ",
+      "transliteration": "anfusakum",
+      "meaning": "your selves, yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسَ",
+          "meaning": "selves, souls"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَتُخْرِجُونَ",
+      "transliteration": "wa-tukhrijūna",
+      "meaning": "and you expel",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to produce, to bring forth"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تُخْرِجُونَ",
+          "meaning": "you (plural) expel/bring forth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَرِيقًا",
+      "transliteration": "farīqan",
+      "meaning": "a group, a party",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, divide, distinguish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّنكُم",
+      "transliteration": "minkum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate from, to be part of a group"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِّن دِيَارِهِمْ",
+      "transliteration": "min diyārihim",
+      "meaning": "from their homes",
+      "root": {
+        "letters": "د-ي-ر",
+        "meaning": "to dwell, to reside; home, abode"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "دِيَارِهِمْ",
+          "meaning": "their homes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَظَاهَرُونَ",
+      "transliteration": "taẓāharūna",
+      "meaning": "you cooperate, you show mutual support",
+      "root": {
+        "letters": "ظ-ه-ر",
+        "meaning": "to appear, to become manifest, to overcome"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a verb in the present/future tense, often used for mutual action (Form IV)"
+        },
+        {
+          "arabic": "ظَاهَر",
+          "meaning": "to cooperate, to show support (derived from the root ظ-ه-ر)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine subject in the present tense, 'you (plural men)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَلَيْهِم",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them, against them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to be over/above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, against"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِالْإِثْمِ",
+      "transliteration": "bi-l-ʾithmi",
+      "meaning": "with the sin",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to disobey, to sin, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْإِثْمِ",
+          "meaning": "the sin"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَالْعُدْوَانِ",
+      "transliteration": "wa-l-ʿudwāni",
+      "meaning": "and the aggression",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed limits, to be an enemy; hostility"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْعُدْوَانِ",
+          "meaning": "the aggression, the wrongdoing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَإِن يَأْتُوكُمْ",
+      "transliteration": "wa-ʾin yaʾtūkum",
+      "meaning": "and if they come to you",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to visit; to arrive"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if"
+        },
+        {
+          "arabic": "يَأْتُوكُمْ",
+          "meaning": "they come to you (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أُسَارَىٰ",
+      "transliteration": "ʾusārā",
+      "meaning": "captives, prisoners",
+      "root": {
+        "letters": "أ-س-ر",
+        "meaning": "to be captured, to take prisoner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "تُفَادُوهُمْ",
+      "transliteration": "tufādūhum",
+      "meaning": "you ransom them",
+      "root": {
+        "letters": "ف-د-ي",
+        "meaning": "to redeem, to offer a ransom"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating 'you (plural)'"
+        },
+        {
+          "arabic": "فَاد",
+          "meaning": "to ransom, to redeem"
+        },
+        {
+          "arabic": "ـوْهُمْ",
+          "meaning": "them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "and it (is)",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to fall, to weaken, essence/being"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مُحَرَّمٌ",
+      "transliteration": "muḥarramun",
+      "meaning": "forbidden",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to forbid, to prohibit, inviolability"
+      },
+      "components": [
+        {
+          "arabic": "مُحَرَّمٌ",
+          "meaning": "forbidden, prohibited; the tenth month of the Islamic calendar (also a name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you, for you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "إِخْرَاجُهُمْ",
+      "transliteration": "ʾikhrājahum",
+      "meaning": "their expulsion",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "إِخْرَاج",
+          "meaning": "expulsion, bringing out"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أَفَتُؤْمِنُونَ",
+      "transliteration": "ʾafa-tuʾminūna",
+      "meaning": "so do you believe?",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to believe, have faith"
+      },
+      "components": [
+        {
+          "arabic": "أَفَ",
+          "meaning": "particle indicating rhetorical question, emphasizing disbelief or doubt"
+        },
+        {
+          "arabic": "تُؤْمِنُونَ",
+          "meaning": "you (plural) believe"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "بِبَعْضِ",
+      "transliteration": "bi-baʿḍi",
+      "meaning": "in part of",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to possess, to have a portion or share"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "بَعْضِ",
+          "meaning": "part, portion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "the Scripture, the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, writing, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَتَكْفُرُونَ",
+      "transliteration": "wa-takfurūna",
+      "meaning": "and you disbelieve",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَكْفُرُونَ",
+          "meaning": "you disbelieve (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "بِبَعْضٍ",
+      "transliteration": "bi-baʿḍin",
+      "meaning": "in part of",
+      "root": {
+        "letters": "ب-ع-ض",
+        "meaning": "to possess a part, to include something"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by"
+        },
+        {
+          "arabic": "بَعْضٍ",
+          "meaning": "a part, portion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَمَا",
+      "transliteration": "famā",
+      "meaning": "so what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "جَزَاءُ",
+      "transliteration": "jazāʾu",
+      "meaning": "recompense, punishment",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to benefit"
+      },
+      "components": [
+        {
+          "arabic": "جَزَاءً",
+          "meaning": "recompense, punishment (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "مَن يَفْعَلُ",
+      "transliteration": "man yafʿalu",
+      "meaning": "[who]ever does",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to perform"
+      },
+      "components": [
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        },
+        {
+          "arabic": "يَفْعَلُ",
+          "meaning": "does (present/future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (act)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "ك",
+          "meaning": "the (suffix indicating remoteness in time or space)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; essence, being"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "خِزْيٌ",
+      "transliteration": "khizyun",
+      "meaning": "disgrace, humiliation",
+      "root": {
+        "letters": "خ-ي-ش",
+        "meaning": "weakness, shame, disgrace"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "فِي الْحَيَاةِ",
+      "transliteration": "fī al-ḥayāti",
+      "meaning": "in the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, liveliness, existence"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْحَيَاةِ",
+          "meaning": "the life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world, the present life",
+      "root": {
+        "letters": "د-ن-ي",
+        "meaning": "to be low, humble; to subdue or constrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "وَيَوْمَ",
+      "transliteration": "wa-yawma",
+      "meaning": "and on the day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass (time)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "day (in accusative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmati",
+      "meaning": "the Resurrection",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; resurrection"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قِيَامَة",
+          "meaning": "resurrection, standing up (as a nation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "يُرَدُّونَ",
+      "transliteration": "yuraddūna",
+      "meaning": "they will be returned",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to repel, to restore"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker and pronoun prefix (they)"
+        },
+        {
+          "arabic": "رَدَّ",
+          "meaning": "past passive form of 'to return'"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "plural masculine pronoun suffix (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, or resort to something; possessing a connection with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "أَشَدِّ",
+      "transliteration": "ʾashaddi",
+      "meaning": "the most severe",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "intensity, severity, firmness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the (definite article, intensifier)"
+        },
+        {
+          "arabic": "شَدِّ",
+          "meaning": "severe, intense (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "الْعَذَابِ",
+      "transliteration": "al-ʿadhābi",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; suffering"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَاب",
+          "meaning": "punishment, torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what, and not",
+      "root": {
+        "letters": "م-و-ا",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "بِغَافِلٍ",
+      "transliteration": "bi-ghāfilin",
+      "meaning": "unaware, negligent",
+      "root": {
+        "letters": "غ-ف-ل",
+        "meaning": "to be heedless, to neglect"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَافِلٍ",
+          "meaning": "unaware, negligent (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "عَمَّا",
+      "transliteration": "ʿammā",
+      "meaning": "of what",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "to conceal, to obscure; general, vague"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, concerning, from"
+        },
+        {
+          "arabic": "ما",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to perform"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing, work, action (verbal noun)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you, active voice)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then - you - these [ones] - you kill - yourselves - and you expel - a group - from among you - from their homes - you cooperate - upon them - with the sin - and the aggression - and if they come to you - as captives - you ransom them - and it [is] - forbidden - upon you - their expulsion - So do you believe - in part of - the Scripture - and you disbelieve - in part [of it]? - So what [is] - recompense - whoever does - that - from among you - except - disgrace - in the life - the world - and on the day of - the Resurrection - they will be returned - to - the most severe - the punishment - And what - Allah - unaware - of what - you do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "verseId": "2:64",
+  "verse": {
+    "arabic": "ثُمَّ تَوَلَّيْتُم مِّن بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنتُم مِّنَ الْخَاسِرِينَ",
+    "transliteration": "Thumma tawallaytum min baAAdi thalika falawla fadlu Allahi AAalaykum warahmatuhu lakuntum mina alkhasireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 64
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to be firm; also indicating sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَوَلَّيْتُم",
+      "transliteration": "tawallaytumu",
+      "meaning": "you turned away, you retreated",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to retreat; to take care of, to govern (depending on form)"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating past tense and third person (masculine plural)"
+        },
+        {
+          "arabic": "وَلِّـ",
+          "meaning": "second person masculine plural active participle stem of the root وَلِيَ (to turn away)"
+        },
+        {
+          "arabic": "ـتُم",
+          "meaning": "suffix indicating second person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَعْدِ",
+      "transliteration": "baʿdi",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far away"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (referring to something previously mentioned)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "suffix indicating 'the' (definite article) and gender/number agreement"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "laa sign",
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَلَوْلَا",
+      "transliteration": "falawlā",
+      "meaning": "if not for, were it not for",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to abandon; protection, guardianship"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating hypothetical condition, 'if'"
+        },
+        {
+          "arabic": "لَو",
+          "meaning": "particle indicating hypothetical past, 'were it'"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "negative particle, 'not'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَضْلُ",
+      "transliteration": "faḍlu",
+      "meaning": "favor, grace, bounty",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to exceed, be superior, to give generously"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah, God's",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; god"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "belonging to God, of God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you, to you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَرَحْمَتُهُ",
+      "transliteration": "wa-raḥmatuhu",
+      "meaning": "and His mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, tenderness, kindness; to have mercy"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَحْمَتُهُ",
+          "meaning": "His mercy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَكُنتُم",
+      "transliteration": "lakuntum",
+      "meaning": "you would have been",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "كُنْتُم",
+          "meaning": "you were (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from, among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "source, origin, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْخَاسِرِينَ",
+      "transliteration": "al-khāsirīna",
+      "meaning": "the losers, the ones who are ruined",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to be ruined, to suffer loss"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَاسِرِينَ",
+          "meaning": "losers, ruined ones (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-you turned away-from after-that. And if not for-favor of-Allah upon-you and-mercy-His you would have been-from among-the losers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

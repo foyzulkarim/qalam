@@ -1,0 +1,514 @@
+{
+  "verseId": "2:214",
+  "verse": {
+    "arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ",
+    "transliteration": "Am hasibtum an tadkhuloo aljannata walamma yatikum mathalu allatheena khalaw min qablikum massathumu albasao waalddarrao wazulziloo hatta yaqoola alrrasoolu waallatheena amanoo maAAahu mata nasru Allahi ala inna nasra Allahi qareebun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 214
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "or, but",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to wish, or to intend; also pertaining to uncertainty or doubt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَسِبْتُمْ",
+      "transliteration": "ḥasibtum",
+      "meaning": "you thought, you assumed",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "حَسِبْ",
+          "meaning": "you thought (masculine plural)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates intention or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَدْخُلُوا",
+      "transliteration": "tadkhulū",
+      "meaning": "you enter (plural)",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperative mood (you - plural)"
+        },
+        {
+          "arabic": "دَخَل",
+          "meaning": "to enter"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating the plural 'you' (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْجَنَّةَ",
+      "transliteration": "al-jannata",
+      "meaning": "the Paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to veil; also abundance and greenery"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَلَمَّا",
+      "transliteration": "wa lammā",
+      "meaning": "and not yet, and until",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to want"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, not yet, until"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَأْتِكُم",
+      "transliteration": "yaʾtikum",
+      "meaning": "come to you (plural)",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present/future tense and first person (I)"
+        },
+        {
+          "arabic": "أَتِ",
+          "meaning": "to come, to arrive (verb stem)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَّثَلُ",
+      "transliteration": "mathalu",
+      "meaning": "example, trial",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to be similar, to resemble; model, pattern"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, exist; to possess quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "خَلَوْا",
+      "transliteration": "khalaw",
+      "meaning": "passed away, departed",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to remain alone, to depart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِن قَبْلِكُم",
+      "transliteration": "min qablikum",
+      "meaning": "before you (plural)",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to precede, to turn toward"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "قَبْلِكُم",
+          "meaning": "before you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَّسَّتْهُمُ",
+      "transliteration": "massathu-hum",
+      "meaning": "touched them",
+      "root": {
+        "letters": "م-س-س",
+        "meaning": "to touch, to afflict, to suffer"
+      },
+      "components": [
+        {
+          "arabic": "مَّسَّ",
+          "meaning": "touched, afflicted"
+        },
+        {
+          "arabic": "تْهُمُ",
+          "meaning": "them (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْبَأْسَاءُ",
+      "transliteration": "al-baʾsāʾu",
+      "meaning": "the hardship, adversity",
+      "root": {
+        "letters": "ب-أ-س",
+        "meaning": "suffering, severity, difficulty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَالضَّرَّاءُ",
+      "transliteration": "wa-ḍ-ḍarrāʾu",
+      "meaning": "and the distress, affliction",
+      "root": {
+        "letters": "ض-رَّ-أ",
+        "meaning": "narrowness, constriction, difficulty, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَزُلْزِلُوا",
+      "transliteration": "wa zulzilu",
+      "meaning": "and were shaken",
+      "root": {
+        "letters": "ز-ل-ز",
+        "meaning": "to shake, tremble, or be unsteady"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "زُلْزِلُوا",
+          "meaning": "were shaken (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَقُولَ",
+      "transliteration": "yaqūlu",
+      "meaning": "he says, they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, utterance, to speak"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and 3rd person singular masculine"
+        },
+        {
+          "arabic": "قُولَ",
+          "meaning": "verbal noun derived from the root ق-و-ل, indicating action of speaking"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الرَّسُولُ",
+      "transliteration": "ar-rasūlu",
+      "meaning": "the messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, travel, or be an envoy; to follow a path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-allaḏīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed (plural)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust, faith"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/continuous tense, or emphasis"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مَعَهُ",
+      "transliteration": "maʿahu",
+      "meaning": "with him",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مَتَىٰ",
+      "transliteration": "matā",
+      "meaning": "when?",
+      "root": {
+        "letters": "م-ت-و",
+        "meaning": "time, when, at what time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "نَصْرُ",
+      "transliteration": "naṣru",
+      "meaning": "help, victory",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to overcome"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His/of Him (genitive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "ۗ",
+      "transliteration": "—",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating stillness or quietude"
+        },
+        {
+          "arabic": "كَتَ",
+          "meaning": "related to silence or stopping; the verbal root of stillness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "أَلَا",
+      "transliteration": "ʾalā",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to yearn, to desire, or an expression of emphasis/invocation"
+      },
+      "components": [
+        {
+          "arabic": "أَلِ",
+          "meaning": "invocation/emphasis particle, related to 'to yearn'"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel/pronoun marker, often used for emphasis"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed, truly",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, truly (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "نَصْرَ",
+      "transliteration": "naṣra",
+      "meaning": "help, victory",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to assist, to overcome"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the god; deity; to be worshipped"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His / of Him (genitive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "قَرِيبٌ",
+      "transliteration": "qarībun",
+      "meaning": "near",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Or - you thought - that - you enter - the Paradise - and not yet - come to you - example - those who - passed away - before you - [pause] - touched them - the hardship - and the distress - and were shaken - until - he says - the messenger - and those who - believed - with him - when? - help - of Allah - [pause] - indeed - truly - help - of Allah - near"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "verseId": "2:112",
+  "verse": {
+    "arabic": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "transliteration": "Bala man aslama wajhahu lillahi wahuwa muhsinun falahu ajruhu AAinda rabbihi wala khawfun AAalayhim wala hum yahzanoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 112
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلَىٰ",
+      "transliteration": "balā",
+      "meaning": "Yes, indeed, on the contrary",
+      "root": {
+        "letters": "ب-ل-ي",
+        "meaning": "to be wet, to be exhausted; also, to attain, reach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "whoever, anyone who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, obscured; to diminish, weaken"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَسْلَمَ",
+      "transliteration": "aslama",
+      "meaning": "submitted, surrendered",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, intactness, surrender"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَجْهَهُ",
+      "transliteration": "wajhahu",
+      "meaning": "his face, his being",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be prominent, to face, to exist; appearance, direction"
+      },
+      "components": [
+        {
+          "arabic": "وَجْهَ",
+          "meaning": "face, being"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "to Allah, for Allah",
+      "root": {
+        "letters": "ل-ه-ا",
+        "meaning": "belonging to, for, the deity (Allah)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the one God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and he, while he is",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he, he is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مُحْسِنٌ",
+      "transliteration": "muḥsinun",
+      "meaning": "a doer of good, one who does good",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَلَهُ",
+      "transliteration": "falahu",
+      "meaning": "then for him, so to him",
+      "root": {
+        "letters": "ف-ل-ي",
+        "meaning": "to obtain, to succeed, to win"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "for him, to him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَجْرُهُ",
+      "transliteration": "ajruhu",
+      "meaning": "his reward, his compensation",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward; compensation itself"
+      },
+      "components": [
+        {
+          "arabic": "أَجْرُ",
+          "meaning": "reward, compensation"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "with, at, near",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possessing, having, relationship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord, his Sustainer",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to sustain"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, Sustainer (genitive form)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَوْفٌ",
+      "transliteration": "khawfun",
+      "meaning": "fear, dread",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid; apprehension"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them, concerning them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to rise above; to assume responsibility for"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they, them",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَحْزَنُونَ",
+      "transliteration": "yaḥzanūna",
+      "meaning": "they grieve, they are saddened",
+      "root": {
+        "letters": "ح-ز-ن",
+        "meaning": "to feel sadness, sorrow, or grief; to be distressed"
+      },
+      "components": [
+        {
+          "arabic": "يَحْزُن",
+          "meaning": "they grieve/are saddened (verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "pronoun suffix indicating 'they' (masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Yes-indeed [on the contrary] - whoever submits-surrenders - his-face/being - to-Allah - and-he [while] - a-doer-of-good - then-to-him - his-reward - with/at - his-Lord - and-not - fear - upon-them - and-not - they - they-grieve"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

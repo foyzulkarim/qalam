@@ -1,0 +1,395 @@
+{
+  "verseId": "2:68",
+  "verse": {
+    "arabic": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ ۚ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَٰلِكَ ۖ فَافْعَلُوا مَا تُؤْمَرُونَ",
+    "transliteration": "Qaloo odAAu lana rabbaka yubayyin lana ma hiya qala innahu yaqoolu innaha baqaratun la faridun wala bikrun AAawanun bayna thalika faifAAaloo ma tumaroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 68
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ادْعُ",
+      "transliteration": "idʿu",
+      "meaning": "Call (you)",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to summon, to invoke, to pray"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to possess, to own, belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative singular)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُبَيِّن",
+      "transliteration": "yubayyin",
+      "meaning": "He makes clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, to become clear, to explain"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun prefix)"
+        },
+        {
+          "arabic": "بَيِّن",
+          "meaning": "clear, evident"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to belong, to own, to be directed towards"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire, relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "It (feminine)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "Pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahu",
+      "meaning": "Indeed He",
+      "root": {
+        "letters": "هـ-و-ا",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or narrate. Also includes concepts of change and turning."
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix denoting the present tense, third person masculine singular."
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "The root verb form indicating 'saying'."
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِنَّهَا",
+      "transliteration": "innahā",
+      "meaning": "Indeed It (feminine)",
+      "root": {
+        "letters": "ه-ن-أ",
+        "meaning": "to be, to exist; tranquility, rest"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "It (feminine pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بَقَرَةٌ",
+      "transliteration": "baqarāh",
+      "meaning": "A cow",
+      "root": {
+        "letters": "ب-ق-ر",
+        "meaning": "to split, to cleave, to break open; also refers to the young of cattle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَارِضٌ",
+      "transliteration": "fāriḍ",
+      "meaning": "Old (worn out/experienced)",
+      "root": {
+        "letters": "ف-ر-ض",
+        "meaning": "to impose, to necessitate; to be firm or solid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِكْرٌ",
+      "transliteration": "bikr",
+      "meaning": "Virgin (young)",
+      "root": {
+        "letters": "ب-ك-ر",
+        "meaning": "To be early, to mature; to open up, to perforate (and by extension, virginity)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَوَانٌ",
+      "transliteration": "ʿawān",
+      "meaning": "Median (between two extremes)",
+      "root": {
+        "letters": "ع-و-ن",
+        "meaning": "help, assistance, aid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "Between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, interval"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "That",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, lowliness; to be near or close"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, having"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "Pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "فَافْعَلُوا",
+      "transliteration": "fa-ifʿalū",
+      "meaning": "So do (you)",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of exhortation)"
+        },
+        {
+          "arabic": "اِفْعَلُوا",
+          "meaning": "Do (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "تُؤْمَرُونَ",
+      "transliteration": "tuʾmarūna",
+      "meaning": "You are commanded",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, to regulate"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating 'you (plural)' passive voice"
+        },
+        {
+          "arabic": "أُمِر",
+          "meaning": "passive voice form of the verb 'to command'"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine 'you'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said Call-[you] for-us Lord-your He-makes-clear for-us what it is. He-said Indeed-He He-says Indeed-It It-is a-cow not old and-not virgin but median between that, So do-[you] what you-are-commanded."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

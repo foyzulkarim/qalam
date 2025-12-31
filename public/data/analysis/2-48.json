@@ -1,0 +1,338 @@
+{
+  "verseId": "2:48",
+  "verse": {
+    "arabic": "وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ",
+    "transliteration": "Waittaqoo yawman la tajzee nafsun AAan nafsin shayan wala yuqbalu minha shafaAAatun wala yukhathu minha AAadlun wala hum yunsaroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 48
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wa-ttaqū",
+      "meaning": "and fear/guard yourselves",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, shield, guard against danger or evil"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear/guard yourselves (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not/no",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "night, darkness; negation/absence (derived)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَجْزِي",
+      "transliteration": "tajzī",
+      "meaning": "suffices/recompenses",
+      "root": {
+        "letters": "ج-ز-ي",
+        "meaning": "to recompense, to reward; to suffice, to be enough"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense (future/present)"
+        },
+        {
+          "arabic": "جَزَى",
+          "meaning": "to recompense, to reward"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَفْسٌ",
+      "transliteration": "nafsun",
+      "meaning": "a soul/person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, soul, self, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "for/on behalf of",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be in relation to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَّفْسٍ",
+      "transliteration": "nafsin",
+      "meaning": "a soul/person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person; to breathe, expire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "anything/a thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be non-existent, to lack, something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, to invite; affection, love"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not/no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يُقْبَلُ",
+      "transliteration": "yuqbalu",
+      "meaning": "is accepted",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to accept, to take, to receive"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "passive voice marker / prefix indicating passive form"
+        },
+        {
+          "arabic": "قَبِلَ",
+          "meaning": "to accept"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "vowel indicating present/future tense and passive voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it/her",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/her (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "شَفَاعَةٌ",
+      "transliteration": "shafāʿatun",
+      "meaning": "intercession",
+      "root": {
+        "letters": "ش-ف-ع",
+        "meaning": "to intercede, to plead on behalf of another, to recommend"
+      },
+      "components": [
+        {
+          "arabic": "شَفَاعَة",
+          "meaning": "intercession, advocacy"
+        },
+        {
+          "arabic": "-ٌ",
+          "meaning": "tanwīn al-fatḥ, indefinite accusative singular noun marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not/no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُؤْخَذُ",
+      "transliteration": "yuʾkhadhu",
+      "meaning": "is taken/accepted",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to receive"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker/prefix indicating 'is being'"
+        },
+        {
+          "arabic": "أُخِذَ",
+          "meaning": "taken (passive participle)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanwin (indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it/her",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, come forth from, be separated from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it/her (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "عَدْلٌ",
+      "transliteration": "ʿadlun",
+      "meaning": "compensation/justice",
+      "root": {
+        "letters": "ع-د-ل",
+        "meaning": "to be just, to act equitably"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not/no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to intend, to desire, to be with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يُنصَرُونَ",
+      "transliteration": "yunṣarūna",
+      "meaning": "are aided/helped",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to give victory"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "passive voice prefix (form X)"
+        },
+        {
+          "arabic": "صَر",
+          "meaning": "root indicating help/aid"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active/passive voice"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix: they"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-fear a day not suffices soul for soul -anything and not is-accepted from it intercession and not is-taken from it compensation and not they are-aided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

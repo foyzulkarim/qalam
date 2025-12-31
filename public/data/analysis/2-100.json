@@ -1,0 +1,215 @@
+{
+  "verseId": "2:100",
+  "verse": {
+    "arabic": "أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَّبَذَهُ فَرِيقٌ مِّنْهُم ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+    "transliteration": "Awakullama AAahadoo AAahdan nabathahu fareequn minhum bal aktharuhum la yuminoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 100
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوَ",
+      "transliteration": "ʾaw",
+      "meaning": "or, is it not?",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "to return, to come back, or negation/doubt"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of questioning or emphasis, often expressing doubt or negation"
+        },
+        {
+          "arabic": "و",
+          "meaning": "the letter 'waw', and in this context, functions as a conjunction meaning 'or'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُلَّمَا",
+      "transliteration": "kullamā",
+      "meaning": "whenever, every time that",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, utterance; to speak"
+      },
+      "components": [
+        {
+          "arabic": "كُلّ",
+          "meaning": "all, every"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَاهَدُوا",
+      "transliteration": "ʿāhadū",
+      "meaning": "they made a covenant, they pledged",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to covenant, to promise, to make an agreement"
+      },
+      "components": [
+        {
+          "arabic": "عَ",
+          "meaning": "prefix indicating first person plural (we)"
+        },
+        {
+          "arabic": "هَادُوا",
+          "meaning": "to make a covenant, to pledge (derived from the root ع-ه-د)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَهْدًا",
+      "transliteration": "ʿahdan",
+      "meaning": "a covenant, a pledge",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to grasp, to take hold of; to establish, to make a firm commitment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَّبَذَهُ",
+      "transliteration": "nabadhūhu",
+      "meaning": "they threw it away, they discarded it",
+      "root": {
+        "letters": "ن-ب-ذ",
+        "meaning": "to cast away, to reject, to abandon"
+      },
+      "components": [
+        {
+          "arabic": "نَبَذَ",
+          "meaning": "they threw, they discarded"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَرِيقٌ",
+      "transliteration": "farīqun",
+      "meaning": "a party, a group",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to divide, to distinguish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّنْهُم",
+      "transliteration": "minhum",
+      "meaning": "from them, of them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate from, to be of"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۚ",
+      "transliteration": "lā sign",
+      "meaning": "pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "but, rather",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to be moist; to reach a decision or outcome (metaphorically)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَكْثَرُهُمْ",
+      "transliteration": "ʾaktharuhum",
+      "meaning": "most of them, the majority of them",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be numerous, to increase, abundance"
+      },
+      "components": [
+        {
+          "arabic": "أَكْثَرُ",
+          "meaning": "most"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yuʾminūn",
+      "meaning": "they believe, they have faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to feel safe and secure; to trust, believe, have faith"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and the subject is plural"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "to believe, have faith (second person plural)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine subject in present/future tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-everytime-they-made-a-covenant a-covenant they-threw-it-away a-party from-them but most-of-them not they-believe"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

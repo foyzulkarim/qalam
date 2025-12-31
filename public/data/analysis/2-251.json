@@ -1,0 +1,447 @@
+{
+  "verseId": "2:251",
+  "verse": {
+    "arabic": "فَهَزَمُوهُم بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ اللَّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ الْأَرْضُ وَلَـٰكِنَّ اللَّهَ ذُو فَضْلٍ عَلَى الْعَالَمِينَ",
+    "transliteration": "Fahazamoohum biithni Allahi waqatala dawoodu jaloota waatahu Allahu almulka waalhikmata waAAallamahu mimma yashao walawla dafAAu Allahi alnnasa baAAdahum bibaAAdin lafasadati alardu walakinna Allaha thoo fadlin AAala alAAalameena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 251
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَهَزَمُوهُم",
+      "transliteration": "fa-hazamūhum",
+      "meaning": "so they defeated them",
+      "root": {
+        "letters": "ح-ز-م",
+        "meaning": "to break, defeat, overcome; firmness, strength"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "هَزَمُوهُم",
+          "meaning": "they defeated them (verb + pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِإِذْنِ",
+      "transliteration": "bi-ʾidhni",
+      "meaning": "by permission of",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to grant permission"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "إِذْنِ",
+          "meaning": "permission"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَقَتَلَ",
+      "transliteration": "wa-qatalā",
+      "meaning": "and killed",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to cut, to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَتَلَ",
+          "meaning": "he killed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "دَاوُودُ",
+      "transliteration": "Dāwūd",
+      "meaning": "David",
+      "root": {
+        "letters": "د-و-د",
+        "meaning": "love, affection, fondness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جَالُوتَ",
+      "transliteration": "Jālūt",
+      "meaning": "Goliath",
+      "root": {
+        "letters": "ج-ل-و",
+        "meaning": "to be prominent, to be powerful; to dominate or overcome"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَآتَاهُ",
+      "transliteration": "wa-ʾātāhu",
+      "meaning": "and He gave him",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give (as in bringing something to someone)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آتَاهُ",
+          "meaning": "He gave him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْمُلْكَ",
+      "transliteration": "al-mulka",
+      "meaning": "the kingship",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, ownership, sovereignty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُلْك",
+          "meaning": "kingship, dominion, realm"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَالْحِكْمَةَ",
+      "transliteration": "wa-al-ḥikmata",
+      "meaning": "and the wisdom/prophethood",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "to judge, to rule, to be wise"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حِكْمَة",
+          "meaning": "wisdom, discernment, sound judgement; also often refers to prophethood"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَعَلَّمَهُ",
+      "transliteration": "wa-ʿallamahu",
+      "meaning": "and He taught him",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَلَّمَ",
+          "meaning": "He taught"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِمَّا",
+      "transliteration": "mim-mā",
+      "meaning": "from what",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, to prevent, source/origin"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashāʾu",
+      "meaning": "He wills",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to desire, to will, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَلَوْلَا",
+      "transliteration": "wa-lawlā",
+      "meaning": "and if not for",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to want, to desire, to wish for; support, aid"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَوْ",
+          "meaning": "if; were (hypothetical)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "دَفْعُ",
+      "transliteration": "dafʿu",
+      "meaning": "checking/repelling",
+      "root": {
+        "letters": "د-ف-ع",
+        "meaning": "to push away, repel, avert"
+      },
+      "components": [
+        {
+          "arabic": "دَفْعٌ",
+          "meaning": "repulsion, checking, averting (noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-ه-إ",
+        "meaning": "to be worshipped; divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "النَّاسَ",
+      "transliteration": "al-nāsa",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost or strayed; also, to seek help or assistance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بَعْضَهُم بِبَعْضٍ",
+      "transliteration": "baʿḍahum bi-baʿḍin",
+      "meaning": "some of them by means of others",
+      "root": {
+        "letters": "ب-ع-ض",
+        "meaning": "to possess a part, to divide; portion, share"
+      },
+      "components": [
+        {
+          "arabic": "بَعْض",
+          "meaning": "some, a part of"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, through"
+        },
+        {
+          "arabic": "بَعْضٍ",
+          "meaning": "a part, some (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَّفَسَدَتِ",
+      "transliteration": "la-fasadat",
+      "meaning": "would have been corrupted",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "decay, corruption, ruin"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "negative particle indicating prevention/absence of action; 'would not'"
+        },
+        {
+          "arabic": "فَسَدَتِ",
+          "meaning": "it would have been corrupted (feminine singular past)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth, land"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَلَـٰكِنَّ",
+      "transliteration": "wa-lākinna",
+      "meaning": "but indeed",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hidden, concealed"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـٰكِنَّ",
+          "meaning": "but, however; a particle used to introduce an exception or contrast"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ذُو",
+      "transliteration": "dhū",
+      "meaning": "[is the possessor of]",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "[having, possessing]"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "فَضْلٍ",
+      "transliteration": "faḍlin",
+      "meaning": "bounty/grace",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to exceed, be superior, to grant generously; surplus, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīna",
+      "meaning": "the worlds",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds, beings with knowledge and awareness (plural of عالم)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-defeated-them by-permission of-Allah and-killed David Goliath and-He-gave-him the-kingship and-the-wisdom and-He-taught-him from what-He-wills and-if-not-for checking of-Allah the-people some-of-them by-means-of others would-have-been-corrupted the-earth but indeed Allah [is the possessor of] bounty upon the-worlds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

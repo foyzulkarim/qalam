@@ -1,0 +1,307 @@
+{
+  "verseId": "2:211",
+  "verse": {
+    "arabic": "سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ ۗ وَمَن يُبَدِّلْ نِعْمَةَ اللَّهِ مِن بَعْدِ مَا جَاءَتْهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+    "transliteration": "Sal banee israeela kam ataynahum min ayatin bayyinatin waman yubaddil niAAmata Allahi min baAAdi ma jaathu fainna Allaha shadeedu alAAiqabi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 211
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَلْ",
+      "transliteration": "sal",
+      "meaning": "Ask!",
+      "root": {
+        "letters": "س-ل-ا",
+        "meaning": "To be lax, to slip; to inquire, to ask."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَنِي",
+      "transliteration": "banī",
+      "meaning": "Children of",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; also, to have sons"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِسْرَائِيلَ",
+      "transliteration": "ʾisrāʾīla",
+      "meaning": "Israel",
+      "root": {
+        "letters": "س-ر-أ",
+        "meaning": "to strive, to journey at night, to be high or elevated"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَمْ",
+      "transliteration": "kam",
+      "meaning": "How much/many?",
+      "root": {
+        "letters": "ك-م-و",
+        "meaning": "To measure, to quantify; fullness, completeness."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آتَيْنَاهُم",
+      "transliteration": "ʾātaynāhum",
+      "meaning": "We gave to them",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to give"
+      },
+      "components": [
+        {
+          "arabic": "آت",
+          "meaning": "We gave"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "to us (pronoun suffix)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "To hinder, obstruct, or derive something from a source."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آيَةٍ",
+      "transliteration": "ʾāyatin",
+      "meaning": "A sign",
+      "root": {
+        "letters": "أ-ي-و",
+        "meaning": "to return, to come back; a clear indication or proof"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بَيِّنَةٍ",
+      "transliteration": "bayyinatin",
+      "meaning": "Clear/evident",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "To be clear, manifest, evident; distinction."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "Pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "And whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; belonging to a class or category (denotes questioning/conditional)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يُبَدِّلْ",
+      "transliteration": "yubaddil",
+      "meaning": "Exchanges/substitutes",
+      "root": {
+        "letters": "ب-د-ل",
+        "meaning": "to replace, substitute, exchange"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "indicates the present/future active voice, 3rd person singular"
+        },
+        {
+          "arabic": "بَدَّلَ",
+          "meaning": "to replace, substitute, exchange (past tense form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نِعْمَةَ",
+      "transliteration": "niʿmata",
+      "meaning": "A favor/grace",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "pleasantness, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The deity; to worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "From after/following",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, following"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, desire; to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "جَاءَتْهُ",
+      "transliteration": "jāʾat-hu",
+      "meaning": "Came to him",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "To come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَتْ",
+          "meaning": "She came, it came (feminine)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "To him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "Then indeed/verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truth, reality"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "verily, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "شَدِيدُ",
+      "transliteration": "shadīdu",
+      "meaning": "Severe/strict",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be strong, forceful, intense"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْعِقَابِ",
+      "transliteration": "al-ʿiqābi",
+      "meaning": "The punishment/penalty",
+      "root": {
+        "letters": "ع-ق-ب",
+        "meaning": "To follow closely, to punish severely; consequence."
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "عِقَاب",
+          "meaning": "Punishment, penalty"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "Tanwīn al-fatḥ (indicating indefiniteness and accusative case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Ask- the - Children- of - Israel - how-much - We-gave - to-them - from - a-sign - clear - and - whoever - exchanges - a-favor - of - Allah - from - after - what - came-to-him - then-indeed - Allah - severe - the-punishment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

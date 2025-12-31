@@ -1,0 +1,251 @@
+{
+  "verseId": "2:190",
+  "verse": {
+    "arabic": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ",
+    "transliteration": "Waqatiloo fee sabeeli Allahi allatheena yuqatiloonakum wala taAAtadoo inna Allaha la yuhibbu almuAAtadeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 190
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَاتِلُوا",
+      "transliteration": "wa-qātilū",
+      "meaning": "and fight (you plural)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy; struggle, exertion"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَاتِلُوا",
+          "meaning": "fight (you plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; content, abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَبِيلِ",
+      "transliteration": "sabīli",
+      "meaning": "way/path (of)",
+      "root": {
+        "letters": "س-ب-و",
+        "meaning": "to flow, to go along a path; to have a way or means"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah's (genitive)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, divinity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "Allah's (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to point, to indicate, to be or exist"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُقَاتِلُونَكُمْ",
+      "transliteration": "yuqātilūnakum",
+      "meaning": "fight you (plural)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, fighting, destroying"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun suffix indicating plural subject)"
+        },
+        {
+          "arabic": "قَاتِل",
+          "meaning": "fighter, one who fights"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "active plural present tense marker"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural object pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَعْتَدُوا",
+      "transliteration": "taʿtadū",
+      "meaning": "transgress/exceed (you plural)",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to go beyond, to exceed, to oppose"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a form IV verb (causative/transitive)"
+        },
+        {
+          "arabic": "عَتَدُوا",
+          "meaning": "you (plural) overstepped/transgressed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed/Verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed/Verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah (accusative)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يُحِبُّ",
+      "transliteration": "yuḥibbu",
+      "meaning": "loves/likes",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of, affection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, active voice; 1st person singular (in this case, indicates ongoing action)"
+        },
+        {
+          "arabic": "حَبَّ",
+          "meaning": "love, affection (verbal noun form)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah indicating the present tense active voice conjugation for the third person singular masculine (هو)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْمُعْتَدِينَ",
+      "transliteration": "al-muʿtadīna",
+      "meaning": "the transgressors",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to transgress, to be hostile"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُعْتَدِينَ",
+          "meaning": "transgressors (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-fight in way-of Allah those-who fight-you and-do-not transgress Indeed Allah not-likes the-transgressors"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

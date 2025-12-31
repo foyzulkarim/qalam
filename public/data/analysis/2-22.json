@@ -1,0 +1,413 @@
+{
+  "verseId": "2:22",
+  "verse": {
+    "arabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ ۖ فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ",
+    "transliteration": "Allathee jaAAala lakumu alarda firashan waalssamaa binaan waanzala mina alssamai maan faakhraja bihi mina alththamarati rizqan lakum fala tajAAaloo lillahi andadan waantum taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the who, that which",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to adhere to, to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَعَلَ",
+      "transliteration": "jaʿala",
+      "meaning": "made, created",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to establish, to place, to make something come into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِرَاشًا",
+      "transliteration": "firāshan",
+      "meaning": "bed, spread out thing",
+      "root": {
+        "letters": "ف-ر-ش",
+        "meaning": "to spread, to lay out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "to connect, to join; also implies reaching a destination or achieving something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "السَّمَاءَ",
+      "transliteration": "al-samāʾa",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; loftiness, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِنَاءً",
+      "transliteration": "bināʾan",
+      "meaning": "ceiling, structure",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, construct"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَنزَلَ",
+      "transliteration": "anzala",
+      "meaning": "sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to have something of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "al-samāʾi",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَاءً",
+      "transliteration": "māʾan",
+      "meaning": "water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, wateriness; to possess fluidity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَأَخْرَجَ",
+      "transliteration": "faʾakhraja",
+      "meaning": "so He brought forth, and He produced",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come forth, to produce"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "أَخْرَجَ",
+          "meaning": "he brought forth, he produced (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "with it, by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الثَّمَرَاتِ",
+      "transliteration": "al-thamarāti",
+      "meaning": "the fruits",
+      "root": {
+        "letters": "ث-م-ر",
+        "meaning": "to bear fruit, to ripen; the result of effort or cultivation"
+      },
+      "components": [
+        {
+          "arabic": "الثَّ",
+          "meaning": "the definite article (al-)"
+        },
+        {
+          "arabic": "ثَمَرَاتِ",
+          "meaning": "fruits (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "رِزْقًا",
+      "transliteration": "rizqan",
+      "meaning": "provision, sustenance",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, perfect; to possess; to suffice"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to cease speaking"
+      },
+      "components": [
+        {
+          "arabic": "ۖ",
+          "meaning": "pause, silence (used as a marker in recitation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "so do not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, do not (negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "تَجْعَلُوا",
+      "transliteration": "tajʿalū",
+      "meaning": "you (plural) make, you attribute",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to create"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense, 'you (plural) will'"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to attribute, to create"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating the second person plural masculine, 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "for Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, divinity, godhood"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَندَادًا",
+      "transliteration": "ʾandādan",
+      "meaning": "equals, peers",
+      "root": {
+        "letters": "ن-د-د",
+        "meaning": "to call, to invite; moisture, dew"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "أَنتُمْ",
+      "transliteration": "antum",
+      "meaning": "you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; you (pronoun base)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūna",
+      "meaning": "you (plural) know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to learn"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person plural masculine present tense"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know, knowledge"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person plural masculine present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-who made for-you the-earth bed and the-sky ceiling and sent-down from the-sky water so-He brought-forth with-it from the-fruits provision for-you so do-not you-plural make for-Allah equals and you-plural know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

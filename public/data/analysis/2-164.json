@@ -1,0 +1,733 @@
+{
+  "verseId": "2:164",
+  "verse": {
+    "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ",
+    "transliteration": "Inna fee khalqi alssamawati waalardi waikhtilafi allayli waalnnahari waalfulki allatee tajree fee albahri bima yanfaAAu alnnasa wama anzala Allahu mina alssamai min main faahya bihi alarda baAAda mawtiha wabaththa feeha min kulli dabbatin watasreefi alrriyahi waalssahabi almusakhkhari bayna alssamai waalardi laayatin liqawmin yaAAqiloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 164
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, if (conditional particle suggesting affirmation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be contained in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَلْقِ",
+      "transliteration": "khalqi",
+      "meaning": "Creation of",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, originate, produce"
+      },
+      "components": [
+        {
+          "arabic": "خَلْق",
+          "meaning": "creation"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "The heavens"
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "The earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "Earth, land"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "Genitive case ending (possessive or governed)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اخْتِلَافِ",
+      "transliteration": "ikhtilāfi",
+      "meaning": "Alternation of",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to differ, to be different; to succeed, to follow (in time or place)"
+      },
+      "components": [
+        {
+          "arabic": "اِخْتِلَاف",
+          "meaning": "disagreement, variance, alternation"
+        },
+        {
+          "arabic": "-ِ",
+          "meaning": "genitive case ending (indicating possession or relationship)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اللَّيْلِ",
+      "transliteration": "al-layli",
+      "meaning": "The night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to become dark or hidden"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "النَّهَارِ",
+      "transliteration": "an-nahāri",
+      "meaning": "The day",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to be clear, bright; to appear; to shine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْفُلْكِ",
+      "transliteration": "al-fulki",
+      "meaning": "The ships",
+      "root": {
+        "letters": "ف-ل-ك",
+        "meaning": "to join, to combine; a section or division; also relates to the idea of something large that carries things"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "فُلْك",
+          "meaning": "Ship, boat; a large vessel for transport."
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "Which",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To turn away from, to be distant; to possess, to control"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "Pronoun suffix indicating feminine singular relative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تَجْرِي",
+      "transliteration": "tajrī",
+      "meaning": "Sail, move",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "to flow, to run, to proceed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "to enter, to go into, to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْبَحْرِ",
+      "transliteration": "al-baḥri",
+      "meaning": "The sea",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to swim, to flow; vastness, expanse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "With that which",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "that which, what"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَنفَعُ",
+      "transliteration": "yanfaʿu",
+      "meaning": "Benefits",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to be useful, to profit, to avail"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, active voice"
+        },
+        {
+          "arabic": "نَفَعَ",
+          "meaning": "to benefit, to be useful"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case and present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "النَّاسَ",
+      "transliteration": "an-nāsa",
+      "meaning": "The people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (as forgetting their covenant)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or related to existence/being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "أَنزَلَ",
+      "transliteration": "ʾanzala",
+      "meaning": "Sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "The heaven",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "Of, from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to lessen; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "مَّاءٍ",
+      "transliteration": "māʾin",
+      "meaning": "Water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "fluidity, wateriness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "فَأَحْيَا",
+      "transliteration": "faʾaḥyā",
+      "meaning": "So He gave life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, living"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "أَحْيَا",
+          "meaning": "He gave life, He resurrected"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "With it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, through"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "The earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth, land"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "بَعْدَ",
+      "transliteration": "baʿda",
+      "meaning": "After",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, opposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "مَوْتِهَا",
+      "transliteration": "mawti-hā",
+      "meaning": "Its death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death"
+      },
+      "components": [
+        {
+          "arabic": "مَوْت",
+          "meaning": "death"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "بَثَّ",
+      "transliteration": "baththa",
+      "meaning": "He dispersed",
+      "root": {
+        "letters": "ب-ث-ث",
+        "meaning": "to split, to spread out, to scatter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "Therein",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "To contain, to include; to be in, within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "In, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Therein (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to lessen, origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "Every, all",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "Completeness, totality; to be sufficient or complete."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "دَابَّةٍ",
+      "transliteration": "dābbatin",
+      "meaning": "Moving creature",
+      "root": {
+        "letters": "د-ب-و",
+        "meaning": "to move, to creep, to walk"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "تَصْرِيفِ",
+      "transliteration": "taṣrīfi",
+      "meaning": "Directing of, changing",
+      "root": {
+        "letters": "ص-ر-ف",
+        "meaning": "to expend, to turn away, to change"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating verb form (form IV)"
+        },
+        {
+          "arabic": "صَرِف",
+          "meaning": "directing, changing (verbal root)"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "الرِّيَاحِ",
+      "transliteration": "ar-riyāḥi",
+      "meaning": "The winds",
+      "root": {
+        "letters": "ر-ي-ح",
+        "meaning": "To move, to flow; wind (as that which moves)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "السَّحَابِ",
+      "transliteration": "as-saḥābi",
+      "meaning": "The clouds",
+      "root": {
+        "letters": "س-ح-ب",
+        "meaning": "to spread, flow, cover; to pour out (rain)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "الْمُسَخَّرِ",
+      "transliteration": "al-musakhkhari",
+      "meaning": "The controlled, harnessed",
+      "root": {
+        "letters": "س-خ-ر",
+        "meaning": "to subdue, to control, to harness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُسَخَّر",
+          "meaning": "controlled, harnessed (passive participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "بَيْنَ",
+      "transliteration": "bayna",
+      "meaning": "Between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to exist apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "The heaven",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "The earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to expand; the earth, land"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "لَآيَاتٍ",
+      "transliteration": "liʾāyātin",
+      "meaning": "As signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to be a sign; proof, evidence, miracle"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, as (preposition)"
+        },
+        {
+          "arabic": "آيَاتٍ",
+          "meaning": "signs (plural of آية)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "لِّقَوْمٍ",
+      "transliteration": "li-qawmin",
+      "meaning": "For a people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "To rise, people, nation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "For, to"
+        },
+        {
+          "arabic": "قَوْمٍ",
+          "meaning": "A people, a nation (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "يَعْقِلُونَ",
+      "transliteration": "yaʿqilūna",
+      "meaning": "Who use reason",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to comprehend, to think rationally"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense/active voice (first person plural)"
+        },
+        {
+          "arabic": "عَقِلَ",
+          "meaning": "to understand, comprehend"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active voice (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-in creation-of the heavens-and the earth-and alternation-of the night-and the day-and ships-which sail-in the sea-with that which-benefits the people-and what-sent down-Allah-from heaven-of water-[So] He gave life-with it-the earth-after its lifelessness-and dispersed therein-from every-moving creature-and directing-of the winds-and clouds-the controlled-[are] between heaven-and earth-as signs-for people-who use reason."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

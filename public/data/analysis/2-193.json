@@ -1,0 +1,268 @@
+{
+  "verseId": "2:193",
+  "verse": {
+    "arabic": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ ۖ فَإِنِ انتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى الظَّالِمِينَ",
+    "transliteration": "Waqatiloohum hatta la takoona fitnatun wayakoona alddeenu lillahi faini intahaw fala AAudwana illa AAala alththalimeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 193
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَاتِلُوهُمْ",
+      "transliteration": "qātilūhum",
+      "meaning": "fight them",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, destroying, warfare"
+      },
+      "components": [
+        {
+          "arabic": "قَاتِل",
+          "meaning": "fighter, one who fights (active participle)"
+        },
+        {
+          "arabic": "وهم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ى",
+        "meaning": "limitation, boundary, end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَكُونَ",
+      "transliteration": "takūna",
+      "meaning": "be, exist",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating future tense/subjunctive mood"
+        },
+        {
+          "arabic": "كُونَ",
+          "meaning": "verbal noun/source of being, existence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِتْنَةٌ",
+      "transliteration": "fitnah",
+      "meaning": "discord, trial, affliction",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "to test, to try, to deviate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَكُونَ",
+      "transliteration": "yakūna",
+      "meaning": "be, exist",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and active voice for verbs"
+        },
+        {
+          "arabic": "كُنَ",
+          "meaning": "to be (second person masculine singular, imperfect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الدِّينُ",
+      "transliteration": "al-dīnu",
+      "meaning": "the religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be indebted, to submit, to judge/be judged"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "for Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to; preposition indicating recipient or purpose"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَإِنِ",
+      "transliteration": "fa'in",
+      "meaning": "if, then",
+      "root": {
+        "letters": "ف-ع-ن",
+        "meaning": "to do, to act, to become; conditional particle indicating consequence or result."
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "conditional particle indicating consequence or result; often translated as 'then'."
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "particle introducing a conditional clause, equivalent to 'if'."
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "انتَهَوْا",
+      "transliteration": "intahaw",
+      "meaning": "they cease, they stop",
+      "root": {
+        "letters": "ن-ه-و",
+        "meaning": "to end, to cease, to refrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then no, then not",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be lacking, to not exist, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عُدْوَانَ",
+      "transliteration": "ʿudwān",
+      "meaning": "aggression, wrongdoing",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "hostility, enmity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, negation/restriction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, against",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الظَّالِمِينَ",
+      "transliteration": "al-ẓālimīna",
+      "meaning": "the oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, oppression"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "oppressors (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-fight them until not-be discord and-be the-religion for-Allah [pause marker] then-if they-cease then-no aggression except against the-oppressors"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

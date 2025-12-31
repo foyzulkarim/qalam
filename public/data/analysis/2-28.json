@@ -1,0 +1,263 @@
+{
+  "verseId": "2:28",
+  "verse": {
+    "arabic": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ۖ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+    "transliteration": "Kayfa takfuroona biAllahi wakuntum amwatan faahyakum thumma yumeetukum thumma yuhyeekum thumma ilayhi turjaAAoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; condition, state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَكْفُرُونَ",
+      "transliteration": "takfurūna",
+      "meaning": "you disbelieve",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense, 'you (plural)'"
+        },
+        {
+          "arabic": "كُفْرٌ",
+          "meaning": "disbelief, ingratitude"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person plural masculine active voice (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "in Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to praise, divinity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَكُنتُمْ",
+      "transliteration": "wa-kuntum",
+      "meaning": "and you were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كُنتُمْ",
+          "meaning": "you were (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَمْوَاتًا",
+      "transliteration": "amwātan",
+      "meaning": "lifeless, dead ones",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death"
+      },
+      "components": [
+        {
+          "arabic": "أَمْوَات",
+          "meaning": "plural of مَيْت (dead person), lifeless ones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَأَحْيَاكُمْ",
+      "transliteration": "fa-aḥyākum",
+      "meaning": "so He revived you",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating perfect tense and active voice"
+        },
+        {
+          "arabic": "حْيَا",
+          "meaning": "to revive, to live"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to establish after something else; also implies time sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُمِيتُكُمْ",
+      "transliteration": "yumītukum",
+      "meaning": "He will cause you to die",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "مِيتُ",
+          "meaning": "dying, to die (passive participle)"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural, accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to pause"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يُحْيِيكُمْ",
+      "transliteration": "yuḥyīkum",
+      "meaning": "He will revive you",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "حْيِ",
+          "meaning": "life, reviving (verbal stem)"
+        },
+        {
+          "arabic": "ـكُم",
+          "meaning": "you (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to establish, to place after; sequence of time or logical order"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ilayhi",
+      "meaning": "to Him",
+      "root": {
+        "letters": "هـ-ي-ل",
+        "meaning": "to return, go to, approach"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, toward"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تُرْجَعُونَ",
+      "transliteration": "turjaʿūna",
+      "meaning": "you will be returned",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense or 'you will'"
+        },
+        {
+          "arabic": "رَجَعـ",
+          "meaning": "to return, to revert"
+        },
+        {
+          "arabic": "~ُونَ",
+          "meaning": "suffix indicating plural 'you' (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "how-you disbelieve in-Allah and-you were lifeless then He revived you then He will cause to die you then He will revive you then to Him you will be returned"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

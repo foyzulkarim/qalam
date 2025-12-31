@@ -1,0 +1,496 @@
+{
+  "verseId": "2:265",
+  "verse": {
+    "arabic": "وَمَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "transliteration": "Wamathalu allatheena yunfiqoona amwalahumu ibtighaa mardati Allahi watathbeetan min anfusihim kamathali jannatin birabwatin asabaha wabilun faatat okulaha diAAfayni fain lam yusibha wabilun fatallun waAllahu bima taAAmaloona baseerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 265
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَثَلُ",
+      "transliteration": "mathalu",
+      "meaning": "example, likeness",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to be like, to resemble; to have a parallel or analogy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to refer, to point out, to be"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُنفِقُونَ",
+      "transliteration": "yunfiqūna",
+      "meaning": "they spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to emit"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "they (masculine plural) - prefix indicating present tense, active voice"
+        },
+        {
+          "arabic": "فِق",
+          "meaning": "spend/expend - from the root ن-ف-ق"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural) - suffix indicating present tense, active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَمْوَالَهُمُ",
+      "transliteration": "amwālahum",
+      "meaning": "their wealths",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; wealth, property"
+      },
+      "components": [
+        {
+          "arabic": "أمْوالَ",
+          "meaning": "wealths (plural)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ابْتِغَاءَ",
+      "transliteration": "ibtighā’a",
+      "meaning": "seeking, in pursuit of",
+      "root": {
+        "letters": "ب-غ-و",
+        "meaning": "to seek, to desire, to request"
+      },
+      "components": [
+        {
+          "arabic": "ابْتِ",
+          "meaning": "prefix indicating seeking or obtaining something"
+        },
+        {
+          "arabic": "غَاء",
+          "meaning": "related to seeking or pursuing (derived from the root ب-غ-و)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَرْضَاتِ",
+      "transliteration": "marḍāti",
+      "meaning": "approval, pleasure of",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to approve"
+      },
+      "components": [
+        {
+          "arabic": "مَر-",
+          "meaning": "source or instrument (masdar)"
+        },
+        {
+          "arabic": "-ضَاتِ",
+          "meaning": "feminine indefinite genitive (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَتَثْبِيتًا",
+      "transliteration": "wa tathbītan",
+      "meaning": "and [for] stability, and confirmation",
+      "root": {
+        "letters": "ث-ب-ت",
+        "meaning": "to be firm, stable; to confirm, establish"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَثْبِيتًا",
+          "meaning": "stability, confirmation (verbal noun of form تفعيل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنفُسِهِمْ",
+      "transliteration": "anfusihim",
+      "meaning": "their selves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "أنْفُسِ",
+          "meaning": "selves"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كَمَثَلِ",
+      "transliteration": "kamathili",
+      "meaning": "like the example of",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "example, likeness"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, similar to (particle of similitude)"
+        },
+        {
+          "arabic": "مَثَلِ",
+          "meaning": "example, likeness (genitive singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "جَنَّةٍ",
+      "transliteration": "jannatin",
+      "meaning": "a garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also relates to the concept of abundance and lushness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِرَبْوَةٍ",
+      "transliteration": "birabwatin",
+      "meaning": "on high ground, elevated place",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "height, elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "رَبْوَةٍ",
+          "meaning": "high ground, elevation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَصَابَهَا",
+      "transliteration": "aṣābahā",
+      "meaning": "it struck it, it befell it",
+      "root": {
+        "letters": "ص-ب-و",
+        "meaning": "to strike, to affect, to reach"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the prefix indicating past tense and active voice"
+        },
+        {
+          "arabic": "صَابَ",
+          "meaning": "to strike, to affect"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "the suffix indicating a feminine singular object (it)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَابِلٌ",
+      "transliteration": "wābilun",
+      "meaning": "a downpour, heavy rain",
+      "root": {
+        "letters": "و-ب-ل",
+        "meaning": "to flow, to pour forth; abundance of water"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فَآتَتْ",
+      "transliteration": "fa’ātāt",
+      "meaning": "so it yielded, so it produced",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to return, to come back, to yield"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "آتَتْ",
+          "meaning": "it yielded, it came back (feminine singular perfect verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أُكُلَهَا",
+      "transliteration": "ukulahā",
+      "meaning": "its fruit, its produce",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "أُكُل",
+          "meaning": "the eating, produce (verbal noun)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "ضِعْفَيْنِ",
+      "transliteration": "ḍiʿfayni",
+      "meaning": "double (the amount)",
+      "root": {
+        "letters": "ض-ع-ف",
+        "meaning": "weakness, diminution, opposite of strength; to double or increase (as a result of weakness)"
+      },
+      "components": [
+        {
+          "arabic": "ضِعْف",
+          "meaning": "double, multiplicity; weakness"
+        },
+        {
+          "arabic": "َيْنِ",
+          "meaning": "dual genitive ending (possessed by two)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فَإِن لَّمْ",
+      "transliteration": "fa’in lam",
+      "meaning": "so if not, but if",
+      "root": {
+        "letters": "ل-م-د",
+        "meaning": "to will, to desire, negation/absence of something"
+      },
+      "components": [
+        {
+          "arabic": "فَإِن",
+          "meaning": "so if, but if (conditional particle)"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "يُصِبْهَا",
+      "transliteration": "yuṣibhā",
+      "meaning": "it strikes it, it befalls it",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to strike, to reach, to befall"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating the third person masculine singular present active voice"
+        },
+        {
+          "arabic": "صِبْ",
+          "meaning": "strike, befall (verbal stem)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَابِلٌ",
+      "transliteration": "wābilun",
+      "meaning": "a downpour, heavy rain",
+      "root": {
+        "letters": "و-ب-ل",
+        "meaning": "to flow, to pour forth; abundance of water"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "فَطَلٌّ",
+      "transliteration": "faṭallun",
+      "meaning": "then a drizzle, light rain",
+      "root": {
+        "letters": "ط-ل-ع",
+        "meaning": "to rise, to ascend; to appear (often of the sun or stars); to come forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa Allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "with what, in respect of what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be able to, possess power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in respect of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do, you work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, effort"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person plural present tense"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing, work"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person plural masculine pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "بَصِيرٌ",
+      "transliteration": "baṣīrun",
+      "meaning": "Seeing, Aware",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "To see, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "بَصِير",
+          "meaning": "Seeing, aware, perceptive; active participle of the verb رؤية (ru'yah)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-mathalu-alladhīna-yunfiqūna amwālahum ibtighā’a marḍāti Allāhi-wa tathbītan min anfusihim kamathili jannatin birabwatin aṣābahā wābilun fa’ātāt ukulahā ḍiʿfayni fa’in lam yuṣibhā wābilun faṭallun wa Allāhu bimā taʿmalūna baṣīrun"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "verseId": "2:103",
+  "verse": {
+    "arabic": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِّنْ عِندِ اللَّهِ خَيْرٌ ۖ لَّوْ كَانُوا يَعْلَمُونَ",
+    "transliteration": "Walaw annahum amanoo waittaqaw lamathoobatun min AAindi Allahi khayrun law kanoo yaAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 103
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "if",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "desire, will, or possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَّهُمْ",
+      "transliteration": "annahum",
+      "meaning": "that they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to intend, to desire, to want; belonging to them"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating first person plural present/future tense"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اتَّقَوْا",
+      "transliteration": "ittaqū",
+      "meaning": "feared, guarded themselves",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard against harm or danger"
+      },
+      "components": [
+        {
+          "arabic": "اِتّ",
+          "meaning": "intensive prefix indicating repeated or thorough action"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "reflexive marker, indicating the action is directed back upon the subject (themselves)"
+        },
+        {
+          "arabic": "قُوا",
+          "meaning": "verb form indicating 'you all' (masculine plural) guarding/protecting"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَمَثُوبَةٌ",
+      "transliteration": "lamathūbatun",
+      "meaning": "a reward, recompense",
+      "root": {
+        "letters": "ث-و-ب",
+        "meaning": "to return, to recompense; abundance, wealth"
+      },
+      "components": [
+        {
+          "arabic": "لِمَثُوبَةٌ",
+          "meaning": "reward, recompense (specifically something returned or given in abundance)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to withhold, to prevent, origin of separation or source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عِندِ",
+      "transliteration": "ʿinda",
+      "meaning": "with, at, by",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be present with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "divinity, godhood; to be worshipped"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَّوْ",
+      "transliteration": "law",
+      "meaning": "if only",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, desire; regret, wishing something were different"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūn",
+      "meaning": "they knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense, or the subjunctive mood"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if-that they believed and and feared-guarded themselves a-reward from with at Allah better if only they were knew"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

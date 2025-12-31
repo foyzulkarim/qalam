@@ -1,0 +1,355 @@
+{
+  "verseId": "2:212",
+  "verse": {
+    "arabic": "زُيِّنَ لِلَّذِينَ كَفَرُوا الْحَيَاةُ الدُّنْيَا وَيَسْخَرُونَ مِنَ الَّذِينَ آمَنُوا ۘ وَالَّذِينَ اتَّقَوْا فَوْقَهُمْ يَوْمَ الْقِيَامَةِ ۗ وَاللَّهُ يَرْزُقُ مَن يَشَاءُ بِغَيْرِ حِسَابٍ",
+    "transliteration": "Zuyyina lillatheena kafaroo alhayatu alddunya wayaskharoona mina allatheena amanoo waallatheena ittaqaw fawqahum yawma alqiyamati waAllahu yarzuqu man yashao bighayri hisabin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 212
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "زُيِّنَ",
+      "transliteration": "zuyyina",
+      "meaning": "made beautiful, adorned",
+      "root": {
+        "letters": "ز-ي-ن",
+        "meaning": "to adorn, to embellish, to make beautiful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلَّذِينَ",
+      "transliteration": "lil-ladhīna",
+      "meaning": "for those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, to exist; possess; consciousness"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who, the ones who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved, denied (faith)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny or be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating plurality"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they denied, they disbelieved (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَيَاةُ",
+      "transliteration": "al-ḥayātu",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, life, vitality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاة",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world, the present life",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble; to subjugate; to overpower"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَيَسْخَرُونَ",
+      "transliteration": "wayasḫarūna",
+      "meaning": "and they mock, and they ridicule",
+      "root": {
+        "letters": "س-خ-ر",
+        "meaning": "to laugh at, to ridicule, to make fun of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَسْخَرُونَ",
+          "meaning": "they mock, they ridicule (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to; to possess; to be connected with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed, have faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be safe, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/continuous tense, plural form marker in this context"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed/have faith (derived from the root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wal-ladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be; existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اتَّقَوْا",
+      "transliteration": "ittaqawā",
+      "meaning": "feared, were wary of",
+      "root": {
+        "letters": "و-ق-ى",
+        "meaning": "to protect, shield; to be cautious of"
+      },
+      "components": [
+        {
+          "arabic": "اِتّ",
+          "meaning": "prefix denoting seeking or doing something repeatedly/thoroughly"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "suffix indicating 'you (plural)'"
+        },
+        {
+          "arabic": "قَوْا",
+          "meaning": "from the root وقَى, signifying protection or caution"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَوْقَهُمْ",
+      "transliteration": "fawqahum",
+      "meaning": "above them, over them",
+      "root": {
+        "letters": "ف-و-ق",
+        "meaning": "to be above, to surpass, to exceed"
+      },
+      "components": [
+        {
+          "arabic": "فَوْق",
+          "meaning": "above, over"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "on the day (of)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmati",
+      "meaning": "the Resurrection, the Day of Judgment",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, rise, to be upright; a community, people"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God, deity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يَرْزُقُ",
+      "transliteration": "yarzuqu",
+      "meaning": "provides, gives sustenance to",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; to diminish or weaken; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَشَاءُ",
+      "transliteration": "yashā’u",
+      "meaning": "He wills, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to desire, to wish, to intend"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix denoting the third person singular masculine present tense"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire (basic form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating present tense and nominative case for the third person singular masculine pronoun (هو)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "بِغَيْرِ",
+      "transliteration": "bighayri",
+      "meaning": "without, without any",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to be other than, different; lack, absence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَيْرِ",
+          "meaning": "other than, without"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "حِسَابٍ",
+      "transliteration": "ḥisābin",
+      "meaning": "account, reckoning",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Made-beautiful for-those-who disbelieved is the-life the-world and-they-mock from those-who believed. And-those-who feared over-them on the-day the-Resurrection. And-Allah provides who He-wills without any account."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

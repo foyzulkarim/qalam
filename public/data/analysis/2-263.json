@@ -1,0 +1,179 @@
+{
+  "verseId": "2:263",
+  "verse": {
+    "arabic": "قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَا أَذًى ۗ وَاللَّهُ غَنِيٌّ حَلِيمٌ",
+    "transliteration": "Qawlun maAAroofun wamaghfiratun khayrun min sadaqatin yatbaAAuha athan waAllahu ghaniyyun haleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 263
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَوْلٌ",
+      "transliteration": "qawlun",
+      "meaning": "speech, statement",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter, speech"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّعْرُوفٌ",
+      "transliteration": "maʿrūfun",
+      "meaning": "known, recognized; kind, good",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to recognize; to be aware of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَمَغْفِرَةٌ",
+      "transliteration": "wa-maghfiratun",
+      "meaning": "and forgiveness",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَغْفِرَةٌ",
+          "meaning": "forgiveness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "than, from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "deprivation, removal, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "صَدَقَةٍ",
+      "transliteration": "ṣadaqatin",
+      "meaning": "charity, alms",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truthfulness, sincerity, correctness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَتْبَعُهَا",
+      "transliteration": "yattabiʿuhā",
+      "meaning": "follows it",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue"
+      },
+      "components": [
+        {
+          "arabic": "يَتَ",
+          "meaning": "prefix indicating present tense, third person singular"
+        },
+        {
+          "arabic": "بِعُ",
+          "meaning": "base form of 'to follow'"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "feminine singular pronoun, 'it'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَذًى",
+      "transliteration": "ʾadhān",
+      "meaning": "harm, injury",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to harm, to cause pain or suffering"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۗ",
+      "transliteration": "pause marker (laʾa)",
+      "meaning": "None - grammatical pause",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-و",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "غَنِيٌّ",
+      "transliteration": "ghanīyyun",
+      "meaning": "rich, free of need",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to suffice, to be rich"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "حَلِيمٌ",
+      "transliteration": "ḥalīmun",
+      "meaning": "forbearing, patient",
+      "root": {
+        "letters": "ح-ل-م",
+        "meaning": "mildness, leniency, forbearance"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "speech-good and forgiveness-and better-is than charity follows-it harm - and Allah free-of-need forbearing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

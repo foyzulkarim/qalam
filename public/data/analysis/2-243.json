@@ -1,0 +1,461 @@
+{
+  "verseId": "2:243",
+  "verse": {
+    "arabic": "أَلَمْ تَرَ إِلَى الَّذِينَ خَرَجُوا مِن دِيَارِهِمْ وَهُمْ أُلُوفٌ حَذَرَ الْمَوْتِ فَقَالَ لَهُمُ اللَّهُ مُوتُوا ثُمَّ أَحْيَاهُمْ ۚ إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَـٰكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+    "transliteration": "Alam tara ila allatheena kharajoo min diyarihim wahum oloofun hathara almawti faqala lahumu Allahu mootoo thumma ahyahum inna Allaha lathoo fadlin AAala alnnasi walakinna akthara alnnasi la yashkuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 243
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did not (you see)",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to perceive, to see, to know; also used as a negative particle indicating denial or lack of awareness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle (denial)"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negative particle (did not)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَ",
+      "transliteration": "tara",
+      "meaning": "See, perceive",
+      "root": {
+        "letters": "ر-ي-ن",
+        "meaning": "to see, to perceive, to observe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "To, towards",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "To incline, to turn towards, or belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ي-ن",
+        "meaning": "possession, owner, having qualities"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "خَرَجُوا",
+      "transliteration": "ḵarajū",
+      "meaning": "They exited, they went out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "خَرَج",
+          "meaning": "they exited, they went out (verb)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to withhold, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "دِيَارِهِمْ",
+      "transliteration": "diyārihim",
+      "meaning": "Their homes, their dwellings",
+      "root": {
+        "letters": "د-ي-ر",
+        "meaning": "to reside, to dwell, habitation"
+      },
+      "components": [
+        {
+          "arabic": "ديار",
+          "meaning": "home, dwelling"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa hum",
+      "meaning": "And they",
+      "root": {
+        "letters": "ه-م-ي",
+        "meaning": "to be, to exist; belonging to, having the quality of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أُلُوفٌ",
+      "transliteration": "ʾulūfun",
+      "meaning": "Thousands",
+      "root": {
+        "letters": "أ-ل-ف",
+        "meaning": "To be numerous, to count"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "حَذَرَ",
+      "transliteration": "ḥaḏara",
+      "meaning": "Fear (of)",
+      "root": {
+        "letters": "ح-ذ-ر",
+        "meaning": "To be cautious, to fear, to take precautions"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْمَوْتِ",
+      "transliteration": "al-mawti",
+      "meaning": "The death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death, perish"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مَوْت",
+          "meaning": "death, dying"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَقَالَ",
+      "transliteration": "faqāla",
+      "meaning": "Then He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "Then, so"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "He said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَهُمُ",
+      "transliteration": "lahum",
+      "meaning": "To them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "they (masculine plural, genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مُوتُوا",
+      "transliteration": "mūtū",
+      "meaning": "Die!",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, to die, perish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ثُمَّ",
+      "transliteration": "ṯumma",
+      "meaning": "Then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "To settle, to rest; then, afterwards (indicating sequence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَحْيَاهُمْ",
+      "transliteration": "ʾaḥyāhum",
+      "meaning": "He revived them, He restored to life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, living"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past tense and active voice"
+        },
+        {
+          "arabic": "حَيَ",
+          "meaning": "to live, to be alive"
+        },
+        {
+          "arabic": "اهُمْ",
+          "meaning": "them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence; emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity; the object of devotion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لَذُو",
+      "transliteration": "laḏū",
+      "meaning": "Surely is the possessor (of)",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, taste"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "Surely, indeed (emphatic particle)"
+        },
+        {
+          "arabic": "ذُو",
+          "meaning": "possessor, owner"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَضْلٍ",
+      "transliteration": "faḍlin",
+      "meaning": "Bounty, grace",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to exceed, to be superior, to overflow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "The people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (as they are often 'forgetful' of God)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَلَـٰكِنَّ",
+      "transliteration": "wa lākinna",
+      "meaning": "But, however",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "To be hidden, concealed; to exist or occur"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "And"
+        },
+        {
+          "arabic": "لَـٰكِنَّ",
+          "meaning": "But, however (introduces an exception or contrast)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَكْثَرَ",
+      "transliteration": "ʾakṯara",
+      "meaning": "Most (of)",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be numerous, to increase, abundance"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating intensification or the superlative degree"
+        },
+        {
+          "arabic": "كَثَّرَ",
+          "meaning": "to make numerous, to increase greatly (form II verb)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "indefinite nominative marker (tanwin)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "The people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (as they are often 'lost' in worldly affairs)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, absence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "يَشْكُرُونَ",
+      "transliteration": "yaškurūna",
+      "meaning": "They thank, they show gratitude",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to thank, to be grateful, to acknowledge a favor"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and plurality"
+        },
+        {
+          "arabic": "شْكُر",
+          "meaning": "thanking (verbal noun)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating masculine plural active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not you see to the those who exited from their homes and they [were] thousands fear of the death? Then He said to them \"Die!\" then He revived them. Indeed Allah surely is the possessor of bounty upon the people and but most of the people not they thank."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

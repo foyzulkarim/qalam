@@ -1,0 +1,312 @@
+{
+  "verseId": "2:29",
+  "verse": {
+    "arabic": "هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الْأَرْضِ جَمِيعًا ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ ۚ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+    "transliteration": "Huwa allathee khalaqa lakum ma fee alardi jameeAAan thumma istawa ila alssamai fasawwahunna sabAAa samawatin wahuwa bikulli shayin AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to be, existence, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "The One who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess or have a quality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, which, that (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَكُم",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ـكُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "that which / everything",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to intend; also relates to water and abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in / on",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (possessive/indirect object marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "جَمِيعًا",
+      "transliteration": "jamīʿan",
+      "meaning": "all / entirely",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather together, completeness"
+      },
+      "components": [
+        {
+          "arabic": "جَمِيع",
+          "meaning": "all, entire (masculine singular)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-fatḥ, indicating indefiniteness and accusative case"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then / afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish after something else; sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اِسْتَوَىٰ",
+      "transliteration": "istawā",
+      "meaning": "He directed Himself / He established Himself",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to go straight, to be level, to be equal, to suit"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "indicates seeking to perform the action (form X)"
+        },
+        {
+          "arabic": "وَىٰ",
+          "meaning": "to go, to become; relates to the root meaning of leveling or establishing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "to / towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline towards, to be near"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "al-samāʾi",
+      "meaning": "the heaven / the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to be high, elevated; loftiness; grandeur"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَسَوَّاهُنَّ",
+      "transliteration": "fasawwāhunna",
+      "meaning": "so He made them straight / so He fashioned them",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to level, to make straight, to fashion, to correct"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so / then (particle indicating consequence)"
+        },
+        {
+          "arabic": "سَوَّاهُنَّ",
+          "meaning": "He made them straight / He fashioned them (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "سَبْعَ",
+      "transliteration": "sabʿa",
+      "meaning": "seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "fullness, completeness; to follow (in sequence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "سَمَاوَاتٍ",
+      "transliteration": "samāwātin",
+      "meaning": "heavens / skies (plural)",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, elevate; height, loftiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۖ",
+      "transliteration": "[pause]",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "and He",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "بِكُلِّ",
+      "transliteration": "bikulli",
+      "meaning": "with every / with all of",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to finish; totality, entirety"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "كُلِّ",
+          "meaning": "every / all (masculine singular genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing / something",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be obscure, hidden, or non-existent; something undefined."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing / Aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, learning"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He - The One who - created - for you (plural) - that which - in / on - the earth - all / entirely - then - He directed Himself / He established Himself - to / towards - the heaven / the sky - so He made them straight / so He fashioned them - seven - heavens / skies (plural) - [pause] - and He - with every / with all of - thing / something - Knowing / Aware"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

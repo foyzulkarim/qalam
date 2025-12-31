@@ -1,0 +1,446 @@
+{
+  "verseId": "2:79",
+  "verse": {
+    "arabic": "فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِندِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُم مِّمَّا يَكْسِبُونَ",
+    "transliteration": "Fawaylun lillatheena yaktuboona alkitaba biaydeehim thumma yaqooloona hatha min AAindi Allahi liyashtaroo bihi thamanan qaleelan fawaylun lahum mimma katabat aydeehim wawaylun lahum mimma yaksiboona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 79
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَ",
+      "transliteration": "fa-",
+      "meaning": "so, then",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to separate, to finish, to complete; a connective particle indicating sequence or result"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَيْلٌ",
+      "transliteration": "waylun",
+      "meaning": "woe, destruction",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "loss, deficiency, destruction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِّلَّذِينَ",
+      "transliteration": "lil-ladhīna",
+      "meaning": "for those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to be, exist; to possess qualities or attributes"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "لَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَكْتُبُونَ",
+      "transliteration": "yaktubūna",
+      "meaning": "they write",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "كُتُب",
+          "meaning": "writing (verbal noun/participle base)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "present tense, plural masculine suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the writing, the scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "writing, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِأَيْدِيهِمْ",
+      "transliteration": "bi-aydīhim",
+      "meaning": "with their hands",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "possession, hand, power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "أَيْدِيهِمْ",
+          "meaning": "their hands"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to put after"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَقُولُونَ",
+      "transliteration": "yaqūlūna",
+      "meaning": "they say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "قُولُونَ",
+          "meaning": "say (verb, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "ه-ذ-ا",
+        "meaning": "to point, to indicate, to direct attention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عِندِ",
+      "transliteration": "ʿinda",
+      "meaning": "near, with",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "near, with (preposition indicating location or possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, to deify; the entity worthy of worship."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لِيَشْتَرُوا",
+      "transliteration": "li-yashtarū",
+      "meaning": "in order that they may buy",
+      "root": {
+        "letters": "ش-ر-ى",
+        "meaning": "to purchase, to acquire, to obtain"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order that"
+        },
+        {
+          "arabic": "يَشْتَرُوا",
+          "meaning": "they buy (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ثَمَنًا",
+      "transliteration": "thamanan",
+      "meaning": "a price, value",
+      "root": {
+        "letters": "ث-م-ن",
+        "meaning": "to be valuable, to have a price; richness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "little, small",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to diminish, scarcity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فَ",
+      "transliteration": "fa-",
+      "meaning": "so, then",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, result, consequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَيْلٌ",
+      "transliteration": "waylun",
+      "meaning": "woe, destruction",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "loss, deficiency, destruction; to be lost or deficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَّهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to have; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "ل",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِّمَّا",
+      "transliteration": "mim mā",
+      "meaning": "from what",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or prevent (generally related to source/origin)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, the thing which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَتَبَتْ",
+      "transliteration": "katabat",
+      "meaning": "wrote",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "أَيْدِيهِمْ",
+      "transliteration": "aydīhim",
+      "meaning": "their hands",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; hand (as that which possesses or does)"
+      },
+      "components": [
+        {
+          "arabic": "أَيْدِ",
+          "meaning": "hands (plural)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (masculine plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَ",
+      "transliteration": "wa-",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, to invite; love, affection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَيْلٌ",
+      "transliteration": "waylun",
+      "meaning": "woe, destruction",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "to suffer loss, to be destroyed; intense grief or pain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "لَّهُم",
+      "transliteration": "lahum",
+      "meaning": "for them",
+      "root": {
+        "letters": "ل-ه-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مِّمَّا",
+      "transliteration": "mim mā",
+      "meaning": "from what",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be of the substance of"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "يَكْسِبُونَ",
+      "transliteration": "yaksibūna",
+      "meaning": "they earn",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to gain, to earn"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural (we)"
+        },
+        {
+          "arabic": "كْسِبُ",
+          "meaning": "earning, acquisition (verbal noun)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active voice (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-woe-for-those-who-they-write-the-writing-with-their-hands-then-they-say-this-from-near-Allah-in-order-that-they-may-buy-with-it-a-price-little-So-woe-for-them-from-what-wrote-their-hands-and-woe-for-them-from-what-they-earn."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

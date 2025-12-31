@@ -1,0 +1,504 @@
+{
+  "verseId": "2:140",
+  "verse": {
+    "arabic": "أَمْ تَقُولُونَ إِنَّ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطَ كَانُوا هُودًا أَوْ نَصَارَىٰ ۗ قُلْ أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَادَةً عِندَهُ مِنَ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+    "transliteration": "Am taqooloona inna ibraheema waismaAAeela waishaqa wayaAAqooba waalasbata kanoo hoodan aw nasara qul aantum aAAlamu ami Allahu waman athlamu mimman katama shahadatan AAindahu mina Allahi wama Allahu bighafilin AAamma taAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 140
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمْ",
+      "transliteration": "ʾam",
+      "meaning": "Or",
+      "root": {
+        "letters": "ا-م-ن",
+        "meaning": "safety, security, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَقُولُونَ",
+      "transliteration": "taqūlūna",
+      "meaning": "Do you say?",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix indicating the second person masculine plural (you - addressing a group)"
+        },
+        {
+          "arabic": "قُولُـ",
+          "meaning": "The root verb form relating to speaking/saying"
+        },
+        {
+          "arabic": "ـونَ",
+          "meaning": "Suffix denoting the second person masculine plural (you - addressing a group)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, Verily"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ʾibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be vast, to be great; to explain clearly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَإِسْمَاعِيلَ",
+      "transliteration": "wa-ʾismāʿīla",
+      "meaning": "And Ishmael",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to obey (and by extension, to understand and accept)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْمَاعِيلَ",
+          "meaning": "Ishmael (name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَإِسْحَاقَ",
+      "transliteration": "wa-ʾisḥāqa",
+      "meaning": "And Isaac",
+      "root": {
+        "letters": "س-ح-ق",
+        "meaning": "to grind, to wear away; to weaken or destroy; forgiveness (related)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِسْحَاقَ",
+          "meaning": "Isaac (name of the prophet)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَيَعْقُوبَ",
+      "transliteration": "wa-yaʿqūba",
+      "meaning": "And Jacob",
+      "root": {
+        "letters": "ي-ق-و",
+        "meaning": "to stand firmly, to be strong; to follow closely; to protect"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَعْقُوبَ",
+          "meaning": "Jacob (proper noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْأَسْبَاطَ",
+      "transliteration": "wa-l-ʾasbāṭa",
+      "meaning": "And the Descendants/Tribes",
+      "root": {
+        "letters": "س-ب-ط",
+        "meaning": "to extend, spread out; lineage, progeny"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَسْبَاطَ",
+          "meaning": "descendants, tribes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "Were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, existence, becoming"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "They (masculine plural pronoun)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "Were (past tense, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "هُودًا",
+      "transliteration": "hūdan",
+      "meaning": "Jews",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "guidance, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "To refuse, to abstain; separation, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نَصَارَىٰ",
+      "transliteration": "naṣārá",
+      "meaning": "Christians",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to support"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; generally encompassing verbal communication."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَأَنتُمْ",
+      "transliteration": "ʾa-ʾantum",
+      "meaning": "Are you?",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "ʾaʿlamu",
+      "meaning": "More knowing?",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more; a prefix indicating intensification or comparison"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know, to be aware"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "first-person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَمِ",
+      "transliteration": "ʾami",
+      "meaning": "Or?",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to hope, to desire; also used as a particle indicating doubt or questioning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah?",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَمَنْ",
+      "transliteration": "wa-man",
+      "meaning": "And who?",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, or a relative pronoun indicating person"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَظْلَمُ",
+      "transliteration": "ʾaẓlamu",
+      "meaning": "More unjust?",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, darkness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more (comparative particle)"
+        },
+        {
+          "arabic": "ظَلَمُ",
+          "meaning": "injustice, wrongdoing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِمَّن",
+      "transliteration": "mimman",
+      "meaning": "Than one who?",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, origin, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, one who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَتَمَ",
+      "transliteration": "katama",
+      "meaning": "Concealed",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to conceal, to hide, to repress"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "شَهَادَةً",
+      "transliteration": "shahādatan",
+      "meaning": "A testimony",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "To witness, to testify, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عِندَهُ",
+      "transliteration": "ʿindahu",
+      "meaning": "With him/From him",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be present with"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "with, at, near"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah?",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God; deity.  A core root denoting divinity and worship."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what?",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun (what)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what? which?"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah?",
+      "root": {
+        "letters": "ل-هـ-و",
+        "meaning": "to be worshipped, divinity; the object of adoration and submission"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "بِغَافِلٍ",
+      "transliteration": "bi-ghāfilin",
+      "meaning": "Is unaware?",
+      "root": {
+        "letters": "غ-ف-ل",
+        "meaning": "to be heedless, to neglect, to overlook"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَافِلٍ",
+          "meaning": "unaware, heedless, negligent (masculine singular indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "عَمَّا",
+      "transliteration": "ʿammā",
+      "meaning": "Of what?",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "To conceal, to obscure; general, vague"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "About, concerning, from"
+        },
+        {
+          "arabic": "ما",
+          "meaning": "What, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "You do?",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to work"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second-person masculine plural (you)"
+        },
+        {
+          "arabic": "عَمَلْ",
+          "meaning": "doing, performing, work (verbal noun/source)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second-person masculine plural (you - active voice)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Or-do you say?-Indeed Abraham-and Ishmael-and Isaac-and Jacob-and the Descendants-were Jews-or Christians?-Say!-Are you-more knowing-or Allah?-And who-is more unjust-than one who-concealed-a testimony-with him-from Allah?-And what-Allah-is unaware-of what-you do?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

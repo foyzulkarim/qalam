@@ -1,0 +1,171 @@
+{
+  "verseId": "2:179",
+  "verse": {
+    "arabic": "وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تَتَّقُونَ",
+    "transliteration": "Walakum fee alqisasi hayatun ya olee alalbabi laAAallakum tattaqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 179
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَكُمْ",
+      "transliteration": "wa-lakum",
+      "meaning": "and for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession, ownership (in this context)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be contained in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقِصَاصِ",
+      "transliteration": "al-qiṣāṣi",
+      "meaning": "the legal retribution, the retaliation",
+      "root": {
+        "letters": "ق-ص-ص",
+        "meaning": "to tell, to narrate; to seek (something); to cut off, to sever"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَيَاةٌ",
+      "transliteration": "ḥayātun",
+      "meaning": "life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive, vitality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أُولِي",
+      "transliteration": "ūlī",
+      "meaning": "possessors of, people having",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to befriend, to support, to govern, to entrust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَلْبَابِ",
+      "transliteration": "al-albābi",
+      "meaning": "the minds, the understanding",
+      "root": {
+        "letters": "ل-ب-ب",
+        "meaning": "to have intelligence, understanding; the core of the heart/mind"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَلْبَاب",
+          "meaning": "minds, understanding (plural of لُبٍّ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "perhaps you (plural)",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, to be able to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, in order that (introducing a purpose)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "perhaps, maybe (expressing uncertainty)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَتَّقُونَ",
+      "transliteration": "tattaqūna",
+      "meaning": "you become righteous, you guard yourselves",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, to shield, to be cautious"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense, specifically second person masculine plural"
+        },
+        {
+          "arabic": "تَّـ",
+          "meaning": "emphatic marker, reinforcing the action"
+        },
+        {
+          "arabic": "قـ",
+          "meaning": "root letter indicating protection/caution"
+        },
+        {
+          "arabic": "~ون",
+          "meaning": "suffix indicating second person masculine plural pronoun (you)"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "vowel marking the imperfect tense, and linking pronoun to verb"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-for-you in-the legal-retribution life O possessors-of the-minds perhaps you become-righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
