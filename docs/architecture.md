@@ -26,6 +26,8 @@ qalam/
 │   ├── app/                      # Next.js App Router
 │   │   ├── page.tsx              # Landing page
 │   │   ├── layout.tsx            # Root layout with fonts
+│   │   ├── history/
+│   │   │   └── page.tsx          # Attempt history page
 │   │   └── browse/
 │   │       ├── page.tsx          # Surah listing
 │   │       └── surah/[id]/
@@ -34,13 +36,16 @@ qalam/
 │   │               └── page.tsx  # Practice page
 │   │
 │   ├── components/
-│   │   ├── ui/                   # Button, Card, Input, Alert, Spinner
+│   │   ├── ui/                   # Button, Card, Input, Alert, Spinner, Modal
 │   │   ├── Navbar.tsx
 │   │   ├── VerseDisplay.tsx
-│   │   └── FeedbackCard.tsx
+│   │   ├── FeedbackCard.tsx
+│   │   └── AttemptHistoryModal.tsx
 │   │
 │   ├── lib/
-│   │   └── data.ts               # Data fetching with caching
+│   │   ├── data.ts               # Data fetching with caching
+│   │   ├── attemptHistory.ts     # LocalStorage attempt tracking
+│   │   └── formatters.ts         # Date/score formatting utilities
 │   │
 │   └── types/
 │       └── index.ts              # TypeScript definitions
@@ -49,6 +54,10 @@ qalam/
 │   ├── quran.json                # Complete Quran
 │   ├── surahs.json               # Surah metadata
 │   └── analysis/                 # Word-by-word analysis
+│
+├── worker/                       # Cloudflare Worker (Assessment API)
+│   ├── src/index.ts              # Worker entry point
+│   └── wrangler.toml             # Worker configuration
 │
 ├── scripts/
 │   ├── build-quran-json.ts       # Build quran.json
@@ -82,29 +91,125 @@ Word-by-word linguistic analysis in `public/data/analysis/`:
 - Generated using LM Studio (Gemma3-27B) or Ollama
 - See [LLM Integration](./llm-integration.md) for details
 
-Currently includes:
-- Surah Al-Fatihah (1:1-7)
-- Juz Amma (Surahs 78-114)
+## End-to-End Flow
 
-## Data Flow
+### Build Time (Data Preparation)
 
 ```
-Build Time:
-┌─────────────────┐     ┌─────────────────┐
-│ Tanzil.net      │────▶│ quran.json      │
-│ source files    │     │ (verified text) │
-└─────────────────┘     └─────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                        BUILD TIME                                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  1. Quran Text (Human-Verified)                                 │
+│  ┌─────────────────┐     ┌─────────────────┐                    │
+│  │ Tanzil.net      │────▶│ quran.json      │                    │
+│  │ • quran-simple  │     │ • Arabic text   │                    │
+│  │ • en.sahih      │     │ • Translations  │                    │
+│  │ • transliteration│    │ • 6,236 verses  │                    │
+│  └─────────────────┘     └─────────────────┘                    │
+│         ▲                                                        │
+│         │ npm run build:quran                                   │
+│                                                                  │
+│  2. Verse Analysis (LLM-Generated)                              │
+│  ┌─────────────────┐     ┌─────────────────┐                    │
+│  │ Local LLM       │────▶│ analysis/*.json │                    │
+│  │ • LM Studio     │     │ • Word meanings │                    │
+│  │ • Ollama        │     │ • Arabic roots  │                    │
+│  │                 │     │ • Grammar       │                    │
+│  └─────────────────┘     └─────────────────┘                    │
+│         ▲                                                        │
+│         │ npm run seed:analysis                                 │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-┌─────────────────┐     ┌─────────────────┐
-│ LM Studio or    │────▶│ analysis/*.json │
-│ Ollama (local)  │     │ (linguistic)    │
-└─────────────────┘     └─────────────────┘
+### Runtime (User Flow)
 
-Runtime:
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│ User visits     │────▶│ Static JSON     │────▶│ React renders   │
-│ verse page      │     │ loaded          │     │ Arabic + analysis│
-└─────────────────┘     └─────────────────┘     └─────────────────┘
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         RUNTIME                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  1. Browse & Select                                             │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐                   │
+│  │ Landing  │───▶│ Surah    │───▶│ Verse    │                   │
+│  │ Page     │    │ List     │    │ Page     │                   │
+│  └──────────┘    └──────────┘    └──────────┘                   │
+│                                        │                         │
+│                                        ▼                         │
+│  2. Practice                    ┌──────────────┐                │
+│                                 │ See Arabic   │                │
+│                                 │ (no translation)│             │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  3. Submit Translation          ┌──────────────┐                │
+│                                 │ User writes  │                │
+│                                 │ their attempt │               │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  4. Assessment                  ┌──────────────┐                │
+│                                 │ Worker API   │◀── KV Cache    │
+│                                 │ (Cloudflare) │                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│                                 ┌──────────────┐                │
+│                                 │ LLM Evaluates│                │
+│                                 │ (Together.ai)│                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  5. Feedback                    ┌──────────────┐                │
+│                                 │ Score +      │                │
+│                                 │ Feedback     │                │
+│                                 │ displayed    │                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  6. View Analysis               ┌──────────────┐                │
+│                                 │ Word-by-word │                │
+│                                 │ breakdown    │                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  7. Progress Saved              ┌──────────────┐                │
+│                                 │ LocalStorage │                │
+│                                 │ • Attempts   │                │
+│                                 │ • Scores     │                │
+│                                 │ • History    │                │
+│                                 └──────────────┘                │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Infrastructure
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      PRODUCTION                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ┌──────────────┐      ┌──────────────┐      ┌──────────────┐   │
+│  │ Static Site  │      │ Worker API   │      │ Together.ai  │   │
+│  │ (CF Pages)   │─────▶│ /assess      │─────▶│ LLM API      │   │
+│  │              │      │              │      │              │   │
+│  └──────────────┘      └──────┬───────┘      └──────────────┘   │
+│         │                     │                                  │
+│         │               ┌─────▼──────┐                          │
+│         │               │ CF KV      │                          │
+│         │               │ (cache)    │                          │
+│         │               └────────────┘                          │
+│         │                                                        │
+│         ▼                                                        │
+│  ┌──────────────┐                                               │
+│  │ Browser      │                                               │
+│  │ LocalStorage │                                               │
+│  │ (progress)   │                                               │
+│  └──────────────┘                                               │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ## Key Types
@@ -149,6 +254,36 @@ interface WordAnalysis {
   morphology?: { pattern: string; wordType: string }
 }
 ```
+
+## Client-Side State (LocalStorage)
+
+User progress is stored in the browser with no server-side persistence:
+
+```typescript
+// Stored in localStorage under 'qalam_attempt_history'
+interface AttemptHistoryStore {
+  attempts: StoredAttempt[]
+  lastUpdated: string  // ISO date
+}
+
+interface StoredAttempt {
+  id: string              // timestamp-based unique id
+  verseId: string         // e.g., "1:5"
+  userTranslation: string
+  feedback: AttemptFeedback
+  timestamp: string       // ISO date
+}
+```
+
+**Limits:**
+- Max 50 attempts per verse
+- Max 500 total attempts
+- Older attempts pruned automatically
+
+**Features:**
+- View attempt history by timeline or grouped by verse
+- Filter by surah
+- See score progression over time
 
 ## Design System
 
