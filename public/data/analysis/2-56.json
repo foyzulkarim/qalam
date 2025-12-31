@@ -1,0 +1,144 @@
+{
+  "verseId": "2:56",
+  "verse": {
+    "arabic": "ثُمَّ بَعَثْنَاكُم مِّن بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+    "transliteration": "Thumma baAAathnakum min baAAdi mawtikum laAAallakum tashkuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 56
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to stand firm, to rest; also implies sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَعَثْنَاكُم",
+      "transliteration": "baʿathnākum",
+      "meaning": "We revived you (plural)",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to resurrect, to revive"
+      },
+      "components": [
+        {
+          "arabic": "بَعَثْ",
+          "meaning": "We sent/revived"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, after",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, to be less; origin of separation or source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَعْدِ",
+      "transliteration": "baʿdi",
+      "meaning": "after (of)",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far away"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَوْتِكُمْ",
+      "transliteration": "mawti-kum",
+      "meaning": "your death (plural)",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "مَوْتِ",
+          "meaning": "death (genitive singular)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "perhaps you (plural)",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, to be able to"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "particle of hope/expectation, 'perhaps'"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "form I imperfect verb indicating hope/expectation related to the subject"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "pronoun suffix indicating 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَشْكُرُونَ",
+      "transliteration": "tashkurūn",
+      "meaning": "you would be grateful (plural)",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to acknowledge a favor"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense (future/habitual)"
+        },
+        {
+          "arabic": "شْكُر",
+          "meaning": "gratefulness, thankfulness (stem from the root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural second person (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-We-revived-you-[plural]-from-after-your-death-[plural]-perhaps-you-[plural]-would-be-grateful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "verseId": "2:174",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللَّهُ مِنَ الْكِتَابِ وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا ۙ أُولَـٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "transliteration": "Inna allatheena yaktumoona ma anzala Allahu mina alkitabi wayashtaroona bihi thamanan qaleelan olaika ma yakuloona fee butoonihim illa alnnara wala yukallimuhumu Allahu yawma alqiyamati wala yuzakkeehim walahum AAathabun aleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 174
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to have, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَكْتُمُونَ",
+      "transliteration": "yaktumūna",
+      "meaning": "They conceal",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to hide, conceal, cover up"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and 3rd person plural"
+        },
+        {
+          "arabic": "كْتُم",
+          "meaning": "stem from the root ك-ت-م, indicating concealing or hiding"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating 3rd person plural masculine, active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "existence, being; questioning; relativity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَنزَلَ",
+      "transliteration": "ʾanzala",
+      "meaning": "Sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, go down, come down"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "To originate, to be from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "The Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording; to write"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, writing, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَشْتَرُونَ",
+      "transliteration": "yashtarūna",
+      "meaning": "They buy/exchange",
+      "root": {
+        "letters": "ش-ر-ى",
+        "meaning": "to purchase, to acquire, to exchange"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural (they)"
+        },
+        {
+          "arabic": "شْتَرُ",
+          "meaning": "derived stem related to the root signifying reciprocal or collective purchasing/exchange"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating first person plural (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "With it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, or through/by means of something"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix referring to a masculine singular noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ثَمَنًا",
+      "transliteration": "thamanan",
+      "meaning": "A price",
+      "root": {
+        "letters": "ث-م-ن",
+        "meaning": "value, price"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "A small (price)",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, little, insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۙ",
+      "transliteration": "",
+      "meaning": "Pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (ones)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, initial, or foremost; the beginning."
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (demonstrative pronoun prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Suffix indicating plural and gender (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-ا",
+        "meaning": "to exist, to be; related to non-definiteness or questioning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَأْكُلُونَ",
+      "transliteration": "yaʾkulūna",
+      "meaning": "They eat",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "يَأْ",
+          "meaning": "They (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "كُلُونَ",
+          "meaning": "Eat (present tense, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; return, come back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "بُطُونِهِمْ",
+      "transliteration": "buṭūnihim",
+      "meaning": "Their bellies",
+      "root": {
+        "letters": "ب-ط-ن",
+        "meaning": "To swell, to be full; belly"
+      },
+      "components": [
+        {
+          "arabic": "بُطُن",
+          "meaning": "Bellies (plural)"
+        },
+        {
+          "arabic": "ـهِمْ",
+          "meaning": "Their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "Except",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to refuse, to reject; negation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, except when combined with لَـ"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "النَّارَ",
+      "transliteration": "an-nāra",
+      "meaning": "The Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to lack, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "يُكَلِّمُهُمُ",
+      "transliteration": "yukallimuhumu",
+      "meaning": "He speaks to them",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word; to speak, communicate"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix indicating the 3rd person masculine singular)"
+        },
+        {
+          "arabic": "كَلِّمَ",
+          "meaning": "to speak (verb root)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them (pronoun suffix indicating the 3rd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; deity; the One God"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "On the Day (of)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "الْقِيَامَةِ",
+      "transliteration": "al-qiyāmati",
+      "meaning": "The Resurrection",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand, to resurrect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "يُزَكِّيهِمْ",
+      "transliteration": "yuzakkīhim",
+      "meaning": "He purifies them",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean, righteous; to purify, cleanse"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "زَكَّى",
+          "meaning": "to purify, cleanse (verb root)"
+        },
+        {
+          "arabic": "ـهِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَلَهُمْ",
+      "transliteration": "wa-lahum",
+      "meaning": "And for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to belong to, possess, have"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَهُمْ",
+          "meaning": "for them, to them, belonging to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "عَذَابٌ",
+      "transliteration": "ʿadhābun",
+      "meaning": "A punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be harsh or bitter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "أَلِيمٌ",
+      "transliteration": "ʾalīmun",
+      "meaning": "Painful",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to suffer, to be afflicted; pain, trouble"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- the-those- who- they-conceal - what- He-sent-down - Allah - from- the-Book – and- they-exchange – with-it - a-price – small – those-what – they-eat – in - their-bellies – except- the-Fire – and- not – He-speak-to-them - Allah – day- of- the-Resurrection – and- not – He-purify-them - and- for-them - a-punishment – painful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

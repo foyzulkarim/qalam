@@ -1,0 +1,617 @@
+{
+  "verseId": "2:232",
+  "verse": {
+    "arabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْا بَيْنَهُم بِالْمَعْرُوفِ ۗ ذَٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۗ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "transliteration": "Waitha tallaqtumu alnnisaa fabalaghna ajalahunna fala taAAduloohunna an yankihna azwajahunna itha taradaw baynahum bialmaAAroofi thalika yooAAathu bihi man kana minkum yuminu biAllahi waalyawmi alakhiri thalikum azka lakum waatharu waAllahu yaAAlamu waantum la taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 232
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "wa idhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to feel aversion or dislike"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَلَّقْتُمُ",
+      "transliteration": "ṭallaqtumū",
+      "meaning": "you divorced",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to release, to divorce, to set free"
+      },
+      "components": [
+        {
+          "arabic": "طَلَّق",
+          "meaning": "you divorced (basic form)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "you (masculine plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النِّسَاءَ",
+      "transliteration": "an-nisāʾa",
+      "meaning": "the women",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to travel, to go on a journey; also, to be weary or tired (and by extension, needing help)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَبَلَغْنَ",
+      "transliteration": "fa-balaġna",
+      "meaning": "then they reached/fulfilled",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, fulfill"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "بَلَغْنَ",
+          "meaning": "they reached/fulfilled (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَجَلَهُنَّ",
+      "transliteration": "ajalahunna",
+      "meaning": "their term/period",
+      "root": {
+        "letters": "ج-ل-و",
+        "meaning": "to expire, to pass away; limit of time"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "a lengthening particle, indicating emphasis or prolongation of the term"
+        },
+        {
+          "arabic": "جَلَ",
+          "meaning": "to set a term, to define a period"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "their (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, not to be"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَعْضُلُوهُنَّ",
+      "transliteration": "taʿḍulūhunna",
+      "meaning": "you prevent them",
+      "root": {
+        "letters": "ع-ض-ل",
+        "meaning": "to hinder, obstruct, or weaken"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural imperfect tense"
+        },
+        {
+          "arabic": "عَضَلُـ",
+          "meaning": "imperfect stem from the root ع-ض-ل, meaning to prevent or hinder"
+        },
+        {
+          "arabic": "ـُوهُنَّ",
+          "meaning": "suffix indicating the second person masculine plural pronoun attached to the object (them/they - feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also relates to intention and direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَنكِحْنَ",
+      "transliteration": "yankihan",
+      "meaning": "they marry",
+      "root": {
+        "letters": "ن-ك-ح",
+        "meaning": "to contract marriage, to have sexual relations with"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural (they)"
+        },
+        {
+          "arabic": "نْكِحْنَ",
+          "meaning": "they marry (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَزْوَاجَهُنَّ",
+      "transliteration": "azwājahunna",
+      "meaning": "their husbands",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to couple, to join; marriage"
+      },
+      "components": [
+        {
+          "arabic": "أَزْوَاج",
+          "meaning": "pairs, spouses (plural)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "if/when",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to pass (time); to be aware of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَرَاضَوْا",
+      "transliteration": "tarāḍaw",
+      "meaning": "they agreed/consented",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to consent"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating past tense and third person"
+        },
+        {
+          "arabic": "رَاضَوْا",
+          "meaning": "they agreed/consented (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَيْنَهُم",
+      "transliteration": "baynahum",
+      "meaning": "among them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, distinct; interval, space"
+      },
+      "components": [
+        {
+          "arabic": "بَيْنَ",
+          "meaning": "between, among"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِالْمَعْرُوفِ",
+      "transliteration": "bi-l-maʿrūfi",
+      "meaning": "with kindness/goodness",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, recognize; goodness, kindness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "الْمَعْرُوفِ",
+          "meaning": "the kindness, the goodness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that/this is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; pertaining to the self/ego"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun)"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "suffix pronoun - your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُوعَظُ",
+      "transliteration": "yuʿaẓu",
+      "meaning": "is instructed/advised",
+      "root": {
+        "letters": "ع-ظ-ي",
+        "meaning": "to admonish, to give counsel, to warn"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker/prefix indicating 'is being'"
+        },
+        {
+          "arabic": "عُظَ",
+          "meaning": "passive voice of the verb عَاذَ (to advise/instruct)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "damma ending indicating indefinite passive voice, third person masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "with it/by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, instrumentality"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "whoever/who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure, to exist (in a way that is not readily apparent)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was/is",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "of you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "يُؤْمِنُ",
+      "transliteration": "yuʾminu",
+      "meaning": "believes",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trust, faith"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present/future tense and first person singular (in the imperfect form)"
+        },
+        {
+          "arabic": "ؤْمِنُ",
+          "meaning": "to believe, to have faith"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "in Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, to deify, divinity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of, in"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَالْيَوْمِ",
+      "transliteration": "wa-l-yawmi",
+      "meaning": "and the Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْيَوْمِ",
+          "meaning": "the Day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "الْآخِرِ",
+      "transliteration": "al-ʾākhiri",
+      "meaning": "the Last",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to come at the end, to be final or last"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِر",
+          "meaning": "last, final"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "ذَٰلِكُمْ",
+      "transliteration": "dhālikum",
+      "meaning": "that/this is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness; to be low, base or humbled"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِك",
+          "meaning": "that/this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "أَزْكَىٰ",
+      "transliteration": "azkā",
+      "meaning": "better/purer",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean, good; to flourish, grow well"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "وَأَطْهَرُ",
+      "transliteration": "wa-ʾaṭharu",
+      "meaning": "and purer",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to be pure, clean; to purify, cleanse"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَطْهَرُ",
+          "meaning": "purer (comparative adjective)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to be divine, God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense and first person singular (I)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know, to possess knowledge"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah ending indicating present tense, first person singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa-antum",
+      "meaning": "and you",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "لَا تَعْلَمُونَ",
+      "transliteration": "lā taʿlamūna",
+      "meaning": "do not know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, do not"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you know (masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and when - you divorced - the women - then they reached/fulfilled - their term/period - then not - you prevent them - that/to - they marry - their husbands - if/when - they agreed/consented - among them - with kindness/goodness - that/this is - is instructed/advised - with it - whoever - was/is - of you - believes - in Allah - and the Day - the Last - that/this is - better/purer - for you - and purer - and Allah - knows - and you - do not know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "verseId": "2:144",
+  "verse": {
+    "arabic": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ ۗ وَإِنَّ الَّذِينَ أُوتُوا الْكِتَابَ لَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ",
+    "transliteration": "Qad nara taqalluba wajhika fee alssamai falanuwalliyannaka qiblatan tardaha fawalli wajhaka shatra almasjidi alharami wahaythu ma kuntum fawalloo wujoohakum shatrahu wainna allatheena ootoo alkitaba layaAAlamoona annahu alhaqqu min rabbihim wama Allahu bighafilin AAamma yaAAmaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 144
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "Indeed, certainly",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to come forward"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَرَىٰ",
+      "transliteration": "narā",
+      "meaning": "We see",
+      "root": {
+        "letters": "ن-ر-ي",
+        "meaning": "to perceive, to observe, to understand"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "رَى",
+          "meaning": "to see, to perceive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَقَلُّبَ",
+      "transliteration": "taqalluba",
+      "meaning": "Turning, shifting",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change, to reverse; the heart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَجْهِكَ",
+      "transliteration": "wajhika",
+      "meaning": "Your face",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be wide, to turn towards, appearance"
+      },
+      "components": [
+        {
+          "arabic": "وَجْه",
+          "meaning": "face, appearance"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to be present in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "The heaven, the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": "pause particle",
+      "meaning": "Pause, no lexical meaning",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَلَنُوَلِّيَنَّكَ",
+      "transliteration": "falenuwalliyannaka",
+      "meaning": "So We will surely turn you",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to govern, to be responsible for"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of emphasis)"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "certainly, surely (particle of affirmation)"
+        },
+        {
+          "arabic": "نُوَلِّيَنَّ",
+          "meaning": "We will turn, We will govern"
+        },
+        {
+          "arabic": "ـكَ",
+          "meaning": "you (suffix pronoun, accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قِبْلَةً",
+      "transliteration": "qiblatan",
+      "meaning": "A direction, a qiblah",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to turn towards, to accept, to face"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَرْضَاهَا",
+      "transliteration": "tarḍāhā",
+      "meaning": "You will be pleased with it",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to accept"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense or command"
+        },
+        {
+          "arabic": "رَضَـ",
+          "meaning": "to be pleased, to accept"
+        },
+        {
+          "arabic": "ـاهَا",
+          "meaning": "pronoun suffix: 'it' (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": "pause particle",
+      "meaning": "Pause, no lexical meaning",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَوَلِّ",
+      "transliteration": "fawalli",
+      "meaning": "So turn",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to prefer, to entrust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَجْهَكَ",
+      "transliteration": "wajhaka",
+      "meaning": "Your face",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, to appear, direction, side"
+      },
+      "components": [
+        {
+          "arabic": "وَجْه",
+          "meaning": "face, countenance"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "شَطْرَ",
+      "transliteration": "shaṭra",
+      "meaning": "Toward, direction of",
+      "root": {
+        "letters": "ش-ط-ر",
+        "meaning": "to divide, portion, share; side or part of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الْمَسْجِدِ",
+      "transliteration": "al-masjidi",
+      "meaning": "The mosque",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate; to bow down in worship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسْجِدِ",
+          "meaning": "mosque; place of prostration"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "The forbidden, The Sacred Mosque",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to prohibit, to forbid; sacredness, inviolability"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَرَام",
+          "meaning": "Forbidden, Sacred"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۚ",
+      "transliteration": "pause particle",
+      "meaning": "Pause, no lexical meaning",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَحَيْثُ",
+      "transliteration": "wa-ḥaythu",
+      "meaning": "And wherever",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist, location"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حَيْثُ",
+          "meaning": "wherever, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "Whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "Possession, belonging; also relates to questioning or negation."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "You are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were/are (second person plural)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "suffix indicating second person plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَوَلُّوا",
+      "transliteration": "fawallū",
+      "meaning": "So turn",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to flee, to incline"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "وَلُّوا",
+          "meaning": "turn away, flee"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وُجُوهَكُمْ",
+      "transliteration": "wujūhukum",
+      "meaning": "Your faces",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, clear, splendid; face, direction"
+      },
+      "components": [
+        {
+          "arabic": "وُ",
+          "meaning": "Possessive prefix 'your'"
+        },
+        {
+          "arabic": "جُوهَ",
+          "meaning": "Faces (plural of وَجْه)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "Suffix indicating 'your (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "شَطْرَهُ",
+      "transliteration": "shaṭrahu",
+      "meaning": "Toward it",
+      "root": {
+        "letters": "ش-ط-ر",
+        "meaning": "to divide, part, share"
+      },
+      "components": [
+        {
+          "arabic": "شَطْر",
+          "meaning": "half, portion, share"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۗ",
+      "transliteration": "pause particle",
+      "meaning": "Pause, no lexical meaning",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَإِنَّ",
+      "transliteration": "wa-inna",
+      "meaning": "And indeed",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, truth, certainty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to point, to indicate, to be"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "أُوتُوا",
+      "transliteration": "ūtū",
+      "meaning": "Were given",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "passive voice prefix indicating 'were'"
+        },
+        {
+          "arabic": "تُوا",
+          "meaning": "given, bestowed (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "The Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "writing, scripture, book"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "لَيَعْلَمُونَ",
+      "transliteration": "layaʿlamūna",
+      "meaning": "They know well",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order that"
+        },
+        {
+          "arabic": "يَعْلَمُونَ",
+          "meaning": "they know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "أَنَّهُ",
+      "transliteration": "annahū",
+      "meaning": "That it is",
+      "root": {
+        "letters": "ح-ن-ن",
+        "meaning": "to be aware, to know; existence"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "That"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الْحَقُّ",
+      "transliteration": "al-ḥaqqu",
+      "meaning": "The truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, existence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "مِن رَّبِّهِمْ",
+      "transliteration": "min rabbihim",
+      "meaning": "From their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion, to be lord"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّبِّهِمْ",
+          "meaning": "their Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "ۗ",
+      "transliteration": "pause particle",
+      "meaning": "Pause, no lexical meaning",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or possession (related to questioning what exists)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "بِغَافِلٍ",
+      "transliteration": "bighāfilin",
+      "meaning": "Unaware, heedless",
+      "root": {
+        "letters": "غ-ف-ل",
+        "meaning": "to be negligent, heedless, unaware"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَافِلٍ",
+          "meaning": "heedless, unaware (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "عَمَّا",
+      "transliteration": "ʿammā",
+      "meaning": "Of what",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "to conceal, to obscure, from"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "ما",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "يَعْمَلُونَ",
+      "transliteration": "yaʿmalūna",
+      "meaning": "They do",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to act, to perform"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "They (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "action, work"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "present tense plural suffix (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-We see-turning-of-your-face-in-the-sky - So-We will surely turn you-a qiblah-[with which]-you will be pleased - So turn-your face-toward-the mosque-the forbidden – And wherever-whatever-you are - So turn-your faces-toward it - And indeed-those who-were given-the Scripture - They know well-that it is-the truth-from their Lord - And what-Allah-[is]-unaware-of what-they do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

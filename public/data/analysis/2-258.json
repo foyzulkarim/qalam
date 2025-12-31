@@ -1,0 +1,675 @@
+{
+  "verseId": "2:258",
+  "verse": {
+    "arabic": "أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ ۖ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+    "transliteration": "Alam tara ila allathee hajja ibraheema fee rabbihi an atahu Allahu almulka ith qala ibraheemu rabbiya allathee yuhyee wayumeetu qala ana ohyee waomeetu qala ibraheemu fainna Allaha yatee bialshshamsi mina almashriqi fati biha mina almaghribi fabuhita allathee kafara waAllahu la yahdee alqawma alththalimeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 258
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Have not; did not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To desire, to will, to intend; negation involving the will/desire."
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Negation particle; not."
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "Past tense negation particle; have not/did not."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَ",
+      "transliteration": "tara",
+      "meaning": "See; observe",
+      "root": {
+        "letters": "ت-ر-ي",
+        "meaning": "to see, to observe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "To; towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To turn, incline towards; to be connected with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "The one who; which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَاجَّ",
+      "transliteration": "ḥājja",
+      "meaning": "Argued; disputed with",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "To intend a sacred journey; to proceed towards something with effort and determination. Also, to dispute or argue strongly."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ʾibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, to be exalted; strength, power"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In; concerning",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter; to penetrate; to be within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "His Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَنْ",
+      "transliteration": "ʾan",
+      "meaning": "That; to (infinitive marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "آتَاهُ",
+      "transliteration": "ʾātāhu",
+      "meaning": "He gave him",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give (as something arriving)"
+      },
+      "components": [
+        {
+          "arabic": "آتَ",
+          "meaning": "He gave"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْمُلْكَ",
+      "transliteration": "al-mulka",
+      "meaning": "The kingship; the dominion",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُلْك",
+          "meaning": "kingship, dominion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِذْ",
+      "transliteration": "ʾiḏ",
+      "meaning": "When; at the time when",
+      "root": {
+        "letters": "ذ-و-د",
+        "meaning": "to go, to flow, to melt; time (related to the passing of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "إِبْرَاهِيمُ",
+      "transliteration": "ʾibrāhīmu",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, to be eminent; greatness, importance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رَبِّيَ",
+      "transliteration": "rabbiyya",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion, to increase; Lord (as the Possessor of all things)"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Possessor, Master"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (pronoun suffix, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "The one who; which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership; to have, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يُحْيِي",
+      "transliteration": "yuḥyī",
+      "meaning": "He gives life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun suffix indicating 3rd person masculine singular active voice)"
+        },
+        {
+          "arabic": "حَيّ",
+          "meaning": "living, alive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَيُمِيتُ",
+      "transliteration": "wayumītu",
+      "meaning": "And He causes death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, perish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "يُمِيتُ",
+          "meaning": "He causes to die"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أَنَا",
+      "transliteration": "ʾanā",
+      "meaning": "I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "أُحْيِي",
+      "transliteration": "ʾuḥyī",
+      "meaning": "I give life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "I (pronoun prefix, first person singular)"
+        },
+        {
+          "arabic": "حَيِي",
+          "meaning": "to give life, to revive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَأُمِيتُ",
+      "transliteration": "waʾumītu",
+      "meaning": "And I cause death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُمِيتُ",
+          "meaning": "I am caused to die; I am killed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِبْرَاهِيمُ",
+      "transliteration": "ʾibrāhīmu",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, to be exalted; strength, power"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "Then indeed; so verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truth, certainty"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-ه-ا",
+        "meaning": "To worship, divinity; the object of adoration."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "يَأْتِي",
+      "transliteration": "yaʾtī",
+      "meaning": "He comes with; He brings",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to arrive; to bring forth"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (often implies 'he' does)"
+        },
+        {
+          "arabic": "أَتِي",
+          "meaning": "to come, to arrive; basic root form of the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "بِالشَّمْسِ",
+      "transliteration": "bish-shamsi",
+      "meaning": "With the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to shine, sun"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "الشَّمْسِ",
+          "meaning": "the sun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "الْمَشْرِقِ",
+      "transliteration": "al-mashriqi",
+      "meaning": "The east",
+      "root": {
+        "letters": "ش-ر-ق",
+        "meaning": "to rise, to originate, east"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَشْرِق",
+          "meaning": "rising place, east"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "فَأْتِ",
+      "transliteration": "faʾti",
+      "meaning": "So bring!",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "بِهَا",
+      "transliteration": "bihā",
+      "meaning": "With it [the sun]",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "الْمَغْرِبِ",
+      "transliteration": "al-maghribi",
+      "meaning": "The west",
+      "root": {
+        "letters": "غ-ر-ب",
+        "meaning": "to set (of the sun), to decline, to go down; west"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَغْرِب",
+          "meaning": "west (place of sunset)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "فَبُهِتَ",
+      "transliteration": "fabuḥita",
+      "meaning": "So he was overwhelmed; so he was astonished",
+      "root": {
+        "letters": "ب-ح-ت",
+        "meaning": "to be overcome, to be astonished; emptiness or clearness (leading to astonishment)"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So; then (particle indicating consequence)"
+        },
+        {
+          "arabic": "بُهِتَ",
+          "meaning": "He was overwhelmed; he was astonished (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "The one who; which",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession; owner; having"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who; which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "كَفَرَ",
+      "transliteration": "kafara",
+      "meaning": "Disbelieved; denied",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover; to conceal; to be ungrateful."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "And Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not; does not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "يَهْدِي",
+      "transliteration": "yahdī",
+      "meaning": "He guides",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way, to lead"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (masculine singular pronoun prefix)"
+        },
+        {
+          "arabic": "هَدَى",
+          "meaning": "to guide (verbal root)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "present/future tense marker, indicates ongoing or habitual action"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "الْقَوْمَ",
+      "transliteration": "al-qawma",
+      "meaning": "The people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "To rise, to stand up; a people or tribe"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "قوم",
+          "meaning": "People, tribe, nation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "الظَّالِمِينَ",
+      "transliteration": "aẓ-ẓālimīna",
+      "meaning": "The wrongdoers; the oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, darkness, oppression"
+      },
+      "components": [
+        {
+          "arabic": "الظَّالِمِينَ",
+          "meaning": "The wrongdoers, the oppressors (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-not see to the one who argued with Abraham in his Lord that gave-him Allah the kingship when said Abraham my-Lord is the one who gives life and causes death -said he I give life and cause death -said Abraham then indeed Allah brings the sun from the east so bring it with it from the west so was-overwhelmed the one who disbelieved and Allah not guides the people wrongdoers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

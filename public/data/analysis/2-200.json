@@ -1,0 +1,409 @@
+{
+  "verseId": "2:200",
+  "verse": {
+    "arabic": "فَإِذَا قَضَيْتُم مَّنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ فَمِنَ النَّاسِ مَن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ",
+    "transliteration": "Faitha qadaytum manasikakum faothkuroo Allaha kathikrikum abaakum aw ashadda thikran famina alnnasi man yaqoolu rabbana atina fee alddunya wama lahu fee alakhirati min khalaqin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 200
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "then when, so when",
+      "root": {
+        "letters": "إ-ذ-ي",
+        "meaning": "to come, to happen, to arrive; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so; a connective particle indicating sequence or result"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if; a conditional particle indicating time or circumstance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَضَيْتُم",
+      "transliteration": "qaḍaytum",
+      "meaning": "you completed, you finished",
+      "root": {
+        "letters": "ق-ض-ي",
+        "meaning": "to finish, to accomplish, to judge"
+      },
+      "components": [
+        {
+          "arabic": "قَ",
+          "meaning": "prefix indicating first person plural (we/us)"
+        },
+        {
+          "arabic": "ضَيْتُم",
+          "meaning": "completion/finishing (past tense, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّنَاسِكَكُمْ",
+      "transliteration": "manāsikum",
+      "meaning": "rites of yours, your rituals",
+      "root": {
+        "letters": "م-ن-س",
+        "meaning": "to establish, to set up (rites, laws)"
+      },
+      "components": [
+        {
+          "arabic": "مَنَاسِك",
+          "meaning": "rites, rituals"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "of yours, your (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَاذْكُرُوا",
+      "transliteration": "faʾdhkurū",
+      "meaning": "then remember, so remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so (particle of consequence)"
+        },
+        {
+          "arabic": "اذْكُرُوا",
+          "meaning": "remember (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "To worship, deity, the object of devotion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَذِكْرِكُمْ",
+      "transliteration": "kaḏikrikum",
+      "meaning": "like your remembrance, as your remembering",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "ذِكْرِ",
+          "meaning": "remembrance, mentioning (genitive)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آبَاءَكُمْ",
+      "transliteration": "ʾābāʾakum",
+      "meaning": "fathers of yours, your fathers",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "to return, to revert; also father (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "آبَاءَ",
+          "meaning": "fathers (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "of you, your"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَشَدَّ",
+      "transliteration": "ʾašadda",
+      "meaning": "more intense, greater",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be intense, to be strong, to be firm"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more, greater (intensifier)"
+        },
+        {
+          "arabic": "شَدَّ",
+          "meaning": "intensity, strength, firmness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ذِكْرًا",
+      "transliteration": "ḏikran",
+      "meaning": "remembrance, mentioning",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْرًا",
+          "meaning": "remembrance, mentioning (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَمِنَ",
+      "transliteration": "famina",
+      "meaning": "then from, so among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be from a place or source"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, among"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-و",
+        "meaning": "to forget, to be lost; people (collectively)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, someone",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure, to exist; related to questioning and inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "he says, he states",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, he (masculine singular)"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "verbal noun/source of saying"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "رَبَّنَا",
+      "transliteration": "rabbanā",
+      "meaning": "Our Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture, to grow"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, master, possessor"
+        },
+        {
+          "arabic": "-نَا",
+          "meaning": "our"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "آتِنَا",
+      "transliteration": "ʾātinā",
+      "meaning": "give us, grant us",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give (in this context)"
+      },
+      "components": [
+        {
+          "arabic": "آتِ",
+          "meaning": "the imperative form of 'to come', implying 'give'"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "to enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world, the present life",
+      "root": {
+        "letters": "د-ن-ي",
+        "meaning": "lowliness, baseness, humility; temporary existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what, and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or to be (exist)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him, to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ʾākhirati",
+      "meaning": "the Hereafter, the afterlife",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to follow, the end or last part of something"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the afterlife, the last life; derived from the root أ-خ-ر relating to what comes last"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to diminish, to decrease; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "خَلَاقٍ",
+      "transliteration": "ḵalāqin",
+      "meaning": "share, portion",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to produce, originate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-when you completed rites-of-yours then-remember Allah like remembrance-of-yours fathers-of-yours or more-intense remembrance then-from the-people who says Our-Lord give-us in the-world and-not for-him in the-Hereafter from share"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

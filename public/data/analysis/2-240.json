@@ -1,0 +1,411 @@
+{
+  "verseId": "2:240",
+  "verse": {
+    "arabic": "وَالَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَاجًا وَصِيَّةً لِّأَزْوَاجِهِم مَّتَاعًا إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ ۚ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِي أَنفُسِهِنَّ مِن مَّعْرُوفٍ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+    "transliteration": "Waallatheena yutawaffawna minkum wayatharoona azwajan wasiyyatan liazwajihim mataAAan ila alhawli ghayra ikhrajin fain kharajna fala junaha AAalaykum fee ma faAAalna fee anfusihinna min maAAroofin waAllahu AAazeezun hakeemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 240
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-al-ladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُتَوَفَّوْنَ",
+      "transliteration": "yutawaffūna",
+      "meaning": "are taken in death/die",
+      "root": {
+        "letters": "و-ف-ي",
+        "meaning": "to die, to expire, to fulfill (a promise/debt)"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker/they are"
+        },
+        {
+          "arabic": "تَوَفَّ",
+          "meaning": "to take fully, to receive (someone in death)"
+        },
+        {
+          "arabic": "وْنَ",
+          "meaning": "suffix denoting plural masculine subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيَذَرُونَ",
+      "transliteration": "wa-yadharūna",
+      "meaning": "and leave behind",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to leave, abandon, forsake"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَذَرُونَ",
+          "meaning": "they leave behind, they abandon"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَزْوَاجًا",
+      "transliteration": "azwājan",
+      "meaning": "wives",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to pair, to combine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَصِيَّةً",
+      "transliteration": "wa-ṣiyyah",
+      "meaning": "and a bequest/will",
+      "root": {
+        "letters": "ص-و-ي",
+        "meaning": "to entrust, to recommend; intention, disposition"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "صِيَّةً",
+          "meaning": "a bequest, will (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لِّأَزْوَاجِهِم",
+      "transliteration": "li-azwājihim",
+      "meaning": "for their wives",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to couple, to join, spouse"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَزْوَاجِ",
+          "meaning": "wives (plural)"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَّتَاعًا",
+      "transliteration": "matāʿan",
+      "meaning": "maintenance/provision",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "enjoyment, benefit, provision"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَى الْحَوْلِ",
+      "transliteration": "ilā al-ḥawli",
+      "meaning": "until the year/for one year",
+      "root": {
+        "letters": "ح-و-ل",
+        "meaning": "to turn, change, or complete a cycle; to pass (of time)"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, until"
+        },
+        {
+          "arabic": "الْحَوْلِ",
+          "meaning": "the year/cycle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "غَيْرَ إِخْرَاجٍ",
+      "transliteration": "ghayra ikhrājin",
+      "meaning": "without expulsion/turning [them] out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to expel"
+      },
+      "components": [
+        {
+          "arabic": "غَيْرَ",
+          "meaning": "without, other than"
+        },
+        {
+          "arabic": "إِخْرَاجٍ",
+          "meaning": "expulsion, turning out (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَإِنْ",
+      "transliteration": "fa-in",
+      "meaning": "then if/so if",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, confirmation, truthfulness; to be true or certain"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so (conditional particle)"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, so if (conditional particle with negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "خَرَجْنَ",
+      "transliteration": "kharajna",
+      "meaning": "they leave [of their own accord]",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "خَرَجْنَ",
+          "meaning": "they left (feminine plural, indicating voluntary departure)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَلَا جُنَاحَ",
+      "transliteration": "falā junāḥa",
+      "meaning": "then there is no blame/no reproach",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "to have wings; to shield, protect; side, flank"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating negation/prohibition"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "particle indicating negation/absence"
+        },
+        {
+          "arabic": "جُنَاحَ",
+          "meaning": "blame, reproach, sin; offense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِي مَا",
+      "transliteration": "fī mā",
+      "meaning": "in what/regarding what",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be/exist; place, location (abstract)"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within, regarding"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, which, that (relative pronoun/interrogative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَعَلْنَ",
+      "transliteration": "faʿalna",
+      "meaning": "they do/have done",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to perform"
+      },
+      "components": [
+        {
+          "arabic": "فَعَ",
+          "meaning": "they (masculine plural) do/have done - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "لْنَ",
+          "meaning": "suffix indicating masculine plural subject"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فِي أَنفُسِهِنَّ",
+      "transliteration": "fī anfusihinna",
+      "meaning": "in themselves/with themselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, with"
+        },
+        {
+          "arabic": "أَنفُسِهِنَّ",
+          "meaning": "their selves/souls (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مِن مَّعْرُوفٍ",
+      "transliteration": "min maʿrūfin",
+      "meaning": "of goodness/an acceptable way",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to be aware; goodness, kindness, recognition"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "مَّعْرُوفٍ",
+          "meaning": "goodness, a favor, something acceptable"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, god"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَزِيزٌ",
+      "transliteration": "ʿazīzun",
+      "meaning": "Exalted in Might/Powerful",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "حَكِيمٌ",
+      "transliteration": "ḥakīmun",
+      "meaning": "Wise",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to be wise; discerning power"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-those who are-taken-in-death from-among-you and-leave behind wives and-a-bequest for-their-wives maintenance until-the-year without-turning-[them]-out then-if they-leave then-there-is-no-blame upon-you in what they-do in-themselves of-goodness and-Allah Exalted-in-Might Wise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

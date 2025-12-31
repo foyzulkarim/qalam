@@ -1,0 +1,190 @@
+{
+  "verseId": "2:77",
+  "verse": {
+    "arabic": "أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+    "transliteration": "Awala yaAAlamoona anna Allaha yaAAlamu ma yusirroona wama yuAAlinoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 77
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوَلَا",
+      "transliteration": "ʾaw-lā",
+      "meaning": "or do not/is it not?",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to abandon, to neglect"
+      },
+      "components": [
+        {
+          "arabic": "أَو",
+          "meaning": "or"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "masculine plural present tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, in that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "He knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix denoting present/future tense and first person singular (he)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah (short vowel indicating nominative case and present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يُسِرُّونَ",
+      "transliteration": "yusirrūna",
+      "meaning": "they conceal",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to hide, to conceal, secrecy"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, active voice, 3rd person plural"
+        },
+        {
+          "arabic": "سَرّ",
+          "meaning": "concealment, secret"
+        },
+        {
+          "arabic": "ُون",
+          "meaning": "suffix indicating the 3rd person plural masculine active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to flow, to surge; related to water and abundance"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُعْلِنُونَ",
+      "transliteration": "yuʿlinūna",
+      "meaning": "they declare",
+      "root": {
+        "letters": "ع-ل-ن",
+        "meaning": "to be manifest, to become known, to declare publicly"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "عَلَن",
+          "meaning": "to declare, to announce"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural) - suffix indicating verb conjugation"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-do-not they-know that-the Allah He-knows what they-conceal and-what they-declare"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

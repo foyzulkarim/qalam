@@ -1,0 +1,185 @@
+{
+  "verseId": "2:99",
+  "verse": {
+    "arabic": "وَلَقَدْ أَنزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ ۖ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ",
+    "transliteration": "Walaqad anzalna ilayka ayatin bayyinatin wama yakfuru biha illa alfasiqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 99
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-laqad",
+      "meaning": "and indeed, and certainly",
+      "root": {
+        "letters": "ل-ق-د",
+        "meaning": "to take an oath, to be firm and resolute"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, certainly (oath formula)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنزَلْنَا",
+      "transliteration": "anzalnā",
+      "meaning": "We have sent down, We revealed"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَيْكَ",
+      "transliteration": "ilayka",
+      "meaning": "to you",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to approach, to tend towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آيَاتٍ",
+      "transliteration": "āyātun",
+      "meaning": "signs, verses",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to be a sign; return, revert"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَيِّنَاتٍ",
+      "transliteration": "bayyinātun",
+      "meaning": "clear proofs, manifest verses",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, manifest, evident"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "ۖ",
+          "meaning": "pause marker (waqf), indicating a stop in recitation; signifies silence."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what, and whoever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَكْفُرُ",
+      "transliteration": "yakfuru",
+      "meaning": "denies, disbelieves",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful or deny a favor"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِهَا",
+      "transliteration": "bihā",
+      "meaning": "with them, by them",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by, in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, only",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to refuse, to deny, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْفَاسِقُونَ",
+      "transliteration": "al-fāsiqūna",
+      "meaning": "the defiantly disobedient, the wicked ones",
+      "root": {
+        "letters": "ف-س-ق",
+        "meaning": "to be corrupt, deviate from the right path; to break a contract or rule"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَاسِقُونَ",
+          "meaning": "plural masculine of فَاسِقٌ (defiantly disobedient)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed We-have-sent-down to-you signs clear-proofs [pause marker] and-what denies with-them except the-defiantly-disobedient"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

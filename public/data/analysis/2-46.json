@@ -1,0 +1,187 @@
+{
+  "verseId": "2:46",
+  "verse": {
+    "arabic": "الَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ",
+    "transliteration": "Allatheena yathunnoona annahum mulaqoo rabbihim waannahum ilayhi rajiAAoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "The ones who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to own; to be endowed with a quality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (relative pronoun suffix with plural marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَظُنُّونَ",
+      "transliteration": "yaẓunnūna",
+      "meaning": "They think/believe",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe, to expect"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and the first person plural (they)"
+        },
+        {
+          "arabic": "ظُنّ",
+          "meaning": "the root of thinking/believing in the imperfect form"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the first person plural (they) in the present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَّهُم",
+      "transliteration": "annahum",
+      "meaning": "That they",
+      "root": {
+        "letters": "ه-م-ن",
+        "meaning": "to intend, to desire, to plan; also implies certainty or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُّلَاقُو",
+      "transliteration": "mulāqū",
+      "meaning": "Meeting/encountering (ones)",
+      "root": {
+        "letters": "ل-ق-و",
+        "meaning": "To meet, encounter, come together"
+      },
+      "components": [
+        {
+          "arabic": "مُ",
+          "meaning": "Passive participle marker (indicating 'being met/encountered')"
+        },
+        {
+          "arabic": "لَاقُو",
+          "meaning": "Meeting, encountering (verbal noun/source)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbihim",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَأَنَّهُمْ",
+      "transliteration": "wa-annahum",
+      "meaning": "And that they",
+      "root": {
+        "letters": "أ-ن-ه",
+        "meaning": "to be, to exist; also indicates affirmation or certainty"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that; indeed"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ilayhi",
+      "meaning": "To Him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards, to belong"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رَاجِعُونَ",
+      "transliteration": "rājiʿūna",
+      "meaning": "Returning (ones)",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "To return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "رَاجِع",
+          "meaning": "Returning (active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "Suffix of plural first-person pronoun (we)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-ones-who they-think that-they meeting their-Lord and-that-they to-Him returning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

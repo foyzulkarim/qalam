@@ -1,0 +1,211 @@
+{
+  "verseId": "2:21",
+  "verse": {
+    "arabic": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+    "transliteration": "Ya ayyuha alnnasu oAAbudoo rabbakumu allathee khalaqakum waallatheena min qablikum laAAallakum tattaqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, masculine plural)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O (general vocative)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "particle of address, masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people, mankind",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; to travel or wander (related to the loss of one's usual place)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اعْبُدُوا",
+      "transliteration": "ʿbudū",
+      "meaning": "worship!",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship, slavery"
+      },
+      "components": [
+        {
+          "arabic": "اعْبُد",
+          "meaning": "Worship (imperative form)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "Suffix indicating plural imperative (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبَّكُمُ",
+      "transliteration": "rab bakum",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "who, which (relative pronoun)",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "to possess, to have; to be endowed with a quality or characteristic"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خَلَقَكُمْ",
+      "transliteration": "khalaqakum",
+      "meaning": "created you",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothing"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقَ",
+          "meaning": "he created"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to indicate, to point out, to be"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِن قَبْلِكُمْ",
+      "transliteration": "min qablikum",
+      "meaning": "before you",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "قَبْلِكُمْ",
+          "meaning": "before you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "perhaps you (may)"
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَتَّقُونَ",
+      "transliteration": "tattaqūna",
+      "meaning": "you become righteous, you guard yourselves",
+      "root": {
+        "letters": "و-ق-ی",
+        "meaning": "to shield, protect, guard oneself"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "تَتَ",
+          "meaning": "intensifying prefix, suggesting repeated or consistent action"
+        },
+        {
+          "arabic": "قُونَ",
+          "meaning": "the root relating to protection and righteousness"
+        },
+        {
+          "arabic": "تَتَّقُونَ",
+          "meaning": "you (masculine plural) protect yourselves, you become righteous"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-O mankind worship!-your Lord who-created you and-those who before-you perhaps-you become righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

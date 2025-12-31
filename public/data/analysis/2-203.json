@@ -1,0 +1,464 @@
+{
+  "verseId": "2:203",
+  "verse": {
+    "arabic": "وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَّعْدُودَاتٍ ۚ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ ۚ لِمَنِ اتَّقَىٰ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+    "transliteration": "Waothkuroo Allaha fee ayyamin maAAdoodatin faman taAAajjala fee yawmayni fala ithma AAalayhi waman taakhkhara fala ithma AAalayhi limani ittaqa waittaqoo Allaha waiAAlamoo annakum ilayhi tuhsharoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 203
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاذْكُرُوا",
+      "transliteration": "wa-ḏkurū",
+      "meaning": "and remember (imperative plural)",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection, remembrance"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اذْكُرُوا",
+          "meaning": "remember (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهَ",
+      "transliteration": "al-laha",
+      "meaning": "Allah (the God)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be present in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَيَّامٍ",
+      "transliteration": "ayyāmin",
+      "meaning": "days (plural accusative)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّعْدُودَاتٍ",
+      "transliteration": "maʿdūdātin",
+      "meaning": "numbered (plural accusative)",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to enumerate; number"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamūn",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation"
+        },
+        {
+          "arabic": "تَعْلَمُون",
+          "meaning": "you (plural) know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "then whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, to originate from"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, anyone who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَعَجَّلَ",
+      "transliteration": "taʿajjala",
+      "meaning": "hastened/sped up",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "to hasten, to speed up, urgency"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating causation or making something happen"
+        },
+        {
+          "arabic": "عَجَّلَ",
+          "meaning": "to hasten, to speed up (basic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَوْمَيْنِ",
+      "transliteration": "yawmayni",
+      "meaning": "two days (dual accusative)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوۡمَ",
+          "meaning": "day (accusative singular)"
+        },
+        {
+          "arabic": "يۡنِ",
+          "meaning": "dual ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then no",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "no, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِثْمَ",
+      "transliteration": "ʾithma",
+      "meaning": "sin/harm (accusative)",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to conceal, to hide; evil, wrongdoing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَمَن",
+      "transliteration": "wa-man",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, or to have the quality of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تَأَخَّرَ",
+      "transliteration": "taʾakhkhara",
+      "meaning": "delayed/postponed",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to lag behind, to remain, the end/last part of something"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating past tense or completion"
+        },
+        {
+          "arabic": "أَخَّرَ",
+          "meaning": "to delay, to put off, to postpone (from root أ-خ-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then no",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "no, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِثْمَ",
+      "transliteration": "ʾithma",
+      "meaning": "sin/harm (accusative)",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to conceal, to hide; evil, wrongdoing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to elevate, to be above, to assume responsibility"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لِمَنِ",
+      "transliteration": "limani",
+      "meaning": "for whoever",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "belonging to, possessing, having"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَنِ",
+          "meaning": "whoever, whoever is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "اتَّقَىٰ",
+      "transliteration": "ittaqā",
+      "meaning": "feared/guarded (himself)",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, shield, guard"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ۚ",
+      "transliteration": "[pause particle]",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wa-ittaqū",
+      "meaning": "and fear (imperative plural)",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, fear (as a consequence of protection)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "اللَّهَ",
+      "transliteration": "al-laha",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-ه-إ",
+        "meaning": "to be worshiped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَاعْلَمُوا",
+      "transliteration": "wa-ʿlamū",
+      "meaning": "and know (imperative plural)",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَنَّكُمْ",
+      "transliteration": "ʾannakum",
+      "meaning": "that you (plural)",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hidden, concealed"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that; indeed"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "إِلَيْهِ",
+      "transliteration": "ʾilayhi",
+      "meaning": "to Him",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards, to reach"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "تُحْشَرُونَ",
+      "transliteration": "tuḥshārūna",
+      "meaning": "you will be gathered (plural passive)",
+      "root": {
+        "letters": "ح-ش-ر",
+        "meaning": "to gather, to collect, to assemble"
+      },
+      "components": [
+        {
+          "arabic": "تُـ",
+          "meaning": "prefix indicating passive voice and future tense (form IV)"
+        },
+        {
+          "arabic": "حَشَرْتُم",
+          "meaning": "second person plural active verb (form IV) - you gathered"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine form"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-remember Allah in days numbered - then-whoever hastened in two-days – then no sin upon him and-whoever delayed - then no sin upon him - for whoever feared Allah - and-fear Allah and-know that-you to-Him will-be-gathered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

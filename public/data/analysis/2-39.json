@@ -1,0 +1,208 @@
+{
+  "verseId": "2:39",
+  "verse": {
+    "arabic": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَـٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+    "transliteration": "Waallatheena kafaroo wakaththaboo biayatina olaika ashabu alnnari hum feeha khalidoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to refer, to point out, to be"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny or be ungrateful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَذَّبُوا",
+      "transliteration": "kadhabū",
+      "meaning": "denied, lied",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِآيَاتِنَا",
+      "transliteration": "bi-āyātinā",
+      "meaning": "with Our signs",
+      "root": {
+        "letters": "أ-ي-ن",
+        "meaning": "to be clear, evident; signs, verses"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "آيَاتِنَا",
+          "meaning": "Our signs, Our verses"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ūlā'ika",
+      "meaning": "those (ones)",
+      "root": {
+        "letters": "د-ل-ي",
+        "meaning": "to point out, to indicate"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "those (ones)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "belonging to them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "aṣḥābu",
+      "meaning": "companions, people of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nāri",
+      "meaning": "the Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to blaze, to burn, fire"
+      },
+      "components": [
+        {
+          "arabic": "النَّارِ",
+          "meaning": "the Fire"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۖ",
+      "transliteration": "ḥīyah",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ۖ",
+          "meaning": "pause particle; signifies a slight pause in recitation, often used at the end of verses"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "هـ",
+          "meaning": "pronoun suffix indicating third person masculine plural"
+        },
+        {
+          "arabic": "مـ",
+          "meaning": "pronoun stem indicating plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَالِدُونَ",
+      "transliteration": "khālidūna",
+      "meaning": "abiding, eternal",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to perish (paradoxically leading to eternal life)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-those who disbelieved and-and denied with Our signs - those ones companions of the Fire [pause particle] they in it abiding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

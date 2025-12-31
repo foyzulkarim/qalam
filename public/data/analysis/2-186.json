@@ -1,0 +1,345 @@
+{
+  "verseId": "2:186",
+  "verse": {
+    "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ",
+    "transliteration": "Waitha saalaka AAibadee AAannee fainnee qareebun ojeebu daAAwata alddaAAi itha daAAani falyastajeeboo lee walyuminoo bee laAAallahum yarshudoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 186
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to come, to arrive; time, occasion"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when; if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَأَلَكَ",
+      "transliteration": "saʾalakā",
+      "meaning": "asked you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "سَأَ",
+          "meaning": "future tense marker (prefix)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عِبَادِي",
+      "transliteration": "ʿibādī",
+      "meaning": "My servants",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "عِبَادِ",
+          "meaning": "servants (plural, genitive)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "My (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَنِّي",
+      "transliteration": "ʿannī",
+      "meaning": "about Me",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be distant, to turn away, to deviate from; also related to concern or preoccupation"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, concerning, from"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my, possessive pronoun suffix (first person singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَإِنِّي",
+      "transliteration": "faʾinnī",
+      "meaning": "then indeed I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; also expresses emphasis or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so, consequently (particle of consequence)"
+        },
+        {
+          "arabic": "إِنِّي",
+          "meaning": "indeed I, verily I (emphasized personal pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَرِيبٌ",
+      "transliteration": "qarībun",
+      "meaning": "near",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أُجِيبُ",
+      "transliteration": "ʾujību",
+      "meaning": "I respond",
+      "root": {
+        "letters": "ج-و-ب",
+        "meaning": "to return, to answer, to respond"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "I (first person singular pronoun, prefixed)"
+        },
+        {
+          "arabic": "جَابَ",
+          "meaning": "to return, to answer (root verb)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "present/future tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "دَعْوَةَ",
+      "transliteration": "daʿwata",
+      "meaning": "invocation of",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الدَّاعِ",
+      "transliteration": "ad-dāʿī",
+      "meaning": "the supplicant",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to go away, to depart; to perceive, to feel; to be aware of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "دَعَانِ",
+      "transliteration": "daʿānī",
+      "meaning": "he calls upon Me",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "دَعَا",
+          "meaning": "he called, he invoked"
+        },
+        {
+          "arabic": "ـنِي",
+          "meaning": "me (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "silence, stillness, to be quiet"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَلْيَسْتَجِيبُوا",
+      "transliteration": "fal-yastajībū",
+      "meaning": "so let them respond",
+      "root": {
+        "letters": "ج-و-ب",
+        "meaning": "to answer, to respond"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of enticement)"
+        },
+        {
+          "arabic": "يَسْتَجِيبُوا",
+          "meaning": "they respond (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لِي",
+      "transliteration": "lī",
+      "meaning": "to Me",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "belong to, relate to, be for"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَلْيُؤْمِنُوا",
+      "transliteration": "wa-liyʾuminū",
+      "meaning": "and let them believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, to be safe"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to"
+        },
+        {
+          "arabic": "يُؤْمِنُوا",
+          "meaning": "they believe (subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِي",
+      "transliteration": "bī",
+      "meaning": "in Me",
+      "root": {
+        "letters": "ب-ي-ع",
+        "meaning": "to sell, trade, exchange; possession"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of; preposition indicating location or agent"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لَعَلَّهُمْ",
+      "transliteration": "laʿallahum",
+      "meaning": "that perhaps they",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to hope, to be able to, to occur"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, perhaps"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "hope, possibility"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَرْشُدُونَ",
+      "transliteration": "yarshudūn",
+      "meaning": "they are guided",
+      "root": {
+        "letters": "ر-ش-د",
+        "meaning": "to be guided, to follow the right path, to direct"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person plural (or unspecified actor)"
+        },
+        {
+          "arabic": "رَشُد",
+          "meaning": "guidance, correctness; the verbal noun from the root ر-ش-د"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine present/future tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when asked-you My-servants about-Me then-indeed I near - I respond invocation-of the-supplicant when he calls-upon Me - so let-them respond to-Me and let-them believe in-Me that perhaps they are guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

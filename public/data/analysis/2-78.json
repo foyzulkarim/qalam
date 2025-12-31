@@ -1,0 +1,199 @@
+{
+  "verseId": "2:78",
+  "verse": {
+    "arabic": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+    "transliteration": "Waminhum ommiyyoona la yaAAlamoona alkitaba illa amaniyya wain hum illa yathunnoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 78
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِنْهُمْ",
+      "transliteration": "wa minhum",
+      "meaning": "and from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to be from, to originate from"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُمِّيُّونَ",
+      "transliteration": "ummiyyūna",
+      "meaning": "unlettered ones",
+      "root": {
+        "letters": "ا-مّ-ي",
+        "meaning": "to be unlettered, ignorant; motherly (related conceptually)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (verb suffix indicating present/future tense, plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record; writing itself"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "writing, scripture, book"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to tend toward, to resort to; negation/exception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَمَانِيَّ",
+      "transliteration": "amāniyya",
+      "meaning": "wishful thinking(s)",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "أَمَانٍ",
+          "meaning": "wishes, desires"
+        },
+        {
+          "arabic": "يَّ",
+          "meaning": "the dual ending, indicating two things"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَإِنْ",
+      "transliteration": "wa in",
+      "meaning": "and indeed/but if",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, existence, being"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, indeed (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/only",
+      "root": {
+        "letters": "ن-ل-و",
+        "meaning": "to be saved, to escape, negation/absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يَظُنُّونَ",
+      "transliteration": "yaẓunūna",
+      "meaning": "they assume/think",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to assume, to suppose, to believe"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, first person plural (they)"
+        },
+        {
+          "arabic": "ظُنُّونَ",
+          "meaning": "form II verb meaning 'they assume/think'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - from - them  unlettered-ones not they-know the-Scripture except wishful-thinking(s) and indeed - they only - they-assume"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "verseId": "2:273",
+  "verse": {
+    "arabic": "لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِي الْأَرْضِ يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُم بِسِيمَاهُمْ لَا يَسْأَلُونَ النَّاسَ إِلْحَافًا ۗ وَمَا تُنفِقُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ",
+    "transliteration": "Lilfuqarai allatheena ohsiroo fee sabeeli Allahi la yastateeAAoona darban fee alardi yahsabuhumu aljahilu aghniyaa mina alttaAAaffufi taAArifuhum biseemahum la yasaloona alnnasa ilhafan wama tunfiqoo min khayrin fainna Allaha bihi AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 273
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِلْفُقَرَاءِ",
+      "transliteration": "lil-fuqarāʾi",
+      "meaning": "for the poor (plural)",
+      "root": {
+        "letters": "ف-ق-ر",
+        "meaning": "to be poor, needy; lack"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْفُقَرَاءِ",
+          "meaning": "the poor (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "who (plural relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess; relative pronoun origin"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "who (plural relative pronoun, derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُحْصِرُوا",
+      "transliteration": "uḥṣirū",
+      "meaning": "they were restricted/confined",
+      "root": {
+        "letters": "ح-ص-ر",
+        "meaning": "to confine, restrict, hold back"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker / prefix indicating a passive or reflexive form"
+        },
+        {
+          "arabic": "حَصَرَ",
+          "meaning": "to confine, restrict (verb in the jussive mood)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating plural masculine imperative/jussive"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي سَبِيلِ",
+      "transliteration": "fī sabīli",
+      "meaning": "in the way/path of",
+      "root": {
+        "letters": "س-ب-أ",
+        "meaning": "to follow a path, to travel; generally relating to routes and ways"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "سَبِيلِ",
+          "meaning": "the way, the path"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah (genitive)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا يَسْتَطِيعُونَ",
+      "transliteration": "lā yastaṭīʿūna",
+      "meaning": "they are not able",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to be able, to have power"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "يَسْتَطِيعُونَ",
+          "meaning": "they are able"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ضَرْبًا",
+      "transliteration": "ḍarban",
+      "meaning": "a journey/movement (indefinite)",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "to strike, to hit, to beat; also to set an example, to journey"
+      },
+      "components": [
+        {
+          "arabic": "ضَرْب",
+          "meaning": "striking, hitting; example; journey (verbal noun/masdar)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "indefinite accusative marker (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فِي الْأَرْضِ",
+      "transliteration": "fī al-arḍi",
+      "meaning": "in the land",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "earth, land, ground"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَحْسَبُهُمُ",
+      "transliteration": "yaḥsabuhumu",
+      "meaning": "he thinks them/considers them",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to estimate"
+      },
+      "components": [
+        {
+          "arabic": "يَحْسَبُ",
+          "meaning": "he computes/thinks"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْجَاهِلُ",
+      "transliteration": "al-jāhilu",
+      "meaning": "the ignorant one",
+      "root": {
+        "letters": "ج-ه-ل",
+        "meaning": "to be unaware, to lack knowledge, to err"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَغْنِيَاءَ",
+      "transliteration": "aghniyāʾa",
+      "meaning": "rich (plural)",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be rich, to suffice, to be independent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِنَ التَّعَفُّفِ",
+      "transliteration": "mina at-taʿaffufi",
+      "meaning": "from/because of self-restraint",
+      "root": {
+        "letters": "ع-ف-ف",
+        "meaning": "to abstain, to be chaste, to refrain"
+      },
+      "components": [
+        {
+          "arabic": "مِنَ",
+          "meaning": "from/because of"
+        },
+        {
+          "arabic": "التَّعَفُّفِ",
+          "meaning": "the self-restraint, the abstaining"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَعْرِفُهُم",
+      "transliteration": "taʿrifuhumu",
+      "meaning": "you know them",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to be aware of, to recognize"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular present tense"
+        },
+        {
+          "arabic": "عَرَف",
+          "meaning": "to know, to recognize"
+        },
+        {
+          "arabic": "ـُهُم",
+          "meaning": "them (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِسِيمَاهُمْ",
+      "transliteration": "bisīmāhum",
+      "meaning": "by their sign/characteristic",
+      "root": {
+        "letters": "س-ي-م",
+        "meaning": "to mark, to characterize, to indicate"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "سِيمَا",
+          "meaning": "sign, characteristic, mark"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا يَسْأَلُونَ",
+      "transliteration": "lā yasʾalūna",
+      "meaning": "they do not ask",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, no"
+        },
+        {
+          "arabic": "يَسْأَلُونَ",
+          "meaning": "they ask (present tense, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "النَّاسَ",
+      "transliteration": "an-nāsa",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-و",
+        "meaning": "to forget, to be lost; people (derived from forgetting one's origin)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِلْحَافًا",
+      "transliteration": "ilḥāfan",
+      "meaning": "persistently/repeatedly",
+      "root": {
+        "letters": "ح-ف-ف",
+        "meaning": "to rush, to hasten, to press urgently; persistence"
+      },
+      "components": [
+        {
+          "arabic": "إِلْ",
+          "meaning": "prefix indicating excessiveness or intensification, often with a negative connotation (but not always)"
+        },
+        {
+          "arabic": "حَافًا",
+          "meaning": "active participle from the root حَفَّ, denoting one who rushes or presses urgently; excessive action"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also, water (related to the concept of having or possessing something essential)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "تُنْفِقُوا",
+      "transliteration": "tunfiqū",
+      "meaning": "you spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to emit"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "you (masculine plural) - prefix indicating second person masculine plural pronoun and present tense"
+        },
+        {
+          "arabic": "نْفِقُ",
+          "meaning": "spend - verb root in present tense form"
+        },
+        {
+          "arabic": "و",
+          "meaning": "pronoun suffix - indicating second person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِنْ خَيْرٍ",
+      "transliteration": "min khayrin",
+      "meaning": "from good (indefinite)",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "خَيْرٍ",
+          "meaning": "good (indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed/verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truthfulness, certainty"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah (accusative)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "with it/of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possessing, having, with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it, of it, belonging to it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing/Aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, intelligence"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the poor the-who they-were-restricted in-the path of Allah they-are-not-able a-journey in-the land he-thinks-them the-ignorant one rich from-the self-restraint you-know-them by-their sign they-do-not-ask the-people persistently and-whatever you-spend from good then-indeed Allah with-it Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

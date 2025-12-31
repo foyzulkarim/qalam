@@ -1,0 +1,187 @@
+{
+  "verseId": "2:92",
+  "verse": {
+    "arabic": "وَلَقَدْ جَاءَكُم مُّوسَىٰ بِالْبَيِّنَاتِ ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِن بَعْدِهِ وَأَنتُمْ ظَالِمُونَ",
+    "transliteration": "Walaqad jaakum moosa bialbayyinati thumma ittakhathtumu alAAijla min baAAdihi waantum thalimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 92
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-laqad",
+      "meaning": "and indeed, and certainly",
+      "root": {
+        "letters": "ل-ق-د",
+        "meaning": "to adhere, to follow firmly; to be certain, established"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, certainly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَاءَكُم",
+      "transliteration": "jāʾakum",
+      "meaning": "came to you",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَ",
+          "meaning": "he came"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "to draw water; to extract; to pull out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالْبَيِّنَاتِ",
+      "transliteration": "bi-l-bayyināti",
+      "meaning": "with the clear proofs",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, evident, manifest"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْبَيِّنَاتِ",
+          "meaning": "the clear proofs"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterward",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; sequence, continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اتَّخَذْتُمُ",
+      "transliteration": "ittakhādh-tumū",
+      "meaning": "you took, you adopted",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to possess"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive/reflexive prefix indicating repeated or thorough taking"
+        },
+        {
+          "arabic": "خَذْتُمُ",
+          "meaning": "you (plural) took"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْعِجْلَ",
+      "transliteration": "al-ʿijla",
+      "meaning": "the calf",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "haste, speed; to hasten or accelerate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِن بَعْدِهِ",
+      "transliteration": "min baʿdi-hi",
+      "meaning": "after him",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, later time"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa-antum",
+      "meaning": "and you",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ظَالِمُونَ",
+      "transliteration": "ẓālimūn",
+      "meaning": "wrongdoers, oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-[indeed] laqad-jāʾakum-mūsā-bi-l-bayyināti-thumma-ittakhādh-tumū-al-ʿijla-min-baʿdi-hi-wa-[and] antum-ẓālimūn"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

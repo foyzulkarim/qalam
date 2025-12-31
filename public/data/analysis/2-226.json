@@ -1,0 +1,206 @@
+{
+  "verseId": "2:226",
+  "verse": {
+    "arabic": "لِّلَّذِينَ يُؤْلُونَ مِن نِّسَائِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ ۖ فَإِن فَاءُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+    "transliteration": "Lillatheena yuloona min nisaihim tarabbusu arbaAAati ashhurin fain faoo fainna Allaha ghafoorun raheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 226
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّلَّذِينَ",
+      "transliteration": "lil-ladhīna",
+      "meaning": "for those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to go, to be, to possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "لَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُؤْلُونَ",
+      "transliteration": "yu'lūna",
+      "meaning": "swear (an oath)",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to neglect, to be high or exalted (and by extension, to swear falsely)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نِّسَائِهِمْ",
+      "transliteration": "nisā'ihim",
+      "meaning": "their wives",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to travel, to wander; woman"
+      },
+      "components": [
+        {
+          "arabic": "نِسَاء",
+          "meaning": "women, wives"
+        },
+        {
+          "arabic": "-هِمْ",
+          "meaning": "their (masculine plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَرَبُّصُ",
+      "transliteration": "tarabbuṣu",
+      "meaning": "waiting, a period of waiting",
+      "root": {
+        "letters": "ر-ب-ص",
+        "meaning": "to wait, to lie in wait, to remain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَرْبَعَةِ",
+      "transliteration": "arbaʿati",
+      "meaning": "four",
+      "root": {
+        "letters": "ر-ب-ع",
+        "meaning": "to be full, to increase; completeness and plenitude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَشْهُرٍ",
+      "transliteration": "ash-hurin",
+      "meaning": "months (plural)",
+      "root": {
+        "letters": "ح-و-ر",
+        "meaning": "to revolve, to circle; time (as revolving)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "pause-marker",
+      "meaning": "[no lexical meaning]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَإِن",
+      "transliteration": "fa-in",
+      "meaning": "then indeed, so if",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence, being"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَاءُوا",
+      "transliteration": "fā'ū",
+      "meaning": "they returned",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to return, to come back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَإِنَّ",
+      "transliteration": "fa-inna",
+      "meaning": "then indeed",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "affirmation, truth, certainty"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily, truly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūrun",
+      "meaning": "Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive; to cover, conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "رَّحِيمٌ",
+      "transliteration": "raḥīmun",
+      "meaning": "Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "To have compassion; to be kind and tender; mercy."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-those who swear from their wives - a waiting of four months - then if they returned - then indeed Allah - Forgiving Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

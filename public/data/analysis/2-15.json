@@ -1,0 +1,145 @@
+{
+  "verseId": "2:15",
+  "verse": {
+    "arabic": "اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+    "transliteration": "Allahu yastahzio bihim wayamudduhum fee tughyanihim yaAAmahoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَسْتَهْزِئُ",
+      "transliteration": "yastaḥziʾu",
+      "meaning": "He mocks, He ridicules",
+      "root": {
+        "letters": "ه-ز-ي",
+        "meaning": "to diminish, to belittle, to weaken"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَـ",
+          "meaning": "He (masculine singular) - prefix indicating present/future tense and subject"
+        },
+        {
+          "arabic": "تَهْزَأُ",
+          "meaning": "to mock, to ridicule - derived from the root ه-ز-ي"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهِمْ",
+      "transliteration": "bihim",
+      "meaning": "with them, at them",
+      "root": {
+        "letters": "ب-هـ-م",
+        "meaning": "to be with, to accompany, to possess"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيَمُدُّهُمْ",
+      "transliteration": "wa yamudduhum",
+      "meaning": "and He extends [benefit] to them, and He prolongs for them",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to prolong, to stretch"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَمُدُّهُمْ",
+          "meaning": "He extends to them, He prolongs for them (verb + pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "طُغْيَانِهِمْ",
+      "transliteration": "ṭuġyānihim",
+      "meaning": "their transgression, their disobedience",
+      "root": {
+        "letters": "غ-ي-ن",
+        "meaning": "to exceed limits, to be arrogant or oppressive"
+      },
+      "components": [
+        {
+          "arabic": "طُغْيَانِ",
+          "meaning": "transgression, disobedience (noun)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَعْمَهُونَ",
+      "transliteration": "yaʿmahunūna",
+      "meaning": "they wander blindly, they are misguided",
+      "root": {
+        "letters": "ع-م-ه",
+        "meaning": "to wander blindly, to be heedless or ignorant"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, or the first person plural active voice marker"
+        },
+        {
+          "arabic": "عَمَ",
+          "meaning": "to wander blindly, to be misguided"
+        },
+        {
+          "arabic": "هُونَ",
+          "meaning": "they (masculine plural) - pronoun suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Allah-the God - mocks - them - and - He extends [benefit] to them - in - their transgression - they-wander blindly"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

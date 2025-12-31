@@ -1,0 +1,415 @@
+{
+  "verseId": "2:194",
+  "verse": {
+    "arabic": "الشَّهْرُ الْحَرَامُ بِالشَّهْرِ الْحَرَامِ وَالْحُرُمَاتُ قِصَاصٌ ۚ فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْتَدَىٰ عَلَيْكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
+    "transliteration": "Alshshahru alharamu bialshshahri alharami waalhurumatu qisasun famani iAAtada AAalaykum faiAAtadoo AAalayhi bimithli ma iAAtada AAalaykum waittaqoo Allaha waiAAlamoo anna Allaha maAAa almuttaqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 194
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الشَّهْرُ",
+      "transliteration": "aš-šahru",
+      "meaning": "the month",
+      "root": {
+        "letters": "ش-ه-ر",
+        "meaning": "to be wide, spacious; time period"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْحَرَامُ",
+      "transliteration": "al-ḥarāmu",
+      "meaning": "the sacred (month)"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالشَّهْرِ",
+      "transliteration": "bi-š-šahri",
+      "meaning": "with the month",
+      "root": {
+        "letters": "ش-هـ-ر",
+        "meaning": "to be wide, spacious; month (as a period of time)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الشَّهْرِ",
+          "meaning": "the month"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "the sacred (month)",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to be forbidden, sacred, inviolable"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "sacred, forbidden (month)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالْحُرُمَاتُ",
+      "transliteration": "wa-l-ḥurumātu",
+      "meaning": "and the sacred things/violations",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to prohibit, forbid; sanctity, inviolability"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حُرُمَاتُ",
+          "meaning": "sacred things, inviolable matters"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قِصَاصٌ",
+      "transliteration": "qiṣāṣun",
+      "meaning": "retribution/equal revenge",
+      "root": {
+        "letters": "ق-ص-ص",
+        "meaning": "to relate, to recount; to seek recompense or revenge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamūna",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you know (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَمَنِ",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate from; also includes concepts of questioning and conditionality"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction indicating consequence)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whichever person"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اعْتَدَىٰ",
+      "transliteration": "iʿtadā",
+      "meaning": "assaulted/transgressed",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to transgress, to be hostile"
+      },
+      "components": [
+        {
+          "arabic": "إِعْتَ",
+          "meaning": "to do something repeatedly or thoroughly, prefix indicating intensity/completion"
+        },
+        {
+          "arabic": "دَىٰ",
+          "meaning": "to transgress, to exceed limits"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَاعْتَدُوا",
+      "transliteration": "fa-ʿtadū",
+      "meaning": "then assault/retaliate",
+      "root": {
+        "letters": "ع-ت-د",
+        "meaning": "to be firm, to establish, to prepare, to settle an account"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "اعْتَدُوا",
+          "meaning": "assault, retaliate; prepare yourselves (for war)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to be high, elevated; to bear responsibility; to depend on"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِمِثْلِ",
+      "transliteration": "bi-mithli",
+      "meaning": "with the like/in the same way",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "similarity, likeness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مِثْلِ",
+          "meaning": "the like of, similar to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for; relative pronoun origin (connection to questioning)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "اعْتَدَىٰ",
+      "transliteration": "iʿtadā",
+      "meaning": "assaulted/transgressed",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to exceed, to be in excess of, to transgress"
+      },
+      "components": [
+        {
+          "arabic": "اِعْتَـ",
+          "meaning": "prefix indicating seeking or doing something repeatedly/intensively"
+        },
+        {
+          "arabic": "ـدَىٰ",
+          "meaning": "to do, to perform (related to the root 'ع-د-و')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wa-ttaqū",
+      "meaning": "and fear/be mindful of",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, fear (due to potential harm)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear/be mindful of (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, to deify; the deity itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَاعْلَمُوا",
+      "transliteration": "wa-ʿlamū",
+      "meaning": "and know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that/indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of emphasis/confirmation"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "noun marker, indicates a nominal clause is following"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship; divinity; the object of adoration"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "with",
+      "root": {
+        "letters": "ع-ي-ش",
+        "meaning": "to live, life, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْمُتَّقِينَ",
+      "transliteration": "al-muttaqīna",
+      "meaning": "the mindful/righteous",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُتَّقِينَ",
+          "meaning": "those who fear/are mindful of (Allah)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-month the-sacred with-the-month the-sacred and-the-sacred-things retribution [pause] so-whoever assaulted upon-you then-assault him upon-him with-the-like what assaulted upon-you and-fear Allah and-know that indeed-Allah with the-mindful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

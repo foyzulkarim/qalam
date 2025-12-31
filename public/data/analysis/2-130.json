@@ -1,0 +1,344 @@
+{
+  "verseId": "2:130",
+  "verse": {
+    "arabic": "وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَاهِيمَ إِلَّا مَن سَفِهَ نَفْسَهُ ۚ وَلَقَدِ اصْطَفَيْنَاهُ فِي الدُّنْيَا ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
+    "transliteration": "Waman yarghabu AAan millati ibraheema illa man safiha nafsahu walaqadi istafaynahu fee alddunya wainnahu fee alakhirati lamina alssaliheena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 130
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, to exist; also related to questioning and relative pronouns"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَرْغَبُ",
+      "transliteration": "yarghabu",
+      "meaning": "desires, wishes for, seeks",
+      "root": {
+        "letters": "ر-غ-ب",
+        "meaning": "to want, to desire, to have an inclination towards something"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, active voice"
+        },
+        {
+          "arabic": "رَغِبَ",
+          "meaning": "to desire, to wish for"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "about, from, concerning",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, to return, to revert"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّلَّةِ",
+      "transliteration": "millati",
+      "meaning": "religion, way of life",
+      "root": {
+        "letters": "م-ل-ل",
+        "meaning": "inclination, desire, turning away; by extension, a way or path, religion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ʾibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, to be powerful; covenant, agreement"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾilla",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, someone",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, existence; a point or location in space and time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "سَفِهَ",
+      "transliteration": "safiḥa",
+      "meaning": "acted foolishly, was ignorant",
+      "root": {
+        "letters": "س-ف-ه",
+        "meaning": "lack of understanding, foolishness, lightness (in weight or intellect)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نَفْسَهُ",
+      "transliteration": "nafsahu",
+      "meaning": "his self, his soul",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence, vital force"
+      },
+      "components": [
+        {
+          "arabic": "نَفْسِ",
+          "meaning": "self, soul"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۚ",
+      "transliteration": "laa sīna",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "سِين",
+          "meaning": "the letter 'seen', used as a pause marker; no inherent lexical meaning in this context"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَلَقَدِ",
+      "transliteration": "wa la qad",
+      "meaning": "and indeed, verily",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power; estimation, measure"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "to, for (emphasizing the following)"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "indeed, verily (emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "اصْطَفَيْنَاهُ",
+      "transliteration": "ʾiṣṭafaynāhu",
+      "meaning": "We chose him, We selected him",
+      "root": {
+        "letters": "ص-ف-ي",
+        "meaning": "To select, to choose; purity, clarity."
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "A prefix indicating seeking or desiring something (often implying excellence)."
+        },
+        {
+          "arabic": "فَيْنَا",
+          "meaning": "We (pronoun suffix) chose/selected."
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "Him (pronoun suffix, object of the verb)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, on",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "al-dunyā",
+      "meaning": "the world, this life",
+      "root": {
+        "letters": "د-ن-ي",
+        "meaning": "lowliness, baseness, humility; temporary existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۖ",
+      "transliteration": "laa sīna",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation, not"
+        },
+        {
+          "arabic": "سين",
+          "meaning": "pause marker, indicates a brief pause in recitation; originally a particle indicating future tense but functioning here purely as punctuation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَإِنَّهُ",
+      "transliteration": "wa ʾinna-hu",
+      "meaning": "and indeed he",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, on",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ʾākhirati",
+      "meaning": "the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the end, last"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the afterlife, the Hereafter (derived from root أ-خ-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَمِنَ",
+      "transliteration": "lama-na",
+      "meaning": "is from among, is of",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct; to prevent, withhold"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "preposition: for, to, of"
+        },
+        {
+          "arabic": "مِنَ",
+          "meaning": "from among, of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الصَّالِحِينَ",
+      "transliteration": "al-ṣāliḥīna",
+      "meaning": "the righteous ones",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, sound; to repair, improve"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَالِحِينَ",
+          "meaning": "righteous ones (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and who - desires - about - religion - Abraham - except - who - acted foolishly - his self - [pause] - and indeed - We chose him - in - the world - [pause] - and indeed he - in - the Hereafter - is from among - the righteous ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

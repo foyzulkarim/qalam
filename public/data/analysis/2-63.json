@@ -1,0 +1,300 @@
+{
+  "verseId": "2:63",
+  "verse": {
+    "arabic": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+    "transliteration": "Waith akhathna meethaqakum warafaAAna fawqakumu alttoora khuthoo ma ataynakum biquwwatin waothkuroo ma feehi laAAallakum tattaqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 63
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when",
+      "root": {
+        "letters": "و-ذ-ع",
+        "meaning": "to perceive, to be aware of, to remember"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَخَذْنَا",
+      "transliteration": "ʾakhadhnā",
+      "meaning": "We took",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first person plural (we)"
+        },
+        {
+          "arabic": "خَذْنَا",
+          "meaning": "we took (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِيثَاقَكُمْ",
+      "transliteration": "mīthāqakum",
+      "meaning": "your covenant",
+      "root": {
+        "letters": "و-ث-ق",
+        "meaning": "to trust, be firm, establish a pledge"
+      },
+      "components": [
+        {
+          "arabic": "مِيثَاقَ",
+          "meaning": "covenant, pact"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَرَفَعْنَا",
+      "transliteration": "warafaʿnā",
+      "meaning": "and We raised",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "elevation, height, lifting up"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَفَعْنَا",
+          "meaning": "We raised"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَوْقَكُمُ",
+      "transliteration": "fawqaakum",
+      "meaning": "over you",
+      "root": {
+        "letters": "ف-و-ق",
+        "meaning": "to be above, to exceed, to surpass"
+      },
+      "components": [
+        {
+          "arabic": "فَوْقَ",
+          "meaning": "above, over"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الطُّورَ",
+      "transliteration": "aṭ-ṭūra",
+      "meaning": "the mount",
+      "root": {
+        "letters": "ط-و-ر",
+        "meaning": "to rise, to ascend; a high place, mountain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خُذُوا",
+      "transliteration": "khudhū",
+      "meaning": "take!",
+      "root": {
+        "letters": "خ-ذ-و",
+        "meaning": "to take, to grasp, to possess"
+      },
+      "components": [
+        {
+          "arabic": "خُذ",
+          "meaning": "take! (imperative form)"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "you (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "existence, being, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آتَيْنَاكُم",
+      "transliteration": "ʾātaynākum",
+      "meaning": "We gave you",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give; to bestow"
+      },
+      "components": [
+        {
+          "arabic": "آتَ",
+          "meaning": "We gave"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "to you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِقُوَّةٍ",
+      "transliteration": "bi-quwwatin",
+      "meaning": "with determination/strength",
+      "root": {
+        "letters": "ق-و-ي",
+        "meaning": "to be strong, to have power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "قُوَّةٍ",
+          "meaning": "strength, power, determination"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَاذْكُرُوا",
+      "transliteration": "waʾdhkurū",
+      "meaning": "and remember!",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اذْكُرُوا",
+          "meaning": "remember (you plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or a relative pronoun indicating negation/uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "perhaps you (plural)",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, possibility"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, in order that (introducing a purpose)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "you might, perhaps (implies hope/expectation)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تَتَّقُونَ",
+      "transliteration": "tattaqūna",
+      "meaning": "you may become righteous/pious",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to occur; to be humbled or subdued (in this context: to protect oneself)"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person plural present tense (you all)"
+        },
+        {
+          "arabic": "تَـقُ",
+          "meaning": "protection, guarding (from root وَ-ق-ع)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We took covenant-[your] and We raised over-you the-mount take what We gave-to-you with determination and remember what in-it perhaps-you you-may become righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

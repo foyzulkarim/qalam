@@ -1,0 +1,413 @@
+{
+  "verseId": "2:76",
+  "verse": {
+    "arabic": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوا أَتُحَدِّثُونَهُم بِمَا فَتَحَ اللَّهُ عَلَيْكُمْ لِيُحَاجُّوكُم بِهِ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ",
+    "transliteration": "Waitha laqoo allatheena amanoo qaloo amanna waitha khala baAAduhum ila baAAdin qaloo atuhaddithoonahum bima fataha Allahu AAalaykum liyuhajjookum bihi AAinda rabbikum afala taAAqiloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 76
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to go, to vanish, to be aware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَقُوا",
+      "transliteration": "laqū",
+      "meaning": "they met",
+      "root": {
+        "letters": "ل-ق-و",
+        "meaning": "to meet, encounter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be (in a state)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "relative pronoun indicating plural, 'those who'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to feel safe and secure"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/future tense and plurality"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb, 3rd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آمَنَّا",
+      "transliteration": "āmannā",
+      "meaning": "we have believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness; to believe"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "we have (prefix)"
+        },
+        {
+          "arabic": "مَنَّا",
+          "meaning": "believed (from root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go, to depart; to come, to happen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "خَلَا",
+      "transliteration": "khalā",
+      "meaning": "were alone, remained secluded",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to remain, to be alone"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بَعْضُهُمْ",
+      "transliteration": "baʿḍuhum",
+      "meaning": "some of them",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, portion out; to have a part of something"
+      },
+      "components": [
+        {
+          "arabic": "بَعْض",
+          "meaning": "a part, portion"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, with",
+      "root": {
+        "letters": "ا-ل-ي",
+        "meaning": "approach, direction, connection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَعْضٍ",
+      "transliteration": "baʿḍin",
+      "meaning": "some, a part",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, to have a portion of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَتُحَدِّثُونَهُم",
+      "transliteration": "atuḥaddiṯūnahum",
+      "meaning": "do you tell them?",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to narrate, to inform, to happen"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "interrogative particle (indicating a question)"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person masculine plural (you)"
+        },
+        {
+          "arabic": "حَدِّثُ",
+          "meaning": "to narrate, to inform (verb root)"
+        },
+        {
+          "arabic": "ون",
+          "meaning": "suffix indicating second person masculine plural (you)"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "them (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "with what, about what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فَتَحَ",
+      "transliteration": "fataḥa",
+      "meaning": "opened, revealed",
+      "root": {
+        "letters": "ف-ت-ح",
+        "meaning": "to open, to conquer, to reveal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority, elevation"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لِيُحَاجُّوكُم",
+      "transliteration": "liyuḥājūkum",
+      "meaning": "so that they may argue with you",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to dispute, to argue, to contend"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "so that, in order to"
+        },
+        {
+          "arabic": "يُحَاجُّ",
+          "meaning": "they may argue, they contend"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "with you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, with, by means of"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "at, before",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possession, availability, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "رَبِّكُمْ",
+      "transliteration": "rabbikum",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَفَلَا",
+      "transliteration": "afalā",
+      "meaning": "then do not?",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle implying questioning and negation (then do not?)"
+        },
+        {
+          "arabic": "فَلَا",
+          "meaning": "not (doing), denial of doing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "تَعْقِلُونَ",
+      "transliteration": "taʿqilūna",
+      "meaning": "do you not understand?",
+      "root": {
+        "letters": "ع-ق-ل",
+        "meaning": "to understand, to comprehend, to be intelligent"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense (present/future)"
+        },
+        {
+          "arabic": "عَقِل",
+          "meaning": "to understand, to comprehend"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine second person (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-when they met those-who believed they said we have-believed and-when were-alone some-of them to some they said do-you tell-them with-what opened Allah upon you so that they may argue-with you it at before your Lord then do not understand?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

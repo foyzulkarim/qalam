@@ -1,0 +1,457 @@
+{
+  "verseId": "2:89",
+  "verse": {
+    "arabic": "وَلَمَّا جَاءَهُمْ كِتَابٌ مِّنْ عِندِ اللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُم مَّا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ عَلَى الْكَافِرِينَ",
+    "transliteration": "Walamma jaahum kitabun min AAindi Allahi musaddiqun lima maAAahum wakanoo min qablu yastaftihoona AAala allatheena kafaroo falamma jaahum ma AAarafoo kafaroo bihi falaAAnatu Allahi AAala alkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 89
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمَّا",
+      "transliteration": "lammā",
+      "meaning": "when, as soon as",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَاءَهُمْ",
+      "transliteration": "jā'ahum",
+      "meaning": "came to them",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاء",
+          "meaning": "came, arrived"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كِتَابٌ",
+      "transliteration": "kitābun",
+      "meaning": "a book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording, correspondence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to decrease, to diminish, origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عِندِ",
+      "transliteration": "ʿinda",
+      "meaning": "near, with, by",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "near, at the presence of, with possession of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مُصَدِّقٌ",
+      "transliteration": "muṣaddiqun",
+      "meaning": "confirming, verifying",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truth, honesty, correctness"
+      },
+      "components": [
+        {
+          "arabic": "مُ",
+          "meaning": "passive participle marker"
+        },
+        {
+          "arabic": "صَدِّق",
+          "meaning": "to confirm, verify, attest to the truth"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "tanwin (indefinite nominative singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لِّمَا",
+      "transliteration": "limā",
+      "meaning": "for what, to what",
+      "root": {
+        "letters": "ل-م-و",
+        "meaning": "to desire, to will, for the sake of"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, which thing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَعَهُمْ",
+      "transliteration": "maʿahum",
+      "meaning": "with them",
+      "root": {
+        "letters": "م-ع-ه",
+        "meaning": "to be with, accompany, possess"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَكَانُوا",
+      "transliteration": "wakānū",
+      "meaning": "and they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَانُوا",
+          "meaning": "they were"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن قَبْلُ",
+      "transliteration": "min qablu",
+      "meaning": "before",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to be before, towards"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "قَبْلُ",
+          "meaning": "before, previously"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "يَسْتَفْتِحُونَ",
+      "transliteration": "yastaf'tihūn",
+      "meaning": "they used to seek victory",
+      "root": {
+        "letters": "ف-ت-ح",
+        "meaning": "to open, to conquer, victory"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "they seek repeatedly/habitually"
+        },
+        {
+          "arabic": "فْتِحُونَ",
+          "meaning": "victory/opening (they seek)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "over, against",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to mention, to refer, to point out"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny, reject (faith)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "فَلَمَّا",
+      "transliteration": "falammā",
+      "meaning": "so when, then when",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "جَاءَهُم",
+      "transliteration": "jā'ahum",
+      "meaning": "came to them",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَ",
+          "meaning": "he came"
+        },
+        {
+          "arabic": "ـهُم",
+          "meaning": "to them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; also relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عَرَفُوا",
+      "transliteration": "ʿarafū",
+      "meaning": "they recognized",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to be aware, to recognize"
+      },
+      "components": [
+        {
+          "arabic": "عَرَفَ",
+          "meaning": "he knew, he recognized"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural) - suffix indicating the third person masculine plural pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "they disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to be ungrateful, to deny (faith)"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating plurality (they)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "past tense, 3rd person masculine plural of the verb كَفَرَ (to disbelieve)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "in it, with it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۚ",
+      "transliteration": "āyah",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "أ-ي-ى",
+        "meaning": "sign, verse, proof"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "فَلَعْنَةُ",
+      "transliteration": "falʿanatu",
+      "meaning": "so the curse of",
+      "root": {
+        "letters": "ل-ع-ن",
+        "meaning": "to curse, to be averse or hostile"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "لَعْنَةُ",
+          "meaning": "the curse"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate, to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīn",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (grace), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when came-to-them a book from near Allah confirming to what with-them and they were from before they seek-victory over those who disbelieved so when came-to-them that which they recognized they disbelieved in it [then] so the curse of Allah upon the disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

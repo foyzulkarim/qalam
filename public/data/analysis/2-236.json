@@ -1,0 +1,439 @@
+{
+  "verseId": "2:236",
+  "verse": {
+    "arabic": "لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ النِّسَاءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ مَتَاعًا بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُحْسِنِينَ",
+    "transliteration": "La junaha AAalaykum in tallaqtumu alnnisaa ma lam tamassoohunna aw tafridoo lahunna fareedatan wamattiAAoohunna AAala almoosiAAi qadaruhu waAAala almuqtiri qadaruhu mataAAan bialmaAAroofi haqqan AAala almuhsineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 236
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not; no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جُنَاحَ",
+      "transliteration": "junāḥa",
+      "meaning": "wing; blame; impediment",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "to cover, to shield; side, flank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if; indeed",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "a reinforcing particle, often indicating emphasis or condition"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "pronoun, 'you'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "طَلَّقْتُمُ",
+      "transliteration": "ṭallaqtumū",
+      "meaning": "you divorce (plural)",
+      "root": {
+        "letters": "ﻁ-ل-ق",
+        "meaning": "to release, to set free; divorce (specifically)"
+      },
+      "components": [
+        {
+          "arabic": "طَلَّقْ",
+          "meaning": "you divorced (singular masculine)"
+        },
+        {
+          "arabic": "تُمُ",
+          "meaning": "plural suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "النِّسَاءَ",
+      "transliteration": "al-nisāʾa",
+      "meaning": "the women",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to be weary, to travel; (figuratively) family, lineage"
+      },
+      "components": [
+        {
+          "arabic": "النِّسَاء",
+          "meaning": "the women (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what; that which",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be; existence, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَمَسُّوهُنَّ",
+      "transliteration": "tamassūhunna",
+      "meaning": "you touch them (plural)",
+      "root": {
+        "letters": "م-سّ-ح",
+        "meaning": "to touch, to wipe over (with the hand), to test/examine"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperfect tense (you)"
+        },
+        {
+          "arabic": "مَسَّ",
+          "meaning": "to touch"
+        },
+        {
+          "arabic": "وهُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَفْرِضُوا",
+      "transliteration": "tafriḍū",
+      "meaning": "you stipulate; you assign (plural)",
+      "root": {
+        "letters": "ف-ر-ض",
+        "meaning": "to impose, to assign, to decree"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a command/imperative form"
+        },
+        {
+          "arabic": "فْرِضُوا",
+          "meaning": "you (plural) assign/stipulate"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَهُنَّ",
+      "transliteration": "lahunna",
+      "meaning": "for them (feminine plural)",
+      "root": {
+        "letters": "ل-هـ-ن",
+        "meaning": "to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "they (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَرِيضَةً",
+      "transliteration": "farīḍatan",
+      "meaning": "an obligation; a specified amount",
+      "root": {
+        "letters": "ف-ر-ض",
+        "meaning": "to impose, to prescribe; firmness, strength"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause marker)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَمَتِّعُوهُنَّ",
+      "transliteration": "wa-mattaʿūhunna",
+      "meaning": "and give them provision (plural)",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "enjoyment, benefit, provision"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَتِّعُوهُنَّ",
+          "meaning": "give them provision/benefit (plural feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon; according to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْمُوسِعِ",
+      "transliteration": "al-mūsʿi",
+      "meaning": "the wealthy (one)",
+      "root": {
+        "letters": "وس-ع",
+        "meaning": "to be wide, spacious; to have abundance or plenty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "قَدَرُهُ",
+      "transliteration": "qadrūhu",
+      "meaning": "his capability; his amount",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate, to decree; power, capability"
+      },
+      "components": [
+        {
+          "arabic": "قَدْرُ",
+          "meaning": "capability, amount, measure"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَعَلَى",
+      "transliteration": "wa-ʿalā",
+      "meaning": "and upon; and according to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to surpass; to rise above"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon; on; according to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْمُقْتِرِ",
+      "transliteration": "al-muqtiri",
+      "meaning": "the poor one; the constricted (one)",
+      "root": {
+        "letters": "ق-ت-ر",
+        "meaning": "to be constricted, to lack, to be poor"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "مُقْتِرِ",
+          "meaning": "poor, constricted; active participle form indicating someone experiencing constriction or poverty."
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "قَدَرُهُ",
+      "transliteration": "qadrūhu",
+      "meaning": "his capability; his amount",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure; to estimate; power; ability"
+      },
+      "components": [
+        {
+          "arabic": "قَدَرُ",
+          "meaning": "capability; amount; power"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مَتَاعًا",
+      "transliteration": "matāʿan",
+      "meaning": "provision; benefit",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "enjoyment, benefit, provision"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بِالْمَعْرُوفِ",
+      "transliteration": "bi-al-maʿrūfi",
+      "meaning": "with kindness; in a proper manner",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, recognize; goodness, virtue"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْمَعْرُوفِ",
+          "meaning": "the kindness, the good deed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause marker)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "حَقًّا",
+      "transliteration": "ḥaqqan",
+      "meaning": "a right; certainly",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, essence; to be true or real"
+      },
+      "components": [
+        {
+          "arabic": "حَقّ",
+          "meaning": "right, truth, reality (nominative singular masculine)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn an-niṣbah; indicates adverbial accusative, here meaning 'certainly', 'truly'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْمُحْسِنِينَ",
+      "transliteration": "al-muḥsinīna",
+      "meaning": "the doers of good; the benevolent ones",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, to excel; goodness, beauty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُحْسِنِينَ",
+          "meaning": "doers of good; those who excel in goodness (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No-blame upon-you if divorce-you the-women what not touch-them or stipulate for-them an-obligation. And give-them provision upon the-wealthy his capability and upon the-poor his capability a-provision with kindness, certainly a-right upon the-doers-of-good."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

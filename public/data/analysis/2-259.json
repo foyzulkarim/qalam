@@ -1,0 +1,1024 @@
+{
+  "verseId": "2:259",
+  "verse": {
+    "arabic": "أَوْ كَالَّذِي مَرَّ عَلَىٰ قَرْيَةٍ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْيِي هَـٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ اللَّهُ مِائَةَ عَامٍ ثُمَّ بَعَثَهُ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ ۖ قَالَ بَل لَّبِثْتَ مِائَةَ عَامٍ فَانظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَانظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ آيَةً لِّلنَّاسِ ۖ وَانظُرْ إِلَى الْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا ۚ فَلَمَّا تَبَيَّنَ لَهُ قَالَ أَعْلَمُ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Aw kaallathee marra AAala qaryatin wahiya khawiyatun AAala AAurooshiha qala anna yuhyee hathihi Allahu baAAda mawtiha faamatahu Allahu miata AAamin thumma baAAathahu qala kam labithta qala labithtu yawman aw baAAda yawmin qala bal labithta miata AAamin faonthur ila taAAamika washarabika lam yatasannah waonthur ila himarika walinajAAalaka ayatan lilnnasi waonthur ila alAAithami kayfa nunshizuha thumma naksooha lahman falamma tabayyana lahu qala aAAlamu anna Allaha AAala kulli shayin qadeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 259
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-أ-و",
+        "meaning": "to join, to connect; also implies opposition or alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَالَّذِي",
+      "transliteration": "ka-alladhī",
+      "meaning": "like the one who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الَّذِي",
+          "meaning": "the one who, which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَرَّ",
+      "transliteration": "marra",
+      "meaning": "passed by",
+      "root": {
+        "letters": "م-ر-ر",
+        "meaning": "to pass, to flow, to go by quickly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَرْيَةٍ",
+      "transliteration": "qaryatin",
+      "meaning": "a township, village",
+      "root": {
+        "letters": "ق-ر-ي",
+        "meaning": "to gather, to collect; to reside"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَهِيَ",
+      "transliteration": "wa hiya",
+      "meaning": "and it (being)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, exist; she/it is"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هِيَ",
+          "meaning": "it (feminine pronoun), she is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "خَاوِيَةٌ",
+      "transliteration": "khāwiyah",
+      "meaning": "desolate, ruined",
+      "root": {
+        "letters": "خ-و-ي",
+        "meaning": "to be empty, to lack, to fall into ruin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عُرُوشِهَا",
+      "transliteration": "ʿurūshihā",
+      "meaning": "its foundations, supports",
+      "root": {
+        "letters": "ع-ر-ش",
+        "meaning": "throne, dominion, power; to establish or strengthen"
+      },
+      "components": [
+        {
+          "arabic": "عُرُوش",
+          "meaning": "foundations, supports (plural of عَرْش)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنَّىٰ",
+      "transliteration": "annā",
+      "meaning": "how, in what manner",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also related to things being apparent or visible"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يُحْيِي",
+      "transliteration": "yuḥyī",
+      "meaning": "will revive, will bring to life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "he (masculine singular), prefix indicating future tense and active voice"
+        },
+        {
+          "arabic": "حْيِي",
+          "meaning": "to revive, to bring to life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "هَـٰذِهِ",
+      "transliteration": "hādhīhi",
+      "meaning": "this (feminine)",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, this"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰذِ",
+          "meaning": "this (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "feminine singular suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بَعْدَ",
+      "transliteration": "baʿda",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مَوْتِهَا",
+      "transliteration": "mawtihā",
+      "meaning": "its death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die; death"
+      },
+      "components": [
+        {
+          "arabic": "مَوْت",
+          "meaning": "death"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَأَمَاتَهُ",
+      "transliteration": "fa-amātahu",
+      "meaning": "so He caused him to die",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, death"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "أَ",
+          "meaning": "indicates past tense, passive voice or emphasizes the action."
+        },
+        {
+          "arabic": "مَاتَ",
+          "meaning": "he died"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِائَةَ",
+      "transliteration": "miʾata",
+      "meaning": "one hundred",
+      "root": {
+        "letters": "م-ؤ-ة",
+        "meaning": "female, femininity; to count or enumerate (related to the idea of large numbers)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "عَامٍ",
+      "transliteration": "ʿāmin",
+      "meaning": "year",
+      "root": {
+        "letters": "ع-م-و",
+        "meaning": "general, widespread; to pass, go by (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to establish; also implying time or order after something else."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "بَعَثَهُ",
+      "transliteration": "baʿathahu",
+      "meaning": "He resurrected him, He revived him",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to raise, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "بَعَثَ",
+          "meaning": "he sent, he raised, he resurrected"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "كَمْ",
+      "transliteration": "kam",
+      "meaning": "how much, how long",
+      "root": {
+        "letters": "ك-م-و",
+        "meaning": "to measure, quantify; completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "لَبِثْتَ",
+      "transliteration": "labithta",
+      "meaning": "have you remained?",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to stay, remain, tarry"
+      },
+      "components": [
+        {
+          "arabic": "لَبِثَ",
+          "meaning": "to remain, stay a long time"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "لَبِثْتُ",
+      "transliteration": "labithtu",
+      "meaning": "I have remained",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to stay, to remain, to tarry"
+      },
+      "components": [
+        {
+          "arabic": "لَبِثَ",
+          "meaning": "to remain, to stay"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as a period of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to revert, or to be in opposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "بَعْضَ",
+      "transliteration": "baʿḍa",
+      "meaning": "part of",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, to possess a portion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "يَوْمٍ",
+      "transliteration": "yawmin",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as a period of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "بَل",
+      "transliteration": "bal",
+      "meaning": "rather, no",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be averse, to refuse, to turn away from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "لَّبِثْتَ",
+      "transliteration": "labithta",
+      "meaning": "you have remained",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to remain, to stay, to tarry"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "particle indicating the second person masculine singular pronoun (you)"
+        },
+        {
+          "arabic": "بِثْتَ",
+          "meaning": "you remained (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "مِائَةَ",
+      "transliteration": "miʾata",
+      "meaning": "one hundred",
+      "root": {
+        "letters": "م-ؤ-ة",
+        "meaning": "femininity, being counted (as a large number)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "عَامٍ",
+      "transliteration": "ʿāmin",
+      "meaning": "years",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "to pass, to elapse (of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "فَانظُرْ",
+      "transliteration": "fa-unẓur",
+      "meaning": "so look",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of exhortation)"
+        },
+        {
+          "arabic": "انْظُرْ",
+          "meaning": "look!, observe!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, at",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to tend towards, to reach, inclination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "طَعَامِكَ",
+      "transliteration": "ṭaʿāmika",
+      "meaning": "your food",
+      "root": {
+        "letters": "ع-م-د",
+        "meaning": "to eat, to consume; food itself"
+      },
+      "components": [
+        {
+          "arabic": "طَعَامِ",
+          "meaning": "food (genitive singular)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "وَشَرَابِكَ",
+      "transliteration": "wa sharābika",
+      "meaning": "and your drink",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, beverage"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "شَرَابِكَ",
+          "meaning": "your drink"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "[negative particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لَمْ",
+          "meaning": "negative particle indicating past tense negation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "يَتَسَنَّهْ",
+      "transliteration": "yatasannah",
+      "meaning": "it has changed, it decays",
+      "root": {
+        "letters": "س-ن-ن",
+        "meaning": "to follow a way, to establish a practice; to decay/change (when referring to something established)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "وَانظُرْ",
+      "transliteration": "wa-unẓur",
+      "meaning": "and look",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "انْظُرْ",
+          "meaning": "look! (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, at",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be inclined towards; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "حِمَارِكَ",
+      "transliteration": "ḥimārika",
+      "meaning": "your donkey",
+      "root": {
+        "letters": "ح-م-ر",
+        "meaning": "redness, stubbornness, foolishness (generally applied to donkeys)"
+      },
+      "components": [
+        {
+          "arabic": "حِمَار",
+          "meaning": "donkey"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "وَلِنَجْعَلَكَ",
+      "transliteration": "wa li-najʿalaka",
+      "meaning": "and to make you",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "نَجْعَلَكَ",
+          "meaning": "to make you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "آيَةً",
+      "transliteration": "āyatan",
+      "meaning": "a sign, a miracle",
+      "root": {
+        "letters": "أ-ي-و",
+        "meaning": "to return, to be clear, to show a sign"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "لِّلنَّاسِ",
+      "transliteration": "li-n-nāsi",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (as those who are prone to forget their obligations)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": null,
+        "meaning": null
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "وَانظُرْ",
+      "transliteration": "wa-unẓur",
+      "meaning": "and look",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "انْظُرْ",
+          "meaning": "look! (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "إِلَى الْعِظَامِ",
+      "transliteration": "ilā al-ʿiẓāmī",
+      "meaning": "at the bones",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, to be large; bone (as a large part)"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "الْعِظَامِ",
+          "meaning": "the bones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be or become something, state of being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "نُنشِزُهَا",
+      "transliteration": "nunshizuhā",
+      "meaning": "We raise it, We resurrect it",
+      "root": {
+        "letters": "ن-ش-ز",
+        "meaning": "to lift, to raise, to elevate, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "نَشَزَ",
+          "meaning": "to raise, to elevate"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; also implies sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "نَكْسُوهَا",
+      "transliteration": "naksuhā",
+      "meaning": "We cover it",
+      "root": {
+        "letters": "ك-س-و",
+        "meaning": "to cover, to clothe"
+      },
+      "components": [
+        {
+          "arabic": "نَكْسُ",
+          "meaning": "we cover, we clothe (active voice)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 57,
+      "arabic": "لَحْمًا",
+      "transliteration": "laḥman",
+      "meaning": "with flesh, meat",
+      "root": {
+        "letters": "ل-ح-م",
+        "meaning": "softness, tenderness, flesh"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 58,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 59,
+      "arabic": "فَلَمَّا",
+      "transliteration": "fa-lammā",
+      "meaning": "so when, then when",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 60,
+      "arabic": "تَبَيَّنَ",
+      "transliteration": "tabayyana",
+      "meaning": "it became clear",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, to become clear, distinction"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating past tense and often reflexive/passive voice"
+        },
+        {
+          "arabic": "بَيَّنَ",
+          "meaning": "to clarify, to make evident"
+        }
+      ]
+    },
+    {
+      "wordNumber": 61,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for/to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 62,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 63,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "aʿlamu",
+      "meaning": "I know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun suffix)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 64,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of emphasis/certainty"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "noun marker, indicates a nominal clause following 'that'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 65,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 66,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "over, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 67,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "every, all",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness, allness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 68,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 69,
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadīr",
+      "meaning": "competent, powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to be capable, to have power; to measure, estimate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or - like - the one who - passed by - upon - a township - and it (being) - desolate - upon - its foundations - he said - how - will revive - this (feminine) - Allah - after - its death? - so - He caused him to die - Allah - one hundred - year - then - He resurrected him - he said - how much - have you remained? - he said - I have remained - a day - or - part of - a day - he said - rather - you have remained - one hundred - years - so look - to - your food - and your drink - not - it has changed - and look - to - your donkey - and to make you - a sign - for the people - and look - at - the bones - how - We raise it - then - We cover it - with flesh - so when - it became clear - to him - he said - I know - that - Allah - over - every - thing - competent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

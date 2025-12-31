@@ -1,0 +1,279 @@
+{
+  "verseId": "2:168",
+  "verse": {
+    "arabic": "يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ",
+    "transliteration": "Ya ayyuha alnnasu kuloo mimma fee alardi halalan tayyiban wala tattabiAAoo khutuwati alshshaytani innahu lakum AAaduwwun mubeenun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 168
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, masculine plural)",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to call, to invoke attention"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O (general call)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "vocative particle, masculine plural marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people, mankind",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; also related to lineage and origin (as people come from ancestors)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كُلُوا",
+      "transliteration": "kulū",
+      "meaning": "eat (imperative, masculine plural)",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to eat, consume, devour; also to absorb or encompass"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِمَّا",
+      "transliteration": "mimmā",
+      "meaning": "from what, of that which",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, on",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth, the land",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth's surface"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "حَلَالًا",
+      "transliteration": "ḥalālan",
+      "meaning": "lawfully, lawful",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to loosen, untie, resolve; to permit, allow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "طَيِّبًا",
+      "transliteration": "ṭayyiban",
+      "meaning": "good, pure, pleasant",
+      "root": {
+        "letters": "ط-ي-ب",
+        "meaning": "to be good, pleasant; purity, goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, do not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَتَّبِعُوا",
+      "transliteration": "tattabiʿū",
+      "meaning": "you follow (imperative, masculine plural)",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperative form (you - masculine plural)"
+        },
+        {
+          "arabic": "تَبِع",
+          "meaning": "to follow, following"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "masculine plural pronoun suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خُطُوَاتِ",
+      "transliteration": "ḫuṭuwāti",
+      "meaning": "footsteps, traces",
+      "root": {
+        "letters": "خ-ط-و",
+        "meaning": "to step, to walk; pace, gait"
+      },
+      "components": [
+        {
+          "arabic": "خُطُوَ",
+          "meaning": "footsteps, paces (plural)"
+        },
+        {
+          "arabic": "اتِ",
+          "meaning": "of (feminine plural genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الشَّيْطَانِ",
+      "transliteration": "ash-shayṭāni",
+      "meaning": "the Satan, the devil",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to be distant, stray from the right path, or to burn/be scorched."
+      },
+      "components": [
+        {
+          "arabic": "اَلشَّيْطَانِ",
+          "meaning": "The definite article 'al-' prefixed to the noun 'shayṭān', indicating specificity. The -i ending denotes genitive case."
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۚ",
+      "transliteration": "lā sign",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahū",
+      "meaning": "Indeed he, verily it is he",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "to you, for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "عَدُوٌّ",
+      "transliteration": "ʿaduwwun",
+      "meaning": "an enemy",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, to oppose, to transgress against"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مُّبِينٌ",
+      "transliteration": "mubīnun",
+      "meaning": "clear, evident",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, to become clear or evident"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-you-people eat-from-[of]-what in the-earth lawfully good and not you-follow footsteps of-the Satan Indeed-he to-you enemy clear"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

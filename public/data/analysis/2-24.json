@@ -1,0 +1,250 @@
+{
+  "verseId": "2:24",
+  "verse": {
+    "arabic": "فَإِن لَّمْ تَفْعَلُوا وَلَن تَفْعَلُوا فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَافِرِينَ",
+    "transliteration": "Fain lam tafAAaloo walan tafAAaloo faittaqoo alnnara allatee waqooduha alnnasu waalhijaratu oAAiddat lilkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِن",
+      "transliteration": "faʾin",
+      "meaning": "then, so if",
+      "root": {
+        "letters": "ف-إِن",
+        "meaning": "to accomplish, to finish; also used as a conditional particle indicating 'if'"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّمْ",
+      "transliteration": "lam",
+      "meaning": "not"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَفْعَلُوا",
+      "transliteration": "tafʿalū",
+      "meaning": "you do not do",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating negation and future tense (or command)"
+        },
+        {
+          "arabic": "فَعَل",
+          "meaning": "to do, to perform"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating second person plural (you - masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَلَن",
+      "transliteration": "wa lan",
+      "meaning": "and never",
+      "root": {
+        "letters": "ل-ن-ع",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَن",
+          "meaning": "will not, never (negation of future)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَفْعَلُوا",
+      "transliteration": "tafʿalū",
+      "meaning": "you will do",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to act"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense or potential mood"
+        },
+        {
+          "arabic": "فَعَلَ",
+          "meaning": "the root verb form meaning 'to do'"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating 'you (plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَاتَّقُوا",
+      "transliteration": "fattaqū",
+      "meaning": "then fear",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, to be cautious of, to fear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "النَّارَ",
+      "transliteration": "an-nāra",
+      "meaning": "the fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الَّتِي",
+      "transliteration": "allatī",
+      "meaning": "which, that",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be near, to protect"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "relative pronoun suffix indicating feminine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَقُودُهَا",
+      "transliteration": "waqūduhā",
+      "meaning": "its fuel",
+      "root": {
+        "letters": "و-ق-د",
+        "meaning": "to ignite, to burn; fuel"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and, conjunction"
+        },
+        {
+          "arabic": "قُودُهَا",
+          "meaning": "its fuel (derived from the root و-ق-د)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people, men",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to err, to be lost; people are those who may forget their Lord"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَالْحِجَارَةُ",
+      "transliteration": "wal-ḥijāratu",
+      "meaning": "and the stones",
+      "root": {
+        "letters": "ح-ج-ر",
+        "meaning": "to break, to be hard or rough; stone"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حِجَارَة",
+          "meaning": "stones (plural of حَجَر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أُعِدَّتْ",
+      "transliteration": "uʿiddat",
+      "meaning": "it is prepared",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to enumerate; to prepare (by counting/arranging)"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker, indicates something is being acted upon"
+        },
+        {
+          "arabic": "عِدَّ",
+          "meaning": "to prepare, to arrange, to number/count (verbal root)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular ending, indicates the subject is a feminine noun."
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لِلْكَافِرِينَ",
+      "transliteration": "lil-kāfirīn",
+      "meaning": "for the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover; to conceal; to deny (faith)"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "the disbelievers (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-if not you-do and never you-will-do then-fear the-fire which-its-fuel the-people and-the-stones it-is-prepared for-the-disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

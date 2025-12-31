@@ -1,0 +1,118 @@
+{
+  "verseId": "2:152",
+  "verse": {
+    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+    "transliteration": "Faothkuroonee athkurkum waoshkuroo lee wala takfurooni",
+    "surah": "Al-Baqarah",
+    "verseNumber": 152
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَاذْكُرُونِي",
+      "transliteration": "faḏkurūnī",
+      "meaning": "So remember Me",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, therefore (particle of consequence)"
+        },
+        {
+          "arabic": "اذْكُرُونِي",
+          "meaning": "remember Me (imperative verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَذْكُرْكُمْ",
+      "transliteration": "aḏkurkum",
+      "meaning": "I will remember you",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (first person singular pronoun)"
+        },
+        {
+          "arabic": "ذَكَرْتُ",
+          "meaning": "I remembered (verb)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, accusative/genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَاشْكُرُوا",
+      "transliteration": "waškurū",
+      "meaning": "And be grateful",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to acknowledge favor"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اشْكُرُوا",
+          "meaning": "be grateful (you plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِي",
+      "transliteration": "lī",
+      "meaning": "to Me",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to return, to belong to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلاَ تَكْفُرُونِ",
+      "transliteration": "walā takfurūnī",
+      "meaning": "And do not deny Me",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny (grace), be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لاَ",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَكْفُرُونِ",
+          "meaning": "you deny (Me)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-remember-Me I-will-remember-you And-be-grateful to-Me And-not deny-Me"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "verseId": "2:241",
+  "verse": {
+    "arabic": "وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُتَّقِينَ",
+    "transliteration": "Walilmutallaqati mataAAun bialmaAAroofi haqqan AAala almuttaqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 241
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلِلْمُطَلَّقَاتِ",
+      "transliteration": "wa-lil-muṭallaqāti",
+      "meaning": "and for the divorced women",
+      "root": {
+        "letters": "ﻁ-ل-ق",
+        "meaning": "to divorce, to release, to set free"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْمُطَلَّقَاتِ",
+          "meaning": "the divorced women (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَتَاعٌ",
+      "transliteration": "matāʿun",
+      "meaning": "provision, maintenance",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "enjoyment, benefit, provision"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْمَعْرُوفِ",
+      "transliteration": "bi-l-maʿrūfi",
+      "meaning": "with the known/acceptable (manner)",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to recognize; goodness, kindness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْمَعْرُوفِ",
+          "meaning": "the known, the good, the acceptable"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "āyah (separator)",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَقًّا",
+      "transliteration": "ḥaqqan",
+      "meaning": "a right, justly",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "truth, reality, what is established"
+      },
+      "components": [
+        {
+          "arabic": "حَقّ",
+          "meaning": "right, true"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "adverbial suffix, indicating manner or certainty (truly)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise above, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمُتَّقِينَ",
+      "transliteration": "al-muttaqīna",
+      "meaning": "the righteous, the God-fearing",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُتَّقِي",
+          "meaning": "one who fears, one who is righteous (active participle)"
+        },
+        {
+          "arabic": "ـنَ",
+          "meaning": "plural marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-for the divorced-women is provision with-the acceptable [manner] - a right justly upon the righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "verseId": "2:159",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَىٰ مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ ۙ أُولَـٰئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ",
+    "transliteration": "Inna allatheena yaktumoona ma anzalna mina albayyinati waalhuda min baAAdi ma bayyannahu lilnnasi fee alkitabi olaika yalAAanuhumu Allahu wayalAAanuhumu allaAAinoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 159
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "to be firm, to confirm, to emphasize"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, if (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be; existence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَكْتُمُونَ",
+      "transliteration": "yaktumūna",
+      "meaning": "Conceal, hide",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to conceal, hide, keep secret"
+      },
+      "components": [
+        {
+          "arabic": "يكت",
+          "meaning": "they conceal (prefix + stem)"
+        },
+        {
+          "arabic": "مون",
+          "meaning": "they (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; questioning particle"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "What, that which (relative pronoun/interrogative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَنزَلْنَا",
+      "transliteration": "ʾanzalnā",
+      "meaning": "We sent down, We revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to, that (introducing a verb)"
+        },
+        {
+          "arabic": "زَلْنَا",
+          "meaning": "we sent down, we revealed (first person plural past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْبَيِّنَاتِ",
+      "transliteration": "al-bayyināti",
+      "meaning": "The clear proofs, the evidences",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, evident, manifest"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "بَيِّنَاتِ",
+          "meaning": "clear proofs, evidences (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْهُدَىٰ",
+      "transliteration": "wa-l-hudā",
+      "meaning": "And the guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way; direction"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْهُدَىٰ",
+          "meaning": "the guidance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "After, following",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far away"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, following (noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-ا",
+        "meaning": "to be, exist; non-specific thing or entity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "بَيَّنَّاهُ",
+      "transliteration": "bayyannāhu",
+      "meaning": "We made it clear, We explained it",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, clear, evident; to explain or distinguish"
+      },
+      "components": [
+        {
+          "arabic": "بَيَّن",
+          "meaning": "We made clear, We explained"
+        },
+        {
+          "arabic": "ـاهُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "For the people, to the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go in; abundance, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "The Book, the Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "writing, recording"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۙ",
+      "transliteration": "waqf",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "و-ق-ف",
+        "meaning": "[to stop, to stand still]"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (ones), they are",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, to begin; those who come first"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (demonstrative pronoun prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Referring to a plural masculine noun; suffix indicating 'those'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَلْعَنُهُمُ",
+      "transliteration": "yalʿanuhumu",
+      "meaning": "Cursed them, will curse them",
+      "root": {
+        "letters": "ل-ع-ن",
+        "meaning": "To curse, to be lost/perish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense, and the first person singular or third person masculine singular"
+        },
+        {
+          "arabic": "لْعَنَ",
+          "meaning": "To curse"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "Them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, God",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَيَلْعَنُهُمُ",
+      "transliteration": "wa-yalʿanuhumu",
+      "meaning": "And cursed them, and will curse them",
+      "root": {
+        "letters": "ل-ع-ن",
+        "meaning": "to curse, to be lost/perish"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَلْعَنُ",
+          "meaning": "he curses, he will curse (present/future)"
+        },
+        {
+          "arabic": "هُمُ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "اللَّاعِنُونَ",
+      "transliteration": "al-lāʿinūna",
+      "meaning": "The cursers, those who curse",
+      "root": {
+        "letters": "ل-ع-ن",
+        "meaning": "to curse, to reject, to disapprove"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَاعِنُونَ",
+          "meaning": "cursers, those who curse (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-those-who conceal-what We-sent-down of-the-clear-proofs and-the-guidance after-what We-made-it-clear for-the-people in-the-Book [pause] Those-ones cursed-them Allah and-cursed-them the-cursers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

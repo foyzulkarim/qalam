@@ -1,0 +1,598 @@
+{
+  "verseId": "2:237",
+  "verse": {
+    "arabic": "وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّا أَن يَعْفُونَ أَوْ يَعْفُوَ الَّذِي بِيَدِهِ عُقْدَةُ النِّكَاحِ ۚ وَأَن تَعْفُوا أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا الْفَضْلَ بَيْنَكُمْ ۚ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "transliteration": "Wain tallaqtumoohunna min qabli an tamassoohunna waqad faradtum lahunna fareedatan fanisfu ma faradtum illa an yaAAfoona aw yaAAfuwa allathee biyadihi AAuqdatu alnnikahi waan taAAfoo aqrabu lilttaqwa wala tansawoo alfadla baynakum inna Allaha bima taAAmaloona baseerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 237
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِن",
+      "transliteration": "waʾin",
+      "meaning": "and if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also used to indicate condition or state"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَلَّقْتُمُوهُنَّ",
+      "transliteration": "ṭallaqtumūhunna",
+      "meaning": "you divorced them",
+      "root": {
+        "letters": "ط-ل-ق",
+        "meaning": "to release, to divorce"
+      },
+      "components": [
+        {
+          "arabic": "طَلَّقْتُم",
+          "meaning": "you divorced (masculine plural)"
+        },
+        {
+          "arabic": "وهُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن قَبْلِ",
+      "transliteration": "min qabli",
+      "meaning": "before",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "قَبْلِ",
+          "meaning": "before (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن تَمَسُّوهُنَّ",
+      "transliteration": "ʾan tamassūhunna",
+      "meaning": "that you touch them",
+      "root": {
+        "letters": "م-س-س",
+        "meaning": "to touch, feel, handle"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, in order that"
+        },
+        {
+          "arabic": "تَمَسُّوهُنَّ",
+          "meaning": "you touch them (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَقَدْ",
+      "transliteration": "wa qad",
+      "meaning": "and already",
+      "root": {
+        "letters": "ق-د-ع",
+        "meaning": "to be able, to have power, to accomplish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "already, indeed (expressing completion)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَرَضْتُمْ",
+      "transliteration": "faraḍtum",
+      "meaning": "you specified/obligated",
+      "root": {
+        "letters": "ض-ر-ع",
+        "meaning": "to impose, to need, to ask earnestly"
+      },
+      "components": [
+        {
+          "arabic": "فَر",
+          "meaning": "prefix indicating completion or intensity"
+        },
+        {
+          "arabic": "ضْتُمْ",
+          "meaning": "you (plural) - verb suffix indicating second person plural past tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَهُنَّ",
+      "transliteration": "lahunna",
+      "meaning": "for them (feminine plural)",
+      "root": {
+        "letters": "ل-هـ-ن",
+        "meaning": "to belong, to possess; for/to (preposition indicating beneficiary)"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for/to (preposition)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "they (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَرِيضَةً",
+      "transliteration": "farīḍatan",
+      "meaning": "an obligation/specified amount",
+      "root": {
+        "letters": "ف-ر-ض",
+        "meaning": "to impose, to prescribe, to determine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَنِصْفُ",
+      "transliteration": "fa niṣfu",
+      "meaning": "then half of",
+      "root": {
+        "letters": "ن-ص-ف",
+        "meaning": "to divide in half, portion, share"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "نِصْفُ",
+          "meaning": "half"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, what"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَرَضْتُمْ",
+      "transliteration": "faraḍtum",
+      "meaning": "you specified/obligated",
+      "root": {
+        "letters": "ض-ر-ع",
+        "meaning": "to need, to ask; to impose, to legislate"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "prefix indicating first person plural active voice"
+        },
+        {
+          "arabic": "رَضِ",
+          "meaning": "root related to imposing an obligation"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "suffix indicating first person plural active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to deny"
+      },
+      "components": [
+        {
+          "arabic": "إِل",
+          "meaning": "to approach, to draw near (often with negation)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "a negative particle, except"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَن يَعْفُونَ",
+      "transliteration": "ʾan yaʿfūna",
+      "meaning": "that they forgive/forego (right)",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to pardon, to forgive, to remit"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, in order that"
+        },
+        {
+          "arabic": "يَعْفُونَ",
+          "meaning": "they forgive (present subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire; or to be in a state of possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "يَعْفُوَ",
+      "transliteration": "yaʿfuwa",
+      "meaning": "he forgives/foregoes (right)",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to pardon, to remit, to overlook"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third-person singular masculine"
+        },
+        {
+          "arabic": "عَفُوَ",
+          "meaning": "forgiveness, remission"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "the one who",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership; having quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "one who possesses, owner of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِيَدِهِ",
+      "transliteration": "bi yadihi",
+      "meaning": "in his hand",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; hand"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "يَدِهِ",
+          "meaning": "his hand"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "عُقْدَةُ",
+      "transliteration": "ʿuqdatu",
+      "meaning": "the tie/contract (of marriage)",
+      "root": {
+        "letters": "ع-ق-د",
+        "meaning": "to tie, to bind, to knot; to resolve a difficulty"
+      },
+      "components": [
+        {
+          "arabic": "عَقْدَةٌ",
+          "meaning": "knot, tie; contract (marriage)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "النِّكَاحِ",
+      "transliteration": "an-nikāḥi",
+      "meaning": "the marriage",
+      "root": {
+        "letters": "ن-ك-ح",
+        "meaning": "to have sexual intercourse; to marry, union"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَأَن تَعْفُوا",
+      "transliteration": "wa ʾan taʿfū",
+      "meaning": "and that you forgive/forego (right)",
+      "root": {
+        "letters": "ع-ف-و",
+        "meaning": "to pardon, to forgive, to omit; removal of blame or fault"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَن",
+          "meaning": "that (conjunction introducing a noun clause)"
+        },
+        {
+          "arabic": "تَعْفُوا",
+          "meaning": "you forgive (verb, subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "أَقْرَبُ",
+      "transliteration": "ʾaqrabu",
+      "meaning": "is nearer",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "لِلتَّقْوَىٰ",
+      "transliteration": "lit-taqwā",
+      "meaning": "to righteousness/piety",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, be cautious"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "تَّقْوَىٰ",
+          "meaning": "righteousness, piety"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, or negation/absence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "تَنسَوُا",
+      "transliteration": "tansaw",
+      "meaning": "you forget",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine plural present tense"
+        },
+        {
+          "arabic": "نَسَوُا",
+          "meaning": "you (masculine plural) forgot"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الْفَضْلَ",
+      "transliteration": "al-faḍla",
+      "meaning": "the graciousness/kindness",
+      "root": {
+        "letters": "ف-ض-ل",
+        "meaning": "to exceed, to be superior; generosity, abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "بَيْنَكُمْ",
+      "transliteration": "baynakum",
+      "meaning": "between you (plural)",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be between, to separate, distinction"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "ۚ",
+      "transliteration": "āyah (separator)",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed/verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces an emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "To worship, deity; the object of adoration."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "بِمَا",
+      "transliteration": "bi mā",
+      "meaning": "with what/by that which",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be/exist, quality of being"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with/by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do/work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to perform"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix denoting 'you (plural)'"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing, work, action"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix denoting 'you (plural)' verb ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "بَصِيرٌ",
+      "transliteration": "baṣīrun",
+      "meaning": "Seeing/Aware",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to be aware, to understand"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if you divorce-them before that you touch-them and already you specified for-them an obligation then half-of what you specify unless that they forgive or he forgives the one who in his hand is tie-of marriage [pause marker] and that you forgive is nearer to righteousness [pause marker] and do-not you forget graciousness between-you indeed Allah by what you do Seeing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

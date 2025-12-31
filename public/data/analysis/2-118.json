@@ -1,0 +1,445 @@
+{
+  "verseId": "2:118",
+  "verse": {
+    "arabic": "وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ ۗ كَذَٰلِكَ قَالَ الَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَابَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا الْآيَاتِ لِقَوْمٍ يُوقِنُونَ",
+    "transliteration": "Waqala allatheena la yaAAlamoona lawla yukallimuna Allahu aw tateena ayatun kathalika qala allatheena min qablihim mithla qawlihim tashabahat quloobuhum qad bayyanna alayati liqawmin yooqinoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 118
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَقَالَ",
+      "transliteration": "wa-qāla",
+      "meaning": "and he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا يَعْلَمُونَ",
+      "transliteration": "lā yaʿlamūna",
+      "meaning": "do not know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "يَعْلَمُونَ",
+          "meaning": "they know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَوْلَا",
+      "transliteration": "lawlā",
+      "meaning": "if only/why not",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to want, to desire; to regret (when negated)"
+      },
+      "components": [
+        {
+          "arabic": "لَوْ",
+          "meaning": "if; were it not for"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not; negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُكَلِّمُنَا",
+      "transliteration": "yukallimunā",
+      "meaning": "He speaks to us",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word, to speak"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix indicating the third person masculine singular)"
+        },
+        {
+          "arabic": "كَلِّم",
+          "meaning": "speak (imperative/verbal noun form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix indicating the first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire; or (as a conjunction)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَأْتِينَا",
+      "transliteration": "taʾtīnā",
+      "meaning": "comes to us",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating 'you (feminine singular)'"
+        },
+        {
+          "arabic": "أَتـ",
+          "meaning": "root for 'to come'"
+        },
+        {
+          "arabic": "~نَا",
+          "meaning": "pronoun suffix indicating 'to us'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "آيَةٌ",
+      "transliteration": "āyah[un]",
+      "meaning": "a sign",
+      "root": {
+        "letters": "أ-ي-و",
+        "meaning": "to return, sign, miracle, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۗ",
+      "transliteration": "pause particle",
+      "meaning": "pause",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَذَٰلِكَ",
+      "transliteration": "kad̲h̲ālika",
+      "meaning": "like that/thus",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to guide; relating to the demonstrative pronoun 'that'"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "demonstrative particle, 'like'"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, utter, narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to own; relative pronoun indicating belonging or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِن قَبْلِهِم",
+      "transliteration": "min qablihim",
+      "meaning": "before them",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept (often with a negative connotation)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "قَبْلِهِم",
+          "meaning": "before them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِّثْلَ",
+      "transliteration": "mithla",
+      "meaning": "like/similar to",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "to resemble, be like, have the same qualities as"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "قَوْلِهِمْ",
+      "transliteration": "qawlihim",
+      "meaning": "their saying/speech",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَوْل",
+          "meaning": "saying, speech"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۘ",
+      "transliteration": "pause particle",
+      "meaning": "pause",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تَشَابَهَتْ",
+      "transliteration": "tashābahat",
+      "meaning": "resembled/became similar",
+      "root": {
+        "letters": "ش-ب-ه",
+        "meaning": "resemblance, similarity"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating past tense and passive voice (form X)"
+        },
+        {
+          "arabic": "شَابَهَ",
+          "meaning": "to resemble, to be similar"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular suffix (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "قُلُوبُهُمْ",
+      "transliteration": "qulūbuhum",
+      "meaning": "their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns over and changes (in state)"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۗ",
+      "transliteration": "pause particle",
+      "meaning": "pause",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "certainly/indeed",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to precede"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "بَيَّنَّا",
+      "transliteration": "bayyanā",
+      "meaning": "We made clear/explained",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, clear, evident; to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "بَيَّن",
+          "meaning": "to make clear, to explain"
+        },
+        {
+          "arabic": "ـنَا",
+          "meaning": "first-person plural pronoun suffix (we)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "الْآيَاتِ",
+      "transliteration": "al-āyāti",
+      "meaning": "the signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, miracle, verse; to be a sign"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آيَاتِ",
+          "meaning": "signs (plural of آية)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "لِقَوْمٍ",
+      "transliteration": "liqawmin",
+      "meaning": "for a people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to establish; a people, tribe, nation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "قَوْمٍ",
+          "meaning": "a people, tribe, nation (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "يُوقِنُونَ",
+      "transliteration": "yuʾqinūna",
+      "meaning": "who are certain/have faith",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "to be certain, to know with assurance, to have faith"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense and first person plural (they)"
+        },
+        {
+          "arabic": "قِنُ",
+          "meaning": "certainty, faith (from the root ي-ق-ن)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating first person plural (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-said those-who not know if-only speaks-to-us Allah or comes-to-us sign thus said those-who from before-them like their-saying resembled hearts-their certainly explained the-signs for people who are-certain"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

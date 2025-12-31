@@ -1,0 +1,164 @@
+{
+  "verseId": "2:238",
+  "verse": {
+    "arabic": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ",
+    "transliteration": "Hafithoo AAala alssalawati waalssalati alwusta waqoomoo lillahi qaniteena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 238
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَافِظُوا",
+      "transliteration": "ḥāfiẓū",
+      "meaning": "Preserve, protect, maintain",
+      "root": {
+        "letters": "ح-ف-ظ",
+        "meaning": "To safeguard, to protect, to watch over"
+      },
+      "components": [
+        {
+          "arabic": "حَفِظَ",
+          "meaning": "To preserve, to protect"
+        },
+        {
+          "arabic": "-ُوا",
+          "meaning": "A suffix indicating plural imperative (command)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over, regarding",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الصَّلَوَاتِ",
+      "transliteration": "aṣ-ṣalawāti",
+      "meaning": "The prayers (plural)",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to perform religious rites"
+      },
+      "components": [
+        {
+          "arabic": "الصَّلَوَاتِ",
+          "meaning": "The prayers (plural, definite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّلَاةِ",
+      "transliteration": "aṣ-ṣalāti",
+      "meaning": "The prayer (singular)",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to make supplication, to connect"
+      },
+      "components": [
+        {
+          "arabic": "اَل-",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "صَلَاةٍ",
+          "meaning": "Prayer"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْوُسْطَىٰ",
+      "transliteration": "al-wusṭā",
+      "meaning": "The middle (one)",
+      "root": {
+        "letters": "و-س-ط",
+        "meaning": "To be in the middle; to mediate; central position."
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The definite article."
+        },
+        {
+          "arabic": "وُسْطَىٰ",
+          "meaning": "Middle (feminine).  Refers to the middle one, often understood as a woman or the middle of things."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قُومُوا",
+      "transliteration": "qūmū",
+      "meaning": "Stand up, arise",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to be upright"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لِلَّهِ",
+      "transliteration": "li-llāhi",
+      "meaning": "For Allah, to Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, godhood, divinity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "قَانِتِينَ",
+      "transliteration": "qānitīn",
+      "meaning": "Devoutly obedient, submissive",
+      "root": {
+        "letters": "ق-و-ن",
+        "meaning": "To stand in obedience, to be devout"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Preserve-you upon the-prayers and the-prayer the-middle-one and stand up for-Allah devoutly-obedient"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "verseId": "2:72",
+  "verse": {
+    "arabic": "وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ",
+    "transliteration": "Waith qataltum nafsan faiddaratum feeha waAllahu mukhrijun ma kuntum taktumoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 72
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when / and behold",
+      "root": {
+        "letters": "و-ذ-ه",
+        "meaning": "to perceive, to be aware of, to witness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when / behold (particle of time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَتَلْتُمْ",
+      "transliteration": "qatal-tum",
+      "meaning": "you killed",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "قَتَل",
+          "meaning": "you killed (past tense, verb form)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَفْسًا",
+      "transliteration": "naf-san",
+      "meaning": "a soul / a person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath, life force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَادَّارَأْتُمْ",
+      "transliteration": "faʾadārāʾtum",
+      "meaning": "then you disputed / and then you quarreled among yourselves",
+      "root": {
+        "letters": "د-ر-أ",
+        "meaning": "to turn away, to repel, to avoid"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "ادَّارَأْتُمْ",
+          "meaning": "you disputed, you quarreled (mutual reciprocal)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "over it / about it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "contain, encompass, be in/at"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, at, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign; miracle; verse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallaahu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مُخْرِجٌ",
+      "transliteration": "mukhrijun",
+      "meaning": "bringer forth / one who will expose",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come forth, to produce"
+      },
+      "components": [
+        {
+          "arabic": "مُخْرِ",
+          "meaning": "active participle stem indicating the one who performs the action of the root"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "tanwīn al-fatḥ, indicating indefinite nominative singular masculine gender"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "that which / what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were (basic verb form)"
+        },
+        {
+          "arabic": "-تُم",
+          "meaning": "second person plural masculine suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَكْتُمُونَ",
+      "transliteration": "taktumūna",
+      "meaning": "you conceal / you hide",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to conceal, to hide, to cover up"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "كَتُم",
+          "meaning": "root indicating concealment or hiding"
+        },
+        {
+          "arabic": "~ُونَ",
+          "meaning": "suffix indicating the second person masculine plural present/future active voice"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when you-killed a-soul then-you-disputed over-it pause and-Allah bringer-forth that-which you-were concealing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "verseId": "2:16",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ فَمَا رَبِحَت تِّجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ",
+    "transliteration": "Olaika allatheena ishtarawoo alddalalata bialhuda fama rabihat tijaratuhum wama kanoo muhtadeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, to precede; origin, beginning"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (initial demonstrative element)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Suffix indicating plural and gender (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Who (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "who, those who (relative pronoun with plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اشْتَرَوُا",
+      "transliteration": "ishtarawū",
+      "meaning": "They purchased",
+      "root": {
+        "letters": "ش-ر-ي",
+        "meaning": "to purchase, to buy, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "اِشْتَ",
+          "meaning": "intensive prefix indicating a strong or frequent action"
+        },
+        {
+          "arabic": "رَ",
+          "meaning": "middle radical reinforcing the root meaning"
+        },
+        {
+          "arabic": "وُ",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الضَّلَالَةَ",
+      "transliteration": "al-ḍalālah",
+      "meaning": "The error/misguidance",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to stray, to err, to go astray"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ضلالة",
+          "meaning": "Error, misguidance (noun derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْهُدَىٰ",
+      "transliteration": "bi-l-hudā",
+      "meaning": "With/in exchange for the guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide; to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "بِـ",
+          "meaning": "with, in exchange for"
+        },
+        {
+          "arabic": "الْـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هُدًى",
+          "meaning": "guidance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "So not/Then no...",
+      "root": {
+        "letters": "ن-م-و",
+        "meaning": "growth, increase, emergence"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "not, nothing (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَبِحَت",
+      "transliteration": "rabiḥat",
+      "meaning": "Profited/Gained (benefit)",
+      "root": {
+        "letters": "ر-ب-ح",
+        "meaning": "to obtain, to gain possession; to have success or profit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تِّجَارَتُهُمْ",
+      "transliteration": "tijāratuhum",
+      "meaning": "Their trade/transaction",
+      "root": {
+        "letters": "ت-ج-ر",
+        "meaning": "to trade, to sell, commerce"
+      },
+      "components": [
+        {
+          "arabic": "تِ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَارَة",
+          "meaning": "trade, transaction (masculine singular)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "And not/Nor...",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "Were they (they used to be)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist; becoming, state of being"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Pronoun suffix indicating 'they'"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "Imperfect tense marker for plural (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مُهْتَدِينَ",
+      "transliteration": "muhtadīna",
+      "meaning": "Guided (ones)",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "مُهْتَ",
+          "meaning": "passive participle prefix indicating 'guided'"
+        },
+        {
+          "arabic": "دِينَ",
+          "meaning": "plural ending indicating 'ones'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-ones the-who they-purchased the-error with/for-the guidance so-not profited their-trade and-not were-they guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

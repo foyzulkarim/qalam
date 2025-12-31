@@ -1,0 +1,338 @@
+{
+  "verseId": "2:38",
+  "verse": {
+    "arabic": "قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "transliteration": "Qulna ihbitoo minha jameeAAan faimma yatiyannakum minnee hudan faman tabiAAa hudaya fala khawfun AAalayhim wala hum yahzanoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْنَا",
+      "transliteration": "qulnā",
+      "meaning": "We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قُلْ",
+          "meaning": "Say!"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اهْبِطُوا",
+      "transliteration": "ihbiṭū",
+      "meaning": "Go down",
+      "root": {
+        "letters": "ه-ب-ط",
+        "meaning": "to descend, to go down"
+      },
+      "components": [
+        {
+          "arabic": "اهـ",
+          "meaning": "vocative particle (calling attention)"
+        },
+        {
+          "arabic": "بِطُوا",
+          "meaning": "go down (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "From it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate from, to be derived from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَمِيعًا",
+      "transliteration": "jamīʿan",
+      "meaning": "All of you",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather completely"
+      },
+      "components": [
+        {
+          "arabic": "جَمِيع",
+          "meaning": "all, entire"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-fatḥ for indefinite accusative plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[conjunction - and]",
+      "root": {
+        "letters": "ف-و-ص",
+        "meaning": "to separate, to distinguish, to join (in this case indicating connection)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "and, then (conjunction)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَإِمَّا",
+      "transliteration": "fa-ʾimmā",
+      "meaning": "Then if/And when",
+      "root": {
+        "letters": "ا-م-م",
+        "meaning": "to intend, to desire, to proceed with"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِمَّا",
+          "meaning": "if, when, then (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَأْتِيَنَّكُم",
+      "transliteration": "yaʾtiyakum",
+      "meaning": "Comes to you (emphatic)",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to come, to visit, to happen"
+      },
+      "components": [
+        {
+          "arabic": "يَأْتِ",
+          "meaning": "He comes/will come (verb base)"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "Emphatic particle (final vowel and nun)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "To you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مِّنِّي",
+      "transliteration": "minnī",
+      "meaning": "From Me",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "origin, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "Me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "هُدًى",
+      "transliteration": "hudan",
+      "meaning": "Guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "Then whoever/And who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, to have the quality of"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَبِعَ",
+      "transliteration": "tabiʿa",
+      "meaning": "Followed",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to trace"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "هُدَايَ",
+      "transliteration": "hudāya",
+      "meaning": "My guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "[conjunction - then not]",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, therefore (introduces a result or consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "خَوْفٌ",
+      "transliteration": "khawfun",
+      "meaning": "Fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "To fear, to be afraid; apprehension."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; also pertaining to elevation or guardianship"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above; preposition indicating location or relation"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "[conjunction - and not]",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, not"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "هـ-مـ-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَحْزَنُونَ",
+      "transliteration": "yaḥzanūn",
+      "meaning": "They will grieve",
+      "root": {
+        "letters": "ح-ز-ن",
+        "meaning": "sorrow, grief, sadness"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "They (masculine plural prefix)"
+        },
+        {
+          "arabic": "حَزَنُـ",
+          "meaning": "grief, sadness (verbal noun)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "indicates present/future active plural suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We-said - Go-down - From-it - All-of-you - [and] - Then-if/And-when - Comes-to-you-(emphatic) - From-Me - Guidance - Then-whoever - Followed - My-guidance - [then]-not - Fear - Upon-them - [and]-not - They - They-will-grieve"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

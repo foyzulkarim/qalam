@@ -1,0 +1,441 @@
+{
+  "verseId": "2:60",
+  "verse": {
+    "arabic": "وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِب بِّعَصَاكَ الْحَجَرَ ۖ فَانفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا وَاشْرَبُوا مِن رِّزْقِ اللَّهِ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+    "transliteration": "Waithi istasqa moosa liqawmihi faqulna idrib biAAasaka alhajara fainfajarat minhu ithnata AAashrata AAaynan qad AAalima kullu onasin mashrabahum kuloo waishraboo min rizqi Allahi wala taAAthaw fee alardi mufsideena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 60
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذِ",
+      "transliteration": "waʾidhi",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to come, to happen; time"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when; at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اسْتَسْقَىٰ",
+      "transliteration": "istasqā",
+      "meaning": "he sought water",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to drink, to water, to ask for something"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "to seek, to request (intensive prefix)"
+        },
+        {
+          "arabic": "سَقَىٰ",
+          "meaning": "he gave to drink, he watered"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "weakness, feebleness; to draw water, extract"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِقَوْمِهِ",
+      "transliteration": "li-qawmihi",
+      "meaning": "for his people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to establish; a people, tribe, nation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "قَوْمِهِ",
+          "meaning": "his people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَقُلْنَا",
+      "transliteration": "fa-qulnā",
+      "meaning": "so We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, saying"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "قُلْنَا",
+          "meaning": "We said (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اضْرِب",
+      "transliteration": "iḍrib",
+      "meaning": "strike!",
+      "root": {
+        "letters": "ض-ر-ب",
+        "meaning": "to strike, to hit, to beat, to knock"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِّعَصَاكَ",
+      "transliteration": "bi-ʿaṣāka",
+      "meaning": "with your staff",
+      "root": {
+        "letters": "ع-ص-ا",
+        "meaning": "to seek help, to support, to rely upon"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عَصَاكَ",
+          "meaning": "your staff"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْحَجَرَ",
+      "transliteration": "al-ḥajara",
+      "meaning": "the stone",
+      "root": {
+        "letters": "ح-ج-ر",
+        "meaning": "firmness, solidity; to prevent or restrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَانفَجَرَتْ",
+      "transliteration": "fa-nfajaraat",
+      "meaning": "so it gushed forth",
+      "root": {
+        "letters": "ن-ج-ر",
+        "meaning": "to flow forth, to erupt, to spring up"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "انْـ",
+          "meaning": "indicates past tense and is a prefix for the verb"
+        },
+        {
+          "arabic": "فَجَرَتْ",
+          "meaning": "gushed forth (verb in the feminine singular past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from, pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "اثْنَتَا عَشْرَةَ",
+      "transliteration": "ithnatā ʿashrata",
+      "meaning": "twelve",
+      "root": {
+        "letters": "ث-ن-ى",
+        "meaning": "to be two; duality, pair"
+      },
+      "components": [
+        {
+          "arabic": "اثْنَتَا",
+          "meaning": "dual form of two (feminine)"
+        },
+        {
+          "arabic": "عَشْرَةَ",
+          "meaning": "ten"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "عَيْنًا",
+      "transliteration": "ʿaynan",
+      "meaning": "springs (plural)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye, source, spring"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "indeed, certainly",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to come forward"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَلِمَ",
+      "transliteration": "ʿalima",
+      "meaning": "knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كُلُّ",
+      "transliteration": "kullu",
+      "meaning": "every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, wholeness, all"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أُنَاسٍ",
+      "transliteration": "unāsin",
+      "meaning": "people (plural)",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly; humanity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مَّشْرَبَهُمْ",
+      "transliteration": "mashrabahum",
+      "meaning": "their watering place",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink; to imbibe"
+      },
+      "components": [
+        {
+          "arabic": "مَشْرَب",
+          "meaning": "a place for drinking; a watering trough"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "their (masculine plural possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كُلُوا",
+      "transliteration": "kulū",
+      "meaning": "Eat!",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَاشْرَبُوا",
+      "transliteration": "washrabū",
+      "meaning": "and drink!",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorb"
+      },
+      "components": [
+        {
+          "arabic": "وا",
+          "meaning": "and"
+        },
+        {
+          "arabic": "شْرَبُوا",
+          "meaning": "they drank (verb, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مِن رِّزْقِ",
+      "transliteration": "min rizqi",
+      "meaning": "from the provision of",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "provision, sustenance, livelihood"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رِّزْقِ",
+          "meaning": "the provision"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to be worshipped; divinity; godhood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَلَا تَعْثَوْا",
+      "transliteration": "walā taʿthaw",
+      "meaning": "and do not commit abuse",
+      "root": {
+        "letters": "ع-ث-و",
+        "meaning": "to transgress, to oppress, to be insolent or abusive"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not (negative particle)"
+        },
+        {
+          "arabic": "تَعْثَوْا",
+          "meaning": "you (plural) do not commit abuse"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فِي الْأَرْضِ",
+      "transliteration": "fi al-ʾarḍi",
+      "meaning": "in the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "earth, land, ground; to be wide or expansive"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مُفْسِدِينَ",
+      "transliteration": "mufsidīn",
+      "meaning": "corruptors (plural)",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "to be corrupt, spoiled, ruined; to break or destroy"
+      },
+      "components": [
+        {
+          "arabic": "مُفْسِد",
+          "meaning": "corruptor (singular), one who spoils or ruins"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural ending, indicating a group of corruptors"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when he-sought water Moses for-his-people so-We-said strike with-your-staff the-stone [pause] so-it-gushed-forth from-it twelve springs [pause] indeed knew every people their-watering-place [pause] Eat! and-drink! from provision-of Allah and-not commit-abuse in the earth corruptors"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
