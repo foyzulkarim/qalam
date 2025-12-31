@@ -1,0 +1,202 @@
+{
+  "verseId": "2:37",
+  "verse": {
+    "arabic": "فَتَلَقَّىٰ آدَمُ مِن رَّبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+    "transliteration": "Fatalaqqa adamu min rabbihi kalimatin fataba AAalayhi innahu huwa alttawwabu alrraheemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَتَلَقَّىٰ",
+      "transliteration": "fatalaqqā",
+      "meaning": "Then he received, so he took",
+      "root": {
+        "letters": "ت-ل-ق",
+        "meaning": "to receive, to take, to meet"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "Then, so"
+        },
+        {
+          "arabic": "تَلَقَّىٰ",
+          "meaning": "he received, he took"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آدَمُ",
+      "transliteration": "ʾādamu",
+      "meaning": "Adam",
+      "root": {
+        "letters": "أ-د-م",
+        "meaning": "to mold, to fashion, to create; redness of earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَّبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رب",
+          "meaning": "Lord, master"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَلِمَاتٍ",
+      "transliteration": "kalimātin",
+      "meaning": "words",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَتَابَ",
+      "transliteration": "fatāba",
+      "meaning": "Then He accepted repentance (or: Then he repented)",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate, to rise"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۚ",
+      "transliteration": "lā tāʿrifu maʿnāha",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahu",
+      "meaning": "Indeed, He is",
+      "root": {
+        "letters": "هـ-و-ء",
+        "meaning": "existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to be; existence, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "التَّوَّابُ",
+      "transliteration": "at-tawwābu",
+      "meaning": "the Accepting of repentance, the Relenting",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": [
+        {
+          "arabic": "التَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وَّابُ",
+          "meaning": "the one who repeatedly returns/repents (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "ar-raḥīmu",
+      "meaning": "the Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion; to be merciful, tender; kindness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "رَّحِيمُ",
+          "meaning": "Merciful, Compassionate (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-he-received Adam from-his Lord words then-He-accepted repentance upon-him Indeed-He is He the-Accepting-of-repentance the-Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "verseId": "2:225",
+  "verse": {
+    "arabic": "لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَـٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ",
+    "transliteration": "La yuakhithukumu Allahu biallaghwi fee aymanikum walakin yuakhithukum bima kasabat quloobukum waAllahu ghafoorun haleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 225
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُؤَاخِذُكُمُ",
+      "transliteration": "yu’ākhidhukum",
+      "meaning": "He takes you to account/blames you",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to grasp; also to accept or receive"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun suffix indicating 3rd person masculine singular)"
+        },
+        {
+          "arabic": "آخِذُ",
+          "meaning": "taker, one who accounts/blames"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to be worshipped; divinity; the act of devotion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِاللَّغْوِ",
+      "transliteration": "bi-l-laghwi",
+      "meaning": "with the unintentional speech/slip of the tongue",
+      "root": {
+        "letters": "ل-غ-و",
+        "meaning": "to be futile, vain, or to deviate from truth"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "اللَّغْوِ",
+          "meaning": "the unintentional speech/slip of the tongue; futility"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَيْمَانِكُمْ",
+      "transliteration": "aymānikum",
+      "meaning": "your oaths",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "strength, reliability, right hand; to swear an oath"
+      },
+      "components": [
+        {
+          "arabic": "أَيْمَانِ",
+          "meaning": "oaths"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ا-د",
+        "meaning": "to unite, to join, to connect; also love and affection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَـٰكِن",
+      "transliteration": "lākin",
+      "meaning": "but/however",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hiddenness, concealment"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation"
+        },
+        {
+          "arabic": "كِن",
+          "meaning": "to be, to exist (in a concealed state)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُؤَاخِذُكُم",
+      "transliteration": "yu’ākhidhukum",
+      "meaning": "He takes you to account/blames you",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to receive, to hold, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (pronoun prefix indicating 3rd person masculine singular)"
+        },
+        {
+          "arabic": "آخِذ",
+          "meaning": "taker, one who holds accountable"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (pronoun suffix indicating plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what/for what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also related to questioning and relativity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَسَبَتْ",
+      "transliteration": "kasabat",
+      "meaning": "earned/acquired",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to strive, to earn, to gain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قُلُوبُكُمْ",
+      "transliteration": "qulūbukum",
+      "meaning": "your hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural of قلب)"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۗ",
+      "transliteration": "tashdīd/pause",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-و",
+        "meaning": "to be worshipped, deity, the Divine"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūrun",
+      "meaning": "Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "حَلِيمٌ",
+      "transliteration": "ḥalīmun",
+      "meaning": "Forbearing",
+      "root": {
+        "letters": "ح-ل-م",
+        "meaning": "Mildness, gentleness, forbearance; to be lenient or patient."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Not-takes-you-to-account Allah with-the-unintentional-speech in oaths-of-yours and-but takes-you-to-account with-what earned hearts-of-yours. And-Allah Forgiving Forbearing."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

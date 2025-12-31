@@ -1,0 +1,630 @@
+{
+  "verseId": "2:283",
+  "verse": {
+    "arabic": "وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَّقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ ۗ وَلَا تَكْتُمُوا الشَّهَادَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+    "transliteration": "Wain kuntum AAala safarin walam tajidoo katiban farihanun maqboodatun fain amina baAAdukum baAAdan falyuaddi allathee itumina amanatahu walyattaqi Allaha rabbahu wala taktumoo alshshahadata waman yaktumha fainnahu athimun qalbuhu waAllahu bima taAAmaloona AAaleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 283
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِن",
+      "transliteration": "waʾin",
+      "meaning": "and if",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also implies uncertainty or conditionality"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِن",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were/are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "to be, to exist (root form)"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "you (masculine plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon/on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَفَرٍ",
+      "transliteration": "safarin",
+      "meaning": "a journey",
+      "root": {
+        "letters": "س-ف-ر",
+        "meaning": "to travel, to go on a journey; lightness, clearness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَلَمْ",
+      "transliteration": "wa lam",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-م-د",
+        "meaning": "to desire, to will, to refuse"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not, did not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَجِدُوا",
+      "transliteration": "tajidū",
+      "meaning": "you find",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to seek, to find, to obtain"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "جِد",
+          "meaning": "to find, to seek"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating the second person masculine plural pronoun (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَاتِبًا",
+      "transliteration": "kātiban",
+      "meaning": "a scribe",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَرِهَانٌ",
+      "transliteration": "farīḥānun",
+      "meaning": "a security deposit/pledge",
+      "root": {
+        "letters": "ف-ر-ح",
+        "meaning": "joy, gladness; to be happy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَّقْبُوضَةٌ",
+      "transliteration": "maqbūḍatun",
+      "meaning": "taken/held in custody",
+      "root": {
+        "letters": "ق-ب-ض",
+        "meaning": "to grasp, to take hold of, to seize"
+      },
+      "components": [
+        {
+          "arabic": "مَقبُوضَة",
+          "meaning": "taken, held in custody (feminine passive participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۖ",
+      "transliteration": "silent pause",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "فَإِنْ",
+      "transliteration": "faʾin",
+      "meaning": "then if/so if",
+      "root": {
+        "letters": "إ-نّ",
+        "meaning": "affirmation, confirmation, or establishing truth"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, so if (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "أَمِنَ",
+      "transliteration": "ʾamina",
+      "meaning": "trusted/felt secure",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "safety, security, trustworthiness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَعْضُكُم",
+      "transliteration": "baʿḍukum",
+      "meaning": "some of you",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, portion out; a part or share"
+      },
+      "components": [
+        {
+          "arabic": "بَعْض",
+          "meaning": "a part, portion; some"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بَعْضًا",
+      "transliteration": "baʿḍan",
+      "meaning": "one another/some",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate, portion out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَلْيُؤَدِّ",
+      "transliteration": "fal-yuʾaddi",
+      "meaning": "then let him pay/discharge",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to return, to fulfill, to deliver, to pay"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "يُـ",
+          "meaning": "indicates the subjunctive mood, and a third person singular masculine subject (he)"
+        },
+        {
+          "arabic": "أَدَّى",
+          "meaning": "to pay, to fulfill, to deliver"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "the one who/that which",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, right"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "the one who/that which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "اُؤْتُمِنَ",
+      "transliteration": "ʾutumina",
+      "meaning": "was entrusted",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "trust, security, safety"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "verbal prefix indicating past tense, 3rd person masculine singular"
+        },
+        {
+          "arabic": "مِنَ",
+          "meaning": "from, entrusted to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَمَانَتَهُ",
+      "transliteration": "ʾamānatahu",
+      "meaning": "his trust/deposit",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "safety, trustworthiness, fidelity"
+      },
+      "components": [
+        {
+          "arabic": "أَمَانَة",
+          "meaning": "trust, deposit, honesty"
+        },
+        {
+          "arabic": "-هُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَلْيَتَّقِ",
+      "transliteration": "wa li-yattaqi",
+      "meaning": "and let him fear/be mindful of",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to protect, shield, or be mindful of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for/in order to"
+        },
+        {
+          "arabic": "يَتَّقِ",
+          "meaning": "he fears/is mindful of (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "رَبَّهُ",
+      "transliteration": "rabba-hu",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative case)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ۗ",
+      "transliteration": "silent pause",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny; inability or unwillingness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "تَكْتُمُوا",
+      "transliteration": "tak-tumū",
+      "meaning": "you conceal",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to hide, to conceal, to cover"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person plural masculine present tense"
+        },
+        {
+          "arabic": "كُتُم",
+          "meaning": "conceal/hide (root verb form)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "second person plural masculine suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "الشَّهَادَةَ",
+      "transliteration": "aš-šahādata",
+      "meaning": "the testimony/evidence",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, to be present"
+      },
+      "components": [
+        {
+          "arabic": "الشَّهَادَةَ",
+          "meaning": "the testimony/evidence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "ۚ",
+      "transliteration": "silent pause",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, origin, kind, type"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "يَكْتُمْهَا",
+      "transliteration": "yak-tumhā",
+      "meaning": "conceals it",
+      "root": {
+        "letters": "ك-ت-م",
+        "meaning": "to hide, conceal, suppress"
+      },
+      "components": [
+        {
+          "arabic": "يَكْتُ",
+          "meaning": "He conceals (indicates active voice, imperfect tense)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "فَإِنَّهُ",
+      "transliteration": "faʾinnahu",
+      "meaning": "then indeed he/it is",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be, exist; to become; to return (in a conditional sense)"
+      },
+      "components": [
+        {
+          "arabic": "فَإِنَّ",
+          "meaning": "then indeed; for surely"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he/it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "آثِمٌ",
+      "transliteration": "ʾāṯimun",
+      "meaning": "sinful",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to sin, to do wrong, guilt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "قَلْبُهُ",
+      "transliteration": "qalbu-hu",
+      "meaning": "his heart",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes."
+      },
+      "components": [
+        {
+          "arabic": "قلب",
+          "meaning": "heart"
+        },
+        {
+          "arabic": "ـه",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "ۗ",
+      "transliteration": "silent pause",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah; the God (name of God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what/by what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to flow, to surge; wave"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do/work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to perform"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَمَلْـ",
+          "meaning": "the root of the action (doing/working)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "عَلِيمٌ",
+      "transliteration": "ʿalīmun",
+      "meaning": "Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if you-were upon-a journey and-not you-find a-scribe then-a security-deposit taken then-if one-of-you trusted some-of-you then-let-him who-was-entrusted discharge his-trust and-let-him fear Allah his-Lord and-do-not you-conceal the-testimony and-whoever conceals-it then-indeed he sinful his-heart and-Allah with what you-do Knowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

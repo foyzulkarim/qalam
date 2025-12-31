@@ -1,0 +1,465 @@
+{
+  "verseId": "2:189",
+  "verse": {
+    "arabic": "يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ ۖ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالْحَجِّ ۗ وَلَيْسَ الْبِرُّ بِأَن تَأْتُوا الْبُيُوتَ مِن ظُهُورِهَا وَلَـٰكِنَّ الْبِرَّ مَنِ اتَّقَىٰ ۗ وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+    "transliteration": "Yasaloonaka AAani alahillati qul hiya mawaqeetu lilnnasi waalhajji walaysa albirru bian tatoo albuyoota min thuhooriha walakinna albirra mani ittaqa watoo albuyoota min abwabiha waittaqoo Allaha laAAallakum tuflihoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 189
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَسْأَلُونَكَ",
+      "transliteration": "yasʾalūna-ka",
+      "meaning": "they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "يَسْأَلُون",
+          "meaning": "they ask (masculine plural)"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "you (masculine singular, object pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concerning, about"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "about, from, with"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَهِلَّةِ",
+      "transliteration": "al-ʾahilla",
+      "meaning": "the new moons",
+      "root": {
+        "letters": "ه-ل-ل",
+        "meaning": "to change, to renew, to wax and wane"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "(pause)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate; to command (in this context)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "They (feminine)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَوَاقِيتُ",
+      "transliteration": "mawāqīt",
+      "meaning": "measurements of time",
+      "root": {
+        "letters": "و-ق-ت",
+        "meaning": "to measure, to apportion time; punctuality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-ا-س",
+        "meaning": "people, humankind; to forget (related archaic meaning)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَالْحَجِّ",
+      "transliteration": "wal-ḥajji",
+      "meaning": "and the Hajj",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to intend something great, to resort to something for necessity; specifically refers to pilgrimage"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْحَجِّ",
+          "meaning": "the Hajj (pilgrimage)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "ۗ",
+      "transliteration": "—",
+      "meaning": "(pause)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَلَيْسَ",
+      "transliteration": "walaysa",
+      "meaning": "And it is not",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be weak, deficient, or non-existent"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَيْسَ",
+          "meaning": "is not (negative existential)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْبِرُّ",
+      "transliteration": "al-birr",
+      "meaning": "the righteousness",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be pious, righteous; to do good; to excel in virtue"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بِأَن تَأْتُوا",
+      "transliteration": "biʾan taʾtū",
+      "meaning": "by that you enter",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "أَن",
+          "meaning": "that, in order that"
+        },
+        {
+          "arabic": "تَأْتُوا",
+          "meaning": "you enter, you come"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْبُيُوتَ",
+      "transliteration": "al-buyūta",
+      "meaning": "the houses",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to build, to construct; house, dwelling"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بُيُوتَ",
+          "meaning": "houses (plural of بيت)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مِن ظُهُورِهَا",
+      "transliteration": "min ẓuhūrihā",
+      "meaning": "from their backs",
+      "root": {
+        "letters": "ظ-ه-ر",
+        "meaning": "to appear, to become visible, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "ظُهُورِهَا",
+          "meaning": "their backs (specifically, the backs of animals)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَلَـٰكِنَّ",
+      "transliteration": "wa-lākinna",
+      "meaning": "But rather/However",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "To be hidden, to exist, or to be something in essence."
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And, but (conjunction)"
+        },
+        {
+          "arabic": "لَـٰكِنَّ",
+          "meaning": "But rather/However (particle of restriction)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْبِرَّ",
+      "transliteration": "al-birr",
+      "meaning": "the righteousness",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be pious, righteous; to do good; to excel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مَنِ",
+      "transliteration": "mani",
+      "meaning": "[whoever]",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to exist, to be; also related to representation or designation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "اتَّقَىٰ",
+      "transliteration": "ittaqa",
+      "meaning": "fears (Allah)",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۗ",
+      "transliteration": "—",
+      "meaning": "(pause)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَأْتُوا",
+      "transliteration": "wa-ʾtū",
+      "meaning": "And enter!",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to approach, to enter"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أْتُوا",
+          "meaning": "enter! (plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الْبُيُوتَ",
+      "transliteration": "al-buyūta",
+      "meaning": "the houses",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to build, to construct; house, dwelling"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بُيُوتَ",
+          "meaning": "houses (plural of بيت)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مِن أَبْوَابِهَا",
+      "transliteration": "min ʾabwābihā",
+      "meaning": "from their doors",
+      "root": {
+        "letters": "ب-و-ب",
+        "meaning": "to open, to have a door; entrance, way"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "أَبْوَابِ",
+          "meaning": "doors (genitive plural)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "their (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ۚ",
+      "transliteration": "—",
+      "meaning": "(pause)",
+      "root": {
+        "letters": "—",
+        "meaning": "pause or silence; not a linguistic root"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wat-taqū",
+      "meaning": "And fear!",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall into, to experience; to be affected by something negative"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear, be cautious of (imperative plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "[that you may]",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, possibly"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, that (introducing hope/purpose)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "you may hope/expect"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "تُفْلِحُونَ",
+      "transliteration": "tufl-iḥūna",
+      "meaning": "succeed",
+      "root": {
+        "letters": "ف-ل-ح",
+        "meaning": "to be well, thrive; to succeed, prosper"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person plural masculine (you - all)"
+        },
+        {
+          "arabic": "فْلِح",
+          "meaning": "success, thriving (from the root ف-ل-ح)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person plural masculine (you - all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-ask-you about the new-moons – Say! it-is they measurements of time for the people and the Hajj – And not is righteousness by that you-enter the houses from their backs – But rather it-is righteousness [whoever] fears (Allah) – And enter the houses from their doors – And fear Allah [that you may] succeed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

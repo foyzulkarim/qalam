@@ -1,0 +1,151 @@
+{
+  "verseId": "2:5",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ",
+    "transliteration": "Olaika AAala hudan min rabbihim waolaika humu almuflihoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (masculine plural)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; the initial things"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "those (demonstrative pronoun prefix, masculine plural)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating masculine plural, referring to distant entities"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend; elevation, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُدًى",
+      "transliteration": "hudan",
+      "meaning": "Guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "To guide, to show the right way, direction."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to derive, to be from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَّبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَأُولَـٰئِكَ",
+      "transliteration": "wa-ʾūlāʾika",
+      "meaning": "And those (masculine plural)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to come back; initially, foremost"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "They (pronoun)",
+      "root": {
+        "letters": "هـ-م-و",
+        "meaning": "Pronoun; to refer, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْمُفْلِحُونَ",
+      "transliteration": "al-mufliḥūna",
+      "meaning": "The successful ones",
+      "root": {
+        "letters": "ف-ل-ح",
+        "meaning": "to succeed, to prosper, to overcome"
+      },
+      "components": [
+        {
+          "arabic": "المُف",
+          "meaning": "The successful (ones)"
+        },
+        {
+          "arabic": "لحُونَ",
+          "meaning": "ones (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-are upon guidance from Lord-their and those-are they the successful-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

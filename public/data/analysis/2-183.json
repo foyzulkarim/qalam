@@ -1,0 +1,266 @@
+{
+  "verseId": "2:183",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+    "transliteration": "Ya ayyuha allatheena amanoo kutiba AAalaykumu alssiyamu kama kutiba AAala allatheena min qablikum laAAallakum tattaqoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 183
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, addressing intelligent beings)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "Interrogative/Exclamatory particle, also used to form relative pronouns and vocatives"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Vocative particle, indicating direct address"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to own; relative pronoun indicating a group"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating first person plural"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُتِبَ",
+      "transliteration": "kutiba",
+      "meaning": "was prescribed/written",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كُتِبَ",
+          "meaning": "was written, was prescribed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَلَيْكُمُ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الصِّيَامُ",
+      "transliteration": "aṣ-ṣiyāmu",
+      "meaning": "the fasting",
+      "root": {
+        "letters": "ص-ي-م",
+        "meaning": "to abstain, to fast"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "as/like",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "manner, way, how"
+      },
+      "components": [
+        {
+          "arabic": "كـ",
+          "meaning": "like, as (particle of simile)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كُتِبَ",
+      "transliteration": "kutiba",
+      "meaning": "was prescribed/written",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كُتِبَ",
+          "meaning": "was written (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to have a characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن قَبْلِكُمْ",
+      "transliteration": "min qablikum",
+      "meaning": "before you",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to accept (often implying forwardness or facing something)"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "قَبْلِكُمْ",
+          "meaning": "before you (those who were before you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَعَلَّكُمْ",
+      "transliteration": "laʿallakum",
+      "meaning": "that you may",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to hope, to expect, or to perhaps"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, that (introduces a purpose or hope)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "hope, expectation (derived from the root ع-ل-ل)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "تَتَّقُونَ",
+      "transliteration": "tattaqūn",
+      "meaning": "become righteous/pious (avoid disobedience)",
+      "root": {
+        "letters": "و-ق-ع",
+        "meaning": "to fall, to occur; in this context, 'to be firmly established (in righteousness)'"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperfect tense, 'you (plural) do'"
+        },
+        {
+          "arabic": "تـق",
+          "meaning": "second person plural (masculine) pronoun + root verb stem: to protect oneself, to fear/revere"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the imperfect tense and second person plural (masculine) pronoun."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-those who-believed-was prescribed-upon you-the fasting-as-was prescribed-upon-those who-before you-[in order]-that you may-become righteous."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

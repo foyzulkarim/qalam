@@ -1,0 +1,357 @@
+{
+  "verseId": "2:36",
+  "verse": {
+    "arabic": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ",
+    "transliteration": "Faazallahuma alshshaytanu AAanha faakhrajahuma mimma kana feehi waqulna ihbitoo baAAdukum libaAAdin AAaduwwun walakum fee alardi mustaqarrun wamataAAun ila heenin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَزَلَّهُمَا",
+      "transliteration": "faʾazalla-humā",
+      "meaning": "So He caused them to slip/stray (the two)",
+      "root": {
+        "letters": "ز-ل-ل",
+        "meaning": "to slip, to err, to stumble; to be humiliated or degraded"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle indicating sequence or consequence)"
+        },
+        {
+          "arabic": "أَ",
+          "meaning": "Prefix indicating perfect tense and active voice"
+        },
+        {
+          "arabic": "زَلَّ",
+          "meaning": "He slipped, he erred, he stumbled"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "The two of them (dual pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الشَّيْطَانُ",
+      "transliteration": "aš-šayṭānu",
+      "meaning": "The Satan/Devil",
+      "root": {
+        "letters": "ش-ط-ن",
+        "meaning": "to be extreme, deviate from the right path, or to burn/scorched; generally relating to stubborn opposition and evil"
+      },
+      "components": [
+        {
+          "arabic": "الشَّيْ",
+          "meaning": "The (definite article) + deviation, something strayed from the correct path"
+        },
+        {
+          "arabic": "طَانُ",
+          "meaning": "intensive form of the root, emphasizing a persistent state of deviation and opposition"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنْهَا",
+      "transliteration": "ʿanhā",
+      "meaning": "From it (the Garden)",
+      "root": {
+        "letters": "ع-ن-هـ",
+        "meaning": "to deviate, to turn away from, to be distant from"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأَخْرَجَهُمَا",
+      "transliteration": "faʾakhraja-humā",
+      "meaning": "So He expelled them (the two)",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to expel"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "أَخْرَجَ",
+          "meaning": "He expelled, He made to exit (verb in the perfect tense)"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "the two of them (dual pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِمَّا",
+      "transliteration": "min mā",
+      "meaning": "From what/that which",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be of/from a source or kind"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَانَا",
+      "transliteration": "kānā",
+      "meaning": "They were (the two)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "dual pronoun suffix, they (two)"
+        },
+        {
+          "arabic": "انَا",
+          "meaning": "verb ending indicating past tense, they were"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "In it (that condition)",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "To be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "In"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "It (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَقُلْنَا",
+      "transliteration": "wa-qulnā",
+      "meaning": "And We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قُلْنَا",
+          "meaning": "We said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اهْبِطُوا",
+      "transliteration": "ihbiṭū",
+      "meaning": "Go down/Descend!",
+      "root": {
+        "letters": "هـ-ب-ط",
+        "meaning": "to descend, to go down, to settle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بَعْضُكُمْ",
+      "transliteration": "baʿḍukum",
+      "meaning": "Some of you/One another",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to divide, to separate; a portion, part"
+      },
+      "components": [
+        {
+          "arabic": "بَعْض",
+          "meaning": "a part, portion, some"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لِبَعْضٍ",
+      "transliteration": "li-baʿḍin",
+      "meaning": "To some/For one another",
+      "root": {
+        "letters": "ب-ض-ع",
+        "meaning": "to possess a portion, to have part of something"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "بَعْضٍ",
+          "meaning": "a portion, part of something"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَدُوٌّ",
+      "transliteration": "ʿaduwwun",
+      "meaning": "Enemies",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, enemy; to oppose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَلَكُمْ",
+      "transliteration": "wa-lakum",
+      "meaning": "And for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for (you)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فِي الْأَرْضِ",
+      "transliteration": "fī al-ʾarḍi",
+      "meaning": "In the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "مُسْتَقَرٌّ",
+      "transliteration": "mustaqarrun",
+      "meaning": "A place of settlement/Abode",
+      "root": {
+        "letters": "ق-ر-ر",
+        "meaning": "to settle, to reside, to become firm"
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَ",
+          "meaning": "passive participle prefix indicating 'one who receives the action'"
+        },
+        {
+          "arabic": "قَرٌّ",
+          "meaning": "settlement, place of rest"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَمَتَاعٌ",
+      "transliteration": "wa-matāʿun",
+      "meaning": "And provision/Enjoyment",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "Possession, enjoyment, benefit"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "مَتَاعٌ",
+          "meaning": "Provision, enjoyment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِلَىٰ حِينٍ",
+      "transliteration": "ʾilā ḥīnin",
+      "meaning": "To a time/For a specified duration",
+      "root": {
+        "letters": "ح-ي-ن",
+        "meaning": "to come, to happen; a specific time or period"
+      },
+      "components": [
+        {
+          "arabic": "إِلَىٰ",
+          "meaning": "to, until, for"
+        },
+        {
+          "arabic": "حِينٍ",
+          "meaning": "a time, a duration"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So He caused-to-slip them-two - The Satan - from it - So He expelled-them two - From what/that which - They were - In it - And We said - Go down! [O you all] - Some of-you/One another - To some/For one another - Enemies - And for you (plural) - In the earth - A place-of settlement/Abode - And provision/Enjoyment - To a time/For a specified duration"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "verseId": "2:234",
+  "verse": {
+    "arabic": "وَالَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَاجًا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ بِالْمَعْرُوفِ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+    "transliteration": "Waallatheena yutawaffawna minkum wayatharoona azwajan yatarabbasna bianfusihinna arbaAAata ashhurin waAAashran faitha balaghna ajalahunna fala junaha AAalaykum feema faAAalna fee anfusihinna bialmaAAroofi waAllahu bima taAAmaloona khabeerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 234
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-al-ladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to own, to have"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُتَوَفَّوْنَ",
+      "transliteration": "yutawaffawna",
+      "meaning": "are taken in death (passive)",
+      "root": {
+        "letters": "و-ف-ي",
+        "meaning": "to die, to expire; to fulfill a contract or obligation; to receive something completely"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating the present/future tense, active voice"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "passive prefix"
+        },
+        {
+          "arabic": "وَفَّـ",
+          "meaning": "root indicating completion or fulfillment, in this context relating to death/taking of the soul"
+        },
+        {
+          "arabic": "ـوْنَ",
+          "meaning": "indicates a continuous or habitual action; plural passive participle form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from you (among you)",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate from, to be part of"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيَذَرُونَ",
+      "transliteration": "wa-yadharūna",
+      "meaning": "and they leave behind",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to leave, to abandon, to forsake"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَذَرُونَ",
+          "meaning": "they leave behind (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَزْوَاجًا",
+      "transliteration": "azwājan",
+      "meaning": "wives",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to couple, pairing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَتَرَبَّصْنَ",
+      "transliteration": "yatarabbaṣna",
+      "meaning": "they wait/observe",
+      "root": {
+        "letters": "ر-ب-ص",
+        "meaning": "to wait, to observe, to lie in wait"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense (form I)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "indicates a female plural subject"
+        },
+        {
+          "arabic": "رَبَّصَ",
+          "meaning": "to wait, to observe (verb root)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating a plural pronoun (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِأَنفُسِهِنَّ",
+      "transliteration": "bi-anfusihinna",
+      "meaning": "for/regarding themselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "for, regarding, by means of"
+        },
+        {
+          "arabic": "أَنفُسِهِنَّ",
+          "meaning": "their selves (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَرْبَعَةَ",
+      "transliteration": "arbaʿata",
+      "meaning": "four",
+      "root": {
+        "letters": "ر-ب-ع",
+        "meaning": "to be full, to increase; completeness; quadrangle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَشْهُرٍ",
+      "transliteration": "ashhurin",
+      "meaning": "months",
+      "root": {
+        "letters": "ش-ه-ر",
+        "meaning": "to be round, to become full (like the moon); month as a period of fullness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَعَشْرًا",
+      "transliteration": "wa-ʿashran",
+      "meaning": "and ten [days]",
+      "root": {
+        "letters": "ع-ش-ر",
+        "meaning": "to live, to have vitality; ten (as a numerical quantity)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَشْرًا",
+          "meaning": "ten"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَإِذَا",
+      "transliteration": "fa-idhā",
+      "meaning": "then when/so if",
+      "root": {
+        "letters": "إ-د-ي",
+        "meaning": "to come, to arrive; time, occasion"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَلَغْنَ",
+      "transliteration": "balaghna",
+      "meaning": "they reach/attain",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to reach, attain, be sufficient"
+      },
+      "components": [
+        {
+          "arabic": "بَلَغ",
+          "meaning": "to reach, attain"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أَجَلَهُنَّ",
+      "transliteration": "ajalahunna",
+      "meaning": "their term/duration",
+      "root": {
+        "letters": "ج-ل-و",
+        "meaning": "to expire, to come to an end; limit, term"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "a prefixed negative particle, often indicating emphasis or completion"
+        },
+        {
+          "arabic": "جَلَ",
+          "meaning": "to expire, to come to an end (from the root ج-ل-و)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "their (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then not/there is no",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, deficient, or non-existent; negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "جُنَاحَ",
+      "transliteration": "junāḥa",
+      "meaning": "blame/harm",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "to cover, to have wings; side, flank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to elevate; also refers to guardianship or responsibility"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فِيمَا",
+      "transliteration": "fīmā",
+      "meaning": "in what/regarding what",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to contain, to include; in relation to"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, which thing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "فَعَلْنَ",
+      "transliteration": "faʿalna",
+      "meaning": "they do/performed",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to perform; act, action"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "they (feminine plural pronoun suffix)"
+        },
+        {
+          "arabic": "عَلْنَ",
+          "meaning": "performed (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "فِي أَنفُسِهِنَّ",
+      "transliteration": "fī anfusihinna",
+      "meaning": "in themselves (regarding their own affairs)",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "أَنفُسِهِنَّ",
+          "meaning": "their own selves (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بِالْمَعْرُوفِ",
+      "transliteration": "bi-al-maʿrūfi",
+      "meaning": "with/in an acceptable manner",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, recognize; goodness, kindness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in"
+        },
+        {
+          "arabic": "الْمَعْرُوفِ",
+          "meaning": "the good, the recognized (manner)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "ۗ",
+      "transliteration": "—",
+      "meaning": "[pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, deity, god"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the one God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what/regarding what",
+      "root": {
+        "letters": "م-و-د",
+        "meaning": "possession, ownership, characteristic"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do/perform",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to work"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَمَلْـ",
+          "meaning": "the root of doing/performing"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "خَبِيرٌ",
+      "transliteration": "khabīrun",
+      "meaning": "Acquainted/Aware",
+      "root": {
+        "letters": "خ-ب-ر",
+        "meaning": "To possess knowledge, to be aware, to understand"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-those who are-taken-in-death from-you and-they-leave wives they-wait for-themselves four months and-ten then when-they-reach their-term then not blame upon-you in-what they-do in-themselves with-the-acceptable and-Allah with-what you-do Aware"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

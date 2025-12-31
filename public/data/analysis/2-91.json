@@ -1,0 +1,548 @@
+{
+  "verseId": "2:91",
+  "verse": {
+    "arabic": "وَإِذَا قِيلَ لَهُمْ آمِنُوا بِمَا أَنزَلَ اللَّهُ قَالُوا نُؤْمِنُ بِمَا أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَاءَهُ وَهُوَ الْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنبِيَاءَ اللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ",
+    "transliteration": "Waitha qeela lahum aminoo bima anzala Allahu qaloo numinu bima onzila AAalayna wayakfuroona bima waraahu wahuwa alhaqqu musaddiqan lima maAAahum qul falima taqtuloona anbiyaa Allahi min qablu in kuntum mumineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 91
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to come, to happen, to experience"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قِيلَ",
+      "transliteration": "qīla",
+      "meaning": "was said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        },
+        {
+          "arabic": "ت-",
+          "meaning": "passive voice marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to belong to, for, possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمِنُوا",
+      "transliteration": "ʾāminū",
+      "meaning": "believe!",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to believe, trust"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "in what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to flow, to surge; abundance, plenty"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; in; by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what; that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنزَلَ",
+      "transliteration": "ʾanzala",
+      "meaning": "was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "indicates past tense and active voice"
+        },
+        {
+          "arabic": "نَزَلَ",
+          "meaning": "to descend, to come down (basic verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "نُؤْمِنُ",
+      "transliteration": "nuʾminu",
+      "meaning": "we believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trust, faith"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "we (first person plural prefix)"
+        },
+        {
+          "arabic": "ؤْمِنُ",
+          "meaning": "believe (present tense, active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "in what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "flow, current; abundance"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أُنزِلَ",
+      "transliteration": "ʾunzila",
+      "meaning": "was revealed",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "a particle indicating verbal nouns or clauses"
+        },
+        {
+          "arabic": "زَلَ",
+          "meaning": "to descend, to go down; the root verb itself"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel marking passive voice and past tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "to us",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "on, upon, over"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَيَكْفُرُونَ",
+      "transliteration": "wayakfurūna",
+      "meaning": "and they disbelieve",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful or disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَكْفُرُونَ",
+          "meaning": "they disbelieve"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بِمَا",
+      "transliteration": "bimā",
+      "meaning": "in what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَرَاءَهُ",
+      "transliteration": "warāʾahu",
+      "meaning": "after it",
+      "root": {
+        "letters": "و-ر-أ",
+        "meaning": "to turn back, to be behind, to follow"
+      },
+      "components": [
+        {
+          "arabic": "وَرَاءَ",
+          "meaning": "behind, after"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him, it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَهُوَ",
+      "transliteration": "wahuwa",
+      "meaning": "and it",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to fall, to descend; to be weak or feeble; to return; to exist"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْحَقُّ",
+      "transliteration": "al-ḥaqqu",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مُصَدِّقًا",
+      "transliteration": "muṣaddiqan",
+      "meaning": "confirming",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truth, honesty; to speak the truth, be truthful"
+      },
+      "components": [
+        {
+          "arabic": "مُـ",
+          "meaning": "passive participle marker"
+        },
+        {
+          "arabic": "صَدِّق",
+          "meaning": "to confirm, to verify (stem)"
+        },
+        {
+          "arabic": "~ًا",
+          "meaning": "indefinite accusative singular masculine ending (ḥālat an-naṣb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لِّمَا",
+      "transliteration": "limā",
+      "meaning": "for what",
+      "root": {
+        "letters": "ل-م-و",
+        "meaning": "to desire, to will, to incline towards"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, which thing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مَعَهُمْ",
+      "transliteration": "maʿahum",
+      "meaning": "with them",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to accompany, to be with; covenant, trust"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "silence, stillness, quiet"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating a state or quality, often negation or absence"
+        },
+        {
+          "arabic": "كَتَ",
+          "meaning": "from the root س-ك-ت, denoting silence or stillness"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, utter, command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "فَلِمَ",
+      "transliteration": "falima",
+      "meaning": "then why?",
+      "root": {
+        "letters": "ل-م-و",
+        "meaning": "to desire, to will, to incline towards"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لِمَ",
+          "meaning": "for what reason?, why?"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "تَقْتُلُونَ",
+      "transliteration": "taqtulūna",
+      "meaning": "do you kill?",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second-person masculine plural present tense"
+        },
+        {
+          "arabic": "قُتُل",
+          "meaning": "passive participle stem of the root ق-ت-ل (to kill)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second-person masculine plural pronoun (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَنبِيَاءَ",
+      "transliteration": "ʾanbiyāʾa",
+      "meaning": "prophets of",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to give news; to inform about hidden things"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to be worshipped, divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مِن قَبْلُ",
+      "transliteration": "min qablu",
+      "meaning": "before",
+      "root": {
+        "letters": "ق-ب-ل",
+        "meaning": "to precede, to be anterior"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "قَبْلُ",
+          "meaning": "before, previously"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "إِن كُنتُم",
+      "transliteration": "ʾin kuntum",
+      "meaning": "if you are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "if"
+        },
+        {
+          "arabic": "كُنتُم",
+          "meaning": "you are (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مُّؤْمِنِينَ",
+      "transliteration": "muʾminīna",
+      "meaning": "believers",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, security"
+      },
+      "components": [
+        {
+          "arabic": "مُؤْمِن",
+          "meaning": "one who believes"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "dual nominative ending (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when was-said to-them believe! in-what was-revealed Allah they-said we-believe in-what was-revealed to-us and-they disbelieve in-what after-it and-it the-truth confirming for-what with-them say! then-why do-you-kill prophets of Allah before if you are believers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "verseId": "2:124",
+  "verse": {
+    "arabic": "وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِن ذُرِّيَّتِي ۖ قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ",
+    "transliteration": "Waithi ibtala ibraheema rabbuhu bikalimatin faatammahunna qala innee jaAAiluka lilnnasi imaman qala wamin thurriyyatee qala la yanalu AAahdee alththalimeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 124
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذِ",
+      "transliteration": "waʼidhi",
+      "meaning": "and when; and mention",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to remember, to recall; to be mindful"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when; at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ابْتَلَىٰ",
+      "transliteration": "ibtalā",
+      "meaning": "he tested; he tried",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be afflicted, to suffer, to try, to test"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ʼibrāhīma",
+      "meaning": "Abraham (proper noun)",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be abundant, to be great; to cultivate, to develop"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبُّهُ",
+      "transliteration": "rabbu-hu",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِكَلِمَاتٍ",
+      "transliteration": "bi-kalimāt(in)",
+      "meaning": "with commands/words",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word; to be eloquent or perfect in speech"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "كَلِمَاتٍ",
+          "meaning": "words (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَأَتَمَّهُنَّ",
+      "transliteration": "faʼatamma-hunna",
+      "meaning": "then he fulfilled them",
+      "root": {
+        "letters": "أ-ت-م",
+        "meaning": "to complete, to finish, to perfect"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَتَمَّ",
+          "meaning": "he completed, he fulfilled"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِنِّي",
+      "transliteration": "ʼinnī",
+      "meaning": "indeed, I",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "first-person singular pronoun (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "جَاعِلُكَ",
+      "transliteration": " jāʼiluka",
+      "meaning": "I will make you; I am making you",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "جاعل",
+          "meaning": "maker, one who creates/appoints"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, accusative/genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "for the people",
+      "root": {
+        "letters": "ن-ا-س",
+        "meaning": "people, humankind"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِمَامًا",
+      "transliteration": "ʼimāman",
+      "meaning": "a leader",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to aim at; to lead, to be in front of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَمِن ذُرِّيَّتِي",
+      "transliteration": "wa-min dhurriyatī",
+      "meaning": "and of my descendants",
+      "root": {
+        "letters": "ذ-ر-ي",
+        "meaning": "to propagate, to multiply, offspring"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "ذُرِّيَّتِي",
+          "meaning": "my descendants"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا يَنَالُ",
+      "transliteration": "lā yanālu",
+      "meaning": "will not attain; does not reach",
+      "root": {
+        "letters": "ن-و-ل",
+        "meaning": "to obtain, to reach, to attain"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not; will not"
+        },
+        {
+          "arabic": "يَنَالُ",
+          "meaning": "he attains; he reaches (present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَهْدِي",
+      "transliteration": "ʿahdī",
+      "meaning": "My covenant",
+      "root": {
+        "letters": "ع-ه-د",
+        "meaning": "to make a pledge or covenant, to bind oneself"
+      },
+      "components": [
+        {
+          "arabic": "عَهْد",
+          "meaning": "covenant, pledge, agreement"
+        },
+        {
+          "arabic": "ِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الظَّالِمِينَ",
+      "transliteration": "al-dhālimīna",
+      "meaning": "the wrongdoers",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, wrongdoing; to be unjust or oppressive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ظَالِمِينَ",
+          "meaning": "wrongdoers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-when he-tested Abraham his-Lord with-commands/words then-he-fulfilled-them. He-said Indeed-I I-will-make-you for-the-people a-leader. He-said And-of my-descendants? He-said Not-will-attain My-covenant the-wrongdoers."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

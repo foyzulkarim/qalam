@@ -1,0 +1,200 @@
+{
+  "verseId": "2:117",
+  "verse": {
+    "arabic": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ",
+    "transliteration": "BadeeAAu alssamawati waalardi waitha qada amran fainnama yaqoolu lahu kun fayakoonu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 117
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَدِيعُ",
+      "transliteration": "badīʿu",
+      "meaning": "Originator, Creator (without precedent)",
+      "root": {
+        "letters": "ب-د-ع",
+        "meaning": "to originate, to begin, to innovate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "the heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to be high, elevated; sublimity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when/whenever",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; to perceive, to know"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "قَضَىٰ",
+      "transliteration": "qaḍā",
+      "meaning": "He decreed/decided",
+      "root": {
+        "letters": "ق-د-ي",
+        "meaning": "To finish, to complete, to decide, to judge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَمْرًا",
+      "transliteration": "ʾamran",
+      "meaning": "a matter/command",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, order, matter, affair"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَإِنَّمَا",
+      "transliteration": "faʾinnamā",
+      "meaning": "then indeed/verily only",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to restrict, exclusive particle"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so, accordingly (connective particle)"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "verily, indeed (emphatic particle)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "only, exclusively (limiting particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, narrate; to command."
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "The prefix indicating the present tense, active voice, 3rd person singular masculine."
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "The verb root 'to say'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to it/for it",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "كُن",
+      "transliteration": "kun",
+      "meaning": "Be!",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَيَكُونُ",
+      "transliteration": "fayakūnu",
+      "meaning": "and it is/so it becomes",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (conditional particle)"
+        },
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the subjunctive mood and first-person singular or third-person masculine singular present tense"
+        },
+        {
+          "arabic": "كُونُ",
+          "meaning": "being, existence; present active participle form from the root ك-و-ن"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Originator-of the heavens and the earth—and when He decreed a matter, then indeed only He says to it 'Be!' and it is."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

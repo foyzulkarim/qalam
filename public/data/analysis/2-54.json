@@ -1,0 +1,492 @@
+{
+  "verseId": "2:54",
+  "verse": {
+    "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+    "transliteration": "Waith qala moosa liqawmihi ya qawmi innakum thalamtum anfusakum biittikhathikumu alAAijla fatooboo ila bariikum faoqtuloo anfusakum thalikum khayrun lakum AAinda bariikum fataba AAalaykum innahu huwa alttawwabu alrraheemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 54
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʼidh",
+      "meaning": "and [when], and remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "weakness, feebleness; to draw water (related to the story of Moses' birth and being drawn from the river)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِقَوْمِهِ",
+      "transliteration": "liqawmihi",
+      "meaning": "to his people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to establish, to rise up; people, tribe"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "قَوْمِهِ",
+          "meaning": "his people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": {
+        "letters": "ي-و-أ",
+        "meaning": "to exist, to be present; calling or invoking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَوْمِ",
+      "transliteration": "qawmi",
+      "meaning": "my people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; a people, tribe, nation"
+      },
+      "components": [
+        {
+          "arabic": "قَوْم",
+          "meaning": "people, nation"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِنَّكُمْ",
+      "transliteration": "innakum",
+      "meaning": "indeed you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, existence, becoming"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ظَلَمْتُمْ",
+      "transliteration": "ẓalamtum",
+      "meaning": "you have wronged",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": [
+        {
+          "arabic": "ظَلَمْ",
+          "meaning": "you wronged (past tense)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural, suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَنفُسَكُم",
+      "transliteration": "anfusakum",
+      "meaning": "yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسَ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "بِاتِّخَاذِكُمُ",
+      "transliteration": "bittiḫādhikum",
+      "meaning": "by your taking of",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "اتِّخَاذِ",
+          "meaning": "taking, choosing, acquiring (verbal noun)"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "your (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْعِجْلَ",
+      "transliteration": "al-ʿijla",
+      "meaning": "the calf",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "haste, speed; to hurry, quicken"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فَتُوبُوا",
+      "transliteration": "fatūbū",
+      "meaning": "so repent you (plural)",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to turn back, to repent"
+      },
+      "components": [
+        {
+          "arabic": "ف",
+          "meaning": "prefix indicating command/imperative mood (fa'ila form)"
+        },
+        {
+          "arabic": "تُوبُوا",
+          "meaning": "repent (you plural); derived from the root ت-و-ب in the imperative mood for masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to tend towards, to approach, inclination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "بَارِئِكُمْ",
+      "transliteration": "bāriʼikum",
+      "meaning": "your Creator",
+      "root": {
+        "letters": "ب-ر-أ",
+        "meaning": "to create, to originate, to bring into existence"
+      },
+      "components": [
+        {
+          "arabic": "بَارِئ",
+          "meaning": "Creator"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَاقْتُلُوا",
+      "transliteration": "faqtulū",
+      "meaning": "so kill you (plural)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to die, to kill, destruction"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "اقْتُلُوا",
+          "meaning": "kill you (plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَنفُسَكُمْ",
+      "transliteration": "anfusakum",
+      "meaning": "yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسَ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ذَٰلِكُمْ",
+      "transliteration": "dhālikum",
+      "meaning": "that is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humiliation, submission, lowliness; to be near or close"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "that (demonstrative pronoun)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "with, in the sight of",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possession, availability, presence"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "with, in the presence of; indicating location or association"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بَارِئِكُمْ",
+      "transliteration": "bāriʼikum",
+      "meaning": "your Creator",
+      "root": {
+        "letters": "ب-ر-أ",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": [
+        {
+          "arabic": "بارئ",
+          "meaning": "Creator"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "فَتَابَ",
+      "transliteration": "fatāba",
+      "meaning": "so He accepted repentance",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating result)"
+        },
+        {
+          "arabic": "تَابَ",
+          "meaning": "he repented, he turned back"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you (plural)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to be above; elevation, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahu",
+      "meaning": "indeed He",
+      "root": {
+        "letters": "هـ-م-ز",
+        "meaning": "to be, existence (in a general sense)"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "existence, being, essence; to fall/descend (related to the concept of self-identification)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "التَّوَّابُ",
+      "transliteration": "at-tawwābu",
+      "meaning": "the Accepting of repentance",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تَوَّابُ",
+          "meaning": "one who repeatedly turns in repentance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "ar-raḥīmu",
+      "meaning": "the Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحِيمُ",
+          "meaning": "the Merciful (definite form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when he-said Moses to-his-people O my-people indeed-you have-wronged yourselves by-your-taking of the-calf so-repent you to-your Creator so-kill yourselves that is best for-you in-the-sight of your-Creator then-He accepted repentance upon-you indeed-He He the-Accepting-of-repentance the-Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

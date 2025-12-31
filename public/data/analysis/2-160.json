@@ -1,0 +1,217 @@
+{
+  "verseId": "2:160",
+  "verse": {
+    "arabic": "إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا وَبَيَّنُوا فَأُولَـٰئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا التَّوَّابُ الرَّحِيمُ",
+    "transliteration": "Illa allatheena taboo waaslahoo wabayyanoo faolaika atoobu AAalayhim waana alttawwabu alrraheemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 160
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except; but not",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny; to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who; the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to; to possess; to have relation to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who; relative pronoun indicating plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَابُوا",
+      "transliteration": "tābū",
+      "meaning": "they repented; they turned back (in repentance)",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَأَصْلَحُوا",
+      "transliteration": "wa-aṣlaḥū",
+      "meaning": "and they corrected; and they set right",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be free from fault or blemish; to repair, improve, rectify"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَصْلَحُوا",
+          "meaning": "they corrected, they set right (verb in the past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَبَيَّنُوا",
+      "transliteration": "wa-bayyanū",
+      "meaning": "and they made evident; and they clarified",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, to become manifest; distinction"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَيَّنُوا",
+          "meaning": "they made evident; they clarified (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "fa-awlā'ika",
+      "meaning": "then those; so these ones",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to come back; foremost, first"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (ones)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أَتُوبُ",
+      "transliteration": "atūbu",
+      "meaning": "I repent [of their sins]; I accept their repentance",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to turn back, to return (in repentance or generally), to change"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first person singular ('I')"
+        },
+        {
+          "arabic": "تُوبُ",
+          "meaning": "the verb form indicating present/future tense for 'I repent'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them; to them (regarding)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise; over, above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, to"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَأَنَا",
+      "transliteration": "wa-anā",
+      "meaning": "and I; and indeed I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence; I (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنَا",
+          "meaning": "I"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "التَّوَّابُ",
+      "transliteration": "at-tawwābu",
+      "meaning": "the Accepting of repentance; the Oft-Returning (to mercy)",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent, to turn back"
+      },
+      "components": [
+        {
+          "arabic": "التَّـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ـوَّابُ",
+          "meaning": "Active participle indicating frequent or habitual return/repentance (from the root ت-و-ب)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "ar-raḥīmu",
+      "meaning": "the Merciful; the Compassionate",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have mercy; compassion, tenderness"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحِيمُ",
+          "meaning": "The Merciful, The Compassionate (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-those who repented-and corrected-and made-evident then-those I-repent-to them and-I the-Accepting-of-repentance the-Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

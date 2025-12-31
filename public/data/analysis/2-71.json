@@ -1,0 +1,422 @@
+{
+  "verseId": "2:71",
+  "verse": {
+    "arabic": "قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا ۚ قَالُوا الْآنَ جِئْتَ بِالْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ",
+    "transliteration": "Qala innahu yaqoolu innaha baqaratun la thaloolun tutheeru alarda wala tasqee alhartha musallamatun la shiyata feeha qaloo alana jita bialhaqqi fathabahooha wama kadoo yafAAaloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 71
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahū",
+      "meaning": "indeed he",
+      "root": {
+        "letters": "ن-هـ-ي",
+        "meaning": "to be, existence; to reside or dwell"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "he says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, to say, utterance"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (in some forms)"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "to say, verbal noun from the root ق-و-ل"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّهَا",
+      "transliteration": "innahā",
+      "meaning": "indeed it (feminine)",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be, existence; tranquility, ease"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَقَرَةٌ",
+      "transliteration": "baqaratan",
+      "meaning": "a cow",
+      "root": {
+        "letters": "ب-ق-ر",
+        "meaning": "to split, to cleave; also relates to large livestock in general"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not / neither",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to deny, to negate, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ذَلُولٌ",
+      "transliteration": "dhulūlun",
+      "meaning": "trained / tamed",
+      "root": {
+        "letters": "ذ-ل-ل",
+        "meaning": "to be humble, to submit, to be subdued"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تُثِيرُ",
+      "transliteration": "tuthīru",
+      "meaning": "she stirs up / agitates",
+      "root": {
+        "letters": "ث-ا-ر",
+        "meaning": "to stir up, to agitate; to ignite, to arouse"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "she (feminine singular pronoun)"
+        },
+        {
+          "arabic": "ثِيرُ",
+          "meaning": "active participle, stirring up / agitating"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "the earth / land",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth, land, ground"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not / nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not / nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تَسْقِي",
+      "transliteration": "taskī",
+      "meaning": "she irrigates / waters",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to water, to irrigate, to provide drink"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the feminine singular imperfective form (she)"
+        },
+        {
+          "arabic": "سْقِي",
+          "meaning": "watering, irrigation (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْحَرْثَ",
+      "transliteration": "al-ḥartha",
+      "meaning": "the cultivated land / field",
+      "root": {
+        "letters": "ح-ر-ث",
+        "meaning": "to cultivate, to plow, to sow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مُسَلَّمَةٌ",
+      "transliteration": "musallamatan",
+      "meaning": "unblemished / flawless",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "peace, safety, unblemished, intact"
+      },
+      "components": [
+        {
+          "arabic": "مُسَلّ",
+          "meaning": "passive participle stem indicating 'one who is made safe/intact'"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker, indefinite noun ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not / neither",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شِيَةَ",
+      "transliteration": "shiyata",
+      "meaning": "blemish / spot / defect",
+      "root": {
+        "letters": "ش-ي-ن",
+        "meaning": "to be flawed, to have a defect or blemish; to pale or lose color"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it (feminine)",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to reside"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "الْآنَ",
+      "transliteration": "al-ʾāna",
+      "meaning": "now / at this moment",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to come, to arrive; time"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آنَ",
+          "meaning": "time, moment (present)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "جِئْتَ",
+      "transliteration": "jiʾta",
+      "meaning": "you have come",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جِئ",
+          "meaning": "to come (base form)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "second person masculine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "بِالْحَقِّ",
+      "transliteration": "bil-ḥaqqi",
+      "meaning": "with the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "reality, truth, certainty"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْحَقِّ",
+          "meaning": "the truth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَذَبَحُوهَا",
+      "transliteration": "fadhabaḥūhā",
+      "meaning": "so they slaughtered it (feminine)",
+      "root": {
+        "letters": "ذ-ب-ح",
+        "meaning": "to slaughter, to sacrifice; to kill (an animal)"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "ذَبَحُوهَا",
+          "meaning": "they slaughtered it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and not / and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also negation/nothingness (related to absence of possession)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what / that which; also negation particle (not)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "كَادُوا",
+      "transliteration": "kādū",
+      "meaning": "they were close to / hardly",
+      "root": {
+        "letters": "ك-د-و",
+        "meaning": "to strive, to be close to doing something, to approach"
+      },
+      "components": [
+        {
+          "arabic": "كاد",
+          "meaning": "he was close to / he almost"
+        },
+        {
+          "arabic": "واو الجماعة",
+          "meaning": "the suffix of plurality (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "يَفْعَلُونَ",
+      "transliteration": "yafʿalūna",
+      "meaning": "they do",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to create; act, perform"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "فْعَل",
+          "meaning": "action/doing (verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural active present tense marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-said - Indeed-he - He-says - Indeed-it(f) - A-cow - Not - Trained - She-stirs - The-earth - And-not - She-irrigates - The-field - Unblemished - Not - Blemish - In-it(f) - They-said - Now - You-have-come - With-the-truth - So-they-slaughtered-it(f) - And-not - They-were-close-to - They-do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "verseId": "2:31",
+  "verse": {
+    "arabic": "وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَـٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ",
+    "transliteration": "WaAAallama adama alasmaa kullaha thumma AAaradahum AAala almalaikati faqala anbioonee biasmai haolai in kuntum sadiqeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَّمَ",
+      "transliteration": "ʿallama",
+      "meaning": "He taught",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to learn"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آدَمَ",
+      "transliteration": "ʾādama",
+      "meaning": "Adam",
+      "root": {
+        "letters": "أ-د-م",
+        "meaning": "to settle, to make something complete or enduring; red earth (related to color)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَسْمَاءَ",
+      "transliteration": "al-ʾasmāʾa",
+      "meaning": "the names",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to elevate, to rise in status; to have a high reputation or be well-known"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَسْمَاءَ",
+          "meaning": "names (plural of اسم)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُلَّهَا",
+      "transliteration": "kulluhā",
+      "meaning": "all of them",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness"
+      },
+      "components": [
+        {
+          "arabic": "كُلّ",
+          "meaning": "all, whole"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; continuation, sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَرَضَهُمْ",
+      "transliteration": "ʿaraḍahum",
+      "meaning": "He showed them",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to show, to offer"
+      },
+      "components": [
+        {
+          "arabic": "عَرَضَ",
+          "meaning": "He showed, He presented"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise above"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْمَلَائِكَةِ",
+      "transliteration": "al-malāʾikati",
+      "meaning": "the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, sovereignty, kingship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَائِكَةِ",
+          "meaning": "angels (plural of مَلَك)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَقَالَ",
+      "transliteration": "faqāla",
+      "meaning": "and He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "and (particle of connection)"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "He said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنبِئُونِي",
+      "transliteration": "ʾanbiʾūnī",
+      "meaning": "Inform Me",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to inform, news"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, to"
+        },
+        {
+          "arabic": "بِئُونِي",
+          "meaning": "inform me (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "بِأَسْمَاءِ",
+      "transliteration": "biʾasmāʾi",
+      "meaning": "with the names of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise in status, to be high; excellence, elevation"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَسْمَاءِ",
+          "meaning": "names (plural of اسم)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "هَـٰؤُلَاءِ",
+      "transliteration": "hāʾulāʾi",
+      "meaning": "these",
+      "root": {
+        "letters": "هـ-ل-و",
+        "meaning": "to incline, to turn towards; generally refers to something near or noticeable"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰأ",
+          "meaning": "demonstrative particle indicating nearness"
+        },
+        {
+          "arabic": "أُولَاءِ",
+          "meaning": "these (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "[you] were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were (basic form)"
+        },
+        {
+          "arabic": "-تُم",
+          "meaning": "second person plural masculine suffix (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "صَادِقِينَ",
+      "transliteration": "ṣādiqīn",
+      "meaning": "truthful",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to speak the truth, be true, to confirm"
+      },
+      "components": [
+        {
+          "arabic": "صَادِق",
+          "meaning": "truthful (singular)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "dual or plural masculine ending (indicating 'ones who are')"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-He-taught Adam the-names all-of-them then He-showed-them to the-angels and-He-said Inform-Me with-the-names-of these if [you] were truthful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

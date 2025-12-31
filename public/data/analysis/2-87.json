@@ -1,0 +1,522 @@
+{
+  "verseId": "2:87",
+  "verse": {
+    "arabic": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ بِالرُّسُلِ ۖ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ",
+    "transliteration": "Walaqad atayna moosa alkitaba waqaffayna min baAAdihi bialrrusuli waatayna AAeesa ibna maryama albayyinati waayyadnahu biroohi alqudusi afakullama jaakum rasoolun bima la tahwa anfusukumu istakbartum fafareeqan kaththabtum wafareeqan taqtuloona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 87
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-laqad",
+      "meaning": "And indeed, and certainly",
+      "root": {
+        "letters": "ل-ق-د",
+        "meaning": "to obtain, to acquire; firmness, certainty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, certainly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "آتَيْنَا",
+      "transliteration": "ātaynā",
+      "meaning": "We gave",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, bestow, come with"
+      },
+      "components": [
+        {
+          "arabic": "آتَ",
+          "meaning": "We gave (first-person plural prefix + verb root)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us (first-person plural suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُوسَى",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-و-س",
+        "meaning": "to draw water, to give life; to name or designate (related to giving a name)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "The book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record, compose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَقَفَّيْنَا",
+      "transliteration": "wa-qaffaynā",
+      "meaning": "And We followed up, and We sent after",
+      "root": {
+        "letters": "ق-ف-و",
+        "meaning": "To follow, to succeed, to trace"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "And"
+        },
+        {
+          "arabic": "قَفَّيْنَا",
+          "meaning": "We followed (it) closely, We sent after (it)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِن بَعْدِهِ",
+      "transliteration": "min baʿdihi",
+      "meaning": "After him",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far away"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِهِ",
+          "meaning": "after him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِالرُّسُلِ",
+      "transliteration": "bi-al-rusuli",
+      "meaning": "With the messengers",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; message; apostle"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الرُّسُلِ",
+          "meaning": "the messengers (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "(pause)",
+      "meaning": "Pause (separator)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَآتَيْنَا",
+      "transliteration": "wa-ātaynā",
+      "meaning": "And We gave",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "to give, to bestow, to grant"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آتَيْنَا",
+          "meaning": "We gave (dual form, referring to Allah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عِيسَى",
+      "transliteration": "ʿīsā",
+      "meaning": "Jesus",
+      "root": {
+        "letters": "ع-ي-س",
+        "meaning": "to live, to nourish; strong life"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ابْنَ",
+      "transliteration": "ibna",
+      "meaning": "Son of",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; also used for lineage and offspring"
+      },
+      "components": [
+        {
+          "arabic": "ابْ",
+          "meaning": "prefix indicating son/descendant, related to 'father'"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "pronoun suffix, indicating possessor ('my')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَرْيَمَ",
+      "transliteration": "maryama",
+      "meaning": "Mary",
+      "root": {
+        "letters": "م-ر-ي",
+        "meaning": "Servitude, devotion; to be pious or devout."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْبَيِّنَاتِ",
+      "transliteration": "al-bayyināti",
+      "meaning": "The clear proofs",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, evident, manifest"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَيِّنَاتِ",
+          "meaning": "clear proofs (plural of بَيِّنَة)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَأَيَّدْنَاهُ",
+      "transliteration": "wa-ʾayyidnāhu",
+      "meaning": "And We supported him, and We strengthened him",
+      "root": {
+        "letters": "أ-ي-د",
+        "meaning": "to possess strength, to help, to support"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَيَّدْنَاهُ",
+          "meaning": "We supported him/strengthened him (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "بِرُوحِ",
+      "transliteration": "bi-rūḥi",
+      "meaning": "With a spirit",
+      "root": {
+        "letters": "ر-و-ح",
+        "meaning": "to breathe, life, spirit"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "رُوحٍ",
+          "meaning": "spirit, soul"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْقُدُسِ",
+      "transliteration": "al-qudusi",
+      "meaning": "The Pure (Spirit)",
+      "root": {
+        "letters": "ق-د-س",
+        "meaning": "to be pure, holy, free from blemish"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "قُدُس",
+          "meaning": "Pure, Holy"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "Genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۗ",
+      "transliteration": "(pause)",
+      "meaning": "Pause (separator)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَفَكُلَّمَا",
+      "transliteration": "ʾafa-kullamā",
+      "meaning": "Then every time, is it that whenever",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, speaking, communicating; to be complete or perfect (in speech)"
+      },
+      "components": [
+        {
+          "arabic": "أَفَ",
+          "meaning": "particle indicating rhetorical question, emphasis or denial"
+        },
+        {
+          "arabic": "كُلَّ",
+          "meaning": "every, all (as a totality)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whenever (relative pronoun/particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "جَاءَكُمْ",
+      "transliteration": "jāʾakum",
+      "meaning": "Came to you",
+      "root": {
+        "letters": "ج-ي-أ",
+        "meaning": "To come, to arrive; to happen, to occur"
+      },
+      "components": [
+        {
+          "arabic": "جَأ",
+          "meaning": "To come (basic form)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "To you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "رَسُولٌ",
+      "transliteration": "rasūlun",
+      "meaning": "A messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a message or communication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "With what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, perishability; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "لَا تَهْوَىٰ",
+      "transliteration": "lā tahwā",
+      "meaning": "Not desire",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to incline, to tend towards, to desire passionately"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation particle"
+        },
+        {
+          "arabic": "تَهْوَىٰ",
+          "meaning": "you desire (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "أَنفُسُكُمُ",
+      "transliteration": "ʾanfusukum",
+      "meaning": "Your selves/souls",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسُ",
+          "meaning": "selves/souls (plural)"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "your (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "اسْتَكْبَرْتُمْ",
+      "transliteration": "istakbartum",
+      "meaning": "You were arrogant",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase; by extension, to excel, to dominate, to be arrogant"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَـ",
+          "meaning": "prefix indicating seeking, attempting or intensifying an action (form X)"
+        },
+        {
+          "arabic": "كَبَرْتُمْ",
+          "meaning": "you became arrogant (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فَفَرِيقًا",
+      "transliteration": "fa-farīqan",
+      "meaning": "So a party",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, divide, distinguish"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "فَرِيقًا",
+          "meaning": "a party, group (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "كَذَّبْتُمْ",
+      "transliteration": "kaḏḏabtum",
+      "meaning": "You denied",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine plural)"
+        },
+        {
+          "arabic": "ذَّبْتُمْ",
+          "meaning": "denied, falsified (second person masculine plural perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَفَرِيقًا",
+      "transliteration": "wa-farīqan",
+      "meaning": "And a party",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to separate, to divide, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فَرِيقًا",
+          "meaning": "a party, a group"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "تَقْتُلُونَ",
+      "transliteration": "taqtulūna",
+      "meaning": "You kill",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person plural (you)"
+        },
+        {
+          "arabic": "قُتُل",
+          "meaning": "passive participle stem related to killing"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "second person plural masculine suffix (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-indeed We-gave Moses the-book and-We-followed-up after-him with the-messengers. And-We-gave Jesus son-of Mary the-clear-proofs and-We-supported-him with a-spirit the-Pure. Then-everytime came-to-you a-messenger with what not-desire your-selves/souls you-were arrogant. So a-party you-denied and a-party you-kill."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "verseId": "2:239",
+  "verse": {
+    "arabic": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا ۖ فَإِذَا أَمِنتُمْ فَاذْكُرُوا اللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا تَعْلَمُونَ",
+    "transliteration": "Fain khiftum farijalan aw rukbanan faitha amintum faothkuroo Allaha kama AAallamakum ma lam takoonoo taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 239
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِنْ",
+      "transliteration": "faʾin",
+      "meaning": "So if / then if",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, existence, being true"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (conditional particle)"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خِفْتُمْ",
+      "transliteration": "khiftum",
+      "meaning": "You feared",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "خِف",
+          "meaning": "fear, be afraid (verbal noun/stem)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (masculine plural) - second person suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَرِجَالًا",
+      "transliteration": "farijālan",
+      "meaning": "As footmen / on foot (plural)",
+      "root": {
+        "letters": "ف-ر-ج",
+        "meaning": "to break open, to separate, to relieve, to ease"
+      },
+      "components": [
+        {
+          "arabic": "فَرِج",
+          "meaning": "space, opening, relief"
+        },
+        {
+          "arabic": "-الًا",
+          "meaning": "masculine plural ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَوْ",
+      "transliteration": "ʾaw",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to refrain, to abstain, or separation/alternation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رُكْبَانًا",
+      "transliteration": "rukbānan",
+      "meaning": "As riders / on riding animals (plural)",
+      "root": {
+        "letters": "ر-ك-ب",
+        "meaning": "to ride, to mount, to travel on an animal or vehicle"
+      },
+      "components": [
+        {
+          "arabic": "رُكْب",
+          "meaning": "riding, a group of riders"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-naṣb, indicating indefinite accusative plural (as riders)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "silent letter (wasla)",
+      "meaning": "conjunction marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "Then when / So if",
+      "root": {
+        "letters": "إ-ذ-ي",
+        "meaning": "to come upon, to encounter; time, occasion"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَمِنتُمْ",
+      "transliteration": "ʾamintum",
+      "meaning": "You were secure / You felt safe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure, trustworthy"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle implying inquiry or negation (depending on context)"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "تُم",
+          "meaning": "second person masculine plural pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَاذْكُرُوا",
+      "transliteration": "fadhkurū",
+      "meaning": "Then remember / So recall",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to recall, to mention"
+      },
+      "components": [
+        {
+          "arabic": "فا",
+          "meaning": "Then / So (particle of encouragement/initiation)"
+        },
+        {
+          "arabic": "ذْكُرُوا",
+          "meaning": "remember / recall (imperative verb, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah / God",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to worship, to deify, to be devoted to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَمَا",
+      "transliteration": "kamā",
+      "meaning": "As / Like",
+      "root": {
+        "letters": "ك-ي-م",
+        "meaning": "to be, to exist; like, similar to"
+      },
+      "components": [
+        {
+          "arabic": "ك",
+          "meaning": "resembles, like"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which; also used as a relative pronoun or indefinite pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عَلَّمَكُم",
+      "transliteration": "ʿallamakum",
+      "meaning": "He taught you",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "عَلَّمَ",
+          "meaning": "He taught"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "That which / What",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تَعْلَمُوا",
+      "transliteration": "taʿlumū",
+      "meaning": "You knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know, to possess knowledge"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "suffix indicating the second person masculine plural (you - verb ending)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-if you-feared then-as footmen or-as riders, [then] So-when you-were secure, then-remember Allah as-He-taught you that-which not-you knew."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

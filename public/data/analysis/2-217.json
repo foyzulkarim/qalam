@@ -1,0 +1,960 @@
+{
+  "verseId": "2:217",
+  "verse": {
+    "arabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَن سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِندَ اللَّهِ ۚ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ اسْتَطَاعُوا ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِ فَيَمُتْ وَهُوَ كَافِرٌ فَأُولَـٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَـٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+    "transliteration": "Yasaloonaka AAani alshshahri alharami qitalin feehi qul qitalun feehi kabeerun wasaddun AAan sabeeli Allahi wakufrun bihi waalmasjidi alharami waikhraju ahlihi minhu akbaru AAinda Allahi waalfitnatu akbaru mina alqatli wala yazaloona yuqatiloonakum hatta yaruddookum AAan deenikum ini istataAAoo waman yartadid minkum AAan deenihi fayamut wahuwa kafirun faolaika habitat aAAmaluhum fee alddunya waalakhirati waolaika ashabu alnnari hum feeha khalidoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 217
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَسْأَلُونَكَ",
+      "transliteration": "yasʾalūna-ka",
+      "meaning": "they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "يَسْأَلُونَ",
+          "meaning": "they ask (present tense, plural)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concerning, about"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الشَّهْرِ",
+      "transliteration": "ash-shahri",
+      "meaning": "the month",
+      "root": {
+        "letters": "ش-ه-ر",
+        "meaning": "to be broad, wide; month (as a period of time)"
+      },
+      "components": [
+        {
+          "arabic": "الشَّ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هْرِ",
+          "meaning": "month"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "the sacred",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to be forbidden, sacred, inviolable"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "sacred, forbidden (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قِتَالٍ",
+      "transliteration": "qitālin",
+      "meaning": "fighting",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, destroying; exertion in war or struggle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "therein",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "therein (pronoun suffix referring to a masculine singular noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to cease speaking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قِتَالٌ",
+      "transliteration": "qitālun",
+      "meaning": "fighting",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, destruction, war"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "therein",
+      "root": {
+        "letters": "ف-ي-ا",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَبِيرٌ",
+      "transliteration": "kabīrun",
+      "meaning": "great",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, great; to grow, increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَصَدٌّ",
+      "transliteration": "wa ṣaddun",
+      "meaning": "and averting",
+      "root": {
+        "letters": "ص-د-د",
+        "meaning": "to turn away, to obstruct, to repel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَن سَبِيلِ",
+      "transliteration": "ʿan sabīli",
+      "meaning": "from the way of",
+      "root": {
+        "letters": "س-ب-ا",
+        "meaning": "to follow a path, to go on a way; road, route"
+      },
+      "components": [
+        {
+          "arabic": "عَن",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "سَبِيلِ",
+          "meaning": "the way, the path (genitive case due to preposition)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, divinity; to be worshipped."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَكُفْرٌ",
+      "transliteration": "wa kufrun",
+      "meaning": "and disbelief",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny, be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كُفْرٌ",
+          "meaning": "disbelief, ingratitude"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "in Him",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence; to come to pass; presence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "He, Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَالْمَسْجِدِ",
+      "transliteration": "wal-masjidi",
+      "meaning": "and the Masjid",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "prostration, bowing down in worship"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَسْجِدِ",
+          "meaning": "the Masjid (place of prostration/worship)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "the sacred",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to prohibit, to restrict, sacredness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "sacred, prohibited"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَإِخْرَاجُ",
+      "transliteration": "wa ʾikhrāju",
+      "meaning": "and the expulsion of",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِخْرَاجُ",
+          "meaning": "expulsion, taking out"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "أَهْلِهِ",
+      "transliteration": "ʾahlihi",
+      "meaning": "its people",
+      "root": {
+        "letters": "أ-هـ-ل",
+        "meaning": "to be suitable, fit; family, household"
+      },
+      "components": [
+        {
+          "arabic": "أَهْل",
+          "meaning": "people, family, household"
+        },
+        {
+          "arabic": "ـِهِ",
+          "meaning": "his/its (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "therefrom",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he, it, him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "أَكْبَرُ",
+      "transliteration": "ʾakbaru",
+      "meaning": "greater",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the definite article 'the'"
+        },
+        {
+          "arabic": "كْبَرُ",
+          "meaning": "greatness, largeness; comparative form indicating 'greater'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "in the sight of",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possession, availability, presence"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "in the presence of, with, at the hand of; indicating location or possession relative to someone or something"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-ه-أ",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating stillness or quiet"
+        },
+        {
+          "arabic": "كَت",
+          "meaning": "related to speech or talking; a root implying verbal action"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَالْفِتْنَةُ",
+      "transliteration": "wal-fitnatu",
+      "meaning": "and fitnah",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "to test, trial, temptation, discord"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "أَكْبَرُ",
+      "transliteration": "ʾakbaru",
+      "meaning": "greater",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, to grow, to increase"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the definite article 'the'"
+        },
+        {
+          "arabic": "كْبَرُ",
+          "meaning": "greater (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "than",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "origin, source, from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "الْقَتْلِ",
+      "transliteration": "al-qatli",
+      "meaning": "the killing",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَتْل",
+          "meaning": "killing, slaying"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَلَا يَزَالُونَ",
+      "transliteration": "wa lā yazālūna",
+      "meaning": "and they will not cease",
+      "root": {
+        "letters": "ز-و-ل",
+        "meaning": "to go away; to depart; to vanish; to cease"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "يَزَالُونَ",
+          "meaning": "they cease; they continue not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "يُقَاتِلُونَكُمْ",
+      "transliteration": "yuqātilūnakum",
+      "meaning": "to fight you",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to fight, destruction"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun prefix indicating plural subject)"
+        },
+        {
+          "arabic": "قَاتِل",
+          "meaning": "fighter, one who fights (active participle)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (plural pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "يَرُدُّوكُمْ",
+      "transliteration": "yaruddūkum",
+      "meaning": "they turn you back",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to repel, to restore"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense and active voice"
+        },
+        {
+          "arabic": "رُدُّ",
+          "meaning": "verbal noun/active participle form from the root ر-د-د indicating returning or repelling"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "suffix indicating 'you' (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "عَن دِينِكُمْ",
+      "transliteration": "ʿan dīnikum",
+      "meaning": "from your religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "judgment, religion, reckoning"
+      },
+      "components": [
+        {
+          "arabic": "عَن",
+          "meaning": "from, regarding"
+        },
+        {
+          "arabic": "دِينِكُمْ",
+          "meaning": "your religion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "إِنِ اسْتَطَاعُوا",
+      "transliteration": "ʾin istaṭāʿū",
+      "meaning": "if they are able",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to be able, to have power, to obey willingly"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, indeed"
+        },
+        {
+          "arabic": "اِسْتَطَاعُوا",
+          "meaning": "they are able"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "وَمَن يَرْتَدِدْ",
+      "transliteration": "wa man yartadid",
+      "meaning": "and whoever reverts",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to turn back, to revert, to apostatize"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        },
+        {
+          "arabic": "يَرْتَدِدْ",
+          "meaning": "reverts, apostatizes"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, existence; to become"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "عَن دِينِهِ",
+      "transliteration": "ʿan dīnihi",
+      "meaning": "from his religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "judgment, religion, reckoning, account"
+      },
+      "components": [
+        {
+          "arabic": "عَن",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "دِينِهِ",
+          "meaning": "his religion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "فَيَمُتْ",
+      "transliteration": "fayamut",
+      "meaning": "and dies",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, to die"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "and, then (conjunctive particle)"
+        },
+        {
+          "arabic": "يَمُتْ",
+          "meaning": "he dies (verb, imperfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and he is",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "كَافِرٌ",
+      "transliteration": "kāfirun",
+      "meaning": "a disbeliever",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, deny (a blessing)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "فَأُولَـٰئِكَ",
+      "transliteration": "faʾūlāʾika",
+      "meaning": "then those",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to precede; the beginning"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "حَبِطَتْ",
+      "transliteration": "ḥabiṭat",
+      "meaning": "have become worthless",
+      "root": {
+        "letters": "ح-ب-ط",
+        "meaning": "to descend, to fall, to be humiliated"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "أَعْمَالُهُمْ",
+      "transliteration": "aʿmāluhum",
+      "meaning": "their deeds",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform; work, action"
+      },
+      "components": [
+        {
+          "arabic": "أعْمَال",
+          "meaning": "deeds, works (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "فِي الدُّنْيَا",
+      "transliteration": "fī ad-dunyā",
+      "meaning": "in this world",
+      "root": {
+        "letters": "د-ن-ي",
+        "meaning": "lowliness, baseness, temporal life; humility"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, on, at"
+        },
+        {
+          "arabic": "الدُّنْيَا",
+          "meaning": "the world, the present life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "وَالْآخِرَةِ",
+      "transliteration": "wal-ʾākhirati",
+      "meaning": "and the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the end, the last"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the Hereafter; the last life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "وَأُولَـٰئِكَ",
+      "transliteration": "waʾūlāʾika",
+      "meaning": "and those",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to be first, initial"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural, demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "ʾaṣḥābu",
+      "meaning": "are the companions of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": [
+        {
+          "arabic": "أَصْحَابٌ",
+          "meaning": "companions, friends, associates (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nāri",
+      "meaning": "the Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَّارِ",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "هُمْ فِيهَا",
+      "transliteration": "hum fīhā",
+      "meaning": "they are therein",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; pronoun reference"
+      },
+      "components": [
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        },
+        {
+          "arabic": "فِيهَا",
+          "meaning": "therein, in it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "خَالِدُونَ",
+      "transliteration": "khālidūna",
+      "meaning": "eternally abiding",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-ask-you about the-month the-sacred fighting therein - say: fighting therein [is] great and averting from way of Allah and disbelief in Him and the-Masjid the-sacred and expulsion of its-people therefrom [is] greater in sight of Allah - and fitnah [is] greater than killing - and they-will-not-cease to-fight-you until they-turn-you-back from religion-your if they-are-able - and whoever from-you reverts from religion-his then-dies and he [is] disbeliever - so those have-become-worthless their-deeds in the-world and the-hereafter - and those [are] companions of the-Fire they are therein eternally abiding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

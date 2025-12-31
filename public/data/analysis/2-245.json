@@ -1,0 +1,294 @@
+{
+  "verseId": "2:245",
+  "verse": {
+    "arabic": "مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً ۚ وَاللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ",
+    "transliteration": "Man tha allathee yuqridu Allaha qardan hasanan fayudaAAifahu lahu adAAafan katheeratan waAllahu yaqbidu wayabsutu wailayhi turjaAAoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 245
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّن",
+      "transliteration": "man",
+      "meaning": "who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, exist; also related to questioning and indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَا",
+      "transliteration": "dhā",
+      "meaning": "this one/the one who",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "who/which (relative pronoun)",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere, to be connected; possession (in a broad sense)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who/which (relative pronoun base)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُقْرِضُ",
+      "transliteration": "yuqriḍu",
+      "meaning": "loans/lends",
+      "root": {
+        "letters": "ق-ر-ض",
+        "meaning": "to cut, to divide; to give respite/delay (leading to the concept of lending with a period for repayment)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "قَرْضًا",
+      "transliteration": "qarḍan",
+      "meaning": "loan",
+      "root": {
+        "letters": "ق-ر-ض",
+        "meaning": "to cut, to divide; lending (as a cutting off of something from one's wealth)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "حَسَنًا",
+      "transliteration": "ḥasanan",
+      "meaning": "good/beautiful",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَيُضَاعِفَهُ",
+      "transliteration": "fayudaʿifu-hu",
+      "meaning": "[then] He multiplies it",
+      "root": {
+        "letters": "ض-ع-ف",
+        "meaning": "to increase, to multiply, to double"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "يُـ",
+          "meaning": "He (masculine singular pronoun)"
+        },
+        {
+          "arabic": "ضَاعَفَ",
+          "meaning": "to multiply, to double"
+        },
+        {
+          "arabic": "-هُ",
+          "meaning": "it (pronoun suffix referring to the previous object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he, him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَضْعَافًا",
+      "transliteration": "aḍʿāfan",
+      "meaning": "multiples/times over",
+      "root": {
+        "letters": "ض-ع-ف",
+        "meaning": "to multiply, to increase; weakness, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كَثِيرَةً",
+      "transliteration": "kathīratan",
+      "meaning": "many/much",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be abundant, to be numerous"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamūna",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَعْلَمُونَ",
+          "meaning": "you know (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-Allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to be a god, divinity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يَقْبِضُ",
+      "transliteration": "yaqbiḍu",
+      "meaning": "withholds/restricts",
+      "root": {
+        "letters": "ق-ب-ض",
+        "meaning": "to grasp, to seize, to hold"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَيَبْسُطُ",
+      "transliteration": "wa-yabsūṭu",
+      "meaning": "and expands/grants abundance",
+      "root": {
+        "letters": "ب-س-ط",
+        "meaning": "to spread, to extend, to unfold; ease, sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَبْسُطُ",
+          "meaning": "he expands/grants abundance (verb, imperfect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَإِلَيْهِ",
+      "transliteration": "wa-ilayhi",
+      "meaning": "and to Him",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to return, to go towards; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تُرْجَعُونَ",
+      "transliteration": "turjaʿūna",
+      "meaning": "[you] will be returned",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense/mood"
+        },
+        {
+          "arabic": "رَجَعَ",
+          "meaning": "to return, to go back"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second-person plural masculine (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Who - this one - the one who - loans - Allah - a loan - good - then-He-multiplies-it - for him - multiples - many - and-Allah - withholds - and-He-expands - and-to-Him - [you] will be returned"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

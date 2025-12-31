@@ -1,0 +1,153 @@
+{
+  "verseId": "2:147",
+  "verse": {
+    "arabic": "الْحَقُّ مِن رَّبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ",
+    "transliteration": "Alhaqqu min rabbika fala takoonanna mina almumtareena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 147
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْحَقُّ",
+      "transliteration": "al-ḥaqqu",
+      "meaning": "the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, to exist in reality, to manifest"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, be less, diminish; separation, part"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "(pause)",
+      "meaning": "[no lexical meaning, a pause marker]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "so not/then do not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, negation/impossibility"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so/then (particle of consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/do not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَكُونَنَّ",
+      "transliteration": "takūnan-na",
+      "meaning": "you be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating present/future tense and a form of the verb (form I)"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "verbal noun/root of the verb 'to be'"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "emphatic particle, reinforcing the command/prohibition.  Indicates strong emphasis."
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be born from; source or origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْمُمْتَرِينَ",
+      "transliteration": "al-mumtarīn",
+      "meaning": "the doubters",
+      "root": {
+        "letters": "م-ت-ر",
+        "meaning": "to doubt, to be suspicious, to hesitate"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُمْتَرِينَ",
+          "meaning": "doubters, those who doubt (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-truth from your-Lord so not-be you from among the-doubters"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

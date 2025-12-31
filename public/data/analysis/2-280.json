@@ -1,0 +1,281 @@
+{
+  "verseId": "2:280",
+  "verse": {
+    "arabic": "وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ ۚ وَأَن تَصَدَّقُوا خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+    "transliteration": "Wain kana thoo AAusratin fanathiratun ila maysaratin waan tasaddaqoo khayrun lakum in kuntum taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 280
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنْ",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": {
+        "letters": "إ-ن-ي",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, in case"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذُو",
+      "transliteration": "dhū",
+      "meaning": "possessor of, owner of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عُسْرَةٍ",
+      "transliteration": "ʿusrah",
+      "meaning": "difficulty, hardship",
+      "root": {
+        "letters": "ع-س-ر",
+        "meaning": "to be tight, constricted; difficulty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَنَظِرَةٌ",
+      "transliteration": "fa-naẓrah",
+      "meaning": "then a postponement, then respite",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look, to wait, to consider"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "نَظْرَةٌ",
+          "meaning": "a look, a respite, a postponement"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to, until",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to incline, turn towards; to reach a destination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَيْسَرَةٍ",
+      "transliteration": "maysarah",
+      "meaning": "ease, facility",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, facility, comfort"
+      },
+      "components": [
+        {
+          "arabic": "مَيْسَر",
+          "meaning": "ease, facility (verbal noun)"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, invoke; affection, love"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, becoming"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَصَدَّقُوا",
+      "transliteration": "taṣaddaqaū",
+      "meaning": "you give charity",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truth, sincerity, righteousness; to be truthful or correct"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the imperative mood (command)"
+        },
+        {
+          "arabic": "صَدَّقَ",
+          "meaning": "to give charity, to be truthful (basic form of the verb)"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating 'you (plural)' - second person plural pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayr",
+      "meaning": "better, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "completion, perfection, possessing"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۖ",
+      "transliteration": "āyah (pause)",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": {
+        "letters": "ا-ن-ي",
+        "meaning": "to be, existence; also used to denote condition and uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "كُنتُمْ",
+      "transliteration": "kuntum",
+      "meaning": "you were, you are",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كُن",
+          "meaning": "you were (past tense verb)"
+        },
+        {
+          "arabic": "ـتُمْ",
+          "meaning": "second person plural suffix (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "you know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "عَلِمْـ",
+          "meaning": "root of knowing"
+        },
+        {
+          "arabic": "-ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural (you, knowing)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-if was possessor-of difficulty then-postponement to ease and that you-give charity better for-you if you were know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

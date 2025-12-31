@@ -1,0 +1,846 @@
+{
+  "verseId": "2:235",
+  "verse": {
+    "arabic": "وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُم بِهِ مِنْ خِطْبَةِ النِّسَاءِ أَوْ أَكْنَنتُمْ فِي أَنفُسِكُمْ ۚ عَلِمَ اللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَـٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّا أَن تَقُولُوا قَوْلًا مَّعْرُوفًا ۚ وَلَا تَعْزِمُوا عُقْدَةَ النِّكَاحِ حَتَّىٰ يَبْلُغَ الْكِتَابُ أَجَلَهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي أَنفُسِكُمْ فَاحْذَرُوهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ",
+    "transliteration": "Wala junaha AAalaykum feema AAarradtum bihi min khitbati alnnisai aw aknantum fee anfusikum AAalima Allahu annakum satathkuroonahunna walakin la tuwaAAidoohunna sirran illa an taqooloo qawlan maAAroofan wala taAAzimoo AAuqdata alnnikahi hatta yablugha alkitabu ajalahu waiAAlamoo anna Allaha yaAAlamu ma fee anfusikum faihtharoohu waiAAlamoo anna Allaha ghafoorun haleemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 235
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جُنَاحَ",
+      "transliteration": "junāḥa",
+      "meaning": "harm/blame/sin",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "to cover, to shield; side, wing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِيمَا",
+      "transliteration": "fī mā",
+      "meaning": "in what/regarding what",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be hidden, to exist, relatedness"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, on, regarding"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, which (relative pronoun/interrogative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَرَّضْتُم",
+      "transliteration": "ʿarraḍtum",
+      "meaning": "you presented/alluded to",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to show, to present, to offer"
+      },
+      "components": [
+        {
+          "arabic": "عَرَّضْتُم",
+          "meaning": "you presented/alluded to (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it/therein",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هِي",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from/of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be possessed of, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خِطْبَةِ",
+      "transliteration": "khiṭbati",
+      "meaning": "proposal of marriage/seeking (a woman's hand)",
+      "root": {
+        "letters": "خ-ط-ب",
+        "meaning": "to speak, to address; to seek (something), to propose"
+      },
+      "components": [
+        {
+          "arabic": "خِطْبَة",
+          "meaning": "proposal, seeking (a woman's hand in marriage)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "النِّسَاءِ",
+      "transliteration": "al-nisāʾi",
+      "meaning": "the women",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to weave, to travel, to forget (and by extension, relating to people, especially women)"
+      },
+      "components": [
+        {
+          "arabic": "النِّسَاء",
+          "meaning": "the women (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to desire, to choose, alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَكْنَنتُمْ",
+      "transliteration": "aknanantum",
+      "meaning": "you concealed/held secretly",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to conceal, to hide"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating negation, or intensifying the verb's passive form (depending on context)"
+        },
+        {
+          "arabic": "كَنَنتُمْ",
+          "meaning": "you concealed (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَنفُسِكُمْ",
+      "transliteration": "anfusikum",
+      "meaning": "yourselves/within yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person; to breathe, to expire"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسِ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to forbid, prevent, obstruct"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "ع",
+          "meaning": "letter 'ayn, often indicating source or agency (but here part of the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَلِمَ",
+      "transliteration": "ʿalima",
+      "meaning": "knew/has known",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَنَّكُمْ",
+      "transliteration": "annakum",
+      "meaning": "that you/indeed that you",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hidden, concealed"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed that"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "سَتَذْكُرُونَهُنَّ",
+      "transliteration": "satadhkurūnahunna",
+      "meaning": "you will remember them/have in mind",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "سَـ",
+          "meaning": "future particle (will)"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine plural future tense"
+        },
+        {
+          "arabic": "ذَكَرَ",
+          "meaning": "to remember"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "second person masculine plural pronoun suffix (you)"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَلَـٰكِن",
+      "transliteration": "wa lākin",
+      "meaning": "but/however",
+      "root": {
+        "letters": "ك-ن-ل",
+        "meaning": "to be, to exist; possession (in negative contexts)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـٰكِن",
+          "meaning": "but, however (negative conjunction)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not/do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "تُوَاعِدُوهُنَّ",
+      "transliteration": "tuwāʿidūhunna",
+      "meaning": "you promise them/make appointments with them",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise, to make an appointment"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine plural (you)"
+        },
+        {
+          "arabic": "وَاعِدُ",
+          "meaning": "active participle indicating 'promising' or 'making an appointment'"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "سِرًّا",
+      "transliteration": "sirran",
+      "meaning": "secretly",
+      "root": {
+        "letters": "س-رّ-ر",
+        "meaning": "to conceal, hide; intimacy, confidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to reject, to deny; negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[that/to]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist, or related to existence and being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "تَقُولُوا",
+      "transliteration": "taqūlū",
+      "meaning": "you say/speak",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the future tense or command"
+        },
+        {
+          "arabic": "قُولُوا",
+          "meaning": "you (plural) say/speak"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "قَوْلًا",
+      "transliteration": "qawlan",
+      "meaning": "a saying/statement",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter, speech"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مَّعْرُوفًا",
+      "transliteration": "maʿrūfan",
+      "meaning": "known/proper/acceptable",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "to know, to recognize, to be aware of"
+      },
+      "components": [
+        {
+          "arabic": "مَ",
+          "meaning": "prefix indicating passive or unknown agent"
+        },
+        {
+          "arabic": "عُرُوف",
+          "meaning": "known, recognized qualities or deeds"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-naṣb, indicating accusative case (maʿrūfan as the object of a verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, explain clearly"
+      },
+      "components": [
+        {
+          "arabic": "ۚ",
+          "meaning": "A separating mark; pause symbol used to indicate the end of a verse."
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to wish, to desire, negation/absence of something"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "تَعْزِمُوا",
+      "transliteration": "taʿzimū",
+      "meaning": "you intend/determine firmly",
+      "root": {
+        "letters": "ع-ز-م",
+        "meaning": "to intend, to determine, firmness of purpose"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the imperative mood (you)"
+        },
+        {
+          "arabic": "عَزِمُوا",
+          "meaning": "to intend firmly, to determine resolutely (second person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "عُقْدَةَ",
+      "transliteration": "ʿuqdata",
+      "meaning": "knot/contract (of marriage)",
+      "root": {
+        "letters": "ع-ق-د",
+        "meaning": "to tie, to bind, to restrain; to establish or conclude (a contract)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "النِّكَاحِ",
+      "transliteration": "al-nikāḥi",
+      "meaning": "the marriage",
+      "root": {
+        "letters": "ن-ك-ح",
+        "meaning": "to contract marriage, to have sexual intercourse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until/except that",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "يَبْلُغَ",
+      "transliteration": "yablugha",
+      "meaning": "it reaches/attains",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, mature; to be excessive."
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person singular when combined with the root."
+        },
+        {
+          "arabic": "بَلُغَ",
+          "meaning": "to reach, attain (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "الْكِتَابُ",
+      "transliteration": "al-kitābu",
+      "meaning": "the period/decreed time",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write; to record; to collect"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "writing; scripture; book"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "أَجَلَهُ",
+      "transliteration": "ajaluhu",
+      "meaning": "its end/term",
+      "root": {
+        "letters": "أ-ج-ل",
+        "meaning": "to come to an end, expire; a fixed time or term"
+      },
+      "components": [
+        {
+          "arabic": "أَجَلِ",
+          "meaning": "term, deadline (genitive case)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his/its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to be true, to speak the truth, to fulfill a promise"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "وَاعْلَمُوا",
+      "transliteration": "waʿlamū",
+      "meaning": "and know/be aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, understanding"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know/be aware (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that/indeed that",
+      "root": {
+        "letters": "ʔ-ن-ن",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "knows/has knowledge of",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person singular (I)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (verb in the perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; a relative pronoun indicating negation or uncertainty (in this context)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "أَنفُسِكُمْ",
+      "transliteration": "anfusikum",
+      "meaning": "yourselves/within yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person; to breathe, expire"
+      },
+      "components": [
+        {
+          "arabic": "أنْفُسِ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "فَاحْذَرُوهُ",
+      "transliteration": "fahdharūhu",
+      "meaning": "so beware of Him/be cautious of Him",
+      "root": {
+        "letters": "ح-ذ-ر",
+        "meaning": "to be cautious, to guard against danger"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, therefore (particle indicating consequence)"
+        },
+        {
+          "arabic": "احْذَرُ",
+          "meaning": "beware, be cautious (imperative form)"
+        },
+        {
+          "arabic": "ـوهُ",
+          "meaning": "of Him (pronoun suffix referring to God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "[separator]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, distinguish, explain"
+      },
+      "components": [
+        {
+          "arabic": "ف",
+          "meaning": "Letter indicating separation or distinction."
+        },
+        {
+          "arabic": "ۚ",
+          "meaning": "A pause marker, indicating a significant break in recitation; signifies concluding a major section."
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "وَاعْلَمُوا",
+      "transliteration": "waʿlamū",
+      "meaning": "and know/be aware",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that/indeed that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "to, indeed"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "that (nasba)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity, god"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūrun",
+      "meaning": "Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to cover, to forgive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "حَلِيمٌ",
+      "transliteration": "ḥalīmun",
+      "meaning": "Forbearing/patient",
+      "root": {
+        "letters": "ح-ل-م",
+        "meaning": "Mildness, leniency, forbearance; to be gentle or patient."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and not blame upon you regarding what-you presented with it from proposal of marriage the women or for what-you concealed within yourselves.  Knew Allah that you will remember them however not promise them secretly except that-you say saying proper. And not intend knot the marriage until it reaches period its end.  And know that Allah knows what in yourselves so beware of Him. And know that Allah Forgiving patient."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

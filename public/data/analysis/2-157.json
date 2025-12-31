@@ -1,0 +1,170 @@
+{
+  "verseId": "2:157",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُولَـٰئِكَ هُمُ الْمُهْتَدُونَ",
+    "transliteration": "Olaika AAalayhim salawatun min rabbihim warahmatun waolaika humu almuhtadoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 157
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (masculine plural)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin, to return"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "those (demonstrative pronoun)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating masculine plural, distant reference"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "صَلَوَاتٌ",
+      "transliteration": "ṣalawātun",
+      "meaning": "Blessings (plural)",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "To pray, to invoke blessings, or to be righteous"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "Source, origin; to decrease or diminish (related to taking *from* something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَّبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "ـهِمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَرَحْمَةٌ",
+      "transliteration": "wa-raḥmatun",
+      "meaning": "And mercy",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "compassion, kindness, tenderness; to have mercy or pity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَحْمَةٌ",
+          "meaning": "mercy"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "Pause marker (laa maʿna)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَأُولَـٰئِكَ",
+      "transliteration": "wa-ʾūlāʾika",
+      "meaning": "And those (masculine plural)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to come back; the first"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أُولَـٰئِكَ",
+          "meaning": "those (masculine plural demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "They",
+      "root": {
+        "letters": "ه-م-و",
+        "meaning": "To have, possess; to be (in a state of being)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْمُهْتَدُونَ",
+      "transliteration": "al-muhtadūna",
+      "meaning": "The guided (masculine plural)",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide; to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُهْتَد",
+          "meaning": "passive participle of هدى (to guide), meaning 'guided'"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural masculine suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-ones upon-them blessings from-their Lord and-mercy -and those-ones they the-guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "verseId": "2:185",
+  "verse": {
+    "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ وَلِتُكْمِلُوا الْعِدَّةَ وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "transliteration": "Shahru ramadana allathee onzila feehi alquranu hudan lilnnasi wabayyinatin mina alhuda waalfurqani faman shahida minkumu alshshahra falyasumhu waman kana mareedan aw AAala safarin faAAiddatun min ayyamin okhara yureedu Allahu bikumu alyusra wala yureedu bikumu alAAusra walitukmiloo alAAiddata walitukabbiroo Allaha AAala ma hadakum walaAAallakum tashkuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 185
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "شَهْرُ",
+      "transliteration": "shahrū",
+      "meaning": "month (nominative)",
+      "root": {
+        "letters": "ش-ه-ر",
+        "meaning": "to be broad, wide; a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَمَضَانَ",
+      "transliteration": "ramaḍāna",
+      "meaning": "Ramadhan (genitive)",
+      "root": {
+        "letters": "ر-م-ض",
+        "meaning": "scorching, burning heat; intense dryness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "which (relative pronoun)",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, belonging; to have a quality or characteristic"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُنزِلَ",
+      "transliteration": "unzila",
+      "meaning": "was revealed (passive)",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down, to be lowered"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "verbal noun prefix indicating passive voice and past tense"
+        },
+        {
+          "arabic": "زِلَ",
+          "meaning": "to descend, to come down (root form)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel indicating indefinite past passive form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it (preposition + pronoun)",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to enter"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, on, at"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْقُرْآنُ",
+      "transliteration": "al-qurʾānu",
+      "meaning": "the Qur'an (nominative)",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite; to learn by heart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "هُدًى",
+      "transliteration": "hudan",
+      "meaning": "guidance (accusative)",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لِّلنَّاسِ",
+      "transliteration": "lil-nāsi",
+      "meaning": "for the people (preposition + genitive plural)",
+      "root": {
+        "letters": "ن-س-ا",
+        "meaning": "to forget, to be lost; people (derived from the idea of forgetting one's origin or connection)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَبَيِّنَاتٍ",
+      "transliteration": "wa bayyinātin",
+      "meaning": "and clear proofs (conjunction + accusative plural)",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, evident, manifest; to explain, distinguish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "بَيِّنَاتٍ",
+          "meaning": "clear proofs (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from (preposition)",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to originate from, to be related to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْهُدَىٰ",
+      "transliteration": "al-hudā",
+      "meaning": "the guidance (genitive)",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way; direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالْفُرْقَانِ",
+      "transliteration": "wal-furqāni",
+      "meaning": "and the criterion (conjunction + genitive)",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to distinguish, separate, discriminate"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فُرْقَان",
+          "meaning": "criterion, discernment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۚ",
+      "transliteration": "laa taʿlam",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation, not"
+        },
+        {
+          "arabic": "تعلم",
+          "meaning": "to know, to learn"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever (conjunction + interrogative pronoun)",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to originate, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, which person (interrogative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "شَهِدَ",
+      "transliteration": "shahida",
+      "meaning": "witnessed (past tense)",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to bear witness, to be present, to testify"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مِنكُمُ",
+      "transliteration": "minkum",
+      "meaning": "from you (preposition + pronoun)",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate, to come from; pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الشَّهْرَ",
+      "transliteration": "ash-shahra",
+      "meaning": "the month (accusative)",
+      "root": {
+        "letters": "ش-ه-ر",
+        "meaning": "to be wide, spacious; to attend (a month); a time period"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَلْيَصُمْهُ",
+      "transliteration": "fal-yaṣūmuhu",
+      "meaning": "then let him fast it (conjunction + imperative + pronoun)",
+      "root": {
+        "letters": "ص-و-م",
+        "meaning": "to abstain, to fast"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "conjunction (fa), then"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "purpose marker (li), for the purpose of, let"
+        },
+        {
+          "arabic": "يَصُمْ",
+          "meaning": "imperative verb, he fasts (form IV)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "pronoun suffix, it (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "ۖ",
+      "transliteration": "laa taʿlam",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation/not"
+        },
+        {
+          "arabic": "تعلم",
+          "meaning": "to know"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and whoever (conjunction + interrogative pronoun)",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to; also includes notions of questioning and uncertainty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, which person; interrogative pronoun relating to people."
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was (past tense of 'to be')",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "existence, being, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "مَرِيضًا",
+      "transliteration": "marīḍan",
+      "meaning": "sick (accusative)",
+      "root": {
+        "letters": "م-ض-د",
+        "meaning": "to be weak, to suffer affliction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or (conjunction)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "on (preposition)",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "سَفَرٍ",
+      "transliteration": "safarin",
+      "meaning": "a journey (prepositional phrase)",
+      "root": {
+        "letters": "س-ف-ر",
+        "meaning": "to travel, to journey"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَعِدَّةٌ",
+      "transliteration": "fa-ʿiddatun",
+      "meaning": "then an equal number (conjunction + nominative)",
+      "root": {
+        "letters": "ع-دّ-د",
+        "meaning": "to count, number"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "عِدَّةٌ",
+          "meaning": "a number, an equal amount"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from (preposition)",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, prevent, or be separated from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "أَيَّامٍ",
+      "transliteration": "ayyāmin",
+      "meaning": "days (genitive plural)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "أُخَرَ",
+      "transliteration": "ukhra",
+      "meaning": "other (adjective)",
+      "root": {
+        "letters": "خ-ر-ي",
+        "meaning": "to exit, to go forth, to choose, to select; goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "ۗ",
+      "transliteration": "laa taʿlam",
+      "meaning": "[pause particle]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَعْلَمُ",
+          "meaning": "you know (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "يُرِيدُ",
+      "transliteration": "yurīdu",
+      "meaning": "wants (present tense)",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to desire, to want, to seek"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, first person singular active voice (he wants)"
+        },
+        {
+          "arabic": "رِد",
+          "meaning": "derived from the root أ-ر-د, relating to wanting"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah, indicating the nominative case and short vowel for the present tense verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah (nominative)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to praise; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "بِكُمُ",
+      "transliteration": "bikum",
+      "meaning": "for you (preposition + pronoun)",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to have, to do (in a manner)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by, for (preposition)"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural pronoun, genitive/dative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "الْيُسْرَ",
+      "transliteration": "al-yusra",
+      "meaning": "the ease (accusative)",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "facility, ease, looseness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "وَلَا",
+      "transliteration": "wa lā",
+      "meaning": "and not (conjunction + negation)",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "يُرِيدُ",
+      "transliteration": "yurīdu",
+      "meaning": "wants (present tense)",
+      "root": {
+        "letters": "ر-د-و",
+        "meaning": "to desire, to will, to choose"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, first person singular (he)"
+        },
+        {
+          "arabic": "رِدَ",
+          "meaning": "desire, willing (verbal noun)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case and present tense ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "بِكُمُ",
+      "transliteration": "bikum",
+      "meaning": "for you (preposition + pronoun)",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to possess, sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, for, by means of"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "الْعُسْرَ",
+      "transliteration": "al-ʿusra",
+      "meaning": "the hardship (accusative)",
+      "root": {
+        "letters": "ع-س-ر",
+        "meaning": "to be difficult, to constrain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "وَلِتُكْمِلُوا",
+      "transliteration": "wa li-tukmilū",
+      "meaning": "and to complete (conjunction + purpose)",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, to perfect, wholeness"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, in order to (purpose)"
+        },
+        {
+          "arabic": "تُكْمِلُوا",
+          "meaning": "you complete (verb, 2nd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "الْعِدَّةَ",
+      "transliteration": "al-ʿiddata",
+      "meaning": "the period (accusative)",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to enumerate; number, quantity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "وَلِتُكَبِّرُوا",
+      "transliteration": "wa li-tukabbirū",
+      "meaning": "and to glorify (conjunction + purpose)",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be great, to grow, to magnify, to glorify"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for (purpose)"
+        },
+        {
+          "arabic": "تُكَبِّرُوا",
+          "meaning": "you (plural) glorify, you (plural) magnify"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (accusative)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "on (preposition)",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; ascend, rise"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what (relative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to be able; also related to water or source (as in wanting something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "هَدَاكُمْ",
+      "transliteration": "hadākum",
+      "meaning": "He guided you (past tense + pronoun)",
+      "root": {
+        "letters": "هـ-د-ي",
+        "meaning": "to guide, to show the way"
+      },
+      "components": [
+        {
+          "arabic": "هَدَا",
+          "meaning": "He guided"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "وَلَعَلَّكُمْ",
+      "transliteration": "wa la-ʿallakum",
+      "meaning": "and perhaps you (conjunction + purpose)",
+      "root": {
+        "letters": "ع-ل-ل",
+        "meaning": "to return, to revert; expectation, hope"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "for, in order that (purpose)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "perhaps, maybe (expressing hope/expectation)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "تَشْكُرُونَ",
+      "transliteration": "tashkurūn",
+      "meaning": "you will be grateful (present tense)",
+      "root": {
+        "letters": "ش-ك-ر",
+        "meaning": "to be grateful, to thank"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating present/future tense"
+        },
+        {
+          "arabic": "شْكُر",
+          "meaning": "gratitude, thankfulness (verbal noun form)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person plural (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "month-of Ramadhan the-which was-revealed in-it the-Qur'an guidance for-the people and clear-proofs from the-guidance and the-criterion. So whoever witnessed from-you the-month then let-him fast-it. And whoever was sick or on a journey then an equal-number from days other. Wants Allah for-you the-ease and not wants for-you the-hardship and to complete you the-period and to glorify Allah on what guided-you and perhaps you will be grateful."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

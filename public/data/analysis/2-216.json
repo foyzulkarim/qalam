@@ -1,0 +1,473 @@
+{
+  "verseId": "2:216",
+  "verse": {
+    "arabic": "كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "transliteration": "Kutiba AAalaykumu alqitalu wahuwa kurhun lakum waAAasa an takrahoo shayan wahuwa khayrun lakum waAAasa an tuhibboo shayan wahuwa sharrun lakum waAllahu yaAAlamu waantum la taAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 216
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كُتِبَ",
+      "transliteration": "kutiba",
+      "meaning": "It was written/prescribed",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كُتِبَ",
+          "meaning": "passive voice, past tense; it was written/prescribed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْكُمُ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail; relationship of superiority or position"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقِتَالُ",
+      "transliteration": "al-qitālu",
+      "meaning": "the fighting",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to perish; destruction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and it (masculine)",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to be, existence, essence"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it (masculine pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُرْهٌ",
+      "transliteration": "kurhun",
+      "meaning": "dislike/hatred",
+      "root": {
+        "letters": "ك-ر-ه",
+        "meaning": "to dislike, to hate, aversion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "completion, perfection; possession as a result of completeness"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause/separator marker",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَعَسَىٰ",
+      "transliteration": "wa ʿasā",
+      "meaning": "and perhaps/hopefully",
+      "root": {
+        "letters": "ع-س-ي",
+        "meaning": "to seek, to hope, to attempt"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَسَىٰ",
+          "meaning": "perhaps, hopefully"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[that/to]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "تَكْرَهُوا",
+      "transliteration": "takrahū",
+      "meaning": "you hate (plural)",
+      "root": {
+        "letters": "ك-ر-ه",
+        "meaning": "to dislike, to detest, aversion"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a verb in the imperfect tense, often with a causative or iterative sense (depending on root)"
+        },
+        {
+          "arabic": "كَرِهـ",
+          "meaning": "the root for aversion/dislike"
+        },
+        {
+          "arabic": "~وا",
+          "meaning": "suffix indicating 'you (plural)' - second person masculine plural pronoun suffix attached to the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "a thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and it (masculine)",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to incline, to tend towards; existence (related to the pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it (masculine pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "goodness/better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, good quality, benefit, kindness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "ۖ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause/separator marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَعَسَىٰ",
+      "transliteration": "wa ʿasā",
+      "meaning": "and perhaps/hopefully",
+      "root": {
+        "letters": "ع-س-ي",
+        "meaning": "to attempt, to strive, to hope"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَسَىٰ",
+          "meaning": "to hope, to expect favorably"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "[that/to]",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "تُحِبُّوا",
+      "transliteration": "tuḥibbū",
+      "meaning": "you love (plural)",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of, affection"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "you (plural, prefix indicating second person plural)"
+        },
+        {
+          "arabic": "حِبُّوا",
+          "meaning": "love (verb, form II)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "a thing",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to be something, to exist; a thing in general"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and it (masculine)",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence or identity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he/it (masculine pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "شَرٌّ",
+      "transliteration": "sharrun",
+      "meaning": "badness/worse",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, badness, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ۗ",
+      "transliteration": "āyah (separator)",
+      "meaning": "pause/separator marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to be worshipped, divinity, godhood"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "He knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (implied)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know, to be aware"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating nominative case and present tense verb ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "wa antum",
+      "meaning": "and you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "you know (plural)",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person plural present tense"
+        },
+        {
+          "arabic": "عَلِمْ",
+          "meaning": "to know (root form)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person plural masculine pronoun"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "It-was-written - upon-you - the-fighting - and-it - dislike/hatred - for-you – [pause] - And-perhaps - that - you-hate - a-thing - and-it - goodness/better - for-you – [pause] - And-perhaps - that - you-love - a-thing - and-it - badness/worse - for-you – [pause] - And-Allah - He-knows - and-you - not-you-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "verseId": "2:88",
+  "verse": {
+    "arabic": "وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَل لَّعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
+    "transliteration": "Waqaloo quloobuna ghulfun bal laAAanahumu Allahu bikufrihim faqaleelan ma yuminoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 88
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قُلُوبُنَا",
+      "transliteration": "qulūbunā",
+      "meaning": "our hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns over (metaphorically)"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts (plural)"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "our (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "غُلْفٌ",
+      "transliteration": "ghulfun",
+      "meaning": "wrapped, covered",
+      "root": {
+        "letters": "غ-ل-ف",
+        "meaning": "to cover, to wrap, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ۚ",
+      "transliteration": "lāʾ",
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بَل",
+      "transliteration": "bal",
+      "meaning": "rather, but indeed",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to be moist; negation or opposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّعَنَهُمُ",
+      "transliteration": "laʿanahum",
+      "meaning": "He cursed them",
+      "root": {
+        "letters": "ل-ع-ن",
+        "meaning": "to curse, to disapprove strongly"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَنَهُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِكُفْرِهِمْ",
+      "transliteration": "bikufrihim",
+      "meaning": "with their disbelief",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny, be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "كُفْرِهِمْ",
+          "meaning": "their disbelief"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَقَلِيلًا",
+      "transliteration": "faqalīlan",
+      "meaning": "so little, then a small amount",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to diminish, to decrease"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "قَلِيلًا",
+          "meaning": "a little, a small amount (accusative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; also relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yuʾminūn",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to feel safe and secure, to trust, to believe"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person plural conjugation"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "root related to belief and faith"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine pronoun (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - they - said - our - hearts - [are] - covered - rather - He - cursed - them - with - their - disbelief - so - little - that which - they - believe"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

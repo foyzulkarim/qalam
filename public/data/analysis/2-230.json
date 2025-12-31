@@ -1,0 +1,600 @@
+{
+  "verseId": "2:230",
+  "verse": {
+    "arabic": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُ مِن بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُ ۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَا أَن يَتَرَاجَعَا إِن ظَنَّا أَن يُقِيمَا حُدُودَ اللَّهِ ۗ وَتِلْكَ حُدُودُ اللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+    "transliteration": "Fain tallaqaha fala tahillu lahu min baAAdu hatta tankiha zawjan ghayrahu fain tallaqaha fala junaha AAalayhima an yatarajaAAa in thanna an yuqeema hudooda Allahi watilka hudoodu Allahi yubayyinuha liqawmin yaAAlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 230
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِن",
+      "transliteration": "faʾin",
+      "meaning": "then, so if",
+      "root": {
+        "letters": "ف-إ-ن",
+        "meaning": "to perish, to be lost, to cease; also used as a conditional particle"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَلَّقَهَا",
+      "transliteration": "ṭallaqahā",
+      "meaning": "he divorced her",
+      "root": {
+        "letters": "ﻁ-ل-ق",
+        "meaning": "to release, to divorce"
+      },
+      "components": [
+        {
+          "arabic": "طَلَّقَ",
+          "meaning": "he divorced"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then not",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, deficient, or lack something"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَحِلُّ",
+      "transliteration": "taḥillu",
+      "meaning": "is lawful",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to loosen, untie, dissolve; to be lawful"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a verb in the present tense, form IV"
+        },
+        {
+          "arabic": "حَلَّ",
+          "meaning": "to be lawful/permitted"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "present tense ending, second person masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بَعْدُ",
+      "transliteration": "baʿdu",
+      "meaning": "afterward",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَنكِحَ",
+      "transliteration": "tankiḥa",
+      "meaning": "she marries",
+      "root": {
+        "letters": "ن-ك-ح",
+        "meaning": "to have sexual intercourse; to marry"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the subjunctive mood or jussive; also future tense marker"
+        },
+        {
+          "arabic": "نَكِحَ",
+          "meaning": "he married; he had sexual intercourse with"
+        },
+        {
+          "arabic": "ـَ",
+          "meaning": "tanween al-fatḥ, indefinite marker indicating nominative case"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "زَوْجًا",
+      "transliteration": "zawjan",
+      "meaning": "a husband",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to pair, to couple"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "غَيْرَهُ",
+      "transliteration": "ghayrahu",
+      "meaning": "other than him",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to be other than, to lack, deficiency"
+      },
+      "components": [
+        {
+          "arabic": "غَيْر",
+          "meaning": "other than, different from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, he (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to stop speaking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَإِن",
+      "transliteration": "faʾin",
+      "meaning": "then, so if",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, confirmation; to be true, rightness"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so; connective particle indicating sequence or condition"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if; conditional particle introducing a protasis"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "طَلَّقَهَا",
+      "transliteration": "ṭallaqahā",
+      "meaning": "he divorced her",
+      "root": {
+        "letters": "ﻁ-ل-ق",
+        "meaning": "to release, to divorce, to untie"
+      },
+      "components": [
+        {
+          "arabic": "طَلَّقَ",
+          "meaning": "he divorced"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to reject, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "جُنَاحَ",
+      "transliteration": "junāḥa",
+      "meaning": "blame, harm",
+      "root": {
+        "letters": "ج-ن-ح",
+        "meaning": "to cover, to shield; side, wing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "عَلَيْهِمَا",
+      "transliteration": "ʿalayhimā",
+      "meaning": "upon them (dual)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate; over, above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمَا",
+          "meaning": "them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also indicates intention or purpose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَتَرَاجَعَا",
+      "transliteration": "yatarājaʿā",
+      "meaning": "they return to each other",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense or imperfective aspect (form I)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "indicates reciprocal action or mutual involvement"
+        },
+        {
+          "arabic": "رَاجَعَا",
+          "meaning": "they returned (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "if",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ظَنَّا",
+      "transliteration": "ẓunnā",
+      "meaning": "they think, they assume",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to suppose, to believe"
+      },
+      "components": [
+        {
+          "arabic": "ظَنّ",
+          "meaning": "thinking, supposition"
+        },
+        {
+          "arabic": "ـَا",
+          "meaning": "dual pronoun suffix (they - masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist; to become"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "particle indicating subordination or purpose"
+        },
+        {
+          "arabic": "ن",
+          "meaning": "denotes a state or condition related to the root meaning of existence/becoming"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "يُقِيمَا",
+      "transliteration": "yuqīmā",
+      "meaning": "they establish, they uphold",
+      "root": {
+        "letters": "ق-ا-م",
+        "meaning": "to stand, to establish, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "dual present tense prefix"
+        },
+        {
+          "arabic": "قِيمَا",
+          "meaning": "they establish (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "حُدُودَ",
+      "transliteration": "ḥudūda",
+      "meaning": "limits, boundaries",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to limit, to restrain"
+      },
+      "components": [
+        {
+          "arabic": "حُد",
+          "meaning": "limits, boundaries (plural form base)"
+        },
+        {
+          "arabic": "ودَ",
+          "meaning": "indicates the genitive plural ending (possessive or belonging to)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship; the deity"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "pronoun suffix indicating possession, 'of He/Him'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "[pause]",
+      "root": {
+        "letters": "س-ك-ت",
+        "meaning": "to be silent, to cease speaking or activity"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating stillness or quietude"
+        },
+        {
+          "arabic": "كَتَ",
+          "meaning": "to be silent, to cease"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَتِلْكَ",
+      "transliteration": "wa tilka",
+      "meaning": "and those",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to indicate, to show, to point out"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تِلْكَ",
+          "meaning": "those (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "حُدُودُ",
+      "transliteration": "ḥudūdu",
+      "meaning": "limits, boundaries",
+      "root": {
+        "letters": "ح-د-د",
+        "meaning": "to define, to limit, to restrict"
+      },
+      "components": [
+        {
+          "arabic": "حُدّ",
+          "meaning": "limit, boundary (singular)"
+        },
+        {
+          "arabic": "-وُد",
+          "meaning": "plural ending (masculine, broken plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "possessive suffix, of He/His"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "يُبَيِّنُهَا",
+      "transliteration": "yubayyinu-hā",
+      "meaning": "He makes clear them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, to explain, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "يُبَيِّنُ",
+          "meaning": "He makes clear"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "لِقَوْمٍ",
+      "transliteration": "liqawmin",
+      "meaning": "for a people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to establish, to rise up; a people (those who stand together)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "قَوْمٍ",
+          "meaning": "a people, tribe, nation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "they know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person plural subject (they)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating first person plural (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-if he-divorced her - then-not is-lawful for-him from after until she-marries a-husband other-than him - so-if he-divorced her - then-not blame upon-them (dual) that they-return to-each-other if they-think that they-establish limits of-Allah - and-those limits of-Allah He-makes-clear them for-a-people they-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

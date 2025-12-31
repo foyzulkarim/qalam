@@ -1,0 +1,648 @@
+{
+  "verseId": "2:260",
+  "verse": {
+    "arabic": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ أَرِنِي كَيْفَ تُحْيِي الْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَـٰكِن لِّيَطْمَئِنَّ قَلْبِي ۖ قَالَ فَخُذْ أَرْبَعَةً مِّنَ الطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ اجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ادْعُهُنَّ يَأْتِينَكَ سَعْيًا ۚ وَاعْلَمْ أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+    "transliteration": "Waith qala ibraheemu rabbi arinee kayfa tuhyee almawta qala awalam tumin qala bala walakin liyatmainna qalbee qala fakhuth arbaAAatan mina alttayri fasurhunna ilayka thumma ijAAal AAala kulli jabalin minhunna juzan thumma odAAuhunna yateenaka saAAyan waiAAlam anna Allaha AAazeezun hakeemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 260
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and [when], and behold",
+      "root": {
+        "letters": "و-ذ-ع",
+        "meaning": "to perceive, to experience, to feel"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, behold (temporal particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِبْرَاهِيمُ",
+      "transliteration": "ʾibrāhīmu",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be great, to be powerful; to cultivate/improve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّ",
+      "transliteration": "rabbi",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "My Lord (possessive pronoun suffix attached to the noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَرِنِي",
+      "transliteration": "ʾarinī",
+      "meaning": "show me",
+      "root": {
+        "letters": "ر-ي-ن",
+        "meaning": "to see, to perceive, to observe"
+      },
+      "components": [
+        {
+          "arabic": "أَر",
+          "meaning": "imperative prefix indicating request/command"
+        },
+        {
+          "arabic": "نِي",
+          "meaning": "first person singular pronoun suffix (me)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; condition, state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تُحْيِي",
+      "transliteration": "tuḥyī",
+      "meaning": "You give life to",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, being alive"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "You (masculine singular, prefix indicating second-person)"
+        },
+        {
+          "arabic": "حْيِي",
+          "meaning": "give life, revive (from root ح-ي-و)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْمَوْتَىٰ",
+      "transliteration": "al-mawtā",
+      "meaning": "the dead",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, to die; weakness, helplessness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَوْتَىٰ",
+          "meaning": "dead (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَوَلَمْ",
+      "transliteration": "ʾawalam",
+      "meaning": "Have you not",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to go back, to precede"
+      },
+      "components": [
+        {
+          "arabic": "أَو",
+          "meaning": "or"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "تُؤْمِن",
+      "transliteration": "tuʾmin",
+      "meaning": "you believe?",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety; to believe, trust"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "believe, have faith"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To utter, to speak, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "بَلَىٰ",
+      "transliteration": "balā",
+      "meaning": "Yes",
+      "root": {
+        "letters": "ب-ل-ي",
+        "meaning": "to be afflicted, to reach, to attain; also used for affirmation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَلَـٰكِن",
+      "transliteration": "wa-lakin",
+      "meaning": "but, however",
+      "root": {
+        "letters": "ل-ك-ن",
+        "meaning": "to be able, to possess the capacity; reluctance, unwillingness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـٰكِن",
+          "meaning": "but, however (particle expressing contrast)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لِّيَطْمَئِنَّ",
+      "transliteration": "liyaṭmaʾinna",
+      "meaning": "that my heart may be satisfied",
+      "root": {
+        "letters": "ط-م-ن",
+        "meaning": "to be secure, to find peace or reassurance"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يَطْمَئِنَّ",
+          "meaning": "may be satisfied/reassured (verb, subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "قَلْبِي",
+      "transliteration": "qalbi",
+      "meaning": "my heart",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes"
+      },
+      "components": [
+        {
+          "arabic": "قلب",
+          "meaning": "heart"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "He said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَخُذْ",
+      "transliteration": "fakhudh",
+      "meaning": "then take",
+      "root": {
+        "letters": "خ-ذ-ي",
+        "meaning": "to take, to seize, to possess"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "خُذْ",
+          "meaning": "take (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "أَرْبَعَةً",
+      "transliteration": "ʾarbaʿatan",
+      "meaning": "four",
+      "root": {
+        "letters": "ر-ب-ع",
+        "meaning": "to be quadrilateral, to have four parts; completeness, fullness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "الطَّيْرِ",
+      "transliteration": "aṭ-ṭayri",
+      "meaning": "the birds",
+      "root": {
+        "letters": "ط-ي-ر",
+        "meaning": "to fly, bird"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "طَيْر",
+          "meaning": "birds"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "فَصُرْهُنَّ",
+      "transliteration": "faṣurhunna",
+      "meaning": "then commit them [to yourself]",
+      "root": {
+        "letters": "ص-ر-ح",
+        "meaning": "to disclose, to reveal, to expose (something hidden)"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "صُرْ",
+          "meaning": "commit, entrust"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "إِلَيْكَ",
+      "transliteration": "ʾilayka",
+      "meaning": "to you",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards, direction"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to be firm; also indicates sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "اجْعَلْ",
+      "transliteration": "ijʿal",
+      "meaning": "put, place",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to transform"
+      },
+      "components": [
+        {
+          "arabic": "اِج",
+          "meaning": "imperative prefix indicating request or command"
+        },
+        {
+          "arabic": "عَلْ",
+          "meaning": "root verb with vowel indicating present/future tense (depending on context)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "on, upon",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate; superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "each, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, wholeness, all"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "جَبَلٍ",
+      "transliteration": "jabalin",
+      "meaning": "hill, mountain",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise up; strength, power"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِّنْهُنَّ",
+      "transliteration": "minhunna",
+      "meaning": "of them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "they (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "جُزْءًا",
+      "transliteration": "juʾzan",
+      "meaning": "a portion",
+      "root": {
+        "letters": "ج-ز-أ",
+        "meaning": "to divide, to separate, to be a part of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to become firm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "ادْعُهُنَّ",
+      "transliteration": "idʿuhunna",
+      "meaning": "then call them",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke; to pray"
+      },
+      "components": [
+        {
+          "arabic": "اِدْ",
+          "meaning": "prefix indicating request or purpose"
+        },
+        {
+          "arabic": "دُ",
+          "meaning": "second radical, part of the verb stem"
+        },
+        {
+          "arabic": "هُنَّ",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "يَأْتِينَكَ",
+      "transliteration": "yaʾtīnika",
+      "meaning": "they will come to you",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to approach"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first-person plural future tense or subjunctive mood"
+        },
+        {
+          "arabic": "أَتْ",
+          "meaning": "root for 'to come'"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "pronoun suffix indicating 'to you (masculine singular)'"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "pronoun suffix indicating 'they'"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "pronoun suffix indicating 'to you (masculine singular)' attached to the verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "سَعْيًا",
+      "transliteration": "saʿyan",
+      "meaning": "in haste, quickly",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to strive, to endeavor, to seek"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "وَاعْلَمْ",
+      "transliteration": "wa-ʿlam",
+      "meaning": "and know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمْ",
+          "meaning": "know! (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "that, indeed",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence, confirmation"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "a reinforcing particle, emphasizing the following statement"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "indicates emphasis and confirms the statement; functions as a nasal particle connected to 'أن'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "عَزِيزٌ",
+      "transliteration": "ʿazīzun",
+      "meaning": "Exalted in Might, Powerful",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "حَكِيمٌ",
+      "transliteration": "ḥakīmun",
+      "meaning": "Wise",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule with wisdom and justice; to restrain or control."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-when qāla ʾibrāhīmu rabbi ʾarinī kayfa tuḥyī al-mawtā qāla awalam tuʾmin qāla balā wa-lakin liyaṭmaʾinna qalbi qāla fakhudh ʾarbaʿatan mina aṭ-ṭayri faṣurhunna ʾilayka thumma ijʿal ʿalā kulli jabalin minhunna juʾzan thumma idʿuhunna yaʾtīnika saʿyan wa-ʿlam ʾanna allāha ʿazīzun ḥakīmun"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

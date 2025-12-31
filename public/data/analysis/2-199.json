@@ -1,0 +1,169 @@
+{
+  "verseId": "2:199",
+  "verse": {
+    "arabic": "ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ ۚ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+    "transliteration": "Thumma afeedoo min haythu afada alnnasu waistaghfiroo Allaha inna Allaha ghafoorun raheemun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 199
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَفِيضُوا",
+      "transliteration": "ʾafīḍū",
+      "meaning": "depart, flow forth (imperative)",
+      "root": {
+        "letters": "ف-ي-ض",
+        "meaning": "abundance, overflow; to pour forth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be sourced from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "where, whence",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist, location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَفَاضَ",
+      "transliteration": "ʾafāḍa",
+      "meaning": "flowed forth, departed",
+      "root": {
+        "letters": "ف-ض-د",
+        "meaning": "to overflow, to spread out; excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (derived from the idea of forgetting one's origin or ancestral ties)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَاسْتَغْفِرُوا",
+      "transliteration": "wastaghfirū",
+      "meaning": "and seek forgiveness, and ask pardon (imperative)",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to pardon, to cover (a fault)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اسْتَ",
+          "meaning": "intensive prefix, to seek thoroughly/repeatedly"
+        },
+        {
+          "arabic": "غْفِرُوا",
+          "meaning": "you (plural) forgive/pardon (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; a deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to be devoted to (something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "غَفُورٌ",
+      "transliteration": "ghafūrun",
+      "meaning": "Forgiving, Most Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "رَّحِيمٌ",
+      "transliteration": "raḥīmun",
+      "meaning": "Merciful, Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "To have compassion, to show kindness and mercy."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-depart [you] from where flowed forth the people and-seek forgiveness Allah indeed Allah Forgiving Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

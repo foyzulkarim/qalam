@@ -1,0 +1,347 @@
+{
+  "verseId": "2:110",
+  "verse": {
+    "arabic": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ ۗ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "transliteration": "Waaqeemoo alssalata waatoo alzzakata wama tuqaddimoo lianfusikum min khayrin tajidoohu AAinda Allahi inna Allaha bima taAAmaloona baseerun",
+    "surah": "Al-Baqarah",
+    "verseNumber": 110
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَقِيمُوا",
+      "transliteration": "aqīmū",
+      "meaning": "establish, perform regularly",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to establish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الصَّلَاةَ",
+      "transliteration": "aṣ-ṣalāta",
+      "meaning": "the prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَّلَاة",
+          "meaning": "prayer"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آتُوا",
+      "transliteration": "ātū",
+      "meaning": "give, pay",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give (as in bringing something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الزَّكَاةَ",
+      "transliteration": "az-zakāta",
+      "meaning": "the zakah (obligatory charity)",
+      "root": {
+        "letters": "ز-ك-و",
+        "meaning": "to grow, to increase; purity, blessedness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۚ",
+      "transliteration": "lā taʿlamu",
+      "meaning": "[pause marker, not part of fundamental meaning]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَعْلَمُ",
+          "meaning": "you know (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whatever, what"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تُقَدِّمُوا",
+      "transliteration": "tuqaddimū",
+      "meaning": "you put forward, you advance",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to advance, to put forward, to send forth"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine plural (you)"
+        },
+        {
+          "arabic": "قَدَّم",
+          "meaning": "to advance, to put forward"
+        },
+        {
+          "arabic": "ـُوا",
+          "meaning": "suffix indicating the second person masculine plural (you - verb ending)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِأَنفُسِكُم",
+      "transliteration": "liʾanfusikum",
+      "meaning": "for yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person; to breathe, exhale"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَنفُسِكُم",
+          "meaning": "your selves (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, diminish, be less"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "خَيْرٍ",
+      "transliteration": "khayrin",
+      "meaning": "goodness, good",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, goodness, benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَجِدُوهُ",
+      "transliteration": "tajidūhu",
+      "meaning": "you will find it",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to find, to obtain, to discover"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating future tense or habitual action"
+        },
+        {
+          "arabic": "جِدُ",
+          "meaning": "finding, obtaining (verbal noun/source)"
+        },
+        {
+          "arabic": "وهُ",
+          "meaning": "him/it (attached pronoun, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "with, at the presence of",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be near"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "with, at the presence of; indicates location or possession"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "ۗ",
+      "transliteration": "lā taʿlamu",
+      "meaning": "[pause marker, not part of fundamental meaning]",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        },
+        {
+          "arabic": "تَعْلَمُ",
+          "meaning": "you know (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "بِمَا",
+      "transliteration": "bi mā",
+      "meaning": "with what, by which",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be, exist; to possess (in a broad sense); thingness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "تَعْمَلُونَ",
+      "transliteration": "taʿmalūna",
+      "meaning": "you do, you work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, effort"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَمَل",
+          "meaning": "doing, work, action (verbal noun)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "بَصِيرٌ",
+      "transliteration": "baṣīrun",
+      "meaning": "Seeing, All-Seer",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to be aware, to understand"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-establish prayer and-give zakah and-whatever good you-put-forward for-yourselves from goodness -you-will-find it with Allah indeed-Allah by what you-do Seeing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

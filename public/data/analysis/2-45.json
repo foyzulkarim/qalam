@@ -1,0 +1,159 @@
+{
+  "verseId": "2:45",
+  "verse": {
+    "arabic": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ",
+    "transliteration": "WaistaAAeenoo bialssabri waalssalati wainnaha lakabeeratun illa AAala alkhashiAAeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 45
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاسْتَعِينُوا",
+      "transliteration": "wa-staʿīnū",
+      "meaning": "and seek help",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to assist, help, support"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اِسْتَعِينُوا",
+          "meaning": "seek help (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِالصَّبْرِ",
+      "transliteration": "bi-ṣ-ṣabri",
+      "meaning": "with patience"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالصَّلَاةِ",
+      "transliteration": "wa-ṣ-ṣalāti",
+      "meaning": "and the prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الصَّلَاةِ",
+          "meaning": "the prayer"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۚ",
+      "transliteration": "āyah (pause)",
+      "meaning": "pause marker",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَإِنَّهَا",
+      "transliteration": "wa-inna-hā",
+      "meaning": "and indeed it (feminine)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; establishment, firmness"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَكَبِيرَةٌ",
+      "transliteration": "la-kabīratun",
+      "meaning": "is great/difficult",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, great; to grow, increase"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كَبِيرَةٌ",
+          "meaning": "great, large (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to resort to, to turn towards; negation or exclusion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/for",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْخَاشِعِينَ",
+      "transliteration": "al-khāshiʿīna",
+      "meaning": "the humbly submissive (masculine plural)",
+      "root": {
+        "letters": "خ-ش-ع",
+        "meaning": "to be subdued, humbled, lowered; to become meek"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَاشِعِينَ",
+          "meaning": "humbly submissive (masculine plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-seek-help with-patience and-the-prayer pause and-indeed it is-great except upon-the-humbly-submissive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

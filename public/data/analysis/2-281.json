@@ -1,0 +1,263 @@
+{
+  "verseId": "2:281",
+  "verse": {
+    "arabic": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "transliteration": "Waittaqoo yawman turjaAAoona feehi ila Allahi thumma tuwaffa kullu nafsin ma kasabat wahum la yuthlamoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 281
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wa-ttaqū",
+      "meaning": "and fear, and be cautious of",
+      "root": {
+        "letters": "و-ق-ى",
+        "meaning": "to shield, protect, be cautious"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear, be cautious of (imperative plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمًا",
+      "transliteration": "yawman",
+      "meaning": "a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُرْجَعُونَ",
+      "transliteration": "turjaʿūn",
+      "meaning": "you will be returned",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense/passive voice (form X)"
+        },
+        {
+          "arabic": "رَجَعَ",
+          "meaning": "to return, to go back (verb root)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural 'you' (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, to it",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, to"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِلَى",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to tend towards, to go toward, inclination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāh",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "pause marker (no lexical meaning)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterward",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set; a point of time or sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تُوَفَّىٰ",
+      "transliteration": "tuwaffā",
+      "meaning": "will be compensated, will be paid in full",
+      "root": {
+        "letters": "و-ف-ي",
+        "meaning": "to fulfill, to complete, to pay"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "passive voice marker, indicates 'will be'"
+        },
+        {
+          "arabic": "وَفَّىٰ",
+          "meaning": "to fully pay, to compensate completely"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كُلُّ",
+      "transliteration": "kullu",
+      "meaning": "every, all",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "نَفْسٍ",
+      "transliteration": "nafsin",
+      "meaning": "soul, person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, spirit, essence, self"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "كَسَبَتْ",
+      "transliteration": "kasabat",
+      "meaning": "it earned, it acquired",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to strive, to earn, to acquire"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "feminine prefix indicating the subject is female"
+        },
+        {
+          "arabic": "سَبَتْ",
+          "meaning": "past tense, 3rd person feminine singular of the verb 'to earn'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to have, to possess; intention, purpose"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "denial, negation, absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُظْلَمُونَ",
+      "transliteration": "yuẓlamūn",
+      "meaning": "they will be wronged, they will not be treated unjustly",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "oppression, injustice, darkness"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker and pronoun prefix (they)"
+        },
+        {
+          "arabic": "ظْلَم",
+          "meaning": "to be oppressed, to be wronged"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural masculine suffix (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-fear a day you-will-be-returned in-it to Allah then will-be-compensated every soul what it-earned and-they not they-will-be-wronged"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

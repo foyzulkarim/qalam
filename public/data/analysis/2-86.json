@@ -1,0 +1,279 @@
+{
+  "verseId": "2:86",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنصَرُونَ",
+    "transliteration": "Olaika allatheena ishtarawoo alhayata alddunya bialakhirati fala yukhaffafu AAanhumu alAAathabu wala hum yunsaroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 86
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, to begin; the earliest or foremost."
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (masculine plural demonstrative prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Suffix indicating masculine plural, remote (distant) reference."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "The ones who (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (relative pronoun derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اشْتَرَوُا",
+      "transliteration": "ishtarawū",
+      "meaning": "They bought (verb)",
+      "root": {
+        "letters": "ش-ر-ى",
+        "meaning": "to purchase, to acquire, to own"
+      },
+      "components": [
+        {
+          "arabic": "اِشْتَ",
+          "meaning": "intensive prefix indicating a strong or frequent action"
+        },
+        {
+          "arabic": "رَ",
+          "meaning": "middle radical, part of the root"
+        },
+        {
+          "arabic": "وُ",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَيَاةَ",
+      "transliteration": "al-ḥayāta",
+      "meaning": "The life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَيَاة",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "The world",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "lowliness, baseness, humility; transient nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِالْآخِرَةِ",
+      "transliteration": "bil-ʾākhirati",
+      "meaning": "With/for the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the end or last part of something"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, for, by means of"
+        },
+        {
+          "arabic": "الْآخِرَةِ",
+          "meaning": "the Hereafter, the afterlife"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": "faṣla",
+      "meaning": "Pause marker (separator)",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "To separate, distinguish, decide, resolve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "So not/then not",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So/Then (particle indicating consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "Not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يُخَفَّفُ",
+      "transliteration": "yukhaffafu",
+      "meaning": "Is lightened/is reduced",
+      "root": {
+        "letters": "خ-ف-ف",
+        "meaning": "to be light, easy, reduced; to lessen"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker/prefix indicating 'is being'"
+        },
+        {
+          "arabic": "خَفَّفَ",
+          "meaning": "to lighten, to reduce (verb in the passive form)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "tanween al-fatḥ for indefinite noun/passive participle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَنْهُمُ",
+      "transliteration": "ʿanhumū",
+      "meaning": "From them",
+      "root": {
+        "letters": "ع-ن-هـ",
+        "meaning": "to be distant, to depart from, to turn away from"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْعَذَابُ",
+      "transliteration": "al-ʿadhābu",
+      "meaning": "The punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; bitterness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَلَا",
+      "transliteration": "walā",
+      "meaning": "And not/nor",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to refuse, to be averse"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to intend, to desire, to return; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يُنصَرُونَ",
+      "transliteration": "yunṣarūna",
+      "meaning": "Are aided/they are helped",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to help, to aid, to give victory"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "passive voice prefix, indicating 'are being'"
+        },
+        {
+          "arabic": "صَر",
+          "meaning": "root for help/aid, verb stem"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix denoting plural masculine, 'they'"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "pronoun suffix, 'them'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those - the ones who - they bought - the life - the world - with/for the Hereafter - so not - is lightened - from them - the punishment - and not - they - are aided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

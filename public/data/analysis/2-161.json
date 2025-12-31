@@ -1,0 +1,253 @@
+{
+  "verseId": "2:161",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ كَفَرُوا وَمَاتُوا وَهُمْ كُفَّارٌ أُولَـٰئِكَ عَلَيْهِمْ لَعْنَةُ اللَّهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِينَ",
+    "transliteration": "Inna allatheena kafaroo wamatoo wahum kuffarun olaika AAalayhim laAAnatu Allahi waalmalaikati waalnnasi ajmaAAeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 161
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed; Verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed; Verily (emphasizing statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, or be connected with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "Disbelieved; Denied (faith)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover; to conceal; to deny; to be ungrateful."
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Prefix indicating a group (plural)."
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "Second person masculine plural past tense verb form of كَفَرَ (to disbelieve)."
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَمَاتُوا",
+      "transliteration": "wa-mātū",
+      "meaning": "And they died",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die; death"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَاتُوا",
+          "meaning": "they died"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "And they (pronoun referring to the previous subject)",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "To desire, to intend, or referring to a group of people."
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "And"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "They (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كُفَّارٌ",
+      "transliteration": "kuffār",
+      "meaning": "Disbelievers; Deniers (of faith)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover; to conceal; to deny (grace, truth)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾulāʾika",
+      "meaning": "Those (ones)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, to begin; the initial ones"
+      },
+      "components": [
+        {
+          "arabic": "أُولَ",
+          "meaning": "Those, the initial ones (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "ـٰئِكَ",
+          "meaning": "Suffix indicating plural masculine (those ones)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَعْنَةُ",
+      "transliteration": "laʿnatu",
+      "meaning": "The curse of",
+      "root": {
+        "letters": "ل-ع-ن",
+        "meaning": "to curse, to disapprove strongly, to be lost or doomed"
+      },
+      "components": [
+        {
+          "arabic": "لَعْن",
+          "meaning": "curse, condemnation"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker, indefinite noun suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah; God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "To worship, deity, the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَالْمَلَائِكَةِ",
+      "transliteration": "wa-l-malāʾikati",
+      "meaning": "And the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَلَائِكَةِ",
+          "meaning": "the angels"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَالنَّاسِ",
+      "transliteration": "wa-n-nāsi",
+      "meaning": "And the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "أَجْمَعِينَ",
+      "transliteration": "ajmaʿīna",
+      "meaning": "All together; Entirely",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather, to unite"
+      },
+      "components": [
+        {
+          "arabic": "أَجْمَعِينَ",
+          "meaning": "All together; Entirely (collective plural indicating totality)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed - those-who - disbelieved - and - they-died - and - they - disbelievers - those - upon-them - the-curse-of - Allah - and - the-angels - and - the-people - all-together"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

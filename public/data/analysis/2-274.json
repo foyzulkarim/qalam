@@ -1,0 +1,331 @@
+{
+  "verseId": "2:274",
+  "verse": {
+    "arabic": "الَّذِينَ يُنفِقُونَ أَمْوَالَهُم بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "transliteration": "Allatheena yunfiqoona amwalahum biallayli waalnnahari sirran waAAalaniyatan falahum ajruhum AAinda rabbihim wala khawfun AAalayhim wala hum yahzanoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 274
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to possess, to own, to have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُنفِقُونَ",
+      "transliteration": "yunfiqūna",
+      "meaning": "they spend",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to emit"
+      },
+      "components": [
+        {
+          "arabic": "يُن",
+          "meaning": "they (masculine plural) - prefix indicating person, number, and gender."
+        },
+        {
+          "arabic": "فِق",
+          "meaning": "spending, expenditure - derived from the root ن-ف-ق."
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "present tense ending - indicates ongoing action."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَمْوَالَهُم",
+      "transliteration": "amwālahum",
+      "meaning": "their wealths",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; wealth"
+      },
+      "components": [
+        {
+          "arabic": "أَمْوَال",
+          "meaning": "wealths (plural)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (pronoun suffix indicating possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِاللَّيْلِ",
+      "transliteration": "bi-l-layli",
+      "meaning": "by the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "اللَّيْلِ",
+          "meaning": "the night"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالنَّهَارِ",
+      "transliteration": "wa-n-nahāri",
+      "meaning": "and the day",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to appear, to be visible; brightness, clarity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "النَّهَار",
+          "meaning": "the day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سِرًّا",
+      "transliteration": "sirran",
+      "meaning": "secretly",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to conceal, hide, keep private"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَعَلَانِيَةً",
+      "transliteration": "wa-ʿalāniyatan",
+      "meaning": "and publicly",
+      "root": {
+        "letters": "ع-ل-ن",
+        "meaning": "to be open, public, manifest"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَلَانِيَةً",
+          "meaning": "publicly, openly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "فَلَهُمْ",
+      "transliteration": "fa-lahum",
+      "meaning": "so for them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to (preposition)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "أَجْرُهُمْ",
+      "transliteration": "ajruhum",
+      "meaning": "their reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to recompense, to reward; effort or labor done for a wage"
+      },
+      "components": [
+        {
+          "arabic": "أَجْرُ",
+          "meaning": "reward, wages"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "with/at",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possession, presence, location"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "خَوْفٌ",
+      "transliteration": "khawfun",
+      "meaning": "fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate, to rise"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, not to be willing"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to intend, to desire; pronoun related to 'they'"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَحْزَنُونَ",
+      "transliteration": "yaḥzanūna",
+      "meaning": "they grieve/sad",
+      "root": {
+        "letters": "ح-ز-ن",
+        "meaning": "to feel distress, sorrow, or sadness; to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "يَحْزَنُ",
+          "meaning": "they grieve/sad (verb, present tense)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "dual or plural masculine suffix, indicating 'they'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who they-spend their wealths by-the night and-the day secretly and publicly so for-them their reward with their Lord and not fear upon them and not they grieve"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "verseId": "2:204",
+  "verse": {
+    "arabic": "وَمِنَ النَّاسِ مَن يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا وَيُشْهِدُ اللَّهَ عَلَىٰ مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ",
+    "transliteration": "Wamina alnnasi man yuAAjibuka qawluhu fee alhayati alddunya wayushhidu Allaha AAala ma fee qalbihi wahuwa aladdu alkhisami",
+    "surah": "Al-Baqarah",
+    "verseNumber": 204
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِنَ",
+      "transliteration": "wa-mina",
+      "meaning": "and from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be part of, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (as they 'forget' their covenant with God)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, someone",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to conceal; a sense of questioning or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُعْجِبُكَ",
+      "transliteration": "yuʿjibuka",
+      "meaning": "pleases you",
+      "root": {
+        "letters": "ع-ج-ب",
+        "meaning": "to be wondrous, to please"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present tense and active voice"
+        },
+        {
+          "arabic": "عَجِبَ",
+          "meaning": "to find something pleasing, to like"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "suffix indicating 'you' (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَوْلُهُ",
+      "transliteration": "qawluhu",
+      "meaning": "his speech",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, speech"
+      },
+      "components": [
+        {
+          "arabic": "قول",
+          "meaning": "speech, word"
+        },
+        {
+          "arabic": "ـه",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْحَيَاةِ",
+      "transliteration": "al-ḥayāti",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاةٍ",
+          "meaning": "life (abstract noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble; to become temporary or fleeting"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَيُشْهِدُ",
+      "transliteration": "wa-yushhidu",
+      "meaning": "and he witnesses, and he testifies",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, to be present"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُشْهِدُ",
+          "meaning": "he witnesses, he testifies"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship; divinity, godhood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to have, possess; to be (exist)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "قَلْبِهِ",
+      "transliteration": "qalbuhu",
+      "meaning": "his heart",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the organ of perception and emotion"
+      },
+      "components": [
+        {
+          "arabic": "قلب",
+          "meaning": "heart"
+        },
+        {
+          "arabic": "ـه",
+          "meaning": "his (masculine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "and he is",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; to be"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "أَلَدُّ",
+      "transliteration": "aladdu",
+      "meaning": "the fiercest, the most vehement",
+      "root": {
+        "letters": "د-د-و",
+        "meaning": "to be vehement, intense; to rush forth forcefully"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْخِصَامِ",
+      "transliteration": "al-khiṣāmi",
+      "meaning": "the dispute, the opposition",
+      "root": {
+        "letters": "خ-ص-م",
+        "meaning": "to oppose, to dispute, to contend"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خِصَام",
+          "meaning": "dispute, opposition"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-from the-people someone whose speech pleases-you in the-life the-world and-he-witnesses Allah upon what in his-heart and-he is the-fiercest the-opposition"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

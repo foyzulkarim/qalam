@@ -1,0 +1,146 @@
+{
+  "verseId": "2:43",
+  "verse": {
+    "arabic": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+    "transliteration": "Waaqeemoo alssalata waatoo alzzakata wairkaAAoo maAAa alrrakiAAeena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَقِيمُوا",
+      "transliteration": "aqīmū",
+      "meaning": "establish, uphold",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to establish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الصَّلَاةَ",
+      "transliteration": "aṣ-ṣalāta",
+      "meaning": "the prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَلَاة",
+          "meaning": "prayer, act of worship"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آتُوا",
+      "transliteration": "ātū",
+      "meaning": "give, present",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to bring, to give"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الزَّكَاةَ",
+      "transliteration": "az-zakāta",
+      "meaning": "the zakah (obligatory charity)",
+      "root": {
+        "letters": "ز-ك-و",
+        "meaning": "to grow, to increase; purity, goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ارْكَعُوا",
+      "transliteration": "arkʿū",
+      "meaning": "bow, prostrate",
+      "root": {
+        "letters": "ر-ك-ع",
+        "meaning": "to incline, to bend, to prostrate"
+      },
+      "components": [
+        {
+          "arabic": "ارْ",
+          "meaning": "imperative prefix indicating 'do!' or 'perform!'"
+        },
+        {
+          "arabic": "كَعُوا",
+          "meaning": "bow/prostrate (second-person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "with",
+      "root": {
+        "letters": "ع-م-و",
+        "meaning": "to accompany, to be with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الرَّاكِعِينَ",
+      "transliteration": "ar-rākiʿīna",
+      "meaning": "the bowers, those who bow (in prayer)",
+      "root": {
+        "letters": "ر-ك-ع",
+        "meaning": "to bow, prostrate; to be humble or submissive"
+      },
+      "components": [
+        {
+          "arabic": "الرَّاكِعِينَ",
+          "meaning": "The bowers, those who bow (in prayer) - plural masculine form indicating a group performing the act of bowing."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-establish the-prayer and-give the-zakah and-bow with the-bowers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

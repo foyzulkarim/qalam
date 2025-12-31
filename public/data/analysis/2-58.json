@@ -1,0 +1,395 @@
+{
+  "verseId": "2:58",
+  "verse": {
+    "arabic": "وَإِذْ قُلْنَا ادْخُلُوا هَـٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ",
+    "transliteration": "Waith qulna odkhuloo hathihi alqaryata fakuloo minha haythu shitum raghadan waodkhuloo albaba sujjadan waqooloo hittatun naghfir lakum khatayakum wasanazeedu almuhsineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 58
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "wa'idh",
+      "meaning": "and when/and remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُلْنَا",
+      "transliteration": "qulnā",
+      "meaning": "We said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قل",
+          "meaning": "say (imperative, addressed to a group)"
+        },
+        {
+          "arabic": "نا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ادْخُلُوا",
+      "transliteration": "udkhulū",
+      "meaning": "enter (plural imperative)",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter; to go in"
+      },
+      "components": [
+        {
+          "arabic": "ادْ",
+          "meaning": "imperative prefix (indicating command)"
+        },
+        {
+          "arabic": "خُلُوا",
+          "meaning": "enter (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هَـٰذِهِ",
+      "transliteration": "hādhahi",
+      "meaning": "this (feminine)",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, this"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰذِ",
+          "meaning": "this (demonstrative pronoun)"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "(feminine marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْقَرْيَةَ",
+      "transliteration": "al-qaryata",
+      "meaning": "the city/town",
+      "root": {
+        "letters": "ق-ر-ي",
+        "meaning": "to gather, to reside, to settle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَكُلُوا",
+      "transliteration": "fakulū",
+      "meaning": "so eat (plural imperative)",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to eat, consume; to take something into the body for nourishment or use"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating the imperative mood, often with a sense of 'so'"
+        },
+        {
+          "arabic": "كُلُوا",
+          "meaning": "eat! (plural imperative verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come from, source"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "حَيْثُ",
+      "transliteration": "ḥaythu",
+      "meaning": "wherever/whichever place",
+      "root": {
+        "letters": "ح-ي-ث",
+        "meaning": "to be present, to exist in a place or time; location, circumstance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "شِئْتُمْ",
+      "transliteration": "shi'tum",
+      "meaning": "you wish (plural)",
+      "root": {
+        "letters": "ش-أ-و",
+        "meaning": "to desire, to wish, to want"
+      },
+      "components": [
+        {
+          "arabic": "شَاء",
+          "meaning": "he wished, he desired"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural) - suffix pronoun indicating second person plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَغَدًا",
+      "transliteration": "raghadan",
+      "meaning": "abundance/comfort/luxury",
+      "root": {
+        "letters": "ر-غ-د",
+        "meaning": "to live comfortably, to be soft; ease and plenty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَادْخُلُوا",
+      "transliteration": "wa'udkhulū",
+      "meaning": "and enter (plural imperative)",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter; to go in"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ادْخُلُوا",
+          "meaning": "enter (plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْبَابَ",
+      "transliteration": "al-bāba",
+      "meaning": "the gate/door",
+      "root": {
+        "letters": "ب-اب-و",
+        "meaning": "to open, a door (generally relating to entrances and exits)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "سُجَّدًا",
+      "transliteration": "sujjadan",
+      "meaning": "bowing humbly/in prostration (adverbial accusative)",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to bow down humbly"
+      },
+      "components": [
+        {
+          "arabic": "سجد",
+          "meaning": "prostration, bowing down"
+        },
+        {
+          "arabic": "-ًا",
+          "meaning": "adverbial accusative ending, indicating manner or state"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَقُولُوا",
+      "transliteration": "waqūlū",
+      "meaning": "and say (plural imperative)",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قُولُوا",
+          "meaning": "say (plural imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "حِطَّةٌ",
+      "transliteration": "ḥiṭṭatun",
+      "meaning": "Relieve us/remit (a request)",
+      "root": {
+        "letters": "ح-طّ-أ",
+        "meaning": "to lessen, to decrease, to relieve"
+      },
+      "components": [
+        {
+          "arabic": "حَطّ",
+          "meaning": "to lessen, to drop, to relieve"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker, nominalizer (turns verb into a noun)"
+        },
+        {
+          "arabic": "ـٌ",
+          "meaning": "tanwīn (indefinite accusative/nominative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "نَّغْفِرْ",
+      "transliteration": "nagfiru",
+      "meaning": "We will forgive",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to pardon, to cover up (a fault)"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun suffix)"
+        },
+        {
+          "arabic": "غْفِرْ",
+          "meaning": "forgive (verb, future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession (derived)"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "خَطَايَاكُمْ",
+      "transliteration": "khaṭāyākum",
+      "meaning": "your sins (plural)",
+      "root": {
+        "letters": "خ-ط-أ",
+        "meaning": "to err, to sin, to make a mistake"
+      },
+      "components": [
+        {
+          "arabic": "خَطَا",
+          "meaning": "sins (plural form)"
+        },
+        {
+          "arabic": "يَا",
+          "meaning": "your (pronoun suffix, masculine plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "possessive suffix, indicating plural possessors"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَسَنَزِيدُ",
+      "transliteration": "wa sanazīdu",
+      "meaning": "and We will increase",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add, to excel"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "نَزِيدُ",
+          "meaning": "we increase"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الْمُحْسِنِينَ",
+      "transliteration": "al-muḥsinīna",
+      "meaning": "the doers of good/the righteous ones (plural)",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, to excel, to be beautiful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُحْسِنِينَ",
+          "meaning": "doers of good, righteous ones (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-when We-said Enter this city and eat from it wherever you wish abundance/comfort And enter the gate bowing humbly and say Relieve-us We will forgive for you your sins And We will increase the doers of good."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

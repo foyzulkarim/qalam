@@ -1,0 +1,224 @@
+{
+  "verseId": "2:32",
+  "verse": {
+    "arabic": "قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ",
+    "transliteration": "Qaloo subhanaka la AAilma lana illa ma AAallamtana innaka anta alAAaleemu alhakeemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قَال",
+          "meaning": "They said (past tense, masculine plural)"
+        },
+        {
+          "arabic": "واو الجماعة",
+          "meaning": "The suffix indicating masculine plural pronoun (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سُبْحَانَكَ",
+      "transliteration": "subḥānaka",
+      "meaning": "Exalted are You; glory to You",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim; to flow; to praise, glorify"
+      },
+      "components": [
+        {
+          "arabic": "سُبْحَانَ",
+          "meaning": "Glory, praise; Exalted"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine, singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "No, not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عِلْمَ",
+      "transliteration": "ʿilma",
+      "meaning": "Knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "To know, to be aware, possess knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "For us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "To belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "For, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "Except",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to resort, to go back to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "عَلَّمْتَنَا",
+      "transliteration": "ʿallamtunā",
+      "meaning": "You taught us",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to learn, to teach"
+      },
+      "components": [
+        {
+          "arabic": "عَلَّمَ",
+          "meaning": "to teach"
+        },
+        {
+          "arabic": "ـتَنَا",
+          "meaning": "us (suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[Pause/separator]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "Pause/separator; connective particle indicating a break or slight pause."
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "إِنَّكَ",
+      "transliteration": "innaka",
+      "meaning": "Indeed, You",
+      "root": {
+        "letters": "ك-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "You",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْعَلِيمُ",
+      "transliteration": "al-ʿalīmu",
+      "meaning": "The Knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَلِيمُ",
+          "meaning": "Knowing, All-Knowing (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْحَكِيمُ",
+      "transliteration": "al-ḥakīmu",
+      "meaning": "The Wise",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to be wise; to restrain or control."
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَكِيمُ",
+          "meaning": "Wise, judicious, knowledgeable"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said - Exalted-are-You - No - Knowledge - For-us - Except - What - You-taught-us - [Pause] - Indeed-You - You - The-Knowing - The-Wise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

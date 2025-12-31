@@ -1,0 +1,257 @@
+{
+  "verseId": "2:155",
+  "verse": {
+    "arabic": "وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
+    "transliteration": "Walanabluwannakum bishayin mina alkhawfi waaljooAAi wanaqsin mina alamwali waalanfusi waalththamarati wabashshiri alssabireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 155
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَنَبْلُوَنَّكُم",
+      "transliteration": "wa-lanabluwannakum",
+      "meaning": "and surely We will test you",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to test, to try, affliction"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "surely, indeed (emphasizing future)"
+        },
+        {
+          "arabic": "نَبْلُوَنَّكُم",
+          "meaning": "We will test you (future tense, emphatic)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِشَيْءٍ",
+      "transliteration": "bi-shayʾin",
+      "meaning": "with something",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "thing, object, entity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "شَيْءٍ",
+          "meaning": "something, a thing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or derive from a source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْخَوْفِ",
+      "transliteration": "al-khawfi",
+      "meaning": "the fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "خَوْف",
+          "meaning": "fear"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالْجُوعِ",
+      "transliteration": "wa-al-jūʿi",
+      "meaning": "and the hunger",
+      "root": {
+        "letters": "ج-ع-ع",
+        "meaning": "to be hungry, to lack, need"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جُوعِ",
+          "meaning": "hunger (genitive singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَنَقْصٍ",
+      "transliteration": "wa-naqṣin",
+      "meaning": "and a loss/deficiency",
+      "root": {
+        "letters": "ن-ق-ص",
+        "meaning": "to be deficient, to decrease, to diminish"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَقْصٍ",
+          "meaning": "deficiency, loss (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّنَ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, to prevent, to withhold; origin of separation or source from which something emerges"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْأَمْوَالِ",
+      "transliteration": "al-ʾamwāli",
+      "meaning": "the wealths",
+      "root": {
+        "letters": "م-و-ل",
+        "meaning": "to possess, to own; wealth"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَمْوَالِ",
+          "meaning": "wealths (plural of مَال)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَالْأَنفُسِ",
+      "transliteration": "wa-al-ʾanfusi",
+      "meaning": "and the lives/souls",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, life, soul, self"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَنفُسِ",
+          "meaning": "lives/souls (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَالثَّمَرَاتِ",
+      "transliteration": "wa-ath-thamārāti",
+      "meaning": "and the fruits",
+      "root": {
+        "letters": "ث-م-ر",
+        "meaning": "to bear fruit; to ripen"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الثَّمَرَاتِ",
+          "meaning": "the fruits (plural, definite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَبَشِّرِ",
+      "transliteration": "wa-bashshiri",
+      "meaning": "and give good tidings",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to bring good news; to be joyful"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَشِّرِ",
+          "meaning": "give good tidings, rejoice!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الصَّابِرِينَ",
+      "transliteration": "aṣ-ṣābirīna",
+      "meaning": "the patient ones",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to bear patiently, restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "الصَّابِرِينَ",
+          "meaning": "the patient ones (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-surely We-will-test you with-something from the fear and the hunger and a loss from the wealths and the lives and the fruits — and give-good-tidings the patient-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

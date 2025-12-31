@@ -1,0 +1,209 @@
+{
+  "verseId": "2:119",
+  "verse": {
+    "arabic": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْأَلُ عَنْ أَصْحَابِ الْجَحِيمِ",
+    "transliteration": "Inna arsalnaka bialhaqqi basheeran wanatheeran wala tusalu Aaan ashabi aljaheemi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 119
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرْسَلْنَاكَ",
+      "transliteration": "ʾarsalnāka",
+      "meaning": "We have sent you",
+      "root": {
+        "letters": "أ-ر-س",
+        "meaning": "to send, dispatch, or let go"
+      },
+      "components": [
+        {
+          "arabic": "أَرْسَلْ",
+          "meaning": "We sent"
+        },
+        {
+          "arabic": "-نَاكَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْحَقِّ",
+      "transliteration": "bil-ḥaqqi",
+      "meaning": "with the truth",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, reality, certainty"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْحَقِّ",
+          "meaning": "the truth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَشِيرًا",
+      "transliteration": "bashīran",
+      "meaning": "a bringer of good tidings",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to bring good news, to be glad"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَنَذِيرًا",
+      "transliteration": "wa-nad̲hīran",
+      "meaning": "and a warner",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَذِيرًا",
+          "meaning": "a warner, one who gives warning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "—",
+      "meaning": "[pause particle]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, not to be"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تُسْأَلُ",
+      "transliteration": "tusʾalu",
+      "meaning": "you will be asked",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "passive voice marker/prefix indicating 'you will be'"
+        },
+        {
+          "arabic": "سْأَ",
+          "meaning": "root relating to asking/inquiry"
+        },
+        {
+          "arabic": "لُ",
+          "meaning": "pronoun suffix indicating 'you (masculine singular)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَنْ",
+      "transliteration": "ʿan",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be away from, to depart from, to be free of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "أَصْحَابِ",
+      "transliteration": "ʾaṣḥābi",
+      "meaning": "the companions of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to have companionship"
+      },
+      "components": [
+        {
+          "arabic": "أَصْحَابِ",
+          "meaning": "the companions of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْجَحِيمِ",
+      "transliteration": "al-j̲aḥīmi",
+      "meaning": "Hellfire",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "to be hot, to burn; intense heat or fire"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَحِيمِ",
+          "meaning": "Hellfire; intensely burning fire, a place of severe punishment from the root جَحَمَ"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we have-sent-you with-the-truth a-bringer-of-good-tidings and-a-warner and not-you will-be-asked about-the-companions of-Hellfire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

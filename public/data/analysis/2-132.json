@@ -1,0 +1,313 @@
+{
+  "verseId": "2:132",
+  "verse": {
+    "arabic": "وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ إِنَّ اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ",
+    "transliteration": "Wawassa biha ibraheemu baneehi wayaAAqoobu ya baniyya inna Allaha istafa lakumu alddeena fala tamootunna illa waantum muslimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 132
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَصَّىٰ",
+      "transliteration": "waṣṣā",
+      "meaning": "he instructed, he commanded",
+      "root": {
+        "letters": "و-ص-ي",
+        "meaning": "to entrust, to will, to commend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهَا",
+      "transliteration": "bihā",
+      "meaning": "with it, about it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِبْرَاهِيمُ",
+      "transliteration": "ʾibrāhīmu",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be expansive, to be great; to cultivate or improve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بَنِيهِ",
+      "transliteration": "banīhi",
+      "meaning": "his sons",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; also, to have sons"
+      },
+      "components": [
+        {
+          "arabic": "بِنِ",
+          "meaning": "possessive prefix 'of'"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَيَعْقُوبُ",
+      "transliteration": "wayaʿqūbu",
+      "meaning": "and Jacob",
+      "root": {
+        "letters": "ي-ق-و",
+        "meaning": "to stand firm, to be strong; also, to follow a path or way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": {
+        "letters": "ي-و-د",
+        "meaning": "to call, to invoke; also related to weakness and supplication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بَنِيَّ",
+      "transliteration": "banayya",
+      "meaning": "my sons",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; offspring, sons"
+      },
+      "components": [
+        {
+          "arabic": "بِنَ",
+          "meaning": "my son(s)"
+        },
+        {
+          "arabic": "يَّ",
+          "meaning": "my (pronoun suffix, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also implies affirmation and emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces a statement with emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship; deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "اصْطَفَىٰ",
+      "transliteration": "iṣṭafā",
+      "meaning": "He chose, He selected",
+      "root": {
+        "letters": "ص-ف-و",
+        "meaning": "to choose, to purify, to select"
+      },
+      "components": [
+        {
+          "arabic": "اصْـ",
+          "meaning": "intensive/augmentative prefix, indicating strong or repeated action"
+        },
+        {
+          "arabic": "ـفَىٰ",
+          "meaning": "from the root ص-ف-و, to choose/select"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَكُمُ",
+      "transliteration": "lakumu",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "to be complete, perfect; to possess"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الدِّينَ",
+      "transliteration": "al-dīna",
+      "meaning": "the religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to judge, to reckon, to hold accountable; religion as a system of accountability"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِينَ",
+          "meaning": "religion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "so do not",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, to lack, to be absent"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "ـلاَ",
+          "meaning": "not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تَمُوتُنَّ",
+      "transliteration": "tamūtunna",
+      "meaning": "you die (plural, emphatic)",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, to die"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person plural (you)"
+        },
+        {
+          "arabic": "مُوت",
+          "meaning": "death, dying"
+        },
+        {
+          "arabic": "ُنَّ",
+          "meaning": "emphatic suffix for second person plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَأَنتُم",
+      "transliteration": "waʾantum",
+      "meaning": "and you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; pronoun referring to 'you'"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "مُّسْلِمُونَ",
+      "transliteration": "muslimūna",
+      "meaning": "Muslims (plural)",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, to surrender (to God), peace"
+      },
+      "components": [
+        {
+          "arabic": "مسلم",
+          "meaning": "one who submits (to God)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural marker (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-instructed and-about-it Abraham sons-his and-Jacob O-sons-my indeed Allah chose for-you the-religion so do-not die except and-you Muslims"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

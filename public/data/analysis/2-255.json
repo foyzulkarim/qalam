@@ -1,0 +1,842 @@
+{
+  "verseId": "2:255",
+  "verse": {
+    "arabic": "اللَّهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "transliteration": "Allahu la ilaha illa huwa alhayyu alqayyoomu la takhuthuhu sinatun wala nawmun lahu ma fee alssamawati wama fee alardi man tha allathee yashfaAAu AAindahu illa biithnihi yaAAlamu ma bayna aydeehim wama khalfahum wala yuheetoona bishayin min AAilmihi illa bima shaa wasiAAa kursiyyuhu alssamawati waalarda wala yaooduhu hifthuhuma wahuwa alAAaliyyu alAAatheemu",
+    "surah": "Al-Baqarah",
+    "verseNumber": 255
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "The God",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the deity itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "Lā",
+      "meaning": "No, not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَـٰهَ",
+      "transliteration": "Ilāha",
+      "meaning": "Deity, god",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to adore; divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَّا",
+      "transliteration": "Illā",
+      "meaning": "Except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "هُوَ",
+      "transliteration": "Huwa",
+      "meaning": "He, it",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "existence, essence, being; also self or personality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْحَيُّ",
+      "transliteration": "al-Ḥayyu",
+      "meaning": "The Ever-Living",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, being alive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيّ",
+          "meaning": "living, alive (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْقَيُّومُ",
+      "transliteration": "al-Qayyūmu",
+      "meaning": "The Sustainer, the Self-Sufficient",
+      "root": {
+        "letters": "ق-ي-م",
+        "meaning": "to establish, to stand firm, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "قيّوم",
+          "meaning": "Sustainer, Maintainer, Self-Sufficient"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَا",
+      "transliteration": "Lā",
+      "meaning": "No, not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "تَأْخُذُهُ",
+      "transliteration": "Taʾkhudhu-hu",
+      "meaning": "Takes/Overtakes Him",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to receive, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "تَأْ",
+          "meaning": "prefix indicating the second person masculine singular present tense (you take)"
+        },
+        {
+          "arabic": "خُذْ",
+          "meaning": "imperative form of the verb 'to take'"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, the masculine singular pronoun (direct object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "سِنَةٌ",
+      "transliteration": "Sinatu[n]",
+      "meaning": "Drowsiness, lethargy",
+      "root": {
+        "letters": "س-ن-و",
+        "meaning": "to sleep, to be drowsy; year (related concept of prolonged rest)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَلَا",
+      "transliteration": "Wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to lack, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "نَوْمٌ",
+      "transliteration": "Nawmu[n]",
+      "meaning": "Sleep",
+      "root": {
+        "letters": "ن-و-م",
+        "meaning": "to sleep, rest; inactivity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "لَّهُ",
+      "transliteration": "Lahu",
+      "meaning": "To Him belongs",
+      "root": {
+        "letters": "ل-هـ-ب",
+        "meaning": "to possess, to belong"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, belongs to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مَا",
+      "transliteration": "Mā",
+      "meaning": "What, whatever",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be fluid, to flow; also related to questioning and negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "فِي",
+      "transliteration": "Fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "al-Samāwāti",
+      "meaning": "The heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation, loftiness"
+      },
+      "components": [
+        {
+          "arabic": "السَّمَ",
+          "meaning": "The heaven(s)"
+        },
+        {
+          "arabic": "ـَاوَاتِ",
+          "meaning": "Plural ending indicating multiple heavens"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَمَا",
+      "transliteration": "Wa mā",
+      "meaning": "And what, whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, concerning what"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فِي",
+      "transliteration": "Fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-Arḍi",
+      "meaning": "The earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth, land"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "Earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مَن ذَا",
+      "transliteration": "Man dhā",
+      "meaning": "Who is he?",
+      "root": {
+        "letters": "ذ-هـ-أ",
+        "meaning": "to go, to be, existence; questioning/wondering"
+      },
+      "components": [
+        {
+          "arabic": "مَن",
+          "meaning": "Who"
+        },
+        {
+          "arabic": "ذَا",
+          "meaning": "This one / He (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "الَّذِي",
+      "transliteration": "Alladhī",
+      "meaning": "Who, which one",
+      "root": {
+        "letters": "ذ-ل-ي",
+        "meaning": "to be humble, to submit; weakness, dependence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "يَشْفَعُ",
+      "transliteration": "Yashfaʿu",
+      "meaning": "Intercedes",
+      "root": {
+        "letters": "ش-ف-ع",
+        "meaning": "To intercede, to plead on behalf of another, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense, active voice (first-person singular)"
+        },
+        {
+          "arabic": "شَفَعَ",
+          "meaning": "To intercede, to plead on behalf of another"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "عِندَهُ",
+      "transliteration": "ʿIndahu",
+      "meaning": "With Him",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possession, presence, nearness"
+      },
+      "components": [
+        {
+          "arabic": "عِندَ",
+          "meaning": "with, at the presence of"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He/Him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "إِلَّا",
+      "transliteration": "Illā",
+      "meaning": "Except",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away from, to reject, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "بِإِذْنِهِ",
+      "transliteration": "Bi-idhni-hi",
+      "meaning": "By His permission",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to allow"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "إِذْنِ",
+          "meaning": "permission"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "Yaʿlamu",
+      "meaning": "He knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person singular (he)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah, indicating nominative case and present tense ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مَا",
+      "transliteration": "Mā",
+      "meaning": "What, whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "بَيْنَ",
+      "transliteration": "Bayna",
+      "meaning": "Between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to exist apart from each other"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "أَيْدِيهِمْ",
+      "transliteration": "Aydīhim",
+      "meaning": "Their hands (before them)",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; hand (as a possession)"
+      },
+      "components": [
+        {
+          "arabic": "أَيْدِي",
+          "meaning": "Hands (plural)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "Their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "وَمَا",
+      "transliteration": "Wa mā",
+      "meaning": "And what, whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "خَلْفَهُمْ",
+      "transliteration": "Khalfahum",
+      "meaning": "Behind them",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to remain, to succeed, to come after"
+      },
+      "components": [
+        {
+          "arabic": "خَلْف",
+          "meaning": "behind, after"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "وَلَا",
+      "transliteration": "Wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "يُحِيطُونَ",
+      "transliteration": "Yuḥīṭūna",
+      "meaning": "They encompass",
+      "root": {
+        "letters": "ح-ط-و",
+        "meaning": "to surround, encompass, go around"
+      },
+      "components": [
+        {
+          "arabic": "يُـ",
+          "meaning": "They (prefix indicating plural masculine)"
+        },
+        {
+          "arabic": "حَاطَ",
+          "meaning": "to surround, encompass"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "Indicative plural masculine suffix (present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "بِشَيْءٍ",
+      "transliteration": "Bi-shayʾin",
+      "meaning": "With a thing, any thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "thing, matter, something"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "شَيْءٍ",
+          "meaning": "a thing, something"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "مِّنْ",
+      "transliteration": "Min",
+      "meaning": "From, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "عِلْمِهِ",
+      "transliteration": "ʿIlmi-hi",
+      "meaning": "His knowledge",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "عِلْم",
+          "meaning": "knowledge"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "إِلَّا",
+      "transliteration": "Illā",
+      "meaning": "Except",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to reject, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "بِمَا",
+      "transliteration": "Bi-mā",
+      "meaning": "With what, by what",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, dying; to die"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "شَاءَ",
+      "transliteration": "Shāʾa",
+      "meaning": "He willed",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to desire, to will, to intend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "وَسِعَ",
+      "transliteration": "Wasiʿa",
+      "meaning": "Extended, encompasses",
+      "root": {
+        "letters": "س-ع-ع",
+        "meaning": "to be wide, spacious, ample; to contain, encompass"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "كُرْسِيُّهُ",
+      "transliteration": "Kursiyyu-hu",
+      "meaning": "His Kursi (throne/footstool)",
+      "root": {
+        "letters": "ك-ر-س",
+        "meaning": "to sit, to be strong, to possess power (related to a seat or foundation)"
+      },
+      "components": [
+        {
+          "arabic": "كُرْسِيّ",
+          "meaning": "throne, seat of power, footstool (masculine)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "His (possessive pronoun, referring to God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "al-Samāwāti",
+      "meaning": "The heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation, loftiness"
+      },
+      "components": [
+        {
+          "arabic": "السَّمَاءَات",
+          "meaning": "The heavens, skies"
+        },
+        {
+          "arabic": "ـَاتِ",
+          "meaning": "Definite plural marker, indicating 'the heavens'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "وَالْأَرْضَ",
+      "transliteration": "wal-Arḍa",
+      "meaning": "And the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَرْضَ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "وَلَا",
+      "transliteration": "Wa lā",
+      "meaning": "And not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "يَئُودُهُ",
+      "transliteration": "Yaʾūdu-hu",
+      "meaning": "Tires Him, burdens Him",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to leave, abandon; to call upon (God), pray; to feel weary or helpless"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "Prefix indicating present/future tense and active voice."
+        },
+        {
+          "arabic": "أُودُ",
+          "meaning": "Verb stem derived from the root و-د-ع, meaning 'to be weary/tired'."
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "Suffix pronoun: 'Him'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "حِفْظُهُمَا",
+      "transliteration": "Ḥifẓu-humā",
+      "meaning": "Their preservation",
+      "root": {
+        "letters": "ح-ف-ظ",
+        "meaning": "To guard, to preserve, to protect"
+      },
+      "components": [
+        {
+          "arabic": "حِفْظٌ",
+          "meaning": "Preservation, guarding"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "Them (dual)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "وَهُوَ",
+      "transliteration": "Wa huwa",
+      "meaning": "And He",
+      "root": {
+        "letters": "ه-و-ى",
+        "meaning": "to exist, to be; essence, personality"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "الْعَلِيُّ",
+      "transliteration": "al-ʿAliyyu",
+      "meaning": "The Most High",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise, ascend"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "عَلِيّ",
+          "meaning": "High, Elevated (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "الْعَظِيمُ",
+      "transliteration": "al-ʿAẓīmu",
+      "meaning": "The Most Great",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, to be mighty, to be large"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيم",
+          "meaning": "great, mighty, immense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-God – no deity except He – the-Ever-Living the-Sustainer. No takes/overtakes Him drowsiness and not sleep. To-Him belongs what in the-heavens and what in the-earth. Who is he? which-one intercedes with Him except by His permission? He knows what between their-hands and what behind them. And not they encompass with a thing from His knowledge except by what He willed. Extended His-Kursi the-heavens and the-earth. And not tires Him their preservation. And He the-Most-High the-Most-Great."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

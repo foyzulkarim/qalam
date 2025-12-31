@@ -1,0 +1,348 @@
+{
+  "verseId": "2:57",
+  "verse": {
+    "arabic": "وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ",
+    "transliteration": "Wathallalna AAalaykumu alghamama waanzalna AAalaykumu almanna waalssalwa kuloo min tayyibati ma razaqnakum wama thalamoona walakin kanoo anfusahum yathlimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 57
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ظَلَّلْنَا",
+      "transliteration": "ẓallalnā",
+      "meaning": "We shaded",
+      "root": {
+        "letters": "ظ-ل-ل",
+        "meaning": "shade, shadow; to be in darkness or obscurity; protection"
+      },
+      "components": [
+        {
+          "arabic": "ظَلَّ",
+          "meaning": "to shade, to provide shadow; to remain in a state"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (first person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْكُمُ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you (plural)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to elevate, to surpass; ascendancy, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْغَمَامَ",
+      "transliteration": "al-ghamāma",
+      "meaning": "the clouds",
+      "root": {
+        "letters": "غ-م-م",
+        "meaning": "to cover, to veil, to obscure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنزَلْنَا",
+      "transliteration": "anzalnā",
+      "meaning": "We sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down, to lower"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "زَلْنَا",
+          "meaning": "sent down (verb, first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَيْكُمُ",
+      "transliteration": "ʿalaykum",
+      "meaning": "upon you (plural)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to be above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "كُمُ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْمَنَّ",
+      "transliteration": "al-manna",
+      "meaning": "the manna",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to bestow, grant, or give as a gift; abundance; benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "السَّلْوَىٰ",
+      "transliteration": "al-salwā",
+      "meaning": "the quails",
+      "root": {
+        "letters": "س-ل-و",
+        "meaning": "comfort, solace, ease; to be safe or sound"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "كُلُوا",
+      "transliteration": "kulū",
+      "meaning": "Eat (imperative plural)",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to consume, to eat, to devour"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "طَيِّبَاتِ",
+      "transliteration": "ṭayyibāti",
+      "meaning": "good things (plural)",
+      "root": {
+        "letters": "ط-ي-ب",
+        "meaning": "goodness, pleasantness, purity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or related to possession/existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "رَزَقْنَاكُمْ",
+      "transliteration": "razaknākum",
+      "meaning": "We have provided you (plural)",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "to provide, to grant sustenance"
+      },
+      "components": [
+        {
+          "arabic": "رَزَقْ",
+          "meaning": "We provided/granted (verb)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural) (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and not/nor what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also refers to water or source"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which; not/nor (when negating)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ظَلَمُونَا",
+      "transliteration": "ẓalamūnā",
+      "meaning": "they wronged Us",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, oppression"
+      },
+      "components": [
+        {
+          "arabic": "ظَلَمُ",
+          "meaning": "they wronged"
+        },
+        {
+          "arabic": "ـونَا",
+          "meaning": "Us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَلَـٰكِن",
+      "transliteration": "wa lākina",
+      "meaning": "but rather/however",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hiddenness, concealment"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَـٰكِن",
+          "meaning": "but, however; the particle of exception or qualification"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "أَنفُسَهُمْ",
+      "transliteration": "anfusahum",
+      "meaning": "themselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "أَنفُسِ",
+          "meaning": "souls, selves"
+        },
+        {
+          "arabic": "-هُمْ",
+          "meaning": "their (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "يَظْلِمُونَ",
+      "transliteration": "yaẓlimūna",
+      "meaning": "they wrong",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, darkness, wrongdoing"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun prefix)"
+        },
+        {
+          "arabic": "ظْلِم",
+          "meaning": "wrongdoing, injustice (verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (pronoun suffix, plural active)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-We shaded-upon you-plural the-clouds and-We sent down-upon you-plural the-manna and-the quails Eat from good things-plural that which-We have provided you-plural And-not they wronged-Us but rather-they were themselves wrong"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

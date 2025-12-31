@@ -1,0 +1,1144 @@
+{
+  "verseId": "2:196",
+  "verse": {
+    "arabic": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۖ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَا أَمِنتُمْ فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+    "transliteration": "Waatimmoo alhajja waalAAumrata lillahi fain ohsirtum fama istaysara mina alhadyi wala tahliqoo ruoosakum hatta yablugha alhadyu mahillahu faman kana minkum mareedan aw bihi athan min rasihi fafidyatun min siyamin aw sadaqatin aw nusukin faitha amintum faman tamattaAAa bialAAumrati ila alhajji fama istaysara mina alhadyi faman lam yajid fasiyamu thalathati ayyamin fee alhajji wasabAAatin itha rajaAAtum tilka AAasharatun kamilatun thalika liman lam yakun ahluhu hadiree almasjidi alharami waittaqoo Allaha waiAAlamoo anna Allaha shadeedu alAAiqabi",
+    "surah": "Al-Baqarah",
+    "verseNumber": 196
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتِمُّوا",
+      "transliteration": "atimū",
+      "meaning": "complete (you plural)",
+      "root": {
+        "letters": "م-م-ا",
+        "meaning": "completion, fullness"
+      },
+      "components": [
+        {
+          "arabic": "أَتْ",
+          "meaning": "prefix indicating command/imperative for 'you plural'"
+        },
+        {
+          "arabic": "مُّوا",
+          "meaning": "suffix indicating 'you plural' in the imperative mood"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْحَجَّ",
+      "transliteration": "al-ḥajja",
+      "meaning": "the Hajj (pilgrimage)",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to intend something strongly, to resort to for aid or protection; also includes the concept of circling around a sacred place"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالْعُمْرَةَ",
+      "transliteration": "wa-l-'umrata",
+      "meaning": "and the 'Umrah (lesser pilgrimage)",
+      "root": {
+        "letters": "ع-م-ر",
+        "meaning": "to build, to populate, life, length of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِلَّهِ",
+      "transliteration": "li-llāhi",
+      "meaning": "for Allah (God)",
+      "root": {
+        "letters": "ل-ه-أ",
+        "meaning": "to belong to, be attributed to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَإِنْ",
+      "transliteration": "fa-in",
+      "meaning": "then if",
+      "root": {
+        "letters": "إ-نّ",
+        "meaning": "affirmation, confirmation, establishing truth"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so, consequently (conditional particle)"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "if, in case that (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أُحْصِرْتُمْ",
+      "transliteration": "uḥṣirtum",
+      "meaning": "you are prevented (passive)",
+      "root": {
+        "letters": "ح-ص-ر",
+        "meaning": "to confine, to restrict, to prevent"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive prefix (indicating the passive voice)"
+        },
+        {
+          "arabic": "حَصَرْتُمْ",
+          "meaning": "you (plural) confined/restricted/prevented"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "then what/whoever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will, to be able; also refers to relative pronouns and interrogatives"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whoever, whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "اسْتَيْسَرَ",
+      "transliteration": "istay sara",
+      "meaning": "was easy/obtained with ease",
+      "root": {
+        "letters": "س-ي-ر",
+        "meaning": "to travel, to proceed, to go on a journey; ease of movement/condition"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "indicates seeking or obtaining something; prefix of facilitation/ease"
+        },
+        {
+          "arabic": "يَسَرَ",
+          "meaning": "to be easy, to become facile; ease itself"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "origin, source, derivation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "الْهَدْيِ",
+      "transliteration": "al-hadyi",
+      "meaning": "the sacrificial animal",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "ۖ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to abstain"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "تَحْلِقُوا",
+      "transliteration": "taḥliqū",
+      "meaning": "you shave (plural)",
+      "root": {
+        "letters": "ح-ل-ق",
+        "meaning": "to remove, to clear away, to separate"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating command/imperative form (form I)"
+        },
+        {
+          "arabic": "حَلَقُوا",
+          "meaning": "you (plural masculine) shaved/removed hair"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "رُءُوسَكُمْ",
+      "transliteration": "ru’ūsakum",
+      "meaning": "your heads",
+      "root": {
+        "letters": "ر-أ-س",
+        "meaning": "head, chief, beginning"
+      },
+      "components": [
+        {
+          "arabic": "رُءُوسَ",
+          "meaning": "heads (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "يَبْلُغَ",
+      "transliteration": "yablugha",
+      "meaning": "it reaches",
+      "root": {
+        "letters": "ب-ل-غ",
+        "meaning": "to attain, reach, mature"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, active voice"
+        },
+        {
+          "arabic": "بَلُغَ",
+          "meaning": "to reach (verbal noun/root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الْهَدْيُ",
+      "transliteration": "al-hadyu",
+      "meaning": "the sacrificial animal",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "مَحِلَّهُ",
+      "transliteration": "maḥillahu",
+      "meaning": "its place (of slaughter)",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to reside, to settle, to be permissible"
+      },
+      "components": [
+        {
+          "arabic": "مَحِلّ",
+          "meaning": "place, location"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "its (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "فَمَن كَانَ",
+      "transliteration": "fa-man kāna",
+      "meaning": "then whoever was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whosoever"
+        },
+        {
+          "arabic": "كَانَ",
+          "meaning": "was, existed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "مِّنكُم",
+      "transliteration": "minkum",
+      "meaning": "among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "origin, source, from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of, among"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "مَّرِيضًا",
+      "transliteration": "marīḍan",
+      "meaning": "sick/ill",
+      "root": {
+        "letters": "م-ض-د",
+        "meaning": "to be weak, to suffer distress, to need"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to desire, to wish, alternative option"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "بِهِ",
+      "transliteration": "bihi",
+      "meaning": "with him",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment; to be with, through"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هِيَ",
+          "meaning": "he (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "أَذًى",
+      "transliteration": "adhān",
+      "meaning": "harm/ailment",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to be evil, to harm, to afflict"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "مِّن رَّأْسِهِ",
+      "transliteration": "min ra’sihi",
+      "meaning": "from his head",
+      "root": {
+        "letters": "ر-أ-س",
+        "meaning": "head; chief; beginning"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "رَّأْسِهِ",
+          "meaning": "his head"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "فَفِدْيَةٌ",
+      "transliteration": "fa-fidyatun",
+      "meaning": "then a ransom",
+      "root": {
+        "letters": "ف-د-ي",
+        "meaning": "to redeem, to offer a substitute, to pay a price"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "فِدْيَةٌ",
+          "meaning": "ransom, compensation, substitute"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "مِّن صِيَامٍ",
+      "transliteration": "min ṣiyāmin",
+      "meaning": "from fasting",
+      "root": {
+        "letters": "ص-ي-م",
+        "meaning": "to abstain, to fast"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "صِيَامٍ",
+          "meaning": "fasting"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to revert, or alternative possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "صَدَقَةٍ",
+      "transliteration": "ṣadaqatin",
+      "meaning": "charity/alms",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to be truthful, to speak the truth, to fulfill a promise, correctness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to begin, to precede, to be first"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "نُسُكٍ",
+      "transliteration": "nusukin",
+      "meaning": "sacrifice/devotion",
+      "root": {
+        "letters": "ن-س-ك",
+        "meaning": "to consecrate, to devote oneself; purity of intention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "فَإِذَا",
+      "transliteration": "fa-idhā",
+      "meaning": "then if/when",
+      "root": {
+        "letters": "إ-ذ-ي",
+        "meaning": "to perceive, to witness, to come upon"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "أَمِنتُمْ",
+      "transliteration": "amintum",
+      "meaning": "you were secure/felt safe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure, trustworthy; to believe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "فَمَن تَمَتَّعَ",
+      "transliteration": "fa-man tamattaʿa",
+      "meaning": "then whoever benefited/enjoyed",
+      "root": {
+        "letters": "ت-م-ع",
+        "meaning": "to enjoy, to benefit, to take pleasure in something"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        },
+        {
+          "arabic": "تَمَتَّعَ",
+          "meaning": "benefited, enjoyed (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "بِالْعُمْرَةِ",
+      "transliteration": "bi-l-'umrati",
+      "meaning": "with the 'Umrah",
+      "root": {
+        "letters": "ع-م-ر",
+        "meaning": "to build, to populate; life, long duration"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْعُمْرَةِ",
+          "meaning": "the 'Umrah (pilgrimage)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "إِلَى الْحَجِّ",
+      "transliteration": "ila-l-ḥajji",
+      "meaning": "to the Hajj",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to visit a sacred place; to intend strongly; circumambulation"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, toward"
+        },
+        {
+          "arabic": "الْحَجِّ",
+          "meaning": "the Hajj (pilgrimage)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "then what/whoever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to will, to desire; relative pronoun 'who/what'"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "who/what, relative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "اسْتَيْسَرَ",
+      "transliteration": "istay sara",
+      "meaning": "was easy/obtained with ease",
+      "root": {
+        "letters": "س-ي-ر",
+        "meaning": "to travel, to go on a journey; ease of movement or access"
+      },
+      "components": [
+        {
+          "arabic": "اسْتَ",
+          "meaning": "prefix indicating seeking, attempting, or achieving something; often with a sense of ease/facilitation"
+        },
+        {
+          "arabic": "يَسَرَ",
+          "meaning": "to be easy, to become facile; ease itself"
+        }
+      ]
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be part of, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "الْهَدْيِ",
+      "transliteration": "al-hadyi",
+      "meaning": "the sacrificial animal",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "فَمَن لَّمْ يَجِدْ",
+      "transliteration": "fa-man lam yajid",
+      "meaning": "then whoever did not find/afford",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to obtain, to encounter"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not"
+        },
+        {
+          "arabic": "يَجِدْ",
+          "meaning": "finds, obtains (present subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "فَصِيَامُ",
+      "transliteration": "fa-ṣiyāmu",
+      "meaning": "then fasting",
+      "root": {
+        "letters": "ص-و-م",
+        "meaning": "abstinence, to fast"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "صِيَامُ",
+          "meaning": "fasting (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "ثَلَاثَةِ",
+      "transliteration": "thalāthati",
+      "meaning": "three",
+      "root": {
+        "letters": "ث-ل-ث",
+        "meaning": "abundance, multiplying; to be three"
+      },
+      "components": [
+        {
+          "arabic": "ثَلَاث",
+          "meaning": "three (masculine singular)"
+        },
+        {
+          "arabic": "ـةِ",
+          "meaning": "feminine indefinite genitive marker (tanwīn al-fatḥ with kasra)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "أَيَّامٍ",
+      "transliteration": "ayyāmin",
+      "meaning": "days",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "فِي الْحَجِّ",
+      "transliteration": "fi-l-ḥajji",
+      "meaning": "in the Hajj",
+      "root": {
+        "letters": "ح-ج-ج",
+        "meaning": "to intend something great, to visit the Ka'bah with religious intention; to perform pilgrimage"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, on, at, within"
+        },
+        {
+          "arabic": "الْحَجِّ",
+          "meaning": "the Hajj (pilgrimage)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "وَسَبْعَةٍ",
+      "transliteration": "wa sabʿatin",
+      "meaning": "and seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "to count, to enumerate; fullness, abundance"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَبْعَةٍ",
+          "meaning": "seven (indefinite accusative/genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "إِذَا رَجَعْتُمْ",
+      "transliteration": "idhā rajaʿtum",
+      "meaning": "when you return",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        },
+        {
+          "arabic": "رَجَعْتُمْ",
+          "meaning": "you return (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "that (feminine)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to point, to indicate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "عَشَرَةٌ",
+      "transliteration": "ʿashratun",
+      "meaning": "ten",
+      "root": {
+        "letters": "ع-ش-ر",
+        "meaning": "to associate, to count, to be ten"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "كَامِلَةٌ",
+      "transliteration": "kāmilatun",
+      "meaning": "complete",
+      "root": {
+        "letters": "ك-م-ل",
+        "meaning": "perfection, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 57,
+      "arabic": "ۗ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 58,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that (masculine)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "masculine singular suffix (pronoun indicating 'that one')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 59,
+      "arabic": "لِمَن لَّمْ يَكُنْ",
+      "transliteration": "liman lam yakun",
+      "meaning": "for whoever did not be/was not",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "not"
+        },
+        {
+          "arabic": "يَكُنْ",
+          "meaning": "be/was (imperfect subjunctive negative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 60,
+      "arabic": "أَهْلُهُ",
+      "transliteration": "ah luhu",
+      "meaning": "his family/people",
+      "root": {
+        "letters": "أ-هـ-ل",
+        "meaning": "to be weak, to lack strength; family/people (derived meaning)"
+      },
+      "components": [
+        {
+          "arabic": "أَهْلُ",
+          "meaning": "family, people, household"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 61,
+      "arabic": "حَاضِرِي",
+      "transliteration": "ḥāḍirī",
+      "meaning": "present/in attendance",
+      "root": {
+        "letters": "ح-ض-ر",
+        "meaning": "to be present, to attend, to come forth"
+      },
+      "components": [
+        {
+          "arabic": "حَاضِر",
+          "meaning": "present, attending (masculine singular)"
+        },
+        {
+          "arabic": "ِي",
+          "meaning": "pronoun suffix indicating 'my'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 62,
+      "arabic": "الْمَسْجِدِ",
+      "transliteration": "al-masjidi",
+      "meaning": "the mosque/sanctuary",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate; to bow down in worship or humility"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَسْجِد",
+          "meaning": "place of prostration; mosque/sanctuary"
+        }
+      ]
+    },
+    {
+      "wordNumber": 63,
+      "arabic": "الْحَرَامِ",
+      "transliteration": "al-ḥarāmi",
+      "meaning": "the sacred/forbidden (Mecca)",
+      "root": {
+        "letters": "ح-ر-م",
+        "meaning": "to be forbidden, sacred, inviolable; to prohibit; to prevent"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَرَامِ",
+          "meaning": "sacred, forbidden (state of being sacred)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 64,
+      "arabic": "ۚ",
+      "transliteration": "",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 65,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wa-ttaqū",
+      "meaning": "and fear/be wary of",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect; to be cautious of, fear"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear/be wary of (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 66,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 67,
+      "arabic": "وَاعْلَمُوا",
+      "transliteration": "wa-ʿlamū",
+      "meaning": "and know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 68,
+      "arabic": "أَنَّ",
+      "transliteration": "anna",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, so that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 69,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah (God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 70,
+      "arabic": "شَدِيدُ",
+      "transliteration": "shadīdu",
+      "meaning": "severe/strict",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be strong, intense, or firm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 71,
+      "arabic": "الْعِقَابِ",
+      "transliteration": "al-'iqābi",
+      "meaning": "the punishment",
+      "root": {
+        "letters": "ع-ق-ب",
+        "meaning": "to follow closely, to punish; to heel (of an animal)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِقَاب",
+          "meaning": "punishment, consequence"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-complete the Hajj -the pilgrimage and-the 'Umrah for-Allah. then-if you were prevented so-what was easy from the sacrificial animal. and do not shave your heads until the sacrificial animal reaches -its place [of slaughter]. then-whoever was among you sick or with him harm from his head so a ransom from fasting or charity or sacrifice. then-if you were secure so whoever benefited with the 'Umrah to the Hajj so what was easy from the sacrificial animal. then-whoever not found so fasting three days in the Hajj and seven if you return. those ten complete. that for-whoever not was his family present -the mosque the sacred. and fear Allah and know that Allah severe [in] punishment."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

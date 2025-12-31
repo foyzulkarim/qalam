@@ -1,0 +1,185 @@
+{
+  "verseId": "2:51",
+  "verse": {
+    "arabic": "وَإِذْ وَاعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِن بَعْدِهِ وَأَنتُمْ ظَالِمُونَ",
+    "transliteration": "Waith waAAadna moosa arbaAAeena laylatan thumma ittakhathtumu alAAijla min baAAdihi waantum thalimoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 51
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when; and behold",
+      "root": {
+        "letters": "و-ذ-ع",
+        "meaning": "to perceive, to experience, to remember; also, time or occasion"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, behold (particle of time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَاعَدْنَا",
+      "transliteration": "wāʿadnā",
+      "meaning": "We promised; We made an appointment",
+      "root": {
+        "letters": "و-ع-د",
+        "meaning": "to promise; to pledge; to give an assurance"
+      },
+      "components": [
+        {
+          "arabic": "وَا",
+          "meaning": "and; we (pronoun prefix)"
+        },
+        {
+          "arabic": "عَدْنَا",
+          "meaning": "we promised; we fulfilled a pledge"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "to draw out water, to save, to extract"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَرْبَعِينَ",
+      "transliteration": "ʾarbʿīn",
+      "meaning": "forty",
+      "root": {
+        "letters": "ر-ب-ع",
+        "meaning": "to be full, to increase, to have plenty; squareness, completeness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَيْلَةً",
+      "transliteration": "laylatan",
+      "meaning": "night (accusative)",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then; afterward",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "prolongation, continuation; to add something after something else"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اتَّخَذْتُمُ",
+      "transliteration": "ittakhaztumū",
+      "meaning": "you took; you adopted",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to choose, to possess"
+      },
+      "components": [
+        {
+          "arabic": "اتّ",
+          "meaning": "intensive prefix indicating thoroughness or repetition"
+        },
+        {
+          "arabic": "خَذْتُمُ",
+          "meaning": "you (plural) took"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْعِجْلَ",
+      "transliteration": "al-ʿijla",
+      "meaning": "the calf",
+      "root": {
+        "letters": "ع-ج-ل",
+        "meaning": "haste, speed; to hurry or expedite"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن بَعْدِهِ",
+      "transliteration": "min baʿdihī",
+      "meaning": "after him",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness; to be far away"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِهِ",
+          "meaning": "after him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "waʾantum",
+      "meaning": "and you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنْتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ظَالِمُونَ",
+      "transliteration": "ẓālimūn",
+      "meaning": "wrongdoers; oppressors",
+      "root": {
+        "letters": "ظ-ل-م",
+        "meaning": "injustice, wrongdoing, darkness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We-promised Moses forty night then you-took the-calf after-him and-you wrongdoers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

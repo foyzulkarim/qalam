@@ -1,0 +1,1002 @@
+{
+  "verseId": "2:249",
+  "verse": {
+    "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُ مِنِّي إِلَّا مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ ۚ فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذِينَ آمَنُوا مَعَهُ قَالُوا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَجُنُودِهِ ۚ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَاقُو اللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
+    "transliteration": "Falamma fasala talootu bialjunoodi qala inna Allaha mubtaleekum binaharin faman shariba minhu falaysa minnee waman lam yatAAamhu fainnahu minnee illa mani ightarafa ghurfatan biyadihi fashariboo minhu illa qaleelan minhum falamma jawazahu huwa waallatheena amanoo maAAahu qaloo la taqata lana alyawma bijaloota wajunoodihi qala allatheena yathunnoona annahum mulaqoo Allahi kam min fiatin qaleelatin ghalabat fiatan katheeratan biithni Allahi waAllahu maAAa alssabireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 249
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَمَّا",
+      "transliteration": "fa-lammā",
+      "meaning": "so when, and when",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "desire, will, intention; to want or wish"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (connective particle)"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "particle of restriction or emphasis, often indicating a consequence"
+        },
+        {
+          "arabic": "مَّا",
+          "meaning": "what, whenever; relative pronoun/particle indicating time or condition"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَصَلَ",
+      "transliteration": "faṣala",
+      "meaning": "he departed, he went forth",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, to distinguish, to divide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "طَالُوتُ",
+      "transliteration": "ṭālūt",
+      "meaning": "Saul (name)",
+      "root": {
+        "letters": "ط-و-ل",
+        "meaning": "to be long, to extend in time or space; height, stature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالْجُنُودِ",
+      "transliteration": "bi-l-junūd",
+      "meaning": "with the soldiers",
+      "root": {
+        "letters": "ج-ن-د",
+        "meaning": "to gather, to collect; army, troops"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "الْجُنُودِ",
+          "meaning": "the soldiers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "utterance, speech, to relate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, surely (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهَ",
+      "transliteration": "Allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-ه-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مُبْتَلِيكُم",
+      "transliteration": "mubtalīkum",
+      "meaning": "testing you, trying you",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to test, to try, affliction"
+      },
+      "components": [
+        {
+          "arabic": "مُبْتَلِ",
+          "meaning": "testing, trying (active participle)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِنَهَرٍ",
+      "transliteration": "bi-nahrin",
+      "meaning": "with a river",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream; river itself"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "نَهْرٍ",
+          "meaning": "a river (indefinite accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever, and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "whoever, anyone who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "شَرِبَ",
+      "transliteration": "shariba",
+      "meaning": "he drank",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, to absorb, to partake"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فَلَيْسَ",
+      "transliteration": "falaysa",
+      "meaning": "then is not, so not",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be weak, deficient, or nonexistent"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَيْسَ",
+          "meaning": "is not, does not exist"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "مِنِّي",
+      "transliteration": "minnī",
+      "meaning": "of me, belonging to me",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "origin, source, from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my, belonging to me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَمَن",
+      "transliteration": "wa-man",
+      "meaning": "and whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, to belong to, origin, kind"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever, which person"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "لَّمْ",
+      "transliteration": "lam",
+      "meaning": "not (negative particle)",
+      "components": [
+        {
+          "arabic": "ل",
+          "meaning": "particle indicating negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "يَطْعَمْهُ",
+      "transliteration": "yaṭʿamhu",
+      "meaning": "he tasted it, he drank from it",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to consume, to eat, to do/act"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person singular (he)"
+        },
+        {
+          "arabic": "طْعَمْ",
+          "meaning": "eating, tasting, consumption (verbal noun form)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, it (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "فَإِنَّهُ",
+      "transliteration": "fa-innahu",
+      "meaning": "then indeed he, so surely it is",
+      "root": {
+        "letters": "هـ-نـ-أ",
+        "meaning": "to be, exist; security, tranquility"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, surely, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he, it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "مِنِّي",
+      "transliteration": "minnī",
+      "meaning": "of me, belonging to me",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "to originate from, to be associated with"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "ـي",
+          "meaning": "my, belonging to me (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "مَنِ",
+      "transliteration": "mani",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to be, to exist; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "اغْتَرَفَ",
+      "transliteration": "ightarafa",
+      "meaning": "he scooped, he took a handful of",
+      "root": {
+        "letters": "غ-ر-ف",
+        "meaning": "to dig, to excavate; to remove something from a container"
+      },
+      "components": [
+        {
+          "arabic": "اِغْ",
+          "meaning": "indicates completion or intensification (prefix)"
+        },
+        {
+          "arabic": "تَرَفَ",
+          "meaning": "to scoop, to take a handful of (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "غُرْفَةً",
+      "transliteration": "ghurfatan",
+      "meaning": "a handful, a scoop",
+      "root": {
+        "letters": "غ-ر-ف",
+        "meaning": "to cover, to conceal; to scoop out; to dig"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "بِيَدِهِ",
+      "transliteration": "bi-yadihi",
+      "meaning": "with his hand",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "possession, hand, power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "يَدِهِ",
+          "meaning": "his hand"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "فَشَرِبُوا",
+      "transliteration": "fa-sharibū",
+      "meaning": "so they drank, and they drank",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorption"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "شَرِبُوا",
+          "meaning": "they drank"
+        }
+      ]
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from it",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to proceed from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, not to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "a little, few",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be little, to decrease, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "minhum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate from, to be derived from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "فَلَمَّا",
+      "transliteration": "fa-lammā",
+      "meaning": "so when, and when",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to wish"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conditional particle)"
+        },
+        {
+          "arabic": "لَمَّا",
+          "meaning": "when, and when (temporal conjunction)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "جَاوَزَهُ",
+      "transliteration": "jāwazahu",
+      "meaning": "he crossed it, they passed over it",
+      "root": {
+        "letters": "ج-و-ز",
+        "meaning": "to pass, to cross over, to overcome"
+      },
+      "components": [
+        {
+          "arabic": "جا",
+          "meaning": "prefix denoting completion or initiation of the action"
+        },
+        {
+          "arabic": "وَّز",
+          "meaning": "root related to passing/crossing over"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "pronoun suffix - 'it'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "he, it (pronoun)",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; to fall into a state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "وَالَّذِينَ",
+      "transliteration": "wa-alladhīna",
+      "meaning": "and those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to be, to exist; reference, indication"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "meaning": "those who"
+        }
+      ]
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed, have faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/continuous tense (form I verb)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "مَعَهُ",
+      "transliteration": "maʿahu",
+      "meaning": "with him",
+      "root": {
+        "letters": "ع-هـ-د",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "لَا طَاقَةَ",
+      "transliteration": "lā ṭāqata",
+      "meaning": "no power, no ability",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to submit, to be able (through submission)"
+      },
+      "components": [
+        {
+          "arabic": "لَا",
+          "meaning": "no, not"
+        },
+        {
+          "arabic": "طَاقَةَ",
+          "meaning": "power, ability (noun derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "for us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to possess, to own, belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "الْيَوْمَ",
+      "transliteration": "al-yawma",
+      "meaning": "today",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, to pass (time)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "day (accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "بِجَالُوتَ",
+      "transliteration": "bi-jālūt",
+      "meaning": "with Goliath (name)",
+      "root": {
+        "letters": "ج-ل-و",
+        "meaning": "to become manifest, to be grand or powerful; to overwhelm"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "جَالُوتَ",
+          "meaning": "Goliath (name)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "وَجُنُودِهِ",
+      "transliteration": "wa-junūdihi",
+      "meaning": "and his soldiers",
+      "root": {
+        "letters": "ج-ن-د",
+        "meaning": "to gather, to collect; army, force"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جُنُودِ",
+          "meaning": "soldiers (genitive plural)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 42,
+      "arabic": "قَالَ",
+      "transliteration": "qāla",
+      "meaning": "he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 43,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to refer, to point out"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 44,
+      "arabic": "يَظُنُّونَ",
+      "transliteration": "yaẓunnūna",
+      "meaning": "they think, they believe",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to believe, to suppose, to expect"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person plural"
+        },
+        {
+          "arabic": "ظُنّ",
+          "meaning": "second person masculine plural form of the verb 'to think'"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating the present tense, second person masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 45,
+      "arabic": "أَنَّهُم",
+      "transliteration": "annahum",
+      "meaning": "that they, that them",
+      "root": {
+        "letters": "هـ-م-ن",
+        "meaning": "to intend, to desire, to plan; also to confirm or establish (in the sense of confirming existence)"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed; introduces a noun clause"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they, them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 46,
+      "arabic": "مُّلَاقُو",
+      "transliteration": "mulāqū",
+      "meaning": "meeting, encountering",
+      "root": {
+        "letters": "ل-ق-و",
+        "meaning": "to meet, to encounter, to find"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 47,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 48,
+      "arabic": "كَم",
+      "transliteration": "kam",
+      "meaning": "how many, how much",
+      "root": {
+        "letters": "ك-م-أ",
+        "meaning": "to measure, to quantify"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 49,
+      "arabic": "مِّن فِئَةٍ",
+      "transliteration": "min fiʾatin",
+      "meaning": "from a company, from a group",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to return, to come back; a group of people returning or gathering"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "فِئَةٍ",
+          "meaning": "a company, a group"
+        }
+      ]
+    },
+    {
+      "wordNumber": 50,
+      "arabic": "قَلِيلَةٍ",
+      "transliteration": "qalīlatin",
+      "meaning": "small, few",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be little, few, insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 51,
+      "arabic": "غَلَبَتْ",
+      "transliteration": "ghalabat",
+      "meaning": "overcame, defeated",
+      "root": {
+        "letters": "غ-ل-ب",
+        "meaning": "to overcome, to be superior"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 52,
+      "arabic": "فِئَةً",
+      "transliteration": "fiʾatan",
+      "meaning": "a company, a group",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to return, to come back; remainder, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 53,
+      "arabic": "كَثِيرَةً",
+      "transliteration": "kathīratan",
+      "meaning": "large, many",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be numerous, abundant, plentiful"
+      },
+      "components": [
+        {
+          "arabic": "كَثِير",
+          "meaning": "numerous, many (masculine)"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine ending, indefinite accusative case marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 54,
+      "arabic": "بِإِذْنِ",
+      "transliteration": "bi-idhni",
+      "meaning": "by permission of, with the leave of",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to grant permission"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "إِذْنِ",
+          "meaning": "permission, leave (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 55,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The deity; worship; divine being."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 56,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-Allāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّه",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 57,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "with",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "to accompany, to return with something/someone"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 58,
+      "arabic": "الصَّابِرِينَ",
+      "transliteration": "aṣ-ṣābirīn",
+      "meaning": "the patient ones",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to be patient, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَابِرِينَ",
+          "meaning": "patient ones (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-when he-departed with the soldiers he-said indeed Allah testing-you with a river so whoever drink-from it then not of me and whoever not taste-it then indeed of me except who take handful a with his hand so they-drank from it except few from them then when he-crossed it he and who believe with him they-said no power for us today against Goliath and his soldiers then those-who think that them meeting Allah how many from group small overcame group large by permission of Allah and Allah with the patient ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

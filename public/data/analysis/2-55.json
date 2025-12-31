@@ -1,0 +1,260 @@
+{
+  "verseId": "2:55",
+  "verse": {
+    "arabic": "وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنتُمْ تَنظُرُونَ",
+    "transliteration": "Waith qultum ya moosa lan numina laka hatta nara Allaha jahratan faakhathatkumu alssaAAiqatu waantum tanthuroona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 55
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "And when; and recall",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to remember, to recall; to be mindful of"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when; recall (introduces a past event)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُلْتُمْ",
+      "transliteration": "qultum",
+      "meaning": "You said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "قل",
+          "meaning": "You (masculine plural) said/speak"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "Suffix indicating 'you (masculine plural)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَا مُوسَىٰ",
+      "transliteration": "yā mūsā",
+      "meaning": "O Moses",
+      "root": {
+        "letters": "م-و-س",
+        "meaning": "to strengthen, to empower; also name of a prophet"
+      },
+      "components": [
+        {
+          "arabic": "يَا",
+          "meaning": "O (vocative particle)"
+        },
+        {
+          "arabic": "مُوسَىٰ",
+          "meaning": "Moses (name of the prophet)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَن نُّؤْمِنَ",
+      "transliteration": "lan nuʾmin",
+      "meaning": "We will not believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "لَن",
+          "meaning": "will not"
+        },
+        {
+          "arabic": "نُؤْمِنَ",
+          "meaning": "we believe (subjunctive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "To you; for you",
+      "root": {
+        "letters": "ل-ك-و",
+        "meaning": "Possession; attribution; belonging"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "To; for; belonging to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "Until",
+      "root": {
+        "letters": "ح-ت-ت",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "نَرَى",
+      "transliteration": "narā",
+      "meaning": "We see",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to look at"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "رَى",
+          "meaning": "to see (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-أ",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "جَهْرَةً",
+      "transliteration": "jahratan",
+      "meaning": "Outright; clearly; openly",
+      "root": {
+        "letters": "ج-ه-ر",
+        "meaning": "to be manifest, to appear clearly; to pronounce openly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَأَخَذَتْكُمُ",
+      "transliteration": "faʾakhadhatkum",
+      "meaning": "So it took you; then seized you",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "أَخَذَتْ",
+          "meaning": "it took, it seized (feminine singular perfect verb)"
+        },
+        {
+          "arabic": "ـكُمُ",
+          "meaning": "you (plural, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الصَّاعِقَةُ",
+      "transliteration": "aṣ-ṣāʿiqatu",
+      "meaning": "The thunderbolt",
+      "root": {
+        "letters": "ص-ع-ق",
+        "meaning": "to strike, to kill suddenly; thunder"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَاعِقَة",
+          "meaning": "thunderbolt, lightning flash"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَأَنتُمْ",
+      "transliteration": "waʾantum",
+      "meaning": "And you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنْتُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "تَنظُرُونَ",
+      "transliteration": "tanzurūn",
+      "meaning": "You are looking; you see",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to look, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "Prefix indicating the imperfect/present tense; 'you (plural) do'"
+        },
+        {
+          "arabic": "نَظُر",
+          "meaning": "To see, to look, the root action itself"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "Suffix indicating the second person plural masculine (you all)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-when you said O-Moses never we-will-believe to-you until we see Allah outright then-took-it you the-thunderbolt and-you you-are-looking"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

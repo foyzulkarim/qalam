@@ -1,0 +1,495 @@
+{
+  "verseId": "2:83",
+  "verse": {
+    "arabic": "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+    "transliteration": "Waith akhathna meethaqa banee israeela la taAAbudoona illa Allaha wabialwalidayni ihsanan wathee alqurba waalyatama waalmasakeeni waqooloo lilnnasi husnan waaqeemoo alssalata waatoo alzzakata thumma tawallaytum illa qaleelan minkum waantum muAAridoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 83
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذْ",
+      "transliteration": "waʾidh",
+      "meaning": "and when, and remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذْ",
+          "meaning": "when, at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَخَذْنَا",
+      "transliteration": "ʾakhadhnā",
+      "meaning": "We took",
+      "root": {
+        "letters": "أ-خ-ذ",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "We (first person plural pronoun prefix)"
+        },
+        {
+          "arabic": "خَذْنَا",
+          "meaning": "took (perfect tense verb, first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِيثَاقَ",
+      "transliteration": "mīthāqa",
+      "meaning": "covenant, agreement",
+      "root": {
+        "letters": "م-ث-ق",
+        "meaning": "firmness, strength, reliability; to establish a bond"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَنِي",
+      "transliteration": "banī",
+      "meaning": "children of, descendants of",
+      "root": {
+        "letters": "ب-ن-و",
+        "meaning": "to build, to construct; also indicates kinship and progeny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِسْرَائِيلَ",
+      "transliteration": "ʾisrāʾīla",
+      "meaning": "Israel",
+      "root": {
+        "letters": "س-ر-ع",
+        "meaning": "to hasten, to travel quickly; to go by night"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَعْبُدُونَ",
+      "transliteration": "taʿbudūna",
+      "meaning": "you worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve; slavery"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine plural present tense"
+        },
+        {
+          "arabic": "عَبَد",
+          "meaning": "to worship, to serve"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating the second person masculine plural present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to deny, to refuse, to negate; a negation particle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, the God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَبِالْوَالِدَيْنِ",
+      "transliteration": "wa-bi-l-wālidayn",
+      "meaning": "and with the parents, and to the parents",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to bear, to be born; parent"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْوَالِدَيْنِ",
+          "meaning": "the parents (dual form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "إِحْسَانًا",
+      "transliteration": "ʾiḥsānan",
+      "meaning": "kindness, goodness",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness, perfection"
+      },
+      "components": [
+        {
+          "arabic": "إِحْسَان",
+          "meaning": "kindness, goodness, excellence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَبِذِي",
+      "transliteration": "wa-bi-dhī",
+      "meaning": "and with the possessor of, and to the one having",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ذِي",
+          "meaning": "the possessor of, the one having"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْقُرْبَىٰ",
+      "transliteration": "al-qurbā",
+      "meaning": "nearness, relatives",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَالْيَتَامَىٰ",
+      "transliteration": "wa-l-yatāmā",
+      "meaning": "and the orphans",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, helpless; to lack a parent or support"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَتَامَىٰ",
+          "meaning": "orphans (plural of يَتِيم)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَالْمَسَاكِينِ",
+      "transliteration": "wa-l-masākīn",
+      "meaning": "and the needy, and the poor",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to be weak, poor; to suffer hardship"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَسَاكِينِ",
+          "meaning": "the needy, the poor (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "وَقُولُوا",
+      "transliteration": "wa-qūlū",
+      "meaning": "and say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to utter, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قُولُوا",
+          "meaning": "say (you plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "لِلنَّاسِ",
+      "transliteration": "li-l-nās",
+      "meaning": "to the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to err, people (derived)"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "meaning": "the people"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "حُسْنًا",
+      "transliteration": "ḥusnan",
+      "meaning": "goodness, good speech",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "وَأَقِيمُوا",
+      "transliteration": "wa-ʾaqīmū",
+      "meaning": "and establish, and perform regularly",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to rise, to establish"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَقِيمُوا",
+          "meaning": "establish, perform regularly (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "الصَّلَاةَ",
+      "transliteration": "al-ṣalāta",
+      "meaning": "the prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to connect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "وَآتُوا",
+      "transliteration": "wa-ʾātū",
+      "meaning": "and give",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive; to give (related sense)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آتُوا",
+          "meaning": "give (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "الزَّكَاةَ",
+      "transliteration": "al-zakāta",
+      "meaning": "the zakah, obligatory charity",
+      "root": {
+        "letters": "ز-ك-و",
+        "meaning": "to grow, to increase; purity, goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to pause; also implying sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "تَوَلَّيْتُمْ",
+      "transliteration": "tawallaytumu",
+      "meaning": "you turned away",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to be responsible for, to govern"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating past tense and third person"
+        },
+        {
+          "arabic": "وَلِّ",
+          "meaning": "turning away from, abandoning (from the root وَلَى)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "suffix indicating second person plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾillā",
+      "meaning": "except, unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "قَلِيلًا",
+      "transliteration": "qalīlan",
+      "meaning": "a few, little",
+      "root": {
+        "letters": "ق-ل-ل",
+        "meaning": "to be few, to diminish, to decrease"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "مِّنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from you, of you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "origin, source, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "وَأَنتُم",
+      "transliteration": "wa-ʾantum",
+      "meaning": "and you",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, to exist; pronoun referring to 'you'"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنتُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "مُّعْرِضُونَ",
+      "transliteration": "muʿriḍūna",
+      "meaning": "refusing, turning away",
+      "root": {
+        "letters": "ع-ر-ض",
+        "meaning": "to present, to show, to turn away from"
+      },
+      "components": [
+        {
+          "arabic": "مُعْرِض",
+          "meaning": "one who turns away, refusing"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural active participle ending"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when We-took covenant of-children Israel not-you-worship except Allah and-with-the-parents kindness and-with-the-possessor-of nearness and-the-orphans and-the-needy and-say to-the-people goodness and-establish prayer and-give zakah then-you-turned-away except a-few of-you and-you are refusing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

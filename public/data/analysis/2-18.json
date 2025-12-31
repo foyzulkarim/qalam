@@ -1,0 +1,104 @@
+{
+  "verseId": "2:18",
+  "verse": {
+    "arabic": "صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ",
+    "transliteration": "Summun bukmun AAumyun fahum la yarjiAAoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "صُمٌّ",
+      "transliteration": "ṣummun",
+      "meaning": "deaf",
+      "root": {
+        "letters": "ص-م-م",
+        "meaning": "deafness, muteness; to be hard of hearing or speaking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بُكْمٌ",
+      "transliteration": "bukmun",
+      "meaning": "dumb, mute",
+      "root": {
+        "letters": "ب-ك-م",
+        "meaning": "to be unable to speak, silence, muteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عُمْيٌ",
+      "transliteration": "ʿumyun",
+      "meaning": "blind",
+      "root": {
+        "letters": "ع-م-ي",
+        "meaning": "obscurity, blindness, inability to see"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَهُمْ",
+      "transliteration": "fahum",
+      "meaning": "so they, then they",
+      "root": {
+        "letters": "ف-ه-م",
+        "meaning": "to understand, to comprehend"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَرْجِعُونَ",
+      "transliteration": "yarjiʿūna",
+      "meaning": "they return",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person (they)"
+        },
+        {
+          "arabic": "رَجَعُوا",
+          "meaning": "returned (masculine plural)"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating masculine plural pronoun (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "deaf- they dumb- they blind- they so not-they return-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

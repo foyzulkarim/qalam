@@ -1,0 +1,180 @@
+{
+  "verseId": "2:276",
+  "verse": {
+    "arabic": "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ ۗ وَاللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+    "transliteration": "Yamhaqu Allahu alrriba wayurbee alssadaqati waAllahu la yuhibbu kulla kaffarin atheemin",
+    "surah": "Al-Baqarah",
+    "verseNumber": 276
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَمْحَقُ",
+      "transliteration": "yamḥaqu",
+      "meaning": "He erases, He destroys",
+      "root": {
+        "letters": "ح-م-ق",
+        "meaning": "to wipe out, to destroy, to annul"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرِّبَا",
+      "transliteration": "ar-ribā",
+      "meaning": "The interest, usury",
+      "root": {
+        "letters": "ر-ب-و",
+        "meaning": "to increase, grow; excess, superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيُرْبِي",
+      "transliteration": "wa yurbī",
+      "meaning": "And He increases, And He multiplies",
+      "root": {
+        "letters": "ر-ب-ي",
+        "meaning": "to increase, to grow, to multiply, to be abundant"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُرْبِي",
+          "meaning": "He increases, He multiplies (verb - present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّدَقَاتِ",
+      "transliteration": "aṣ-ṣadaqāti",
+      "meaning": "The charities, the alms",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truthfulness, sincerity, being correct; to speak the truth or act justly"
+      },
+      "components": [
+        {
+          "arabic": "الصَّدَ",
+          "meaning": "the truth, sincerity"
+        },
+        {
+          "arabic": "-اتِ",
+          "meaning": "plural marker, indicating multiple charities/alms; genitive case ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa Allāhu",
+      "meaning": "And Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the God, deity; to worship; divine power"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "To negate, to refuse, to be absent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يُحِبُّ",
+      "transliteration": "yuḥibbu",
+      "meaning": "He loves, He likes",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to be fond of, affection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "حَبَّ",
+          "meaning": "love, affection (verbal noun)"
+        },
+        {
+          "arabic": "بُ",
+          "meaning": "present tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "كُلَّ",
+      "transliteration": "kulla",
+      "meaning": "Every, All",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "Completeness, totality, entirety"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَفَّارٍ",
+      "transliteration": "kaffārin",
+      "meaning": "Disbeliever, One who covers (sins)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, conceal; to deny (faith), be ungrateful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَثِيمٍ",
+      "transliteration": "ʾathīmin",
+      "meaning": "Sinning, Transgressing",
+      "root": {
+        "letters": "أ-ث-م",
+        "meaning": "to sin, to do wrong, evil act"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-erases-[the] Allah [the] interest and He-increases [the] charities, and Allah not-he-loves every disbeliever sinning."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

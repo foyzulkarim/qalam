@@ -1,0 +1,336 @@
+{
+  "verseId": "2:223",
+  "verse": {
+    "arabic": "نِسَاؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا لِأَنفُسِكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُم مُّلَاقُوهُ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+    "transliteration": "Nisaokum harthun lakum fatoo harthakum anna shitum waqaddimoo lianfusikum waittaqoo Allaha waiAAlamoo annakum mulaqoohu wabashshiri almumineena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 223
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نِسَاؤُكُمْ",
+      "transliteration": "nisā’ukum",
+      "meaning": "your wives",
+      "root": {
+        "letters": "ن-س-و",
+        "meaning": "to be woman, femininity; to weave (related concept)"
+      },
+      "components": [
+        {
+          "arabic": "نِسَاءُ",
+          "meaning": "wives, women (plural)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَرْثٌ",
+      "transliteration": "ḥarthun",
+      "meaning": "a place of sowing, cultivation",
+      "root": {
+        "letters": "ح-ر-ث",
+        "meaning": "to cultivate, to plow, to sow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَأْتُوا",
+      "transliteration": "fa’tū",
+      "meaning": "so come/approach",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, approach, visit"
+      },
+      "components": [
+        {
+          "arabic": "فـ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَتُوا",
+          "meaning": "come/approach (imperative, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حَرْثَكُمْ",
+      "transliteration": "ḥarthakum",
+      "meaning": "your place of sowing, cultivation",
+      "root": {
+        "letters": "ح-ر-ث",
+        "meaning": "to plow, cultivate, sow"
+      },
+      "components": [
+        {
+          "arabic": "حَرْث",
+          "meaning": "sowing, cultivation, a plowed field"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (pronoun suffix, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنَّىٰ",
+      "transliteration": "annā",
+      "meaning": "however, wherever",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; remoteness, distance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "شِئْتُمْ",
+      "transliteration": "shi’tum",
+      "meaning": "you wish/desire",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "thing, matter; to wish/desire (related to wanting something)"
+      },
+      "components": [
+        {
+          "arabic": "شِئ",
+          "meaning": "thing, matter; desire (verbal noun form)"
+        },
+        {
+          "arabic": "تُمْ",
+          "meaning": "you (plural) - suffix pronoun indicating second person plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَقَدِّمُوا",
+      "transliteration": "wa-qaddimū",
+      "meaning": "and prepare/put forth",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to advance, to put forward, to present"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَدَّمُوا",
+          "meaning": "you (plural) prepare/put forth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِأَنفُسِكُمْ",
+      "transliteration": "li’anfusikum",
+      "meaning": "for yourselves",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, person"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَنفُسِكُمْ",
+          "meaning": "yourselves (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَاتَّقُوا",
+      "transliteration": "wa-ittaqū",
+      "meaning": "and fear/be mindful of",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, guard; to be cautious of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقُوا",
+          "meaning": "fear/be mindful of (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَاعْلَمُوا",
+      "transliteration": "wa-aʿlamū",
+      "meaning": "and know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اعْلَمُوا",
+          "meaning": "know (imperative, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "أَنَّكُم",
+      "transliteration": "annakum",
+      "meaning": "that you (plural)",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hiddenness, being concealed"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "مُّلَاقُوهُ",
+      "transliteration": "mulāqūhu",
+      "meaning": "you will meet Him",
+      "root": {
+        "letters": "ل-ق-و",
+        "meaning": "to meet, encounter"
+      },
+      "components": [
+        {
+          "arabic": "مُلَاقُ",
+          "meaning": "meeting, one who will meet"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ۗ",
+      "transliteration": null,
+      "meaning": "[pause]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَبَشِّرِ",
+      "transliteration": "wa-bashshir",
+      "meaning": "and give good tidings to",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to be joyful, to give good news, maturity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بَشِّرِ",
+          "meaning": "give good tidings, announce good news"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الْمُؤْمِنِينَ",
+      "transliteration": "al-mu’minīn",
+      "meaning": "the believers",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُؤْمِنِينَ",
+          "meaning": "believers (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "your-wives a-place-of-sowing for-you so-come your-place-of-sowing however you-wish and-prepare for yourselves and-fear Allah and-know that-you (plural) you-will-meet Him and-give-good-tidings the-believers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

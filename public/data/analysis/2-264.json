@@ -1,0 +1,706 @@
+{
+  "verseId": "2:264",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِّمَّا كَسَبُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+    "transliteration": "Ya ayyuha allatheena amanoo la tubtiloo sadaqatikum bialmanni waalatha kaallathee yunfiqu malahu riaa alnnasi wala yuminu biAllahi waalyawmi alakhiri famathaluhu kamathali safwanin AAalayhi turabun faasabahu wabilun fatarakahu saldan la yaqdiroona AAala shayin mimma kasaboo waAllahu la yahdee alqawma alkafireena",
+    "surah": "Al-Baqarah",
+    "verseNumber": 264
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, addressing intelligent beings)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "An interjection calling attention; sometimes indicating questioning or exclamation."
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Vocative particle; used to directly address someone."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to own; to be or have a quality"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating a group or plurality. Indicates the verb is in the perfect tense, past action, with multiple subjects"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed, from the root أ-م-ن.  Indicates the verb form for masculine plural subjects."
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تُبْطِلُوا",
+      "transliteration": "tubṭilū",
+      "meaning": "invalidate, render useless",
+      "root": {
+        "letters": "ب-ط-ل",
+        "meaning": "to decline, to fail, to be void"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine plural, present tense"
+        },
+        {
+          "arabic": "بْ",
+          "meaning": "part of the root consonant structure"
+        },
+        {
+          "arabic": "طِلُوا",
+          "meaning": "the root with vowel markings indicating the present tense, second person masculine plural conjugation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "صَدَقَاتِكُم",
+      "transliteration": "ṣadaqātikum",
+      "meaning": "your charities, your acts of righteousness",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "to speak the truth, to be truthful, correctness"
+      },
+      "components": [
+        {
+          "arabic": "صَدَقَاتِ",
+          "meaning": "charities, acts of righteousness (plural form)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "your (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "بِالْمَنِّ",
+      "transliteration": "bil-manni",
+      "meaning": "with favor/boasting (prepositional phrase)",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be gracious, to bestow a favor, to thank"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "الْمَنِّ",
+          "meaning": "the favor/boasting"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "وَالْأَذَىٰ",
+      "transliteration": "wal-ʾaḏā",
+      "meaning": "and the injury/harm",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to harm, to injure; pain, suffering"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَذَىٰ",
+          "meaning": "the harm/injury"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كَالَّذِي",
+      "transliteration": "kal-laḏī",
+      "meaning": "like the one who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to flee, to be lost; pertaining to the self or essence"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الَّذِي",
+          "meaning": "the one who, which, that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "يُنفِقُ",
+      "transliteration": "yunfiqu",
+      "meaning": "spends",
+      "root": {
+        "letters": "ن-ف-ق",
+        "meaning": "to expend, to spend, to emit, to flow out"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "مَالَهُ",
+      "transliteration": "mālahu",
+      "meaning": "his wealth",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "for him, his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رِئَاءَ",
+      "transliteration": "riʾāʾa",
+      "meaning": "for show, for the sake of appearance",
+      "root": {
+        "letters": "ر-ي-أ",
+        "meaning": "to see, to observe, to perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-و",
+        "meaning": "to forget, to be lost; people (as they are often 'lost' in worldly affairs)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَلَا",
+      "transliteration": "walā",
+      "meaning": "and not",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away from, to be averse to; protection, guardianship"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "يُؤْمِنُ",
+      "transliteration": "yuʾminu",
+      "meaning": "believes",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trustworthiness, faith"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present tense, active voice, and third person singular"
+        },
+        {
+          "arabic": "ؤْمِنُ",
+          "meaning": "belief, faith (from the root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "billāhi",
+      "meaning": "in Allah (prepositional phrase)",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "divinity, godhood; to be worshipped"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, in, with"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "وَالْيَوْمِ",
+      "transliteration": "wal-yawmi",
+      "meaning": "and the Day (prepositional phrase)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْيَوْمِ",
+          "meaning": "the Day"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "الْآخِرِ",
+      "transliteration": "al-ʾākhiri",
+      "meaning": "the Last (Day)",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to come after, the end or last part of something"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِر",
+          "meaning": "last, final; the Last (Day)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "ۖ",
+      "transliteration": "ḥāʾun",
+      "meaning": "(pause particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ح",
+          "meaning": "Pause particle; indicates a significant pause in recitation."
+        }
+      ]
+    },
+    {
+      "wordNumber": 21,
+      "arabic": "فَمَثَلُهُ",
+      "transliteration": "famathaluhu",
+      "meaning": "so his example/likeness",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "likeness, example, parable"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle)"
+        },
+        {
+          "arabic": "مَثَلُ",
+          "meaning": "example, likeness; the example of..."
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 22,
+      "arabic": "كَمَثَلِ",
+      "transliteration": "kamathli",
+      "meaning": "like the example of",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "similarity, example, likeness"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, similar to (particle introducing a simile)"
+        },
+        {
+          "arabic": "مَثَلِ",
+          "meaning": "example, likeness (genitive case due to preceding particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 23,
+      "arabic": "صَفْوَانٍ",
+      "transliteration": "ṣafwānin",
+      "meaning": "a smooth stone/rock",
+      "root": {
+        "letters": "ص-ف-و",
+        "meaning": "clarity, purity, smoothness; to be clear or pure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 24,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon it (prepositional phrase)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, ascendancy, superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 25,
+      "arabic": "تُرَابٌ",
+      "transliteration": "turābun",
+      "meaning": "dust",
+      "root": {
+        "letters": "ت-ر-ب",
+        "meaning": "to be soft, to be weak; dust, earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 26,
+      "arabic": "فَأَصَابَهُ",
+      "transliteration": "fa-ʾaṣābahū",
+      "meaning": "and it struck it/befell it",
+      "root": {
+        "letters": "ص-ب-و",
+        "meaning": "to strike, to affect, to reach (something)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then, and (as a connective particle)"
+        },
+        {
+          "arabic": "أَصَابَ",
+          "meaning": "to strike, to affect, to reach (something)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "it (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 27,
+      "arabic": "وَابِلٌ",
+      "transliteration": "wābilun",
+      "meaning": "a downpour/heavy rain",
+      "root": {
+        "letters": "و-ب-ل",
+        "meaning": "to flow abundantly; to be plentiful"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 28,
+      "arabic": "فَتَرَكَهُ",
+      "transliteration": "fatarakahū",
+      "meaning": "and it left it/abandoned it",
+      "root": {
+        "letters": "ت-ر-ك",
+        "meaning": "to leave, abandon, forsake"
+      },
+      "components": [
+        {
+          "arabic": "فَتَرَكَ",
+          "meaning": "he left, he abandoned"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it/him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 29,
+      "arabic": "صَلْدًا",
+      "transliteration": "ṣaldan",
+      "meaning": "smooth/bare, hard",
+      "root": {
+        "letters": "ص-ل-د",
+        "meaning": "firmness, hardness, solidity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 30,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 31,
+      "arabic": "يَقْدِرُونَ",
+      "transliteration": "yaqdirūna",
+      "meaning": "they are able/capable",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate, to have power/ability"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person plural (we)"
+        },
+        {
+          "arabic": "قَدِرُ",
+          "meaning": "ability, power (verbal noun form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine, active voice (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 32,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon (preposition)",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 33,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something; existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 34,
+      "arabic": "مِّمَّا",
+      "transliteration": "mimmā",
+      "meaning": "from what/of that which",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be of the nature of"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 35,
+      "arabic": "كَسَبُوا",
+      "transliteration": "kasabū",
+      "meaning": "they earned/acquired",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to strive, to acquire effortfully, to earn"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "pronoun suffix - they (masculine plural)"
+        },
+        {
+          "arabic": "سَبُوا",
+          "meaning": "earned/acquired (verb, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 36,
+      "arabic": "ۗ",
+      "transliteration": "ḥāʾun",
+      "meaning": "(pause particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ح",
+          "meaning": "Pause particle; indicates a slight stop in recitation without affecting meaning."
+        }
+      ]
+    },
+    {
+      "wordNumber": 37,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wallāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 38,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, absence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 39,
+      "arabic": "يَهْدِي",
+      "transliteration": "yahdī",
+      "meaning": "guides",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 40,
+      "arabic": "الْقَوْمَ",
+      "transliteration": "al-qawma",
+      "meaning": "the people",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up; a people, tribe, nation"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَوْمَ",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 41,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīna",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-you-those-who-believed not-invalidate your-charities with-favor and-the-injury like-the-one-who spends his-wealth for-show the-people and-not believes in-Allah and-the-Day the-Last so-his-example like-the-example of-a-smooth-stone upon-it dust so-struck-it a-downpour and-left-it smooth not-are-capable upon-anything of-what they-earned and-Allah not guides the-people the-disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

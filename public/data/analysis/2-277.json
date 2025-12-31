@@ -1,0 +1,373 @@
+{
+  "verseId": "2:277",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati waaqamoo alssalata waatawoo alzzakata lahum ajruhum AAinda rabbihim wala khawfun AAalayhim wala hum yahzanoona",
+    "surah": "Al-Baqarah",
+    "verseNumber": 277
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; being"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to go, to depart; to be/exist; to possess qualities"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "safety, security, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/imperfect tense and plurality"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed (verb, 3rd person plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَعَمِلُوا",
+      "transliteration": "waʿamilū",
+      "meaning": "And they did/performed",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to act"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَمِلُوا",
+          "meaning": "they did/performed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّالِحَاتِ",
+      "transliteration": "al-ṣāliḥāti",
+      "meaning": "The righteous deeds",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, sound, or to improve"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَّالِحَاتِ",
+          "meaning": "righteous deeds (plural, feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَأَقَامُوا",
+      "transliteration": "waʾaqāmū",
+      "meaning": "And they established/performed regularly",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "To stand, to rise, to establish, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "And"
+        },
+        {
+          "arabic": "أَقَامُوا",
+          "meaning": "They established/performed regularly"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الصَّلَاةَ",
+      "transliteration": "al-ṣalāta",
+      "meaning": "The prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to turn to (God)"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَلَاة",
+          "meaning": "prayer, act of worship"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَآتَوُا",
+      "transliteration": "waʾātū",
+      "meaning": "And they gave/presented",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to give"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آتَوُا",
+          "meaning": "they gave/presented (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الزَّكَاةَ",
+      "transliteration": "al-zakāta",
+      "meaning": "The zakah (obligatory charity)",
+      "root": {
+        "letters": "ز-ك-و",
+        "meaning": "to grow, to increase, to purify; blessed growth"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "زَكَاة",
+          "meaning": "Zakah (charity); purification; growth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "belonging to, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَجْرُهُمْ",
+      "transliteration": "ʾajruhum",
+      "meaning": "Their reward",
+      "root": {
+        "letters": "أ-ج-ر",
+        "meaning": "to reward, compensation"
+      },
+      "components": [
+        {
+          "arabic": "أَجْرُ",
+          "meaning": "reward, wages"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "With, at",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "Possession, availability, presence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbihem",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "خَوْفٌ",
+      "transliteration": "khawfun",
+      "meaning": "Fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "And not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to lack"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "هـ",
+          "meaning": "pronoun suffix indicating third person masculine plural (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "يَحْزَنُونَ",
+      "transliteration": "yaḥzanūna",
+      "meaning": "They grieve/sad",
+      "root": {
+        "letters": "ح-ز-ن",
+        "meaning": "sorrow, sadness, grief; to feel distress"
+      },
+      "components": [
+        {
+          "arabic": "يَحْزَنُ",
+          "meaning": "they grieve/sad (present tense, active voice)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix of plurality (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- the-those-who believed and-they-did the-righteous-deeds and-they-established the-prayer and-they-gave the-zakah for-them their-reward with at their-Lord and-not fear upon them and-not they grieve"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}
