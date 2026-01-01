@@ -8,7 +8,8 @@ Technical documentation for the Qalam project.
 |----------|-------------|
 | [Architecture](./architecture.md) | Technical overview, data flow, project structure |
 | [Setup Guide](./setup.md) | Development and deployment instructions |
-| [LLM Integration](./llm-integration.md) | How verse analysis is generated |
+| [Local Development](./LOCAL_DEVELOPMENT.md) | Step-by-step local setup guide |
+| [LLM Integration](./llm-integration.md) | How verse analysis is generated + runtime evaluation |
 | [Learning Philosophy](./learning-philosophy.md) | Pedagogical approach and design principles |
 
 ## Analysis Generation
@@ -22,8 +23,7 @@ Technical reference for the LLM analysis generation system:
 | [Word Prompt](./analysis-prompt-word.md) | Phase 2: Detailed word analysis |
 | [Schema](./analysis-schema.json) | JSON schema for analysis output |
 
-## Sample Data
+## Quick Links
 
-| File | Description |
-|------|-------------|
-| [001.json](./001.json) | Sample analysis output for reference |
+- **Worker API**: See [worker/README.md](../worker/README.md)
+- **Main README**: See [README.md](../README.md)

@@ -1,12 +1,40 @@
 # Architecture
 
-Technical overview of Qalam's architecture and data flow.
+Technical overview of Qalam's Cloudflare-native architecture.
 
 ## Design Principles
 
 - **Stateless**: No database, no user accounts, no server-side state
 - **Static First**: Pre-built pages served from CDN
 - **Data Integrity**: Quranic text from verified sources, never LLM-generated
+- **Cloudflare-Native**: Uses platform services directly (Pages, Workers, R2, KV)
+
+## Architecture Overview
+
+```
+┌─────────────────────────┐     ┌─────────────────────────┐
+│   CLOUDFLARE PAGES      │     │   CLOUDFLARE WORKER     │
+│   (Static App Only)     │     │   (qalam-api)           │
+├─────────────────────────┤     ├─────────────────────────┤
+│ Next.js static export   │     │ POST /assess            │
+│ HTML/JS/CSS/fonts       │────▶│ GET /list-bucket        │
+│ No data files           │     │ GET /health             │
+│ < 500 files             │     │ KV caching (30 days)    │
+└─────────────────────────┘     └─────────────────────────┘
+          │                              │
+          │                              ▼
+          │                     ┌─────────────────────────┐
+          │                     │   CLOUDFLARE R2         │
+          │                     │   (Public Bucket)       │
+          │                     ├─────────────────────────┤
+          │                     │ quran.json              │
+          │                     │ surahs.json             │
+          └────────────────────▶│ analysis/*.json (1000+) │
+                                └─────────────────────────┘
+                                cdn.versemadeeasy.com
+```
+
+**Key insight:** Data is served directly from public R2 (no Worker proxy). The Worker only handles `/assess` requests that need LLM + KV caching.
 
 ## Tech Stack
 
@@ -16,7 +44,10 @@ Technical overview of Qalam's architecture and data flow.
 | Language | TypeScript | Type safety |
 | Styling | Tailwind CSS | Utility-first CSS |
 | Fonts | Amiri | Arabic text rendering |
-| Hosting | Cloudflare Pages | Global CDN |
+| Hosting | Cloudflare Pages | Static app CDN |
+| API | Cloudflare Worker | Assessment endpoint |
+| Storage | Cloudflare R2 | Data files (public bucket) |
+| Cache | Cloudflare KV | Assessment result caching |
 
 ## Project Structure
 
@@ -40,19 +71,28 @@ qalam/
 │   │   └── FeedbackCard.tsx
 │   │
 │   ├── lib/
-│   │   └── data.ts               # Data fetching with caching
+│   │   └── data.ts               # Data fetching from R2
 │   │
 │   └── types/
 │       └── index.ts              # TypeScript definitions
 │
-├── public/data/                  # Static JSON data
+├── worker/                       # Cloudflare Worker
+│   ├── src/
+│   │   ├── index.ts              # Router
+│   │   ├── handlers/assess.ts    # Assessment logic
+│   │   └── lib/                  # LLM, cache, prompts
+│   └── wrangler.toml             # Worker config
+│
+├── public/data/                  # Local data (source for R2)
 │   ├── quran.json                # Complete Quran
 │   ├── surahs.json               # Surah metadata
 │   └── analysis/                 # Word-by-word analysis
 │
 ├── scripts/
 │   ├── build-quran-json.ts       # Build quran.json
-│   └── seed-analysis.ts          # Generate analysis
+│   ├── seed-analysis.ts          # Generate analysis
+│   ├── upload-to-r2.ts           # Sync data to R2
+│   └── data-status.ts            # Progress report
 │
 └── docs/                         # Documentation
 ```
@@ -63,49 +103,61 @@ qalam/
 
 Quranic text comes from [Tanzil.net](https://tanzil.net):
 
-| File | Content |
-|------|---------|
-| `quran.json` | Complete Quran with Arabic + translations |
-| `surahs.json` | Metadata for all 114 surahs |
-| `quran-simple.txt` | Arabic text source |
-| `en.sahih.txt` | Sahih International translation |
-| `en.transliteration.txt` | Transliteration |
+| File | Content | Location |
+|------|---------|----------|
+| `quran.json` | Complete Quran with Arabic + translations | R2 bucket |
+| `surahs.json` | Metadata for all 114 surahs | R2 bucket |
+| `quran-simple.txt` | Arabic text source | Local only |
+| `en.sahih.txt` | Sahih International translation | Local only |
+| `en.transliteration.txt` | Transliteration | Local only |
 
 **Key principle**: Arabic text and translations are NEVER LLM-generated.
 
 ### Analysis Data (LLM-Generated)
 
-Word-by-word linguistic analysis in `public/data/analysis/`:
+Word-by-word linguistic analysis in R2 bucket at `analysis/`:
 
 - File format: `{surah}-{verse}.json` (e.g., `1-5.json`)
 - Contains: roots, grammar, morphology, transliteration
-- Generated using LM Studio (Gemma3-27B) or Ollama
+- Generated using Ollama or LM Studio locally
 - See [LLM Integration](./llm-integration.md) for details
-
-Currently includes:
-- Surah Al-Fatihah (1:1-7)
-- Juz Amma (Surahs 78-114)
 
 ## Data Flow
 
 ```
 Build Time:
-┌─────────────────┐     ┌─────────────────┐
-│ Tanzil.net      │────▶│ quran.json      │
-│ source files    │     │ (verified text) │
-└─────────────────┘     └─────────────────┘
-
-┌─────────────────┐     ┌─────────────────┐
-│ LM Studio or    │────▶│ analysis/*.json │
-│ Ollama (local)  │     │ (linguistic)    │
-└─────────────────┘     └─────────────────┘
-
-Runtime:
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│ User visits     │────▶│ Static JSON     │────▶│ React renders   │
-│ verse page      │     │ loaded          │     │ Arabic + analysis│
+│ Tanzil.net      │────▶│ quran.json      │────▶│ R2 Bucket       │
+│ source files    │     │ (verified text) │     │ (public)        │
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│ Ollama / LMS    │────▶│ analysis/*.json │────▶│ R2 Bucket       │
+│ (local LLM)     │     │ (linguistic)    │     │ (public)        │
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+
+Runtime (Data):
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│ User visits     │────▶│ R2 via CDN      │────▶│ React renders   │
+│ verse page      │     │ (direct fetch)  │     │ Arabic + analysis│
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+
+Runtime (Assessment):
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│ User submits    │────▶│ Worker checks   │────▶│ Return cached   │
+│ translation     │     │ KV cache        │     │ or call LLM     │
 └─────────────────┘     └─────────────────┘     └─────────────────┘
 ```
+
+## Worker API
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/assess` | POST | Translation assessment (LLM + KV cache) |
+| `/list-bucket` | GET | List R2 files (for sync scripts) |
+| `/health` | GET | Health check |
+
+See [worker/README.md](../worker/README.md) for full API documentation.
 
 ## Key Types
 
@@ -161,17 +213,25 @@ interface WordAnalysis {
 
 ## Deployment
 
-Static export to Cloudflare Pages:
+### Pages (Static App)
 
 ```bash
 npm run build  # Outputs to ./out
 ```
 
-Configuration in `wrangler.toml`:
-```toml
-name = "qalam"
-[assets]
-directory = "./out"
+Deployed via GitHub Actions or manually:
+```bash
+npx wrangler pages deploy out --project-name=qalam
 ```
 
-Alternative platforms: Vercel, Netlify, GitHub Pages, any static host.
+### Worker (API)
+
+```bash
+npm run worker:deploy
+```
+
+### R2 (Data)
+
+```bash
+npm run upload:r2  # Smart sync - only uploads missing files
+```

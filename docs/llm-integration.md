@@ -196,13 +196,39 @@ ollama serve
 **Script stops mid-way:**
 Just run again - it resumes from where it stopped.
 
-## Future: Runtime Evaluation
+## Runtime Evaluation (Implemented)
 
-Planned feature: Users submit translation attempts and receive AI feedback.
+Users can submit translation attempts and receive AI feedback via the Worker API.
 
-This would require:
-- Runtime LLM API (Ollama or cloud provider)
-- Evaluation prompt comparing user input to correct translation
-- Scoring and feedback generation
+### How It Works
 
-Currently not implemented - the app only displays pre-computed analysis.
+1. User submits their translation attempt on a verse practice page
+2. Frontend sends `POST /assess` to the Worker with `{ verseId, userTranslation }`
+3. Worker checks KV cache for existing assessment
+4. If cache miss:
+   - Fetches verse analysis and reference translation from R2
+   - Builds evaluation prompt with context
+   - Calls Together.ai LLM API
+   - Caches result in KV (30-day TTL)
+5. Returns structured feedback (score, correct/missed elements, suggestions)
+
+### Architecture
+
+```
+User → Frontend → Worker → KV Cache
+                    ↓ (cache miss)
+              Together.ai LLM
+                    ↓
+              R2 (verse data)
+```
+
+### Configuration
+
+The Worker uses Together.ai in production. Set the API key:
+
+```bash
+cd worker
+npx wrangler secret put TOGETHER_API_KEY
+```
+
+See [worker/README.md](../worker/README.md) for full API documentation.
