@@ -185,7 +185,7 @@ export function getFeaturedVerses(): { id: string; surahName: string }[] {
 }
 
 /**
- * Fetch the analysis manifest (list of verses with analysis available)
+ * Fetch the uploaded manifest (list of verses with analysis available in R2)
  * This is used by the surah page to know which verses are clickable
  */
 export async function getAnalysisManifest(): Promise<AnalysisManifest> {
@@ -194,7 +194,7 @@ export async function getAnalysisManifest(): Promise<AnalysisManifest> {
   }
 
   try {
-    const response = await fetch(`${DATA_BASE_URL}/analysis/manifest.json`)
+    const response = await fetch(`${DATA_BASE_URL}/uploaded.json`)
     if (!response.ok) {
       return { verses: [], generatedAt: '' }
     }

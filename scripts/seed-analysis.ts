@@ -33,6 +33,7 @@
 
 import * as fs from 'fs'
 import * as path from 'path'
+import { buildManifest, ANALYSIS_FILE_PATTERN } from './lib/manifest-utils'
 
 // Backend selection: 'ollama' or 'lms'
 const LLM_BACKEND = process.env.LLM_BACKEND || 'ollama'
@@ -472,24 +473,12 @@ function mergeAnalysis(base: BaseAnalysis, wordDetails: WordDetail[]): object {
  * Called at the end of seeding to track which verses have analysis
  */
 function updateManifest(): void {
-  const files = fs.readdirSync(ANALYSIS_DIR)
-    .filter(f => /^\d+-\d+\.json$/.test(f))
-    .sort((a, b) => {
-      // Sort by surah then verse numerically
-      const [surahA, verseA] = a.replace('.json', '').split('-').map(Number)
-      const [surahB, verseB] = b.replace('.json', '').split('-').map(Number)
-      return surahA - surahB || verseA - verseB
-    })
-
-  const verses = files.map(f => f.replace('.json', '').replace('-', ':'))
-  const manifest = {
-    verses,
-    generatedAt: new Date().toISOString(),
-  }
+  const files = fs.readdirSync(ANALYSIS_DIR).filter(f => ANALYSIS_FILE_PATTERN.test(f))
+  const manifest = buildManifest(files)
 
   const manifestPath = path.join(ANALYSIS_DIR, 'manifest.json')
   fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2))
-  console.log(`Updated manifest.json with ${verses.length} verses`)
+  console.log(`Updated manifest.json with ${manifest.verses.length} verses`)
 }
 
 /**

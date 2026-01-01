@@ -12,11 +12,16 @@
  * - wrangler must be authenticated
  */
 import { execSync } from 'child_process'
-import { readdirSync, existsSync } from 'fs'
+import { readdirSync, existsSync, writeFileSync } from 'fs'
 import { join } from 'path'
+import { buildManifest, R2_ANALYSIS_PATH_PATTERN } from './lib/manifest-utils'
 
 const BUCKET = 'qalam-data'
 const DATA_DIR = 'public/data'
+const UPLOADED_PATH = join(DATA_DIR, 'uploaded.json')
+
+// Upload uploaded.json every N successful file uploads
+const BATCH_SIZE = 10
 
 // Worker API URL - use local for dev, production for deployed
 const WORKER_URL = process.env.WORKER_URL || 'https://qalam-api.foyzul.workers.dev'
@@ -80,6 +85,15 @@ function uploadFile(localPath: string, remotePath: string): boolean {
   }
 }
 
+/**
+ * Update local uploaded.json with current R2 state
+ * Called after each successful upload (matching seed-analysis pattern)
+ */
+function updateUploaded(currentR2State: Set<string>): void {
+  const manifest = buildManifest(currentR2State, R2_ANALYSIS_PATH_PATTERN)
+  writeFileSync(UPLOADED_PATH, JSON.stringify(manifest, null, 2))
+}
+
 async function main() {
   console.log('='.repeat(50))
   console.log('Qalam Data Sync to R2')
@@ -109,11 +123,12 @@ async function main() {
     }
   }
 
-  // Analysis files
+  // Analysis files (exclude manifest.json - it's for local seeding only)
   const analysisDir = join(DATA_DIR, 'analysis')
   if (existsSync(analysisDir)) {
     const analysisFiles = readdirSync(analysisDir)
       .filter(f => f.endsWith('.json') && !f.startsWith('_') && !f.startsWith('.'))
+      .filter(f => f !== 'manifest.json')  // Exclude local manifest
 
     for (const file of analysisFiles) {
       filesToProcess.push({
@@ -123,16 +138,33 @@ async function main() {
     }
   }
 
-  console.log(`Found ${filesToProcess.length} local files\n`)
+  // Calculate how many files need uploading
+  const toUpload = filesToProcess.filter(f => !existingInR2.has(f.remotePath)).length
+  console.log(`Found ${filesToProcess.length} local files`)
+  console.log(`Need to upload ${toUpload} files (${existingInR2.size} already in R2)\n`)
 
-  // Step 3: Upload missing files
+  // Step 3: Generate and upload uploaded.json immediately (safety net)
+  // This ensures R2 has accurate state even if we cancel mid-upload
+  console.log('Generating uploaded.json from current R2 state...')
+  updateUploaded(existingInR2)
+  console.log('Uploading uploaded.json to R2 (initial sync)...')
+  if (uploadFile(UPLOADED_PATH, 'uploaded.json')) {
+    console.log('✓ uploaded.json synced to R2\n')
+  } else {
+    console.error('✗ Failed to upload initial uploaded.json')
+  }
+
+  // Step 4: Upload missing files with batched uploaded.json syncs
   let uploaded = 0
   let skipped = 0
   let failed = 0
+  let uploadedSinceLastSync = 0
+
+  // Track current R2 state (starts with existing, grows with uploads)
+  const currentR2State = new Set(existingInR2)
 
   for (let i = 0; i < filesToProcess.length; i++) {
     const { localPath, remotePath } = filesToProcess[i]
-    const progress = `[${i + 1}/${filesToProcess.length}]`
 
     // Skip if already in R2
     if (existingInR2.has(remotePath)) {
@@ -140,14 +172,34 @@ async function main() {
       continue
     }
 
+    // Show meaningful progress: [current/total to upload]
+    const progress = `[${uploaded + 1}/${toUpload}]`
     console.log(`${progress} Uploading ${remotePath}...`)
 
     if (uploadFile(localPath, remotePath)) {
       uploaded++
+      currentR2State.add(remotePath)
+      updateUploaded(currentR2State)  // Update local file
+      uploadedSinceLastSync++
       console.log(`✓ Done`)
+
+      // Batch upload: sync uploaded.json to R2 every N files
+      if (uploadedSinceLastSync >= BATCH_SIZE) {
+        console.log(`  → Syncing uploaded.json to R2 (${uploaded} files uploaded)...`)
+        uploadFile(UPLOADED_PATH, 'uploaded.json')
+        uploadedSinceLastSync = 0
+      }
     } else {
       failed++
     }
+  }
+
+  // Step 5: Final upload of uploaded.json to R2
+  console.log('\nUploading final uploaded.json to R2...')
+  if (uploadFile(UPLOADED_PATH, 'uploaded.json')) {
+    console.log('✓ Final uploaded.json synced to R2')
+  } else {
+    console.error('✗ Failed to upload final uploaded.json')
   }
 
   console.log()
@@ -158,6 +210,7 @@ async function main() {
   console.log(`  Skipped:  ${skipped} (already in R2)`)
   console.log(`  Failed:   ${failed}`)
   console.log(`  Total in R2: ${existingInR2.size + uploaded}`)
+  console.log(`  Verses in uploaded.json: ${buildManifest(currentR2State, R2_ANALYSIS_PATH_PATTERN).verses.length}`)
   console.log('='.repeat(50))
 
   if (failed > 0) {
