@@ -31,6 +31,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
+          NEXT_PUBLIC_R2_URL: https://cdn.versemadeeasy.com
           NEXT_PUBLIC_API_URL: https://qalam-api.foyzul.workers.dev
 
       - name: Upload build artifact

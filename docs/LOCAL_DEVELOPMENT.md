@@ -17,28 +17,30 @@ After merging the consolidation PR, follow these steps to set up your local deve
 ## Step 1: Create R2 Bucket
 
 ```bash
-# Create production bucket
+# Create the bucket
 npx wrangler r2 bucket create qalam-data
-
-# Create preview bucket (for local dev)
-npx wrangler r2 bucket create qalam-data-preview
 
 # Verify
 npx wrangler r2 bucket list
 ```
 
+### Enable Public Access
+
+1. Go to Cloudflare Dashboard → R2 → `qalam-data`
+2. Settings → Public access → Enable
+3. Add custom domain: `cdn.versemadeeasy.com` (or use the provided r2.dev URL)
+
 ## Step 2: Upload Data to R2
 
 ```bash
-# Initial full upload (run once)
+# Smart sync - uploads only missing files
 npm run upload:r2
-
-# For subsequent updates (delta sync)
-npm run sync:r2
 
 # Check progress
 npm run data:status
 ```
+
+**Note:** The upload script uses the Worker's `/list-bucket` endpoint to detect existing files, so deploy the Worker first if this is a fresh setup.
 
 ## Step 3: Set Worker Secrets
 
@@ -64,14 +66,18 @@ npm run dev
 # Runs at http://localhost:3000
 ```
 
-For local dev, create `.env.local`:
+Create `.env.local` for local development:
 ```bash
+# Required - public R2 URL for data
+NEXT_PUBLIC_R2_URL=https://cdn.versemadeeasy.com
+
+# Required - Worker API URL (local or production)
 NEXT_PUBLIC_API_URL=http://localhost:8787
 ```
 
 ## Step 5: Deploy
 
-**Deploy Worker:**
+**Deploy Worker first** (required for upload script):
 ```bash
 npm run worker:deploy
 ```
@@ -91,7 +97,7 @@ Add these secrets to your GitHub repository (Settings → Secrets → Actions):
 
 | Secret | Description |
 |--------|-------------|
-| `CLOUDFLARE_API_TOKEN` | API token with Workers/Pages permissions |
+| `CLOUDFLARE_API_TOKEN` | API token with Workers/Pages/R2 permissions |
 | `CLOUDFLARE_ACCOUNT_ID` | Your Cloudflare account ID |
 
 To create an API token:
@@ -100,6 +106,13 @@ To create an API token:
    - `Workers Scripts:Edit`
    - `Pages:Edit`
    - `Account:Read`
+
+Add these environment variables for Pages build:
+
+| Variable | Value |
+|----------|-------|
+| `NEXT_PUBLIC_R2_URL` | `https://cdn.versemadeeasy.com` |
+| `NEXT_PUBLIC_API_URL` | `https://qalam-api.foyzul.workers.dev` |
 
 ---
 
@@ -117,6 +130,10 @@ To create an API token:
 - Verify `TOGETHER_API_KEY` is set: `npx wrangler secret list`
 - Check Worker logs: `npx wrangler tail`
 
+### Upload script fails
+- Ensure Worker is deployed with `/list-bucket` endpoint
+- Run `npm run worker:deploy` first
+
 ---
 
 ## Quick Reference
@@ -127,7 +144,6 @@ To create an API token:
 | `npm run worker:dev` | Start Worker locally |
 | `npm run build` | Build static export |
 | `npm run start` | Serve static build |
-| `npm run upload:r2` | Upload all data to R2 |
-| `npm run sync:r2` | Sync new analysis files |
+| `npm run upload:r2` | Smart sync data to R2 |
 | `npm run data:status` | Show generation progress |
 | `npm run worker:deploy` | Deploy Worker |
