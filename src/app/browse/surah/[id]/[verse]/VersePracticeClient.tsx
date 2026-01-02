@@ -1,8 +1,8 @@
 'use client'
 
-import { use, useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useParams } from 'next/navigation'
 import { Button, Card, CardHeader, CardTitle, CardContent, Textarea, Alert, Spinner } from '@/components/ui'
 import { VerseDisplay } from '@/components/VerseDisplay'
 import { FeedbackCard } from '@/components/FeedbackCard'
@@ -64,10 +64,12 @@ interface VerseData {
   totalVerses: number
 }
 
-export default function VersePracticeClient({ params }: { params: Promise<{ id: string; verse: string }> }) {
-  const { id, verse: verseParam } = use(params)
-  const surahId = parseInt(id, 10)
-  const verseNum = parseInt(verseParam, 10)
+export default function VersePracticeClient() {
+  // Read URL params directly from browser URL (not server params)
+  // This is required for SPA routing where all verse URLs are rewritten to /browse/surah/1/1/
+  const urlParams = useParams<{ id: string; verse: string }>()
+  const surahId = parseInt(urlParams.id, 10)
+  const verseNum = parseInt(urlParams.verse, 10)
   const verseId = `${surahId}:${verseNum}`
 
   const router = useRouter()
