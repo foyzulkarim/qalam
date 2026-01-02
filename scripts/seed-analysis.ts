@@ -48,8 +48,8 @@ const LMS_MODEL = process.env.LMS_MODEL || 'local-model'
 
 // Paths
 const PROJECT_ROOT = path.resolve(__dirname, '..')
-const QURAN_FILE = path.join(PROJECT_ROOT, 'public/data/quran.json')
-const ANALYSIS_DIR = path.join(PROJECT_ROOT, 'public/data/analysis')
+const QURAN_FILE = path.join(PROJECT_ROOT, 'data/quran.json')
+const ANALYSIS_DIR = path.join(PROJECT_ROOT, 'data/analysis')
 const TEMP_DIR = path.join(ANALYSIS_DIR, '_temp')
 
 // Surah Range Filter (inclusive)
