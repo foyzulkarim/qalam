@@ -11,12 +11,12 @@ Qalam is a stateless Quran translation learning application. Users practice tran
 ```
 ┌─────────────────────────┐     ┌─────────────────────────┐
 │   CLOUDFLARE PAGES      │     │   CLOUDFLARE WORKER     │
-│   (Static App Only)     │     │   (qalam-api)           │
+│   (Static App + SPA)    │     │   (qalam-api)           │
 ├─────────────────────────┤     ├─────────────────────────┤
 │ Next.js static export   │     │ POST /assess only       │
 │ HTML/JS/CSS/fonts       │────▶│ KV caching              │
-│ No data files           │     │ LLM API calls           │
-│ < 500 files             │     │ (minimal footprint)     │
+│ ~200 files total        │     │ LLM API calls           │
+│ _redirects for SPA      │     │ (minimal footprint)     │
 └─────────────────────────┘     └─────────────────────────┘
           │                              │
           │                              ▼
@@ -26,12 +26,15 @@ Qalam is a stateless Quran translation learning application. Users practice tran
           │                     ├─────────────────────────┤
           │                     │ quran.json              │
           │                     │ surahs.json             │
-          └────────────────────▶│ analysis/*.json (1000+) │
+          └────────────────────▶│ analysis/*.json (6000+) │
                                 └─────────────────────────┘
                                 cdn.versemadeeasy.com
 ```
 
-**Key insight:** Data is served directly from public R2 (no Worker hop). The Worker only handles `/assess` requests that need LLM + KV caching.
+**Key insights:**
+- Data is served directly from public R2 (no Worker hop)
+- Verse pages use SPA routing: one shell page serves all 6,236 verses via `_redirects`
+- The Worker only handles `/assess` requests that need LLM + KV caching
 
 ## Common Commands
 
@@ -50,7 +53,9 @@ npm run upload:r2        # Upload all data files to R2
 npm run data:status      # Show analysis generation progress
 
 # Deployment
-npm run worker:deploy    # Deploy Worker to Cloudflare
+npm run pages:deploy     # Build & deploy Next.js to Cloudflare Pages
+npm run worker:deploy    # Deploy Worker API to Cloudflare
+npm run deploy           # Deploy both (Worker + Pages)
 ```
 
 ## Tech Stack
@@ -68,7 +73,8 @@ npm run worker:deploy    # Deploy Worker to Cloudflare
 - `src/types/` - TypeScript definitions
 - `worker/` - Cloudflare Worker (assessment API only)
 - `scripts/` - Utility scripts (R2 upload, analysis seeding)
-- `public/data/` - Local data files (source for R2)
+- `data/` - Local data files (source for R2, not included in build)
+- `public/_redirects` - Cloudflare Pages SPA routing rules
 
 ## Data Architecture
 

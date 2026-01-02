@@ -1,0 +1,6 @@
+# SPA routing for verse pages
+# All verse URLs serve the shell page (client handles routing)
+# The 200 status means rewrite (URL stays the same, content from shell)
+/browse/surah/:surah/:verse/* /browse/surah/1/1/ 200
+/browse/surah/:surah/:verse/ /browse/surah/1/1/ 200
+/browse/surah/:surah/:verse /browse/surah/1/1/ 200

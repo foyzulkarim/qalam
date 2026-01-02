@@ -115,7 +115,7 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
         // Load verse analysis directly
         const analysisData = await getVerseAnalysis(verseId)
         if (!analysisData) {
-          setLoadError('Verse analysis not available yet.')
+          setLoadError(`Analysis for verse ${verseId} has not been generated yet. We're gradually adding analysis for all 6,236 verses.`)
           return
         }
 
@@ -278,11 +278,15 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
   }
 
   if (loadError || !verseData) {
+    const isAnalysisNotGenerated = loadError?.includes('has not been generated yet')
     return (
       <div className="min-h-screen bg-gray-50">
         <Navbar />
         <main className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
-          <Alert variant="warning" title="Verse Not Available">
+          <Alert
+            variant={isAnalysisNotGenerated ? 'info' : 'warning'}
+            title={isAnalysisNotGenerated ? 'Coming Soon' : 'Verse Not Available'}
+          >
             {loadError || 'Unable to load verse data.'}
           </Alert>
           <div className="mt-6 flex gap-4">

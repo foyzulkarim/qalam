@@ -4,7 +4,7 @@
  */
 import { readdirSync, existsSync, readFileSync } from 'fs'
 
-const ANALYSIS_DIR = 'public/data/analysis'
+const ANALYSIS_DIR = 'data/analysis'
 const MANIFEST_FILE = `${ANALYSIS_DIR}/.r2-manifest.json`
 const TOTAL_VERSES = 6236
 

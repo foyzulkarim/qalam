@@ -17,7 +17,7 @@ import { join } from 'path'
 import { buildManifest, R2_ANALYSIS_PATH_PATTERN } from './lib/manifest-utils'
 
 const BUCKET = 'qalam-data'
-const DATA_DIR = 'public/data'
+const DATA_DIR = 'data'
 const UPLOADED_PATH = join(DATA_DIR, 'uploaded.json')
 
 // Upload uploaded.json every N successful file uploads

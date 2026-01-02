@@ -19,7 +19,7 @@ import * as path from 'path'
 
 // Paths
 const PROJECT_ROOT = path.resolve(__dirname, '..')
-const DATA_DIR = path.join(PROJECT_ROOT, 'public/data')
+const DATA_DIR = path.join(PROJECT_ROOT, 'data')
 const SURAHS_FILE = path.join(DATA_DIR, 'surahs.json')
 const ARABIC_FILE = path.join(DATA_DIR, 'quran-simple.txt')
 const OUTPUT_FILE = path.join(DATA_DIR, 'quran.json')
