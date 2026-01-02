@@ -1,5 +1,6 @@
-# Qalam - Cloudflare Pages (Next.js with @cloudflare/next-on-pages)
-# For the Assessment API Worker, see ./worker/wrangler.toml
+# Qalam - Cloudflare Pages (Static Export)
+# This is a static Next.js export. Data is served from the Worker/R2.
+# For the Worker configuration, see ./worker/wrangler.toml
 name = "qalam"
 compatibility_date = "2024-12-24"
-pages_build_output_dir = ".vercel/output/static"
+pages_build_output_dir = "out"

@@ -12,17 +12,28 @@ Cloudflare Worker for translation assessment with KV caching.
 │  ┌──────────────┐      ┌──────────────┐      ┌──────────────┐       │
 │  │ Static Site  │ ──── │   Worker     │ ──── │  Together.ai │       │
 │  │ (CF Pages)   │      │   /assess    │      │  LLM API     │       │
-│  │ qalam.pages  │      │              │      │              │       │
+│  │              │      │              │      │              │       │
 │  └──────────────┘      └──────┬───────┘      └──────────────┘       │
-│                               │                                      │
-│                        ┌──────▼───────┐                             │
-│                        │   CF KV      │                             │
-│                        │   Cache      │                             │
-│                        │  (30 days)   │                             │
+│         │                     │                                      │
+│         │              ┌──────▼───────┐                             │
+│         │              │   CF KV      │                             │
+│         │              │   Cache      │                             │
+│         │              │  (30 days)   │                             │
+│         │              └──────────────┘                             │
+│         │                     │                                      │
+│         │              ┌──────▼───────┐                             │
+│         └─────────────▶│   CF R2      │◀─── Data fetched            │
+│                        │  (Public)    │     by Worker for           │
+│                        │  cdn.verse.. │     assessment context      │
 │                        └──────────────┘                             │
 │                                                                      │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+
+**Key points:**
+- Static site fetches data directly from public R2 (`cdn.versemadeeasy.com`)
+- Worker only handles `/assess` requests (not data serving)
+- Worker fetches verse context from R2 when evaluating translations
 
 ## Request Flow
 
@@ -37,15 +48,15 @@ Cloudflare Worker for translation assessment with KV caching.
    ├─► HIT:  Return cached feedback immediately (cached: true)
    └─► MISS: Continue to step 4
 
-4. Fetch verse data (from static site)
-   ├─► GET qalam.pages.dev/data/analysis/{surah}-{verse}.json
-   └─► GET qalam.pages.dev/data/quran.json (for reference translation)
+4. Fetch verse data from R2 (public bucket)
+   ├─► GET cdn.versemadeeasy.com/analysis/{surah}-{verse}.json
+   └─► GET cdn.versemadeeasy.com/quran.json (for reference translation)
 
 5. Build LLM prompt
    └─► Include: Arabic, reference translation, word meanings, user's attempt
 
 6. Call LLM API
-   └─► Together.ai / vLLM / Ollama (based on ASSESSMENT_BACKEND)
+   └─► Together.ai (production)
 
 7. Cache result in KV
    └─► Store feedback with 30-day TTL
@@ -54,174 +65,7 @@ Cloudflare Worker for translation assessment with KV caching.
    └─► { success: true, cached: false, data: { feedback } }
 ```
 
-## Cache Key Strategy
-
-The cache key is generated from:
-- `verseId` (e.g., "1:1")
-- Normalized user translation (lowercase, trimmed, collapsed whitespace)
-
-```
-Key format: assessment:{verseId}:{hash}
-Example:    assessment:1:1:a3f2b1c9
-```
-
-**Same meaning, same cache hit:**
-- "In the name of God" → cached
-- "in the name of god" → same cache hit (normalized)
-- "In  the   name of God" → same cache hit (whitespace collapsed)
-
-**Different wording, different cache:**
-- "In the name of Allah" → different cache entry
-
----
-
-## Development Scenarios
-
-### Scenario 1: Full Local Development (No Cloud)
-
-**Use case:** Offline development, testing Worker logic
-
-```bash
-# Terminal 1: Run Worker with local KV simulation
-cd worker
-npm run dev
-
-# Terminal 2: Serve static site
-npm run build
-npx serve out -p 3000
-```
-
-**Configuration (.env.local):**
-```
-NEXT_PUBLIC_API_URL=http://localhost:8787
-```
-
-**Behavior:**
-- Worker runs at `localhost:8787`
-- KV is simulated locally (miniflare)
-- Cache persists in `worker/.wrangler/state/`
-- LLM calls go to Together.ai (or local vLLM if configured)
-
----
-
-### Scenario 2: Local Worker + Remote KV (Recommended for Testing)
-
-**Use case:** Test with real Cloudflare KV, verify caching works
-
-```bash
-# Terminal 1: Run Worker with REMOTE KV
-cd worker
-npm run dev:remote
-
-# Terminal 2: Serve static site
-npm run build
-npx serve out -p 3000
-```
-
-**Configuration (.env.local):**
-```
-NEXT_PUBLIC_API_URL=http://localhost:8787
-```
-
-**Behavior:**
-- Worker runs locally at `localhost:8787`
-- KV reads/writes go to **real Cloudflare KV**
-- You can verify cache in Cloudflare dashboard
-- Secrets (TOGETHER_API_KEY) are read from Cloudflare
-
----
-
-### Scenario 3: Local Worker + Local LLM (vLLM)
-
-**Use case:** Test with local GPU, no cloud LLM costs
-
-```bash
-# Terminal 1: Start vLLM
-vllm serve Qwen/Qwen3-4B-Instruct --dtype auto --max-model-len 4096
-
-# Terminal 2: Run Worker with local vLLM backend
-cd worker
-npm run dev:local
-
-# Terminal 3: Serve static site
-npx serve out -p 3000
-```
-
-**Behavior:**
-- Worker uses vLLM at `localhost:8000`
-- No Together.ai API calls
-- Local KV simulation
-
----
-
-### Scenario 4: Next.js Dev Mode (Simple, No Worker)
-
-**Use case:** Quick frontend iteration, mock-ish behavior
-
-```bash
-npm run dev
-```
-
-**Configuration (.env.local):**
-```
-NEXT_PUBLIC_API_URL=
-```
-
-**Behavior:**
-- Uses `/api/assess-translation` route (Next.js API)
-- No KV caching
-- Still calls real LLM (Together.ai)
-- **Not representative of production**
-
----
-
-## Setup Instructions
-
-### 1. Install Dependencies
-
-```bash
-cd worker
-npm install
-```
-
-### 2. Create KV Namespace
-
-```bash
-# Create production namespace
-npm run kv:create
-# Output: Created namespace with ID "xxxxx"
-
-# Create preview namespace (for wrangler dev)
-npm run kv:create:preview
-# Output: Created namespace with ID "yyyyy"
-```
-
-### 3. Update wrangler.toml
-
-```toml
-[[kv_namespaces]]
-binding = "ASSESSMENT_CACHE"
-id = "xxxxx"           # From step 2
-preview_id = "yyyyy"   # From step 2
-```
-
-### 4. Set Secrets
-
-```bash
-# Set Together.ai API key
-wrangler secret put TOGETHER_API_KEY
-# Enter your key when prompted
-```
-
-### 5. Deploy
-
-```bash
-npm run deploy
-```
-
----
-
-## API Reference
+## API Endpoints
 
 ### POST /assess
 
@@ -259,22 +103,23 @@ Assess a user's Quran translation.
 }
 ```
 
-**Response (Cached):**
+### GET /list-bucket
+
+List files in R2 bucket. Used by sync scripts.
+
+**Query params:**
+- `prefix` - Filter by prefix (e.g., `analysis/`)
+- `cursor` - Pagination cursor
+
+**Response:**
 ```json
 {
   "success": true,
-  "cached": true,
   "data": {
-    "feedback": { ... }
+    "objects": ["quran.json", "surahs.json", "analysis/1-1.json", ...],
+    "truncated": false,
+    "cursor": null
   }
-}
-```
-
-**Response (Error):**
-```json
-{
-  "success": false,
-  "error": "Verse analysis not available"
 }
 ```
 
@@ -293,16 +138,72 @@ Health check endpoint.
 
 ---
 
+## Cache Key Strategy
+
+The cache key is generated from:
+- `verseId` (e.g., "1:1")
+- Normalized user translation (lowercase, trimmed, collapsed whitespace)
+
+```
+Key format: assessment:{verseId}:{hash}
+Example:    assessment:1:1:a3f2b1c9
+```
+
+**Same meaning, same cache hit:**
+- "In the name of God" → cached
+- "in the name of god" → same cache hit (normalized)
+- "In  the   name of God" → same cache hit (whitespace collapsed)
+
+**Different wording, different cache:**
+- "In the name of Allah" → different cache entry
+
+---
+
+## Development
+
+### Local Development
+
+```bash
+cd worker
+npm install
+npm run dev
+```
+
+Worker runs at `http://localhost:8787`.
+
+For local development with remote KV (to test with real cache):
+
+```bash
+npm run dev:remote
+```
+
+### Set Secrets
+
+```bash
+# For production
+npx wrangler secret put TOGETHER_API_KEY
+
+# For local development, create .dev.vars:
+echo "TOGETHER_API_KEY=your-key-here" > .dev.vars
+```
+
+### Deploy
+
+```bash
+npm run deploy
+```
+
+---
+
 ## Environment Variables
 
-| Variable | Where | Description | Default |
-|----------|-------|-------------|---------|
-| `ASSESSMENT_BACKEND` | wrangler.toml | LLM backend: `together`, `vllm`, `ollama` | `together` |
-| `TOGETHER_API_KEY` | Secret | Together.ai API key | - |
-| `TOGETHER_MODEL` | wrangler.toml | Model name | `meta-llama/Llama-3.3-70B-Instruct-Turbo` |
-| `VLLM_BASE_URL` | wrangler.toml | vLLM server URL | `http://localhost:8000` |
-| `VLLM_MODEL` | wrangler.toml | vLLM model | `Qwen/Qwen3-4B-Instruct` |
-| `ALLOWED_ORIGINS` | wrangler.toml | CORS origins (comma-separated) | `https://qalam.pages.dev,http://localhost:3000` |
+| Variable | Where | Description |
+|----------|-------|-------------|
+| `ASSESSMENT_BACKEND` | wrangler.toml | LLM backend: `together` |
+| `TOGETHER_API_KEY` | Secret | Together.ai API key |
+| `TOGETHER_MODEL` | wrangler.toml | Model name |
+| `R2_PUBLIC_URL` | wrangler.toml | Public R2 URL for data |
+| `ALLOWED_ORIGINS` | wrangler.toml | CORS origins (comma-separated) |
 
 ---
 
@@ -311,12 +212,9 @@ Health check endpoint.
 | Script | Description |
 |--------|-------------|
 | `npm run dev` | Run locally with local KV simulation |
-| `npm run dev:remote` | Run locally with **remote** Cloudflare KV |
-| `npm run dev:local` | Run locally with local vLLM backend |
+| `npm run dev:remote` | Run locally with remote Cloudflare KV |
 | `npm run deploy` | Deploy to Cloudflare |
 | `npm run tail` | View live logs |
-| `npm run kv:create` | Create KV namespace |
-| `npm run kv:create:preview` | Create preview KV namespace |
 
 ---
 
@@ -326,41 +224,40 @@ Health check endpoint.
 
 ```bash
 # List all keys
-wrangler kv:key list --namespace-id=YOUR_NAMESPACE_ID
+npx wrangler kv:key list --namespace-id=YOUR_NAMESPACE_ID
 
 # Get specific key
-wrangler kv:key get "assessment:1:1:abc123" --namespace-id=YOUR_NAMESPACE_ID
+npx wrangler kv:key get "assessment:1:1:abc123" --namespace-id=YOUR_NAMESPACE_ID
 ```
 
 ### View Live Logs
 
 ```bash
-cd worker
 npm run tail
 ```
 
 ### Clear Cache for a Verse
 
 ```bash
-wrangler kv:key delete "assessment:1:1:abc123" --namespace-id=YOUR_NAMESPACE_ID
+npx wrangler kv:key delete "assessment:1:1:abc123" --namespace-id=YOUR_NAMESPACE_ID
 ```
 
 ---
 
 ## Troubleshooting
 
-### "Cannot connect to vLLM"
-- Ensure vLLM is running: `vllm serve ...`
-- Check `VLLM_BASE_URL` is correct
-
 ### "TOGETHER_API_KEY is not configured"
-- Run `wrangler secret put TOGETHER_API_KEY`
-- For local dev with remote: secrets are fetched from Cloudflare
+- Run `npx wrangler secret put TOGETHER_API_KEY`
+- For local dev: create `.dev.vars` file
 
 ### "Verse analysis not available"
-- The verse analysis JSON doesn't exist in `public/data/analysis/`
-- Run `npm run seed:analysis` to generate it
+- The verse analysis JSON doesn't exist in R2
+- Run `npm run seed:analysis` then `npm run upload:r2`
 
 ### CORS errors
-- Check `ALLOWED_ORIGINS` includes your frontend URL
+- Check `ALLOWED_ORIGINS` in `wrangler.toml`
 - For local dev, `http://localhost:3000` is allowed by default
+
+### R2 fetch errors
+- Verify R2 bucket is public
+- Check `R2_PUBLIC_URL` in `wrangler.toml`

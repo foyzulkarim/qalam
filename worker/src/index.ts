@@ -2,8 +2,11 @@
  * Qalam Assessment API - Cloudflare Worker
  *
  * Endpoints:
- *   POST /assess - Assess a user's translation
- *   GET  /health - Health check
+ *   POST /assess       - Assess a user's translation (with KV caching)
+ *   GET  /list-bucket  - List files in R2 bucket (for sync scripts & future UI features)
+ *   GET  /health       - Health check
+ *
+ * Note: Data is served directly from public R2 (https://cdn.versemadeeasy.com)
  */
 
 import type { Env } from './types'
@@ -25,6 +28,8 @@ export default {
       // Route requests
       if (path === '/assess' && request.method === 'POST') {
         response = await handleAssessment(request, env)
+      } else if (path === '/list-bucket' && request.method === 'GET') {
+        response = await handleListBucket(url, env)
       } else if (path === '/health' && request.method === 'GET') {
         response = new Response(JSON.stringify({
           status: 'ok',
@@ -56,6 +61,34 @@ export default {
     // Add CORS headers to response
     return handleCors(request, env, response)
   },
+}
+
+/**
+ * List files in R2 bucket
+ * Query params:
+ *   - prefix: filter by prefix (e.g., "analysis/")
+ *   - cursor: pagination cursor for next page
+ */
+async function handleListBucket(url: URL, env: Env): Promise<Response> {
+  const prefix = url.searchParams.get('prefix') || undefined
+  const cursor = url.searchParams.get('cursor') || undefined
+
+  const listed = await env.DATA_BUCKET.list({
+    prefix,
+    cursor,
+    limit: 1000,
+  })
+
+  return new Response(JSON.stringify({
+    success: true,
+    data: {
+      objects: listed.objects.map(obj => obj.key),
+      truncated: listed.truncated,
+      cursor: listed.truncated ? listed.cursor : null,
+    },
+  }), {
+    headers: { 'Content-Type': 'application/json' },
+  })
 }
 
 /**

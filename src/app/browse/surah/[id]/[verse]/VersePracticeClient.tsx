@@ -50,8 +50,11 @@ const defaultAnalysis: WordAnalysis[] = [
   },
 ]
 
-// API URL for assessment (Worker in production, local API in dev)
-const API_URL = process.env.NEXT_PUBLIC_API_URL || ''
+// API URL for assessment (required - no fallback to ensure env is configured)
+const API_URL = process.env.NEXT_PUBLIC_API_URL
+if (!API_URL) {
+  throw new Error('NEXT_PUBLIC_API_URL environment variable is required')
+}
 
 type ViewState = 'practice' | 'feedback' | 'analysis'
 
@@ -167,9 +170,8 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
     setIsSubmitting(true)
 
     try {
-      // Call assessment API (Worker in production, /api route in dev)
-      const endpoint = API_URL ? `${API_URL}/assess` : '/api/assess-translation'
-      const response = await fetch(endpoint, {
+      // Call Worker API for assessment
+      const response = await fetch(`${API_URL}/assess`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

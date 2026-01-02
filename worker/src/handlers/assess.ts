@@ -14,23 +14,15 @@ import { buildAssessmentPrompt } from '../lib/prompts';
 import { callLLM } from '../lib/llm';
 import { getCachedAssessment, cacheAssessment } from '../lib/cache';
 
-// Base URL for static data - configurable for local development
-const DEFAULT_DATA_BASE_URL = 'https://qalam.pages.dev/data';
-
-function getDataBaseUrl(env: Env): string {
-  return env.DATA_BASE_URL || DEFAULT_DATA_BASE_URL;
-}
-
 /**
- * Fetch verse analysis from static JSON
+ * Fetch verse analysis from public R2 bucket
  */
 async function getVerseAnalysis(
   verseId: string,
   env: Env
 ): Promise<VerseAnalysis | null> {
   const fileName = verseId.replace(':', '-');
-  const baseUrl = getDataBaseUrl(env);
-  const url = `${baseUrl}/analysis/${fileName}.json`;
+  const url = `${env.R2_PUBLIC_URL}/analysis/${fileName}.json`;
 
   try {
     const response = await fetch(url);
@@ -41,31 +33,35 @@ async function getVerseAnalysis(
   }
 }
 
+// Cache for quran.json to avoid repeated fetches
+let quranDataCache: {
+  surahs: Array<{
+    id: number;
+    verses: Array<{
+      number: number;
+      translations: { 'en.sahih': string };
+    }>;
+  }>;
+} | null = null;
+
 /**
- * Fetch reference translation from quran.json
+ * Fetch reference translation from public R2 bucket
  */
 async function getReferenceTranslation(
   verseId: string,
   env: Env
 ): Promise<string | null> {
   const [surahId, verseNum] = verseId.split(':').map(Number);
-  const baseUrl = getDataBaseUrl(env);
 
   try {
-    const response = await fetch(`${baseUrl}/quran.json`);
-    if (!response.ok) return null;
+    // Use cached data if available
+    if (!quranDataCache) {
+      const response = await fetch(`${env.R2_PUBLIC_URL}/quran.json`);
+      if (!response.ok) return null;
+      quranDataCache = await response.json();
+    }
 
-    const quranData = (await response.json()) as {
-      surahs: Array<{
-        id: number;
-        verses: Array<{
-          number: number;
-          translations: { 'en.sahih': string };
-        }>;
-      }>;
-    };
-
-    const surah = quranData.surahs.find((s) => s.id === surahId);
+    const surah = quranDataCache?.surahs.find((s) => s.id === surahId);
     if (!surah) return null;
 
     const verse = surah.verses.find((v) => v.number === verseNum);

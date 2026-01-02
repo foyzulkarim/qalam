@@ -2,10 +2,15 @@ import { Surah, Verse, VerseAnalysis, QuranData, QuranSurah, QuranVerse } from '
 
 /**
  * Data fetching utilities for Quran data
- * All data is served from static JSON files in /public/data
+ * Data is served directly from public R2 bucket
+ * Assessment requests go to the Worker API
  */
 
-const DATA_BASE_URL = '/data'
+// Public R2 URL for data (required - no fallback to ensure env is configured)
+const DATA_BASE_URL = process.env.NEXT_PUBLIC_R2_URL
+if (!DATA_BASE_URL) {
+  throw new Error('NEXT_PUBLIC_R2_URL environment variable is required')
+}
 
 // Analysis manifest type
 export interface AnalysisManifest {
@@ -180,7 +185,7 @@ export function getFeaturedVerses(): { id: string; surahName: string }[] {
 }
 
 /**
- * Fetch the analysis manifest (list of verses with analysis available)
+ * Fetch the uploaded manifest (list of verses with analysis available in R2)
  * This is used by the surah page to know which verses are clickable
  */
 export async function getAnalysisManifest(): Promise<AnalysisManifest> {
@@ -189,7 +194,7 @@ export async function getAnalysisManifest(): Promise<AnalysisManifest> {
   }
 
   try {
-    const response = await fetch(`${DATA_BASE_URL}/analysis/manifest.json`)
+    const response = await fetch(`${DATA_BASE_URL}/uploaded.json`)
     if (!response.ok) {
       return { verses: [], generatedAt: '' }
     }

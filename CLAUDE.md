@@ -4,83 +4,131 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Qalam is a stateless Quran translation learning application. Users practice translating Quranic verses and receive AI-powered feedback. The app has no user authentication or database—all data is served from static JSON files.
+Qalam is a stateless Quran translation learning application. Users practice translating Quranic verses and receive AI-powered feedback. The app has no user authentication or database—all data is served from Cloudflare R2.
+
+## Architecture
+
+```
+┌─────────────────────────┐     ┌─────────────────────────┐
+│   CLOUDFLARE PAGES      │     │   CLOUDFLARE WORKER     │
+│   (Static App Only)     │     │   (qalam-api)           │
+├─────────────────────────┤     ├─────────────────────────┤
+│ Next.js static export   │     │ POST /assess only       │
+│ HTML/JS/CSS/fonts       │────▶│ KV caching              │
+│ No data files           │     │ LLM API calls           │
+│ < 500 files             │     │ (minimal footprint)     │
+└─────────────────────────┘     └─────────────────────────┘
+          │                              │
+          │                              ▼
+          │                     ┌─────────────────────────┐
+          │                     │   CLOUDFLARE R2         │
+          │                     │   (Public Bucket)       │
+          │                     ├─────────────────────────┤
+          │                     │ quran.json              │
+          │                     │ surahs.json             │
+          └────────────────────▶│ analysis/*.json (1000+) │
+                                └─────────────────────────┘
+                                cdn.versemadeeasy.com
+```
+
+**Key insight:** Data is served directly from public R2 (no Worker hop). The Worker only handles `/assess` requests that need LLM + KV caching.
 
 ## Common Commands
 
 ```bash
-npm run dev              # Start development server (localhost:3000)
-npm run build            # Build for production
+# Development
+npm run dev              # Start Next.js dev server (localhost:3000)
+npm run worker:dev       # Start Worker locally
+npm run build            # Build static export to out/
+npm run start            # Serve static build locally
 npm run lint             # Run ESLint
+
+# Data Management
 npm run build:quran      # Build quran.json from Tanzil.net source files
-npm run seed:analysis    # Generate verse analysis via Ollama (requires quran.json)
+npm run seed:analysis    # Generate verse analysis via Ollama
+npm run upload:r2        # Upload all data files to R2
+npm run data:status      # Show analysis generation progress
+
+# Deployment
+npm run worker:deploy    # Deploy Worker to Cloudflare
 ```
 
-## Architecture
-
-### Tech Stack
-- **Framework**: Next.js 16 with App Router
+## Tech Stack
+- **Frontend**: Next.js 16 with App Router (static export)
+- **API**: Cloudflare Worker
+- **Storage**: Cloudflare R2 (data files), KV (assessment cache)
 - **Language**: TypeScript (strict mode)
-- **Styling**: Tailwind CSS with custom Islamic-themed colors (teal primary, gold accents)
-- **Fonts**: Amiri for Arabic text (RTL), system fonts for UI
+- **Styling**: Tailwind CSS with custom Islamic-themed colors
 
-### Key Directories
+## Key Directories
 - `src/app/` - Next.js App Router pages
-- `src/components/ui/` - Reusable UI components (Button, Card, Input, Alert, Spinner)
+- `src/components/ui/` - Reusable UI components
 - `src/components/` - Feature components (Navbar, VerseDisplay, FeedbackCard)
-- `src/lib/data.ts` - Data fetching utilities for static JSON
-- `src/types/` - TypeScript definitions for linguistic analysis, verses, feedback
-- `public/data/` - Static JSON data (surahs, verses, pre-computed analysis)
-- `scripts/` - Utility scripts including Ollama-based analysis seeder
+- `src/lib/data.ts` - Data fetching utilities (fetches from public R2)
+- `src/types/` - TypeScript definitions
+- `worker/` - Cloudflare Worker (assessment API only)
+- `scripts/` - Utility scripts (R2 upload, analysis seeding)
+- `public/data/` - Local data files (source for R2)
 
-### Data Architecture
+## Data Architecture
 
 **Source Data (human-verified, from Tanzil.net):**
-- `public/data/quran.json` - Complete Quran with Arabic text + translations
-- Built from source files in `public/data/`:
-  - `quran-simple.txt` - Arabic text
-  - `en.sahih.txt` - Sahih International English translation
-  - `en.transliteration.txt` - Transliteration
-  - `surahs.json` - Surah metadata
-- Run `npm run build:quran` to regenerate
-- To add new translations: edit `TRANSLATIONS` array in `scripts/build-quran-json.ts`
+- `quran.json` - Complete Quran with Arabic text + translations
+- `surahs.json` - Surah metadata
+- Built from source files: `quran-simple.txt`, `en.sahih.txt`, `en.transliteration.txt`
 
 **Analysis Data (LLM-generated):**
-- `public/data/analysis/{surah}-{verse}.json` - Word-by-word linguistic analysis
-- Generated by seed script using Ollama/LM Studio
-- References verse text from quran.json (never duplicates source)
+- `analysis/{surah}-{verse}.json` - Word-by-word linguistic analysis
+- Generated locally with `npm run seed:analysis`
+- Synced to R2 with `npm run upload:r2`
 
-**Key Principle:** Arabic text and translations are NEVER generated by LLM. Only linguistic analysis is AI-generated. This ensures Quranic text accuracy.
+**Key Principle:** Arabic text and translations are NEVER generated by LLM. Only linguistic analysis is AI-generated.
 
-### Data Flow
-1. `quran.json` is the source of truth for all verse text (Arabic + translations)
-2. `src/lib/data.ts` provides fetch utilities with client-side caching
-3. Analysis files contain only linguistic breakdowns, referencing quran.json for verse text
-4. Verse IDs use "surah:verse" format (e.g., "1:5" for Surah 1, Verse 5)
+## Worker API Endpoints
 
-### Important Types (src/types/index.ts)
-- `QuranData` - Complete quran.json structure (meta + surahs array)
-- `QuranSurah` - Surah with verses from quran.json
-- `QuranVerse` - Verse with arabic + translations object (en.sahih, en.transliteration)
-- `Surah` - Surah metadata (id, name, nameArabic, meaning, verseCount, revelationType)
-- `VerseAnalysis` - Complete word-by-word linguistic analysis (roots, grammar, morphology)
-- `WordAnalysis` - Detailed breakdown of each word
-- `AttemptFeedback` - LLM evaluation results (score, correct/missed elements, suggestions)
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/assess` | POST | Translation assessment (LLM + KV cache) |
+| `/list-bucket` | GET | List files in R2 bucket (for sync & future UI features) |
+| `/health` | GET | Health check |
 
-### LLM Integration
-- Uses Ollama locally for verse analysis generation
-- Environment variables: `OLLAMA_BASE_URL` (default: http://localhost:11434), `OLLAMA_MODEL` (default: llama3.2, recommended: qwen2.5:72b)
-- Seed script at `scripts/seed-analysis.ts` generates analysis files with resume capability
+**Note:** Data is served directly from public R2 at `https://cdn.versemadeeasy.com`
 
-### Design System
-- Primary color: Teal (#14b8a6) - Islamic aesthetic
-- Secondary color: Gold (#f59e0b) - accents
-- Arabic text uses `font-arabic` class with custom `text-arabic-*` sizes
-- RTL support via `dir="rtl"` and `lang="ar"` attributes
+## Environment Variables
 
-## Development Notes
+Frontend (`.env`):
+- `NEXT_PUBLIC_R2_URL` - Public R2 URL for data (default: https://cdn.versemadeeasy.com)
+- `NEXT_PUBLIC_API_URL` - Worker API URL for assessment (default: https://qalam-api.foyzul.workers.dev)
 
-- Path alias: `@/*` maps to `./src/*`
-- Arabic text sourced from Tanzil.net (quran-simple edition)
-- All 114 surahs with 6236 verses available in quran.json
-- Analysis files are generated incrementally via seed script
+Worker (via `wrangler secret`):
+- `TOGETHER_API_KEY` - Together.ai API key for LLM
+
+## Development Workflow
+
+1. **Local Development**:
+   ```bash
+   npm run worker:dev   # Start worker locally
+   npm run dev          # Start Next.js dev server
+   ```
+
+2. **Generate Analysis**:
+   ```bash
+   npm run seed:analysis  # Generate analysis files locally
+   npm run upload:r2      # Upload to R2 (no app redeploy needed!)
+   ```
+
+3. **Deploy**:
+   - Push to main branch triggers CI/CD
+   - Or manually: `npm run worker:deploy` and push to Cloudflare Pages
+
+## Important Types
+- `QuranData` - Complete quran.json structure
+- `QuranVerse` - Verse with arabic + translations
+- `VerseAnalysis` - Word-by-word linguistic analysis
+- `AttemptFeedback` - LLM evaluation results
+
+## Design System
+- Primary: Teal (#14b8a6) - Islamic aesthetic
+- Secondary: Gold (#f59e0b) - accents
+- Arabic text: `font-arabic` class with `text-arabic-*` sizes
+- RTL support: `dir="rtl"` and `lang="ar"` attributes

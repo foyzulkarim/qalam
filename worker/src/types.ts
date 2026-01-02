@@ -7,8 +7,11 @@ export interface Env {
   // KV namespace for caching assessments
   ASSESSMENT_CACHE: KVNamespace
 
-  // Static data URL (defaults to production, override for local dev)
-  DATA_BASE_URL?: string
+  // R2 bucket for data storage (used for listing files)
+  DATA_BUCKET: R2Bucket
+
+  // Public R2 URL for fetching data (Worker needs this for assessment context)
+  R2_PUBLIC_URL: string
 
   // LLM Configuration
   ASSESSMENT_BACKEND: string // 'together' | 'vllm' | 'ollama'

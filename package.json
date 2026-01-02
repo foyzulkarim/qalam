@@ -1,17 +1,20 @@
 {
   "name": "qalam",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "npx serve out -p 3000",
     "lint": "eslint src/",
     "build:quran": "tsx scripts/build-quran-json.ts",
     "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts",
+    "upload:r2": "tsx scripts/upload-to-r2.ts",
+    "data:status": "tsx scripts/data-status.ts",
     "worker:dev": "cd worker && npm run dev",
     "worker:dev:remote": "cd worker && npm run dev:remote",
-    "worker:deploy": "cd worker && npm run deploy"
+    "worker:deploy": "cd worker && npm run deploy",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "clsx": "^2.1.0",
