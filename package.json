@@ -14,6 +14,8 @@
     "worker:dev": "cd worker && npm run dev",
     "worker:dev:remote": "cd worker && npm run dev:remote",
     "worker:deploy": "cd worker && npm run deploy",
+    "pages:deploy": "npm run build && npx wrangler pages deploy out --project-name=qalam",
+    "deploy": "npm run worker:deploy && npm run pages:deploy",
     "test:e2e": "playwright test"
   },
   "dependencies": {

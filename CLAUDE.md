@@ -53,7 +53,9 @@ npm run upload:r2        # Upload all data files to R2
 npm run data:status      # Show analysis generation progress
 
 # Deployment
-npm run worker:deploy    # Deploy Worker to Cloudflare
+npm run pages:deploy     # Build & deploy Next.js to Cloudflare Pages
+npm run worker:deploy    # Deploy Worker API to Cloudflare
+npm run deploy           # Deploy both (Worker + Pages)
 ```
 
 ## Tech Stack
