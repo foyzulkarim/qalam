@@ -68,8 +68,12 @@ export default function VersePracticeClient() {
   // Read URL params directly from browser URL (not server params)
   // This is required for SPA routing where all verse URLs are rewritten to /browse/surah/1/1/
   const urlParams = useParams<{ id: string; verse: string }>()
-  const surahId = parseInt(urlParams.id, 10)
-  const verseNum = parseInt(urlParams.verse, 10)
+  const surahId = parseInt(urlParams.id || '1', 10)
+  const verseNum = parseInt(urlParams.verse || '1', 10)
+
+  // Early return if params are invalid (shouldn't happen in normal usage)
+  const paramsValid = !isNaN(surahId) && !isNaN(verseNum) && surahId > 0 && verseNum > 0
+
   const verseId = `${surahId}:${verseNum}`
 
   const router = useRouter()
@@ -266,7 +270,8 @@ export default function VersePracticeClient() {
     }
   }
 
-  if (loading) {
+  // Show loading state while params hydrate or if invalid
+  if (!paramsValid || loading) {
     return (
       <div className="min-h-screen bg-gray-50">
         <Navbar />
