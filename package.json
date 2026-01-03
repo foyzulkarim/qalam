@@ -3,10 +3,10 @@
   "version": "0.3.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "npx serve out -p 3000",
-    "lint": "eslint src/",
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "npx serve client/dist -p 3000",
+    "lint": "cd client && npm run lint",
     "build:quran": "tsx scripts/build-quran-json.ts",
     "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts",
     "upload:r2": "tsx scripts/upload-to-r2.ts",
@@ -14,9 +14,12 @@
     "worker:dev": "cd worker && npm run dev",
     "worker:dev:remote": "cd worker && npm run dev:remote",
     "worker:deploy": "cd worker && npm run deploy",
-    "pages:deploy": "npm run build && npx wrangler pages deploy out --project-name=qalam",
+    "pages:deploy": "npm run build && npx wrangler pages deploy client/dist --project-name=qalam",
     "deploy": "npm run worker:deploy && npm run pages:deploy",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "client:install": "cd client && npm install",
+    "next:dev": "next dev",
+    "next:build": "next build"
   },
   "dependencies": {
     "clsx": "^2.1.0",
