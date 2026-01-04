@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
-import { useRouter, useParams } from 'next/navigation'
+import { useRouter } from 'next/navigation'
 import { Button, Card, CardHeader, CardTitle, CardContent, Textarea, Alert, Spinner } from '@/components/ui'
 import { VerseDisplay } from '@/components/VerseDisplay'
 import { FeedbackCard } from '@/components/FeedbackCard'
@@ -64,19 +64,45 @@ interface VerseData {
   totalVerses: number
 }
 
+// Parse surah and verse from browser URL pathname
+// This is required for SPA routing where Cloudflare rewrites all verse URLs to /browse/surah/1/1/
+// useParams() doesn't work because it reads from Next.js router state (initialized from static page)
+function parseVerseFromUrl(): { surahId: number; verseNum: number } {
+  if (typeof window === 'undefined') {
+    return { surahId: 1, verseNum: 1 }
+  }
+
+  const pathname = window.location.pathname
+  // Match /browse/surah/{surahId}/{verseNum} with optional trailing slash
+  const match = pathname.match(/\/browse\/surah\/(\d+)\/(\d+)\/?$/)
+
+  if (match) {
+    return {
+      surahId: parseInt(match[1], 10),
+      verseNum: parseInt(match[2], 10)
+    }
+  }
+
+  return { surahId: 1, verseNum: 1 }
+}
+
 export default function VersePracticeClient() {
-  // Read URL params directly from browser URL (not server params)
-  // This is required for SPA routing where all verse URLs are rewritten to /browse/surah/1/1/
-  const urlParams = useParams<{ id: string; verse: string }>()
-  const surahId = parseInt(urlParams.id || '1', 10)
-  const verseNum = parseInt(urlParams.verse || '1', 10)
+  const router = useRouter()
+
+  // Parse URL params from browser URL (not Next.js router state)
+  // This must be in state to handle client-side hydration correctly
+  const [urlParams, setUrlParams] = useState({ surahId: 1, verseNum: 1 })
+
+  useEffect(() => {
+    setUrlParams(parseVerseFromUrl())
+  }, [])
+
+  const { surahId, verseNum } = urlParams
 
   // Early return if params are invalid (shouldn't happen in normal usage)
   const paramsValid = !isNaN(surahId) && !isNaN(verseNum) && surahId > 0 && verseNum > 0
 
   const verseId = `${surahId}:${verseNum}`
-
-  const router = useRouter()
 
   const [verseData, setVerseData] = useState<VerseData | null>(null)
   const [loading, setLoading] = useState(true)
