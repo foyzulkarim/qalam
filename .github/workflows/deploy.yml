@@ -1,8 +1,20 @@
 name: Deploy
 
 on:
-  push:
-    branches: [main]
+  # Manual deployment trigger
+  workflow_dispatch:
+    inputs:
+      deploy_worker:
+        description: 'Deploy Worker'
+        required: false
+        type: boolean
+        default: false
+      deploy_pages:
+        description: 'Deploy Pages'
+        required: false
+        type: boolean
+        default: true
+  # Build/lint on PRs (no deploy)
   pull_request:
     branches: [main]
 
@@ -41,10 +53,10 @@ jobs:
           path: out/
           retention-days: 1
 
-  # Deploy Worker (only on main branch push)
+  # Deploy Worker (manual trigger only)
   deploy-worker:
     needs: build
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    if: github.event_name == 'workflow_dispatch' && inputs.deploy_worker
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -64,10 +76,10 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
-  # Deploy Pages (only on main branch push)
+  # Deploy Pages (manual trigger only)
   deploy-pages:
     needs: build
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    if: github.event_name == 'workflow_dispatch' && inputs.deploy_pages
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
