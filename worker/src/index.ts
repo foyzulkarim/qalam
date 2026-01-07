@@ -92,6 +92,33 @@ async function handleListBucket(url: URL, env: Env): Promise<Response> {
 }
 
 /**
+ * Check if origin matches an allowed pattern
+ * Supports exact matches and wildcard subdomains (e.g., *.pages.dev)
+ */
+function isOriginAllowed(origin: string, allowedPatterns: string[]): boolean {
+  for (const pattern of allowedPatterns) {
+    if (pattern === '*') return true
+    if (pattern === origin) return true
+
+    // Support wildcard subdomain matching (e.g., *.pages.dev)
+    if (pattern.startsWith('*.')) {
+      const domain = pattern.slice(2) // Remove "*."
+      // Match: origin ends with the domain AND has a subdomain prefix
+      // e.g., "https://abc-qalam.pages.dev" matches "*.pages.dev"
+      try {
+        const url = new URL(origin)
+        if (url.hostname.endsWith(domain) && url.hostname !== domain) {
+          return true
+        }
+      } catch {
+        // Invalid URL, skip
+      }
+    }
+  }
+  return false
+}
+
+/**
  * Add CORS headers to response
  */
 function handleCors(request: Request, env: Env, response: Response): Response {
@@ -103,21 +130,23 @@ function handleCors(request: Request, env: Env, response: Response): Response {
     .map(o => o.trim())
     .filter(Boolean)
 
-  // Default allowed origins
+  // Default allowed origins (includes wildcard for Cloudflare Pages preview deployments)
   const defaultOrigins = [
     'http://localhost:3000',
     'http://localhost:8788',
     'https://qalam.pages.dev',
+    'https://*.pages.dev', // Cloudflare Pages preview deployments
   ]
 
   const allAllowed = [...defaultOrigins, ...allowedOrigins]
 
-  // Check if origin is allowed
-  const isAllowed = allAllowed.includes(origin) || allAllowed.includes('*')
+  // Check if origin is allowed (supports wildcards)
+  const isAllowed = isOriginAllowed(origin, allAllowed)
 
   // Clone response and add headers
   const newHeaders = new Headers(response.headers)
-  newHeaders.set('Access-Control-Allow-Origin', isAllowed ? origin : defaultOrigins[0])
+  // Return the actual origin if allowed (required for credentials and specific origin matching)
+  newHeaders.set('Access-Control-Allow-Origin', isAllowed ? origin : 'https://qalam.pages.dev')
   newHeaders.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
   newHeaders.set('Access-Control-Allow-Headers', 'Content-Type')
   newHeaders.set('Access-Control-Max-Age', '86400')
